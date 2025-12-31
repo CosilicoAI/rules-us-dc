@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-627.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-627.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_627_01">
+        <akn:num>1-627.01</akn:num>
+        <akn:heading>Policy.</akn:heading>
+<akn:subsection eId="subsec_1-627_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The District government recognizes that intergovernmental and private sector cooperation are essential factors in resolving problems affecting the District and that the temporary assignment of personnel between and among governmental agencies, at the same or different levels of government, private sector organizations, and institutions of higher education, is a significant factor in achieving such cooperation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-627_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any agency is authorized to participate in a program of personnel interchange with private sector organizations, institutions of higher education, or agencies of federal, state, and local governments; provided, however, that the period of original assignment cannot exceed 2 years, but with the concurrence of the agencies or organizations and the employee involved, the assignment period may be extended in increments of one year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

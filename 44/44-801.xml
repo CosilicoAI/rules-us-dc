@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-801"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-801/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_801">
+        <akn:num>44-801</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_44-801_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Group practice” means a collection of health professionals that provides health-care services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-801_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Health-care facility or agency” means a facility, agency, or other organizational entity as defined in § 44-501, or the Fire and Emergency Medical Services Department to the extent that it is operating as a pre-hospital medical care provider.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-801_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Health professional” means a person required to be licensed or permitted to provide health-care services in the District of Columbia under Chapter 12 of Title 3. The term “health professional” also includes employees of the Fire and Emergency Medical Services Department who provide emergency medical services in accordance with approved medical protocols or under the direction of a physician licensed in accordance with Chapter 12 of Title 3.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-801_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Health professional association” means a membership organization of health professionals in the District of Columbia having as a purpose the maintenance of high professional standards within the profession practiced by its members.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-801_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Peer review” means the procedure by which health-care facilities and agencies, group practices, and health professional associations monitor, evaluate, and take actions to improve the delivery, quality, and efficiency of services within their respective facilities, agencies, and professions, including recommendations, consideration of recommendations, actions with regard thereto, and implementation of the actions. The term “peer review” includes, but is not limited to, the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-801_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Peer review body” means a committee, board, hearing panel or officer, reviewing panel or officer or governing board of a health-care facility or agency, group practice or health professional association that engages in peer review, the health-care facility, agency, group practice or health professional association which establishes or authorizes or is governed by it, and a director, officer, employee, or member of such an entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-801_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Primary health record” means the record of continuing care maintained by a health professional, group practice, or health-care facility or agency containing all diagnostic and therapeutic services rendered to an individual patient by that health professional, facility, or agency.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

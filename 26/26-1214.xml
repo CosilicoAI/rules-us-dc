@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1214"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1214/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1214">
+        <akn:num>26-1214</akn:num>
+        <akn:heading>Cooperative agreements and examinations.</akn:heading>
+<akn:subsection eId="subsec_26-1214_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner] shall examine all nonfederal District associations controlled by an association or savings and loan holding company and all District branches controlled by an association or savings and loan holding company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1214_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner] may enter into cooperative agreements with any other savings and loan regulatory agency to facilitate the regulation and examination of any savings and loan association or savings and loan holding company doing business in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1214_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner] may accept a report of an examination or other records from any other regulatory unit instead of conducting its own examinations of interstate associations or associations controlled by savings and loan holding companies located in other jurisdictions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1214_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner] may take any action jointly with any other regulatory agency having concurrent jurisdiction over savings and loan associations and savings and loan holding companies in the District or may take action independently to carry out the responsibilities of the Superintendent [Commissioner].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

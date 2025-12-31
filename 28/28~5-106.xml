@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:5-106"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:5-106/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:5_106">
+        <akn:num>28:5-106</akn:num>
+        <akn:heading>Issuance, amendment, cancellation, and duration.</akn:heading>
+<akn:subsection eId="subsec_28:5-106_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A letter of credit is issued and becomes enforceable according to its terms against the issuer when the issuer sends or otherwise transmits it to the person requested to advise or to the beneficiary. A letter of credit is revocable only if it so provides.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:5-106_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>After a letter of credit is issued, rights and obligations of a beneficiary, applicant, confirmer, and issuer are not affected by an amendment or cancellation to which that person has not consented except to the extent the letter of credit provides that it is revocable or that the issuer may amend or cancel the letter of credit without that consent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:5-106_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If there is no stated expiration date or other provision that determines its duration, a letter of credit expires one year after its stated date of issuance or, if none is stated, after the date on which it is issued.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:5-106_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A letter of credit that states that it is perpetual expires 5 years after its stated date of issuance, or if none is stated, after the date on which it is issued.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

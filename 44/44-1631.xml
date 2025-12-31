@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1631"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1631/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1631">
+        <akn:num>44-1631</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_44-1631_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Charitable purpose” means the relief of poverty, the advancement of education or religion, the promotion of health, the promotion of a governmental purpose, or any other purpose the achievement of which is beneficial to the community.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1631_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Endowment fund” means an institutional fund or part thereof that, under the terms of a gift instrument, is not wholly expendable by the institution on a current basis. The term “endowment fund” does not include assets that an institution designates as an endowment fund for its own use.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1631_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Gift instrument” means a record or records, including an institutional solicitation, under which property is granted to, transferred to, or held by an institution as an institutional fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1631_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Institution” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1631_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Institutional fund” means a fund held by an institution exclusively for charitable purposes. The term “institutional fund” does not include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1631_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Person” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1631_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Program-related asset” means an asset held by an institution primarily to accomplish a charitable purpose of the institution and not primarily for investment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1631_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

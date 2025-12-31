@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1339"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1339/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1339">
+        <akn:num>31-1339</akn:num>
+        <akn:heading>Secured creditor’s claims.</akn:heading>
+<akn:subsection eId="subsec_31-1339_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The value of any security held by a secured creditor shall be determined in one of the following ways, as the court may direct:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1339_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The determination shall be under the supervision and control of the court with due regard for the recommendation of the liquidator. The amount so determined shall be credited upon the secured claim, and any deficiency shall be treated as an unsecured claim. If the claimant shall surrender his or her security to the liquidator, the entire claim shall be allowed as if unsecured.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

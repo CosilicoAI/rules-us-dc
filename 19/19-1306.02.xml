@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1306.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1306.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1306_02">
+        <akn:num>19-1306.02</akn:num>
+        <akn:heading>Revocation or amendment of revocable trust.</akn:heading>
+<akn:subsection eId="subsec_19-1306_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless the terms of a trust expressly provide that the trust is irrevocable, the settlor may revoke or amend the trust. This subsection does not apply to a trust created under an instrument executed before the effective date of this chapter [March 10, 2004].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1306_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a revocable trust is created or funded by more than one settlor:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1306_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The settlor may revoke or amend a revocable trust:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1306_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon revocation of a revocable trust, the trustee shall deliver the trust property as the settlor directs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1306_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A settlor’s powers with respect to revocation, amendment, or distribution of trust property may be exercised by an agent under a power of attorney only to the extent expressly authorized by the terms of the trust or the power.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1306_02_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A conservator of the settlor or, if no conservator has been appointed, a guardian of the settlor may exercise a settlor’s powers with respect to revocation, amendment, or distribution of trust property only with the approval of the court supervising the conservatorship or guardianship.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1306_02_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A trustee who does not know that a trust has been revoked or amended is not liable to the settlor or settlor’s successors in interest for distributions made and other actions taken on the assumption that the trust had not been amended or revoked.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

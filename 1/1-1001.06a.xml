@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1001.06a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1001.06a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1001_06a">
+        <akn:num>1-1001.06a</akn:num>
+        <akn:heading>Establishment of the Election Reform Fund.</akn:heading>
+<akn:subsection eId="subsec_1-1001_06a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a nonlapsing fund the Election Reform Fund (“Fund”), which shall be administered by the Board and shall be used for the purpose of implementing the Omnibus Election Reform Amendment Act of 2009 [D.C. Law 18-103]. On or about October 1, 2009, the Chief Financial Officer shall deposit $300,000 into the Fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1001_06a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All funds deposited into the Fund, and any interest earned on those funds, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (a) of this section without regard to fiscal year limitation, subject to authorization by Congress.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1001_06a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

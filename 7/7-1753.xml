@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1753"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1753/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1753">
+        <akn:num>7-1753</akn:num>
+        <akn:heading>Test method and performance standard.</akn:heading>
+<akn:subsection eId="subsec_7-1753_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The test method and performance standard for cigarettes sold or offered for sale in the District of Columbia shall include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1753_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1753_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each cigarette listed in a certification submitted pursuant to § 7-1754 that uses lowered permeability bands in the cigarette paper to achieve compliance with the performance standard set forth in this section shall have at least 2 nominally identical bands on the paper surrounding the tobacco column. At least one complete band shall be located at least 15 millimeters from the lighting end of the cigarette. For cigarettes on which the bands are positioned by design, there shall be at least 2 bands fully located at least 15 millimeters from the lighting end and 10 millimeters from the filter end of the tobacco column, or 10 millimeters from the labeled end of the tobacco column for non-filtered cigarettes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1313"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1313/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1313">
+        <akn:num>31-1313</akn:num>
+        <akn:heading>Actions by and against the rehabilitator.</akn:heading>
+<akn:subsection eId="subsec_31-1313_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any court in the District before which any action or proceeding in which the insurer is a party, or is obligated to defend a party, is pending when a rehabilitation order against the insurer is entered shall stay the action or proceeding for 90 days and any additional time necessary for the rehabilitator to obtain proper representation and prepare for further proceedings. The rehabilitator shall take any action respecting the pending litigation deemed necessary in the interests of, justice and for the protection of creditors, policyholders, and the public. The rehabilitator shall immediately consider all litigation pending outside the District and shall petition the court having jurisdiction over that litigation for a stay whenever necessary to protect the estate of the insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1313_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No statute of limitations or defense of laches shall run with respect to any action by or against an insurer between the filing of a petition for appointment of a rehabilitator for that insurer and the order granting or denying that petition. Any action against the insurer that might have been commenced when the petition was filed may be commenced for at least 60 days after the order of rehabilitation is entered or the petition is denied. The rehabilitator may, upon an order for rehabilitation, within 1 year or any other longer time as applicable law may permit, institute an action or proceeding on behalf of the insurer upon any cause of action against which the period of limitation fixed by applicable law has not expired at the time of the filing of the petition upon which the order is entered.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1313_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any guaranty association or foreign guaranty association covering life or health insurance or annuities shall have standing to appear in any court proceeding concerning the rehabilitation of a life or health insurer if the association is or may become liable to act as a result of the rehabilitation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

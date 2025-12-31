@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-406"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-406/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_406">
+        <akn:num>28:3-406</akn:num>
+        <akn:heading>Negligence contributing to forged signature or alteration of instrument.</akn:heading>
+<akn:subsection eId="subsec_28:3-406_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person whose failure to exercise ordinary care substantially contributes to an alteration of an instrument or to the making of a forged signature on an instrument is precluded from asserting the alteration or the forgery against a person who, in good faith, pays the instrument or takes it for value or for collection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-406_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Under subsection (a) of this section, if the person asserting the preclusion fails to exercise ordinary care in paying or taking the instrument and that failure substantially contributes to loss, the loss is allocated between the person precluded and the person asserting the preclusion according to the extent to which the failure of each to exercise ordinary care contributed to the loss.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-406_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Under subsection (a) of this section, the burden of proving failure to exercise ordinary care is on the person asserting the preclusion. Under subsection (b) of this section, the burden of proving failure to exercise ordinary care is on the person precluded.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

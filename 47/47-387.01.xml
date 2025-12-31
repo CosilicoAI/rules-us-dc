@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-387.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-387.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_387_01">
+        <akn:num>47-387.01</akn:num>
+        <akn:heading>Certification by the CFO of minimum 5% accumulated general fund balance.</akn:heading>
+<akn:subsection eId="subsec_47-387_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>If the certification demonstrates that the accumulated general fund balance is less than 5% of the general fund operating budget for the current fiscal year, the certification shall be published in the D.C. Register along with a notice that any provisions of this title affected by the certification shall be inapplicable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-387_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>If the certification demonstrates that the nominal GDP growth reflected in the CBO winter report published in January of that fiscal year is less than or equal to 3.5% or that the real GDP growth reflected in the same report is less than or equal to 1.7% then the certification shall be published in the D.C. Register along with a notice that any provisions of this title affected by the certification shall be inapplicable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-387_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The notice published in the D.C. Register shall specify the particular provisions of this subchapter that shall be inapplicable.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

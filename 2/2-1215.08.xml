@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1215.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1215.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1215_08">
+        <akn:num>2-1215.08</akn:num>
+        <akn:heading>Bylaws and articles of incorporation; amendments.</akn:heading>
+<akn:subsection eId="subsec_2-1215_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board of each BID corporation shall govern the BID corporation in accordance with the articles of incorporation and bylaws which shall be the articles of incorporation and bylaws of the nonprofit corporation that submitted the BID application. The members shall have the opportunity to be present and vote to adopt amendments to the initial bylaws at a meeting to be held within 120 days of the registration of the BID by the Mayor; provided, that members shall follow the procedures for offering such amendments as provided in the BID’s articles of incorporation or bylaws. Bylaws of the BID corporation shall set forth the powers and duties of the Board and its officers, the procedures for removal and replacement of Board members and officers, the method of determining BID taxes consistent with this subchapter or other Council authorization, the calling of meetings and the requirements for a quorum, ethics and conflict of interest standards, and such other information as is deemed advisable. In all cases the bylaws shall be consistent with the requirements imposed on nonprofit corporations under the applicable laws of the District, the provisions of this subchapter, and any regulations adopted pursuant to this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1215_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

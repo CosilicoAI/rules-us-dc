@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1817.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1817.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1817_04">
+        <akn:num>47-1817.04</akn:num>
+        <akn:heading>Tax credit to Qualified High Technology Companies for retraining costs for qualified disadvantaged employees.</akn:heading>
+<akn:subsection eId="subsec_47-1817_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1817_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For taxable years beginning after December 31, 2000, a Qualified High Technology Company shall be allowed a credit against taxes imposed by § 47-1817.06 for expenditures paid or incurred during the taxable year for retraining of a qualified disadvantaged employee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1817_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Qualified disadvantaged employee retraining expenditures which are eligible for the tax credit are:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1817_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The credit claimed under this section shall be limited to $20,000 for each qualified disadvantaged employee during the first 18 months of employment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1817_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the amount of the credit allowable under this section exceeds the tax otherwise due from a Qualified High Technology Company, the unused amount of the credit may be:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

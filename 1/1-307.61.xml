@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.61"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.61/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_307_61">
+        <akn:num>1-307.61</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_1-307_61_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Account holder” means a person who is the owner of an opportunity account.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_61_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Administering organization” means an entity that is approved by the Mayor to implement and administer an opportunity account program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_61_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“District of Columbia median income” means the most recent measurement of median income for the District of Columbia published by the United States Department of Housing and Urban Development.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_61_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Financial institution” means a bank, trust company, savings bank, credit union, or savings and loan association with an office in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_61_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Medical emergency” means a debilitating or life-threatening illness.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_61_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Opportunity account” means a special savings account established under this part.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_61_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Opportunity Account Office” means the special savings account office established under § 1-307.62.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_61_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Opportunity account program” means a program of an administering organization to administer and oversee opportunity accounts and to encourage the establishment of opportunity accounts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_61_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Opportunity account reserve fund” means the fund created by an administering organization for the purposes of funding the costs incurred in the administration of an opportunity account program and for providing matching funds for opportunity accounts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_61_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Retirement” means the period commencing upon the eligibility of a person for Social Security benefits.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

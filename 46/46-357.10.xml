@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-357.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-357.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_357_10">
+        <akn:num>46-357.10</akn:num>
+        <akn:heading>Foreign support agreement.</akn:heading>
+<akn:subsection eId="subsec_46-357_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsections (c) and (d) of this section, a tribunal of the District shall recognize and enforce a foreign support agreement registered in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-357_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An application or direct request for recognition and enforcement of a foreign support agreement must be accompanied by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-357_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A tribunal of the District may vacate the registration of a foreign support agreement only if, acting on its own motion, the tribunal finds that recognition and enforcement would be manifestly incompatible with public policy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-357_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In a contest of a foreign support agreement, a tribunal of the District may refuse recognition and enforcement of the agreement if it finds:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-357_10_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A proceeding for recognition and enforcement of a foreign support agreement must be suspended during the pendency of a challenge to or appeal of the agreement before a tribunal of another state or a foreign country.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

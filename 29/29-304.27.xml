@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.27"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.27/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_304_27">
+        <akn:num>29-304.27</akn:num>
+        <akn:heading>Restriction on transfer of shares and other securities.</akn:heading>
+<akn:subsection eId="subsec_29-304_27_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The articles of incorporation, bylaws, an agreement among shareholders, or an agreement between shareholders and the corporation may impose restrictions on the transfer or registration of transfer of shares of the corporation. A restriction shall not affect shares issued before the restriction was adopted unless the holders of the shares are parties to the restriction agreement or voted in favor of the restriction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_27_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A restriction on the transfer or registration of transfer of shares shall be valid and enforceable against the holder or a transferee of the holder if the restriction is authorized by this section and its existence is noted conspicuously on the front or back of the certificate or is contained in the information statement required by § 29-304.26(b). Unless so noted or contained, a restriction shall not be enforceable against a person without knowledge of the restriction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_27_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A restriction on the transfer or registration of transfer of shares is authorized:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_27_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A restriction on the transfer or registration of transfer of shares may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_27_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “shares” shall include a security convertible into or carrying a right to subscribe for or acquire shares.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

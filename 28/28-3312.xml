@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3312"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3312/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3312">
+        <akn:num>28-3312</akn:num>
+        <akn:heading>Unlawful practices.</akn:heading>
+<akn:subsection eId="subsec_28-3312_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>misrepresent as to a material fact;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3312_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>fail to state a material fact;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3312_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>disparage the services or business of another by false or misleading representations of material facts;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3312_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>advertise or offer services without the intent to provide them or without the intent to provide them as advertised or offered;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3312_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>include in the loan or financial transaction agreement an acceleration clause under which any part or all of the unpaid balance of the loan or financial transaction not yet matured may be declared due and payable for any reason other than due to default by the borrower in the payment or in accordance with another term of the agreement; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3312_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>include in the loan or financial transaction agreement any provision by which the borrower waives any right accruing to him under the provisions of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-547"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-547/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_547">
+        <akn:num>21-547</akn:num>
+        <akn:heading>Judicial determination of petition filed under section 21-546; order; psychiatrists and qualified psychologists as witnesses.</akn:heading>
+<akn:subsection eId="subsec_21-547_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In considering a petition filed under section 21-546, the court shall consider the testimony of the psychiatrists or qualified psychologists who participated in the examination of the committed person, and the reports of the psychiatrists or qualified psychologists accompanying the petition. After considering the testimony and reports, the court shall either:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-547_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A psychiatrist or qualified psychologist participating in the examination of the committed person shall be a competent and compellable witness at any trial or hearing held pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

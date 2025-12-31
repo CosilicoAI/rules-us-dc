@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2304"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2304/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2304">
+        <akn:num>16-2304</akn:num>
+        <akn:heading>Right to counsel; party status.</akn:heading>
+<akn:subsection eId="subsec_16-2304_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A child alleged to be delinquent or in need of supervision is entitled to be represented by counsel at all critical stages of Division proceedings, including the time of admission or denial of allegations in the petition and all subsequent stages. If the child and his parent, guardian, or custodian are financially unable to obtain adequate representation, the child shall be entitled to have counsel appointed for him in accordance with rules established by the Superior Court. In its discretion, the Division may appoint counsel for the child over the objection of the child, his parent, guardian, or other custodian.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2304_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2304_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Prior to appointment of counsel under this section, the eligibility of a child or other party to be represented by counsel shall be determined by the Division pursuant to rules established by the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2304_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>There are authorized to be appropriated such funds as may be necessary for the administration of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

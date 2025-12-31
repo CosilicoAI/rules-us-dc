@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-904"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-904/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_904">
+        <akn:num>31-904</akn:num>
+        <akn:heading>Approval of the plan by the members.</akn:heading>
+<akn:subsection eId="subsec_31-904_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All eligible members shall be given notice of and an opportunity to vote upon the plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-904_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All eligible members shall be given notice of the members’ meeting to vote upon the plan. A copy of the plan or a summary of the plan shall accompany the notice. The notice shall be mailed to each member’s last known address, as shown on the mutual company’s records, within 45 days of the Commissioner’s approval of the plan. The meeting to vote upon the plan shall not be set for a date less than 10 days and no more than 60 days after the date when the notice of the meeting is mailed by the mutual company. If the meeting to vote upon the plan is held coincident with the mutual company’s annual meeting of policyholders, only one combined notice of meeting is required.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-904_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After approval by the Commissioner, the plan shall be adopted upon receiving the affirmative vote of at least a majority of the votes cast by eligible members. Members entitled to vote upon the proposed plan may vote in person or by proxy. Any proxies to be solicited from eligible members shall be filed with and approved by the Commissioner. The number of votes each eligible member may cast shall be determined by the mutual company bylaws. If the bylaws are silent, each eligible member may cast one vote.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-344"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-344/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_344">
+        <akn:num>4-344</akn:num>
+        <akn:heading>Establishment of the Adoption Voucher Fund.</akn:heading>
+<akn:subsection eId="subsec_4-344_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established the Adoption Voucher Fund (“Fund”). The Fund shall be comprised of $2 million of the $5 million appropriated in the District of Columbia Appropriations Act, 2000, approved November 29, 1999 (Pub. L. No. 106-113; 113 Stat. 1501), and additional funds in their entirety which Congress may appropriate from time to time for the purpose of providing incentives for foster parents to adopt District children.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-344_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Monies in the Fund shall be used only for the payment of homestudies and attorneys’ fees, as well as any administrative costs directly associated with the implementation of this subchapter. The Fund shall be the sole source of payments under the Program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-344_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Funds deposited in the Fund shall not revert to the General Fund of the District of Columbia at the end of the fiscal year or at any other time, but shall remain available until expended for the purposes set forth in subsection (b) of this section, subject to authorization by Congress in an appropriations act.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

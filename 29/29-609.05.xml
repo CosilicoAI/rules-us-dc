@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-609.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-609.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_609_05">
+        <akn:num>29-609.05</akn:num>
+        <akn:heading>Interest exchanges.</akn:heading>
+<akn:subsection eId="subsec_29-609_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>One or more domestic or foreign partnerships may adopt a plan of interest exchange by which a domestic or foreign partnership acquires all of the outstanding partnership interests of one or more domestic partnerships in exchange for cash or securities of the acquiring domestic or foreign partnership, if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-609_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A statement of interest exchange shall be signed on behalf of a domestic acquired entity and delivered to the Mayor for filing in accordance with § 29-102.03(a). When an interest exchange takes effect as provided in the plan of exchange:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

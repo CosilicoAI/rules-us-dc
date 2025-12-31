@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.16a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.16a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3502_16a">
+        <akn:num>42-3502.16a</akn:num>
+        <akn:heading>Tenant representation by tenant organization.</akn:heading>
+<akn:subsection eId="subsec_42-3502_16a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A tenant organization shall have standing to assert a claim in its name on behalf of one or more of its members in any petition filed pursuant to this chapter, or under Chapters 39 or 40 of Title 14 of the District of Columbia Municipal Regulations, whether initiated by or against a housing provider; provided, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_16a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Where the provisions of subsection (a) of this section have been satisfied, the tenant organization shall be granted party status and have its name placed in the caption of the proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_16a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No further inquiry into the membership of the association shall be permitted.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

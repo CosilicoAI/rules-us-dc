@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-118"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-118/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_118">
+        <akn:num>25-118</akn:num>
+        <akn:heading>Tasting permit requirements and qualifications.</akn:heading>
+<akn:subsection eId="subsec_25-118_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A tasting permit shall be issued only to a licensee under a manufacturer’s license, class A or B, or a retailer’s license, class A or B, to utilize a portion of its licensed premises for the tasting of products as listed in subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-118_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Containers of alcoholic beverages used for sampling purposes shall be labeled as such and may not be sold.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-118_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A licensee shall not provide to a customer, in one day, samples greater than the following quantities:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-118_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A tasting permit shall be valid for 3 years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-118_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The holder of a manufacturer’s license, class A, may utilize a portion of the licensed premises for the sampling of wine and spirits, and the holder of a manufacturer’s license, class B, may utilize a portion of the licensed premises for the sampling of beer, between the hours of 8:00 a.m. and 12:00 a.m., 7 days a week.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

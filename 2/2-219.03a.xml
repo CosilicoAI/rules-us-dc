@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-219.03a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-219.03a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_219_03a">
+        <akn:num>2-219.03a</akn:num>
+        <akn:heading>Special hiring agreements.</akn:heading>
+<akn:subsection eId="subsec_2-219_03a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever the Mayor determines that the goal of increasing employment opportunities for District residents may be better served by establishing hiring goals in specific job categories for specific government-assisted projects or contracts, the Mayor may enter into agreements with beneficiaries or their contractors and subcontractors to provide for increased hiring in specific job categories. Compliance with this agreement shall be deemed compliance with the requirements of this part. Non-compliance with this agreement shall be treated in the same manner as a violation of any other requirement of this part.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-219_03a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may direct the Director of each District agency, the Chief Procurement Officer, or each District contracting officer to develop and report on performance goals for each District agency in furtherance of the objectives of this part.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

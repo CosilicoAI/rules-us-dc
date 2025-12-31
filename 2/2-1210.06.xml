@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1210.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1210.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1210_06">
+        <akn:num>2-1210.06</akn:num>
+        <akn:heading>Reserve accounts.</akn:heading>
+<akn:subsection eId="subsec_2-1210_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After entering into a participation agreement with the District of Columbia and upon approval by the Mayor, a financial institution making a capital access loan shall establish a reserve account. The reserve account shall be used by the financial institution only to cover any losses arising from a default of an enrolled loan made by the financial institution under this subchapter or as otherwise provided by this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1210_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When a financial institution makes a loan enrolled in the program, the financial institution shall require the borrower to pay to the financial institution a fee in an amount that is not less than 2%, but not more than 3.5%, of the principal amount of the loan, which fee the financial institution shall deposit in the reserve account. The financial institution shall also deposit in the reserve account an amount equal to the amount of the fee received by the institution from the borrower under this subsection; provided, that the financial institution may recover from the borrower all or part of the amount the financial institution is required to pay under this subsection in any manner agreed to by the financial institution and the borrower.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1210_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For each capital access loan made by a financial institution, the financial institution shall certify to the Mayor, within the period prescribed by the Mayor, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1210_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon receipt of a certification made under subsection (c) of this section, the Mayor shall deposit in the reserve account for each capital access loan made by the financial institution:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1210_06_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A financial institution shall obtain approval from the Mayor to withdraw funds from the reserve account.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

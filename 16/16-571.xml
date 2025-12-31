@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-571"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-571/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_571">
+        <akn:num>16-571</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_16-571_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The term “wages” means compensation paid or payable for personal services whether denominated as wages, salary, commission, bonus, or otherwise, and includes periodic payments pursuant to a pension or retirement program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-571_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The term “disposable wages” means that part of the earnings of any individual remaining after the deduction from those earnings of any amounts required by law to be withheld.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-571_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The term “garnishment” means any legal or equitable procedure through which the wages of any individual are required to be withheld for payment of any debt.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-571_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The term “domestic partner” shall have the same meaning as provided in § 32-701(3).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

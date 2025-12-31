@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-417.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-417.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_417_02">
+        <akn:num>5-417.02</akn:num>
+        <akn:heading>Compliance with fire code and occupancy requirements — Authority, generally; authority to enter and examine; sanctions.</akn:heading>
+<akn:subsection eId="subsec_5-417_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Fire Chief, the Fire Marshal, or his or her authorized representative shall have the authority to enter upon or examine any area, building or premises, vehicle or other thing during normal business hours to inspect for compliance with the District fire code, or enter any building at any time when there is probable cause to believe that the premises may be overcrowded.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-417_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Fire Chief, the Fire Marshal, or his or her authorized representative shall have the authority to sanction a restaurant or other public venue for failure to post a seating or occupancy capacity placard; provided, that no restaurant or public venue shall be liable for the resulting fine or penalty unless the Mayor has provided the seating or occupancy capacity placard to the owner of the premises.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

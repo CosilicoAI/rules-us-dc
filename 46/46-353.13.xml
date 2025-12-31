@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-353.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-353.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_353_13">
+        <akn:num>46-353.13</akn:num>
+        <akn:heading>Costs and fees.</akn:heading>
+<akn:subsection eId="subsec_46-353_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The petitioner may not be required to pay a filing fee or other costs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-353_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an obligee prevails, a responding tribunal of the District may assess against an obligor filing fees, reasonable attorney’s fees, other costs, and necessary travel and other reasonable expenses incurred by the obligee and the obligee’s witnesses. The tribunal may not assess fees, costs, or expenses against the obligee or the support enforcement agency of either the initiating or responding state or foreign country, except as provided by other law. Attorney’s fees may be taxed as costs, and may be ordered paid directly to the attorney, who may enforce the order in the attorney’s own name. Payment of support owed to the obligee has priority over fees, costs, and expenses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-353_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The tribunal shall order the payment of costs and reasonable attorney’s fees if it determines that a hearing was requested primarily for delay. In a proceeding under subchapter VI of this chapter [§ 46-356.01 et seq.], a hearing is presumed to have been requested primarily for delay if a registered support order is confirmed or enforced without change.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

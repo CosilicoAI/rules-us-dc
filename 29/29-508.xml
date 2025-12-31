@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-508"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-508/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_508">
+        <akn:num>29-508</akn:num>
+        <akn:heading>Qualifications of shareholders, director, and officer.</akn:heading>
+<akn:subsection eId="subsec_29-508_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “officer” means the chair of the board, president, vice-president, treasurer, or secretary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-508_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person shall not be a shareholder, director, or officer of a professional corporation or render professional services on its behalf unless the person is an individual licensed to render a professional service for which the corporation is organized; provided, that if a professional corporation has only one shareholder, the secretary of the corporation need not be licensed to perform, and shall not perform if not so licensed, such professional services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-508_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall require a shareholder or incorporator of a professional corporation to have a present or future employment relationship with the corporation or actively to participate in any capacity in the production of income of, or performance of professional service by, such corporation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

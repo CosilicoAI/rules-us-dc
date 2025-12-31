@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4804.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4804.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4804_13">
+        <akn:num>28-4804.13</akn:num>
+        <akn:heading>Property not productive of income.</akn:heading>
+<akn:subsection eId="subsec_28-4804_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a marital deduction is allowed for all or part of a trust whose assets consist substantially of property that does not provide the spouse or domestic partner with sufficient income from or use of the trust assets, and if the amounts that the trustee transfers from principal to income under § 28-4801.04 and distributes to the spouse or domestic partner from principal pursuant to the terms of the trust are insufficient to provide the spouse or domestic partner with the beneficial enjoyment required to obtain the marital deduction, the spouse or domestic partner may require the trustee to make property productive of income, convert property within a reasonable time, or exercise the power conferred by § 28-4801.04(a). The trustee may decide which action or combination of actions to take.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In cases not governed by subsection (a) of this section, proceeds from the sale or other disposition of an asset are principal without regard to the amount of income the asset produces during any accounting period.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-5202"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-5202/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_5202">
+        <akn:num>28-5202</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_28-5202_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Combination packages” shall mean a package intended for retail sale, containing 2 or more individual packages or units of dissimilar commodities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5202_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Commodity” shall mean any food, drug, cosmetic, or other article, product, or commodity of any kind or class that is:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5202_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Person” shall mean both plural and the singular and includes individuals, partnerships, corporations, companies, societies, and associations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5202_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Unit price” or “unit pricing” shall mean the retail price of an item expressed in dollars and cents per unit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5202_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Variety packages” shall mean a package intended for retail sale, containing 2 or more individual packages or units of similar, but not identical, commodities. Commodities that are generically the same, but that differ in weight, measure, volume, appearance, or quality, are considered similar but not identical.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

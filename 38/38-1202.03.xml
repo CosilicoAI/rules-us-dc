@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1202.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1202.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1202_03">
+        <akn:num>38-1202.03</akn:num>
+        <akn:heading>Suspension, removal, and termination of Trustees.</akn:heading>
+<akn:subsection eId="subsec_38-1202_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any Trustee shall be automatically suspended from serving as such member after he has been found guilty of a felony by a court of competent jurisdiction. Upon a final determination of his guilt or innocence, the term of such member shall automatically terminate or be reinstated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1202_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board of Trustees shall have the power to remove any member, after fair notice and an opportunity to be heard, at any time for adequate cause which relates to such members’ character or efficiency as a Trustee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1202_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The tenure of the student member shall automatically terminate if the status of such member ceases to be that of a full-time student at the University.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

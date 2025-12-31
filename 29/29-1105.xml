@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1105"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1105/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1105">
+        <akn:num>29-1105</akn:num>
+        <akn:heading>Legal entity; duration; powers.</akn:heading>
+<akn:subsection eId="subsec_29-1105_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An unincorporated nonprofit association shall be a legal entity distinct from its members and managers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1105_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An unincorporated nonprofit association shall have perpetual duration unless the governing principles specify otherwise.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1105_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An unincorporated nonprofit association shall have the same powers as an individual to do all things necessary or convenient to carry on its purposes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1105_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An unincorporated nonprofit association may engage in profit-making activities, but profits from any activities shall be used or set aside for the association’s nonprofit purposes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

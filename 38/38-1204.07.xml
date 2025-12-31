@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1204.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1204.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1204_07">
+        <akn:num>38-1204.07</akn:num>
+        <akn:heading>Rules for preferential tuition rates for District residents.</akn:heading>
+<akn:subsection eId="subsec_38-1204_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 90 days of August 1, 1996, the Trustees will consider and adopt uniform rules applicable to students of the University, including the School of Law, setting forth the requirements for preferential tuition rates for bona fide residents of the District of Columbia and requirements for recognition of changes in residency status.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1204_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Trustees shall establish the tuition rate for nonresident students at the University of the District of Columbia flagship undergraduate program, graduate program, and the Community College of the District of Columbia, at a level no lower than the nonresident tuition rate charged at comparable public institutions of higher education.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

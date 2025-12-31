@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-621"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-621/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_621">
+        <akn:num>7-621</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_7-621_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Attending physician” means the physician selected by, or assigned to, the patient who has primary responsibility for the treatment and care of the patient.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-621_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Declaration” means a witnessed document in writing, voluntarily executed by the declarant in accordance with the requirements of § 7-622.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-621_2A">
+      <akn:num>(2A)</akn:num>
+      <akn:content><akn:p>“Domestic partnership” shall have the same meaning as provided in § 32-701(4).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-621_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Life-sustaining procedure” means any medical procedure or intervention, which, when applied to a qualified patient, would serve only to artificially prolong the dying process and where, in the judgment of the attending physician and a second physician, death will occur whether or not such procedure or intervention is utilized. The term “life-sustaining procedure” shall not include the administration of medication or the performance of any medical procedure deemed necessary to provide comfort care or to alleviate pain.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-621_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Physician” means a person authorized to practice medicine in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-621_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Qualified patient” means a patient who has executed a declaration in accordance with this subchapter and who has been diagnosed and certified in writing to have a terminal condition by 2 physicians who have personally examined the patient, one of whom shall be the attending physician.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-621_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Terminal condition” means an incurable condition caused by injury, disease, or illness, which, regardless of the application of life-sustaining procedures, would, within reasonable medical judgment, produce death, and where the application of life-sustaining procedures serve only to postpone the moment of death of the patient.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

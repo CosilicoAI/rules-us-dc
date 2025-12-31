@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2401.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2401.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2401_12">
+        <akn:num>38-2401.12</akn:num>
+        <akn:heading>Agreement for National Technical Institute for the Deaf.</akn:heading>
+<akn:subsection eId="subsec_38-2401_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>General authority. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2401_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Provisions of agreement. — The agreement shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2401_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Limitation. — If, within 20 years after the completion of any construction (except minor remodeling or alteration) for which such funds have been paid: (1) the facility ceases to be used for the purposes for which it was constructed or the agreement is terminated, unless the Secretary determines that there is good cause for releasing the institution from its obligation; or (2) the institution ceases to be the owner of the facility, the United States shall be entitled to recover from the applicant or other owner of the facility an amount which has the same ratio with respect to the current market value of the facility as the amount of federal funds expended for construction of such facility bears to the total cost of construction of the facility. The current market value of the facility shall be determined by agreement of the parties or by action brought in the United States district court for the district in which the facility is situated.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

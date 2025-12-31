@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3611"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3611/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3611">
+        <akn:num>31-3611</akn:num>
+        <akn:heading>Rules and regulations.</akn:heading>
+<akn:subsection eId="subsec_31-3611_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Requirements for any disclosure made under this chapter, including the manner, content, and required disclosures for the sale of long-term care insurance policies, terms of renewability, initial and subsequent conditions of eligibility, nonduplication of coverage provisions, coverage of dependents and preexisting conditions, termination of coverage, continuation or conversion of coverage, probationary periods, limitations, exceptions, reductions, elimination periods, requirements for replacement, recurrent conditions, and definitions;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3611_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Loss ratio standards specifically applicable to long-term care insurance policies;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3611_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>A standard format, which may include a description of the style, arrangement, overall appearance, and the content of an outline of coverage; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3611_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Minimum standards for making and reporting practices for long-term care insurance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

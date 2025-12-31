@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-733"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-733/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_733">
+        <akn:num>7-733</akn:num>
+        <akn:heading>Health Occupations Regulation Fund.</akn:heading>
+<akn:subsection eId="subsec_7-733_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a nonlapsing, revolving fund in the Department of Health the Health Occupations Regulation Fund (“Fund”), to be administered by the Mayor as an agency fund as defined in § 47-373(2)(I), to which all licensing fees, civil fines, and interest relating to the practice of health occupations in the District of Columbia shall be deposited and credited; except, that the Master License Fee collected by the Department of Consumer and Regulatory Affairs for the activities described in § 7-731 shall be deposited into the Master Business License Fund established by § 47-2851.13, to the credit of the Department of Consumer and Regulatory Affairs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-733_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Revenues deposited into the Fund shall not revert to the General Fund at the end of any fiscal year or at any other time, but shall be continually available to the Department of Health for the uses and purposes set forth in subsection (c) of this section, subject to authorization by Congress in an appropriations act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-733_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to the applicable laws relating to the appropriation of District of Columbia funds, monies received by and deposited in the Health Occupations Regulation Fund shall be for the sole use of the boards established pursuant to Chapter 12 of Title 3, and from it shall be paid all salaries and all other expenses necessary in carrying out the duties of the boards. The Mayor shall be responsible for the deposit and expenditure of these monies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-733_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall submit to the Council, as a part of the annual budget, a requested appropriation for expenditures from the Health Occupations Regulation Fund. The Mayor’s budget request shall be based on an estimated projection of the expenditures necessary to perform the administrative and regulatory functions of the boards established pursuant to Chapter 12 of Title 3.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

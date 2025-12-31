@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1706"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1706/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1706">
+        <akn:num>50-1706</akn:num>
+        <akn:heading>Penalty; waiver of fine.</akn:heading>
+<akn:subsection eId="subsec_50-1706_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1706_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The fine for the first violation of § 50-1703(a) by any operator shall be waived upon presentation of proof by the operator that an approved child restraint seat has been acquired subsequent to the violation, either by purchase, gift, or through an officially designated child restraint seat loan program, by the operator or by the parent or legal guardian of the child who was transported without being properly restrained.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1706_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Director of the Department of Transportation shall assign 2 points under the provisions of 18 DCMR to the driver record of any person convicted of a violation of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

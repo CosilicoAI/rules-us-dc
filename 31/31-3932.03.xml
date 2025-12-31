@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3932.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3932.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3932_03">
+        <akn:num>31-3932.03</akn:num>
+        <akn:heading>Application of subchapter I of this chapter.</akn:heading>
+<akn:subsection eId="subsec_31-3932_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided, §§ 31-3931.03, 31-3931.04, 31-3931.05, 31-3931.09, 31-3931.10, 31-3931.11, 31-3931.12, 31-3931.13, 31-3931.14, 31-3931.15, 31-3931.16, 31-3931.17, 31-3931.18, 31-3931.19, 31-3931.20, 31-3931.21, and 31-3931.09 through 31-3931.22 shall apply under this subchapter to SPFCs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3932_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commissioner, by rule or order, may exempt an SPFC, on a case-by-case basis, from the provisions of this title that the Commissioner determines to be inappropriate given the nature of the risks to be insured.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

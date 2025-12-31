@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4423"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4423/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4423">
+        <akn:num>16-4423</akn:num>
+        <akn:heading>Vacating award.</akn:heading>
+<akn:subsection eId="subsec_16-4423_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon motion to the court by a party to an arbitration proceeding, the court shall vacate an award made in the arbitration proceeding if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4423_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The court may vacate an award made in the arbitration proceeding on other reasonable ground.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4423_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A motion under this section shall be filed within 90 days after the movant receives notice of the award pursuant to § 16-4419 or within 90 days after the movant receives notice of a modified or corrected award pursuant to § 16-4420, unless the movant alleges that the award was procured by corruption, fraud, or other undue means, in which case the motion shall be made within 90 days after the ground is known or by the exercise of reasonable care would have been known by the movant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4423_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the court vacates an award on a ground other than that set forth in subsection (a)(5) of this section, it may order a rehearing. If the award is vacated on a ground stated in subsection (a)(1) or (2) of this section, the rehearing shall be before a new arbitrator. If the award is vacated on a ground stated in subsection (a)(3), (4), or (6) of this section, the rehearing may be before the arbitrator who made the award or the arbitrator’s successor. The arbitrator shall render the decision in the rehearing within the same time as that provided in § 16-4419(b) for an award.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4423_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the court denies a motion to vacate an award, it shall confirm the award unless a motion to modify or correct the award is pending.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-324"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-324/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_324">
+        <akn:num>20-324</akn:num>
+        <akn:heading>Action on petition.</akn:heading>
+<akn:subsection eId="subsec_20-324_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Proof of due execution shall be made by affidavit of the witnesses as provided in paragraph (3) of this section unless the Court orders otherwise.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-324_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>After proof of due execution, the Court shall enter an order admitting the will to probate or determining that the decedent died intestate. At this time, the Court shall also appoint or reappoint one or more personal representatives, may order that the administration will be supervised as provided in section 20-402, and, if appropriate, revoke, modify, or confirm any action taken at any prior abbreviated probate, small estates or standard probate proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-324_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Affidavits of due execution shall be in substantially the following form:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

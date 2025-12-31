@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2561.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2561.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2561_05">
+        <akn:num>38-2561.05</akn:num>
+        <akn:heading>Resolution of assessment, evaluation, placement, and funding disputes.</akn:heading>
+<akn:subsection eId="subsec_38-2561_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The due process procedures set forth in Chapter 25C of this title [§ 38-2571.01 et seq.], Chapter 30 of Title 5 of the District of Columbia Municipal Regulations, and IDEA shall govern any disputes between a student’s parent or guardian and the LEA or SEA regarding the assessment, evaluation, placement, and funding of a student with a disability in a nonpublic special education school or program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2561_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In conformity with the IDEA, the SEA may not terminate funding for the last approved nonpublic placement of a student while an administrative or judicial review of a recommended placement is pending.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

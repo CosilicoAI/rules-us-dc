@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-119.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-119.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_119_09">
+        <akn:num>5-119.09</akn:num>
+        <akn:heading>Property transmitted; deceased and incompetent persons; storage; fees; sale.</akn:heading>
+<akn:subsection eId="subsec_5-119_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All property or money taken on suspicion of having been feloniously obtained, or of being the proceeds of crime, and for which there is no other claimant than the person from whom such property was taken, and all lost property coming into possession of any member of the police force, and all property and money taken from pawnbrokers as the proceeds of crime or from persons alleged to be insane, intoxicated, or otherwise incapable of taking care of themselves, shall be transmitted as soon as practicable to the Property Clerk to be fully registered and advertised for the benefit of all parties interested, and for the information of the public as to the amount and disposition of the property so taken into custody by the police.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-119_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-119_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Whenever the Property Clerk has custody of any property belonging to any person who has been adjudged of unsound mind and a committee has been appointed for such person but fails to take possession of the property of such person in the custody of the Property Clerk within 6 months from the date of such committee’s appointment, the Property Clerk shall give such committee 60 days notice by registered or certified mail of his intention to sell such property at public auction or otherwise dispose of such property in accordance with law. If, upon the expiration of such 60 days notice, the committee has not taken custody of such property: (1) the Property Clerk is authorized to sell such property at public auction, and, after deducting the expenses of the sale, expenses incident to the maintenance and custody of such property, and any amounts due the District of Columbia for care and maintenance of the adjudicated patient, shall pay the remaining proceeds of the sale over to such committee; or (2) if in the opinion of the Property Clerk any such property has no salable value, he is authorized to dispose of such property by destruction or otherwise as the Council of the District of Columbia shall, by regulation, or the Mayor of the District of Columbia shall, by order, determine.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-119_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

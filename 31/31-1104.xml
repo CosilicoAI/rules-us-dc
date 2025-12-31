@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1104">
+        <akn:num>31-1104</akn:num>
+        <akn:heading>Licenses — Issuance or renewal.</akn:heading>
+<akn:subsection eId="subsec_31-1104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon the filing of an application and the payment of the license fee the Commissioner shall make an investigation of each applicant and shall issue a license if the applicant is qualified in accordance with this chapter. If the Commissioner does not so find, he shall, within 30 days after he has received such application, at the request of the applicant, give the applicant a full hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commissioner shall issue or renew a license as may be applied for when he is satisfied that the person to be licensed:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

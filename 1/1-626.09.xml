@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-626.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-626.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_626_09">
+        <akn:num>1-626.09</akn:num>
+        <akn:heading>Contributions.</akn:heading>
+<akn:subsection eId="subsec_1-626_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The District and each employee shall contribute to the defined benefit plan under § 1-626.05(1) the social security amounts mandated by federal law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-626_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each employee may voluntarily contribute to the deferred compensation plan under § 1-626.05(2) in amounts not exceeding the limits set by § 457 of the Internal Revenue Code.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-626_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The District shall contribute an amount equal to not less than 5% of the base salary of each employee participating in the defined contribution plan under § 1-626.05(3). The District contribution shall be made not less frequently than quarterly and shall be placed in the Section 401(a) Trust established by § 1-626.11.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-626_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In addition to the contribution under subsection (c) of this section, the District shall contribute no less than an additional .5% of a detention officer’s base salary to the Section 401(a) Trust established by § 1-626.11. The contribution shall be made not less frequently than quarterly.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

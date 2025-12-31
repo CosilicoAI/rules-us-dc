@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-706"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-706/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_706">
+        <akn:num>2-706</akn:num>
+        <akn:heading>Prohibited uses of official mail by elected officials.</akn:heading>
+<akn:subsection eId="subsec_2-706_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An elected official may not mail, as official mail, any mass mailing within the 90-day period that immediately precedes a primary, special, or general election in which such official is a candidate for office.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-706_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An elected official may mail, as official mail, news releases or newsletters; provided, that such materials do not contain any of the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-706_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An elected official may not use official mail to solicit directly or indirectly funds for any purpose.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-706_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An elected official may not use official mail for transmission of matter which is purely personal to the sender or to any other person and is unrelated to the official business, activities, and duties of the member.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-706_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An elected official may not mail, as official mail, cards or other materials which express holiday greetings from the member or his or her family.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-706_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>An elected official may not mail, as official mail, information which would exceed the provisions of § 2-704 and § 2-707 of the act of fund raising appeals related to citizen-service activities established pursuant to § 1-1163.38.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-702.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-702.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_702_01">
+        <akn:num>29-702.01</akn:num>
+        <akn:heading>Formation of limited partnership; certificate of limited partnership.</akn:heading>
+<akn:subsection eId="subsec_29-702_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In order for a limited partnership to be formed, a certificate of limited partnership shall be delivered to the Mayor for filing. The certificate shall state:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-702_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A certificate of limited partnership may also contain any other matters but may not vary or otherwise affect the provisions specified in § 29-701.07(b) in a manner inconsistent with that section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-702_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If there has been substantial compliance with subsection (a) of this section, subject to subchapter II of Chapter 1 of this title, a limited partnership is formed when:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-702_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Subject to subsection (b) of this section, if any provision of a partnership agreement is inconsistent with the filed certificate of limited partnership, or with a filed statement of dissociation, termination, or change, or with filed articles of merger, or with a statement of merger, interest exchange, conversion, or domestication filed under Chapter 2 of this title:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

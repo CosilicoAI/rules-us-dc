@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1131.21"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1131.21/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1131_21">
+        <akn:num>7-1131.21</akn:num>
+        <akn:heading>Department of Mental Health Enterprise Fund.</akn:heading>
+<akn:subsection eId="subsec_7-1131_21_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a nonlapsing fund the Department of Mental Health Enterprise Fund (“Fund”) into which shall be deposited all fees, proceeds, and revenues collected from the activities and operations of a food cafeteria managed and operated by the Department of Mental Health to serve department staff and patients on the Saint Elizabeths Hospital campus, which funds shall be used only for the management and operation of the food cafeteria.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1131_21_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All funds deposited into the Fund, and any interest earned on those funds shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or of any other time, but shall be continually available for the uses and purposes set forth in subsection (a) of this section without regard to fiscal year limitation, subject to authorization by Congress.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

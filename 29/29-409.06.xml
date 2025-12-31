@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-409.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-409.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_409_06">
+        <akn:num>29-409.06</akn:num>
+        <akn:heading>Articles of merger or membership exchange.</akn:heading>
+<akn:subsection eId="subsec_29-409_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After a plan of merger or membership exchange has been adopted and approved as required by this chapter, articles of merger or membership exchange shall be signed on behalf of each party to the merger or membership exchange by any officer or other duly authorized representative. The articles shall set forth:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-409_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Terms of articles of merger or membership exchange may be made dependent on facts objectively ascertainable outside the articles in accordance with § 29-401.04.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-409_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Articles of merger or membership exchange shall be delivered to the Mayor for filing by the survivor of the merger or the acquiring corporation or eligible entity in a membership exchange and take effect at the effective time provided in § 29-102.03. Articles of merger or membership exchange filed under this section may be combined with any filing required under the organic law of any domestic eligible entity involved in the transaction if the combined filing satisfies the requirements of both this section and the other organic law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

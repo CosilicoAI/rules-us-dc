@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4805"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4805/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4805">
+        <akn:num>16-4805</akn:num>
+        <akn:heading>Petition for approval of standby guardianship.</akn:heading>
+<akn:subsection eId="subsec_16-4805_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A petition for court approval of a designation under this chapter may be made at any time by filing with the Court the petition and a copy of the designation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4805_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The petitioner shall state in the petition, under oath, the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4805_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The standby guardian petitioning the court shall attach to the petition the following documentation or provide an explanation, under oath, as to why such documents are not attached:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4805_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If filed after the triggering event, the petition shall be filed as soon as practicable after the occurrence of the triggering event, but in no event later than 90 days after the triggering event.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4805_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The authority of the standby guardian shall cease upon his or her failure to file the petition within 90 days, but shall recommence upon the filing of the petition.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

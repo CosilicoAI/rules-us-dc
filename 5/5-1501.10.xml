@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1501.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1501.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_1501_10">
+        <akn:num>5-1501.10</akn:num>
+        <akn:heading>Allegations of negligence, misconduct, or misidentification or other testing error.</akn:heading>
+<akn:subsection eId="subsec_5-1501_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any allegation of professional negligence, misconduct, or misidentification or other testing error that occurs in the provision of forensic science services at the Department shall be:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1501_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1501_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An investigation pursuant to subsection (a) or (b) of this section shall culminate in the preparation of a written report that shall identify and describe:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1501_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>All investigative reports prepared in accordance with this section shall be submitted promptly to the Board.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

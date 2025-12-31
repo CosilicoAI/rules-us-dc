@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-502"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-502/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_502">
+        <akn:num>16-502</akn:num>
+        <akn:heading>Service of notice; publication.</akn:heading>
+<akn:subsection eId="subsec_16-502_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A writ issued pursuant to section 16-501 shall require the marshal to serve a notice on the defendant, if he is found in the District, and on any person in whose possession any property or credits of the defendant may be attached, to appear in the court on or before the twentieth day, exclusive of Sundays and legal holidays after service of the notice, and show cause, if any there be, why the property so attached should not be condemned and execution thereof had. The marshal’s return shall show the fact of the service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-502_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the defendant is returned “Not to be found,” the notice shall be given by publication to the following effect, namely:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-502_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The order shall be published at least once a week for three successive weeks or oftener, or for such further time and in such manner as the court orders.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

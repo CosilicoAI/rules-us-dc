@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1731.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1731.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1731_04">
+        <akn:num>50-1731.04</akn:num>
+        <akn:heading>Restricted use of mobile telephone and other electronic devices.</akn:heading>
+<akn:subsection eId="subsec_50-1731_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person shall use a mobile telephone or other electronic device while operating a moving motor vehicle in the District of Columbia unless the telephone or device is equipped with a hands-free accessory.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1731_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The provisions of this section shall not apply to the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

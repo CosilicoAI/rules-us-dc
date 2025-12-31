@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2504.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2504.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2504_07">
+        <akn:num>7-2504.07</akn:num>
+        <akn:heading>Display of firearms or ammunition by dealers; security; employees of dealers.</akn:heading>
+<akn:subsection eId="subsec_7-2504_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No licensed dealer shall display any firearm or ammunition in windows visible from a street or sidewalk. All firearms, destructive devices, and ammunition shall be kept at all times in a securely locked place affixed to the premises except when being shown to a customer, being repaired, or otherwise being worked on.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2504_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No licensee shall knowingly employ any person in his establishment if such person would not be eligible to register a firearm under this unit.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

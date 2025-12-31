@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-241"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-241/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_241">
+        <akn:num>7-241</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_7-241_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Agency” means an agency, department, unit, or instrumentality of the District of Columbia government.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-241_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Disclosure” means the release, transfer, provision of access to, or distribution of information in any manner by an entity holding the information to a person outside of the entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-241_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Health and human services information” means any information that relates to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-241_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“HIPAA” means the Health Insurance Portability and Accountability Act of 1996, approved August 21, 1996 (110 Stat. 1936; 42 U.S.C. § 1320d et seq.), and the regulations issued pursuant to it.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-241_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Human services” means programs, assistance, supports, or benefits of any kind to improve quality of life or to meet the social, physical health, housing, and mental health needs of an individual.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-241_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Identified individual” means a natural person to whom health and human services information pertains.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-241_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Individually identifiable health information” shall have the same meaning as it does in HIPAA.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-241_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Person” means a natural person, firm, company, association, corporation, service provider, or government instrumentality or agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-241_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Service provider” means an entity that provides health or human services to District residents pursuant to a contract, grant, or other similar agreement with an agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-241_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Use” means the sharing, employment, application, utilization, examination, or analysis of health and human services information.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

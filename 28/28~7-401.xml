@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:7_401">
+        <akn:num>28:7-401</akn:num>
+        <akn:heading>Irregularities in issue of receipt or bill or conduct of issuer.</akn:heading>
+<akn:subsection eId="subsec_28:7-401_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The document does not comply with the requirements of this article or of any other statute, rule, or regulation regarding its issuance, form, or content;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-401_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The issuer violated laws regulating the conduct of its business;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-401_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The goods covered by the document were owned by the bailee when the document was issued; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-401_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The person issuing the document is not a warehouse but the document purports to be a warehouse receipt.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

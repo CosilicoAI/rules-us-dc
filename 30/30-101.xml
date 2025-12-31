@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/30-101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/30-101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_30_101">
+        <akn:num>30-101</akn:num>
+        <akn:heading>Liability for loss or destruction of, or damage to, personal property of guests.</akn:heading>
+<akn:subsection eId="subsec_30-101_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a hotel, motel, or similar establishment in the District of Columbia which provides lodging to transient guests: (1) provides a suitable depository (other than a checkroom) for the safekeeping of personal property (other than a motor vehicle); and (2) displays conspicuously in the guest and public rooms of that establishment a printed copy of this section (or summary thereof); that establishment shall not be liable for the loss or destruction of, or damage to, any personal property of a guest or patron not deposited for safekeeping, except that this sentence shall not apply with respect to the liability of that establishment for loss or destruction of, or damage to, any personal property retained by a guest in his room if the property is such property as is usual, common, or prudent for a guest to retain in his room. In the case of any personal property of a guest or patron deposited in such a depository for safekeeping, that establishment shall be liable for the loss or destruction of, or damage to, that property to the extent of the lesser of $1,000 or the fair market value of the property at the time of its loss, destruction, or damage.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_30-101_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a hotel, motel, or similar establishment in the District of Columbia which provides lodging to transient guests maintains a checkroom (conspicuously designated as such) where guests and patrons may deposit personal property, that establishment shall, if it conspicuously posts a printed copy of this section (or summary thereof), be liable for the loss or destruction of, or damage to, that property only to the extent of the lesser of $200 or the fair market value of the property at the time of its loss, destruction, or damage unless the destruction or damage is caused by its agent or servant.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

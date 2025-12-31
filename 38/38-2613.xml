@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2613"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2613/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2613">
+        <akn:num>38-2613</akn:num>
+        <akn:heading>Special Education Enhancement Fund.</akn:heading>
+<akn:subsection eId="subsec_38-2613_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2613_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Revenue from the following sources shall be deposited into the Enhancement Fund:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2613_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Enhancement Fund shall be used solely to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2613_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, no funds provided under this section shall be counted for the purposes of calculating the maintenance of effort under IDEA.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2613_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>OSSE may issue rules to implement the provisions of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.25"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.25/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1162_25">
+        <akn:num>1-1162.25</akn:num>
+        <akn:heading>Confidential disclosure of financial interest.</akn:heading>
+<akn:subsection eId="subsec_1-1162_25_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any employee, other than a public official, who advises, makes decisions or participates substantially in areas of contracting, procurement, administration of grants or subsidies, developing policies, land use planning, inspecting, licensing, policy-making, regulating, or auditing, or acts in areas of responsibility that may create a conflict of interest or appearance of a conflict of interest, as determined by the appropriate agency head, shall file, before May 15th of each year, with that agency head a report containing a full and complete statement of the information required by § 1-1162.24. Members of the Washington Metropolitan Area Transit Authority Board of Directors appointed pursuant to § 9-1107.01 shall file the report required by this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_25_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon review of the confidential report, any violation of the Code of Conduct found by the agency head shall be forwarded immediately to the Ethics Board for review.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_25_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>On or before April 15th of each year, each agency head shall designate the persons in the agency required to submit a confidential report by name, position, and grade level, and shall supply this list to the Ethics Board and the D.C. Ethics Counselor on or before May 1st of each year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

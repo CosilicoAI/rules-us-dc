@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/13-340"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/13-340/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_13_340">
+        <akn:num>13-340</akn:num>
+        <akn:heading>Manner of publication; mailing of copy; default; appointment and compensation of guardian and attorney.</akn:heading>
+<akn:subsection eId="subsec_13-340_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An order of publication shall be published at least once a week for three successive weeks, or oftener, or for such further time as the court orders. In actions for divorce in which service by publication is authorized under this chapter, and satisfactory evidence is presented to the court that the plaintiff is unable to pay the cost of publishing an advertisement pursuant to D.C. Offical Code sec. 13-340, without substantial hardship to himself or herself, or to his or her family, the court may direct that such publication may be made by posting the order of publication defined in D.C. Official Code sec. 13-339, for a period of twenty-one calendar days, in the Clerk’s Office of the Family Division of the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_13-340_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An order, judgment or decree may not be entered against an absent or nonresident defendant upon proof of notice by publication, unless the plaintiff, his agent, or attorney files in the action an affidavit showing that at least twenty days before applying for the order, judgment or decree he mailed, postpaid, a copy of the advertisement or the order of the publication posted pursuant to subsection (a) of this section, directed to the party therein ordered to appear, at his last known place of residence, or that after diligent effort he has been unable to ascertain the last place of residence of the party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_13-340_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>On failure of the defendant to appear in obedience to the notice within the time stated therein, a judgment or decree by default may be entered.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_13-340_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the absent or nonresident defendant is an infant, the provisions of the rules of court concerning guardians ad litem and default judgments shall apply, and the court may assign counsel to represent the infant in the manner provided by subsection (a) of section 13-332.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_13-340_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the absent or nonresident defendant is non compos mentis, the provisions of the rules of court concerning guardians ad litem and default judgments shall apply, and the court shall assign an attorney to represent the defendant, whose compensation shall be paid by the plaintiff, or out of the estate of the defendant, at the discretion of the court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

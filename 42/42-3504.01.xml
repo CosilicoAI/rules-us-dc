@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3504.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3504.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3504_01">
+        <akn:num>42-3504.01</akn:num>
+        <akn:heading>Rental unit fee.</akn:heading>
+<akn:subsection eId="subsec_42-3504_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each housing provider required to register under this chapter, including those otherwise exempt from rental control and registration pursuant to § 42-3502.05(a)(3), shall pay a fee of $21.50 for each rental unit in a housing accommodation registered by the housing provider. The fee shall be paid annually to the District government at the time the housing provider applies for a basic business license or a renewal of the basic business license; or in the case of a housing accommodation for which no basic business license is required, at the time and in the manner the Commission may determine. The fees shall be deposited in the fund established pursuant to § 42-3131.01(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3504_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3504_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A nonprofit rental housing provider shall be exempt from the rental unit fee if the provider:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3504_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “nonprofit rental housing provider” means an organization operating rental units or housing accommodations on a nonprofit basis under which no part of the net earnings of the housing provider inure to the benefit of or are distributable to its directors, officers, or any other private individual except as reasonable compensation for services rendered to the nonprofit housing provider.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

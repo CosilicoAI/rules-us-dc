@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4401">
+        <akn:num>16-4401</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_16-4401_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Arbitration organization” means an association, agency, board, commission, or other entity that is neutral and initiates, sponsors, or administers an arbitration proceeding or is involved in the appointment of an arbitrator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4401_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Arbitrator” means an individual appointed to render an award, alone or with others, in a controversy that is subject to an agreement to arbitrate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4401_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Consumer” means a party to an arbitration agreement who, in the context of that arbitration agreement, is an individual, not a business, who seeks or acquires, including by lease, any goods or services primarily for personal, family, or household purposes including, but not limited to, financial services, healthcare services, or real property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4401_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Consumer arbitration agreement” means a standardized contract, written by one party, with a provision requiring that disputes arising after the contract’s signing shall be submitted to binding arbitration, and the other party is a consumer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4401_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Court” means the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4401_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Financial interest” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4401_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Knowledge” means actual knowledge.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4401_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Person” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, government; governmental subdivision, agency, or instrumentality; public corporation; or any other legal or commercial entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4401_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

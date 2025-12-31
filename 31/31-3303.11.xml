@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3303.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3303.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3303_11">
+        <akn:num>31-3303.11</akn:num>
+        <akn:heading>Rules used to determine group size.</akn:heading>
+<akn:subsection eId="subsec_31-3303_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All employers treated as a single employer under subsection (b), (c), (m), or (o) of § 414 of the Internal Revenue Code of 1986 (26 U.S.C. § 414) shall be treated as one employer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3303_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the case of an employer which was not in existence throughout the preceding calendar year, the determination of whether such employer is a small or large group employer shall be based on the average number of employees that it is reasonably expected such employer will employ on business days in the current calendar year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3303_11_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any reference in this section to an employer shall include a reference to any predecessor of such employer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

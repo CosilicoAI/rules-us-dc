@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-302.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-302.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_302_07">
+        <akn:num>29-302.07</akn:num>
+        <akn:heading>Emergency bylaws.</akn:heading>
+<akn:subsection eId="subsec_29-302_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless the articles of incorporation provide otherwise, the board of directors of a corporation may adopt bylaws to be effective only in an emergency defined in subsection (d) of this section. The emergency bylaws, which shall be subject to amendment or repeal by the shareholders, may make all provisions necessary for managing the corporation during the emergency, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-302_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All provisions of the regular bylaws consistent with the emergency bylaws shall remain effective during the emergency. The emergency bylaws shall not be effective after the emergency ends.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-302_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Corporate action taken in good faith in accordance with the emergency bylaws:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-302_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An emergency exists for the purposes of this section if a quorum of the corporation’s directors cannot readily be assembled because of some catastrophic event.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

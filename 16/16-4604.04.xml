@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4604.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4604.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4604_04">
+        <akn:num>16-4604.04</akn:num>
+        <akn:heading>Actions for abduction prevention measures.</akn:heading>
+<akn:subsection eId="subsec_16-4604_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A court on its own motion may order abduction prevention measures in a child-custody proceeding if the court finds that the evidence establishes a credible risk of abduction of the child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4604_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A party to a child-custody determination or another individual or entity having a right under the law of this state or any other state to seek a child-custody determination for the child may file a petition seeking abduction prevention measures to protect the child under this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4604_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Attorney General for the District of Columbia may seek a warrant to take physical custody of a child under § 16-4604.09 or other appropriate prevention measures.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

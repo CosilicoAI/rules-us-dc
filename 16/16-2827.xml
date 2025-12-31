@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2827"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2827/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2827">
+        <akn:num>16-2827</akn:num>
+        <akn:heading>Confidentiality.</akn:heading>
+<akn:subsection eId="subsec_16-2827_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The mediation session shall be confidential. All proceedings at the mediation, including any statement made by any party, attorney, or other participant, shall be privileged and shall not be construed as an admission against interest. Any statement at such proceedings shall not be used in court in connection with the case or any other litigation. A party shall not be bound by anything said or done at the mediation unless a settlement is reached.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2827_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A mediator shall not be compelled to provide evidence of a mediation communication in any subsequent trial.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

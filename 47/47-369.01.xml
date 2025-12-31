@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-369.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-369.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_369_01">
+        <akn:num>47-369.01</akn:num>
+        <akn:heading>General Fund surplus.</akn:heading>
+<akn:subsection eId="subsec_47-369_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer of the District of Columbia shall certify that the use of any such amounts is not anticipated to have a negative impact on the District’s long-term financial, fiscal, and economic vitality.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-369_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The District of Columbia may only use these funds for the following expenditures:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-369_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The amounts shall be obligated and expended in accordance with laws enacted by the Council in support of each such obligation or expenditure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-369_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The amounts may not be used to fund the agencies of the District of Columbia government under court ordered receivership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-369_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The amounts may not be obligated or expended unless the Mayor notifies the Committees on Appropriations of the House of Representatives and the Senate not fewer than 30 days in advance of the obligation or expenditure.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

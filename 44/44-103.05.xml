@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-103.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-103.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_103_05">
+        <akn:num>44-103.05</akn:num>
+        <akn:heading>Changes in licensee.</akn:heading>
+<akn:subsection eId="subsec_44-103_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The following changes occurring within an ALR shall require revision of the license:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-103_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A request for changes which requires the reissuance of a license shall be made in writing to the Mayor at least 60 days in advance of the effectiveness of the changes. An application fee, as established by the Mayor, shall accompany a request for changes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-103_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-103_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-505.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-505.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_505_04">
+        <akn:num>10-505.04</akn:num>
+        <akn:heading>Transfer of member of Metropolitan Police to Capitol Police — Payments into Retirement and Disability Fund.</akn:heading>
+<akn:subsection eId="subsec_10-505_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An amount equal to the total amount of: (1) deductions and withholdings from pay for retirement under the Policemen and Firemen’s Retirement and Disability Act (§ 5-701 et seq.) for police service treated as creditable service as a congressional employee under § 10-505.03; and (2) sums paid by the Congress to the District of Columbia as a retirement contribution for any such police service performed while detailed to the Capitol Police; shall be paid by the Mayor of the District of Columbia into the Treasury of the credit of the Civil Service Retirement and Disability Fund. For purposes of § 8334(c) of Title 5, United States Code, such payment shall constitute the required deposit for police service treated as creditable service as a congressional employee under § 10-505.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-505_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Payments into the Treasury required by subsection (a) of this section shall be made not later than the date on which police service is first treated as creditable service as a congressional employee under § 10-505.03 with respect to the individual or member involved.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

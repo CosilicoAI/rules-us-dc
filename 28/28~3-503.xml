@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-503"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-503/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_503">
+        <akn:num>28:3-503</akn:num>
+        <akn:heading>Notice of dishonor.</akn:heading>
+<akn:subsection eId="subsec_28:3-503_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The obligation of an indorser stated in section 28:3-415(a) and the obligation of a drawer stated in section 28:3-414(d) may not be enforced unless (i) the indorser or drawer is given notice of dishonor of the instrument complying with this section or (ii) notice of dishonor is excused under section 28:3-504(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-503_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notice of dishonor may be given by any person; may be given by any commercially reasonable means, including an oral, written, or electronic communication; and is sufficient if it reasonably identifies the instrument and indicates that the instrument has been dishonored or has not been paid or accepted.  Return of an instrument given to a bank for collection is sufficient notice of dishonor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-503_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to section 28:3-504(c), with respect to an instrument taken for collection by a collecting bank, notice of dishonor must be given (i) by the bank before midnight of the next banking day following the banking day on which the bank receives notice of dishonor of the instrument, or (ii) by any other person within 30 days following the day on which the person receives notice of dishonor. With respect to any other instrument, notice of dishonor must be given within 30 days following the day on which dishonor occurs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

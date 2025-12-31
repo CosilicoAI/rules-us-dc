@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1807.53"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1807.53/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1807_53">
+        <akn:num>47-1807.53</akn:num>
+        <akn:heading>Job growth tax credit eligibility.</akn:heading>
+<akn:subsection eId="subsec_47-1807_53_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Bring a net job growth of at least 10 new jobs to the District of Columbia with an average yearly wage of at least 120% of the average yearly wage of residents of the District of Columbia;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1807_53_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Increase income tax and payroll revenue for the District of Columbia;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1807_53_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Result in the retention of any new positions proposed by the project for at least one year; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1807_53_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Be approved by the Mayor only if the project would not occur but for the job growth tax credit.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

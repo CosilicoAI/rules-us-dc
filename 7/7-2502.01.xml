@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2502.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2502.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2502_01">
+        <akn:num>7-2502.01</akn:num>
+        <akn:heading>Registration requirements.</akn:heading>
+<akn:subsection eId="subsec_7-2502_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this unit, no person or organization in the District of Columbia (“District”) shall receive, possess, control, transfer, offer for sale, sell, give, or deliver any destructive device, and no person or organization in the District shall possess or control any firearm, unless the person or organization holds a valid registration certificate for the firearm. A registration certificate may be issued:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2502_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subsection (a) of this section shall not apply to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2502_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of subsection (b)(3) of this section, the term “recreational firearm-related activity” includes a firearms training and safety class.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

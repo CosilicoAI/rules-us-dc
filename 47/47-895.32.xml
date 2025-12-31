@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-895.32"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-895.32/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_895_32">
+        <akn:num>47-895.32</akn:num>
+        <akn:heading>Levy of Special Assessment.</akn:heading>
+<akn:subsection eId="subsec_47-895_32_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A Special Assessment is levied and shall be collected with respect to each lot for which an Energy Efficiency Loan Agreement has been entered into by a property owner. The Special Assessment shall begin at the commencement of the half tax year immediately following the date on which the Energy Efficiency Loan Agreement is entered into and continue until the end of the half tax year in which the Energy Efficiency Loan is fully repaid pursuant to the Energy Efficiency Loan Agreement. At the time the Energy Efficiency Loan Agreement is executed, a memorandum of the Special Assessment shall be recorded in the land records of the District. The memoranda of the Special Assessment shall be exempt from the recordation tax levied pursuant to § 42-1103 and the transfer tax levied pursuant to § 47-903.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-895_32_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The annual amount of the Special Assessment on each lot shall be an amount equal to the annual principal, interest, and administrative costs on the Energy Efficiency Loan applicable to that lot as described in [§ 8-1778.41]. The Special Assessment to be collected from any lot shall not be increased as a result of a default in the payment of the Special Assessment levied on any other lot. The Special Assessment shall not be increased by any means other than those prescribed in the Energy Efficiency Loan Agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-895_32_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a property owner agrees to a Special Assessment to reduce energy costs and increases rents to tenants in that property to pay the costs of the Special Assessment, the property owner shall pass through the energy savings to the tenants so charged.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

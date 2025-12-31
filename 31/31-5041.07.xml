@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5041.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5041.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5041_07">
+        <akn:num>31-5041.07</akn:num>
+        <akn:heading>Prohibition of rebate and fee splitting.</akn:heading>
+<akn:subsection eId="subsec_31-5041_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In a real or personal property transaction, a title insurance producer, a title insurer, or any employee or representative of a title insurance producer or a title insurer, shall not pay, allow, or give, or offer to pay, allow, or give, directly or indirectly, as an inducement to insurance, or after insurance has been effected, any rebate, discount, abatement, credit, or reduction of the premium named in a policy of insurance, or any valuable consideration or inducement, whether or not specified or provided for in the policy, except to the extent provided for in an applicable filing with the Commissioner as provided by law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5041_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In a real or personal property transaction, an insured named in a policy, or any employee of the insured, shall not knowingly receive or accept, directly or indirectly, any rebate, discount, abatement, credit, or reduction of premium, or any special favor, advantage, valuable consideration, or inducement, as specified in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5041_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section shall not prohibit:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

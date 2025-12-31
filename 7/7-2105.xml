@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2105"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2105/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2105">
+        <akn:num>7-2105</akn:num>
+        <akn:heading>Inspections.</akn:heading>
+<akn:subsection eId="subsec_7-2105_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2105_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may at any reasonable hour enter a facility for the purpose of conducting an announced or unannounced inspection to check for compliance with this chapter, a rule issued pursuant to this chapter, or any other District or locally enforceable federal law. When conducting an inspection, especially of a foster home, the Mayor shall respect the homelike atmosphere of the facility and the reasonable privacy interests of its residents and adult caregivers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2105_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any District government employee who, while visiting a facility for the purpose of casework or monitoring, observes a condition that he or she believes in violation of this chapter, a rule issued pursuant to this chapter, or any other District or federal law shall, no later than 7 days after making the observation and if not previously reported, report this suspected violation to the Department of Consumer and Regulatory Affairs (“DCRA”).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2105_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall make all licensure and inspection reports available to the public upon request and shall notify all child-placing agencies in the District whenever a facility’s license is suspended, revoked, converted to a provisional or restricted license, or not renewed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

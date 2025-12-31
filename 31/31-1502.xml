@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1502"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1502/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1502">
+        <akn:num>31-1502</akn:num>
+        <akn:heading>Licensure.</akn:heading>
+<akn:subsection eId="subsec_31-1502_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person, firm, association, or corporation shall act in the capacity of a managing general agent with respect to risks located in the District for an insurer licensed in the District, unless the person is a licensed broker in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1502_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person, firm, association, or corporation shall act in the capacity of a managing general agent representing an insurer domiciled in the District with respect to risks located outside the District, nor shall an insurer utilize the services of such a managing general agent, unless the person is licensed as a broker in the District, which license may be a nonresident license, pursuant to the provisions of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1502_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may require a bond in an amount acceptable to him or her for the protection of the insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1502_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor may require the managing general agent to maintain an errors and omissions policy.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

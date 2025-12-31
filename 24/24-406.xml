@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-406"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-406/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_406">
+        <akn:num>24-406</akn:num>
+        <akn:heading>Hearing after arrest; confinement in non-District institution.</akn:heading>
+<akn:subsection eId="subsec_24-406_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a prisoner has been retaken upon a warrant issued by the United States Parole Commission (“Commission”), he shall be given an opportunity to appear before the Commission, a member thereof, or an examiner designated by the Commission. At such hearing he may be represented by counsel. The Commission may then, or at any time in its discretion, revoke the parole or modify the terms and conditions thereof. If the order of parole shall be revoked, the prisoner, unless subsequently reparoled, shall serve the remainder of the sentence originally imposed less any commutation for good conduct which may be earned by him after his return to custody. For the purpose of computing commutation for good conduct, the remainder of the sentence originally imposed shall be considered as a new sentence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-406_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-406_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-406_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The provisions of subsection (c) of this section shall apply only to any period of parole that is being served on or after the May 20, 2009, and shall not apply to any period of parole that was revoked prior to the May 20, 2009.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1264"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1264/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1264">
+        <akn:num>47-1264</akn:num>
+        <akn:heading>Interest and penalties.</akn:heading>
+<akn:subsection eId="subsec_47-1264_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a nursing facility fails to pay the full amount of an assessment by the date required by this chapter, or by rules issued pursuant to § 47-1267, the unpaid balance shall accrue interest at the rate of 1.5% per month or any fraction thereof, which shall be added to the unpaid balance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1264_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A nursing facility that fails to file a report required under this chapter, or by rules issued pursuant to § 47-1267, shall pay an administrative penalty equal to 5% of the monthly assessment for each month, or any fraction thereof, that the failure to file continues. The total administrative penalty shall not exceed 25% of the nursing facility’s annual assessment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1264_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A nursing facility that knowingly provides false information in a report required by this chapter, or by rules issued pursuant to § 47-1267, shall be subject to a penalty equal to the tax owed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1264_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The District of Columbia shall have a lien upon the real and personal property located in the District of Columbia of the nursing facility for any assessments, interest, or administrative penalties that are due under this chapter, or rules issued pursuant to § 47-1267. The District of Columbia shall have the priority of a secured creditor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1264_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any action brought to enforce the provisions of subsection (c) of this section shall be brought in the Superior Court of the District of Columbia by the Attorney General for the District of Columbia in the name of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

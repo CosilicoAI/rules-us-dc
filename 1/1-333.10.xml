@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-333.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-333.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_333_10">
+        <akn:num>1-333.10</akn:num>
+        <akn:heading>Discretionary funds.</akn:heading>
+<akn:subsection eId="subsec_1-333_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor of the District of Columbia, the Chairman and members of the Council of the District of Columbia, the Chief Judge of the District of Columbia Court of Appeals, the Chief Judge of the Superior Court of the District of Columbia, the Executive Officer of the District of Columbia Court System, the Superintendent of Schools, the City Administrator, the Director of the District of Columbia Public Library, and the Chief Executive Officer of the University of the District of Columbia are authorized to provide for the expenditure, within the limits of specified annual appropriation, of funds for appropriate purposes related to their official capacity as they may respectively deem necessary. Their determination thereof shall be final and conclusive, and their certificate shall be sufficient voucher for the expenditure of appropriations made pursuant to this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-333_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>At the end of each fiscal year, each official authorized to expend appropriations under this section shall provide an itemized accounting of these appropriations, which shall include the purposes for which all expenditures are made, in the form of an annual report, for presentation to the Mayor and the Council, and which shall be made available for public inspection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-333_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section may be cited as the “Discretionary Funds Act of 1973”.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

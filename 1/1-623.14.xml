@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_623_14">
+        <akn:num>1-623.14</akn:num>
+        <akn:heading>Computation of pay.</akn:heading>
+<akn:subsection eId="subsec_1-623_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purpose of this section:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In computing monetary compensation for disability or death on the basis of monthly pay, that pay is determined under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The monthly pay at the time of injury is deemed one-twelfth of the average annual earnings of the employee at that time. When compensation is paid on a weekly basis, the weekly equivalent of the monthly pay is deemed one-fifty-second of the average annual earning. For so much of a period of total disability as does not exceed 90 calendar days from the date of the beginning of compensable disability, the compensation, at the discretion of the Mayor, may be computed on the basis of the actual daily wage of the employee at the time of injury, in which event he or she may receive compensation for the days he or she would have worked but for the injury.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_14_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Average annual earnings are determined as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_14_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The value of subsistence and quarters, and of any other form of remuneration in kind for services if its value can be estimated in money and premium pay under § 5545(c)(1) of Title 5 of the United States Code, are included as part of the pay, but account is not taken of the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

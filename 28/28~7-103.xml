@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:7_103">
+        <akn:num>28:7-103</akn:num>
+        <akn:heading>Relation of article to treaty or statute.</akn:heading>
+<akn:subsection eId="subsec_28:7-103_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This article is subject to any treaty or statute of the United States or regulatory statute of the District of Columbia to the extent the treaty, statute, or regulatory statute is applicable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-103_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This article does not modify or repeal any law prescribing the form or content of a document of title or the services or facilities to be afforded by a bailee, or otherwise regulating a bailee’s business in respects not specifically treated in this article. However, violation of such a law does not affect the status of a document of title that otherwise is within the definition of a document of title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-103_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This article modifies, limits, and supersedes the Electronic Signatures in Global and National Commerce Act, approved June 30, 2000 (114 Stat. 464; 15 U.S.C. § 7001, et seq.), but does not modify, limit, or supersede section 101(c) of that act (15 U.S.C. § 7001(c)) or authorize electronic delivery of any of the notices described in section 103(b) of that act (15 U.S.C. § 7003(b)).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-103_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>To the extent there is a conflict between Chapter 49 of Subtitle II of this title, the Uniform Electronic Transactions Act, and this article, this article governs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

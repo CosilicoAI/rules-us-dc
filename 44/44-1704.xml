@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1704"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1704/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1704">
+        <akn:num>44-1704</akn:num>
+        <akn:heading>Certificate of registration — Application; issuance.</akn:heading>
+<akn:subsection eId="subsec_44-1704_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Application for such certificate of registration shall be made upon such form or forms as shall be prescribed by the Council of the District of Columbia, shall be sworn to and shall be filed with the Mayor at least 15 days prior to the time when the certificate of registration applied for shall become effective. Each such application shall contain such information as the Council shall by regulation require.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1704_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If, while any application is pending, or during the term of any certificate of registration granted thereon, there is any change in fact, policy, or method from the information given in the application, the applicant or registrant shall within 10 days after such change report the same in writing to the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1704_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall issue a certificate of registration within 10 days after the filing of an application therefor; provided, that, whenever in the opinion of the Mayor the application does not disclose sufficient information required by this chapter, or the regulations made pursuant thereto, to be stated in such application, then the applicant shall file in writing, within 48 hours, exclusive of Sundays and legal holidays, after a demand therefor made by the Mayor, such additional information as may be required by said Mayor; provided further, that the Mayor, for good cause shown by the applicant, may extend the time for filing such additional information; provided further, that the Mayor may withhold the issuance of a certificate of registration until such additional information is furnished. Each certificate of registration shall be valid for such period of time as shall be specified therein.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

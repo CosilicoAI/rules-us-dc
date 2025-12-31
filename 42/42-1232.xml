@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1232"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1232/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1232">
+        <akn:num>42-1232</akn:num>
+        <akn:heading>Validity of electronic documents and digitized images.</akn:heading>
+<akn:subsection eId="subsec_42-1232_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a law requires, as a condition for recording, that a document be an original, be on paper or other tangible medium, or be in writing, an electronic document or digitized image that satisfies this chapter satisfies the law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1232_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a law requires, as a condition for recording, that a document be signed, an electronic signature or digitized image of a wet signature on a paper document satisfies the law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1232_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A requirement that a document or a signature associated with a document be notarized, acknowledged, verified, witnessed, or made under oath is satisfied if the electronic signature of the person authorized to perform that act, and all other information required to be included, is attached to or logically associated with the document or signature. A physical or electronic image of a stamp, impression, or seal is not required to accompany an electronic signature.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

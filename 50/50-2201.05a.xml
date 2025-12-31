@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2201.05a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2201.05a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2201_05a">
+        <akn:num>50-2201.05a</akn:num>
+        <akn:heading>Establishment of Ignition Interlock Device Program.</akn:heading>
+<akn:subsection eId="subsec_50-2201_05a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 180 days of April 20, 2013, the Mayor shall establish an Ignition Interlock Device Program applicable to persons who have been convicted of an offense pursuant to § 50-2206.11, § 50-2206.12, or § 50-2206.14, note, or any succeeding emergency act establishing those sections in substantially similar language, or pursuant to § 50-2206.11, § 50-2206.12 or § 50-2206.14, or whose operator’s permit has been revoked pursuant to § 50-1403.01(a) for driving while the person’s alcohol concentration is 0.08 grams or more either per 100 milliliters of blood or per 210 liters of breath or is 0.10 grams or more per 100 milliliters of urine, or while under the influence of intoxicating liquor or any drug or any combination thereof, or while the ability to operate a vehicle is impaired by the consumption of intoxicating liquor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2201_05a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purpose of this section, “Ignition Interlock Device” means ignition equipment designed to prevent a motor vehicle from being operated by a person whose blood alcohol level exceeds the calibrated setting on the device.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2201_05a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall adopt rules to implement the provisions of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

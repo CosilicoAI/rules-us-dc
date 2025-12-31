@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1204.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1204.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1204_04">
+        <akn:num>29-1204.04</akn:num>
+        <akn:heading>Dissolution of series.</akn:heading>
+<akn:subsection eId="subsec_29-1204_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A series of a series trust may be dissolved or its property distributed without causing the dissolution of the trust or any other series thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1204_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A series of a series trust is dissolved, and its activities shall be wound up, on the occurrence of an event or circumstance that the governing instrument states causes dissolution of the series or upon the dissolution of the trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1204_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>On dissolution of a series of a series trust, the persons that under the governing instrument are responsible for winding up the affairs of the series may cause the trust to take all actions permitted under § 29-1208.03, and shall take actions with respect to the claims and obligations of the series as provided in §§ 29-1208.03 through § 29-1208.05.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1204_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any person, including a trustee, that under the governing instrument is responsible for winding up the affairs of a series of a series trust shall not be liable to the creditors of the dissolved series by reason of the person’s actions in winding up the series.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

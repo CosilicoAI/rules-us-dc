@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-608"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-608/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_608">
+        <akn:num>3-608</akn:num>
+        <akn:heading>Violations of Commission rules; penalties.</akn:heading>
+<akn:subsection eId="subsec_3-608_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person who holds any boxing, wrestling, or martial arts contest, match or exhibition in the District of Columbia, or engages or participates in a boxing, wrestling, or martial arts contest, match, or exhibition without a valid license or permit effective at the time as provided in § 3-606(b), shall, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 1 year, or both. Such cases shall be prosecuted by the Corporation Counsel of the District of Columbia in the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-608_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the case of a person who is found by a preponderance of the evidence, under the contested case procedure in the District of Columbia Administrative Procedure Act, in a hearing before the Commission, to have violated lawful orders or rules of the Commission other than those penalized by subsection (a) of this section, the Commission may, upon findings explaining its actions:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-608_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For failure to file the reports or pay the fees required in subsections (b) and (c) of § 3-607, a fine amounting to 10% of the fees due under that section, up to a maximum of 30% thereof, shall be assessed for each month or part thereof in which such required reports are not filed, or fees paid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-608_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this chapter, or any rules or regulations issued under the authority of this chapter, pursuant to Chapter 18 of Title 2. Adjudication of any infraction of this chapter shall be pursuant to Chapter 18 of Title 2.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

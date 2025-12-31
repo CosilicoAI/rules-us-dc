@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-201"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-201/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_201">
+        <akn:num>46-201</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_46-201_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Business day” means a day on which District offices are open for regular business.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Caretaker” means a parent, relative, guardian, or other person whose needs are included in a public assistance payment for a dependent child and who is using those payments for the benefit of the dependent child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Collection and Disbursement Unit” or “CDU” means the centralized unit operated by the IV-D agency for the collection and disbursement of support payments as required under section 454B of title IV, part D of the Social Security Act, approved August 22, 1996 (110 Stat. 2207; 42 U.S.C. § 654B).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Court” means the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Custodian” means the parent, relative, guardian, or other person with whom the dependent child resides.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Dependent child” means any child whose support is required by § 16-916, or any child to whom a responsible relative owes a duty of support.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Duty of support” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Earnings” means any remuneration based on employment, including wages, salaries, annuities, retirement benefits, unemployment compensation, and disability benefits.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Entity” means a partnership, firm, association, corporation, sole proprietorship, company, organization, or other business, including a governmental or nonprofit organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“IV-D agency” means the Child Support Services Division of the Office of the Attorney General for the District of Columbia, or successor organizational unit, that is responsible for administering or supervising the administration of the District’s State Plan under title IV, part D, of the Social Security Act, approved January 4, 1975 (88 Stat. 2351; 42 U.S.C. § 651 et seq.), pertaining to parent locator services, paternity establishment, and the establishment, modification, and enforcement of support orders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Holder” means any person, firm, association, corporation, government official, or other entity that is believed to possess property of an obligor, including earnings or other income.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“Mayor” means the Mayor of the District of Columbia or the Mayor’s designee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“Notice to withhold” means a written notice informing a holder that an obligor’s support order is enforceable by withholding and directing the holder to implement the withholding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“Obligee” means a person or entity who is entitled to receive support pursuant to a support order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“Obligor” means a person who is required to pay support pursuant to a support order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_16">
+      <akn:num>(16)</akn:num>
+      <akn:content><akn:p>“Order to withhold” means an order that requires a holder to turn over earnings or other income in a specified amount to a specified payee rather than to an individual to whom the earnings or other income would otherwise be payable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_17">
+      <akn:num>(17)</akn:num>
+      <akn:content><akn:p>“Other income” means any income available to an individual whether or not derived from remuneration based on employment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_18">
+      <akn:num>(18)</akn:num>
+      <akn:content><akn:p>“Public assistance” means assistance granted under the District’s Temporary Assistance for Needy Families Program or Program on Work, Employment, and Responsibility pursuant to Chapter 2 of Title 4.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_19">
+      <akn:num>(19)</akn:num>
+      <akn:content><akn:p>“Responsible relative” means a person obligated under law for the support of a dependent child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-201_20">
+      <akn:num>(20)</akn:num>
+      <akn:content><akn:p>“Support order” means a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing state, or a child and the parent with whom the child is living, which provides for monetary support, health care, arrearages, or reimbursement and which may include related costs and fees, interest and penalties, income withholding, attorneys’ fees, and other relief.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1121"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1121/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1121">
+        <akn:num>50-1121</akn:num>
+        <akn:heading>Vehicle Inspection Task Force.</akn:heading>
+<akn:subsection eId="subsec_50-1121_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established a Vehicle Inspection Task Force (“Task Force”) to study the impact of the elimination of mandatory vehicle safety inspections for private vehicles, in order to recommend whether the District should restore mandatory vehicle safety inspection for private vehicles of any or all types, and to recommend any improvements to the District’s current vehicle safety inspection program for commercial vehicles, or any restored vehicle safety inspection program, for private vehicles that could improve the cost-effectiveness of these programs and reduce the burden of these inspections upon residents and businesses. If the Task Force concludes that some new, restored, or expanded vehicle safety program is in the best interests of the District, the Task Force shall also recommend how to fund such a program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1121_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

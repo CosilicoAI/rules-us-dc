@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-207.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-207.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_207_02">
+        <akn:num>2-207.02</akn:num>
+        <akn:heading>Sewerage agreement with Virginia.</akn:heading>
+<akn:subsection eId="subsec_2-207_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the protection of the Potomac River and its tributary streams within the metropolitan area of the District of Columbia from pollution by sewage or other liquid wastes originating in Virginia, and for the protection of the health of the residents of the District of Columbia and of the employees of the United States government residing in such metropolitan area, the Mayor of the District of Columbia is authorized in his discretion, from time to time, to enter into and renew agreements, for such periods as he deems advisable, with the proper authorities of the Commonwealth of Virginia, including county, municipal, and other governmental units thereof, for the drainage of such sewage or other liquid wastes into the sewerage system of the District of Columbia for treatment and disposal: Provided, that to the extent and in the manner determined by such agreements, the proper authorities of such Commonwealth, county, municipal, or other governmental units shall pay part or all of the costs of construction, expansion, relocation, replacement, repair, maintenance, and operation (including administrative expenses, interest, and amortization) of such sewers and other facilities as may be necessary or appropriate to convey and treat such sewage or other liquid wastes either separately or with sewage or other liquid wastes originating in said District or elsewhere. All payments or reimbursements made to the District of Columbia pursuant to this section and the agreements entered into hereunder shall be made to the Mayor and shall be deposited in the Treasury of the United States to the credit of the District of Columbia Sewage Works Fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-207_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>As used in this section, the terms “Mayor of the District of Columbia” and “Mayor” mean the Mayor of the District of Columbia or his designated agents.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

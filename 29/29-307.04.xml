@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-307.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-307.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_307_04">
+        <akn:num>29-307.04</akn:num>
+        <akn:heading>Surrender of charter upon domestication.</akn:heading>
+<akn:subsection eId="subsec_29-307_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever a domestic business corporation has adopted and approved, in the manner required by this subchapter, a plan of domestication providing for the corporation to be domesticated in a foreign jurisdiction, articles of charter surrender shall be signed on behalf of the corporation by any officer or other duly authorized representative. The articles of charter surrender shall set forth:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-307_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The articles of charter surrender shall be delivered by the corporation to the Mayor for filing. The articles of charter surrender shall be effective on the effective time provided in § 29-102.03.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

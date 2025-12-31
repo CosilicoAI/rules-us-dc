@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1802.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1802.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1802_15">
+        <akn:num>38-1802.15</akn:num>
+        <akn:heading>Federal entities.</akn:heading>
+<akn:subsection eId="subsec_38-1802_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. — The following federal agencies and federally established entities are encouraged to explore whether it is feasible for the agency or entity to establish one or more public charter schools:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1802_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Report. — Not later than 120 days after April 26, 1996, any agency or institution described in subsection (a) of this section that has explored the feasibility of establishing a public charter school shall report its determination on the feasibility to the appropriate congressional committees.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

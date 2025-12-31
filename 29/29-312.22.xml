@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-312.22"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-312.22/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_312_22">
+        <akn:num>29-312.22</akn:num>
+        <akn:heading>Receivership or custodianship.</akn:heading>
+<akn:subsection eId="subsec_29-312_22_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless an election to purchase has been filed under § 29-312.24, the Superior Court in a judicial proceeding brought to dissolve a corporation may appoint one or more receivers to wind up and liquidate, or one or more custodians to manage, the activities and affairs of the corporation. The court shall hold a hearing, after notifying all parties to the proceeding and any interested persons designated by the court, before appointing a receiver or custodian. The court appointing a receiver or custodian has jurisdiction over the corporation and all of its property wherever located.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-312_22_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Superior Court may appoint an individual or a domestic or foreign corporation, authorized to do business in the District, as a receiver or custodian. The court may require the receiver or custodian to post bond, with or without sureties, in an amount the court directs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-312_22_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Superior Court shall describe the powers and duties of the receiver or custodian in its appointing order, which may be amended. Among other powers:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-312_22_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Superior Court during a receivership may redesignate the receiver a custodian, and during a custodianship may redesignate the custodian a receiver, if doing so is in the best interests of the corporation, its shareholders, and its creditors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-312_22_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Superior Court during the receivership or custodianship may order compensation paid and expenses paid or reimbursed to the receiver or custodian from the assets of the corporation or proceeds from the sale of the assets.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

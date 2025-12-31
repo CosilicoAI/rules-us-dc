@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-904"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-904/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_904">
+        <akn:num>44-904</akn:num>
+        <akn:heading>Congressional review of system implementation plan.</akn:heading>
+<akn:subsection eId="subsec_44-904_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate shall review the preliminary system implementation plan transmitted by the Mayor pursuant to § 44-903 to determine the extent of its compliance with the provisions of § 44-901(b) and § 44-903, and transmit written recommendations regarding any revisions to the preliminary plan to the Mayor not later than 60 days after receipt of such plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-904_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate shall, within 90 days of submission of the final system implementation plan by the Mayor pursuant to § 44-903, review such plan to determine the extent to which it is in compliance with the provisions of § 44-901(b) and § 44-903.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

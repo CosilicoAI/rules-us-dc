@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-802"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-802/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_802">
+        <akn:num>28:9-802</akn:num>
+        <akn:heading>Savings clause.</akn:heading>
+<akn:subsection eId="subsec_28:9-802_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this part, the amendments made by the 2012 Act apply to a transaction or lien within its scope, even if the transaction or lien was entered into or created before the applicability date.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-802_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The 2012 Act does not affect an action, case, or proceeding commenced before the applicability date.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

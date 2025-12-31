@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1201.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1201.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1201_02">
+        <akn:num>7-1201.02</akn:num>
+        <akn:heading>Disclosures prohibited; exceptions.</akn:heading>
+<akn:subsection eId="subsec_7-1201_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as specifically authorized by subchapter II, III, or IV of this chapter, no mental health professional, mental health facility, data collector or employee or agent of a mental health professional, mental health facility or data collector shall disclose or permit the disclosure of mental health information to any person, including an employer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1201_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as specifically authorized by subchapter II or IV of this chapter, no client in a group session shall disclose or permit the disclosure of mental health information relating to another client in the group session to any person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1201_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No violation of subsection (a) or (b) of this section occurs until a single act or series of acts taken together amount to a disclosure of mental health information.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

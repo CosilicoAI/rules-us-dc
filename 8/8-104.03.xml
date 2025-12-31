@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-104.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-104.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_104_03">
+        <akn:num>8-104.03</akn:num>
+        <akn:heading>Fertilizer application requirements.</akn:heading>
+<akn:subsection eId="subsec_8-104_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This section shall apply to individuals and entities who apply fertilizer for wages.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-104_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Fertilizer may be applied only to turf:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-104_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Fertilizer may not be applied to an impervious surface or be stored in a container on an impervious surface in a manner that would permit fertilizer runoff. Fertilizer that is inadvertently applied or leaked onto an impervious surface shall be returned for reuse to the target surface or to either its original or another appropriate container.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-104_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-104_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

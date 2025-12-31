@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1211.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1211.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1211_06">
+        <akn:num>2-1211.06</akn:num>
+        <akn:heading>Compensation; assistance from other agencies.</akn:heading>
+<akn:subsection eId="subsec_2-1211_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No compensation shall be paid to the members of the commission, but commission members may be reimbursed for actual expenses incurred in the performance of their duties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1211_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall provide office space and an appropriate staff of professional and clerical personnel to assist the commission in carrying out the duties assigned to it under this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1211_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall designate at least 1 employee from each of the following District agencies to serve as a liaison to the commission for the purpose of providing any information from the agency requested by the commission and lending needed assistance to the commission in performing its duties:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

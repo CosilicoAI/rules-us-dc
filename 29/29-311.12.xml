@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-311.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-311.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_311_12">
+        <akn:num>29-311.12</akn:num>
+        <akn:heading>Appraisal notice and form.</akn:heading>
+<akn:subsection eId="subsec_29-311_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a corporate action requiring appraisal rights under § 29-311.02(a) becomes effective, the corporation shall send an appraisal notice in a record and form required by subsection (b)(1) of this section to all shareholders who satisfy the requirements of § 29-311.11(a) or (b). In the case of a merger under § 29-309.05, the parent shall send an appraisal notice in a record and form to all record shareholders that may be entitled to assert appraisal rights.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-311_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The appraisal notice shall be delivered no earlier than the date the corporate action specified in § 29-311.02(a) became effective, and no later than 10 days after such date, and shall:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

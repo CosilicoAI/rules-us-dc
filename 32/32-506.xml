@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-506"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-506/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_506">
+        <akn:num>32-506</akn:num>
+        <akn:heading>School employees.</akn:heading>
+<akn:subsection eId="subsec_32-506_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the conditions in subsection (b) of this section are met, a local educational agency (“educational agency”) or private elementary or secondary school (“school”) may require an employee who is employed principally in an instructional capacity to elect to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-506_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The provisions of subsection (a) of this section shall apply if the employee described in subsection (a) of this section:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-506_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-506_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For purposes of a restoration of employment determination under § 32-505(d)(2), in the case of an educational agency or school, the determination shall be made on the basis of established school board or private school policies and practices and collective bargaining agreements.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

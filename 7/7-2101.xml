@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2101">
+        <akn:num>7-2101</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_7-2101_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Child” means any individual who is:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2101_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Continuing care” means ongoing supervision and care designed to nurture a resident’s growth and development, meet basic health needs, and monitor applicable school or work attendance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2101_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Court” means the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2101_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2101_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Emergency care” means temporary supervision and care, usually not exceeding 90 days and provided as the result of an individual or family crisis, that includes monitoring of applicable school or work attendance and an assessment of a resident’s physical, psychosocial, and educational needs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2101_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Facility” means a youth residential facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2101_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Resident” means a District child residing in a youth residential facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2101_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Therapeutic care” means an intensive, professionally supervised program of education and treatment designed to meet a resident’s physical, psychosocial, and educational needs as identified in an individualized treatment plan and, if applicable, an individualized education program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2101_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

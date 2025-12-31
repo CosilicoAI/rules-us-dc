@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-215"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-215/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4_215">
+        <akn:num>28:4-215</akn:num>
+        <akn:heading>Final payment of item by payor bank; when provisional debits and credits become final; when certain credits become available for withdrawal.</akn:heading>
+<akn:subsection eId="subsec_28:4-215_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An item is finally paid by a payor bank when the bank has first done any of the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-215_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If provisional settlement for an item does not become final, the item is not finally paid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-215_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If provisional settlement for an item between the presenting and payor banks is made through a clearing house or by debits or credits in an account between them, then to the extent that provisional debits or credits for the item are entered in accounts between the presenting and payor banks or between the presenting and successive prior collecting banks seriatim, they become final upon final payment of the items by the payor bank.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-215_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a collecting bank receives a settlement for an item which is or becomes final, the bank is accountable to its customer for the amount of the item and any provisional credit given for the item in an account with its customer becomes final.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-215_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Subject to (i) applicable law stating a time for availability of funds and (ii) any right of the bank to apply the credit to an obligation of the customer, credit given by a bank for an item in a customer’s account becomes available for withdrawal as of right:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-215_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Subject to applicable law stating a time for availability of funds and any right of a bank to apply a deposit to an obligation of the depositor, a deposit of money becomes available for withdrawal as of right at the opening of the bank’s next banking day after receipt of the deposit.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-918"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-918/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_918">
+        <akn:num>29-918</akn:num>
+        <akn:heading>Directors.</akn:heading>
+<akn:subsection eId="subsec_29-918_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An association shall be managed by a board of not less than 5 directors, who are elected for a term fixed in the bylaws, not to exceed 3 years, by and from the members of the association and hold office until their successors are elected or until removed. The bylaws of an association that provides multi-family cooperative housing for low and moderate income individuals who are receiving assistance through one or more of the federal programs described in § 47-1002(20) may provide that one or more of the directors, but not a majority of the directors, may be appointed by a nonprofit sponsoring organization which helped create the association so as to maintain a continuing and stabilizing interest in its well-being; provided, that the sponsoring organization shall not appoint any directors after the association has been established for 10 years. The director or directors appointed by the sponsoring organization need not be members of the association. Vacancies in the board of directors, otherwise than by removal or expiration of term, shall be filled in such manner as the bylaws may provide.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-918_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The bylaws may provide for a method of apportioning the number of directors among the units into which the association may be divided and for the election of directors by the respective units to which they are apportioned.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-918_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An executive committee of the board of directors may be elected in such manner and with such powers and duties as the articles or bylaws may prescribe.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-918_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Meetings of directors and of the executive committee may be held inside or outside the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-918_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Unless the articles of incorporation or bylaws provide otherwise, the board of directors may permit any or all directors to participate in a regular or special meeting by, or conduct the meeting through the use of, any means of communication by which all directors participating may simultaneously hear each other during the meeting. A director participating in a meeting by this means is deemed to be present in person at the meeting.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

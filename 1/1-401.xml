@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_401">
+        <akn:num>1-401</akn:num>
+        <akn:heading>Delegate to the House of Representatives from the District of Columbia.</akn:heading>
+<akn:subsection eId="subsec_1-401_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The people of the District of Columbia shall be represented in the House of Representatives by a Delegate, to be known as the “Delegate to the House of Representatives from the District of Columbia”, who shall be elected by the voters of the District of Columbia in accordance with subchapter I of Chapter 10 of this title. The Delegate shall have a seat in the House of Representatives, with the right of debate, but not of voting, shall have all the privileges granted a Representative by § 6 of Article I of the Constitution, and shall be subject to the same restrictions and regulations as are imposed by law or rules on Representatives. The Delegate shall be elected to serve during each Congress.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-401_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3272"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3272/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3272">
+        <akn:num>31-3272</akn:num>
+        <akn:heading>Coverage, notice, applicability, and regulations.</akn:heading>
+<akn:subsection eId="subsec_31-3272_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A health insurer shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3272_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The coverage shall not be more restrictive than coverage provided for any other illness, condition, or disorder for purposes of determining deductibles, benefit year or lifetime durational limits, benefit year or lifetime dollar limits, lifetime episodes or treatment limits, copayment and coinsuance factors, and benefit year maximum for deductibles and copayments and coinsurance factors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3272_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commissioner may issue rules and regulations necessary to implement the provisions of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3272_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This chapter shall apply to all individual and group health benefit plans issued or renewed on the first day of the month beginning on or after 90 days following March 2, 2007.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-151.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-151.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_151_06">
+        <akn:num>44-151.06</akn:num>
+        <akn:heading>Contract for continuing care; specifications.</akn:heading>
+<akn:subsection eId="subsec_44-151_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each contract for continuing care shall provide that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each contract shall include provisions that specify the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a resident’s continuing care agreement provides for assisted living services and, if the provider does not have an assisted living bed available at the facility when the resident needs the promised care, the provider shall provide the assisted living services the resident needs:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a resident’s continuing care agreement promises the provider shall provide the resident with comprehensive nursing care services if the resident needs them and, if the provider does not have a nursing care bed available when the resident needs the promised care, the provider shall provide the nursing care services needed as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_06_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A provider shall pay any contractual entrance fee refund due under a continuing care agreement to which it is a party within 60 days of the agreement being terminated by a resident’s election or death if, on the termination date, the unit has been occupied by or reserved for another resident who has paid an entrance fee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_06_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The resident’s continuing care contract shall permit the resident to identify the resident’s estate or the person or persons to whom payment shall be made if a refund is due by reason of the resident’s death.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

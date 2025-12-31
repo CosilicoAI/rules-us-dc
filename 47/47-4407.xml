@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4407"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4407/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4407">
+        <akn:num>47-4407</akn:num>
+        <akn:heading>Amnesty for tax periods ending prior to December 31, 2009.</akn:heading>
+<akn:subsection eId="subsec_47-4407_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer may establish a program to provide amnesty to a taxpayer liable for the payment of certain Title 47 taxes on returns or reports required for tax periods ending prior to December 31, 2008; provided, that if the Chief Financial Officer shall establish the tax amnesty program for a period ending after December 31, 2009, the tax amnesty program shall apply to tax returns or reports for tax periods ending prior to December 31, 2009.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4407_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Those eligible may receive amnesty from the imposition of any fee under § 47-4405, any fine or other civil or criminal penalty authorized under Chapters 41 or 42 of this title for the failure of the taxpayer to file a return or report, or pay a tax due for certain Title 47 taxes on a return or report that was required to be filed for tax periods as provided in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4407_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

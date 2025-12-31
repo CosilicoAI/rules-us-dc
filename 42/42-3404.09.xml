@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3404.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3404.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3404_09">
+        <akn:num>42-3404.09</akn:num>
+        <akn:heading>Single-family accommodations.</akn:heading>
+<akn:subsection eId="subsec_42-3404_09_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Written statement of interest. — Upon receipt of a written offer of sale from the owner that includes a description of the tenant’s rights and obligations under this section, or upon the Mayor’s receipt of a copy of the written offer of sale, whichever is later, the tenant shall have 30 days to provide the owner and the Mayor, by hand or by sending by certified mail, with a written statement of interest. The statement of interest shall be a clear expression of interest on the part of the tenant to exercise the right to purchase as specified in this subchapter;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_09_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Negotiation period. — If a tenant has provided a written statement of interest in accordance with paragraph (1) of this section, the owner shall afford the tenant a reasonable period to negotiate a contract of sale, and shall not require less than 60 days, not including the 30 days provided by paragraph (1) of this section. For every day of delay in providing information by the owner as required by this subchapter, the negotiation period is extended by 1 day;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_09_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Time before settlement. — The owner shall afford the tenant a reasonable period prior to settlement in order to secure financing and financial assistance, and shall not require less than 60 days after the date of contracting. If a lending institution or agency estimates in writing that a decision with respect to financing or financial assistance will be made within 90 days after the date of contracting, the owner shall afford an extension of time consistent with that written estimate;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_09_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Lapse of time. — If 180 days elapse from the date of a valid offer under this subchapter and the owner has not sold or contracted for the sale of the accommodation, the owner shall comply anew with the terms of this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

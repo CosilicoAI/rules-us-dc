@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1131.07b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1131.07b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1131_07b">
+        <akn:num>31-1131.07b</akn:num>
+        <akn:heading>Continuing education.</akn:heading>
+<akn:subsection eId="subsec_31-1131_07b_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Eight hours biennially for District of Columbia barred attorneys in courses specific to District of Columbia real estate laws and related regulations, and any other continuing education courses approved by the Commissioner;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_07b_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Sixteen hours biennially for resident title insurance producers in instruction specific to District of Columbia real estate laws and related regulations, and continuing education courses approved by the Commissioner of which not more than 8 hours may be completed through on-line or video-based courses; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_07b_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Four hours of instruction biennially for nonresident title insurance producers in instruction specific to District of Columbia real estate laws and related regulations.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

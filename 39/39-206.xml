@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/39-206"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/39-206/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_39_206">
+        <akn:num>39-206</akn:num>
+        <akn:heading>Miscellaneous provisions.</akn:heading>
+<akn:subsection eId="subsec_39-206_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall instruct the Office of Management and Budget Systems to coordinate with the Commission the establishment of a bookkeeping and accounting system to allow for swift transference of grant monies from the District government to a recipient, and shall instruct that Office, in concert with the Commission, to establish a voucher system which would also allow for the swift transference of funds from the District government to grant recipients.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-206_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nominees for the Commission shall be residents of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-206_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commission shall establish procedures in its bylaws to handle conflicts of interest in the awarding of grants, when any commissioner has either a structural or fiduciary relationship with a grantee.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

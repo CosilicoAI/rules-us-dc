@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-201.72"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-201.72/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_201_72">
+        <akn:num>24-201.72</akn:num>
+        <akn:heading>New housing or facilities for use as prisons; rated design capacity.</akn:heading>
+<akn:subsection eId="subsec_24-201_72_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After January 30, 2004, all new housing or facilities purchased, leased, constructed, or converted by the Department for use as a prison, except as provided in subsection (b) of this section, shall have only single occupancy rooms or cells and shall comply with all applicable federal and District of Columbia laws.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-201_72_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Multiple occupancy or dormitory-style housing or facilities may be used in minimum security conditions only; provided, that the housing or facilities meet all applicable American Correctional Association standards related to multiple occupancy housing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-201_72_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After January 30, 2004, rated design capacity shall not include trailers, modular units, or bed space not designed for prison housing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-201_72_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In Fiscal Year 2004, the Department shall use not less than $1.43 million of its appropriated funds to procure, in accordance with the requirements of this section, additional bed space for prisoners who otherwise would be housed within the Central Detention Facility of the D.C. Jail.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-201_72_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “rated design capacity” means the actual bed space in a prison facility as certified by the Department of Corrections utilizing the most recent standards established by the American Correctional Association and consistent with applicable federal and District of Columbia laws.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2004"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2004/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2004">
+        <akn:num>47-2004</akn:num>
+        <akn:heading>Vendor to collect tax; credit for expenses; application.</akn:heading>
+<akn:subsection eId="subsec_47-2004_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purpose of collecting his reimbursement as provided in § 47-2003 insofar as it can be done and yet eliminate the fractions of a cent, the vendor shall add to the sales price and collect from the purchaser such amounts as may be prescribed by the Mayor to carry out the purposes of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2004_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

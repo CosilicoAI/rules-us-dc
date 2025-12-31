@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3502_14">
+        <akn:num>42-3502.14</akn:num>
+        <akn:heading>Substantial rehabilitation.</akn:heading>
+<akn:subsection eId="subsec_42-3502_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the Rent Administrator determines that (1) a rental unit is to be substantially rehabilitated, and (2) the rehabilitation is in the interest of the tenants of the unit and the housing accommodation in which the unit is located, the Rent Administrator may approve, contingent upon completion of the substantial rehabilitation, an increase in the rent charged for the rental unit, if the rent increase is no greater than the equivalent of 125% of the rent charged applicable to the rental unit prior to substantial rehabilitation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In determining whether a housing unit is to be substantially rehabilitated, the Rent Administrator shall examine the plans, specifications, and projected costs for the rehabilitation, which shall be made available to the Rent Administrator by the housing provider of the rental unit or housing accommodation to be rehabilitated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In determining whether substantial rehabilitation of a housing accommodation is in keeping with the interest of the tenants, the Rent Administrator shall consider, among other relevant factors:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_14_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This section shall apply to the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

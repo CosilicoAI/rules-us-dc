@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-626.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-626.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_626_01">
+        <akn:num>1-626.01</akn:num>
+        <akn:heading>Policy.</akn:heading>
+<akn:subsection eId="subsec_1-626_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It is the purpose of this subchapter to establish a financially sound and equitable program of employee retirement benefits. With respect to retirement systems, the Council recognizes that existing programs, including the program administered by the federal government, are not now financed on an actuarially sound basis. Furthermore, the rights and benefits conferred by these systems and the financial implications for participation by employees vary significantly among systems.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-626_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The responsibility for creating an actuarially sound financial plan for existing retirement systems cannot and should not be borne solely by the District government. The Council therefore fully endorses the proposition that the federal government must assist the District government in establishing and maintain the necessary financial base for all existing retirement systems.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_1102">
+        <akn:num>5-1102</akn:num>
+        <akn:heading>Purpose.</akn:heading>
+<akn:subsection eId="subsec_5-1102_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Be visible to and easily accessible to the public;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1102_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Investigate promptly and thoroughly claims of police misconduct;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1102_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Encourage the mutually agreeable resolution of complaints through conciliation and mediation where appropriate;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1102_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Provide adequate due process protection to officers accused of misconduct;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1102_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Provide fair and speedy determination of cases that cannot be resolved through conciliation or mediation;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1102_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Render just determinations;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1102_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Foster increased communication and understanding and reduce tension between the police and the public; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1102_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>Improve the public safety and welfare of all persons in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

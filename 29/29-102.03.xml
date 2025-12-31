@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-102.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-102.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_102_03">
+        <akn:num>29-102.03</akn:num>
+        <akn:heading>Effective time and date.</akn:heading>
+<akn:subsection eId="subsec_29-102_03_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>On the date and at the time of its filing by the Mayor as provided in § 29-102.06;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_03_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>On the date of filing and at the time specified in the entity filing as its effective time, if later than the time under paragraph (1) of this section;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_03_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>If permitted by this title, at a specified delayed effective time and date, which shall not be more than 90 days after the date of filing; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_03_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>If a delayed effective date as permitted by this title is specified, but no time is specified, at 12:01 a.m. on the date specified, which may not be more than 90 days after the date of filing.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

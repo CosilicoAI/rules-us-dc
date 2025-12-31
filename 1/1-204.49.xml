@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.49"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.49/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_49">
+        <akn:num>1-204.49</akn:num>
+        <akn:heading>Accounting supervision and control.</akn:heading>
+<akn:subsection eId="subsec_1-204_49_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Prescribe the forms of receipts, vouchers, bills, and claims to be used by all the agencies, offices, and instrumentalities of the District government;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_49_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Examine and approve all contracts, orders, and other documents by which the District government incurs financial obligations, having previously ascertained that money has been appropriated and allotted and will be available when the obligations shall become due and payable;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_49_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Audit and approve before payment all bills, invoices, payrolls, and other evidences of claims, demands, or charges against the District government and with the advice of the legal officials of the District determine the regularity, legality, and correctness of such claims, demands, or charges; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_49_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Perform internal audits of accounts and operations and agency records of the District government, including the examination of any accounts or records of financial transactions, giving due consideration to the effectiveness of accounting systems, internal control, and related administrative practices of the respective agencies.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

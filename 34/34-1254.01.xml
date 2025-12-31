@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1254.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1254.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1254_01">
+        <akn:num>34-1254.01</akn:num>
+        <akn:heading>Franchise and franchise agreement required.</akn:heading>
+<akn:subsection eId="subsec_34-1254_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Council may grant one or more franchises to provide cable service over, on, under, or within the public rights-of-way.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1254_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person may construct or operate a cable system over, on, under, or within a public right-of-way without first obtaining a franchise under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1254_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No person may exercise the authority granted by a franchise without first having entered into a franchise agreement with the District pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1254_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A franchise granted pursuant to this chapter shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1254_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A franchise granted pursuant to this chapter shall not:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

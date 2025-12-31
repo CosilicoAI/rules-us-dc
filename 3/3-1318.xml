@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1318"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1318/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1318">
+        <akn:num>3-1318</akn:num>
+        <akn:heading>Unclaimed prizes.</akn:heading>
+<akn:subsection eId="subsec_3-1318_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An unclaimed prize for a winning ticket or share shall be retained by the Board for the person entitled to the prize for 180 days after the drawing in which the prize was won. If no claim is made for the prize within the 180-day period, the unclaimed prize funds shall be used as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1318_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed to prohibit the holding of bonus games or drawings with a preannounced period for claiming prizes of other than 180 days. The Board shall have the authority to establish by rule or regulation the claim periods for tickets issued by electronic instant-ticket-vending machines, games offered via the internet, and promotional games.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

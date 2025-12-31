@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1003.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1003.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1003_08">
+        <akn:num>44-1003.08</akn:num>
+        <akn:heading>Emergency transfer or discharge by Mayor.</akn:heading>
+<akn:subsection eId="subsec_44-1003_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever the immediate transfer or discharge of 1 or more residents is required by an emergency pursuant to § 44-1003.05(a)(5), the Mayor shall notify the licensee or administrator of the facility and any resident(s) to be removed that an emergency has been found to exist and that removal is ordered. In addition, whenever practicable the Mayor shall involve the resident(s) in the removal planning.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Following emergency removal, the Mayor shall provide the licensee or administrator of the facility, each resident removed, and each removed resident’s representative with a written notice stating the basis for the finding of an emergency and informing them of their right to contest the removal under § 44-1003.09.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

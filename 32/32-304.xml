@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-304"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-304/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_304">
+        <akn:num>32-304</akn:num>
+        <akn:heading>Committee for Purchase of Products and Services of the Blind and Other Individuals with Severe Disabilities — Duties.</akn:heading>
+<akn:subsection eId="subsec_32-304_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The duties of the Committee shall be as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-304_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Committee shall establish and publish a list of products produced by any qualified nonprofit agency for the blind and other individuals with severe disabilities and the services provided by any such agency which the Committee determines are suitable for procurement by agencies of the District government pursuant to this chapter. This procurement list and revisions thereof shall be distributed to all purchasing officers of the District government.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

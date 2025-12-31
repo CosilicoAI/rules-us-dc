@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-735"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-735/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_735">
+        <akn:num>31-735</akn:num>
+        <akn:heading>Applicability; membership interest; powers.</akn:heading>
+<akn:subsection eId="subsec_31-735_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Section 19 of the Life Insurance Act is not applicable to a reorganization or merger pursuant to this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-735_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A membership interest in a domestic mutual insurance holding company shall not constitute a security as defined in § 31-603.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-735_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A mutual holding company created under this subchapter shall have the same powers to borrow or assume liability as a mutual insurance company organized under the provisions of District law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-735_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The requirement of § 31-4421 that every director of a stock company organized under Chapter 44 of this title shall be a stockholder thereof is not applicable to a mutual insurance holding company, any intermediate insurance holding company, or any reorganized insurance company established pursuant to this subchapter. Every director of a mutual insurance holding company, any intermediate holding company, and any reorganized insurance company shall be a policyholder of the reorganized insurance company, having purchased a policy in a manner that shall not unfairly discriminate in favor of such director, either before or after the reorganization pursuant to § 31-731 or § 31-732.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-735_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-735_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A mutual insurance holding company created under this subchapter shall exercise any other power or engage in any activity permitted to a mutual insurance company organized under District laws.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

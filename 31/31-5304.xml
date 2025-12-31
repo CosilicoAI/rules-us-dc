@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5304"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5304/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5304">
+        <akn:num>31-5304</akn:num>
+        <akn:heading>Location of office.</akn:heading>
+<akn:subsection eId="subsec_31-5304_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The principal office of any domestic society shall be located in the District. The meetings of its supreme governing body may be held in any state, district, province, or territory wherein such society has at least one subordinate lodge, or in any other location as determined by the supreme governing body, and all business transacted at the meetings shall be as valid in all respects as if the meetings were held in the District. The minutes of the proceedings of the supreme governing body and of the board of directors shall be in the English language.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5304_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5304_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A society may provide in its laws or rules for grievance or complaint procedures for members.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

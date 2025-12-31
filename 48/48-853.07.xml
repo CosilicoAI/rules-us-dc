@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-853.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-853.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_853_07">
+        <akn:num>48-853.07</akn:num>
+        <akn:heading>Criteria for indicators of misuse; Director’s authority to disclose information; intervention.</akn:heading>
+<akn:subsection eId="subsec_48-853_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Director may establish through rulemaking:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-853_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon the development of the criteria and data analysis, the Director may, in addition to the discretionary disclosure of information pursuant to this chapter, disclose information using the criteria that indicates potential misuse by recipients of covered substances to their specific prescribers for the purpose of intervention to prevent such misuse.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

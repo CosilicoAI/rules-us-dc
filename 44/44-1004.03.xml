@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1004.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1004.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1004_03">
+        <akn:num>44-1004.03</akn:num>
+        <akn:heading>Civil action for damages.</akn:heading>
+<akn:subsection eId="subsec_44-1004_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A resident or resident’s representative may bring an action in court to recover actual and punitive damages for any injury that results from a violation of subsection (b) of this section, subchapter III of this chapter, any rule issued by the Mayor pursuant to subchapter III of this chapter, or any standard or resident’s right established pursuant to § 44-504(a)(3) and (4). Upon proof of a violation and subject to subsection (c) of this section, the resident shall be awarded 3 times the actual damages or $100, whichever is greater, and may be awarded punitive damages of up to $5,000.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1004_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No owner, licensee, administrator, or employee of a facility shall take any action that adversely affects a resident’s rights, privileges, or living arrangement in retaliation for that resident, his or her representative, or the Long-Term Care Ombudsman having exercised a right conferred by District or federal law, court order, or order of the Mayor. In any action brought under subsection (a) of this section alleging retaliation, there shall be a presumption, rebuttable by a showing of clear and convincing evidence, that conduct is retaliatory if an owner, licensee, administrator, or facility employee attempts to discharge, transfer, or relocate a resident within 6 months after that resident or his or her representative:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1004_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The defendant in an action brought under this section may plead as an affirmative defense that he, she, or it exercised reasonable care to prevent the injury for which liability is asserted; provided, however, that the adoption of policies and procedures to effect compliance with District law shall not alone be sufficient evidence to show the exercise of reasonable care.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1004_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The first $3,000 of a damages award recovered by a resident in any action brought under this section shall be excluded from consideration when determining that resident’s eligibility for Medicaid, the amount of assistance he or she is entitled to under Medicaid, or his or her assets that the District may subject to a lien, setoff, or other legal process for the purpose of satisfying any indebtedness created by the receipt of Medicaid or other public assistance payments.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

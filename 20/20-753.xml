@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-753"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-753/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_753">
+        <akn:num>20-753</akn:num>
+        <akn:heading>Proceedings for review of employment of agents and compensation of personal representatives and employees of estate.</akn:heading>
+<akn:subsection eId="subsec_20-753_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>On petition of any interested person (other than one who has consented after fair disclosure, and any person or entity claiming by or through such interested person) or on appropriate motion if administration is supervised, and after notice to all interested persons and hearing, the reasonableness of the need for or scope of employment of any person or entity employed by a personal representative including any attorney, auditor, investment advisor or other specialized agent or assistant, the reasonableness of the compensation of any person or entity so employed, or the reasonableness of the compensation claimed or taken by the personal representative for the personal representative’s own services, may be reviewed by the Court. Any person or entity who has received from an estate compensation for services rendered in excess of what the Court finds to be reasonable may be ordered to make appropriate refunds if such person or entity was given due notice of the petition and hearing, and the right to participate in such hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-753_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In determining the reasonableness of any employment or compensation as provided in subsection (a) of this section, the Court shall consider the following factors (as shown in the verified statements of the personal representative or of any other recipient of such compensation), as well as any other factors deemed relevant by the Court:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-753_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The payment of any compensation to any attorney pursuant to this provision (including compensation taken or claimed by an attorney as personal representative), even if later ordered by the Court to be refunded to the estate in whole or in part, shall not in and of itself be considered to be a taking or misappropriation of client funds under (or any other such violation of) any applicable ethical or disciplinary statutes or rules by that attorney.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

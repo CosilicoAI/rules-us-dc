@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3401.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3401.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3401_02">
+        <akn:num>42-3401.02</akn:num>
+        <akn:heading>Purposes.</akn:heading>
+<akn:subsection eId="subsec_42-3401_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>To discourage the displacement of tenants through conversion or sale of rental property, and to strengthen the bargaining position of tenants toward that end without unduly interfering with the rights of property owners to the due process of law;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3401_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>To preserve rental housing which can be afforded by lower income tenants in the District;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3401_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>To prevent lower income elderly and disabled tenants from being involuntarily displaced when their rental housing is converted;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3401_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>To provide incentives to owners, who convert their rental housing, to enable low income non-elderly and non-disabled tenants to continue living in their current units at costs they can afford;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3401_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>To provide relocation housing assistance for lower income tenants who are displaced by conversions;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3401_02_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>To encourage the formation of tenant organizations;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3401_02_6a">
+      <akn:num>(6a)</akn:num>
+      <akn:content><akn:p>To balance and, to the maximum extent possible, meet the sometimes conflicting goals of creating homeownership for lower income tenants, preserving affordable rental housing, and minimizing displacement; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3401_02_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>To authorize necessary actions consistent with the findings and purposes of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

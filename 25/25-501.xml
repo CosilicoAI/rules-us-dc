@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_501">
+        <akn:num>25-501</akn:num>
+        <akn:heading>Annual fees.</akn:heading>
+<akn:subsection eId="subsec_25-501_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>License fees shall be paid annually. The fee for the first year shall be paid at the time of application and the renewal fee shall be paid on or before the anniversary date of issuance of the license.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-501_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The applicant shall pay the initial license fee to the D.C. Treasurer. The applicant’s duplicate receipt shall accompany the application for license. If the application for the license is denied, the fee shall be returned. This subsection shall not apply to an application for a temporary license.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-501_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A licensee’s failure to timely remit the annual fee shall be cause for the Board to suspend the license until the licensee pays the fee and any fines imposed by the Board for late payment. If a licensee is 90 days delinquent on payment of the renewal fee, the Board shall give notice to the licensee of its intent to revoke the license. The licensee shall have 14 days to respond to the notice. If the Board thereafter determines that the failure to pay the fees and fines is not for good cause, the Board shall revoke the license.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-501_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Board may establish license periods at intervals necessary to facilitate efficient processing of applications. If the Board changes a license period, the licensee shall pay the proportionate amount of the annual license fee. If the Board issues a license for less than one year, the licensee shall pay a fee reduced by the proportionate amount of the annual fee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-501_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The fee for a temporary license shall be assessed according to the number of days for which the license is issued and shall be paid at the time of the application.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-501_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The minimum fee for a stipulated license issued by the Board pursuant to section 200 of Title 23 of the District of Columbia Municipal Regulations (23 DCMR § 200) shall be $100.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

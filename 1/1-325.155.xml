@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.155"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.155/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_155">
+        <akn:num>1-325.155</akn:num>
+        <akn:heading>Washington Metropolitan Area Transit Authority project.</akn:heading>
+<akn:subsection eId="subsec_1-325_155_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in § 1-325.156 and notwithstanding any other provision of this part, the budget authority for an approved capital project shall be reprogrammed, pursuant to Chapter 3 of Title 47 [§  47-301 et seq.], for use pursuant to subchapter IV-A of Chapter 11 of Title 9 [§ 9-1108.01 et seq.]; provided, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_155_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If at any time the Chief Financial Officer determines that certain funds are not needed to meet the requirements of the WMATA project, those funds may be reprogrammed, pursuant to Chapter 3 of Title 47, to any capital project that the Chief Financial Officer certifies a funding need.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

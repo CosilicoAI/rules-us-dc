@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3419"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3419/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3419">
+        <akn:num>31-3419</akn:num>
+        <akn:heading>Suspension or revocation of certificate of authority.</akn:heading>
+<akn:subsection eId="subsec_31-3419_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any certificate of authority issued under this chapter may be suspended or revoked, and any application for a certificate of authority may be denied, if the Commissioner finds that any of the conditions listed below exist:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3419_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In addition to, or in lieu of suspension or revocation of a certificate of authority pursuant to this section, the applicant or health maintenance organization may be subject to an administrative penalty of up to $1000 a day for each cause for suspension or revocation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3419_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The following shall pertain when insufficient net worth is maintained:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3419_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A certificate of authority shall be suspended or revoked, or an application or a certificate of authority denied, or an administrative penalty imposed only after compliance with the requirements of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

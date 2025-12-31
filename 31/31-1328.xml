@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1328"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1328/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1328">
+        <akn:num>31-1328</akn:num>
+        <akn:heading>Setoffs.</akn:heading>
+<akn:subsection eId="subsec_31-1328_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Mutual debts or mutual credits, whether arising out of 1 or more contracts between the insurer and another person in connection with any action or proceeding under this chapter, shall be set off and the balance only shall be allowed or paid, except as provided in subsection (b) of this section and § 31-1331.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1328_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No setoff shall be allowed in favor of any person where:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1328_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The receiver shall provide persons with accounting statements identifying all debts which are due and payable. Where a person owes to the insurer amounts which are due and payable, against which the person asserts setoff of mutual credits which may become due and payable from the insurer in the future, the person shall promptly pay to the receiver the amounts due and payable; provided that, notwithstanding § 31-1340 or any other provision of this chapter, the receiver shall promptly and fully refund, to the extent of the person’s prior payments, any mutual credits that become due and payable to the person by the insurer. Prior to the termination of any proceeding under this chapter, the amount due the person shall be determined for the purpose of the receiver making a final refund, if any.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1328_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>These amendments shall be effective October 15, 1994 and shall apply to all contracts entered into, renewed, extended, or amended on or after that date, and to debts or credits arising from any business written or transactions occurring after the effective date pursuant to any such contract. For purposes of this section, any change in the terms of, or consideration for, any such contract shall be deemed an amendment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1345"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1345/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1345">
+        <akn:num>47-1345</akn:num>
+        <akn:heading>Sale of real property subject to possessory interest.</akn:heading>
+<akn:subsection eId="subsec_47-1345_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whether or not any real property subject to sale under this chapter is subject to an estate for life, or a lease or ground rent for a term (with renewals) that is at least 30 years, the Mayor shall sell the entire fee simple estate; provided, that after the judgment of foreclosure of the right of redemption, no claim for rent unpaid, due, or accruing before the date of the judgment of foreclosure of the right of redemption shall be made by the purchaser (or assignee).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1345_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsection (a) of this section or any other provision to the contrary, when a real property subject to sale under this chapter is subject to a ground lease and the ground lessor is the District of Columbia, or an instrumentality of the District, the Washington Metropolitan Area Transit Authority, or an entity whose real property is exempt from real property taxation or the enforced collection thereof under the laws of the United States of America, the Mayor shall sell the real property’s improvements only. Any additional representation related to what is being sold shall be ineffectual and shall not affect the validity of the sale.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1345_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The termination of claims on real property sold under this section shall not foreclose any personal claims against previous holders of the interest sold for any damages including rent unpaid, due, or accruing before the date of the judgment of foreclosure.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

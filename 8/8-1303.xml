@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1303">
+        <akn:num>8-1303</akn:num>
+        <akn:heading>Permits.</akn:heading>
+<akn:subsection eId="subsec_8-1303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It is unlawful to own, construct, substantially alter, or operate any hazardous waste treatment, storage, or disposal facility or site or to generate, store, transport, treat, or dispose of any hazardous waste except in accordance with the terms of the permit issued by the Mayor for the facility, site, or activity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may issue, vary, or modify the terms of a permit or suspend, revoke, or deny a permit to achieve the purposes of this chapter, except that the Mayor may not issue a permit for a period that exceeds 10 years. The terms of any permit for a treatment, storage, or disposal facility shall require that the permit holder take corrective action within or beyond the facility boundary if necessary to protect human health and the environment. The Mayor may establish the appropriate permit fee according to costs associated with its issuance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1303_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any license issued pursuant to this section shall be issued as an Environmental Materials endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of Chapter 28 of Title 47.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

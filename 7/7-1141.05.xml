@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1141.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1141.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1141_05">
+        <akn:num>7-1141.05</akn:num>
+        <akn:heading>Purpose of the Department.</akn:heading>
+<akn:subsection eId="subsec_7-1141_05_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Ensure the provision of high-quality behavioral health services by establishing District-wide behavioral health standards and policies;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1141_05_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Foster and promote behavioral health education and disease prevention;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1141_05_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Provide high-quality prevention, treatment, and recovery support services related to mental health disorders, addictions, and the abuse of alcohol, tobacco, and other drugs in the District;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1141_05_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Develop and maintain an efficient and cost-effective behavioral health care financing system; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1141_05_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Implement, monitor, and evaluate the District’s strategic behavioral health plan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-903.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-903.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_903_04">
+        <akn:num>48-903.04</akn:num>
+        <akn:heading>Registration — Suspension; revocation; forfeiture of substances.</akn:heading>
+<akn:subsection eId="subsec_48-903_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A registration issued under § 48-903.03 to manufacture, distribute, or dispense a controlled substance may be suspended or revoked by the Mayor upon a finding that the registrant:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-903_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A registration issued under § 48-903.03 to manufacture, distribute, or dispense a controlled substance may be suspended by the Mayor upon a finding that the registrant has been convicted of a misdemeanor under any District of Columbia, state, or federal law relating to any controlled substance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-903_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may limit revocation or suspension of a registration to the particular controlled substance with respect to which grounds for revocation or suspension exist.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-903_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the Mayor suspends or revokes a registration, all controlled substances owned or possessed by the registrant at the time of suspension or the effective date of the revocation order may be placed under seal. No disposition may be made of substances under seal until the time for taking an appeal has elapsed or until all appeals have been concluded unless a court orders the sale of perishable substances and the deposit of the proceeds of the sale with the court. Upon a revocation order becoming final, all controlled substances may be forfeited in accordance with the provisions of § 48-905.03(d).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-903_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Mayor shall promptly notify the D.E.A. of all orders suspending or revoking registration and all forfeitures of controlled substances.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

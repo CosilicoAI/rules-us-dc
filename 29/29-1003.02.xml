@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1003.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1003.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1003_02">
+        <akn:num>29-1003.02</akn:num>
+        <akn:heading>Formation of limited cooperative association; articles of organization.</akn:heading>
+<akn:subsection eId="subsec_29-1003_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To form a limited cooperative association, an organizer of the association must deliver articles of organization to the Mayor for filing. The articles shall state:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1003_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to § 29-1001.09(a), articles of organization may contain any other provisions in addition to those required by subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1003_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A limited cooperative association shall be formed after articles of organization that substantially comply with subsection (a) of this section are delivered to the Mayor, are filed, and become effective under § 29-102.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1003_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If articles of organization filed by the Mayor state a delayed effective date, a limited cooperative association shall not be formed if, before the articles take effect, an organizer signs and delivers to the Mayor for filing a statement of cancellation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

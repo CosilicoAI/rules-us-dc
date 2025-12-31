@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1206.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1206.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1206_04">
+        <akn:num>29-1206.04</akn:num>
+        <akn:heading>Distribution to beneficial owner.</akn:heading>
+<akn:subsection eId="subsec_29-1206_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a beneficial owner becomes entitled to receive a distribution, with respect to the distribution, the beneficial owner shall have the status of, and shall be entitled to all remedies available to, a creditor of the statutory trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1206_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A beneficial owner has a right to a distribution before the dissolution and winding up of a statutory trust only if the trustee decides to make an interim distribution. A beneficial owner shall not have a right to demand or to receive a distribution from the trust in any form other than money.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1206_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 29-1208.03(b), the trust may distribute an asset in kind if each part of the asset is fungible with each other part and each beneficial owner receives a percentage of the asset equal in value to the beneficial owner’s share of the distribution.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1206_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any distributions made by a statutory trust before its dissolution and winding up must be in proportion to the beneficial interests.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

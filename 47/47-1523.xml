@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1523"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1523/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1523">
+        <akn:num>47-1523</akn:num>
+        <akn:heading>Reporting requirement; valuation of property.</akn:heading>
+<akn:subsection eId="subsec_47-1523_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The full and true value and the current value of tangible personal property, including taxable leasehold improvements, having a taxable situs in the District shall be reported on the return.  The full and true value shall be the original costs of the tangible personal property in an arms-length transaction, computed as of July 1st of the tax year.  The current value of the tangible personal property shall be the full and true value less a reasonable allowance for straight line depreciation in accordance with rules promulgated by the Mayor and the provisions under subsections (b), (c), (d), and (e) of this section.  Tangible personal property items with a useful life of one year or less shall be reported at cost.  No proration of value shall be permitted in anticipation of the disposition of an item of tangible personal property.  In no event shall the current value reported be less than 25% of the original cost or exchange value of the tangible personal property, except as permitted under subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1523_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Qualified technological equipment shall be depreciated at the rate of 30% per year, and shall not be depreciated to a value less than 10% of original cost or exchange value.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1523_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For personal property tax years beginning July 1, 2000, taxpayers who acquired qualified technological equipment on or before June 30, 2000, may calculate the current value of those assets as if the depreciation rate provided in subsection (b) of this section was used from the acquisition date; however, there shall be no credit or refund of tax paid in earlier tax years under the prior depreciation rate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1523_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For the purposes of this section:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1523_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For the purposes of this section:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.88"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.88/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_307_88">
+        <akn:num>1-307.88</akn:num>
+        <akn:heading>Annual report to the Mayor and Council.</akn:heading>
+<akn:subsection eId="subsec_1-307_88_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Risk Officer shall submit an annual report to the Mayor and the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_88_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The report shall be filed within 60 days of the Agency filing the annual report with the Commissioner under § 1-307.86(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_88_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The report shall summarize the activities of the Agency in the preceding calendar year, including the net earned premiums, health center enrollment in the Agency program, the expense of administration, and the paid and incurred losses.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

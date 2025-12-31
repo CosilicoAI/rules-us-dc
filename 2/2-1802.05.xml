@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1802.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1802.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1802_05">
+        <akn:num>2-1802.05</akn:num>
+        <akn:heading>Service.</akn:heading>
+<akn:subsection eId="subsec_2-1802_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any notice or order served upon a respondent or other person pursuant to this chapter may be personally served, electronically served, delivered to the respondent’s or other person’s last known home or business address and left with a person of suitable age and discretion residing or employed therein, or mailed to the respondent or other person by first class mail to the respondent’s last known home or business address. When service is by mail, 5 additional days shall be added to the time period within which the respondent or other person may, or is required to, take any action specified in the notice or order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1802_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Where property unlawfully occupies public space, including a public right-of-way, in violation of part B of subchapter II of Chapter 3 of Title 1 [§ 1-303.21 et seq.], subchapter I of Chapter 11 of Title 10 [§ 10-1101.01 et seq.], subchapter II of Chapter 11 of Title 10 [§ 10-1121.01 et seq.], subchapter III of Chapter 11 of Title 10 [§ 10-1141.01 et seq.], Chapter 11A of Title 10 [§ 10-1181.01 et seq.], or Chapter 9A of Title 50 [§ 50-921.01 et seq.], or another law regulating the occupancy or use of public space, including the public right-of-way, and the identity or location of the property owner is unknown, service may also be made by:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

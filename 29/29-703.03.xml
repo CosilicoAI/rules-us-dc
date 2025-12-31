@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-703.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-703.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_703_03">
+        <akn:num>29-703.03</akn:num>
+        <akn:heading>No liability as limited partner for limited partnership obligations.</akn:heading>
+<akn:subsection eId="subsec_29-703_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A debt, obligation, or other liability of a limited partnership, whether arising in contract, tort, or otherwise, is not attributable to a limited partner. A limited partner shall not be personally liable, directly or indirectly, by way of contribution or otherwise, for an a debt, obligation, or other liability of the limited partnership solely by reason of being a limited partner, even if the limited partner participates in the management and control of the limited partnership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-703_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The failure of a limited partnership to observe formalities relating to the exercise of its powers or management of its activities and affairs is not a ground for imposing liability on a limited partner for a debt, obligation, or other liability of the partnership.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

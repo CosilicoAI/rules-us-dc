@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-712"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-712/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_712">
+        <akn:num>16-712</akn:num>
+        <akn:heading>Community service.</akn:heading>
+<akn:subsection eId="subsec_16-712_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In criminal cases in the Superior Court of the District of Columbia, the court may, in addition to any other sentence imposed, require a person convicted of any offense as a condition of probation or as a sentence itself, to undertake reasonable services to the community for a period not to exceed 5 years in duration.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-712_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When community service is ordered, the court shall take into consideration the physical and mental health of the defendant, his or her age, education, employment and vocational training, family circumstances, financial condition, and any other factors as shall be appropriate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-712_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The court shall fix the manner of performing community service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-712_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>At any time during the probation period or period of community service, the defendant may request and the court may grant a hearing on any matter related to the plan of community service.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

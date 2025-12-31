@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-210"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-210/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4A_210">
+        <akn:num>28:4A-210</akn:num>
+        <akn:heading>Rejection of payment order.</akn:heading>
+<akn:subsection eId="subsec_28:4A-210_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A payment order is rejected by the receiving bank by a notice of rejection transmitted to the sender orally, electronically, or in writing. A notice of rejection need not use any particular words and is sufficient if it indicates that the receiving bank is rejecting the order or will not execute or pay the order. Rejection is effective when the notice is given if transmission is by a means that is reasonable in the circumstances. If notice of rejection is given by a means that is not reasonable, rejection is effective when the notice is received. If an agreement of the sender and receiving bank establishes the means to be used to reject a payment order, (i) any means complying with the agreement is reasonable and (ii) any means not complying is not reasonable unless no significant delay in receipt of the notice resulted from the use of the noncomplying means.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-210_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This subsection applies if a receiving bank other than the beneficiary’s bank fails to execute a payment order despite the existence on the execution date of a withdrawable credit balance in an authorized account of the sender sufficient to cover the order. If the sender does not receive notice of rejection of the order on the execution date and the authorized account of the sender does not bear interest, the bank is obliged to pay interest to the sender on the amount of the order for the number of days elapsing after the execution date to the earlier of the day the order is canceled pursuant to § 28:4A-211(d) or the day the sender receives notice or learns that the order was not executed, counting the final day of the period as an elapsed day. If the withdrawable credit balance during that period falls below the amount of the order, the amount of interest is reduced accordingly.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-210_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a receiving bank suspends payments, all unaccepted payment orders issued to it are deemed rejected at the time the bank suspends payments.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-210_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Acceptance of a payment order precludes a later rejection of the order. Rejection of a payment order precludes a later acceptance of the order.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

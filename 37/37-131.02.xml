@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/37-131.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/37-131.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_37_131_02">
+        <akn:num>37-131.02</akn:num>
+        <akn:heading>Vending from public space.</akn:heading>
+<akn:subsection eId="subsec_37-131_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as set forth in subsection (b) of this section, a person shall not vend from a sidewalk, roadway, or other public space unless the person holds:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-131_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may authorize the following persons to vend from public space without a basic business license or vending site permit:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-131_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-131_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor may establish by regulation exemptions from the licensure requirement for a person, entity, or categories of persons or entities to vend from public space without a basic business license when the public interest would be served by establishing such an exemption.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

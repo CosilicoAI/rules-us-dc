@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2502.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2502.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2502_04">
+        <akn:num>7-2502.04</akn:num>
+        <akn:heading>Fingerprints and photographs of applicants; application in person required.</akn:heading>
+<akn:subsection eId="subsec_7-2502_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Chief shall require any person applying for a registration certificate to be fingerprinted in order to conduct an efficient and adequate investigation into the matters described in § 7-2502.03 and to effectuate the purposes of this unit. The Chief shall maintain a record of the fingerprints of sufficient quality to enable periodic investigation to ensure compliance with § 7-2502.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2502_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Chief shall take a digitalized, full-face photograph of each applicant, other than an organization, to be included as part of a person’s firearms registration application. The photo shall be taken simultaneously with the filing of the application.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2502_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Every applicant (or in the case of an organization, the president or chief executive, or a person authorized in writing by him), shall appear in person at a time and place prescribed by the Chief, and may be required to bring with him the firearm for which a registration certificate is sought, which shall be transported in accordance with § 22-4504.02.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

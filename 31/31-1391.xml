@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1391"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1391/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1391">
+        <akn:num>31-1391</akn:num>
+        <akn:heading>Authority to enter into Interstate Insurance Product Regulation Compact.</akn:heading>
+<akn:subsection eId="subsec_31-1391_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. — The District of Columbia is authorized to enter into an interstate compact to establish a joint state commission as an instrumentality of the District of Columbia for the purpose of establishing uniform insurance product regulations among the participating States.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1391_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Delegation. — Any insurance product regulation compact that the Council of the District of Columbia authorizes the Mayor to execute on behalf of the District may contain provisions that delegate the requisite power and authority to the joint State commission to achieve the purposes for which the interstate compact is established.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

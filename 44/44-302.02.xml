@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-302.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-302.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_302_02">
+        <akn:num>44-302.02</akn:num>
+        <akn:heading>Standing referrals to specialists.</akn:heading>
+<akn:subsection eId="subsec_44-302_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general, subject to subsection (b) of this section, a health benefits plan shall permit a member to receive medically necessary or appropriate specialty care for more than one visit without having to obtain the insurer’s approval for subsequent visits authorized by a primary care provider.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-302_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subsection (a) of this section shall not apply to specialty care if the insurer informs the member, orally and in writing, of any limitation on the choice of participating providers with respect to such care.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

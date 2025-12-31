@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.86"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.86/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_307_86">
+        <akn:num>1-307.86</akn:num>
+        <akn:heading>Approval of plan of operation by Commissioner; annual report to Commissioner; financial examination.</akn:heading>
+<akn:subsection eId="subsec_1-307_86_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Prior to the offering and issuance of insurance policies, the Agency shall submit to the Commissioner for approval a plan of operation which meets the requirements of § 1-307.87. The Agency shall also submit to the Commissioner for approval any proposed material changes to the plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_86_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>On or before December 15 of each year, the Agency shall submit to the Commissioner, on a form prescribed by the Commissioner by rule, a report of its financial condition, as prepared by a certified public accountant. The Agency shall file a consolidated report on behalf of each of its segregated accounts. The Agency shall use generally accepted accounting principles and include any useful or necessary modifications or adaptations thereof that have been approved or accepted by the Commissioner for the type of insurance and kinds of insurers to be reported upon, as supplemented by additional information required by the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_86_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

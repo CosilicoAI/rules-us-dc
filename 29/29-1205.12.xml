@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1205.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1205.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1205_12">
+        <akn:num>29-1205.12</akn:num>
+        <akn:heading>Independent trustee in registered investment company.</akn:heading>
+<akn:subsection eId="subsec_29-1205_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “affiliated person” and “interested person” have the meanings as provided in section 2(3) and (19) of the Investment Company Act of 1940, (54 Stat. 790; 15 U.S.C. § 80a-2(3) and (19)), and any regulations issued thereunder.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1205_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a statutory trust is registered as an investment company under the Investment Company Act of 1940, approved August 22, 1940 (54 Stat. 789; 15 U.S.C. § 80a-1 et seq.), or any successor statute and any regulations issued thereunder, a trustee shall be an independent trustee for all purposes under this chapter if the trustee shall is not an [sic] interested person of the trust. The receipt of compensation both for service as an independent trustee of the trust and for service as an independent trustee of one or more other investment companies managed by a single investment adviser or an affiliated person of an investment adviser, shall not affect the status of the trustee as an independent trustee under this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-513"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-513/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_513">
+        <akn:num>28:2-513</akn:num>
+        <akn:heading>Buyer’s right to inspection of goods.</akn:heading>
+<akn:subsection eId="subsec_28:2-513_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Unless otherwise agreed and subject to subsection (3), where goods are tendered or delivered or identified to the contract for sale, the buyer has a right before payment or acceptance to inspect them at any reasonable place and time and in any reasonable manner. When the seller is required or authorized to send the goods to the buyer, the inspection may be after their arrival.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-513_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Expenses of inspection must be borne by the buyer but may be recovered from the seller if the goods do not conform and are rejected.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-513_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Unless otherwise agreed and subject to the provisions of this article on C.I.F. contracts (subsection (3) of section 28:2-321), the buyer is not entitled to inspect the goods before payment of the price when the contract provides:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-513_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>A place or method of inspection fixed by the parties is presumed to be exclusive but unless otherwise expressly agreed it does not postpone identification or shift the place for delivery or for passing the risk of loss. If compliance becomes impossible, inspection shall be as provided in this section unless the place or method fixed was clearly intended as an indispensable condition failure of which avoids the contract.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-324"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-324/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_324">
+        <akn:num>28:9-324</akn:num>
+        <akn:heading>Priority of purchase-money security interests.</akn:heading>
+<akn:subsection eId="subsec_28:9-324_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (g), a perfected purchase-money security interest in goods other than inventory or livestock has priority over a conflicting security interest in the same goods, and, except as otherwise provided in § 28:9-327, a perfected security interest in its identifiable proceeds also has priority, if the purchase-money security interest is perfected when the debtor receives possession of the collateral or within 20 days thereafter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-324_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to subsection (c) and except as otherwise provided in subsection (g), a perfected purchase-money security interest in inventory has priority over a conflicting security interest in the same inventory, has priority over a conflicting security interest in chattel paper or an instrument constituting proceeds of the inventory and in proceeds of the chattel paper, if so provided in § 28:9-330, and, except as otherwise provided in § 28:9-327, also has priority in identifiable cash proceeds of the inventory to the extent the identifiable cash proceeds are received on or before the delivery of the inventory to a buyer, if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-324_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subsections (b)(2) through (4) of this section apply only if the holder of the conflicting security interest had filed a financing statement covering the same types of inventory:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-324_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Subject to subsection (e) and except as otherwise provided in subsection (g), a perfected purchase-money security interest in livestock that are farm products has priority over a conflicting security interest in the same livestock, and, except as otherwise provided in § 28:9-327, a perfected security interest in their identifiable proceeds and identifiable products in their unmanufactured states also has priority, if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-324_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Subsections (d)(2) through (4) of this section apply only if the holder of the conflicting security interest had filed a financing statement covering the same types of livestock:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-324_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (g), a perfected purchase-money  security interest in software has priority over a conflicting security interest in the same collateral, and, except as otherwise provided in § 28:9-327, a perfected security interest in its identifiable proceeds also has priority, to the extent that the purchase-money security interest in the goods in which the software was acquired for use has priority in the goods and proceeds of the goods under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-324_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>If more than one security interest qualifies for priority in the same collateral under subsection (a), (b), (d), or (f) of this section:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-103.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-103.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_103_08">
+        <akn:num>8-103.08</akn:num>
+        <akn:heading>Discharge of pollutant from vessel or onshore or offshore facility; removal of these pollutants; contingency plan for environmental emergencies.</akn:heading>
+<akn:subsection eId="subsec_8-103_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-103_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Whenever there is a discharge or a substantial threat of discharge into the waters of the District of a hazardous substance, or there is a discharge or substantial threat of discharge into the waters of the District of a pollutant which may present an imminent and substantial danger to the public health or welfare, including danger to the livelihood of members of the public health or welfare, the Mayor is authorized to act to remove or arrange for the removal of the pollutant, and the Corporation Counsel of the District may bring suit on behalf of the District in the Superior Court of the District of Columbia or any other court of competent jurisdiction to restrain immediately any person causing or contributing to a discharge or threat of discharge, to recover any costs of removal incurred by the District, to impose civil penalties or to seek any other relief as the public interest may require.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-103_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

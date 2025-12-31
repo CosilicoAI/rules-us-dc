@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-503.26"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-503.26/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_503_26">
+        <akn:num>10-503.26</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_10-503_26_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The term “Capitol Buildings” means the United States Capitol, the Senate and House Office Buildings and garages, the Capitol Power Plant, all subways and enclosed passages connecting 2 or more of such structures, and the real property underlying and enclosed by any such structure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-503_26_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The term “firearm” shall have the same meaning as when used in § 901(3) of Title 15, United States Code.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-503_26_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The term “dangerous weapon” includes all articles enumerated in § 22-4514(a) and also any device designed to expel or hurl a projectile capable of causing injury to persons or property, daggers, dirks, stilettoes, and knives having blades over 3 inches in length.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-503_26_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The term “explosive” shall have the same meaning as when used in § 121(1) of Title 50, United States Code.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-503_26_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The term “act of physical violence” means any act involving:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4330"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4330/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_4330">
+        <akn:num>22-4330</akn:num>
+        <akn:heading>Seizure of hunting and fishing equipment; sale at public auction and disposal of proceeds; disposal of property not sold at auction; payment of valid liens after sale.</akn:heading>
+<akn:subsection eId="subsec_22-4330_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All rifles, shotguns, ammunition, bows, arrows, traps, seines, nets, boats, and other devices of every nature or description used by any person within the District of Columbia when engaged in killing, ensnaring, trapping, or capturing any wild bird, wild mammal, or fish contrary to this chapter or any regulation made pursuant to this chapter shall be seized by any police officer, or any designated civilian employee of the Metropolitan Police Department, upon the arrest of such person on a charge of violating any provision of this chapter or any regulations made pursuant thereto, and be delivered to the Mayor. If the person so arrested is acquitted, the property so seized shall be returned to the person in whose possession it was found. If the person so arrested is convicted, the property so seized shall, in the discretion of the court, be forfeited to the District of Columbia, and be sold at public auction, the proceeds from such sale to be deposited in the Treasury to the credit of the District of Columbia. If any item of such property is not purchased at such auction, it shall be disposed of in accordance with regulations prescribed by the District of Columbia Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4330_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If any property seized under the authority of this section is subject to a lien which is established by intervention or otherwise to the satisfaction of the court as having been created without the lienor’s having any notice that such property was to be used in connection with a violation of any provision of this chapter or any regulation made pursuant thereto, the court, upon the conviction of the accused, may order a sale of such property at public auction. The officer conducting such sale, after deducting proper fees and costs incident to the seizure, keeping, and sale of such property, shall pay all such liens according to their priorities, and such lien or liens shall be transferred from the property to the proceeds of the sale thereof.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

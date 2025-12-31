@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-1111.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-1111.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_1111_13">
+        <akn:num>9-1111.13</akn:num>
+        <akn:heading>Requirement that local participating governments have stable and reliable source of revenue for contributions.</akn:heading>
+<akn:subsection eId="subsec_9-1111_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Secretary of Transportation shall not make any grant under § 9-1111.11(a) for the cost of construction of the adopted regional system, until the Secretary has determined that the local participating governments, or signatories (as defined in subparagraph (d) of paragraph 1 of Article I of Title III of the Washington Metropolitan Area Transit Authority Compact) to the Compact, have provided a stable and reliable source of revenue sufficient to meet both:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-1111_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Transit Authority, in consultation with each governmental entity that is a local participating government or signatory to the Compact as referred to in subsection (a) of this section, for the purposes of this subchapter, shall submit a program to the Secretary of Transportation on or before September 30, 1980, showing how each such governmental entity will have in place on or before August 15, 1982, a stable and reliable source of revenue to provide for its contributions:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

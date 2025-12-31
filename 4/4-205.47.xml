@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.47"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.47/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_205_47">
+        <akn:num>4-205.47</akn:num>
+        <akn:heading>Nursing care standard.</akn:heading>
+<akn:subsection eId="subsec_4-205_47_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a recipient is receiving nursing care in the home of a relative, the Mayor will apply the standard for room, board, and care in an intermediate care facility, based on the kind and extent of care required.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_47_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The rate for care in a foster home or for residential placement shall be the same as that for the lowest rate in an intermediate care facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_47_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The rates paid for intermediate care, foster home care, or residential placement shall be paid at 100% of the standard as the rates were not increased in the 1970 budget.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

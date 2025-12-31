@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-210"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-210/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_210">
+        <akn:num>46-210</akn:num>
+        <akn:heading>Objections to withholding.</akn:heading>
+<akn:subsection eId="subsec_46-210_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An obligor may object to a withholding commenced pursuant to § 46-207.01 by filing a motion to quash the withholding with the Court within 15 days after the earlier of the date the notice of withholding was mailed or the date the first payment was withheld.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-210_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Court shall resolve any motion to quash the withholding within 90 days after service of the motion on the opposing party, unless, upon a showing of good cause, the Court finds that additional time is needed to resolve the motion.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-210_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The only ground for an objection to a withholding is a mistake of fact, which is defined as:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-210_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Payment of arrearages after the date of issuance of a notice of withholding to the obligor pursuant to § 46-209 is not a defense to the withholding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-210_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Court shall deny the motion in all cases except where the identity of the obligor is mistaken or, if applicable, where arrearages have never equaled one month of support payments, and shall notify the obligor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-210_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>If the Court determines that the amount to be withheld exceeds the limits of § 46-208 or section 303(b) of the Consumer Credit Protection Act [15 U.S.C. § 1673(b)], the Court shall serve or direct the IV-D agency to serve an order to withhold on the holder that complies with those limits.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-210_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>The Court shall deny any request to stay the withholding pending resolution of an objection or appeal.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

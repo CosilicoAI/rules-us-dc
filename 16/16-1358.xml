@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1358"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1358/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_1358">
+        <akn:num>16-1358</akn:num>
+        <akn:heading>Oath of jurors.</akn:heading>
+<akn:subsection eId="subsec_16-1358_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>are not interested in any manner in the property to be condemned;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1358_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>are not, to their knowledge, related to any person interested in the property; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1358_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>will, impartially and to the best of their judgment, ascertain, appraise, and award just compensation for the property to be condemned and taken in the proceeding.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

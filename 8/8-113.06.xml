@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-113.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-113.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_113_06">
+        <akn:num>8-113.06</akn:num>
+        <akn:heading>Certification, registration, and licensing.</akn:heading>
+<akn:subsection eId="subsec_8-113_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor may require the licensing of any business and the certification of any individual who installs, removes, or tests underground storage tanks. The Mayor may, by rules issued in accordance with § 8-113.12, establish prerequisites for licensing and certification including minimum qualifications, proof of financial responsibility, application fees, and procedures.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any owner of an underground storage tank that contains a regulated substance shall register the tank with the Mayor on an annual basis pursuant to the rules issued and shall pay the required fee. A copy of the registration certificate shall be kept conspicuously displayed and available for inspection at any facility where the underground storage tank is located.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The annual registration fee shall be:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor may adjust fees in accordance with rules issued pursuant to § 8-113.12 beginning 2 years after March 8, 1991.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

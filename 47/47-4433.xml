@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4433"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4433/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4433">
+        <akn:num>47-4433</akn:num>
+        <akn:heading>Notice and protest.</akn:heading>
+<akn:subsection eId="subsec_47-4433_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the refund offset concerns (1) the existence or amount of an arrearage for court-ordered child support, a default under a federal student loan program, or the overpayment of unemployment compensation benefits under § 47-4431(c), or (2) the division of a joint refund under § 47-4432, the taxpayer shall have the right to contest the proposed referral for offset of the tax refund, the offset of the tax refund, or the apportionment of the tax refund. Before a refund offset is disbursed, the Mayor shall notify the taxpayer in writing that he or she may file a protest with the Office of Administrative Hearings to challenge the proposed refund offset within 30 days of service of the notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4433_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any notice of refund offset described in subsection (a) of this section shall be governed by the procedures set forth in § 47-4312 for assessments of deficiencies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4433_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Office of Administrative Hearings shall refuse to consider a protest if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

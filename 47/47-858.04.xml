@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-858.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-858.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_858_04">
+        <akn:num>47-858.04</akn:num>
+        <akn:heading>Tax abatements for homeowners in enterprise zones — Tax credit for substantial rehabilitation of single-family residential property in an enterprise zone.</akn:heading>
+<akn:subsection eId="subsec_47-858_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to § 47-858.02 and subsection (b) of this section, if an eligible owner of a single family residential property in an enterprise zone substantially rehabilitates the property after the effective date of this section [April 19, 2002] and before October 1, 2007, the real property tax imposed by § 47-811 shall, for the tax year in which the substantial rehabilitation is completed, be reduced $50 for each $1,000 of expended on the substantial rehabilitation; provided:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-858_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The amount of the reduction allowed during a tax year under this section shall not exceed 50% of the real property tax that was imposed on the real property by § 47-811 during the prior tax year. If the amount of the reduction exceeds 50% of the tax imposed during the prior tax year, the unused amount of the reduction may be carried forward for 5 tax years</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-858_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may approve up to $1 million in tax credits under § 47-858.04.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

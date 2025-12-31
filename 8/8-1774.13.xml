@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1774.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1774.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1774_13">
+        <akn:num>8-1774.13</akn:num>
+        <akn:heading>Solar and Renewable Home Improvement Financing Proposal.</akn:heading>
+<akn:subsection eId="subsec_8-1774_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 90 days after October 22, 2008, the Commission shall open an investigation into mechanisms to make long-term affordable financing available to energy consumers to purchase:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1774_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commission’s investigation shall include the means by which the electric and gas companies’ billing systems can be used to collect payments from individuals to purchase renewable energy generating systems and make energy efficiency improvements to homes and businesses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1774_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Within 60 days after the close of the record of the investigation, the Commission shall issue a report, including findings, on the feasibility of the implementation of the proposal set forth in subsections (a) and (b) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

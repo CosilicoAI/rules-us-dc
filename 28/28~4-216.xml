@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-216"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-216/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4_216">
+        <akn:num>28:4-216</akn:num>
+        <akn:heading>Insolvency and preference.</akn:heading>
+<akn:subsection eId="subsec_28:4-216_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If an item is in or comes into the possession of a payor or collecting bank that suspends payment and the item has not been finally paid, the item must be returned by the receiver, trustee, or agent in charge of the closed bank to the presenting bank or the closed bank’s customer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-216_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a payor bank finally pays an item and suspends payments without making a settlement for the item with its customer or the presenting bank which settlement is or becomes final, the owner of the item has a preferred claim against the payor bank.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-216_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a payor bank gives or a collecting bank gives or receives a provisional settlement for an item and thereafter suspends payments, the suspension does not prevent or interfere with the settlement’s becoming final if the finality occurs automatically upon the lapse of certain time or the happening of certain events.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-216_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a collecting bank receives from subsequent parties settlement for an item, which settlement is or becomes final and the bank suspends payments without making a settlement for the item with its customer which settlement is or becomes final, the owner of the item has a preferred claim against the collecting bank.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

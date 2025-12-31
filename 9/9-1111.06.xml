@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-1111.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-1111.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_1111_06">
+        <akn:num>9-1111.06</akn:num>
+        <akn:heading>Guarantee of obligations.</akn:heading>
+<akn:subsection eId="subsec_9-1111_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-1111_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any guarantee of obligations made by the Secretary of Transportation under this section shall be conclusive evidence of the eligibility of the obligations for such guarantee, and the validity of any guarantee so made shall be incontestable, except for fraud or material misrepresentation, in the hands of a holder of the guaranteed obligation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-1111_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The aggregate principal amount of obligations which may be guaranteed under this section shall not exceed $1,200,000,000; except that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-1111_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The interest on any obligation of the Transit Authority guaranteed by the Secretary under the provisions of this section shall be included in gross income for the purposes of Chapter 1 of the Internal Revenue Code of 1954.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

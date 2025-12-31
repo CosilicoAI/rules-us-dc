@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4425"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4425/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4425">
+        <akn:num>16-4425</akn:num>
+        <akn:heading>Judgment on award; attorney’s fees and litigation expenses.</akn:heading>
+<akn:subsection eId="subsec_16-4425_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon granting an order confirming, vacating without directing a rehearing, modifying, or correcting an award, the court shall enter a judgment in conformity therewith. The judgment may be recorded, docketed, and enforced as any other judgment in a civil action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4425_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A court may allow reasonable costs of the motion and subsequent judicial proceedings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4425_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>On application of a prevailing party to a contested judicial proceeding under § 16-4422, 16-4423, or 16-4424, the court may add reasonable attorney’s fees and other reasonable expenses of litigation incurred in a judicial proceeding after the award is made to a judgment confirming, vacating without directing a rehearing, modifying, or correcting an award.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-606"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-606/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_606">
+        <akn:num>5-606</akn:num>
+        <akn:heading>Compromise, release or waiver of claim.</akn:heading>
+<akn:subsection eId="subsec_5-606_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Compromise or settle and execute a release of any claim which the District of Columbia has by virtue of the rights established by § 5-602, § 5-603, or § 5-604; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-606_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>For the convenience of the District of Columbia, or if the Mayor determines that collection would result in undue hardship upon the policeman or fireman who suffered the injury or disease resulting in care and treatment described in § 5-602, or upon his dependents or survivors, waive any such claim in whole or in part.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

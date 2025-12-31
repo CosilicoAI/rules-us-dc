@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-316"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-316/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_316">
+        <akn:num>25-316</akn:num>
+        <akn:heading>Additional considerations for transfer of licensed establishment to new owner.</akn:heading>
+<akn:subsection eId="subsec_25-316_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In determining the appropriateness of the transfer of a licensed establishment to a new owner, the Board shall consider only the applicant’s qualifications as set forth in § 25-301.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-316_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board shall not allow the transfer of the license of an establishment to a person against whom there is pending in the courts or before the Board a charge of keeping a disorderly house or of violating this title or the laws against gambling in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-316_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When the transferred license comes due for renewal, the Board shall evaluate the appropriateness of the application for renewal according to the standards set forth in §§ 25-313 and 25-315.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-316_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the transfer of ownership, as defined in § 25-405, includes a proposed substantial change in the operation of the establishment, the Board shall evaluate this transfer of ownership in accordance with § 25-404.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

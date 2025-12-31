@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1501.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1501.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_1501_14">
+        <akn:num>5-1501.14</akn:num>
+        <akn:heading>Functions of the Stakeholder Council.</akn:heading>
+<akn:subsection eId="subsec_5-1501_14_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Identify issues or concerns regarding:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1501_14_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Advise the Mayor and the Council, as it considers necessary, on matters relating to the Department or forensic science.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

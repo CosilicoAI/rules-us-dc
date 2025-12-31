@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.76"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.76/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_205_76">
+        <akn:num>4-205.76</akn:num>
+        <akn:heading>POWER — Participation in activities to assist in achieving self-sufficiency.</akn:heading>
+<akn:subsection eId="subsec_4-205_76_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Following a preliminary assessment by the Mayor under TANF and a medical review, a person who has been determined to meet the eligibility criteria of § 4-205.72 shall be required, as a condition of eligibility for POWER benefits, to participate in activities that will assist the recipient in achieving self-sufficiency. The Mayor shall determine the nature, scope, amount and duration of the activities based on the medical review and the preliminary assessment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_76_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall promulgate rules establishing the nature and scope of the activities and the amount and duration of participation that may be required of a POWER recipient.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_76_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Participation in activities required under this section shall not confer to the participant any entitlement to child care. The Mayor may provide access to publicly-funded child care to a POWER recipient if necessary for the recipient to participate in self-sufficiency activities.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

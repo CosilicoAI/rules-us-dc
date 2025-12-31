@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-304"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-304/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_304">
+        <akn:num>28:8-304</akn:num>
+        <akn:heading>Indorsement.</akn:heading>
+<akn:subsection eId="subsec_28:8-304_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An indorsement may be in blank or special. An indorsement in blank includes an indorsement to bearer. A special indorsement specifies to whom a security is to be transferred or who has power to transfer it. A holder may convert a blank indorsement to a special indorsement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-304_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An indorsement purporting to be only of part of a security certificate representing units intended by the issuer to be separately transferable is effective to the extent of the indorsement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-304_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An indorsement, whether special or in blank, does not constitute a transfer until delivery of the certificate on which it appears or, if the indorsement is on a separate document, until delivery of both the document and the certificate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-304_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a security certificate in registered form has been delivered to a purchaser without a necessary indorsement, the purchaser may become a protected purchaser only when the indorsement is supplied. However, against a transferor, a transfer is complete upon delivery and the purchaser has a specifically enforceable right to have any necessary indorsement supplied.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-304_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An indorsement of a security certificate in bearer form may give notice of an adverse claim to the certificate, but it does not otherwise affect a right to registration that the holder possesses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-304_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Unless otherwise agreed, a person making an indorsement assumes only the obligations provided in § 28:8-108 and not an obligation that the security will be honored by the issuer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-101.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-101.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_101_06">
+        <akn:num>9-101.06</akn:num>
+        <akn:heading>Public notice of proposed plan.</akn:heading>
+<akn:subsection eId="subsec_9-101_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>At least 30 days prior to the submissions by the Mayor of the District of Columbia to the National Capital Planning Commission and to the Council of the District of Columbia for approvals of a proposed modification to the permanent system of highways, the Mayor shall provide written notice of an opportunity to submit comments on the proposed modification to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-101_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Copies of comments received by the Mayor shall be included in any subsequent submission by the Mayor to the Council of the District of Columbia of a resolution to consider the proposed modification to the permanent system of highways.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

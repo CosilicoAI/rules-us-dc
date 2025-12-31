@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1201"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1201/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1201">
+        <akn:num>32-1201</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_32-1201_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Employer” means any individual, firm, association, corporation, the District of Columbia government, any receiver or trustee of any individual firm, association, or corporation, or the legal representative of a deceased employer, who uses the services of an individual (“employee”) for pay in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1201_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>“Employee” means any individual whose services are used for pay in the District by any of the entities provided for in paragraph (1) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1201_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Parent” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1201_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“School-related event” means an activity sponsored by either a school or an associated organization such as a parent-teacher association. A school-related event includes: a student performance such as a concert, play, or rehearsal; the sporting game of a school team or practice; a meeting with a teacher or counselor; or any similar type of activity. A school-related event shall involve the parent’s child directly either as participant or subject but not as a spectator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1201_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“District of Columbia Emancipation Day” means April 16th of each year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1201_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Domestic partnership” shall have the same meaning as provided in § 32-701(4).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

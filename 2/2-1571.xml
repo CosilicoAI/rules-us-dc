@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1571"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1571/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1571">
+        <akn:num>2-1571</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_2-1571_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Acceptable level of school attendance” means that a student has not accrued unexcused absences exceeding 5% of the total days in a school year and has not violated the requirements for mandatory school attendance under § 38-202.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1571_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Eligible District youth” means an individual who is a domiciliary of the District and is between 14 and 19 years of age.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1571_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Institute” means the Mayor’s Youth Leadership Institute.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

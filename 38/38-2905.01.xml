@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2905.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2905.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2905_01">
+        <akn:num>38-2905.01</akn:num>
+        <akn:heading>Supplement to foundation level funding on the basis of the count of at-risk students.</akn:heading>
+<akn:subsection eId="subsec_38-2905_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In addition to the grade level and supplemental allocations provided pursuant to §§ 38-2904 and 38-2905, additional allocations shall be provided on the basis of the count of students identified as at-risk.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2905_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The additional allocations required by subsection (a) of this section shall be calculated by applying a weighting factor, as determined by the Mayor, to the foundation level.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2905_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The weighting for at-risk students shall be applied cumulatively in the counts of students who fall into more than one of the formula weighting categories; provided, that for students identified as both as at-risk and as participating in an alternative program or as adult learners, only the alternative program weighting shall apply.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-392.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-392.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_392_04">
+        <akn:num>47-392.04</akn:num>
+        <akn:heading>Restrictions on borrowing by District during control year.</akn:heading>
+<akn:subsection eId="subsec_47-392_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Prior approval required. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-392_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Deposit of funds obtained through treasury with Authority. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-392_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>[Reserved].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-392_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Deposit of borrowed funds with authority. — If the District government borrows funds during a control year, the funds shall be deposited into an escrow account held by the Authority, to be allocated by the Authority to the Mayor at such intervals and in accordance with such terms and conditions as it considers appropriate, consistent with the financial plan and budget for the year and with any other withholding of funds by the Authority pursuant to this Act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-392_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Expenditure of funds from account in accordance with authority instructions. — Any funds allocated by the Authority to the Mayor from the escrow account described in subsection (b)(1) of this section or the escrow amount described in subsection (d) of this section may be expended by the Mayor only in accordance with the terms and conditions established by the Authority at the time the funds are allocated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-392_04_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Prohibition against borrowing while suit pending. — The Mayor may not requisition advances from the Treasury pursuant to §§ 47-3401 through 47-3401.04 if there is an action filed by the Mayor or the Council which is pending against the Authority challenging the establishment of or any action taken by the Authority.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

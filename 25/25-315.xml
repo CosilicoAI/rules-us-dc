@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-315"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-315/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_315">
+        <akn:num>25-315</akn:num>
+        <akn:heading>Additional considerations for renewal of licenses.</akn:heading>
+<akn:subsection eId="subsec_25-315_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If proper notice has been given, as provided in subchapter II of Chapter 4, and no objection to the appropriateness of the establishment is filed, the establishment shall be presumed to be appropriate for the locality, section, or portion of the District where it is located.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-315_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-315_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an application for license renewal is made the subject of contested proceedings and the license expires before the Board’s decision on the renewal application, the Board may extend the expiration date during the pendency of the decision on the renewal application.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

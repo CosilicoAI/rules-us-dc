@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-351.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-351.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_351_05">
+        <akn:num>2-351.05</akn:num>
+        <akn:heading>Application; exemptions.</akn:heading>
+<akn:subsection eId="subsec_2-351_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in this section, this chapter, except for § 2-352.02, shall apply to all subordinate agencies, instrumentalities, and employees of the District government, independent agencies, boards, and commissions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-351_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Only §§ 2-351.02, 2-351.03, 2-351.04, and subchapters III, IV, V, VII, IX, X, XI, and XII of this chapter shall apply to the Council. The duties of the CPO shall be exercised by the Council for the purposes of the application of those sections and subchapters to the Council. Notwithstanding § 2-352.01, the Mayor or the CPO shall not have the authority to monitor, review, or establish standards, procedures, regulations, or rules for contracts or procurements of the Council, unless authorized by the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-351_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This chapter, except for § 2-352.02, shall not apply to:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

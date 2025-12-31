@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-702.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-702.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_702_04">
+        <akn:num>29-702.04</akn:num>
+        <akn:heading>Signing of records.</akn:heading>
+<akn:subsection eId="subsec_29-702_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each record delivered to the Mayor for filing pursuant to this chapter shall be signed in the following manner:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-702_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person may sign by an attorney in fact any record to be filed pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-702_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each record delivered to the Mayor for filing pursuant to Chapter 2 of this title shall be signed by each general partner listed in the certificate of limited partnership.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

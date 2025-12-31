@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-311.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-311.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_311_13">
+        <akn:num>29-311.13</akn:num>
+        <akn:heading>Perfection of rights; right to withdraw.</akn:heading>
+<akn:subsection eId="subsec_29-311_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A shareholder that receives notice pursuant to § 29-311.12 and that wishes to exercise appraisal rights shall sign and return the form sent by the corporation and, in the case of certificated shares, deposit the shareholder’s certificates in accordance with the terms of the notice by the date referred to in the notice pursuant to § 29-311.12(b)(2)(B). In addition, if applicable, the shareholder shall certify on the form whether the beneficial owner of such shares acquired beneficial ownership of the shares before the date required to be set forth in the notice pursuant to § 29-311.12(b)(1). If a shareholder fails to make this certification, the corporation may elect to treat the shareholder’s shares as after-acquired shares under § 29-311.15. Once a shareholder deposits that shareholder’s certificates or, in the case of uncertificated shares, returns the signed forms, that shareholder loses all rights as a shareholder, unless the shareholder withdraws pursuant to subsection (b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-311_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A shareholder that has complied with subsection (a) of this section may nevertheless decline to exercise appraisal rights and withdraw from the appraisal process by so notifying the corporation in writing by the date set forth in the appraisal notice pursuant to § 29-311.12(b)(2)(E). A shareholder that fails to so withdraw from the appraisal process may not thereafter withdraw without the corporation’s written consent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-311_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A shareholder that does not sign and return the form and, in the case of certificated shares, deposit that shareholder’s share certificates where required, each by the date set forth in the notice described in § 29-311.12(b), shall not be entitled to payment under this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

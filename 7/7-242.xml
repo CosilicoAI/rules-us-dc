@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-242"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-242/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_242">
+        <akn:num>7-242</akn:num>
+        <akn:heading>Use and disclosure of health and human services information.</akn:heading>
+<akn:subsection eId="subsec_7-242_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In accordance with § 7-243 and without prior consent from the identified individual, an agency or service provider may use and shall disclose to another agency or service provider health and human services information referencing or relating to the identified individual for the following purposes; provided, that the use or disclosure is not specifically prohibited under District or federal law:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-242_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A service provider shall disclose health and human services information to an agency upon request by the agency; provided, that the disclosure and use of such information is in accordance with this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-242_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An agency or service provider shall use or disclose individually identifiable health information in accordance with HIPAA.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-242_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When using or disclosing health and human services information, an agency or service provider shall make reasonable efforts to limit such information to the minimum amount necessary to accomplish the purpose of the use or disclosure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-242_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An agency or service provider that discloses health and human services information shall designate an individual responsible for:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

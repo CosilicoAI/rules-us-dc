@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-504"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-504/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2A_504">
+        <akn:num>28:2A-504</akn:num>
+        <akn:heading>Liquidation of damages.</akn:heading>
+<akn:subsection eId="subsec_28:2A-504_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Damages payable by either party for default, or any other act or omission, including indemnity for loss or diminution of anticipated tax benefits or loss or damage to lessor’s residual interest, may be liquidated in the lease agreement, but only at an amount or by a formula that is reasonable in light of the then anticipated harm caused by the default or other act or omission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-504_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the lease agreement provides for liquidation of damages and the provision does not comply with subsection (a) of this section, or the provision is an exclusive or limited remedy that circumstances cause to fail of its essential purpose, remedy may be had as provided in this article.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-504_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the lessor justifiably withholds or stops delivery of goods because of the lessee’s default or insolvency (§ 28:2A-525 or § 28:2A-526), the lessee is entitled to restitution of any amount by which the sum of his or her payments exceeds:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-504_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A lessee’s right to restitution under subsection (c) of this section is subject to offset to the extent the lessor establishes:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.51"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.51/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_51">
+        <akn:num>1-204.51</akn:num>
+        <akn:heading>Special rules regarding certain contracts.</akn:heading>
+<akn:subsection eId="subsec_1-204_51_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Contracts extending beyond one year. — No contract involving expenditures out of an appropriation which is available for more than 1 year shall be made for a period of more than 5 years unless, with respect to a particular contract, the Council, by a two-thirds vote of its members present and voting, authorizes the extension of such period for such contract. Such contracts shall be made pursuant to criteria established by act of the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_51_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Contracts exceeding certain amount. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_51_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Multiyear contracts. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_51_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Exemption for certain contracts. — The requirements of this section shall not apply with respect to any of the following contracts:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

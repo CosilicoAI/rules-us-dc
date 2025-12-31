@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2206.34"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2206.34/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2206_34">
+        <akn:num>50-2206.34</akn:num>
+        <akn:heading>Penalties for operating watercraft while impaired.</akn:heading>
+<akn:subsection eId="subsec_50-2206_34_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsections (b) and (c) of this section, a person violating § 50-2206.33 shall upon conviction for the first offense be fined $250, or incarcerated for not more than 30 days, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2206_34_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person violating § 50-2206.33 when the person has a prior offense under § 50-2206.31 or § 50-2206.33 and is being sentenced on the current offense shall be fined not more than $2,500, or incarcerated for not more than 180 days, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2206_34_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person violating § 50-2206.33 when the person has 2 or more prior offenses under § 50-2206.31 or § 50-2206.33 and is being sentenced on the current offense shall be fined not less than $2,500 and not more than $5,000, or incarcerated for not more than one year, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2206_34_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The fines set forth in this section shall not be limited by § 22-3571.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

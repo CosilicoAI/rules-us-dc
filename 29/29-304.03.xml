@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_304_03">
+        <akn:num>29-304.03</akn:num>
+        <akn:heading>Issued and outstanding shares.</akn:heading>
+<akn:subsection eId="subsec_29-304_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A corporation may issue the number of shares of each class or series authorized by the articles of incorporation. Shares that are issued shall be outstanding shares until they are reacquired, redeemed, converted, or canceled.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The reacquisition, redemption, or conversion of outstanding shares shall be subject to the limitations of subsection (c) of this section and to § 29-304.60.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>At all times that shares of the corporation are outstanding, one or more shares that together have unlimited voting rights and one or more shares that together are entitled to receive the net assets of the corporation upon dissolution must be outstanding.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

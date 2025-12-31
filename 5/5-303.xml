@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_303">
+        <akn:num>5-303</akn:num>
+        <akn:heading>Public information program; priority at the scene.</akn:heading>
+<akn:subsection eId="subsec_5-303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Chief of Police shall establish a continuing public information program to inform the public, at a minimum, of which police agencies located in the District of Columbia have authority to make arrests anywhere in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any cooperative agreement with a federal law enforcement agency shall include procedures that establish clearly which agency has priority at the scene. In addition, before entering into a cooperative agreement, the Chief of Police shall make a finding as to:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

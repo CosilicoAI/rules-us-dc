@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1902.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1902.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1902_16">
+        <akn:num>42-1902.16</akn:num>
+        <akn:heading>Easement for encroachments and support; where liability not relieved.</akn:heading>
+<akn:subsection eId="subsec_42-1902_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To the extent that any unit or common element encroaches on any other unit or common element, whether by reason of any deviation from the plats and plans in the construction, repair, renovation, restoration, or replacement of any improvement, or by reason of the settling or shifting of any land or improvement, a valid easement for such encroachment shall exist; provided, however, such easement shall not relieve unit owners of liability in cases of wilful and intentional misconduct by them or their agents or employees, nor shall the declarant or any contractor, subcontractor, or materialman be relieved of any liability which any of them may have by reason of any failure to adhere strictly to the plats and plans.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1902_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each unit and common element shall have an easement for support from every other unit and common element.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

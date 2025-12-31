@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-213"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-213/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_213">
+        <akn:num>10-213</akn:num>
+        <akn:heading>Comprehensive program for public recreation; leasing rights not affected.</akn:heading>
+<akn:subsection eId="subsec_10-213_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board shall have power and authority to adopt, conduct, direct, or cause to be conducted or directed, under its supervision, a comprehensive program of public recreation which shall include the operation and direction of games, sports, arts and crafts, hobby shops, music, drama, speech, nursery play, dancing, lectures, forum for informal discussion, and such other physical, social, mental, and creative opportunities for leisure-time participation as the Board shall deem advisable to offer in major recreation centers, playfields, athletic fields, playgrounds, tennis courts, baseball diamonds, swimming pools, beaches, golf courses, community centers, and social centers in schools, parks, or other publicly owned buildings, as well as other recreational facilities which may be agreed upon between the Board and the agencies having jurisdiction over such facilities. The public properties utilized by the Board for the above purposes shall include those designated by the National Capital Planning Commission, in accordance with a comprehensive plan, as suitable and desirable units of the District of Columbia recreational system.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-213_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter contained shall be construed as affecting any rights under any existing lease or leases lawfully entered into by any agency mentioned or affected by this chapter, nor shall anything in this chapter contained be construed as affecting the right of any such agency in the future lawfully to enter into leases of land or premises under its control for recreational purposes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

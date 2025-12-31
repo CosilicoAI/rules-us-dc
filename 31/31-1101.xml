@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1101">
+        <akn:num>31-1101</akn:num>
+        <akn:heading>Applicability of provisions.</akn:heading>
+<akn:subsection eId="subsec_31-1101_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Any insurance company licensed to do business in the District;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1101_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Any banking institution, trust, loan, mortgage, safe deposit, or title company, building association, credit union, moneylenders, or common trust fund authorized to do business in the District;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1101_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The inclusion of a charge for insurance in connection with an installment sale of a motor vehicle make in accordance with Chapter 6 of Title 50; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1101_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The financing of insurance premiums in the District in accordance with the provisions of §§ 28-3301 and 28-3302 relating to rates of interest.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

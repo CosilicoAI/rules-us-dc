@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1263"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1263/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1263">
+        <akn:num>47-1263</akn:num>
+        <akn:heading>Assessments on nursing facilities.</akn:heading>
+<akn:subsection eId="subsec_47-1263_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in paragraph (1) of this subsection, each nursing facility in the District of Columbia shall pay to the Mayor an assessment of up to 6% per annum of net resident revenue. The assessment shall be a uniform amount per licensed bed, and the amount shall be determined as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1263_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except for fiscal year 2005, the Mayor shall require each nursing facility to provide to the Office of Tax and Revenue a self-assessment of the amount owed based on net resident revenue as provided in subsection (a) of this section for the ensuing fiscal year of the District no later than September 1.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1263_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each nursing facility shall pay the assessment required by subsection (a) of this section to the Mayor in equal monthly installments.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1263_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Each nursing facility shall report net resident revenue for the period upon which the assessment for a fiscal year is to be determined under subsection (a)(2) of this section by submitting an audited financial statement and other information for that period as the Mayor may prescribe by rules issued pursuant to § 47-1267.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1263_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer may determine the manner in which payments are made under this chapter, including whether payments owed by each nursing facility under subsection (a) of this section shall be paid electronically.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

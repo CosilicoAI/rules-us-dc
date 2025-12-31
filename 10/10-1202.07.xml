@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1202.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1202.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1202_07">
+        <akn:num>10-1202.07</akn:num>
+        <akn:heading>President and Chief Executive Officer; appointment and duties.</akn:heading>
+<akn:subsection eId="subsec_10-1202_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board, by majority vote, shall employ a President and Chief Executive Officer to run the day-to-day affairs of the new convention center, District sports and entertainment facilities, and the Authority. The President and Chief Executive Officer shall be a resident of the District and shall remain a District resident for the duration of his or her employment by the Authority. Failure to maintain District residency shall result in a forfeiture of the position.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1202_07_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>The General Manager of the Washington Convention Center Authority serving on March 3, 2010, shall become the President and Chief Executive Officer of the Authority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1202_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The President and Chief Executive Officer shall perform the following duties and responsibilities:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1202_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The termination of the President and Chief Executive Officer shall require the concurrence of a majority of the Board.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

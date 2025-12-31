@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-332"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-332/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_332">
+        <akn:num>25-332</akn:num>
+        <akn:heading>Moratorium on class B licenses.</akn:heading>
+<akn:subsection eId="subsec_25-332_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-332_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The moratorium shall have a prospective effect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-332_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This moratorium shall not apply to an applicant for an off-premises retailer’s license, class B, for the sale of alcoholic beverages in an establishment if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-332_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An exception to the moratorium shall be granted for 4 new class B licenses on Connecticut Avenue, N.W., between N Street and Florida Avenue, N.W., after October 22, 1999; provided, that no licensee shall devote more than 3,000 square feet to the sale of alcoholic beverages.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

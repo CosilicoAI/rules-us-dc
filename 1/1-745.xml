@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-745"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-745/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_745">
+        <akn:num>1-745</akn:num>
+        <akn:heading>Bonding.</akn:heading>
+<akn:subsection eId="subsec_1-745_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-745_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It shall be unlawful for any Fund official to receive, handle, disburse, or otherwise exercise custody or control of any of the funds or other property of any Fund without being bonded as required by subsection (a) of this section, and it shall be unlawful for any Fund official or any other person having authority to direct the performance of such functions to permit such functions, or any of them, to be performed by any Fund official with respect to whom the requirements of subsection (a) of this section have not been met.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-745_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>It shall be unlawful for any person to procure any bond required by subsection (a) of this section from any surety or other company or through any agent or broker in whose business operations the Fund or any party in interest in the Fund has any control or significant financial interest, direct or indirect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-745_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in any other provision of law shall require any person required to be bonded as provided in subsection (a) of this section because he handles funds or other property of a Fund to be bonded insofar as the handling by such person of the funds or other property of such Fund is concerned.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-745_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Council shall prescribe such regulations as may be necessary to carry out the provisions of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

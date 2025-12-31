@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-504"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-504/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_504">
+        <akn:num>2-504</akn:num>
+        <akn:heading>Official publications.</akn:heading>
+<akn:subsection eId="subsec_2-504_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall cause to be published the official publications known as the District of Columbia Register and the District of Columbia Municipal Regulations pursuant to subchapter III of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-504_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All courts within the District shall take judicial notice of rules, regulations, and Council acts and resolutions published or of which notice is given in the District of Columbia Register or the District of Columbia Municipal Regulations pursuant to subchapter III of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-504_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Publication in the District of Columbia Register of Council acts and resolutions, regulations adopted, amended, or repealed by the District of Columbia Council and rules adopted, amended, or repealed by the Mayor or by any agency shall not be considered as a substitute for publication in 1 or more newspapers of general circulation when such publication is required by statute.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

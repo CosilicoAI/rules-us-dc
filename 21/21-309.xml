@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-309"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-309/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_309">
+        <akn:num>21-309</akn:num>
+        <akn:heading>Manner of creating custodial property and effecting transfer; designation of initial custodian; control.</akn:heading>
+<akn:subsection eId="subsec_21-309_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Custodial property is created and a transfer is made when:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-309_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A transferor shall place the custodian in control of the custodial property as soon as practicable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-309_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A transferor who transfers property to an individual under the age of 21 years pursuant to section 21-304 or 21-305 may expressly provide that the custodian shall deliver, convey, or pay the property to the individual on the individual’s attaining the age of 21 by inclusion of the parenthetical “(21)” after the words “District of Columbia Uniform Transfers to Minors Act” or substantially similar language. In such case, the word “minor”, as used in this chapter, shall mean an individual who has not attained the age of 21 years.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

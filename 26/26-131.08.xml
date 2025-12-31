@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-131.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-131.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_131_08">
+        <akn:num>26-131.08</akn:num>
+        <akn:heading>Point-of-sale terminal surcharge disclosure.</akn:heading>
+<akn:subsection eId="subsec_26-131_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An operator of a point-of-sale terminal in the District shall not impose a surcharge upon a person for the use of the point-of-sale terminal unless the surcharge is clearly disclosed to the person before the surcharge is incurred and before the customer is obligated to pay for a good or service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-131_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A disclosure under subsection (a) of this section shall be made as follows:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

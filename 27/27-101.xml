@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/27-101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/27-101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_27_101">
+        <akn:num>27-101</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_27-101_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Fraud” shall have the same meaning as that term is used in § 22-3221.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_27-101_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Juvenile” means a person under 18 years of age.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_27-101_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Merchant” means a person who does or would sell, lease, or transfer, either directly or indirectly, consumer goods or services, or a person who does or would supply the goods or services which are or would be the subject matter of a trade practice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_27-101_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Shoplifting” shall have the same meaning as that term has in § 22-3213(a).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_27-101_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Theft” shall have the same meaning as that term is used in § 22-3211.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

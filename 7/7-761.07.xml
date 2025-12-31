@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-761.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-761.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_761_07">
+        <akn:num>7-761.07</akn:num>
+        <akn:heading>Medicaid services.</akn:heading>
+<akn:subsection eId="subsec_7-761_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Department and DHCF shall enter into an agreement for the Department to direct: policy development and design of services, rate-setting, and support provided under the Home and Community-Based Services Waiver for Individuals with Intellectual and Developmental Disabilities or any other waiver targeted for people with intellectual and developmental disabilities and their families that is approved under section 1915(c) of the Social Security Act, approved August 13, 1981 (95 Stat. 809; 42 U.S.C. § 1369n); and policies, services, and supports related to the operation of intermediate care facilities for individuals with intellectual disabilities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-761_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall affect the status of the DHCF as the single state agency for the administration of the Medicaid Program under section 1902(a)(5) of the Social Security Act, approved July 30, 1965 (79 Stat. 344; 42 U.S.C. § 1396a(a)(5)).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

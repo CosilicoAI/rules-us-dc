@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_102">
+        <akn:num>48-102</akn:num>
+        <akn:heading>Definitions — “Drug”; “food”.</akn:heading>
+<akn:subsection eId="subsec_48-102_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Condemnation” means an administrative restriction or exclusion on the use of specific equipment, utensils, or linens.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-102_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Drug” shall include all medicines for external or internal use, antiseptics, disinfectants, and cosmetics.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-102_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Embargo” means an administrative restriction or exclusion on the distribution of food or food products.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-102_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Food” means a raw, cooked, or processed edible substance, ice, beverage, or ingredient used or intended for use or for sale, in whole or in part, for human consumption, or chewing gum.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-102_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Food establishment” means an operation that stores, prepares, packages, serves, vends, or otherwise provides food for human consumption.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

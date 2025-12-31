@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.56"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.56/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_205_56">
+        <akn:num>4-205.56</akn:num>
+        <akn:heading>Information from source other than recipient.</akn:heading>
+<akn:subsection eId="subsec_4-205_56_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When the information that is the basis for reduction or termination of payment comes from a source other than the recipient, the representative of the Mayor shall discuss the information with the recipient and notify him or her in writing that if the recipient does not agree with or accept the information, he or she has 15 days to present additional information, or, in lieu thereof, to request a fair hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_56_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In arranging the appointment for the discussion, the representative of the Mayor shall advise the recipient of his or her right to bring other persons with him or her who have knowledge of his or her situation, including a legal representative if he or she so desires.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

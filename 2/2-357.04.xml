@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-357.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-357.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_357_04">
+        <akn:num>2-357.04</akn:num>
+        <akn:heading>Other forms of security.</akn:heading>
+<akn:subsection eId="subsec_2-357_04_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Operations period surety bonds that secure the performance of the contractor’s operations and maintenance obligations under the project delivery methods set forth in § 2-356.01;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-357_04_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Letters of credit in an amount appropriate to cover the cost to the District of preventing infrastructure service interruptions for a period up to 12 months under the project delivery methods set forth in § 2-356.01; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-357_04_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Appropriate written guarantees from the contractor (or depending upon the circumstances, from parent corporations) to secure the recovery of procurement costs to the District in the event of a default in performance by the contractor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

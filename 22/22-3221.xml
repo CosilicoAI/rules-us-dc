@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3221"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3221/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3221">
+        <akn:num>22-3221</akn:num>
+        <akn:heading>Fraud.</akn:heading>
+<akn:subsection eId="subsec_22-3221_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Fraud in the first degree. — A person commits the offense of fraud in the first degree if that person engages in a scheme or systematic course of conduct with intent to defraud or to obtain property of another by means of a false or fraudulent pretense, representation, or promise and thereby obtains property of another or causes another to lose property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3221_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Fraud in the second degree. — A person commits the offense of fraud in the second degree if that person engages in a scheme or systematic course of conduct with intent to defraud or to obtain property of another by means of a false or fraudulent pretense, representation, or promise.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3221_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>False promise as to future performance. — Fraud may be committed by means of false promise as to future performance which the accused does not intend to perform or knows will not be performed. An intent or knowledge shall not be established by the fact alone that one such promise was not performed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

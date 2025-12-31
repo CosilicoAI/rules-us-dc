@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3226.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3226.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3226_09">
+        <akn:num>22-3226.09</akn:num>
+        <akn:heading>Civil penalties.</akn:heading>
+<akn:subsection eId="subsec_22-3226_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The following penalties may be imposed in addition to those otherwise available at law:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3226_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Fines shall be payable to the Fraud Prevention Fund established in § 22-3226.14.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

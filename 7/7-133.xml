@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-133"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-133/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_133">
+        <akn:num>7-133</akn:num>
+        <akn:heading>Persons believed to be carriers of communicable diseases — Order for removal.</akn:heading>
+<akn:subsection eId="subsec_7-133_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever the Mayor, after consultation with the Director of the Department of Health, has probable cause to believe that a person is affected with a communicable disease or is a carrier of a communicable disease and that the person’s presence in the general population is likely to cause death or seriously impair the health of others, the Mayor may, by written order, direct the removal of that person for the purpose of isolation, quarantine, or treatment. The order shall state a place of detention within the District of Columbia or outside of the District of Columbia; provided, that any place of detention outside the District of Columbia is under the supervision of the District of Columbia government.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-133_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The order shall be executed by a member of the Metropolitan Police Department or any designated employee of the District of Columbia. The person executing the order shall inform the person subject to the order of its contents and provide the person with a copy of the order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-133_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Whenever the Mayor, after consultation with the Director of the Department of Health, has probable cause to believe that one or more groups of people at one or more locations are affected with a communicable disease and that the group’s ability to move freely in the general population is likely to cause death or seriously impair the health of others, the Mayor may, by written order, direct the removal or detention of any such group for the purpose of isolation, quarantine, or treatment. The order shall state the bounds of the area subject to the order, and the person or persons executing the order shall inform, by reasonable means, all persons within the bounds of the detention area of the contents of the order and post a copy of the order in a conspicuous place in the bounds of the detention area.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

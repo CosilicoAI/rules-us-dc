@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3932.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3932.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3932_10">
+        <akn:num>31-3932.10</akn:num>
+        <akn:heading>Confidentiality of examination reports; disclosure of information.</akn:heading>
+<akn:subsection eId="subsec_31-3932_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in this section, all examination reports, preliminary examination reports or results, working papers, recorded information, documents, and copies of documents produced by, obtained by, or disclosed to, the Commissioner or any other person in the course of an examination made pursuant to this section shall be confidential, shall not be subject to subpoena, and shall not be made public by the Commissioner or an employee or agent of the Commissioner without the written consent of the SPFC. This subsection shall not prevent the Commissioner from using this information in furtherance of the Commissioner’s regulatory authority as provided by this subchapter. The Commissioner may grant access to this information to public officers having jurisdiction over the regulation of insurance in another state or country, or to law enforcement officers of the District or another state or agency of the federal government at any time; provided, that the officers receiving the information agree in writing to hold it in a manner consistent with this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3932_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Information submitted pursuant to this subchapter shall be confidential and shall not be made public by the Commissioner or an agent or employee of the Commissioner without the prior written consent of the SPFC; provided, that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3671.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3671.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3671_12">
+        <akn:num>42-3671.12</akn:num>
+        <akn:heading>Civil remedies for consumers.</akn:heading>
+<akn:subsection eId="subsec_42-3671_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A lessor who fails to comply with a requirement imposed by this chapter with respect to a consumer shall be liable to the consumer in an amount equal to the greater of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3671_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the case of an advertisement, a lessor who fails to comply with the requirements of § 42-3671.10 shall be liable to a person for actual damages suffered from the violation, the costs of the action, and reasonable attorneys’ fees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3671_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If there are multiple lessors, liability shall be imposed only on the lessor who made the disclosures. If no disclosures have been given, liability shall be imposed on all lessors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3671_12_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If there are multiple consumers in a rental-purchase agreement, there shall be only one recovery of damages under subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3671_12_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Multiple violations in connection with a rental-purchase agreement shall entitle the consumer to a single recovery under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3671_12_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A consumer shall not take any action to offset any amount for which a lessor is potentially liable under subsection (a) of this section against any amount owed by the consumer, unless the amount of the lessor’s liability has been determined by judgment of a court of competent jurisdiction in an action in which the lessor was a party.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

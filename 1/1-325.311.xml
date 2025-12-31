@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.311"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.311/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_311">
+        <akn:num>1-325.311</akn:num>
+        <akn:heading>WMATA Momentum Support Fund.</akn:heading>
+<akn:subsection eId="subsec_1-325_311_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a special fund the WMATA Momentum Support Fund (“Fund”), which shall be administered by the Chief Financial Officer in accordance with subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_311_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon approval of the settlement by the District of Columbia Court of Appeals in District of Columbia v. Expedia, Inc., et al., Nos. 14-CV-308, 14-CV-309, the full amount the District obtained from the settlement, minus the amounts designated for other purposes in §§ 1-325.291 and 1-325.301, shall be deposited in the Fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_311_b_1">
+      <akn:num>(b-1)</akn:num>
+      <akn:content><akn:p>Upon settlement of litigation in United States ex rel. Mills v. Compass Group North America et al., 2013 CAB SLD 004624, any and all recoveries by the District from the settlement not otherwise encumbered pursuant to the settlement agreement shall be deposited into the Fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_311_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Upon execution of an inter-jurisdiction funding agreement for implementation of the Washington Metropolitan Area Transit Authority Momentum Strategic Plan (“Momentum”), any monies in the Fund shall be made available to finance the District’s share of the implementation costs of Momentum.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_311_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

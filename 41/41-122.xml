@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-122"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-122/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_122">
+        <akn:num>41-122</akn:num>
+        <akn:heading>Sale of abandoned property.</akn:heading>
+<akn:subsection eId="subsec_41-122_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All abandoned property other than money delivered to the Mayor under this chapter which remains unclaimed 1 year after the delivery to the Mayor may be sold to the highest bidder at public sale. The Mayor may decline the highest bid and re-offer the property for sale if the Mayor considers the price bid insufficient. The Mayor need not offer any property for sale if, in the Mayor’s opinion, the probable cost of sale exceeds the value of the property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-122_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any sale held under subsection (a) of this section shall be preceded by at least a single publication of notice thereof, at least 3 weeks in advance of sale, in a newspaper of general circulation in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-122_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The purchaser at any sale conducted by the Mayor pursuant to this chapter shall receive title to the property purchased, free from all claims of the owner or prior holder and of all persons claiming through or under the owner or prior holder. The Mayor shall execute all documents necessary to complete the transfer of title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-122_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Unless the Mayor considers it to be in the best interest of the District to do otherwise, all securities abandoned under § 41-109 must be held for at least 3 years before the Mayor may sell them. If the Mayor sells any securities delivered pursuant to § 41-109 before the expiration of the 3-year period, any person making a claim pursuant to this chapter before the end of 3 years is entitled to either the proceeds of the sale of the securities or the market value of the securities at the time the claim is made, whichever is greater, less any deduction for fees pursuant to § 41-123(c). A person making a claim under this chapter after the expiration of this period is entitled to receive either the securities delivered to the Mayor by the holder, if they still remain in the hands of the Mayor, or the proceeds received from the sale, less any amounts deducted pursuant to § 41-123(c); but no person has any claim under this chapter against the District, the holder, any transfer agent, registrar, or other person acting for or on behalf of a holder for any appreciation in the value of the property occurring after delivery by the holder to the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

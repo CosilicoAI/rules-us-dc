@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-301.17"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-301.17/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_301_17">
+        <akn:num>50-301.17</akn:num>
+        <akn:heading>Rate proceeding; standard for rate structure.</akn:heading>
+<akn:subsection eId="subsec_50-301_17_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 12 months of March 25, 1986, and at least once every 24 months thereafter, the Commission shall undertake a review of the taxicab rate structure. The review required by this section shall be undertaken by holding at least 1 public hearing, upon notice with opportunity to comment. Within 120 days of holding the public hearings, the panel shall render a decision on whether a modification or adjustment in rate structure is warranted, and, if determined to be warranted, shall implement the modification or adjustment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_17_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commission, in the establishment and supervision of the taxicab rate structure, shall balance equitably the interest of owners and operators of taxicabs, taxicab companies and associations, and dispatch services in procuring a maximum rate of return on investment and labor against the public interest in maintaining a taxicab system affordable to a broad cross section of the public, and shall establish nondiscriminatory rates, charges, matrices, boundaries, and methodologies for the determination of taxicab fares which assure reasonable and adequate compensation and promote broad and nondiscriminatory public access to taxicab transportation facilities.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

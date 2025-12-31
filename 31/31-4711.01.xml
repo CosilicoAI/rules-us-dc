@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4711.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4711.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4711_01">
+        <akn:num>31-4711.01</akn:num>
+        <akn:heading>Group policies — Right to, and notice of, issuance of individual policy.</akn:heading>
+<akn:subsection eId="subsec_31-4711_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If any individual insured under a group life insurance policy hereafter delivered in the District becomes entitled under the terms of such policy to have an individual policy of life insurance issued to him without evidence of insurability, subject to making of application and payment of the 1st premium within the period specified in such policy, and if such individual is not given notice of the existence of such right at least 15 days prior to the expiration date of such period, then, in such event, the individual shall have an additional period within which to exercise such right, but nothing herein contained shall be construed to continue any insurance beyond the period provided in such policy. This additional period shall expire 15 days next after the individual is given such notice but in no event shall such additional period extend beyond 60 days next after the expiration date of the period provided in such policy. Written notice presented to the individual or mailed by the policyholder to the last known address of the individual or mailed by the insurer to the last known address of the individual as furnished by the policyholder shall constitute notice for the purpose of this subsection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4711_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in this chapter it shall be unlawful to make a contract of life insurance for a group in the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

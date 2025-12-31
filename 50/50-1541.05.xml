@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1541_05">
+        <akn:num>50-1541.05</akn:num>
+        <akn:heading>Certificate of title required.</akn:heading>
+<akn:subsection eId="subsec_50-1541_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsections (b) and (c) of this section, the owner of a vessel for which the District is the state of principal use shall deliver to the Harbor Master an application for a certificate of title for the vessel, with the applicable fee, not later than 20 days after the later of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An application for a certificate of title is not required for:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Harbor Master may not issue, transfer, or renew a certificate of number for a vessel issued pursuant to the requirements of 46 U.S.C. § 12301 unless the Harbor Master has created a certificate of title for the vessel, or an application for a certificate of title for the vessel and the applicable fee have been delivered to the Harbor Master.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

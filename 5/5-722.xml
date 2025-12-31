@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-722"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-722/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_722">
+        <akn:num>5-722</akn:num>
+        <akn:heading>Police and Firefighters Retirement and Relief Board.</akn:heading>
+<akn:subsection eId="subsec_5-722_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-722_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The members appointed under subsection (a)(1)(B) of this section shall be appointed for 2 years, and shall be entitled to receive compensation for each day they are actually engaged in carrying out duties vested in the Board in the same manner as persons employed intermittently under § 3109 of Title 5 of the United States Code. Such members shall be appointed within 90 days after September 3, 1974.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-722_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall establish rules for the Board to assure that the Board functions fairly and equitably. The Mayor shall provide the staff necessary for the Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-722_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In addition to the members and alternates of the Board designated by subsection (a) of this section, in all cases of retirement, disability, or other relief involving a member of the United States Secret Service Uniformed Division or a member of the United States Secret Service Division, who is covered by this subchapter, a member and alternate of the United States Secret Service Uniformed Division or a member and alternate of the United States Secret Service Division, as designated by the Director, United States Secret Service Division, as appropriate shall sit as a member of the Police and Firemen’s Retirement and Relief Board.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1003.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1003.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1003_11">
+        <akn:num>44-1003.11</akn:num>
+        <akn:heading>Notice of adverse action or voluntary facility closure.</akn:heading>
+<akn:subsection eId="subsec_44-1003_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever a facility receives written notice that its license is being restricted, suspended, revoked, or not renewed or that it is losing its Medicare or Medicaid certification, the licensee or administrator shall within 30 calendar days give written notice of this fact to the residents and employees of the facility, the residents’ representatives, and the Long-Term Care Ombudsman.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>To the extent possible, the licensee or administrator of a facility shall give the Mayor, any resident to be transferred or discharged, the representative of any resident to be transferred or discharged, the facility’s employees, and the Long-Term Care Ombudsman advance written notice of at least 90 calendar days before he or she voluntarily closes the facility or a part of the facility that, when closed, will require the transfer or discharge of more than 10% of the residents. This notice shall include the proposed date of and reasons for closing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_11_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Before all or part of a facility is voluntarily closed under subsection (b) of this section, a facility representative shall advise those residents to be transferred or discharged and their representatives of available alternative placements and shall offer to assist them in securing a placement. Until the date of closing, the facility shall fully comply with this chapter and all other applicable laws and rules.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

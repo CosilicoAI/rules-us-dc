@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-217"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-217/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_217">
+        <akn:num>6-217</akn:num>
+        <akn:heading>Drug and alcohol testing of Authority employees.</akn:heading>
+<akn:subsection eId="subsec_6-217_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Authority may establish a program of, and issue rules for, conducting pre-employment, random, reasonable suspicion, post-accident, return to duty, and follow-up testing for the use of a controlled substance in violation of law or regulation, and testing for alcohol, for Authority employees and candidates for employment with the Authority. Only employees whose duties include responsibility for safety-sensitive or high-risk potential functions may be subject to random testing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-217_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In prescribing rules under the testing program required by this section, the Authority may require the suspension or termination of an Authority employee when a test indicates that the employee has used a controlled substance or alcohol in violation of Authority rules.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-217_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>With regard to employees who are covered by a collective bargaining agreement, the drug and alcohol testing program and rules shall be made applicable to such employees only by agreement between the collective bargaining representative and the Authority.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.21"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.21/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_306_21">
+        <akn:num>29-306.21</akn:num>
+        <akn:heading>Action without meeting.</akn:heading>
+<akn:subsection eId="subsec_29-306_21_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except to the extent that the articles of incorporation or bylaws require that action by the board of directors be taken at a meeting, action required or permitted by this chapter to be taken by the board of directors may be taken without a meeting if each director signs a consent in a record describing the action to be taken and delivers it to the corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_21_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Action taken under this section shall be the act of the board of directors when one or more consents signed by all the directors are delivered to the corporation. The consent may specify the time at which the action taken thereunder is to be effective. A director’s consent may be withdrawn by a revocation signed by the director and delivered to the corporation prior to delivery to the corporation of unrevoked consents in a record signed by all the directors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_21_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A consent signed under this section shall have the effect of action taken at a meeting of the board of directors and may be described as such in any document.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

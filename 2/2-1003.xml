@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1003"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1003/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1003">
+        <akn:num>2-1003</akn:num>
+        <akn:heading>Comprehensive plan.</akn:heading>
+<akn:subsection eId="subsec_2-1003_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commission is hereby charged with the duty of preparing and adopting a comprehensive, consistent, and coordinated plan for the National Capital, which plan shall include the Commission’s recommendations or proposals for federal developments or projects in the environs, and those District elements, or amendments thereto, of the comprehensive plan adopted by the Council and with respect to which the Commission has not determined a negative impact to exist, which elements or amendments shall be incorporated into such comprehensive plan without change. The Commission shall collaborate with the National Capital Regional Planning Council in the  development of those elements of the plan for the National Capital. While consistency between the respective proposals of the Commission and the National Capital Regional Planning Council shall be sought, lack of action or agreement by the National Capital Regional Planning Council shall not prevent the Commission from adopting any part of its plan or any recommendation or proposal for federal developments or projects in the environs. The Commission may include in its plan any portion of any plan adopted by the National Capital Regional Planning Council or any planning agency in the environs and from time to time make recommendations of collateral interest to the National Capital Regional Planning Council or to the aforesaid agencies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1003_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commission may, as the work of preparing the comprehensive plan progresses, adopt any element or a part or parts thereof and from time to time shall review and may amend or extend the plan, in order that its recommendations may be kept up to date.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1003_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

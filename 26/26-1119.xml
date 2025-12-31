@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1119"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1119/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1119">
+        <akn:num>26-1119</akn:num>
+        <akn:heading>Hearing procedures.</akn:heading>
+<akn:subsection eId="subsec_26-1119_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person to whom an order is issued pursuant to § 26-1117 or § 26-1118 shall be given reasonable notice and the opportunity for a hearing as provided in this section. Upon the issuance of any order, the Commissioner shall notify the respondent, applicant, licensee, or person required to be licensed that the order has been entered and the reasons for the order. The order shall include a statement that the respondent, applicant, licensee, or person required to be licensed may submit a written request for a hearing within 20 days of receipt of the order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1119_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The order under subsection (a) of this section shall be served by hand or by certified mail, return receipt requested at the last known address of the person required to be licensed or the last known address maintained in the Department of Insurance and Securities and Banking records for the applicant or licensee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1119_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the person to whom an order has been issued fails to request a hearing within 20 days of receipt or delivery of the order, the person shall be deemed in default and the order shall, on the 21st day, become permanent and remain in full force and effect until and unless later modified or vacated by the Commissioner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

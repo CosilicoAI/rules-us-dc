@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-820.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-820.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_820_02">
+        <akn:num>47-820.02</akn:num>
+        <akn:heading>Residential real property subject to certain affordability and resale restrictions; Mayor to issue rules.</akn:heading>
+<akn:subsection eId="subsec_47-820_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (b) of this section, the assessed value of resale restricted properties (as defined in subsection (c) of this section) shall be:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-820_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the purchase price is not ascertainable or the property has been transferred from a government entity or tax-exempt organization to a property owner without significant consideration, the property shall be assessed taking into account all limitations, encumbrances, and restrictions and shall be assessed in its initial year at a value not to exceed the price the property owner would receive under a sale under the terms of the limitations, encumbrances, and restrictions associated with the property. In any subsequent year in which the limitations, encumbrances, or restrictions remain in effect, the property’s assessed value shall be calculated under subsection (a)(2) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-820_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “resale restricted properties” means any properties for which a United States or District of Columbia government entity, or a charitable organization with tax-exempt status under section 501(c)(3) of the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2085; 26 U.S.C. § 501(c)(3)), directly or indirectly, imposes limitations, encumbrances, or restrictions upon the properties’ subsequent sale or transfer that are intended to preserve or promote the affordability of housing for low- and moderate-income owners, for a period of not less than 5 years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-820_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall promulgate rules for the administration of this section within one year of [October 20, 2005].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

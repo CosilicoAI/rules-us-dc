@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4302">
+        <akn:num>47-4302</akn:num>
+        <akn:heading>Limitation on collection.</akn:heading>
+<akn:subsection eId="subsec_47-4302_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the assessment of a tax imposed by this title has been made within the applicable period of limitation, the tax may be collected by levy or by a proceeding in court, but only if the levy is made or the proceeding begun within 10 years after the assessment of the tax.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4302_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If, before the expiration of the time prescribed in this section for the collection of a tax imposed by this title, both the Mayor and the taxpayer have consented in writing to its collection after such time, the tax may be collected at any time before the expiration of the extended period. The period may be extended further by subsequent agreement in writing made before the expiration of an extended period.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

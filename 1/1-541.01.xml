@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-541.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-541.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_541_01">
+        <akn:num>1-541.01</akn:num>
+        <akn:heading>Workplace wellness policy.</akn:heading>
+<akn:subsection eId="subsec_1-541_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall develop and adopt a workplace wellness policy for the District government no later than one year following February 26, 2015. The workplace wellness policy shall be reviewed and updated annually.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-541_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The workplace wellness policy required by subsection (a) of this section shall apply to all District agencies, including independent District agencies and the Council of the District of Columbia, but excluding boards and commissions, Advisory Neighborhood Commissions, and the Courts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-541_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The workplace wellness policy required by subsection (a) of this section shall include initiatives that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-541_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Each agency shall designate one employee as the agency’s wellness coordinator who shall have the responsibility of implementing the wellness policy in the agency and promoting wellness programs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-541_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>It is the goal of the District for each agency to achieve the American Heart Association’s gold-level designation as a “Fit-Friendly” workplace or other evidence-based workplace initiatives of national or local health organizations.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

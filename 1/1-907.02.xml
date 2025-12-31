@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-907.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-907.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_907_02">
+        <akn:num>1-907.02</akn:num>
+        <akn:heading>District of Columbia payment to the Funds.</akn:heading>
+<akn:subsection eId="subsec_1-907_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each fiscal year, the District shall insure that a sufficient amount is appropriated for each separate fund comprising the Funds, as the District of Columbia payment to the appropriate separate fund comprising the Funds, which shall be equal to, or greater than, the amount calculated as provided for in § 1-907.03, as determined by the enrolled actuary, engaged pursuant to § 1-907.03(a).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-907_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The amount appropriated as the District of Columbia payment shall be deposited in the appropriate separate fund comprising the Funds not more than 30 days after it is appropriated or 30 days after the beginning of the fiscal year for which it is appropriated, whichever is later.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-907_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>At the end of each fiscal year, the District shall provide to the enrolled actuary the actual aggregate amount of earnable compensation (“covered payroll”) paid to each participant group covered by the Retirement Program. The enrolled actuary shall determine whether the amount appropriated for the applicable fiscal year resulted in an overpayment or a shortfall based upon the actual covered payroll.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-907_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If at any time the balance of any separate fund comprising the Funds is not sufficient to meet all obligations against the Funds, the Funds shall have claims on the revenues of the District of Columbia to the extent necessary to meet the obligation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

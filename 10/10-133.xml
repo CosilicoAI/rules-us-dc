@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-133"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-133/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_133">
+        <akn:num>10-133</akn:num>
+        <akn:heading>Public convenience stations — Establishment; location; control.</akn:heading>
+<akn:subsection eId="subsec_10-133_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor of the District of Columbia is authorized and empowered to construct and establish, in the City of Washington, District of Columbia, 2 public convenience stations, each of the same to afford accommodations for 20 males and 10 females.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-133_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The said public convenience stations shall be located on public space to be selected by the said Mayor of the District of Columbia. And the jurisdiction and control of such portion of any public reservation so selected as shall be required for the location of such stations and their approaches is hereby transferred from the Chief of Engineers of the United States Army to the Mayor of the District of Columbia, such transfer to take effect from the date of notice by the said Mayor to the Chief of Engineers of the United States Army of the location of sites of such stations.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4A_501">
+        <akn:num>28:4A-501</akn:num>
+        <akn:heading>Variation by agreement and effect of funds-transfer system rule.</akn:heading>
+<akn:subsection eId="subsec_28:4A-501_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this article, the rights and obligations of a party to a funds transfer may be varied by agreement of the affected party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-501_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>“Funds-transfer system rule” means a rule of an association of banks (i) governing transmission of payment orders by means of a funds-transfer system of the association or rights and obligations with respect to those orders, or (ii) to the extent the rule governs rights and obligations between banks that are parties to a funds transfer in which a Federal Reserve Bank, acting as an intermediary bank, sends a payment order to the beneficiary’s bank. Except as otherwise provided in this article, a funds-transfer system rule governing rights and obligations between participating banks using the system may be effective even if the rule conflicts with this article and indirectly affects another party to the funds transfer who does not consent to the rule. A funds-transfer system rule may also govern rights and obligations of parties other than participating banks using the system to the extent stated in §§ 28:4A-404(c), 28:4A-405(d), and 28:4A-507(c).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1004"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1004/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1004">
+        <akn:num>26-1004</akn:num>
+        <akn:heading>License qualifications.</akn:heading>
+<akn:subsection eId="subsec_26-1004_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each licensee under this chapter shall at all times have a net worth of not less than $100,000, calculated in accordance with generally accepted accounting principles. Licensees engaging in money transmission at more than one location or through authorized delegates shall have an additional net worth of $50,000 per location or authorized delegate located in the District of Columbia, as applicable. The maximum net worth required for all locations shall not exceed $500,000.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1004_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Every corporate applicant, at the time of filing of an application for a license under this chapter and at all times after a license is issued, shall be in good standing in the state of its incorporation. All non-corporate applicants shall, at the time of the filing of an application for a license under this chapter and at all times after a license is issued, be registered or qualified to do business in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

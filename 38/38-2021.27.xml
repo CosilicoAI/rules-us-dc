@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2021.27"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2021.27/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2021_27">
+        <akn:num>38-2021.27</akn:num>
+        <akn:heading>Internal Revenue Code limits.</akn:heading>
+<akn:subsection eId="subsec_38-2021_27_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Benefits and contributions under the provisions of this part shall not be computed with reference to any compensation that exceeds that maximum dollar amount permitted by section 401(a)(17) of the Internal Revenue Code, as adjusted for increases in the cost-of-living.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2021_27_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the foregoing provisions of this part to the contrary, benefits under this part are subject to the limitations imposed by section 415 of the Internal Revenue Code, as adjusted from time to time and, to that end, effective for limitation years beginning on or after January 1, 2008:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2021_27_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision to the contrary, all death benefit payments referred to in this section shall be distributed only in accordance with section 401(a)(9) of the Internal Revenue Code and accompanying Treasury regulations, as more fully set forth in § 38-2021.07a.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2021_27_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

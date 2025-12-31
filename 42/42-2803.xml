@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2803"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2803/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2803">
+        <akn:num>42-2803</akn:num>
+        <akn:heading>Coordination of housing programs for targeted populations; community outreach.</akn:heading>
+<akn:subsection eId="subsec_42-2803_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Department shall establish a one-stop center to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2803_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>There is established, within the Department, the Nehemiah Community Housing Opportunity Program (“Nehemiah Program”), a pilot project to provide grants, loans, and available land to eligible nonprofit organizations in accordance with this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2803_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Department shall develop an annual community outreach plan, which shall promote maximum visibility of the Fund and its operations and full participation by District, developers, lenders, and District residents who request assistance under this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

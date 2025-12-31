@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-385"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-385/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_385">
+        <akn:num>47-385</akn:num>
+        <akn:heading>Procedure for Council consent to certain grant applications and state plans.</akn:heading>
+<akn:subsection eId="subsec_47-385_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Applications and state plans requiring Council consent. — In addition to the notice required by § 47-384, the terms and conditions of each grant application or state plan which provides for or requests any of the following shall be approved by consent of the Council prior to submission to the federal grant-making agency:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-385_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Submission to and consent by Council. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-385_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Reconsideration by Council. — If the Council withholds its consent to a grant application, the Mayor may, on a clear showing of changed circumstances, new information, or additional administrative hardship, ask for a reconsideration of the previous action of the Council. The Council may at its discretion reconsider its previous action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-385_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Exemptions. — The grants submitted by agencies identified in § 47-383(b) are exempt from the provisions of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

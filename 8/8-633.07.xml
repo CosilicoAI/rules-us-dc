@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-633.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-633.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_633_07">
+        <akn:num>8-633.07</akn:num>
+        <akn:heading>Withdrawal from the Program.</akn:heading>
+<akn:subsection eId="subsec_8-633_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsections (b) and (c) of this section, a participant may withdraw from the Program at the time of a pending application or cleanup action plan, or after receiving a Certificate of Completion. To effectively withdraw from the Program, a participant shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-633_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the participant is a non-responsible person, the participant may not be required by DDOE to cleanup the eligible property, but shall be held liable for new contamination or the exacerbation of the existing contamination at the eligible property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-633_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the participant is a responsible person, DDOE or the Mayor may take any applicable enforcement actions authorized pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-633_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In the case of an involuntary withdrawal, where DDOE withdraws the approval of a non-responsible person’s cleanup action plan, that person may not be required to cleanup the eligible property, except that the provisions of subsection (a)(1), (2) and (3) and subsection (c) of this section shall apply to the person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-633_07_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If an application, a cleanup action plan, or a Certificate of Completion is withdrawn, any letter or Certificate of Completion issued pursuant to this chapter shall be void and any bond or other security shall be forfeited.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

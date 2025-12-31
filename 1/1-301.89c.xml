@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.89c"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.89c/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_301_89c">
+        <akn:num>1-301.89c</akn:num>
+        <akn:heading>Authority to issue subpoenas in investigation of consumer protection matters.</akn:heading>
+<akn:subsection eId="subsec_1-301_89c_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Attorney General, or his or her designee, shall have the authority to issue subpoenas for the production of documents and materials or for the attendance and testimony of witnesses under oath, or both, related to an investigation into unfair, deceptive, unconscionable, or fraudulent trade practices by or between a merchant or consumer, as defined in § 28-3901.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_89c_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subpoenas issued pursuant to subsection (a) of this section or § 28-3910 shall contain the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_89c_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Unless otherwise permitted by the Office of the Attorney General, only attorneys for the Office of the Attorney General and their staff, other people involved in the investigation, the witness under examination, his or her attorney, interpreters when needed, and, for the purpose of taking the evidence, a stenographer or operator of a recording device may be present during the taking of testimony.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_89c_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In the case of refusal to obey a subpoena issued under this section, the Attorney General may petition the Superior Court of the District of Columbia for an order requiring compliance. Any failure to obey the order of the court may be treated by the court as contempt.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_89c_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any person to whom a subpoena has been issued under this section or pursuant to § 28-3910 may exercise the privileges enjoyed by all witnesses. A person to whom a subpoena has been issued may move to quash or modify the subpoena in the Superior Court of the District of Columbia on grounds including:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

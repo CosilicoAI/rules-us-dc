@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-442"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-442/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_442">
+        <akn:num>25-442</akn:num>
+        <akn:heading>Hearings — Witnesses.</akn:heading>
+<akn:subsection eId="subsec_25-442_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A party shall have the right to call and examine witnesses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-442_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (c) of this section, at any proceeding before the Board in a contested case, the Board shall hear as witnesses all persons residing within and outside the neighborhood who desire to be heard.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-442_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Board may exclude any irrelevant or unduly repetitious evidence or testimony.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-442_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A witness who shall willfully give false testimony in a proceeding or hearing before the Board shall be guilty of perjury.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

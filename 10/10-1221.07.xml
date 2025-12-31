@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1221.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1221.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1221_07">
+        <akn:num>10-1221.07</akn:num>
+        <akn:heading>Issuance of the bonds.</akn:heading>
+<akn:subsection eId="subsec_10-1221_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The bonds shall be issued as a TIF note to the Authority and may be held and used as security for bonds to be issued by the Authority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1221_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The bonds shall not be issued until the Mayor receives an approving opinion from Bond Counsel as to the validity of the bonds and, if the interest on the bonds is expected to be exempt from federal income taxation, the treatment of the interest on the bonds for purposes of federal income taxation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

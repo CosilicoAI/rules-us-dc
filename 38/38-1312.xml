@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1312"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1312/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1312">
+        <akn:num>38-1312</akn:num>
+        <akn:heading>Violations; penalties.</akn:heading>
+<akn:subsection eId="subsec_38-1312_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person or persons who, directly or indirectly, participate in, aid, or assist in offering postsecondary education or the operation of a postsecondary educational institution by any unlicensed individual or individuals, association, or institution, or by any individual or individuals, association, or institution whose license has been revoked, who advertises or claims any authority to offer education, except pursuant to the provisions of this chapter, or who violates a provision of this chapter shall be guilty of a misdemeanor, and upon conviction in the Superior Court of the District of Columbia shall be punished by a fine of not more than $500.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1312_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>The Commission may impose civil fines and penalties as alternative sanctions for violations of the provisions of this chapter or of rules promulgated under the authority of this chapter, pursuant to Chapter 18 of Title 2 [§ 2-1801.01 et seq.] (“Civil Infractions Act”). Enforcement and adjudication of a violation shall be pursuant to the Civil Infractions Act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1312_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each day of noncompliance shall constitute a separate violation of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1312_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Violations of this chapter shall be prosecuted in the District of Columbia Superior Court by the Office of the Attorney General for the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1312_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing contained in this chapter shall preclude any person from being subject to a penalty under provisions of § 28-3904, if the person engages in an unlawful trade practice.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

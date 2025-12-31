@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-506"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-506/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_506">
+        <akn:num>44-506</akn:num>
+        <akn:heading>Provisional and restricted licenses.</akn:heading>
+<akn:subsection eId="subsec_44-506_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>As an alternative to denial, nonrenewal, suspension, or revocation of a license when a facility or agency has numerous deficiencies or a serious single deficiency with respect to the standards to be established under § 44-504(a)(3), the Mayor may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-506_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>As provided in § 44-505(a), provisional licenses may be issued to new facilities and agencies in order to afford the Mayor sufficient time and evidence to evaluate whether a new facility or agency is capable of complying with the provisions of this subchapter, rules adopted pursuant to this subchapter, and other applicable provisions of law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-506_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Provisional licenses may be granted for a period not exceeding 90 days, and may be renewed no more than once.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-506_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any provisional license issued pursuant to this section shall be issued as a provisional Public Health: Health Care Facility endorsement or a provisional Public Health: Human Services facility endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of Chapter 28 of Title 47.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-506_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a facility is issued a restricted or provisional license, the Department of Health may, if appropriate, appoint a temporary manager or monitor in accordance with a mutually agreed upon timetable or until the facility becomes compliant with § 44-504(a)(3) and (h-1).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

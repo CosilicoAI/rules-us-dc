@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-211"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-211/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2A_211">
+        <akn:num>28:2A-211</akn:num>
+        <akn:heading>Warranties against interference and against infringement; lessee’s obligation against infringement.</akn:heading>
+<akn:subsection eId="subsec_28:2A-211_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is in a lease contract a warranty that for the lease term no person holds a claim to or interest in the goods that arose from an act or omission of the lessor, other than a claim by way of infringement or the like, which will interfere with the lessee’s enjoyment of its leasehold interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-211_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except in a finance lease there is in a lease contract by a lessor who is a merchant regularly dealing in goods of the kind a warranty that the goods are delivered free of the rightful claim of any person by way of infringement or the like.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-211_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A lessee who furnishes specifications to a lessor or a supplier shall hold the lessor and the supplier harmless against any claim by way of infringement or the like that arises out of compliance with the specifications.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

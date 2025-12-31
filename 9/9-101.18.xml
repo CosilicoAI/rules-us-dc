@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-101.18"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-101.18/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_101_18">
+        <akn:num>9-101.18</akn:num>
+        <akn:heading>Authority to acquire and transfer to Secretary of the Interior real property in exchange for real property transferred to the District; payments in lieu of transfer of property.</akn:heading>
+<akn:subsection eId="subsec_9-101_18_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor of the District of Columbia is authorized to acquire by purchase, donation, condemnation or otherwise, real property for transfer to the Secretary of the Interior in exchange or as replacement for park, parkway, and playground lands transferred to the District of Columbia for a public purpose pursuant to § 10-111 and the Mayor is further authorized to transfer to the United States title to property so acquired.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-101_18_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Payments are authorized to be made by the Mayor, and received by the Secretary of the Interior, in lieu of property transferred pursuant to subsection (a) of this section. The amount of such payment shall represent the cost to the Secretary of the Interior of acquiring real property suitable for replacement of the property so transferred as agreed upon between the Mayor and the head of said agency and shall be available for the acquiring of the replacement property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-621.09d"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-621.09d/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_621_09d">
+        <akn:num>1-621.09d</akn:num>
+        <akn:heading>Preparation of studies; enrolled actuary.</akn:heading>
+<akn:subsection eId="subsec_1-621_09d_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Direct the enrolled actuary engaged pursuant to §  1-621.09a to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-621_09d_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Rebid its contract with an enrolled actuary no less frequently than every 5 years.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

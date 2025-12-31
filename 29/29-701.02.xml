@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-701.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-701.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_701_02">
+        <akn:num>29-701.02</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_29-701_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Certificate of limited partnership” means the certificate required by § 29-702.01. The term includes the certificate as amended or restated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Contribution”, except in the phrase “right of contribution”, means any benefit described in § 29-705.01 provided by a person to a limited partnership to become a partner or in the person’s capacity as a partner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Distribution” means a transfer of money or other property from a limited partnership to a person on account of a transferable interest or in the person’s capacity as a partner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Foreign limited liability limited partnership” means a foreign limited partnership whose general partners have limited liability for the debts, obligations, or other liabilities of the foreign limited partnership under a provision similar to § 29-704.04(c).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Foreign limited partnership” means a partnership formed under the laws of a jurisdiction other than the District which would be a limited partnership if formed under the laws of the District. The term includes a foreign limited liability limited partnership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“General partner” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Limited liability limited partnership”, except in the phrase “foreign limited liability limited partnership”, means a limited partnership whose certificate of limited partnership states that the limited partnership is a limited liability limited partnership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Limited partner” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Limited partnership”, except in the phrases “foreign limited partnership” and “foreign limited liability limited partnership”, or “domestic limited partnership”, means an entity, having one or more general partners and one or more limited partners, which is formed under this chapter by 2 or more persons or becomes subject to this chapter under subchapter X of this chapter, Chapter 2 of this title, or § 29-711.01(a) or (b). The term includes a limited liability limited partnership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Partner” means a limited partner or general partner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Partnership agreement” means the partners’ agreement, whether oral, implied, in a record, or in any combination, concerning the matters described in § 29-701.07. The term includes the agreement as amended or restated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“Person dissociated as a general partner” means a person dissociated as a general partner of a limited partnership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“Required information” means the information that a limited partnership is required to maintain under § 29-701.08.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“Transferable interest” means the right, as initially owned by a person in the person’s capacity as a partner, to receive distributions from a limited partnership in accordance with the partnership agreement, whether or not the person remains a partner or continues to own any part of the right. The term applies to any fraction of the interest, by whomever owned.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_02_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“Transferee” means a person to which all or part of a transferable interest has been transferred, whether or not the transferor is a partner. The term includes a person that owns a transferable interest under § 29-706.02(a)(3) or § 29-706.05(a)(5).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

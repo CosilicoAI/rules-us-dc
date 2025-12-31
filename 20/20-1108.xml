@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-1108"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-1108/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_1108">
+        <akn:num>20-1108</akn:num>
+        <akn:heading>Certain formula clauses to be construed to refer to federal estate and generation-skipping transfer tax rules applicable to estates of decedents dying on December 31, 2009.</akn:heading>
+<akn:subsection eId="subsec_20-1108_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-1108_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The personal representative or any affected beneficiary under the will or other instrument may bring a proceeding to determine whether the decedent intended that the references under subsection (a) of this section be construed with respect to the law as it existed after December 31, 2009. The proceeding shall be commenced within 12 months following the death of the testator or grantor, and not thereafter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-704.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-704.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_704_03">
+        <akn:num>29-704.03</akn:num>
+        <akn:heading>Limited partnership liable for general partner’s actionable conduct.</akn:heading>
+<akn:subsection eId="subsec_29-704_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A limited partnership shall be liable for loss or injury caused to a person, or for a penalty incurred, as a result of a wrongful act or omission, or other actionable conduct, of a general partner acting in the ordinary course of activities or affairs of the limited partnership or with authority of the limited partnership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-704_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If, in the course of the limited partnership’s activities or affairs or while acting with authority of the limited partnership, a general partner receives or causes the limited partnership to receive money or property of a person not a partner, and the money or property is misapplied by a general partner, the limited partnership shall be liable for the loss.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

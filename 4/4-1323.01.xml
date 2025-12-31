@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1323.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1323.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1323_01">
+        <akn:num>4-1323.01</akn:num>
+        <akn:heading>Missing persons.</akn:heading>
+<akn:subsection eId="subsec_4-1323_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Child and Family Services Agency shall file a missing person report with the Metropolitan Police Department (“MPD”) for any child in the custody of the Child and Family Services Agency immediately after discovering that the child is missing from the child’s home or out-of-home placement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1323_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person required to make a report of abuse or neglect under § 4-1321.02(b) may file a missing person report with the MPD.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1323_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The MPD shall immediately report a missing child to the National Center for Missing and Exploited Children if the child has been:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1323_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “child” means a person who has not attained the age of 18 years.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

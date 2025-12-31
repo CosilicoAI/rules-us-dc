@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1121.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1121.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1121_08">
+        <akn:num>10-1121.08</akn:num>
+        <akn:heading>Deposit of rents, fees, taxes, assessments, sewer and water charges; payment of expenditures.</akn:heading>
+<akn:subsection eId="subsec_10-1121_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided by subsection (b) of this section, all collections, including rents and fees, received by the District under this subchapter shall be deposited in the Treasury of the United States in a trust fund, from which may be paid, in the same manner as is provided by law for other expenditures of the District, such expenditures as are necessary to carry out the purposes of this subchapter, including necessary expenses connected with the operation, maintenance, and disposition of property coming into the possession of the District by reason of a default under a lease entered into under this subchapter. The unobligated balance in such trust fund in excess of $100,000 as of the end of any fiscal year shall be deposited in the Treasury to the credit of such special funds or the General Fund of the District in such proportions as the Mayor may determine.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1121_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Taxes (including payments in lieu of taxes), special assessments, and sanitary sewer and water service charges shall be deposited directly to the respective funds to which such revenues are normally deposited.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

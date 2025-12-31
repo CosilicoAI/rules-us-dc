@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-350.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-350.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_350_05">
+        <akn:num>1-350.05</akn:num>
+        <akn:heading>Lien for delinquent debt.</akn:heading>
+<akn:subsection eId="subsec_1-350_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a person liable to pay a delinquent debt neglects or refuses to pay the delinquent debt after demand by the Central Collection Unit, the amount, including any interest and any fees imposed for collection of the delinquent debt that may accrue, shall be a lien in favor of the District of Columbia upon all property (including rights to property), whether real or personal, belonging to the person, and shall have the same effect as a lien created by judgment. The lien shall attach to all real or personal property (including rights to property) belonging to, or acquired by, the person at any time during the period of the lien.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-350_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The lien imposed by subsection (a) of this section shall be deemed to have arisen on the 91st day after the debt became due and owing to the District and shall continue until the delinquent debt is satisfied or becomes unenforceable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-350_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The lien imposed by subsection (a) of this section shall not be valid against a bona fide purchaser for value, holder of a security interest, mechanic’s lien, or judgment lien creditor until the lien has been filed with the Recorder of Deeds by the Central Collection Unit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-350_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon transferring a delinquent debt to the Central Collection Unit, a transferring agency’s authority to file a lien for that debt shall terminate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

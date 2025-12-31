@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2806"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2806/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2806">
+        <akn:num>7-2806</akn:num>
+        <akn:heading>Duties of alarm dealers.</akn:heading>
+<akn:subsection eId="subsec_7-2806_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Alarm dealers shall maintain in a secure and confidential manner records of all sales, leases, rentals, or installations of alarm systems and of service calls for alarm systems. Such records shall include the name of the alarm user, the address of the premises at which the alarm system is located, the date of installation or service call, and such other information as the Mayor may require. Such records shall be maintained for a period of no less than 1 year, unless specific records are required to be maintained for a longer period by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2806_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2806_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Alarm dealers who contract with a user to respond to the scene of an alarm activation shall post on the premises, in a conspicuous place visible from outside the premises, a sticker or other sign indicating the name and telephone number of the alarm dealer. When an alarm system has been activated the alarm dealer shall have an alarm agent present at the premises within 1 hour after being requested to do so by the Metropolitan Police Department or District of Columbia Fire Department, unless good cause is shown.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2806_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Alarm dealers have an affirmative duty to adequately train and supervise alarm agents in their employ. Any alarm dealer which installs, inspects, maintains, repairs or services any alarm system must employ or otherwise engage the services of at least 1 person who possesses, at a minimum, a current master electrician limited license which is valid in the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

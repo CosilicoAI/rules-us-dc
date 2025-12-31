@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-203"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-203/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_203">
+        <akn:num>46-203</akn:num>
+        <akn:heading>Subrogation of District; notice to caretakers.</akn:heading>
+<akn:subsection eId="subsec_46-203_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The District shall be subrogated to the right of the caretaker to prosecute or maintain any support action. If a Court orders support to be paid by a responsible relative, the District shall be subrogated to the right of the caretaker to receive past, present, and future payments under an order or decree, and any money judgment entered under an order or decree shall be considered to be in favor of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-203_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall inform any individual who is a caretaker on February 24, 1987, of the provisions of this subchapter within 120 days after February 24, 1987. Any individual who becomes a caretaker after February 24, 1987, shall be informed of the provisions of this subchapter when the individual becomes a caretaker.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

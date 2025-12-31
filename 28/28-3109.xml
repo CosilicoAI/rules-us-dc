@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3109"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3109/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3109">
+        <akn:num>28-3109</akn:num>
+        <akn:heading>Extinguishment of cause of action.</akn:heading>
+<akn:subsection eId="subsec_28-3109_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Under section 28-3104(a)(1), within 4 years after the transfer was made or the obligation was incurred or, if later, within 1 year after the transfer or obligation was, or could reasonably have been discovered by the claimant;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3109_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Under section 28-3104(a)(2) or section 28-3105(a), within 4 years after the transfer was made or the obligation was incurred; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3109_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Under section 28-3105(b), within 1 year after the transfer was made or the obligation was incurred.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

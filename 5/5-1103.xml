@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_1103">
+        <akn:num>5-1103</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_5-1103_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Board” means the Police Complaints Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1103_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Complaint examiner” means the person designated by the Executive Director to determine the merits of a complaint.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1103_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Executive Director” means the head of the Office of Police Complaints.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1103_3A">
+      <akn:num>(3A)</akn:num>
+      <akn:content><akn:p>“Gender identity or expression” shall have the same meaning as provided in § 2-1401.02(12A).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1103_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Office” means the Office of Police Complaints.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

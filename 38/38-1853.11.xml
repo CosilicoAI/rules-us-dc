@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1853.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1853.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1853_11">
+        <akn:num>38-1853.11</akn:num>
+        <akn:heading>D.C. public schools and D.C. public charter schools.</akn:heading>
+<akn:subsection eId="subsec_38-1853_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Condition of receipt of funds. — As a condition of receiving funds under this chapter on behalf of the District of Columbia public schools and the District of Columbia public charter schools, the Mayor shall agree to carry out the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1853_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Enforcement. — If, after reasonable notice and an opportunity for a hearing for the Mayor, the Secretary determines that the Mayor has not been in compliance with 1 or more of the requirements described in subsection (a), the Secretary may withhold from the Mayor, in whole or in part, further funds under this chapter for the District of Columbia public schools and the District of Columbia public charter schools.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1853_11_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Rule of construction. — Nothing in this section shall be construed to reduce, or otherwise affect, funding provided under this chapter for the opportunity scholarship program under this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

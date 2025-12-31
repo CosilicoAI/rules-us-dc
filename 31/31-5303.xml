@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5303">
+        <akn:num>31-5303</akn:num>
+        <akn:heading>Qualifications for membership.</akn:heading>
+<akn:subsection eId="subsec_31-5303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A society shall specify in its laws or rules:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A society may also admit social members who shall have no voice or vote in the management of the insurance affairs of the society.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5303_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Membership rights in the society are personal to the member and are not assignable.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

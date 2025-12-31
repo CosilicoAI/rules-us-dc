@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-113.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-113.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_113_02">
+        <akn:num>5-113.02</akn:num>
+        <akn:heading>Records — Criminal offenses.</akn:heading>
+<akn:subsection eId="subsec_5-113_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In addition to the records kept under § 5-113.01, the Metropolitan Police force shall keep a record of each case in which an individual in the custody of any police force or of the United States Marshal is charged with having committed a criminal offense in the District (except those traffic violations and other petty offenses to which the Council of the District of Columbia determines this section should not apply). The record shall show:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-113_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Attorney General, the Corporation Counsel, the United States Magistrate for the District, the Clerk of the District Court, the Clerk of the Superior Court of the District of Columbia, and the Director of the Department of Corrections shall furnish the Chief of Police with such information as the Mayor of the District of Columbia considers necessary to enable the Metropolitan Police force to carry out this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

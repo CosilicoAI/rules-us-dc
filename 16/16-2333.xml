@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2333"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2333/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2333">
+        <akn:num>16-2333</akn:num>
+        <akn:heading>Police and other law enforcement records.</akn:heading>
+<akn:subsection eId="subsec_16-2333_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this section and in section 16-2333.01, law enforcement records and files concerning a child shall not be open to public inspection nor shall their contents or existence be disclosed to the public unless:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2333_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Inspection of such records and files is permitted by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2333_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Family Court, upon application of the Attorney General and notice and opportunity for respondent or his counsel to respond to the application, may order the release of certain information contained in the law enforcement records if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2333_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Photographs may be displayed to potential witnesses for identification purposes, in accordance with the standards of fairness applicable to adults.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2333_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2333_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Notwithstanding the confidentiality requirements of subsection (b) of this section, the Metropolitan Police Department shall make reports available to the public every 6 months of the number of children arrested in the District by the location of the police service area within which the juvenile suspect lives, and giving the location of the police service area within which the crime occurred, the charges, and the date of the crime.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2333_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>No person shall disclose, inspect, or use records in violation of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

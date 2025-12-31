@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-395"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-395/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_395">
+        <akn:num>47-395</akn:num>
+        <akn:heading>Review and revision of regulations; permit and application processes.</akn:heading>
+<akn:subsection eId="subsec_47-395_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Review of current regulations by Authority. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-395_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Survey and revision of permit and application processes. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-395_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Reports to Congress. — Upon the expiration of the 6-month period which begins on the date of the enactment of this title and on a quarterly basis thereafter, the Authority shall submit a report to Congress describing the steps taken to carry out the requirements of this section and the effectiveness of the regulatory, permit, and application processes of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

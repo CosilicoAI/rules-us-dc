@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3518"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3518/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3518">
+        <akn:num>31-3518</akn:num>
+        <akn:heading>Directors and trustees.</akn:heading>
+<akn:subsection eId="subsec_31-3518_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The board of directors or trustees shall consist of not less than 5 nor more than 21 members, who shall be elected by a majority of the members of the board. The term of a director or trustee shall be not less than 1 year nor more than 3 years, and shall be specified in the corporation’s bylaws.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3518_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The directors or trustees of a domestic corporation shall at all times include subscriber representatives.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3518_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>A majority of the board of directors or trustees shall at all times consist of members other than employees and officers of the corporation, or of any affiliate or subsidiary of the corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3518_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Not less than one-third of the members of the board of directors or trustees shall be residents of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3518_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The articles of incorporation or bylaws of a domestic corporation shall state the number of directors or trustees necessary to constitute a quorum for conducting business at its meetings and the number of directors’ or trustees’ votes necessary to effect action on any matter presented for a vote of the board of directors or trustees. In regard to any matter involving conversion to a mutual or stock insurance company, or merger, consolidation, or other form of reorganization of the corporation, the affirmative vote of at least 80% of all directors or trustees shall be required to effect action by the board.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

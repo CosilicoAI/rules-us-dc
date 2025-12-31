@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-574"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-574/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_574">
+        <akn:num>16-574</akn:num>
+        <akn:heading>Judgment creditor to file receipts, in court, of amount collected.</akn:heading>
+<akn:subsection eId="subsec_16-574_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The judgment creditor shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-574_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the judgment creditor fails to file any of the receipts prescribed by subsection (a) of this section, an interested party may move the court to compel the defaulting judgment creditor to appear in court and make an accounting forthwith. The court may, in its discretion, enter judgment for any damages, including a reasonable attorney’s fee suffered by, and tax costs in favor of, the party filing the motion to compel the accounting.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

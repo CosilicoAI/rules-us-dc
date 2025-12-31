@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-217"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-217/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_217">
+        <akn:num>46-217</akn:num>
+        <akn:heading>Limitations and priorities.</akn:heading>
+<akn:subsection eId="subsec_46-217_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When there is more than 1 withholding order against a single obligor under this subchapter, the Collection and Disbursement Unit shall prorate the withholdings for current support among the orders up to the limits of § 303(b) of the Consumer Credit Protection Act (15 U.S.C. § 1673(b)).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-217_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If current support payments do not exceed the limits of section 303(b) of the Consumer Credit Protection Act [15 U.S.C.§ 1673(b)], the Collection and Disbursement Unit shall prorate payments toward health insurance coverage, medical support, arrearages, and other costs and fees among the orders and prioritize these payments in accordance with § 46-251.08 and applicable federal requirements.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1203.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1203.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1203_07">
+        <akn:num>10-1203.07</akn:num>
+        <akn:heading>Collection and transfer of taxes to Washington Convention Center Fund.</akn:heading>
+<akn:subsection eId="subsec_10-1203_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other law, surtaxes and dedicated taxes shall be collected by the Mayor, pursuant to §§ 47-1807.02(a)(4), 47-1807.02a [repealed], 47-1808.03(a)(4), 47-1808.03a [repealed], 47-2002.02, 47-2002.03, 47-2202.01, 47-2202.02, the provisions of which are incorporated by reference in this section, and transferred to the Washington Convention Center Fund for the purposes set forth in § 10-1202.08 until any of these provisions are repealed by legislation enacted after September 27, 1996.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1203_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This section shall apply as of September 27, 1996.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

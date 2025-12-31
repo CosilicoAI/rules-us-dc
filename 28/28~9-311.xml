@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-311"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-311/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_311">
+        <akn:num>28:9-311</akn:num>
+        <akn:heading>Perfection of security interests in property subject to certain statutes, regulations, and treaties.</akn:heading>
+<akn:subsection eId="subsec_28:9-311_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (d), the filing of a financing statement is not necessary or effective to perfect a security interest in property subject to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-311_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Compliance with the requirements of a statute, regulation, or treaty described in subsection (a) for obtaining priority over the rights of a lien creditor is equivalent to the filing of a financing statement under this article. Except as otherwise provided in subsection (d) and §§ 28:9-313 and 28:9-316(d) and (e) for goods covered by a certificate of title, a security interest in property subject to a statute, regulation, or treaty described in subsection (a) may be perfected only by compliance with those requirements, and a security interest so perfected remains perfected notwithstanding a change in the use or transfer of possession of the collateral.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-311_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (d) and § 28:9-316(d) and (e), duration and renewal of perfection of a security interest perfected by compliance with the requirements prescribed by a statute, regulation, or treaty described in subsection (a) are governed by the statute, regulation, or treaty. In other respects, the security interest is subject to this article.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-311_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>During any period in which collateral subject to a statute specified in subsection (a)(2) is inventory held for sale or lease by a person or leased by that person as lessor and that person is in the business of selling goods of that kind, this section does not apply to a security interest in that collateral created by that person.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

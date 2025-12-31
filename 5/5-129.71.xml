@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-129.71"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-129.71/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_129_71">
+        <akn:num>5-129.71</akn:num>
+        <akn:heading>Reimbursable police escorts and other law enforcement services.</akn:heading>
+<akn:subsection eId="subsec_5-129_71_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Chief of Police may charge and collect reimbursement fees, as set forth in the fee schedule established pursuant to subsection (b) of this section, for providing police escorts that are necessary to protect public health and safety. All reimbursement fees collected under this subsection shall be deposited into the fund established by § 47-2826(d).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-129_71_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Chief of Police, pursuant to subchapter I of Chapter 5 of Title 2 [§ 2-501 et seq.], shall issue rules setting forth a reimbursement fee schedule.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-129_71_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this subchapter, the term “police escort” shall include the assignment of law enforcement personnel and vehicles as necessary to ensure the preservation of public safety, typically either at a specified location or from a point of origin to a specified destination, in a manner consistent with the nature of the persons, material, and the threat posed by the movement or event.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

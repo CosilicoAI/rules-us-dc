@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1306.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1306.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1306_04">
+        <akn:num>19-1306.04</akn:num>
+        <akn:heading>Limitation on action contesting validity of revocable trust; distribution of trust property.</akn:heading>
+<akn:subsection eId="subsec_19-1306_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person may commence a judicial proceeding to contest the validity of a trust that was revocable at the settlor’s death within the earliest of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1306_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon the death of the settlor of a trust that was revocable at the settlor’s death, the trustee may proceed to distribute the trust property in accordance with the terms of the trust. The trustee is not subject to liability for doing so unless:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1306_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A beneficiary of a trust that is determined to have been invalid is liable to return any distribution received.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

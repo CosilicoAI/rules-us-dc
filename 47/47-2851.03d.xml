@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2851.03d"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2851.03d/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2851_03d">
+        <akn:num>47-2851.03d</akn:num>
+        <akn:heading>General Business License and General Contractor/Construction Manager License.</akn:heading>
+<akn:subsection eId="subsec_47-2851_03d_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A General Business License shall be required for all businesses engaging in any business transaction in the District that have a business tax identification number and who are not otherwise required to obtain an endorsement under a license endorsement category under this chapter. If a business entity is comprised of principals who are required to maintain licenses granted or regulated by a local, state, or national certification board or body, the entity and its licensed principals shall not be required to obtain a General Business License. A biennial fee of $200 shall be charged for the General Business License.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2851_03d_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A General Contractor/Construction Manager License shall be required for individuals or businesses engaged in general contracting or construction management. A biennial fee of $500 shall be charged for the license. The Mayor may establish, by rule, bond requirements for general contractors and construction managers as a condition for issuance of the General Contractor/Construction Manager License.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2851_03d_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may adjust, by rule, the license fees established in subsections (a) and (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2851_03d_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A license issued pursuant to this section shall be issued as a General Business endorsement to a basic business license.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

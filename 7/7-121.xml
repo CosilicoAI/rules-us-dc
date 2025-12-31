@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-121"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-121/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_121">
+        <akn:num>7-121</akn:num>
+        <akn:heading>Mayor’s Council on Physical Fitness, Health, and Nutrition.</akn:heading>
+<akn:subsection eId="subsec_7-121_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established a Mayor’s Council on Physical Fitness, Health, and Nutrition (“Mayor’s Council”) with the mission to improve the health and wellness of all District residents through physical activity and healthy eating.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-121_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-121_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor’s Council shall meet no fewer than 2 times per year. The time and place of its meetings shall be provided by the executive committee, established by § 7-126; provided, that the Department of Health shall convene at least 2 meetings per year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

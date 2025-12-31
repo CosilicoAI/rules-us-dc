@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-120"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-120/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_120">
+        <akn:num>21-120</akn:num>
+        <akn:heading>Settlement of actions involving minor children; appointment of guardian of estate.</akn:heading>
+<akn:subsection eId="subsec_21-120_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person entitled to maintain or defend an action on behalf of a minor child, including an action relating to real estate, is competent to settle an action so brought and, upon settlement thereof or upon satisfaction of a judgment obtained therein, is competent to give a full acquittance and release of all liability in connection with the action, but such a settlement is not valid unless approved by a judge of the court in which the action is pending.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-120_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person may not receive money or other property on behalf of a minor in settlement of an action brought on behalf of or against the minor or in satisfaction of a judgment in the action, where, after deduction of fees, costs and all other expenses incident to the matter, the net value of the money and property due the minor exceeds $3,000, before he is appointed by a court of competent jurisdiction as guardian of the estate of the minor to receive the money or property, and qualifies as such.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

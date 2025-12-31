@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1501.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1501.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1501_04">
+        <akn:num>4-1501.04</akn:num>
+        <akn:heading>Authorization to obtain records.</akn:heading>
+<akn:subsection eId="subsec_4-1501_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor may obtain criminal history records maintained by the Federal Bureau of Investigation and the Metropolitan Police Department, and traffic records maintained by the Department of Motor Vehicles, to investigate a person applying for employment, in either a compensated position or an unsupervised volunteer position, with any covered child or youth services provider, and to investigate each current employee and unsupervised volunteer serving any covered child or youth services provider.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1501_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before any applicant for employment with any covered child or youth services provider may be offered a compensated position or an unsupervised volunteer position, the Mayor or the covered child or youth services provider shall inform the applicant that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

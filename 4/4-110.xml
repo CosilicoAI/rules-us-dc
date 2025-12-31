@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-110"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-110/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_110">
+        <akn:num>4-110</akn:num>
+        <akn:heading>Powers of Board of Charities transferred.</akn:heading>
+<akn:subsection eId="subsec_4-110_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>To provide for the transportation to their respective places of residence of nonresident indigent persons, and to provide for indigent persons, who are legal residents of the District of Columbia, medical care and treatment when necessary, under contracts with such hospitals as are or may be designated by law;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-110_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>To provide for the transportation to their respective places of residence of nonresident persons with mental illness and to afford hospital care for indigent persons with mental illness who are legal residents of the District of Columbia in such hospital or hospitals as are or may be designated by law; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-110_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>To provide for all other aged, infirm, or needy persons, in the manner authorized by law or by appropriations enacted by the Congress.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-405"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-405/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2A_405">
+        <akn:num>28:2A-405</akn:num>
+        <akn:heading>Excused performance.</akn:heading>
+<akn:subsection eId="subsec_28:2A-405_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Delay in delivery or nondelivery in whole or in part by a lessor or a supplier who complies with paragraphs (2) and (3) of this section is not a default under the lease contract if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the lease contract was made or by compliance in good faith with any applicable foreign or domestic governmental regulation or order, whether or not the regulation or order later proves to be invalid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-405_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>If the causes mentioned in paragraph (1) of this section affect only part of the lessor’s or the supplier’s capacity to perform, he or she shall allocate production and deliveries among his or her customers but at his or her option may include regular customers, not then under contract for sale or lease as well as his or her own requirements for further manufacture. He or she may so allocate in any manner that is fair and reasonable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-405_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The lessor seasonably shall notify the lessee and in the case of a finance lease the supplier seasonably shall notify the lessor and the lessee, if known, that there will be delay or nondelivery and, if allocation is required under paragraph (2) of this section, of the estimated quota thus made available for the lessee.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

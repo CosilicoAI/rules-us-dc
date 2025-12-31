@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2402.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2402.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2402_04">
+        <akn:num>38-2402.04</akn:num>
+        <akn:heading>Reports.</akn:heading>
+<akn:subsection eId="subsec_38-2402_04_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The number of students during the preceding academic year who enrolled and whether these were first-time enrollments, who graduated, who found employment, or who left without completing a program of study, reported under each of the programs of the University (elementary, secondary, preparatory, undergraduate, and graduate) and of NTID;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2402_04_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>For the preceding academic year, and to the extent possible, the following data on individuals who are deaf and from minority backgrounds and who are students (at all educational levels) or employees:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2402_04_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2402_04_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>For the preceding fiscal year, a statement showing the receipts of the University and NTID and from what federal sources, and a statement showing the expenditures of each institution by function, activity, and administrative and academic unit;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2402_04_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>A statement showing the use of funds (both corpus and income) provided by the Federal Endowment Program under § 38-2402.07a;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2402_04_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>A statement showing how such Endowment Program funds are invested, what the gains or losses (both realized and unrealized) on such investments were for the most recent fiscal year, and what changes were made in investments during that year; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2402_04_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Such additional information as the Secretary may consider necessary.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

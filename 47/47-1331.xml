@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1331"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1331/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1331">
+        <akn:num>47-1331</akn:num>
+        <akn:heading>Tax is lien on real property; priority; application of payment; lien for deferred tax.</akn:heading>
+<akn:subsection eId="subsec_47-1331_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A tax shall automatically become a lien on the real property on the date the tax was due and unpaid or converted to a real property tax under § 47-1340.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1331_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The lien for a tax shall be a prior and preferred claim over all other liens and shall be perpetual.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1331_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Unless otherwise provided in this chapter, all payments for taxes collected under this chapter shall be applied to each outstanding lien in order of its priority measured by the date that it became, or was converted to, a lien under subsection (a) of this section. The payment shall be applied to the lien in the following order: costs; penalties; interest; and the original amount of the lien.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1331_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A lien transferred to a third party by the District under § 47-1303.04, including an assignee or successor in interest, shall enjoy the same priority and preference as if the lien were still held by the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1331_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A tax or any other unpaid tax, charge, or indebtedness owing to the District and deferred under subchapter VIII of Chapter 35 of Title 42, is a lien on the real property for which the deferral was granted. Payments shall be applied first to the lien having priority and for which the deferral is not granted; provided, that (1) the taxpayer shall make additional payments under the deferral agreement entered into with the Mayor, which payments shall be applied first to the deferred lien having priority until all deferred liens are paid, and (2) payment of taxes not deferred in the agreement and assessed for periods after the latest period deferred in the agreement remains current. The taxpayer may designate a payment to the nondeferred tax if the designation and application of payment shall not cause the District to default on another contractual obligation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

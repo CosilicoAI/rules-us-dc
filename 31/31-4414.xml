@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4414"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4414/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4414">
+        <akn:num>31-4414</akn:num>
+        <akn:heading>Capital stock transfers.</akn:heading>
+<akn:subsection eId="subsec_31-4414_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The capital stock of such company shall be deemed personal estate and shall be transferable in such manner as shall be prescribed by the bylaws of the company; but no shares shall be transferable until all previous calls thereon shall have been fully paid in or the shares shall have been declared forfeited for nonpayment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4414_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person in whose name shares of capital stock stand on the books of a company shall be deemed the owner thereof as regards the company, but if any such person shall in good faith sell or otherwise dispose of any of his shares of capital stock to another and deliver to him the certificates for such shares, with written authority for the transfer of the same on the books, the title of the former shall vest in the latter so far as may be necessary to effect the purpose of the sale or other disposition, not only as between the parties themselves but also as against the creditors of and subsequent purchasers from the former.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-392.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-392.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_392_12">
+        <akn:num>47-392.12</akn:num>
+        <akn:heading>Pledge of security interest in revenues of District government.</akn:heading>
+<akn:subsection eId="subsec_47-392_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. — The Authority may pledge or grant a security interest in revenues to individuals or entities purchasing bonds, notes, or other obligations issued pursuant to this part.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-392_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Dedication of revenue stream from District government. — The Authority shall require the Mayor:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

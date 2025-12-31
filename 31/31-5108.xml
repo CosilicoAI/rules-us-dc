@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5108"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5108/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5108">
+        <akn:num>31-5108</akn:num>
+        <akn:heading>Refunds, credits and charges.</akn:heading>
+<akn:subsection eId="subsec_31-5108_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each individual policy or certificate of credit life insurance or credit accident and health insurance shall provide that in the event of termination of the insurance prior to the scheduled maturity date of the indebtedness, any refund of an amount paid by the debtor for insurance shall be paid or credited promptly to the person entitled thereto; provided, that the Commissioner shall prescribe a minimum refund and no refund which would be less than such minimum need be made. The formula to be used in computing refunds shall be filed with the Commissioner who may disapprove such formula if he finds that it is unjust or unreasonable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5108_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a creditor requires a debtor to make a payment in connection with credit life insurance or credit accident and health insurance and an individual policy or certificate of insurance is not issued, the creditor shall promptly give written notice to such debtor and shall promptly make an appropriate credit to the account.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5108_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The amount charged to a debtor for credit life or credit accident and health insurance shall not exceed the premium rate charged by the insurance company at the time the charge to the debtor is determined.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

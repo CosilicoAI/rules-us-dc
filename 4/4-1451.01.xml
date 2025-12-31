@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1451.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1451.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1451_01">
+        <akn:num>4-1451.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_4-1451_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Authorized Receiving Facility” means a hospital, or other place authorized by the Mayor, by rule, to accept a newborn for surrender pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1451_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“CFSA” means the Child and Family Services Agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1451_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Newborn” means an infant whose parent refuses or is unable to assume the responsibility for the infant’s care, control, and subsistence and who is surrendered by that parent and who a licensed physician or other person authorized to accept the surrender reasonably believes is 14 days old or less.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1451_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Surrender” means to bring a newborn to an Authorized Receiving Facility during its hours of operation and to leave the newborn with personnel of the Authorized Receiving Facility.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

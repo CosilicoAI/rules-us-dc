@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1305.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1305.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1305_03">
+        <akn:num>19-1305.03</akn:num>
+        <akn:heading>Exceptions to spendthrift provision.</akn:heading>
+<akn:subsection eId="subsec_19-1305_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “child” includes any person for whom an order or judgment for child support has been entered in this or another State.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1305_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Whether or not a trust contains a spendthrift provision, a beneficiary’s child, who has a judgment or court order against the beneficiary for support or maintenance, may obtain from a court an order attaching present or future distributions when payable under the terms of the trust to or for the benefit of the beneficiary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1305_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A spendthrift provision is unenforceable against a claim of the District of Columbia or the United States to the extent a statute of the District of Columbia or federal law so provides.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1312.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1312.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1312_03">
+        <akn:num>34-1312.03</akn:num>
+        <akn:heading>Payment and security.</akn:heading>
+<akn:subsection eId="subsec_34-1312_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as may be otherwise specifically provided in this chapter, debt service on the Bonds shall be payable solely from proceeds received from the sale of the Bonds, income realized from the temporary investment of those proceeds, DDOT Underground Electric Company Infrastructure Improvement Revenue, income realized from the temporary investment of the DDOT Underground Electric Company Infrastructure Improvement Revenue before payment to the bond holders, and other moneys that, as provided in the financing documents, may be made available for payment of the Bonds from sources other than the District or the electric company, all as provided for in the financing documents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1312_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The DDOT Underground Electric Company Infrastructure Improvement Revenue is irrevocably pledged as security for the repayment of the Bonds and any financing costs. Payment of the Bonds shall be secured as provided in this chapter and the financing documents and by an assignment by the District of certain of its rights under the financing documents and closing documents to the trustee for the benefit of the bond holders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1312_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The trustee is authorized to deposit, invest, and disburse the proceeds received from the sale of the Bonds pursuant to the financing documents.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

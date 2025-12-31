@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1002.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1002.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1002_02">
+        <akn:num>44-1002.02</akn:num>
+        <akn:heading>Grounds for receivership.</akn:heading>
+<akn:subsection eId="subsec_44-1002_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The facility is unlawfully operating without a current District license;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The licensee has abandoned the facility;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The facility is closing within 30 calendar days and cannot offer verifiable evidence that adequate arrangements, designed to minimize transfer trauma, have been made to relocate its residents;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>A condition or practice in the facility poses a serious, widespread danger, either immediate or recurring, to the health, safety, or welfare of the residents;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Violations of residents’ rights, established pursuant to § 44-504(a)(4), are chronic, substantial, and widespread;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_02_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Insolvency of an owner or the licensee has placed the continued operation of the facility in serious jeopardy; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_02_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>The facility has been issued a restricted or provisional license by the Department of Health.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

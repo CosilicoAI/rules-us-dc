@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-622"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-622/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_622">
+        <akn:num>7-622</akn:num>
+        <akn:heading>Declaration — Execution; form.</akn:heading>
+<akn:subsection eId="subsec_7-622_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any persons 18 years of age or older may execute a declaration directing the withholding or withdrawal of life-sustaining procedures from themselves should they be in a terminal condition. The declaration made pursuant to this subchapter shall be:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-622_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It shall be the responsibility of the declarant to provide for notification to his or her attending physician of the existence of the declaration. An attending physician, when presented with the declaration, shall make the declaration or a copy of the declaration a part of the declarant’s medical records.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-622_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The declaration shall be substantially in the following form, but in addition may include other specific directions not inconsistent with other provisions of this subchapter. Should any of the other specific directions be held to be invalid, such invalidity shall not affect other directions of the declaration which can be given effect without the invalid direction, and to this end the directions in the declaration are severable.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

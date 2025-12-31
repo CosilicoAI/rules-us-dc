@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-704.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-704.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_704_02">
+        <akn:num>29-704.02</akn:num>
+        <akn:heading>General partner agent of limited partnership.</akn:heading>
+<akn:subsection eId="subsec_29-704_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each general partner shall be an agent of the limited partnership for the purposes of its activities and affairs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-704_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An act of a general partner, including the signing of a record in the partnership’s name, for apparently carrying on in the ordinary course the limited partnership’s activities or affairs or activities or affairs of the kind carried on by the limited partnership shall bind the limited partnership, unless the general partner did not have authority to act for the limited partnership in the particular matter and the person with which the general partner was dealing knew, had received a notification, or had notice under § 29-701.03(d) that the general partner lacked authority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-704_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An act of a general partner which is not apparently for carrying on in the ordinary course the limited partnership’s activities or affairs or activities or affairs of the kind carried on by the limited partnership shall bind the limited partnership only if the act was actually authorized by all the other partners.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

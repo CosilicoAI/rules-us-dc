@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.03c"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.03c/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3502_03c">
+        <akn:num>42-3502.03c</akn:num>
+        <akn:heading>Public Accessible Rent Control Housing Clearinghouse.</akn:heading>
+<akn:subsection eId="subsec_42-3502_03c_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Rental Accommodations Division (“RAD”) of the Department of Housing and Community Development (“DHCD”), in close consultation with the Office of the Tenant Advocate and the Office of the Chief Technology Officer, is authorized to establish a user-friendly, internet-accessible, searchable database for the submission, management, and review of all documents and relevant data that this subchapter requires housing providers to submit to the RAD.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_03c_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The database shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_03c_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The portal accessible to the general public shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_03c_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The portal accessible to the general public shall exclude any documentation submitted in support of a tenant’s application for elderly or disability status pursuant to § 42-3502.08(h)(2), and any other information the Rent Administrator may deem necessary to exclude to protect the privacy and personal information of a tenant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_03c_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The database should be completed in phases according to the following timeline:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_03c_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Beginning with the completion of Phase 2, all documents required to be filed by this subchapter, should be submitted to the RAD through the online database.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_03c_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>Beginning 6 months after October 22, 2015, and continuing every 6 months thereafter until phase 3 of database is completed, the RAD should report to the Council on the progress of the establishment of the database.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

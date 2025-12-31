@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_304_01">
+        <akn:num>29-304.01</akn:num>
+        <akn:heading>Authorized shares.</akn:heading>
+<akn:subsection eId="subsec_29-304_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The articles of incorporation shall set forth any classes of shares and series of shares within a class, and the number of shares of each class and series, that the corporation is authorized to issue. If more than one class or series of shares is authorized, the articles of incorporation shall prescribe a distinguishing designation for each class or series and shall describe, prior to the issuance of shares of a class or series, the terms, including the preferences, rights, and limitations, of that class or series. Except to the extent varied as permitted by this section, all shares of a class or series must have terms, including preferences, rights, and limitations, that are identical with those of other shares of the same class or series.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The articles of incorporation shall authorize:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The articles of incorporation may authorize one or more classes or series of shares that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Terms of shares may be made dependent upon facts objectively ascertainable outside the articles of incorporation in accordance with § 29-301.04.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any of the terms of shares may vary among holders of the same class or series so long as the variations are expressly set forth in the articles of incorporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_01_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The description of the preferences, rights, and limitations of classes or series of shares in subsection (c) of this section is not exhaustive.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-802"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-802/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_802">
+        <akn:num>24-802</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_24-802_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The term “Governor” as used in the Agreement on Detainers shall mean with respect to the United States, the Attorney General, and with respect to the District of Columbia, the Mayor of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-802_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The term “appropriate court” as used in the Agreement on Detainers shall mean with respect to the United States, the courts of the United States, and with respect to the District of Columbia, the courts of the District of Columbia, in which indictments, informations, or complaints, for which disposition is sought, are pending.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

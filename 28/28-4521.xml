@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4521"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4521/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4521">
+        <akn:num>28-4521</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_28-4521_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Cash and carry” means the purchaser is responsible for the transportation of a purchased article or product to the purchaser’s designated destination.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4521_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Cigarettes” means any size or shaped roll for smoking that is made of tobacco or tobacco mixed with another ingredient and wrapped in paper or in any other material except tobacco. The term “cigarettes” does not include cigars.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4521_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Cost” means the invoice or replacement cost, whichever is lower, of cigarettes to the retailer or wholesaler, plus:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4521_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Retailer” means any person engaged in the business of making retail sales of cigarettes within the District of Columbia at a store, stand, booth, or concession, through vending machines, or otherwise. If the person is engaged in the business of making both retail and wholesale sales of cigarettes, the term applies only to the retail sales of cigarettes portion of the business.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4521_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Wholesaler” means a person who purchases cigarettes directly from a manufacturer. The term “wholesaler” includes a person, who as a subwholesaler, purchases cigarettes from another wholesaler solely for the purpose of bona fide resale to retailers other than those directly or indirectly owned, affiliated, or controlled by him, and services the retailers by maintaining an established place of business for the sale of cigarettes, including warehouse facilities, adequate inventory, proper accounting records, and necessary equipment and vehicles for the storage and distribution of cigarettes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

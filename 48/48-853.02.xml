@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-853.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-853.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_853_02">
+        <akn:num>48-853.02</akn:num>
+        <akn:heading>Program establishment; Director’s authority.</akn:heading>
+<akn:subsection eId="subsec_48-853_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established the Prescription Drug Monitoring Program within the Department. The Program shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-853_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Director may contract with another District agency or a private vendor as may be necessary for the implementation and maintenance of the Program. Any such contractor shall be bound to comply with the provisions regarding confidentiality of data in this chapter and shall be subject to the penalties specified in this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-853_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Director shall also establish a multi-discipline advisory committee, which shall function under the Department to assist in the implementation and evaluation of the Program.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

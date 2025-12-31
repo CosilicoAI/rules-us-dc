@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2821"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2821/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2821">
+        <akn:num>47-2821</akn:num>
+        <akn:heading>Bowling alleys; billiard and pool tables; games.</akn:heading>
+<akn:subsection eId="subsec_47-2821_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Owners or managers of establishments where bowling alleys, billiard or pool tables, or any table, alley, or board upon which legitimate games are played, shall, when they are operated or conducted for public use, or for profit or gain, pay a license tax of $39 per annum for each such alley, board, or table. No license shall issue under this section without the approval of the Chief of Police; provided, that in case of refusal of said Chief of Police to approve said license, or upon written protest of a majority or more of the property owners or residents of the block in which it is proposed to grant such license, an appeal may be taken to the Mayor of the District of Columbia, whose decision shall be final.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2821_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any license issued pursuant to this section shall be issued as  an Entertainment endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.59"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.59/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_205_59">
+        <akn:num>4-205.59</akn:num>
+        <akn:heading>Effect of pending hearing.</akn:heading>
+<akn:subsection eId="subsec_4-205_59_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the recipient requests a hearing before the date that the termination, suspension, or reduction of aid is to become effective, assistance shall not be discontinued, withheld, terminated, suspended, reduced or made subject to additional conditions, nor may the manner or form of payment be changed to a protective, vendor, or 2-party payment until: (1) the request for a hearing has been withdrawn; (2) a change affecting the recipient’s grant occurs while the hearing is pending and the recipient fails to request a hearing after notice of the change; (3) a determination is made at the hearing that the sole issue is one of law and not of incorrect grant computation; or (4) a decision is rendered by the Mayor after a hearing and this decision upholds the Mayor in his or her action to alter the amount or conditions of the public assistance grant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_59_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_59_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In any case in which action was taken without timely notice, when timely notice is required by law, and the recipient requests a hearing within 10 days of the postmark of the written notice of the action, the Mayor shall reinstate assistance within 96 hours of the request for a hearing and assistance shall not be discontinued, withheld, terminated, suspended, reduced or made subject to additional conditions, nor may the manner or form of payment be changed to a protective, vendor, or 2-party payment until: (1) a determination is made at the hearing that the sole issue is one of law and not of incorrect grant computation; or (2) a decision is rendered by the Mayor after a hearing and this decision upholds the Mayor in his or her action to alter the amount or conditions of the public assistance grant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_59_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A request for a hearing made more than 10 days after the date upon which the action would become effective but within the time limits of § 4-210.09 shall be honored but shall not result in the continuation of disputed benefits. If the claimant’s position is upheld by the hearing decision, the Mayor shall promptly make corrective payments retroactively to the date the incorrect action was taken.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

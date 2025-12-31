@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1442"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1442/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1442">
+        <akn:num>8-1442</akn:num>
+        <akn:heading>Strict liability for release of hazardous materials during transport.</akn:heading>
+<akn:subsection eId="subsec_8-1442_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Explosives of Class 1, Division 1.1, or Class 1, Division 1.2, as designated in 49 C.F.R. § 173.2, in a quantity greater than 500 kilograms;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1442_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Flammable gasses of Class 2, Division 2.1, as designated in 49 C.F.R. § 173.2, in a quantity greater than 10,000 liters;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1442_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Poisonous gasses of Class 2, Division 2.3, as designated in 49 C.F.R. § 173.2, in a quantity greater than 500 liters, and belonging to Hazard Zones A or B, as defined in 49 C.F.R. § 173.116;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1442_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Poisonous materials, other than gasses, of Class 6, Division 6.1, in a quantity greater than 1,000 kilograms, and belonging to Hazard Zones A or B, as defined in 49 C.F.R. § 173.133;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1442_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Infectious agents, assigned to risk group 4 in 49 C.F.R. § 173.134 unless the infectious agent is the subject of an exception identified in 49 C.F.R. § 173.134; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1442_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Radioactive materials in a concentration greater than that specified by the United States Nuclear Regulatory Commission in 10 C.F.R. § 30.70 (exempt concentrations), or in a quantity required to be labeled under 10 C.F.R. Part 30, Appendix B, or requiring the consideration of the need for an emergency plan for responding to a release under 10 C.F.R. § 30.72.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-204.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-204.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_204_07">
+        <akn:num>9-204.07</akn:num>
+        <akn:heading>Submission of bill to involved advisory neighborhood commission.</akn:heading>
+<akn:subsection eId="subsec_9-204_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The initiator of a proposal to name or rename a public space shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Prior to consideration by a committee of the Council of a bill to name or rename a public space, the Mayor shall provide the Council with the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Not less than 30 days prior to Council consideration of a bill to name or rename a public space in the District of Columbia, the Council shall submit a copy of the bill for review and comment to each Advisory Neighborhood Commission in which the public space is located.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

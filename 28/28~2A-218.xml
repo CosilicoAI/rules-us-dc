@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-218"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-218/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2A_218">
+        <akn:num>28:2A-218</akn:num>
+        <akn:heading>Insurance and proceeds.</akn:heading>
+<akn:subsection eId="subsec_28:2A-218_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A lessee obtains an insurable interest when existing goods are identified to the lease contract even though the goods identified are nonconforming and the lessee has an option to reject them.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-218_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a lessee has an insurable interest only by reason of the lessor’s identification of the goods, the lessor, until default or insolvency or notification to the lessee that identification is final, may substitute other goods for those identified.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-218_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding a lessee’s insurable interest under subsections (a) and (b) of this section, the lessor retains an insurable interest until an option to buy has been exercised by the lessee and risk of loss has passed to the lessee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-218_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in this section impairs any insurable interest recognized under any other statute or rule of law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-218_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The parties by agreement may determine that one or more parties have an obligation to obtain and pay for insurance covering the goods and by agreement may determine the beneficiary of the proceeds of the insurance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

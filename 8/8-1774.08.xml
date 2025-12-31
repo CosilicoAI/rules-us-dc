@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1774.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1774.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1774_08">
+        <akn:num>8-1774.08</akn:num>
+        <akn:heading>Natural gas company.</akn:heading>
+<akn:subsection eId="subsec_8-1774_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 30 days after the execution of a contract with the SEU, the gas company shall disclose, or allow access to, the aggregate energy use data for every rate class for gas company customers in the District of Columbia. Customer-specific information, including the customer’s name, account number, service address, phone number, and energy use data, shall not be provided without the customer’s express written consent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1774_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The gas company shall ensure the privacy of any and all customer information, including the gas company customer’s name, account number, service address, billing address, phone number, and energy use data, in making the disclosure. The SEU shall not sell or otherwise disclose any customer or billing information to any third party without express written authorization from the customer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1774_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The gas company shall not be liable for any damages resulting from its provision of customer energy use data to the SEU absent gross negligence. The SEU shall be liable for damages to the customer for any unauthorized use of customer information or data, including the gas company customer’s name, account number, service address, billing address, phone number, and energy use data.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1774_08_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

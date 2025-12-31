@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-106.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-106.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_106_01">
+        <akn:num>44-106.01</akn:num>
+        <akn:heading>Admissions.</akn:heading>
+<akn:subsection eId="subsec_44-106_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An ALR shall accept as residents only individuals for whom the ALR can provide appropriate services unless the ALR arranges for third party services or the resident does so with the agreement of the ALR.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Prior to admission of a resident, the ALA or designee shall determine that the resident is appropriate for admission to the ALR and that the resident’s needs can be met in addition to the needs of the other residents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An ALR may only admit individuals who are at least 18 years of age.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No individual may be admitted who at the time of initial admission, and as established by the initial assessment:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An ALR shall not admit individuals who require the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_01_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The ALR shall maintain records of all denials of admission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_01_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall automatically exclude persons with primary or secondary mental health issues from admission.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

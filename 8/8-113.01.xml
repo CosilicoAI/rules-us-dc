@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-113.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-113.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_113_01">
+        <akn:num>8-113.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_8-113_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Facility” means 1 or more underground storage tanks at a given location.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Guarantor” means any person, other than the owner or operator, who provides evidence of financial responsibility for the underground storage tank facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Operator” means any person in control of, or having responsibility for, the daily operation of a facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Owner” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Person” means any individual, partnership, corporation (including a government corporation), trust, firm, joint stock company, association, consortium, joint venture, commercial entity, state, municipality, commission, political subdivision of a state, the District of Columbia (“District”) government, the United States government, a foreign government, or any interstate body.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Petroleum” means petroleum, including crude oil or any fraction of crude oil, that is liquid at standard conditions of temperature and pressure of 60 degrees Fahrenheit and 14.7 pounds per square inch absolute.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_01_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Regulated substance” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_01_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Release” means any spill, leak, emission, discharge, escape, leach, or disposal from an underground storage tank.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_01_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_01_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Underground storage tank” means 1 or any combination of tanks, including underground pipes that connect tanks, that is used to contain an accumulation of regulated substances, and the volume of which (including the volume of the underground pipes connected thereto) is 10% or more beneath the surface of the ground. “Underground storage tank” does not mean a tank that is exempted in accordance with rules issued pursuant to § 8-113.12.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.77"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.77/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_205_77">
+        <akn:num>4-205.77</akn:num>
+        <akn:heading>POWER — Failure to participate in self-sufficiency activities.</akn:heading>
+<akn:subsection eId="subsec_4-205_77_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a POWER recipient who is an adult or minor head of an assistance unit fails, without good cause (as determined by the Mayor) to participate in required activities to promote self-sufficiency, the recipient shall be sanctioned in the same manner as a TANF recipient who fails to comply with the requirements of an individual responsibility plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_77_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall promulgate rules defining what constitutes good cause for failure to participate in required self-sufficiency activities, in addition to those grounds described in subsections (c), (d), and (e) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_77_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall not sanction a POWER recipient based on the failure of the recipient to participate in self-sufficiency activities if the recipient is a single custodial parent caring for a child under 6 years old, and the recipient proves that the recipient has a demonstrated inability, as determined by the Mayor, to obtain needed child care for one or more of the following reasons:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_77_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall not sanction a POWER recipient based on the failure of the recipient to participate in self-sufficiency activities if the Mayor has failed to notify the recipient of the self-sufficiency activities in which the recipient must participate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_77_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

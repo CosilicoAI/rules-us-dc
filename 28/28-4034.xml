@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4034"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4034/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4034">
+        <akn:num>28-4034</akn:num>
+        <akn:heading>Legal action.</akn:heading>
+<akn:subsection eId="subsec_28-4034_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In addition to any other remedies otherwise available to a consumer, a consumer who suffers loss as a result of any violation of this chapter may bring an action to recover damages. The court shall award a consumer who prevails in an action twice the amount of any pecuniary loss, costs, reasonable attorneys’ fees, and any equitable relief that the court determines is appropriate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4034_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The remedies under this chapter shall be cumulative and not exclusive and shall be in addition to any other legal or equitable remedies otherwise available to the consumer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

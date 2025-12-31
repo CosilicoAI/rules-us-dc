@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:1-303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:1-303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:1_303">
+        <akn:num>28:1-303</akn:num>
+        <akn:heading>Course of performance, course of dealing, and usage of trade.</akn:heading>
+<akn:subsection eId="subsec_28:1-303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A “course of performance” is a sequence of conduct between the parties to a particular transaction that exists if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:1-303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A “course of dealing” is a sequence of conduct concerning previous transactions between the parties to a particular transaction that is fairly to be regarded as establishing a common basis of understanding for interpreting their expressions and other conduct.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:1-303_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A “usage of trade” is any practice or method of dealing having such regularity of observance in a place, vocation, or trade as to justify an expectation that it will be observed with respect to the transaction in question. The existence and scope of such a usage of trade must be proved by facts. If it is established that such a usage is embodied in a trade code or similar record, the interpretation of the record is a question of law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:1-303_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A course of performance or course of dealing between the parties or usage of trade in the vocation or trade in which they are engaged or of which they are or should be aware is relevant in ascertaining the meaning of the parties’ agreement, may give particular meaning to specific terms of the agreement, and may supplement or qualify the terms of the agreement. A usage of trade applicable in the place in which part of the performance under the agreement is to occur may be so utilized as to that part of the performance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:1-303_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (f) of this section, the express terms of an agreement and any applicable course of performance, course of dealing, or usage of trade must be construed whenever reasonable as consistent with each other. If such a construction is unreasonable:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:1-303_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Subject to § 28:2-209, a course of performance is relevant to show a waiver or modification of any term inconsistent with the course of performance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:1-303_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>Evidence of a relevant usage of trade offered by one party is not admissible unless that party has given the other party notice that the court finds sufficient to prevent unfair surprise to the other party.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

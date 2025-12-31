@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2410.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2410.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2410_04">
+        <akn:num>34-2410.04</akn:num>
+        <akn:heading>Inspection of private fire hydrants.</akn:heading>
+<akn:subsection eId="subsec_34-2410_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor and the District of Columbia Water and Sewer Authority shall have a right of access for the inspection of any private fire hydrant in the District of Columbia to determine operational ability and compliance with applicable standards. The Mayor and the District of Columbia Water and Sewer Authority shall designate, through a memorandum of understanding, the agency or authority responsible for the inspection of private fire hydrants (“Inspection Agency”). If such a memorandum of understanding is not executed and in effect, then the Mayor shall be the Inspection Agency for purposes of this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2410_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Inspection Agency shall regularly inspect all private fire hydrants in the District of Columbia to determine operational ability and compliance with applicable standards.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2410_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Upon determination by the Inspection Agency that a private fire hydrant is in need of maintenance, repair, or replacement, and if ownership has been determined pursuant to § 34-2410.05, the Inspection Agency shall notify:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2410_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Inspection Agency shall keep and maintain records of all inspections made of a private fire hydrant and shall make the records available to the owner of the private fire hydrant upon request. The records shall be kept and maintained for not less than 10 years.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

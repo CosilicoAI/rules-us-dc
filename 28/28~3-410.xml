@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-410"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-410/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_410">
+        <akn:num>28:3-410</akn:num>
+        <akn:heading>Acceptance varying draft.</akn:heading>
+<akn:subsection eId="subsec_28:3-410_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the terms of a drawee’s acceptance vary from the terms of the draft as presented, the holder may refuse the acceptance and treat the draft as dishonored. In that case, the drawee may cancel the acceptance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-410_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The terms of a draft are not varied by an acceptance to pay at a particular bank or place in the United States, unless the acceptance states that the draft is to be paid only at that bank or place.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-410_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the holder assents to an acceptance varying the terms of a draft, the obligation of each drawer and endorser that does not expressly assent to the acceptance is discharged.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

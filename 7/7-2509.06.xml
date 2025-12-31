@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2509.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2509.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2509_06">
+        <akn:num>7-2509.06</akn:num>
+        <akn:heading>Carrying a pistol while impaired.</akn:heading>
+<akn:subsection eId="subsec_7-2509_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A licensee shall not carry a pistol while he or she is consuming alcohol.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2509_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A licensee shall not carry a pistol while impaired.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2509_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Upon establishing reasonable suspicion that a licensee has been consuming drugs or alcohol, a licensee’s failure to submit to one or more field sobriety, breathalyzer, or urine tests, administered to determine whether the licensee is impaired while carrying a pistol, shall be grounds for summary suspension of the license pursuant to §  7-2509.05(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2509_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In addition to any other penalty provided by law, any person who violates this section shall be subject to revocation of his or her license.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2509_06_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “impaired” means a licensee has consumed alcohol or other drug or drugs and that it has affected the licensee’s behavior in a way that can be perceived or noticed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

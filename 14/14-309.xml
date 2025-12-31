@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/14-309"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/14-309/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_14_309">
+        <akn:num>14-309</akn:num>
+        <akn:heading>Clergy.</akn:heading>
+<akn:subsection eId="subsec_14-309_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>confession, or communication, made to him, in his professional capacity in the course of discipline enjoined by the church or other religious body to which he belongs, without the consent of the person making the confession or communication; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_14-309_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>communication made to him, in his professional capacity in the course of giving religious or spiritual advice, without the consent of the person seeking the advice; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_14-309_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

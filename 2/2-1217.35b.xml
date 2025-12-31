@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1217.35b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1217.35b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1217_35b">
+        <akn:num>2-1217.35b</akn:num>
+        <akn:heading>Creation of the Skyland TIF Fund.</akn:heading>
+<akn:subsection eId="subsec_2-1217_35b_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a nonlapsing fund the Skyland TIF Fund. The Chief Financial Officer shall deposit into the Skyland TIF Fund the Available Tax Increment and any other taxes or fees specifically designated by law for deposit in the Skyland TIF Fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1217_35b_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may pledge and create a security interest in the funds in the Skyland TIF Fund, or any sub-account within the Skyland TIF Fund, for the payment of debt service on the Bonds without further action by the Council as permitted by § 1-204.90. The payment of debt service shall be made in accordance with the provisions of the Financing Documents entered into by the District in connection with the issuance of the Bonds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1217_35b_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If, at the end of any fiscal year of the District, the balance of cash and investments in the Skyland TIF Fund exceeds the amount of debt service (including prepayment of principal and interest), reserves on any Bonds, and any approved bond-related administrative expenses during the upcoming fiscal year, the excess shall be transferred to the unrestricted balance of the General Fund of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

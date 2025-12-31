@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-584"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-584/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_584">
+        <akn:num>23-584</akn:num>
+        <akn:heading>Field arrest and release on citation.</akn:heading>
+<akn:subsection eId="subsec_23-584_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In lieu of taking a person into custody, a law enforcement officer may issue a field arrest form to a person whom he or she has arrested without a warrant if the person:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-584_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-584_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A releasing official may authorize a release on citation to a person who is not otherwise eligible for release under subsection (b)(2) of this section if the release is approved by the prosecutor and:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-584_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-584_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed to create a private right of action or give rise to any rights enforceable by injunction, mandamus, or otherwise.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

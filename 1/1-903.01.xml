@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-903.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-903.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_903_01">
+        <akn:num>1-903.01</akn:num>
+        <akn:heading>Retirement fund for police officers and fire fighters.</akn:heading>
+<akn:subsection eId="subsec_1-903_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Police Officers and Fire Fighters’ Retirement Fund shall continue in existence and shall be the fund into which the following deposits shall be made, which shall constitute the assets of the fund:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-903_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>After the 30-day period following October 1, 1997, or after the end of the 30-day period beginning on the date on which funds are first appropriated to the Police Officers and Fire Fighters’ Retirement Fund for Fiscal Year 1998, whichever is later, all payments of annuities and other retirement and disability benefits (including refunds and lump-sum payments) under the Police and Firemen’s Retirement Act shall be made from the Fund (except for any such payment which is made to an officer or member of the United States Park Police force, the United States Secret Service Uniformed Division, or the United States Secret Service, or to a beneficiary of any such officer or member).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

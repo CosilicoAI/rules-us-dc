@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-305.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-305.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_305_02">
+        <akn:num>29-305.02</akn:num>
+        <akn:heading>Special meeting.</akn:heading>
+<akn:subsection eId="subsec_29-305_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A corporation shall hold a special meeting of shareholders:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Unless otherwise provided in the articles of incorporation, a written demand for a special meeting may be revoked by a writing to that effect received by the corporation before the receipt by the corporation of demands sufficient in number to require the holding of a special meeting.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If not otherwise fixed under § 29-305.03 or [§] 29-305.07, the record date for determining shareholders entitled to demand a special meeting is the date the first shareholder signs the demand.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Special shareholders’ meetings may be held in or outside of the District at the place stated in or fixed in accordance with the bylaws. If no place is stated or fixed in accordance with the bylaws, special meetings must be held at the corporation’s principal office.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Only business within the purpose or purposes described in the meeting notice required by § 29-305.05(c) may be conducted at a special shareholders’ meeting.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

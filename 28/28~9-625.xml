@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-625"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-625/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_625">
+        <akn:num>28:9-625</akn:num>
+        <akn:heading>Remedies for secured party’s failure to comply with article.</akn:heading>
+<akn:subsection eId="subsec_28:9-625_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If it is established that a secured party is not proceeding in accordance with this article, a court may order or restrain collection, enforcement, or disposition of collateral on appropriate terms and conditions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-625_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to subsections (c), (d), and (f), a person is liable for damages in the amount of any loss caused by a failure to comply with this article. Loss caused by a failure to comply may include loss resulting from the debtor’s inability to obtain, or increased costs of, alternative financing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-625_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 28:9-628:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-625_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A debtor whose deficiency is eliminated under § 28:9-626 may recover damages for the loss of any surplus. However, a debtor or secondary obligor whose deficiency is eliminated or reduced under § 28:9-626 may not otherwise recover under subsection (b) for noncompliance with the provisions of this part relating to collection, enforcement, disposition, or acceptance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-625_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>In addition to any damages recoverable under subsection (b), the debtor, consumer obligor, or person named as a debtor in a filed record, as applicable, may recover $500 in each case from a person that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-625_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A debtor or consumer obligor may recover damages under subsection (b) and, in addition, $500 in each case from a person that, without reasonable cause, fails to comply with a request under § 28:9-210. A recipient of a request under § 28:9-210 which never claimed an interest in the collateral or obligations that are the subject of a request under that section has a reasonable excuse for failure to comply with the request within the meaning of this subsection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-625_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>If a secured party fails to comply with a request regarding a list of collateral or a statement of account under § 28:9-210, the secured party may claim a security interest only as shown in the statement included in the request as against a person that is reasonably misled by the failure.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

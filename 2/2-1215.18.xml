@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1215.18"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1215.18/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1215_18">
+        <akn:num>2-1215.18</akn:num>
+        <akn:heading>Term of BID; extension; termination and dissolution.</akn:heading>
+<akn:subsection eId="subsec_2-1215_18_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1215_18_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>If, at the end of the fiscal year, the BID has requested an extension and the Mayor has not issued an order revoking the registration or denying an extension, the BID shall be deemed to be re-registered for a subsequent 5-year term.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1215_18_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall issue an order revoking the registration of a BID at any time if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1215_18_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Within 60 days of dissolution, the Board shall adopt a plan to timely distribute funds and dispose of assets to satisfy all creditors in the order of their priority, if any. Any surplus funds, including the proceeds of the sale of all real and personal property, shall be returned to the owners in proportion to their obligation to pay BID taxes within 30 days of adoption of the plan of distribution.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1215_18_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor may designate the Department of Small and Local Business Development to perform the functions described by this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

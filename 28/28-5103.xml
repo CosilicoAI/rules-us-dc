@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-5103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-5103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_5103">
+        <akn:num>28-5103</akn:num>
+        <akn:heading>Trust property.</akn:heading>
+<akn:subsection eId="subsec_28-5103_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a work of fine art is trust property under § 28-5102 when initially received by the art dealer, it shall remain trust property, notwithstanding the subsequent purchase of the work of fine art by the art dealer, directly or indirectly, for the art dealer’s own account until the purchase price is paid in full to the artist.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5103_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the art dealer sells a work of fine art which is trust property under § 28-5102 when initially received by a bona fide third party before the artist has been paid in full, the work of fine art shall cease to be trust property and the proceeds of the sale shall be held in trust by the art dealer for the benefit of the artist to the extent necessary to pay any balance due to the artist. The trust of the proceeds of the sale shall continue until the artist is paid in full.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

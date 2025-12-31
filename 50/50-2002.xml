@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2002"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2002/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2002">
+        <akn:num>50-2002</akn:num>
+        <akn:heading>Approval of courses; certificate of completion.</akn:heading>
+<akn:subsection eId="subsec_50-2002_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Department of Transportation shall establish criteria and guidelines for the approval of motor vehicle accident prevention courses (“course”) for individuals 50 years of age and older.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2002_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An approved classroom course shall require that each student receives a minimum of 6 hours of instruction for the initial course and 4 hours of instruction for the renewal courses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2002_b_1">
+      <akn:num>(b-1)</akn:num>
+      <akn:content><akn:p>An approved online course shall require that each student receives validation of instruction that is equal to or greater than that offered in a classroom course.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2002_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An individual who successfully completes an approved course shall be issued a certificate of completion by the organization operating the course.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

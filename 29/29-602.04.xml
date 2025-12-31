@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-602.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-602.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_602_04">
+        <akn:num>29-602.04</akn:num>
+        <akn:heading>When property is partnership property.</akn:heading>
+<akn:subsection eId="subsec_29-602_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Property shall be partnership property if acquired in the name of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-602_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Property shall be acquired in the name of the partnership by a transfer to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-602_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Property shall be presumed to be partnership property if purchased with partnership assets, even if not acquired in the name of the partnership or of one or more partners with an indication in the instrument transferring title to the property of the person’s capacity as a partner or of the existence of a partnership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-602_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Property acquired in the name of one or more of the partners, without an indication in the instrument transferring title to the property of the person’s capacity as a partner or of the existence of a partnership and without use of partnership assets, shall be presumed to be separate property, even if used for partnership purposes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

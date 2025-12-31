@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1217.72"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1217.72/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1217_72">
+        <akn:num>2-1217.72</akn:num>
+        <akn:heading>Limitations on issuance of Bonds.</akn:heading>
+<akn:subsection eId="subsec_2-1217_72_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Bonds shall not be issued pursuant to this subchapter to the extent the issuance will cause the aggregate principal amount of Bonds issued pursuant to this subchapter and the TIF Act to exceed $500 million; provided, that the aggregate amount of TIF bonds for projects in the Central Business District, as defined in Title 11 of the District of Columbia Municipal Regulations, shall not exceed $300 million.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1217_72_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Bonds shall not be issued pursuant to this subchapter after September 30, 2015.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1217_72_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The maximum principal amount of bonds that may be issued with respect to the Downtown Retail Priority Area is limited to the amount of bonds issued before March 1, 2013.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

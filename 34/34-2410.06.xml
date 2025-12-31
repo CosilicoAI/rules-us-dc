@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2410.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2410.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2410_06">
+        <akn:num>34-2410.06</akn:num>
+        <akn:heading>Limitations on responsibility for maintenance, repair, and replacement of private fire hydrants.</akn:heading>
+<akn:subsection eId="subsec_34-2410_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This subchapter establishes responsibility for the maintenance, repair, and replacement of private fire hydrants that had been permitted prior to October 8, 2009. If this responsibility belongs to the District government, pursuant to this subchapter, the cost to effect the maintenance, repair, or replacement of a the fire hydrant shall be subject to the availability of appropriations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2410_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The responsibility for conducting and notifying owners of the results of a title search, and the inspection, of the private fire hydrants as required by this subchapter, shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

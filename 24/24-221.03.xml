@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-221.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-221.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_221_03">
+        <akn:num>24-221.03</akn:num>
+        <akn:heading>Jail time; parole.</akn:heading>
+<akn:subsection eId="subsec_24-221_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every person shall be given credit on the maximum and the minimum term of imprisonment for time spent in custody, or on parole in accordance with § 24-406, as a result of the offense for which the sentence was imposed. When entering the final order in any case, the court shall provide that the person be given credit for the time spent in custody, or on parole in accordance with § 24-406, as a result of the offense for which sentence was imposed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-221_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When a person has been in custody due to a charge that resulted in a dismissal or acquittal, the time that would have been credited against a sentence for the charge, had the charge not resulted in a dismissal or acquittal, shall be credited against any sentence that is based upon a charge for which a warrant or commitment detainer was placed during the pendency of the custody.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-221_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any person who is sentenced to a term of confinement in a correctional facility or hospital shall have deducted from the term all time actually spent, pursuant to a court order, by the person in a hospital for examination purposes or treatment prior to trial or pending an appeal.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

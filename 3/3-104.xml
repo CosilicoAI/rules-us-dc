@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_104">
+        <akn:num>3-104</akn:num>
+        <akn:heading>Comprehensive study and reports.</akn:heading>
+<akn:subsection eId="subsec_3-104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No later than September 30, 1999, the Commission shall submit to the Council a comprehensive study of criminal sentencing practices in the District of Columbia, including, but not limited to, a report on the length of sentences imposed, the length of sentences served, the proportion of offenders released upon their first parole eligibility date, and an assessment of the impact on sentence length and sentencing disparities likely to result from implementation of the Truth in Sentencing Amendment Act of 1998, effective October 10, 1998 (D.C. Law 12-165; 45 DCR 2980).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No later than April 5, 2000, the Commission shall submit to the Council its report containing its recommendations consistent with its purposes. The Commission’s report shall include, but is not limited to, the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-104_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-104_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Starting in 2008, the Commission shall file a report with the Council on or before April 30 of each calendar year that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

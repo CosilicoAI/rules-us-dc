@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-405"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-405/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_405">
+        <akn:num>44-405</akn:num>
+        <akn:heading>Reporting, analysis, and publication of utilization, financial, and other health-related data; regulations, reporting periods, format, and forms.</akn:heading>
+<akn:subsection eId="subsec_44-405_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The SHPDA shall develop and maintain the Health Planning Data System (“HPDS”). In order to implement the HPDS, as necessary for the development of the HSP, the SHPDA shall require each health care facility to submit, in writing or other uniform media, data related to the utilization, management, and financing of health services, including data on utilization of health services, cost of services, charges of services, patient demographic and characteristic information, and assurances of its provision of a reasonable volume of uncompensated care through the “annual compliance level” of 3% of its operating costs (total operating expenses of a facility as set forth in an audited financial statement or its equivalent, minus the amount of reimbursement, if any, under Titles XVIII and XIX of the Social Security Act).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-405_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The SHPDA shall issue rules which identify the types of data required from HCFs and establish submission schedules and formats. The SHPDA may require HCFs to submit data in the absence of rules or in addition to submissions required by regulation upon the determination by the SHPDA that the data are reasonably necessary to enable the SHPDA to carry out the mission of this chapter. HCFs shall be given written notice of the data requirements. The notice shall include the basis upon which the requirements have been established.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-405_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Submission of data by HCFs shall be in the form and format prescribed by the SHPDA and shall utilize forms which may be prescribed by the SHPDA.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-405_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The SHPDA shall coordinate with public and private entities that collect data of the type described in this section in order to maximize the use of existing data sources and to minimize the duplication of data collection efforts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-405_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The SHPDA shall analyze data submitted and acquired and may publish data, analyses, and findings which identify major health policy issues.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-405_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>No application for a certificate of need shall be complete and no certificate of need shall be issued if the applicant has not submitted data as required.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-405_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>The SHPDA is authorized to establish a fee schedule for certain data, analyses, and reports available through SHPDA.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

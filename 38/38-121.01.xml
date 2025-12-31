@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-121.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-121.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_121_01">
+        <akn:num>38-121.01</akn:num>
+        <akn:heading>District of Columbia Public Schools use of private funds.</akn:heading>
+<akn:subsection eId="subsec_38-121_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The annual District of Columbia Public Schools (“DCPS”) budget submission shall identify and list all donations, whether monetary or gifts in kind, of $100,000 or more, donated to DCPS, in a single donation or in multiple donations by a benefactor, for its benefit or purpose, whether directly or indirectly.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-121_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall submit an annual report, along with the budget submission, on the use of non-government funds that specifies for each benefactor:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-121_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this subchapter, the term “donation” means any gift, grant, devise, or bequest of any real or personal property, or other type of asset.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

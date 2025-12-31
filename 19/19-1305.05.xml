@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1305.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1305.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1305_05">
+        <akn:num>19-1305.05</akn:num>
+        <akn:heading>Creditor’s claim against settlor.</akn:heading>
+<akn:subsection eId="subsec_19-1305_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whether or not the terms of a trust contain a spendthrift provision, the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1305_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of this section:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1305_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a proceeding other than a small estate proceeding is commenced in the District of Columbia to administer the estate of a deceased settlor as provided in Title 20, property of the trust of which the decedent was a settlor is not liable for payment of claims against the settlor that were not properly presented in the estate proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1305_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a proceeding as described in subsection (c) of this section has not been commenced, the trustee of the trust of which the decedent was a settlor may publish a notice substantially similar to, and in the same manner as provided for the notice described in section 20-704, and thereby obtain for the trust the same protection from claims afforded to a decedent’s estate under section 20-903. Claims against a deceased settlor are barred as against the trustees and the trust property unless presented to the trustee at the address provided in the notice within 6 months after the date of the first publication of the notice. Except to the extent inconsistent with this subsection, Chapter 9 of Title 20 applies to the trustee and trust created by a deceased settlor in the same manner as it applies to a personal representative and decedent’s estate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1305_05_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a notice under subsection (d) of this section is published and a proceeding to administer the settlor’s estate is later commenced, claims against a deceased settlor are barred as against the trustee and trust property as of the date provided in subsection (d) of this section, and not the date provided in section 20-903.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

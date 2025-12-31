@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1001"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1001/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1001">
+        <akn:num>50-1001</akn:num>
+        <akn:heading>Adopted.</akn:heading>
+<akn:subsection eId="subsec_50-1001_I">
+      <akn:num>I</akn:num>
+      <akn:content><akn:p>Findings and Declaration of Policy</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1001_II">
+      <akn:num>II</akn:num>
+      <akn:content><akn:p>Definitions</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1001_III">
+      <akn:num>III</akn:num>
+      <akn:content><akn:p>Reports of Conviction</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1001_IV">
+      <akn:num>IV</akn:num>
+      <akn:content><akn:p>Effect of Conviction</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1001_V">
+      <akn:num>V</akn:num>
+      <akn:content><akn:p>Application for New Licenses</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1001_VI">
+      <akn:num>VI</akn:num>
+      <akn:content><akn:p>Applicability of Other Laws</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1001_VII">
+      <akn:num>VII</akn:num>
+      <akn:content><akn:p>Compact Administrator and Interchange of Information</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1001_VIII">
+      <akn:num>VIII</akn:num>
+      <akn:content><akn:p>Entry Into Force and Withdrawal</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1001_IX">
+      <akn:num>IX</akn:num>
+      <akn:content><akn:p>Construction and Severability</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

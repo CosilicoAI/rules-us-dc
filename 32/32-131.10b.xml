@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-131.10b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-131.10b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_131_10b">
+        <akn:num>32-131.10b</akn:num>
+        <akn:heading>Employer records.</akn:heading>
+<akn:subsection eId="subsec_32-131_10b_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Employers shall retain records documenting hours worked by employees and paid leave taken by employees for a period of 3 years, and shall allow the Mayor and the Office of the District of Columbia Auditor access to the records, with appropriate notice and at a mutually agreeable time, to monitor compliance with the requirements of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-131_10b_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When an issue arises as to an employee’s entitlement to paid leave under this chapter, if the employer does not maintain or retain adequate records documenting hours worked by the employee and paid leave taken by the employee, or does not allow the Mayor or the Office of the District of Columbia Auditor reasonable access to the records, there shall be a rebuttable presumption that the employer has violated this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

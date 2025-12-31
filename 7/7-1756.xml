@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1756"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1756/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1756">
+        <akn:num>7-1756</akn:num>
+        <akn:heading>Penalties and remedies.</akn:heading>
+<akn:subsection eId="subsec_7-1756_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1756_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In addition to any penalty prescribed by subsection (a) of this section, any corporation, partnership, sole proprietor, limited partnership, or association engaged in the manufacture of cigarettes that knowingly makes a false certification pursuant to § 7-1754 shall be subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each such false certification.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1756_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to any other remedy provided by law, the Attorney General for the District of Columbia may file a civil action in the Superior Court of the District of Columbia for a violation of this subchapter, which may include a petition for injunctive relief and the recovery of costs or damages.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1756_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

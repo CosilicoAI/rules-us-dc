@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1002"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1002/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1002">
+        <akn:num>26-1002</akn:num>
+        <akn:heading>License required.</akn:heading>
+<akn:subsection eId="subsec_26-1002_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After the effective date of this chapter [July 18, 2000], no person shall engage in the business of money transmission without obtaining a license issued by the Superintendent [Commissioner] under § 26-1009, except as provided in subsection (d) of this section and in § 26-1003.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1002_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A licensee may conduct its business in the District of Columbia at one or more locations, directly or indirectly owned by the licensee, or through one or more authorized delegates, or both, pursuant to the single license granted to the licensee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1002_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as provided in § 26-1012, a license issued pursuant to this chapter shall not be transferable or assignable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1002_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any person engaged in selling payment instruments pursuant to a license issued under Chapter 31 [repealed] of Title 47 of the District of Columbia Official Code on the effective date of this chapter [July 18, 2000] may continue to engage in selling payment instruments without a license issued under this chapter until the Superintendent [Commissioner] has acted upon such person’s application for a license; provided, that the application is filed within 90 day of the effective date of this chapter [July 18, 2000].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

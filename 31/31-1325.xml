@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1325"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1325/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1325">
+        <akn:num>31-1325</akn:num>
+        <akn:heading>Fraudulent transfer after petition.</akn:heading>
+<akn:subsection eId="subsec_31-1325_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After a petition for rehabilitation or liquidation has been filed, a transfer of any of the real property of the insurer made to a person acting in good faith shall be valid against the receiver if made for a present fair equivalent value, or, if not made for a present fair equivalent value, then to the extent of the present consideration actually paid, for which amount the transferee shall have a lien on the property so transferred. The commencement of a proceeding in rehabilitation or liquidation shall be constructive notice upon the recording of a copy of the petition for or order of rehabilitation or liquidation with the recorder of deeds in the county where any real property in question is located. The exercise by a court of the United States or any state or jurisdiction to authorize or effect a judicial sale of real property of the insurer within any county in any state shall not be impaired by the pendency of such a proceeding unless the copy is recorded in the county prior to the consummation of the judicial sale.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1325_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>After a petition for rehabilitation or liquidation has been filed and before either the receiver takes possession of the property of the insurer or an order of rehabilitation or liquidation is granted:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1325_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Every person receiving any property from the insurer or any benefit thereof which is a fraudulent transfer under subsection (a) of this section shall be personally liable therefor and shall be bound to account to the liquidator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1325_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall impair the negotiability of currency or negotiable instruments.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

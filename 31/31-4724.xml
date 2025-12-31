@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4724"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4724/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4724">
+        <akn:num>31-4724</akn:num>
+        <akn:heading>Access to psychologists or optometrists under group health insurance policy.</akn:heading>
+<akn:subsection eId="subsec_31-4724_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No policy of group health insurance shall be delivered or issued in the District of Columbia or be issued or amended to cover any resident of the District of Columbia if it contains a provision which would restrict access to psychologists or optometrists. When a policy relating to group health insurance requires payment or reimbursement for services which may be performed by a duly licensed psychologist or optometrist, any person covered by the policy shall be free to select and have direct access to such psychologist or optometrist without supervision or referral by a practitioner of the healing art and shall be entitled under the policy to have payment or reimbursement made for services performed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4724_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No policy of group health insurance shall be delivered or issued in the District or be issued or amended to cover any resident of the District if it does not contain a provision which:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

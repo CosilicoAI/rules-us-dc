@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-626.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-626.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_626_11">
+        <akn:num>1-626.11</akn:num>
+        <akn:heading>Establishment and administration of Section 401(a) Trust.</akn:heading>
+<akn:subsection eId="subsec_1-626_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There shall be established an irrevocable trust called the Section 401(a) Trust, that shall be managed so as to be exempt from income tax under § 501(a) of the Internal Revenue Code. The funds contributed by the District under the defined contribution plan of § 1-626.05(3) shall be placed in the Section 401(a) Trust. The assets of the Section 401(a) Trust shall be administered by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-626_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The cost of any contract for provisions of services as may be part of the defined contribution plan under § 1-626.05(3) shall be paid solely from the assets of the Section 401(a) Trust or from a fund or funds established to administer the defined contribution plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-626_11_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-231.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-231.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_231_06">
+        <akn:num>8-231.06</akn:num>
+        <akn:heading>Tenant provision of access to dwelling unit.</akn:heading>
+<akn:subsection eId="subsec_8-231_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A tenant shall allow access to his or her dwelling unit, at reasonable times, to the unit owner or the owner’s employee or representative to facilitate any work or inspection required under this subchapter following the provision of written notice by the owner at least 48 hours prior to the work or inspection; provided, that entry or inspection of any residential premises shall not be made without the permission of the occupant of the premises unless a warrant is obtained first from the Superior Court of the District of Columbia pursuant to § 11-941.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-231_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notice required by subsection (a) of this section shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-231_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the owner demonstrates to the satisfaction of the Mayor that the tenant refuses to allow access after the owner provides notice of no less than 7 days, the owner shall be exempt from meeting any requirements of this subchapter that are dependent upon such access as long as that tenant occupies that dwelling unit or until the tenant provides written notice of the tenant’s willingness to allow access or otherwise allows access. Nothing in this subsection shall prohibit the Mayor from ordering the owner to fulfill the tenant’s reasonable conditions for access or take other action to ensure that the ordered work can be completed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-231_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsections (a) through (c) of this subsection, if entrance is for the purpose of performing work, the tenant may deny access to any person not properly certified pursuant to § 8-231.10 to perform that work.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

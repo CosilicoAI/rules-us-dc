@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1825.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1825.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1825_04">
+        <akn:num>8-1825.04</akn:num>
+        <akn:heading>Responsibilities of beekeepers.</akn:heading>
+<akn:subsection eId="subsec_8-1825_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A colony kept in the District shall be registered annually with the Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1825_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person shall bring into the District a colony or portion of a colony, bees on combs, empty used combs, used hives, or other used apiary appliances without complying with the procedures established by the Department in accordance with this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1825_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A colony may not be established in a multi-unit building without written permission from the property manager or owner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1825_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A hive must be kept and maintained to prevent overcrowding and deter swarming according to procedures established by the Department through rulemaking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1825_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A beekeeper shall be responsible for the remediation of bee swarms and nuisance conditions. If a beekeeper fails to fulfill this obligation, the owner of the property on which a hive is located shall be responsible for remediating these conditions, and the beekeeper shall reimburse the property owner for the costs incurred by the remediation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

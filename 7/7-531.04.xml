@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-531.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-531.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_531_04">
+        <akn:num>7-531.04</akn:num>
+        <akn:heading>Service credits.</akn:heading>
+<akn:subsection eId="subsec_7-531_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To initiate the program, the Mayor shall establish a pool of service credits to be awarded to eligible persons who are in need of targeted services. The Mayor may award credits to eligible persons directly from this pool or may distribute all or part of these credits to sponsors who shall in turn be authorized to award them. The awarding of credits to eligible persons shall be commensurate with the availability of volunteers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-531_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In addition to the pool of service credits established under subsection (a) of this section, a sponsor may, with the prior written approval of the Mayor, establish its own pool of service credits to be awarded to eligible persons. In order to receive this approval, a sponsor shall satisfy the Mayor that it has resources and contingency plans sufficient to meet the obligations imposed by § 7-531.05.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-531_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-531_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-531_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided by § 7-531.05 or the rules issued by the Mayor under § 7-531.10, an eligible person may at any time exchange service credits that he or she has earned, received by transfer, or been awarded for an equal number of hours of any targeted service. The Mayor or a sponsor shall determine whether a requested service is a targeted service and whether the requestor is an eligible person.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

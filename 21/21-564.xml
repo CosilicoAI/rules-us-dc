@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-564"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-564/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_564">
+        <akn:num>21-564</akn:num>
+        <akn:heading>Exercise of property and other rights; notice of inability; persons hospitalized prior to September 15, 1964.</akn:heading>
+<akn:subsection eId="subsec_21-564_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person admitted or committed for treatment pursuant to this chapter may not, by reason of the admission or treatment, be denied the right to dispose of property, execute instruments, make purchases, enter into contractual relationships, vote, and hold a driver’s license, unless the person has been adjudicated incompetent by a court of competent jurisdiction and has not been restored to legal capacity. If the chief clinical officer of the Department or the chief of service for the public or private hospital, facility, or provider in which the committed person is housed is of the opinion that the person is unable to exercise any of the rights referred to in this section, the chief clinical officer or chief of service shall immediately notify the person and the person’s attorney, legal guardian, spouse, parents, or other nearest known adult relative, the Superior Court of the District of Columbia, the Commission, and the Mayor of that fact.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-564_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person in the District of Columbia who, by reason of a judicial decree ordering his hospitalization entered prior to September 15, 1964, is considered to be mentally incompetent and is denied the right to dispose of property, execute instruments, make purchases, enter into contractual relationships, vote, or hold a driver’s license solely by reason of the decree, shall, upon the expiration of the one-year period immediately following September 15, 1964, be deemed to have been restored to legal capacity unless, within the one-year period, affirmative action is commenced to have the person adjudicated mentally incompetent by a court of competent jurisdiction; provided, however, that in those cases in which a committee has heretofore been appointed and the committeeship has not been terminated by court action, such committee shall continue to act under the supervision of the Superior Court of the District of Columbia under its equity powers.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

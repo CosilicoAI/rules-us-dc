@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-615"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-615/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_615">
+        <akn:num>28:2-615</akn:num>
+        <akn:heading>Excuse by failure of presupposed conditions.</akn:heading>
+<akn:subsection eId="subsec_28:2-615_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>delay in delivery or non-delivery in whole or in part by a seller who complies with paragraphs (b) and (c) is not a breach of his duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency the non-occurrence of which was a basic assumption on which the contract was made or by compliance in good faith with any applicable foreign or domestic governmental regulation or order whether or not it later proves to be invalid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-615_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>where the causes mentioned in paragraph (a) affect only a part of the seller’s capacity to perform, he must allocate production and deliveries among his customers but may at his option include regular customers not then under contract as well as his own requirements for further manufacture. He may so allocate in any manner which is fair and reasonable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-615_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>the seller must notify the buyer seasonably that there will be delay or non-delivery and, when allocation is required under paragraph (b), of the estimated quota thus made available for the buyer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

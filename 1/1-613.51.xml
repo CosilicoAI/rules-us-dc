@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-613.51"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-613.51/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_613_51">
+        <akn:num>1-613.51</akn:num>
+        <akn:heading>Performance management system established.</akn:heading>
+<akn:subsection eId="subsec_1-613_51_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Inform employees of work expectations;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-613_51_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Hold employees accountable for their performance, which shall include a direct relationship between the rating received pursuant to § 1-613.52 and the receipt of any periodic step increase or of any performance based increase that may be established under the compensation system authorized by subchapter XI;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-613_51_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Objectively evaluate employees’ work performance based on criteria that have been made known to the employees;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-613_51_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Improve employee performance through training;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-613_51_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Recognize employee accomplishment; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-613_51_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Include customer satisfaction as an evaluation factor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

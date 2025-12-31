@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-137.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-137.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_137_01">
+        <akn:num>10-137.01</akn:num>
+        <akn:heading>Authority of the Director of the Department of Parks and Recreation to regulate District parks.</akn:heading>
+<akn:subsection eId="subsec_10-137_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Council finds that, in order to protect the public health and safety, environmental and scenic values, natural or cultural resources, equitable allocations and use of District park facilities, and to alleviate conflict among park visitors, it is necessary to implement management responsibilities for District parks.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-137_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Director of the Department may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-137_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-137_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>To implement a public use limit, the Director of the Department may establish a permit, registration, or reservation system. Permits shall be issued in accordance with, or in exception to, the criteria in subsection (b) of this section. Applications for use permits may be sent to the Director of the Department, 30 days in advance of the event, by writing a letter which describes the event including the date, day, starting and ending time of the event, a description of what the event will be, and approximately how many people are expected.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-137_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Violating a closure, designation, use or activity restriction or condition, schedule of visiting hours, or public use limit is prohibited. The District of Columbia Metropolitan Police Department may enforce the provisions contained in subsection (b) of this section. Any person violating the provisions of subsection (b) of this section may be punished by a fine of not more than $100 or by imprisonment for not more than 90 days, or both.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

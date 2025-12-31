@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2101">
+        <akn:num>42-2101</akn:num>
+        <akn:heading>Findings.</akn:heading>
+<akn:subsection eId="subsec_42-2101_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>There exists an immediate crisis regarding the critical shortage of decent and affordable low- and moderate-income housing resulting in significant measure from the lack of maintenance and the deterioration of rental housing, the lack of adequate financial investment in rental housing by owners and private investors, the abandonment of low- and moderate-income rental housing by owners resulting from outstanding government liens, the lack of incentives for tenants to improve the rental property, and the ineffectiveness of traditional means of abating housing code violations on rental property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2101_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Based on 1980 census data, there are approximately 9,800 units that are currently vacant and approximately 60,000 units in need of rehabilitation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2101_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>There are numerous properties that, because of their deteriorating condition, adversely affect the health, comfort, safety, and welfare of those persons who reside in and around them.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

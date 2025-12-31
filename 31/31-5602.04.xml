@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5602.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5602.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5602_04">
+        <akn:num>31-5602.04</akn:num>
+        <akn:heading>Post-licensing requirements.</akn:heading>
+<akn:subsection eId="subsec_31-5602_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5602_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5602_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A licensed broker-dealer or investment adviser shall file such financial reports as the Commissioner may, by rule or order, prescribe, except as provided by section 15 of the Securities Exchange Act 1934 [15 U.S.C. § 78o] in the case of a broker-dealer and section 222 of the Investment Advisers Act of 1940 [15 U.S.C. § 80b-18a] in the case of an investment adviser.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5602_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the information contained in any document filed with the Commissioner is, or becomes, inaccurate or incomplete in any material respect, a licensed broker-dealer or investment adviser shall promptly file a correcting amendment with the Commissioner, and a federal covered adviser shall file a correcting amendment when required to do so with the Securities and Exchange Commission.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

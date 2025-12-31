@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3802"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3802/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3802">
+        <akn:num>28-3802</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_28-3802_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“revolving credit account” means a revolving credit account as defined in section 28-3701 of this subtitle;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3802_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“consumer credit sale” means a sale of goods or services in which —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3802_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“direct installment loan” means a direct installment loan as that term is used in section 28-3308 and does not include a loan secured on real estate or a direct motor vehicle installment loan covered by Chapter 36 of this subtitle.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3802_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“cross collateral” means an arrangement wherein a seller in a “consumer credit sale” secures a debt arising from the sale by contracting for a security interest in other property if as a result of a prior sale the seller has an existing security interest in the other property. The seller may also contract for a security interest in the property sold in the subsequent sale as a security for the previous debt.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

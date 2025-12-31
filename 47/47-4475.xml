@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4475"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4475/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4475">
+        <akn:num>47-4475</akn:num>
+        <akn:heading>Certificate of sale; deed of real property.</akn:heading>
+<akn:subsection eId="subsec_47-4475_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If property is sold as provided in § 47-4472, the Mayor shall give to the purchaser a certificate of sale upon payment in full of the purchase price. In the case of real property, the certificate shall set forth the real property purchased, for whose taxes the property was sold, the name of the purchaser, and the price paid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4475_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the case of real property sold as provided in § 47-4472 and not redeemed in the manner and within the time specified in § 47-4474(b), upon the surrender of the certificate of sale, the Mayor shall execute a deed to the real property, reciting the facts set forth in the certificate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

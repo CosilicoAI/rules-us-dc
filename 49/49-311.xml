@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/49-311"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/49-311/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_49_311">
+        <akn:num>49-311</akn:num>
+        <akn:heading>Special examination of officer’s capability.</akn:heading>
+<akn:subsection eId="subsec_49-311_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever, in the opinion of the Commanding General of the militia of the District of Columbia, an officer of the said militia has become incapacitated for the performance of duty for any reason, the Commanding General shall submit the name of such officer to the Secretary of the Army, with a view to his being ordered before a board of examination, to be appointed by the Secretary of the Army, which board shall examine said officer as to his physical, mental, and military qualifications.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-311_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If any officer shall fail to appear before a board of examination so appointed within 30 days after being notified, or shall fail to pass a satisfactory examination, the fact shall be certified by the board to the Commanding General, who shall forward the record of examination to the Secretary of the Army, with his recommendation thereon, for submission to the President.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

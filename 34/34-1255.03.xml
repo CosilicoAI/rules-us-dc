@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1255.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1255.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1255_03">
+        <akn:num>34-1255.03</akn:num>
+        <akn:heading>Mandatory transfer of franchise to the District; general requirement.</akn:heading>
+<akn:subsection eId="subsec_34-1255_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon payment of the purchase price by the District, the cable operator shall immediately transfer to the District possession and title to all facilities and property, real and personal, related to its cable system, free from any and all liens and encumbrances that the District has not agreed to assume in lieu of some portion of the purchase price.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1255_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The District may assign its right and power under subsection (a) of this section to a person who shall assume the rights and obligations of the franchise and franchise agreement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

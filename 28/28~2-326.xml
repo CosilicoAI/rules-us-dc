@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-326"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-326/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_326">
+        <akn:num>28:2-326</akn:num>
+        <akn:heading>Sale on approval and sale or return; rights of creditors.</akn:heading>
+<akn:subsection eId="subsec_28:2-326_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Unless otherwise agreed, if delivered goods may be returned by the buyer even though they conform to the contract, the transaction is</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-326_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Goods held on approval are not subject to the claims of the buyer’s creditors until acceptance; goods held on sale or return are subject to such claims while in the buyer’s possession.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-326_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-326_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Any “or return” term of a contract for sale is to be treated as a separate contract for sale within the statute of frauds section of this article (section 28:2-201) and as contradicting the sale aspect of the contract within the provisions of this article on parol or extrinsic evidence (section 28:2-202).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

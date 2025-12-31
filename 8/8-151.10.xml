@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-151.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-151.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_151_10">
+        <akn:num>8-151.10</akn:num>
+        <akn:heading>Rulemaking.</akn:heading>
+<akn:subsection eId="subsec_8-151_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 180 days of February 15, 2006, the Mayor shall promulgate rules and regulations to implement the provisions of this chapter, including the establishment of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Proposed rules and regulations promulated [promulgated] pursuant to subsection (a) of this section shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45-day period, the proposed rules shall be deemed to be disapproved.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

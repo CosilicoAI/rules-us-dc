@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.23"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.23/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3502_23">
+        <akn:num>42-3502.23</akn:num>
+        <akn:heading>Addition to Comprehensive Housing Strategy report.</akn:heading>
+<akn:subsection eId="subsec_42-3502_23_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The income and any other criteria that shall be used to determine which tenants qualify for the program;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_23_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The rent that qualified households shall pay;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_23_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The number and the allocation of units to be included in any set-aside;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_23_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The extent to which the program should incorporate any District affordable housing program and any federal affordable housing program available in the District;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_23_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The reporting requirements which should be imposed on housing providers subject to this subchapter and on qualified tenants to ensure that the program is effective.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

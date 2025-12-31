@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1518.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1518.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1518_01">
+        <akn:num>34-1518.01</akn:num>
+        <akn:heading>Community renewable energy facilities.</akn:heading>
+<akn:subsection eId="subsec_34-1518_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A community renewable energy facility may produce no greater than 5 megawatts of electricity and must have at least 2 subscribers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1518_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A subscriber to an eligible community renewable energy facility may offset no more than 120% of the subscriber’s electricity consumption over the previous 12 months.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1518_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each subscription shall represent a percentage of the community renewable energy facility’s generating capacity; provided, that the subscription is intended primarily to offset part or all of the subscriber’s own electrical requirements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1518_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>All individual billing meters for subscriptions to community renewable energy facilities shall be within the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1518_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A community renewable energy facility may be built, owned, or operated by a third party under contract with a subscriber organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1518_01_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A community renewable energy facility may add capacity and subscribers to its facility if the added capacity and subscribers do not reduce the electrical production benefit to existing subscribers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1518_01_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A community renewable energy facility may update its subscribers no more frequently than once per quarter. Each quarter the owner of a CREF or its designated agent shall provide the following information about its subscribers to the electric company as required to facilitate net metering for subscribers:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1518_01_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>The electric company may require that a CREF and its subscribers have their meters read on the same billing cycle.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1518_01_i">
+      <akn:num>(i)</akn:num>
+      <akn:content><akn:p>If the electrical capacity of a community renewable energy facility is not fully subscribed, the SOS administrator shall purchase the energy associated with the unsubscribed capacity at the PJM Locational Marginal Price for the PEPCO zone, adjusted for ancillary service charges.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1518_01_j">
+      <akn:num>(j)</akn:num>
+      <akn:content><akn:p>Subscribers shall be eligible to receive electricity credits so long as the CREF continues to generate and provide power to the distribution grid, regardless of the bankruptcy or contractual default of any subscriber or of the subscriber organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1518_01_k">
+      <akn:num>(k)</akn:num>
+      <akn:content><akn:p>A community renewable energy facility shall not add subscribers without adhering to the consumer protection provisions contained in § 34-1507.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1518_01_l">
+      <akn:num>(l)</akn:num>
+      <akn:content><akn:p>A community renewable energy facility may not sell subscriptions totaling more than 100% of its energy generation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

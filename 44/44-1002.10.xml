@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1002.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1002.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1002_10">
+        <akn:num>44-1002.10</akn:num>
+        <akn:heading>Appointment of court monitor.</akn:heading>
+<akn:subsection eId="subsec_44-1002_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person authorized to file a petition for receivership may, based on one or more of the grounds listed in § 44-1002.02, petition the court for the appointment of a monitor. In addition, in lieu of appointing a receiver when a petition for receivership has been filed, the court may, on either its own motion or the motion of a party, appoint a monitor instead. The grounds and procedures set forth in §§ 44-1002.02 to 44-1002.05, except for the requirement of a bond in § 44-1002.05(c), shall apply to the appointment of a monitor. The appointment of a monitor may be terminated by the court for any of the reasons listed in § 44-1002.07(a) or if the court determines that a receiver should be appointed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A monitor appointed under this section shall observe the operation of the facility, advise the facility on how to comply with District and federal law, and report periodically to the court. In each report to the court, the monitor shall make a recommendation on whether a receiver should be appointed for the facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Whenever a person requests the Attorney General for the District of Columbia to petition for the appointment of a receiver under § 44-1002.03(b) and the Attorney General for the District of Columbia instead petitions the court for the appointment of a monitor, the request shall be considered denied and the requestor may petition the court for the appointment of a receiver.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

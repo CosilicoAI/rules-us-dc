@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-536"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-536/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_536">
+        <akn:num>2-536</akn:num>
+        <akn:heading>Information which must be made public.</akn:heading>
+<akn:subsection eId="subsec_2-536_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Without limiting the meaning of other sections of this subchapter, the following categories of information are specifically made public information, and do not require a written request for information:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-536_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For records created on or after November 1, 2001, each public body shall make records available on the Internet or, if a website has not been established by the public body, by other electronic means. This subsection is intended to apply only to information that must be made public pursuant to this subsection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-536_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section “absentee real property owners” means owners of real property located in the District that do not reside at the real property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

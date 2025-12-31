@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-513"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-513/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_513">
+        <akn:num>32-513</akn:num>
+        <akn:heading>Effect on existing employment benefits.</akn:heading>
+<akn:subsection eId="subsec_32-513_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall diminish an employer’s obligation to comply with any collective bargaining agreement or any employment benefit program or plan that provides greater family or medical leave rights to an employee than the family or medical leave rights provided under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-513_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The rights provided to an employee under this chapter may not be diminished by any collective bargaining agreement or any employment benefit program or plan, except that this chapter shall not supersede any clause on family or medical leave in any collective bargaining agreement in force on October 3, 1990, for the time that the collective bargaining agreement is in effect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-513_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The rights provided to an employee under this chapter may be suspended temporarily for an employee of a public safety agency if the employee is required by rules or regulations of the agency or by the provisions of a collective bargaining agreement to return to duty because of an emergency declared by the agency head or the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

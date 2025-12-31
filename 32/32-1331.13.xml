@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1331.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1331.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1331_13">
+        <akn:num>32-1331.13</akn:num>
+        <akn:heading>Further acts prohibited; penalty.</akn:heading>
+<akn:subsection eId="subsec_32-1331_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person who knowingly incorporates or forms, or assists in the incorporation or formation of, a corporation, partnership, limited liability company, or other entity, or pays or collects a fee for use of a foreign or domestic corporation, partnership, limited liability corporation, or other entity for the purpose of facilitating, or evading detection of, a violation of this subchapter shall be subject to a civil penalty not less than $5,000 and not to exceed $20,000.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1331_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person who knowingly conspires with, aids and abets, assists, advises, or facilitates, an employer with the intent of violating this subchapter shall be subject to a civil penalty not less than $5,000 and not to exceed $20,000.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

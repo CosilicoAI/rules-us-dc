@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-1103.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-1103.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_1103_02">
+        <akn:num>9-1103.02</akn:num>
+        <akn:heading>Congressional consent given to effectuate amendments to Compact.</akn:heading>
+<akn:subsection eId="subsec_9-1103_02_I">
+      <akn:num>I</akn:num>
+      <akn:content><akn:p>There is hereby created the Washington Metropolitan Area Transit District, hereinafter referred to as Metropolitan District, which shall embrace the District of Columbia, the cities of Alexandria and Falls Church, the counties of Arlington and Fairfax, and political subdivisions of the State of Virginia located within those counties and that portion of Loudoun County, Virginia, occupied by the Dulles International Airport and the counties of Montgomery and Prince Georges, in the State of Maryland and political subdivisions of the State of Maryland located within said counties, and all other cities now or hereafter existing in Maryland or Virginia within the geographic area bounded by the other boundaries of the combined area of said counties, cities and airport.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-1103_02_XII">
+      <akn:num>XII</akn:num>
+      <akn:content><akn:p>Transportation Covered</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-1103_02_24.">
+      <akn:num>24.</akn:num>
+      <akn:content><akn:p>The Commission shall make an annual report for each fiscal year ending June thirtieth, to the Governor of Virginia and the Governor of Maryland, and to the Board of Commissioners of the District of Columbia as soon as practicable after June thirtieth, but no later than the 1st day of January of each year, which shall contain, in addition to a report of the work performed under this subchapter, such other information and recommendations concerning passenger transportation within the Metropolitan District, as the Commission deems advisable.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

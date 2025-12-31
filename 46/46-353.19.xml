@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-353.19"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-353.19/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_353_19">
+        <akn:num>46-353.19</akn:num>
+        <akn:heading>Receipt and disbursement of payments.</akn:heading>
+<akn:subsection eId="subsec_46-353_19_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A support enforcement agency or tribunal of the District shall disburse promptly any amounts received pursuant to a support order, as directed by the order. The agency or tribunal shall furnish to a requesting party or tribunal of another state or a foreign country a certified statement by the custodian of the record of the amounts and dates of all payments received.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-353_19_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If neither the obligor, nor the obligee who is an individual, nor the child resides in the District, upon request from the support enforcement agency of the District or another state, the support enforcement agency of the District or a tribunal of the District shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-353_19_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The support enforcement agency of the District receiving redirected payments from another state pursuant to a law similar to subsection (b) of this section shall furnish to a requesting party or tribunal of the other state a certified statement by the custodian of the record of the amount and dates of all payments received.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

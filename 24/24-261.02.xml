@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-261.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-261.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_261_02">
+        <akn:num>24-261.02</akn:num>
+        <akn:heading>Use of deadly and non-deadly force.</akn:heading>
+<akn:subsection eId="subsec_24-261_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A private correctional officer may carry firearms provided by the private operator only in the following situations:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-261_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The use of either deadly force or non-deadly force by a private correctional officer employed by the private operator shall at all times be governed by Department of Corrections Order 5010.9, as such order may from time to time be amended or modified. Notwithstanding the provisions of § 22-4504, a private correctional officer shall have the right to possess and use firearms provided by, and in the course of employment with, the private operator; provided, that such carrying and use is in accordance with the policy established by the Department of Corrections, as set forth in Department Order 5011.1, as such order may from time to time be amended or modified. A private correctional officer shall be authorized to use such firearms only as a last resort, and then only in accordance with Department Order 5011.1.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-261_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the private operator shall be considered an organization authorized to register firearms pursuant to subchapter I of Unit A of Chapter 25 of Title 7.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-261_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Each private correctional officer shall be trained in the use of force and the use of firearms, in accordance with procedures that have been reviewed by the Department of Corrections. No employee of the private operator shall be authorized to carry and use firearms until such employee has successfully completed a training program for correctional officers that has been approved by the Department of Corrections.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

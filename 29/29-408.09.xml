@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-408.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-408.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_408_09">
+        <akn:num>29-408.09</akn:num>
+        <akn:heading>Effect of articles amendment.</akn:heading>
+<akn:subsection eId="subsec_29-408_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsections (b), (c), and (d) of this section, an amendment to the articles of incorporation does not affect a cause of action existing against or in favor of the nonprofit corporation, a proceeding to which the corporation is a party, or the existing rights of persons other than members of the corporation or persons referred to in the articles. An amendment changing a corporation’s name shall not abate a proceeding brought by or against the corporation in its former name.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-408_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Property held in trust by a nonprofit corporation or otherwise dedicated to a charitable purpose shall not be diverted from its purpose by an amendment of its articles of incorporation unless the corporation obtains an appropriate order of the Superior Court to the extent required by and pursuant to the law of the District on cy pres or otherwise dealing with the nondiversion of charitable assets.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-408_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Unless a nonprofit corporation obtains an appropriate order of the Superior Court under the law of the District on cy pres or otherwise dealing with the nondiversion of charitable assets, an amendment of its articles of incorporation shall not affect:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-408_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A person that is a member or otherwise affiliated with a charitable corporation shall not receive a direct or indirect financial benefit in connection with an amendment of the articles of incorporation unless the person is itself a charitable corporation or an unincorporated entity with a charitable purpose. This subsection shall not apply to the receipt of reasonable compensation for services rendered.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

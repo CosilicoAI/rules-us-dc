@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1802.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1802.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1802_12">
+        <akn:num>38-1802.12</akn:num>
+        <akn:heading>Charter renewal.</akn:heading>
+<akn:subsection eId="subsec_38-1802_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Terms. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1802_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Application for charter renewal. — In the case of a public charter school that desires to renew its charter, the Board of Trustees of the school shall file an application to renew the charter with the eligible chartering authority that granted the charter not later than 120 days nor earlier than 365 days before the expiration of the charter. The application shall contain the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1802_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Approval of charter renewal application. — The eligible chartering authority that granted a charter shall approve an application to renew the charter that is filed in accordance with subsection (b) of this section, except that the eligible chartering authority shall not approve such application if the eligible chartering authority determines that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1802_12_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Procedures for consideration of charter renewal. —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

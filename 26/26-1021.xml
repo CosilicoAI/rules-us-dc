@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1021"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1021/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1021">
+        <akn:num>26-1021</akn:num>
+        <akn:heading>Civil penalties.</akn:heading>
+<akn:subsection eId="subsec_26-1021_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person who violates any provision of this chapter, any rule or regulation or order issued or promulgated pursuant to this chapter, or any order of the Superintendent [Commissioner] directed to that person, shall be liable for a penalty of not more than $1,000 for each violation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1021_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Corporation Counsel for the District of Columbia may bring proceedings to recover all amounts due to the District under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1021_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner], in the exercise of his reasonable judgment, is authorized to compromise, settle, and collect civil penalties with or from any person for violations of any provision of this chapter, or of any rule, regulation or order issued or promulgated pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

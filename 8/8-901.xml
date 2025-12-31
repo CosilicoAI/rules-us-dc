@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_901">
+        <akn:num>8-901</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_8-901_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Commercial purpose” means for the purpose of a person’s economic gain.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-901_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>“Dispose” means to discharge, deposit, dump, or place any solid waste in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-901_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-901_2A">
+      <akn:num>(2A)</akn:num>
+      <akn:content><akn:p>“Hazardous waste”  means any waste or combination of wastes of a solid, liquid, contained gaseous, or semisolid form which, because of its quantity, concentration, or physical, chemical, or infectious characteristics, as established by the Mayor, may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-901_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Mayor” means the Mayor of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-901_3A">
+      <akn:num>(3A)</akn:num>
+      <akn:content><akn:p>“Medical waste” means solid waste from medical research, medical procedures, or pathological, industrial, or medical laboratories.  Medical waste includes, but is not limited to, the following types of solid waste:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-901_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Motor vehicle” means any conveyance propelled by an internal combustion engine, electricity, or steam.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-901_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Person” means any individual, partnership, corporation (including a government corporation), trust, association, firm, joint stock company, organization, commission, the District or federal government, or any other entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-901_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Solid waste” means combustible or incombustible refuse. Solid waste includes dirt, sand, sawdust, gravel, clay, loam, stone, rocks, rubble, building rubbish, shavings, trade or household waste, refuse, ashes, manure, vegetable matter, paper, dead animals, garbage or debris of any kind, any other organic or inorganic material or thing, or any other offensive matter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

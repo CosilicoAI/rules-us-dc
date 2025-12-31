@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5236"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5236/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5236">
+        <akn:num>31-5236</akn:num>
+        <akn:heading>One hundred percent investment requirement.</akn:heading>
+<akn:subsection eId="subsec_31-5236_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A Certified Capital Company may make Qualified Distributions at any time. To make a distribution, other than a Qualified Distribution, a Certified Capital Company shall have made Qualified Investments in an amount cumulatively equal to 100% of its Certified Capital. A Certified Capital Company may repay principal and interest on its indebtedness without any restriction, including repayments of indebtedness of the Certified Capital Company on which Certified Investors earned Premium Tax Credits.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5236_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision in this chapter, if, pursuant to § 31-5235(a)(4), a Certified Capital Company has not made Qualified Investments cumulatively equal to 100% of its Certified Capital within 10 years after its Allocation Date, the Certified Capital Company shall be prohibited from using its Certified Capital to pay its management fees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5236_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1551"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1551/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1551">
+        <akn:num>34-1551</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_34-1551_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Building” means all of the individual units served through the same utility-owned meter within a property defined as Class 2 Property under § 47-813(c-6).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1551_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Building owner, operator, or manager” means any person or entity responsible for the operation and management of a building.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1551_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Commission” means the Public Service Commission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1551_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Energy allocation equipment” means any device, other than submetering equipment, used to determine approximate electric or natural gas usage for any nonresidential rental unit within a building.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1551_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Electricity supplier” shall have the same meaning as in § 34-1501(17).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1551_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Natural gas supplier” shall have the same meaning as in § 34-1671.02(12).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1551_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Nonresidential rental unit” means real property leased for commercial purposes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1551_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Owner-paid areas” means the portion of the real property for which the owner bears financial responsibility for energy costs, which portions include areas outside individual units or in owner-occupied or shared areas.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1551_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Public utility,” “utility,” or “utility company” shall have the same meaning as in § 34-214.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1551_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Submetering equipment” means equipment used to measure actual electricity or natural gas usage in any nonresidential rental unit when the equipment is not owned or controlled by the electric or natural gas utility serving the building in which the nonresidential rental unit is located.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

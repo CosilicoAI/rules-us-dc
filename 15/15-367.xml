@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/15-367"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/15-367/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_15_367">
+        <akn:num>15-367</akn:num>
+        <akn:heading>Effect of recognition of foreign-country judgment.</akn:heading>
+<akn:subsection eId="subsec_15-367_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Conclusive between the parties to the same extent as the judgment of a sister state entitled to full faith and credit in the District of Columbia would be conclusive; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-367_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Enforceable in the same manner and to the same extent as a judgment rendered in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

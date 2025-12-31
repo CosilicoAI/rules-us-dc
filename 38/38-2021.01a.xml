@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2021.01a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2021.01a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2021_01a">
+        <akn:num>38-2021.01a</akn:num>
+        <akn:heading>Retirement credit for leave without pay.</akn:heading>
+<akn:subsection eId="subsec_38-2021_01a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any teacher who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of teachers, for the purpose of bargaining with the District of Columbia concerning grievances, disputes, hours of employment, or conditions of work, may, within 60 days after entering on such leave without pay, file with the Board of Education of the District of Columbia an election to receive full retirement credit for his periods of that leave without pay and arrange to pay currently into the teachers’ retirement fund established pursuant to this part, through the Board of Education, amounts equal to the retirement deductions plus additional amounts equivalent to such amounts, in lieu of District of Columbia contributions which would be applicable if he were in pay status. A teacher who is on approved leave without pay and serving as a full-time officer or employee of such an organization on May 22, 1970, may similarly make such election within 60 days after such date. If the election and all payments herein provided are not made, the teacher shall receive no credit for such periods of leave without pay occurring on or after May 22, 1970.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2021_01a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A teacher may deposit, with interest computed in accordance with § 38-2023.14(b), an amount equal to retirement deductions representing any period or periods of approved leave without pay while serving, prior to May 22, 1970, as a full-time officer or employee of an organization composed primarily of teachers, and may receive full retirement credit for such period or periods of leave without pay. In the event of the death of such teacher, any individual entitled to annuity under this part may make such deposit.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

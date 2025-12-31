@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4208"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4208/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4208">
+        <akn:num>16-4208</akn:num>
+        <akn:heading>Mediator’s disclosure of conflicts of interest; background.</akn:heading>
+<akn:subsection eId="subsec_16-4208_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Before accepting a mediation, an individual who is requested to serve as a mediator shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4208_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a mediator learns any fact described in subsection (a)(1) of this section after accepting a mediation, the mediator shall disclose it as soon as is practicable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4208_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>At the request of a mediation party, an individual who is requested to serve as a mediator shall disclose the mediator’s qualifications to mediate a dispute.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4208_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A person that violates subsection (a), (b), or (g) of this section is precluded by the violation from asserting a privilege under § 16-4203.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4208_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Subsections (a), (b), (c), and (g) of this section do not apply to an individual acting as a judge or administrative law judge.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4208_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>This chapter does not require that a mediator have a special qualification by background or profession.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4208_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A mediator must be impartial, unless after disclosure of the facts required in subsections (a) and (b) of this section to be disclosed, the parties agree otherwise.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

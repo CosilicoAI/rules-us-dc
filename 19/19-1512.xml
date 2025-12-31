@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1512"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1512/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1512">
+        <akn:num>19-1512</akn:num>
+        <akn:heading>Delivery or filing.</akn:heading>
+<akn:subsection eId="subsec_19-1512_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “beneficiary designation” means an instrument, other than an instrument creating a trust, naming the beneficiary of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1512_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to subsections (c) through (l) of this section, delivery of a disclaimer may be effected by personal delivery, first-class mail, or any other method likely to result in its receipt.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1512_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In the case of an interest created under the law of intestate succession or an interest created by will, other than an interest in a testamentary trust:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1512_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In the case of an interest in a testamentary trust:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1512_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>In the case of an interest in an inter vivos trust:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1512_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>In the case of an interest created by a beneficiary designation which is disclaimed before the designation becomes irrevocable, the disclaimer must be delivered to the person making the beneficiary designation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1512_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>In the case of an interest created by a beneficiary designation which is disclaimed after the designation becomes irrevocable:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1512_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>In the case of a disclaimer by a surviving holder of jointly held property, the disclaimer must be delivered to the person to whom the disclaimed interest passes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1512_i">
+      <akn:num>(i)</akn:num>
+      <akn:content><akn:p>In the case of a disclaimer by an object or taker in default of exercise of a power of appointment at any time after the power was created:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1512_j">
+      <akn:num>(j)</akn:num>
+      <akn:content><akn:p>In the case of a disclaimer by an appointee of a nonfiduciary power of appointment:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1512_k">
+      <akn:num>(k)</akn:num>
+      <akn:content><akn:p>In the case of a disclaimer by a fiduciary of a power over a trust or estate, the disclaimer must be delivered as provided in subsection (c), (d), or (e) of this section, as if the power disclaimed were an interest in property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1512_l">
+      <akn:num>(l)</akn:num>
+      <akn:content><akn:p>In the case of a disclaimer of a power by an agent, the disclaimer must be delivered to the principal or the principal’s representative.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

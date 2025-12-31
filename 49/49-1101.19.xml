@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/49-1101.19"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/49-1101.19/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_49_1101_19">
+        <akn:num>49-1101.19</akn:num>
+        <akn:heading>Binding effect of compact and other laws.</akn:heading>
+<akn:subsection eId="subsec_49-1101_19_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter prevents the enforcement of any other law of a member state that is not inconsistent with this compact. All member states’ laws conflicting with this compact are superseded to the extent of the conflict.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-1101_19_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

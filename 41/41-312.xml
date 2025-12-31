@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-312"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-312/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_312">
+        <akn:num>41-312</akn:num>
+        <akn:heading>Reporting requirements.</akn:heading>
+<akn:subsection eId="subsec_41-312_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The number of seizures and the number of forfeitures, by type of property seized;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-312_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The total quantity of each type of property seized and of each type of property forfeited;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-312_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The number of seizures and the number of forfeitures by type of asserted violation of District law that gave rise to the seizure or forfeiture;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-312_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The number of libels of information that were filed under §  41-307, by outcome;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-312_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The number of times the District exercised its authority pursuant to §  41-305(c) and determined the property to be forfeitable and the number of times the District determined the property was not forfeitable;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-312_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>The number of seizures where the District either did not file a libel of information pursuant to §  41-307 or withdrew a libel of information, excluding seizures where the District had the authority to determine forfeitures pursuant to §  41-305(c);</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-312_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>The number of settlements reached between the District and an owner, pursuant to §  41-306(d);</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-312_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>Amount of currency received from forfeiture listed separately according to the provision of the District of Columbia law that gave rise to the forfeiture;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-312_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>Gross and net proceeds received from forfeiture, listed separately according to the provision of District law giving rise to the forfeiture;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-312_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>By type of property, the number of seized items determined to be returnable for which the District does not have on file a receipt of return as required by §  41-309(b); and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-312_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>The total quantity of each type of property seized for forfeiture that the District treated as abandoned under §§  5-119.01 through 5-119.10 and §§  5-119.12 through 5-119.19, and §  5-119.11.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

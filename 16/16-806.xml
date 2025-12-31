@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-806"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-806/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_806">
+        <akn:num>16-806</akn:num>
+        <akn:heading>Availability of sealed records.</akn:heading>
+<akn:subsection eId="subsec_16-806_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Records sealed on grounds of actual innocence pursuant to § 16-802 shall be opened only on order of the Court upon a showing of compelling need; except, that upon request, the movant, or the authorized representative of the movant, shall be entitled to a copy of the sealed records to the extent that such records would have been available to the movant before relief under § 16-802 was granted and shall also be entitled to all certifications filed with the Court pursuant to § 16-802(h)(5). A request for access to sealed court records may be made ex parte.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-806_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Records retained in a nonpublic file pursuant to § 16-803, § 16-803.01, or § 16-803.02 shall be available:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-806_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any person, upon making inquiry of the Court concerning the existence of records of arrest, court proceedings, or convictions involving an individual, shall be entitled to rely, for any purpose under the law, upon the clerk’s response that no records are available under § 16-802(h)(7), § 16-803(l)(5), or § 16-803.02(b)(5) with respect to any issue about that person’s knowledge of the individual’s record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-806_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except to the extent permitted by this section, all sealed records shall remain sealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

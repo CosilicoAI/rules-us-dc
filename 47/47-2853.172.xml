@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2853.172"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2853.172/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2853_172">
+        <akn:num>47-2853.172</akn:num>
+        <akn:heading>Eligibility requirements.</akn:heading>
+<akn:subsection eId="subsec_47-2853_172_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Is able to read, write, and understand the English language;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2853_172_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Is a high school graduate or the holder of a high school equivalency certificate;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2853_172_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Has successfully completed a course of study prescribed by the Board at a school approved by the Board;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2853_172_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Has passed an examination or examinations given by or under direction of the Board or has passed any other examination acceptable to the Board;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2853_172_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Has not had an application for a real estate license denied, for reasons other than failure to pass the required examination or examinations, in the District or elsewhere within one year prior to the date on which the application is filed;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2853_172_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Has not had a real estate license suspended in the District or elsewhere, which suspension is still in effect on the date on which the application is filed; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2853_172_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Has not had a real estate license revoked in the District or elsewhere within 3 years prior to the date on which his or her application is filed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

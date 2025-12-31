@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-354.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-354.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_354_11">
+        <akn:num>2-354.11</akn:num>
+        <akn:heading>Cooperative purchasing.</akn:heading>
+<akn:subsection eId="subsec_2-354_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The CPO may, and is encouraged to, participate in, sponsor, conduct, or administer cooperative purchasing agreements for the procurement of goods, services, or construction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-354_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Cooperative purchasing agreements entered into by the District government shall be in accordance with, to the extent practicable, all laws and rules of the District government with respect to contracting, and shall be consistent with laws and rules of the United States government that apply specifically to the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-354_11_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An agency shall not enter into or participate in a cooperative purchasing agreement unless that participation is authorized by the CPO or a designee pursuant to the delegated contracting authority in § 2-352.01.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-354_11_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The CPO may charge and collect an administrative fee for serving as the lead jurisdiction on a cooperative agreement and may receive any rebates or other fees for participating in a cooperative agreement. The CPO shall deposit such fees in the District of Columbia Supply Schedule, Purchase Card, and Training Fund established in § 2-361.03.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

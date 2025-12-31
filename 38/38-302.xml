@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_302">
+        <akn:num>38-302</akn:num>
+        <akn:heading>Tuition required of nonresidents; deposit of payments.</akn:heading>
+<akn:subsection eId="subsec_38-302_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In the case of: (1) each adult who attends a public school of the District of Columbia and does not reside in the District of Columbia; and (2) each child who attends such a public school and does not have a parent, guardian, custodian, or other primary caregiver who resides in the District of Columbia, or is not an orphan; there shall be paid to the State Education Office the amount fixed by the State Education Office pursuant to subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-302_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The amount which shall be paid with respect to each person subject to subsection (a) of this section shall be fixed by the State Education Office as the amount necessary to cover all expenses incurred by the District of Columbia public schools or public charter schools that are a result of each person’s use of a school’s services, as determined by § 38-2602, and in accordance with Chapter 29 of this title. Following the final determination of the amounts, the State Education Office shall publish the tuition rate determinations in the District of Columbia Municipal Regulations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-302_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All non-resident tuition and fees collected under this section shall be deposited in the Student Residency Verification Fund established by § 38-312.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-302_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of subsection (a) of this section, upon the submission of evidence satisfactory to the State Education Office that care, custody, and substantial support are supplied by the person or persons with whom a child is residing in the District of Columbia, and that the parent or guardian of such child is unable to supply such care, custody, and support, or that such child is self-supporting, such child shall be considered a resident of the District of Columbia for the purpose of school attendance and exempt from the requirement to pay tuition.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-302_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of subsection (a) of this section, a child in the care and custody of the District pursuant to § 16-2320(a)(3) who, while attending a DCPS or public charter school, ceases to be in that care and custody as a result of being placed in the permanent care and custody of a parent, guardian, or custodian who resides outside the District of Columbia shall be considered a resident of the District of Columbia for the purpose of school attendance and shall be exempt from the requirement to pay tuition for the period of time until the child completes the educational program offered at the school the child currently attends.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

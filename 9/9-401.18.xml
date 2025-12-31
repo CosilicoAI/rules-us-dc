@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-401.18"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-401.18/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_401_18">
+        <akn:num>9-401.18</akn:num>
+        <akn:heading>Exemptions of abutting property from deposits and assessments.</akn:heading>
+<akn:subsection eId="subsec_9-401_18_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, owners of property abutting streets, avenues, roads, or alleys to be improved, or to have curbs, gutters, sewers, or sidewalks constructed thereon, shall not be required to make any deposit, nor shall the abutting property be assessed any part of the cost, for the improvement of the streets, avenues, roads, or alleys, or the construction of curbs, gutters, sewers, or sidewalks if the following conditions exist:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-401_18_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor has sole discretion in the determination of which streets, avenues, roads, and alleys are to be improved, or which streets, avenues, roads, and alleys are to have curbs, gutters, sewers, or sidewalks constructed thereon where the exemption in subsection (a) of this section would be granted to owners of abutting property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

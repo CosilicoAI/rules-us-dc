@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-207.61"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-207.61/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_207_61">
+        <akn:num>1-207.61</akn:num>
+        <akn:heading>Construction.</akn:heading>
+<akn:subsection eId="subsec_1-207_61_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To the extent that any provisions of this chapter are inconsistent with the provisions of any other laws, the provisions of this chapter shall prevail and shall be deemed to supersede the provisions of such laws.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-207_61_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No law or regulation which is in force on January 2, 1975, shall be deemed amended or repealed by this chapter except to the extent specifically provided herein or to the extent that such law or regulation is inconsistent with this chapter, but any such law or regulation may be amended or repealed by act or resolution as authorized in this chapter, or by Act of Congress, except that, notwithstanding the provisions of § 1-207.52, such authority to repeal shall not be construed as authorizing the Council to repeal or otherwise alter, by amendment or otherwise, any provision of subchapter III of Chapter 73 of Title 5, United States Code [5 U.S.C. § 7321 et seq.], in whole or in part.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

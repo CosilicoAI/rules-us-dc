@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2002.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2002.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2002_01">
+        <akn:num>47-2002.01</akn:num>
+        <akn:heading>Street vendors; minimum sales tax.</akn:heading>
+<akn:subsection eId="subsec_47-2002_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2002_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2002_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (d) of this section, if a street vendor has collected sales tax in excess of $375 for the quarter being reported, subsection (b) of this section shall not apply and the street vendor shall file a return pursuant to § 47-2002 and as required by the Office of the Chief Financial Officer’s Office of Tax and Revenue and remit the full amount of the sales tax collected for the quarter being reported.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2002_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

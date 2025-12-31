@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-3003.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-3003.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_3003_01">
+        <akn:num>7-3003.01</akn:num>
+        <akn:heading>Establishment of the Access to Recovery Voucher program.</akn:heading>
+<akn:subsection eId="subsec_7-3003_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established the Access to Recovery Voucher Program (“ATR”), which shall be administered by APRA. The purpose of ATR shall be to provide District residents with access to culturally sensitive substance-abuse treatment and recovery-support services for the duration of the 3-year federal Access to Recovery grant awarded to APRA and to serve as an addition and complement to the Choice in Drug Treatment Program, established by § 7-3003.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-3003_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The duty of APRA to administer ATR shall include:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

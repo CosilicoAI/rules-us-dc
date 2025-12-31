@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-1328"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-1328/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_1328">
+        <akn:num>23-1328</akn:num>
+        <akn:heading>Penalties for offenses committed during release.</akn:heading>
+<akn:subsection eId="subsec_23-1328_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person convicted of an offense committed while released pursuant to section 23-1321 shall be subject to the following penalties in addition to any other applicable penalties:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1328_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The giving of a warning to the person when released of the penalties imposed by this section shall not be a prerequisite to the application of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1328_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any term of imprisonment imposed pursuant to this section shall be consecutive to any other sentence of imprisonment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1328_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In addition to any other penalty provided under this section, a person may be fined an amount not more than the amount set forth in § 22-3571.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

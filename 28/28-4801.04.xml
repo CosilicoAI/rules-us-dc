@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4801.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4801.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4801_04">
+        <akn:num>28-4801.04</akn:num>
+        <akn:heading>Trustee’s power to adjust.</akn:heading>
+<akn:subsection eId="subsec_28-4801_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A trustee may adjust between principal and income to the extent the trustee considers necessary if the trustee invests and manages trust assets as a prudent investor, the terms of the trust describe the amount that may or must be distributed to a beneficiary by referring to the trust’s income, and the trustee determines, after applying the rules in § 28-4801.03(a), that the trustee is unable to comply with § 28-4801.03(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4801_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In deciding whether and to what extent to exercise the power conferred by subsection (a) of this section, a trustee shall consider all factors relevant to the trust and its beneficiaries, including the following factors to the extent they are relevant:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4801_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A trustee may not make an adjustment:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4801_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If subsection (c)(5), (6), (7), or (8) of this section applies to a trustee and there is more than one trustee, a cotrustee to whom the provision does not apply may make the adjustment unless the exercise of the power by the remaining trustee or trustees is not permitted by the terms of the trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4801_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A trustee may release the entire power conferred by subsection (a) of this section or may release only the power to adjust from income to principal or the power to adjust from principal to income if the trustee is uncertain about whether possessing or exercising the power will cause a result described in subsection (c)(1) through (6) or (c)(8) of this section or if the trustee determines that possessing or exercising the power will or may deprive the trust of a tax benefit or impose a tax burden not described in subsection (c) of this section. The release may be permanent or for a specified period, including a period measured by the life of an individual.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4801_04_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Terms of a trust that limit the power of a trustee to make an adjustment between principal and income do not affect the application of this section unless it is clear from the terms of the trust that the terms are intended to deny the trustee the power of adjustment conferred by subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

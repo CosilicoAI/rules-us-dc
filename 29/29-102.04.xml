@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-102.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-102.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_102_04">
+        <akn:num>29-102.04</akn:num>
+        <akn:heading>Withdrawal of filed record before effectiveness.</akn:heading>
+<akn:subsection eId="subsec_29-102_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The parties to a filed record may withdraw the record before it takes effect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>To withdraw a filed record, the parties to the record shall deliver to the Mayor for filing a statement of withdrawal.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A statement of withdrawal shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon filing by the Mayor of a statement of withdrawal, the action or transaction evidenced by the original filed record shall not take effect.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

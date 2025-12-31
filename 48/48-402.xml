@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-402"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-402/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_402">
+        <akn:num>48-402</akn:num>
+        <akn:heading>Urban Farming and Gardens Program established.</akn:heading>
+<akn:subsection eId="subsec_48-402_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The development of a land leasing initiative for publicly-owned vacant lots;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-402_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The inclusion of community gardening projects in the summer employment programs operated by the District government;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-402_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The provision by the Cooperative Extension Service of the University of the District of Columbia of technical assistance and research in the form of educational materials and programs for community gardening, urban farming, and other self-help food production efforts;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-402_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Coordination with the Office of the State Superintendent of Education, both on the use of suitable portions of buildings and grounds for community gardens or urban farming, and on the development of instructional programs in science and gardening that prepare students for related career opportunities such as restaurant produce supply, landscaping, and floral design;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-402_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The encouragement of food buying clubs and produce markets throughout the District to increase the supply of and demand for urban farms; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-402_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>The development of incentives and community outreach efforts to promote the availability of public and private vacant lots for participation in the Urban Farming and Gardens Program.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-105"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-105/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4_105">
+        <akn:num>28:4-105</akn:num>
+        <akn:heading>Definitions of types of banks.</akn:heading>
+<akn:subsection eId="subsec_28:4-105_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Bank” means a person engaged in the business of banking, including a savings bank, savings and loan association, credit union, or trust company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-105_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Depositary bank” means the first bank to take an item even though it is also the payor bank, unless the item is presented for immediate payment over the counter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-105_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Payor bank” means a bank that is the drawee of a draft.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-105_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Intermediary bank” means a bank to which an item is transferred in course of collection except the depositary or payor bank.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-105_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Collecting bank” means a bank handling an item for collection except the payor bank.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-105_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Presenting bank” means a bank presenting an item except a payor bank.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

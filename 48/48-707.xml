@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-707"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-707/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_707">
+        <akn:num>48-707</akn:num>
+        <akn:heading>Registration of an out-of-state drug manufacturer, distributor, repackager, or wholesaler.</akn:heading>
+<akn:subsection eId="subsec_48-707_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An out-of-state drug manufacturer, distributor, or wholesaler who conducts distribution activities within the District shall register with the Mayor on a form prescribed by the Mayor, renew the registration as required by rule, and pay the required registration fee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-707_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person registered to conduct distribution activities within the District shall be licensed or registered and in good standing under federal law and the laws of the state in which the person is incorporated or has a principal place of business.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-707_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may withdraw a registration for failure to maintain a license or registration in good standing under state or federal law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-425.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-425.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_425_02">
+        <akn:num>9-425.02</akn:num>
+        <akn:heading>Notice and design requirements.</akn:heading>
+<akn:subsection eId="subsec_9-425_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall provide notice to affected parties, the affected Advisory Neighborhood Commissions, and the Councilmembers of the affected Wards, prior to designing and constructing new sidewalks. At a minimum, this notice shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-425_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall maintain for public review comments from affected parties received pursuant to subsection (a)(2) of this section and responses thereto.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-425_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall design sidewalks in a manner that preserves the health of existing trees wherever possible.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-425_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The recommendations of the affected Advisory Neighborhood Commission shall be given great weight, as that term is described in § 1-309.10(d)(3)(A).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-425_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Whenever feasible, the Mayor shall consider pervious materials for the design and installation of sidewalks.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-425_02_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>For the purposes of this subchapter, the term “affected parties” means residents with property abutting the road segment under consideration.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

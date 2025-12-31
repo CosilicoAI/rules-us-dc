@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-302.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-302.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_302_01">
+        <akn:num>44-302.01</akn:num>
+        <akn:heading>Specialists as primary care providers.</akn:heading>
+<akn:subsection eId="subsec_44-302_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A health benefits plan shall permit a member with chronic disabling or life threatening conditions to choose a health care specialist as the member’s primary care provider. The specialist must be a participant in the health benefits plan and be available to attend to the member.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-302_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A specialist chosen by a member pursuant to subsection (a) of this section, shall be permitted to treat the member without the member first receiving a referral from another health care provider. The specialist may authorize referrals, procedures, tests, and medical services subject to the terms of a treatment plan developed by the specialist and approved by the insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-302_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A health benefits plan shall permit a member with a chronic disabling or life threatening condition to have direct access to a specialist qualified to treat the condition, subject to initial referral by the member’s primary care provider and a treatment plan approved by the member’s primary care provider.  Such treatment plan shall ensure that the member will receive covered medically necessary procedures, tests, and medical services.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

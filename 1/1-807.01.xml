@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-807.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-807.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_807_01">
+        <akn:num>1-807.01</akn:num>
+        <akn:heading>Creation of Trust Fund.</akn:heading>
+<akn:subsection eId="subsec_1-807_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Establishment. — There is established on the books of the Treasury the District of Columbia Federal Pension Liability Trust Fund, consisting of the assets transferred pursuant to § 1-807.03 and any income earned on the investment of such assets pursuant to subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-807_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Investment of assets. — The Trustee may invest the assets of the Trust Fund in private securities and any other form of investment deemed appropriate by the Secretary.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

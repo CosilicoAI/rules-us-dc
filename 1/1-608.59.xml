@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-608.59"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-608.59/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_608_59">
+        <akn:num>1-608.59</akn:num>
+        <akn:heading>Residency.</akn:heading>
+<akn:subsection eId="subsec_1-608_59_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The provisions of § 1-608.01(e) shall apply to employment in the Legal Service other than the Senior Executive Service Attorney Service and attorneys employed by the Council of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-608_59_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of §§ 1-608.01(e) and 2-1401.01 et seq., any attorney appointed to the Senior Executive Service Attorney Service and attorneys employed by the Council of the District of Columbia shall become a bona fide resident of the District within 180 days of the effective date of the appointment, and shall remain a District resident for the duration of the employment.  Failure to become a District resident or to maintain District residency shall result in forfeiture of the position to which the person has been appointed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-608_59_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Director of Personnel may waive the residency requirement in subsection (b) of this section for any individual appointed to a hard-to-fill position pursuant to § 1-608.53.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

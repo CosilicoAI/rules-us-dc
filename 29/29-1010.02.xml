@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1010.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1010.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1010_02">
+        <akn:num>29-1010.02</akn:num>
+        <akn:heading>Contribution and valuation.</akn:heading>
+<akn:subsection eId="subsec_29-1010_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless the organic rules otherwise provide, the contributions of a member to a limited cooperative association may consist of tangible or intangible property or other benefit to the association, including money, labor or other services performed or to be performed, promissory notes, other agreements to contribute money or property, and contracts to be performed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1010_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The receipt and acceptance of contributions and the valuation of contributions shall be reflected in a limited cooperative association’s records.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1010_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Unless the organic rules otherwise provide, the board of directors shall determine the value of a member’s contributions received or to be received and the determination by the board of directors of valuation shall be conclusive for purposes of determining whether the member’s contribution obligation has been met.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

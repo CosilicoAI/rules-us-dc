@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-905"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-905/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_905">
+        <akn:num>44-905</akn:num>
+        <akn:heading>Transition provisions for employees of the Hospital.</akn:heading>
+<akn:subsection eId="subsec_44-905_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Employees of the Hospital directly affected by the assumption of programs and functions by the District government who meet the requirements for immediate retirement under the provisions of § 8336(d) of Title 5, United States Code, shall be accorded the opportunity to retire during the 30-day period prior to the assumption of such programs and functions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-905_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-905_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-905_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-905_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any contract entered into by the District of Columbia for the provision of mental health services formerly provided by or at the hospital shall require the contractor or provider, in filling new positions created to perform under the contract, to give preference to qualified candidates on the District agency reemployment priority list created pursuant to subsection (d) of this section. An individual who is offered nontemporary employment with a contractor shall have his or her name remain on the District agency reemployment priority list under subsection (d) of this section for not more than 24 months from the date of acceptance of such employment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

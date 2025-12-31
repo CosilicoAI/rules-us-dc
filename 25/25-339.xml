@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-339"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-339/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_339">
+        <akn:num>25-339</akn:num>
+        <akn:heading>Special restrictions for the Georgetown historic district.</akn:heading>
+<akn:subsection eId="subsec_25-339_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The number of nightclub or tavern license holders, class C or D, within the Georgetown historic district shall not exceed 6. No existing nightclub or tavern license shall be transferred to any other person or to any other location within the Georgetown historic district, except when the number of such licensed establishments in the Georgetown historic district is 6 or less.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-339_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A licensee of a nightclub license, or a tavern license, class C, within the Georgetown historic district as of May 24, 1994, may apply for a conversion to a restaurant license, class C or D, for its present location, present owner, and for the duration of its present license. The application shall not require a public hearing or the assessment of fees.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

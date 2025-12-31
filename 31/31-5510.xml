@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5510"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5510/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5510">
+        <akn:num>31-5510</akn:num>
+        <akn:heading>Prevention of insolvencies.</akn:heading>
+<akn:subsection eId="subsec_31-5510_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The board of directors may, upon majority vote:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5510_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The board of directors may, at the conclusion of any domestic insurer insolvency in which the Association was obligated to pay covered claims, prepare a report on the history and causes of the insolvency, based on the information available to the Association, and submit the report to the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4421"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4421/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4421">
+        <akn:num>16-4421</akn:num>
+        <akn:heading>Remedies; fees and expenses of arbitration proceeding.</akn:heading>
+<akn:subsection eId="subsec_16-4421_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An arbitrator may award punitive damages or other exemplary relief if such an award is authorized by law in a civil action involving the same claim and the evidence produced at the hearing justifies the award under the legal standards otherwise applicable to the claim.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4421_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An arbitrator may award reasonable attorney’s fees and other reasonable expenses of arbitration if such an award is authorized by law in a civil action involving the same claim or by the agreement of the parties to the arbitration proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4421_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>As to all remedies other than those authorized by subsections (a) and (b) of this section, an arbitrator may order such remedies as the arbitrator considers just and appropriate under the circumstances of the arbitration proceeding. The fact that such a remedy could not or would not be granted by the court is not a ground for refusing to confirm an award under § 16-4422 or for vacating an award under § 16-4423.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4421_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An arbitrator’s reasonable expenses and fees, together with other expenses, shall be paid as provided in the award.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4421_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If an arbitrator awards punitive damages or other exemplary relief under subsection (a) of this section, the arbitrator shall specify in the award the basis in fact justifying and the basis in law authorizing the award and state separately the amount of the punitive damages or other exemplary relief.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

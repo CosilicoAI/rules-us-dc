@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1806.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1806.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1806_01">
+        <akn:num>38-1806.01</akn:num>
+        <akn:heading>Purpose.</akn:heading>
+<akn:subsection eId="subsec_38-1806_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>To leverage private sector funds utilizing initial Federal investments in order to provide students and teachers within the District of Columbia public schools and public charter schools with access to state-of-the-art educational technology;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1806_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>To establish a regional job training and employment center;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1806_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>To strengthen workforce preparation initiatives for students within the District of Columbia public schools and public charter schools;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1806_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>To coordinate private sector investments in carrying out this chapter; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1806_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>To assist the Superintendent with the development of individual career paths in accordance with the long-term reform plan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

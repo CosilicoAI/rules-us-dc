@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-543"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-543/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_543">
+        <akn:num>21-543</akn:num>
+        <akn:heading>Representation by counsel; compensation; recess.</akn:heading>
+<akn:subsection eId="subsec_21-543_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The person alleged to be mentally ill and, because of the mental illness, likely to injure himself or others shall be represented by counsel in any proceeding before the Commission or the court, and if he fails or refuses to obtain counsel, the court shall appoint counsel to represent him. The counsel so appointed shall be awarded compensation by the court for his services in an amount determined by it to be fair and reasonable. The compensation shall be charged against the estate of the individual for whom the counsel was appointed, or against any unobligated funds of the Commission, as the court in its discretion directs. The Commission or the court, as the case may be, shall, at the request of the counsel so appointed, grant a recess in the proceeding to give the counsel an opportunity to prepare his case.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-543_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commission may not grant a continuance for counsel to prepare his case for more than 5 days. The Commission may grant continuances for good cause shown for periods of up to 14 days. If the Commission grants a continuance, the emergency observation and detention of the person about whom the hearing is being held shall be extended for the duration of the continuance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

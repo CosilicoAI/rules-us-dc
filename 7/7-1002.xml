@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1002"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1002/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1002">
+        <akn:num>7-1002</akn:num>
+        <akn:heading>Equal access to public accommodations and conveyances.</akn:heading>
+<akn:subsection eId="subsec_7-1002_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Persons with physical and mental disabilities are entitled to full and equal accommodations, advantages, facilities, and privileges of all common carriers, airplanes, motor vehicles, railroad trains, motor buses, streetcars, boats, or any other public conveyances or modes of transportation in the District of Columbia, hotels, lodging places, places of public accommodation, amusement, or resort, and other places to which the general public is invited in the District of Columbia, subject only to the conditions and limitations established by law or in accordance with law applicable alike to all persons.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1002_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Persons with physical or mental disabilities shall have the right to be accompanied by a service animal in any of the places, accommodations, or conveyances listed in subsection (a) of this section without being denied access because of the service animal. Such persons shall not be required to pay an extra charge for the service animal but shall be liable for any damage done to the premises or facilities by the service animal.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1002_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Every service animal trainer who is training an animal to be a service animal shall have the same access and liability conferred upon a person with physical or mental disabilities pursuant to subsection (b) of this section when accompanied by a service animal in training.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1002_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In making a determination that an individual qualifies under this section, a public accommodation or conveyance may make a reasonable inquiry as to an individual’s need for a service animal but shall limit such inquiry to the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

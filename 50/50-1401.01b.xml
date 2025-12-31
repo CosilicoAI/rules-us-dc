@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1401.01b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1401.01b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1401_01b">
+        <akn:num>50-1401.01b</akn:num>
+        <akn:heading>Prohibition on release and use of certain personal information from motor vehicle records and accident reports.</akn:heading>
+<akn:subsection eId="subsec_50-1401_01b_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1401_01b_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in subsections (c), (d) and (e) of this section, the Department of Motor Vehicles (“Department”), the Metropolitan Police Department, and any officer, employee, or contractor affiliated with either department, or any other person or entity shall not knowingly disclose or otherwise make available personal information about an individual obtained by the Department or the Metropolitan Police Department in connection with a motor vehicle record or an accident report.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1401_01b_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Personal information contained in motor vehicle records or accident reports prohibited from disclosure by subsection (b) of this section may be released to a person upon the showing of sufficient written proof for the following uses:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1401_01b_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsection (c) of this section, without the express consent of the person to whom such information applies, the following information contained in motor vehicle records or accident reports may be released only as specified in this subsection:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1401_01b_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

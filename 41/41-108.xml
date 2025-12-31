@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-108"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-108/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_108">
+        <akn:num>41-108</akn:num>
+        <akn:heading>Deposits and refunds held by utilities.</akn:heading>
+<akn:subsection eId="subsec_41-108_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Any deposit, including any interest thereon, made by a subscriber with a utility to secure payment for, or any sum paid in advance for, utility services to be furnished, less any lawful deductions, that has remained unclaimed by the person appearing on the records of the utility entitled thereto for more than one year after the termination of the services for which the deposit or advance payment was made; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-108_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Any sum which a utility has been ordered to refund and which was received for utility services rendered, together with any interest thereon, less any lawful deductions, that has remained unclaimed by the person appearing on the records of the utility entitled thereto for more than one year after it became payable in accordance with the final determination or order providing for the refund, regardless of whether the final determination or order requires any person entitled to a refund to make a claim.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

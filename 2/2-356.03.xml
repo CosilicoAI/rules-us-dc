@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-356.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-356.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_356_03">
+        <akn:num>2-356.03</akn:num>
+        <akn:heading>Prequalification process for construction.</akn:heading>
+<akn:subsection eId="subsec_2-356_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except for architectural and engineering services, prospective contractors for procurements under this subchapter may be selected through a prequalification process as set forth in this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-356_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The prequalification process shall provide for the annual publication of a list describing specific types of solicitations for which the agency will seek prequalified contractors. Solicitations may be added to the list at any time; provided, that the addition of a solicitation to the list shall be published for not less than 30 days before the solicitation is released.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-356_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The prequalification criteria may include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-356_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>After an agency has prequalified prospective contractors, it may exclude from competition for the ensuing solicitation any person that has not been prequalified.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-356_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The use of the prequalification process under this section shall not nullify the requirement for a determination of contractor responsibility under subchapter III of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

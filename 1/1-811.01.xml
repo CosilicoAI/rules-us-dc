@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-811.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-811.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_811_01">
+        <akn:num>1-811.01</akn:num>
+        <akn:heading>Creation of Federal Supplemental Fund.</akn:heading>
+<akn:subsection eId="subsec_1-811_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Establishment. — There is established on the books of the Treasury the Federal Supplemental District of Columbia Pension Fund, which shall be administered by the Secretary and shall consist of the following assets:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-811_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Investment of assets. — The Secretary shall invest such portion of the Federal Supplemental Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Federal Supplemental Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-811_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Recordkeeping for actuarial status. — The Secretary shall provide for the keeping of such records as are necessary for determining the actuarial status of the Federal Supplemental Fund.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

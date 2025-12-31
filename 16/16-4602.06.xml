@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4602.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4602.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4602_06">
+        <akn:num>16-4602.06</akn:num>
+        <akn:heading>Simultaneous proceedings.</akn:heading>
+<akn:subsection eId="subsec_16-4602_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 16-4602.04, a court of the District may not exercise its jurisdiction under this subchapter if, at the time of the commencement of the proceeding, a proceeding concerning the custody of the child has been commenced in a court of another state having jurisdiction substantially in conformity with this chapter, unless the proceeding has been terminated or is stayed by the court of the other state because a court of the District is a more convenient forum under § 16-4602.07.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4602_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 16-4602.04, a court of the District, before hearing a child-custody proceeding, shall examine the court documents and other information supplied by the parties pursuant to § 16-4602.09. If the court determines that a child-custody proceeding has been commenced in a court in another state having jurisdiction substantially in accordance with this chapter, the court of the District shall stay its proceeding and communicate with the court of the other state. If the court of the state having jurisdiction substantially in accordance with this chapter does not determine that the court of the District is a more appropriate forum, the court of the District shall dismiss the proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4602_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In a proceeding to modify a child-custody determination, a court of the District shall determine whether a proceeding to enforce the determination has been commenced in another state. If a proceeding to enforce a child-custody determination has been commenced in another state, the court may:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

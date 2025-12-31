@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.20"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.20/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_304_20">
+        <akn:num>29-304.20</akn:num>
+        <akn:heading>Subscription for shares before incorporation.</akn:heading>
+<akn:subsection eId="subsec_29-304_20_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A subscription for shares entered into before incorporation shall be irrevocable for 6 months unless the subscription agreement provides a longer or shorter period or all the subscribers agree to revocation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_20_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The board of directors may determine the payment terms of subscription for shares that were entered into before incorporation, unless the subscription agreement specifies them. A call for payment by the board of directors shall be uniform so far as practicable as to all shares of the same class or series, unless the subscription agreement specifies otherwise.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_20_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Shares issued pursuant to subscriptions entered into before incorporation shall be fully paid and nonassessable when the corporation receives the consideration specified in the subscription agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_20_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a subscriber defaults in payment of money or property under a subscription agreement entered into before incorporation, the corporation may collect the amount owed as any other debt. Alternatively, unless the subscription agreement provides otherwise, the corporation may rescind the agreement and may sell the shares if the debt remains unpaid for more than 20 days after the corporation sends written demand for payment to the subscriber.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_20_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A subscription agreement entered into after incorporation shall be a contract between the subscriber and the corporation subject to § 29-304.02.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

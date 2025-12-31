@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-603"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-603/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_603">
+        <akn:num>32-603</akn:num>
+        <akn:heading>Design and methodology of study; selection of consultants.</akn:heading>
+<akn:subsection eId="subsec_32-603_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The Commission shall determine the design and methodology of the study and any other matters concerning the conduct of the study that the Commission may consider appropriate. These specifications shall be forwarded to the Department of Administrative Services, which shall prepare and process the solicitation. A list of all respondents to the solicitation shall be forwarded to the Commission by the Department of Administrative Services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-603_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A list of 5 qualified consultants, selected pursuant to competitive bidding procedures, shall be submitted to the Chairman of the Committee on Government Operations and to the Mayor by the Commission. Within 45 calendar days of receipt of the list, the Chairman of the Committee on Government Operations and the Mayor shall meet and select the consultant from the list using the alternate strike method as follows: The Mayor shall strike the 1st name, the Chair of the Committee on Government Operations shall strike the 2nd, and alternate strikes shall continue until 1 name remains.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2401.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2401.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2401_06">
+        <akn:num>21-2401.06</akn:num>
+        <akn:heading>Taking testimony in another state.</akn:heading>
+<akn:subsection eId="subsec_21-2401_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In a guardianship or protective proceeding, in addition to other procedures that may be available, testimony of a witness who is located in another state may be offered by deposition or other means allowable in the District of Columbia for testimony taken in another state. The Superior Court, on its own motion, may order that the testimony of a witness be taken in another state and may prescribe the manner in which and the terms upon which the testimony is to be taken.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2401_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In a guardianship or protective proceeding, the Superior Court may permit a witness located in another state to be deposed or to testify by telephone or audiovisual or other electronic means. The Superior Court shall cooperate with the court of the other state in designating an appropriate location for the deposition or testimony.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2401_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Documentary evidence transmitted from another state to the Superior Court by technological means that do not produce an original writing may not be excluded from evidence on an objection based on the best evidence rule.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

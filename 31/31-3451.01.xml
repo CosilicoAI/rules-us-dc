@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3451.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3451.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3451_01">
+        <akn:num>31-3451.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-3451_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Adjusted RBC report” means an RBC report which has been adjusted by the Commissioner in accordance with § 31-3451.02(c).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Authorized Control Level Event” means any of the following events:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Authorized Control Level RBC” means the amount of capital required under the risk-based capital formula in accordance with the RBC Instructions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Commissioner” means Commissioner of the Department of Insurance and Securities Regulation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Company Action Level Event” means any of the following events:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Company Action Level RBC” means the Authorized Control Level RBC multiplied by a factor of 2.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Corrective order” means an order issued by the Commissioner specifying corrective actions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Domestic health organization” means a health organization domiciled in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Foreign health organization” means a health organization that is licensed to do business, but is not domiciled, in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Health organization” means a health maintenance organization, hospital and medical indemnity or service corporation, or other managed care organization licensed under Chapter 34 of this title or Chapter 35 of this title. The term “health organization” shall not include an organization that is licensed as either a life and health insurer or a property and casualty insurer and that is otherwise subject to either the life or property and casualty RBC requirements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“Mandatory Control Level Event” means any of the following events:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“Mandatory Control Level RBC” means the required Authorized Control Level RBC multiplied by a factor of 0.7.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“NAIC” means the National Association of Insurance Commissioners.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“RBC instructions” means the instructions for the RBC report, including risk-based capital instructions adopted by the NAIC, as these RBC instructions may be amended by the NAIC from time to time in accordance with the procedures adopted by the NAIC.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_16">
+      <akn:num>(16)</akn:num>
+      <akn:content><akn:p>“RBC level” means a health organization’s Company Action Level RBC, Regulatory Action Level RBC, Authorized Control Level RBC, or Mandatory Control Level RBC.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_17">
+      <akn:num>(17)</akn:num>
+      <akn:content><akn:p>“RBC plan” means a comprehensive financial plan containing the elements specified in § 31-3451.03(a).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_18">
+      <akn:num>(18)</akn:num>
+      <akn:content><akn:p>“RBC report” means the report required by § 31-3451.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_19">
+      <akn:num>(19)</akn:num>
+      <akn:content><akn:p>“Regulatory Action Level Event” means any of the following events:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_20">
+      <akn:num>(20)</akn:num>
+      <akn:content><akn:p>“Regulatory Action Level RBC” means the Authorized Control Level RBC multiplied by a factor of 1.5.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_21">
+      <akn:num>(21)</akn:num>
+      <akn:content><akn:p>“Revised RBC plan” means, if the Commissioner rejects the RBC plan, the RBC plan as revised by the health organization, with or without the Commissioner’s consent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_01_22">
+      <akn:num>(22)</akn:num>
+      <akn:content><akn:p>“Total adjusted capital” means the sum of:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

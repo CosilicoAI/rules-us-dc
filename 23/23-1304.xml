@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-1304"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-1304/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_1304">
+        <akn:num>23-1304</akn:num>
+        <akn:heading>Executive committee; composition; appointment and qualifications of Director.</akn:heading>
+<akn:subsection eId="subsec_23-1304_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The agency shall be advised by an executive committee of seven members, of which four members shall constitute a quorum. The Executive Committee shall be composed of the following persons or their designees: the Chief Judge of the United States Court of Appeals for the District of Columbia Circuit, the Chief Judge of the United States District Court for the District of Columbia, the Chief Judge of the District of the Columbia Court of Appeals, the Chief Judge of the Superior Court of the District of Columbia, the United States Attorney for the District of Columbia, the Director of the District of Columbia Public Defender Service, and the Director of the Court Services and Offender Supervision Agency for the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1304_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Chief Judge of the United States Court of Appeals for the District of Columbia Circuit and the Chief Judge of the United States District Court for the District of Columbia, in consultation with the other members of the executive committee, shall appoint a Director of the agency who shall be a member of the bar of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

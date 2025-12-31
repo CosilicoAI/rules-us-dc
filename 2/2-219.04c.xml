@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-219.04c"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-219.04c/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_219_04c">
+        <akn:num>2-219.04c</akn:num>
+        <akn:heading>Establishment of the District of Columbia Jobs Trust Fund.</akn:heading>
+<akn:subsection eId="subsec_2-219_04c_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a nonlapsing fund the District of Columbia Jobs Trust Fund, which shall be administered by the Deputy Mayor for Planning and Economic Development. The funds in the Fund shall be used solely for the purpose of establishing and operating the workforce intermediary pilot program, established in § 2-219.04b, or any succeeding program. The following shall be deposited into the Fund:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-219_04c_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All funds deposited into the Fund, and any interest earned on those funds, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (a) of this section without regard to fiscal year limitation, subject to authorization by Congress.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

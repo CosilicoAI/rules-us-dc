@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1901">
+        <akn:num>31-1901</akn:num>
+        <akn:heading>Filing requirements.</akn:heading>
+<akn:subsection eId="subsec_31-1901_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every company or association authorized to transact insurance business in the District shall file annually with the Mayor, before March 1st of each year, a financial statement for the year ending December 31st immediately preceding on forms furnished by the Mayor. The Mayor may extend the time for filing the statement by any company for reasons which the Mayor shall deem sufficient. Such a statement shall be verified by the oath of the president and secretary of the company, or, in their absence, by 2 other principal officers. The Mayor shall annually, in the month of December, furnish to each of the companies and associations authorized to do insurance business in the District forms necessary for filing the annual financial statement required by this section. The forms shall conform substantially to the form of statement adopted by the National Association of Insurance Commissioners (“NAIC”). The filing of these statements shall be in accordance with the NAIC Accounting Practices and Procedures Manual. The Mayor shall have power to make modifications and additions in the financial statement forms as the Mayor may deem necessary to ascertain the condition and affairs of the company. The Mayor may also require that at least once in the month of March in each year a summary of the annual statement by the company be published in a daily newspaper in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1901_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each domestic, foreign, and alien insurer authorized to transact insurance in the District shall annually, on or before March 1st of each year, file with the NAIC, and pay the fee established by the NAIC for filing, reviewing, or processing the information, a copy of its annual statement convention form, along with any additional filings prescribed by the Mayor for the preceding year. The information filed with the NAIC shall be in the same format and scope as that required by the Mayor and shall include the signed jurat page and the actuarial certification. Any amendments and addendums to the annual statement filing subsequently filed with the Mayor shall also be filed with the NAIC.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1901_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Foreign insurers domiciled in a state which has a law substantially similar to subsection (a) of this section shall be deemed in compliance with this section if they file their annual statements in compliance with that jurisdiction’s law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

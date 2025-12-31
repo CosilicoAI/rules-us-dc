@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-151.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-151.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_151_01">
+        <akn:num>8-151.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_8-151_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“CapStat” means an accountability program that examines performance data to improve government services to make the District of Columbia government run more efficiently, using a methodical process for focusing the attention of government representatives on improving performance in priority issues that cross agency boundaries.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“DDOE” means the District Department of the Environment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Director” means the Director of the District Department of the Environment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Environment” means the physical conditions and natural resources of the District, including the land, air, water, minerals, flora, and fauna in the District, and the waters adjacent to the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Environmental Management System” or “EMS” means an interagency data system to inventory, track, and report on progress towards performance standards and activities. The term “EMS” includes an adaptive management approach that incorporates planning, implementing, monitoring, evaluating, and adjusting the interagency data system.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Impervious area stormwater user fee” or “stormwater user fee” means a fee that attributes the cost of conveying stormwater run-off via a sewer from a given property, to the quantity of stormwater run-off generated from that same property, by use of impervious surface as a surrogate metric.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Impervious surface” means a surface area that either prevents or retards the entry of water into the ground as occurring under natural conditions, or that causes water to run off the surface in greater quantities or at an increased rate of flow, relative to the flow present under natural conditions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Low Impact Development” or “LID” means stormwater management practices that mimic site hydrology under natural conditions, by using design techniques in construction and development that store, infiltrate, evaporate, detain, or reuse and recycle runoff.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“MS4” means the Municipal Separate Storm Sewer System serving approximately two-thirds of the District, and comprised of 2 independent piping systems: one system for sewage from homes and businesses, and one system for stormwater.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Natural conditions” means the state of the environment prior to anthropogenic intervention.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Primacy” means the grant or delegation of authority under certain federal environmental laws that allows states and the District to assume primary authority to enforce and implement the environmental laws and promulgate regulations pursuant to those laws.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“SDWA” means the Safe Drinking Water Act, approved December 16, 1974 (88 Stat. 1660; 42 U.S.C. § 300f et seq.).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“Sewer” shall have the same meaning as provided in § 34-2202.01(9).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“Stormwater best management practice” means a structure used to reduce the volume or the pollutant content of a stormwater discharge.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-151_01_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“Stormwater Permit” or “MS4 Permit” means NPDES No. DC0000221, issued to the District of Columbia by the Environmental Protection Agency.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

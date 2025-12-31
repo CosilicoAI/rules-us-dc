@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3311.03a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3311.03a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3311_03a">
+        <akn:num>31-3311.03a</akn:num>
+        <akn:heading>Essential health benefits.</akn:heading>
+<akn:subsection eId="subsec_31-3311_03a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Consistent with federal law, the Commissioner, with the approval of the Executive Board of the Health Benefit Exchange Authority, shall, by rule, select the benchmark plan for the individual and small group market for purposes of establishing the essential health benefits in the District pursuant to section 1302 of the Affordable Care Act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3311_03a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the essential health benefits benchmark plan for the individual and small group market does not include all of the benefit categories specified by section 1302 of the Affordable Care Act, or a need exists to add additional benefits, the Commissioner, with the approval of the Executive Board of the Health Benefit Exchange Authority, may, by rule, supplement the benchmark plan benefits as needed so long as the benchmark plan meets the minimum requirements of section 1302 of the Affordable Care Act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3311_03a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3311_03a_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_401">
+        <akn:num>28:3-401</akn:num>
+        <akn:heading>Signature.</akn:heading>
+<akn:subsection eId="subsec_28:3-401_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person is not liable on an instrument unless (i) the person signed the instrument, or (ii) the person is represented by an agent or representative who signed the instrument and the signature is binding on the represented person under section 28:3-402.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-401_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A signature may be made (i) manually or by means of a device or machine, and (ii) by the use of any name, including a trade or assumed name, or by a word, mark, or symbol executed or adopted by a person with present intention to authenticate a writing.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

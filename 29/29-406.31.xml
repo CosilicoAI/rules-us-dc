@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.31"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.31/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_406_31">
+        <akn:num>29-406.31</akn:num>
+        <akn:heading>Standards of liability for directors.</akn:heading>
+<akn:subsection eId="subsec_29-406_31_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A director shall not be liable to the nonprofit corporation or its members for any decision to take or not to take action, or any failure to take any action, as a director, unless the party asserting liability in a proceeding establishes that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_31_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The party seeking to hold the director liable:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_31_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing contained in this section:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_31_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this section, a director of a charitable corporation shall not be liable to the corporation or its members for money damages for any action taken, or any failure to take any action, as a director, except liability for:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

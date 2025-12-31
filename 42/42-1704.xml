@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1704"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1704/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1704">
+        <akn:num>42-1704</akn:num>
+        <akn:heading>Escrow accounts.</akn:heading>
+<akn:subsection eId="subsec_42-1704_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In any real estate transaction in which any person is entrusted, receives, and accepts, or otherwise holds or deposits monies or other trust instruments, of whatever kind or nature, pending consummation or termination of the transaction involved, whether or not the person is required to be licensed under this subchapter, the monies, in the absence of written instructions to the contrary signed by all parties to the transaction, shall be:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1704_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1704_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each escrow holder or trustee shall give written authorization to the Commission to examine escrow or trust accounts maintained by him or her and shall permit the Commission to examine all books, records, and contracts relating to the escrow accounts. The examinations shall be made at any time the Commission may direct.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1704_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An escrow holder or trustee shall not be entitled to any part of the earnest money or other money paid to, or held by, the escrow holder or trustee in connection with any real estate or business transaction as a part or all of his or her commission or fee or for any other purpose until the transaction has been consummated or terminated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1704_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If an escrow or trust is held for 90 days or more, it shall earn interest from the 91st day to the date the transaction is consummated or terminated, at the highest of the following interest rates:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1704_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A service fee of not more than $15 may be subtracted from the interest by the financial institution into which the escrow or trust funds are deposited.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1704_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be interpreted to supercede the Security Deposit Act (D.C. Law 1-48; 22 DCR 2825).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

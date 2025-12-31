@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-202"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-202/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_202">
+        <akn:num>41-202</akn:num>
+        <akn:heading>Disposal of void or lapsed instruments; termination statement; exceptions.</akn:heading>
+<akn:subsection eId="subsec_41-202_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless the Recorder of Deeds has notice of an action pending relative thereto, he may remove from the files and destroy:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-202_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subsection (a) of this section does not apply to a bill of sale, mortgage, deed of trust, conditional sale of, financing statement or security agreement covering, railroad rolling stock.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

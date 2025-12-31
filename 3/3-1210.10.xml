@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1210.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1210.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1210_10">
+        <akn:num>3-1210.10</akn:num>
+        <akn:heading>Injunctions.</akn:heading>
+<akn:subsection eId="subsec_3-1210_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Office of the Attorney General for the District of Columbia may bring an action in the Superior Court of the District of Columbia in the name of the District of Columbia to enjoin the unlawful practice of any health occupation or any other action which is grounds for the imposition of a criminal penalty or disciplinary action under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1210_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Corporation Counsel may bring an action in the Superior Court of the District of Columbia in the name of the District of Columbia to enjoin the unlawful sale of drugs or the unlawful trade practice or unlawful operation of a pharmacy, nursing home, community residential facility, or any other establishment purporting to provide health services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1210_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Remedies under this section are in addition to criminal prosecution or any disciplinary action by a board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1210_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In any proceeding under this section, it shall not be necessary to prove that any person is individually injured by the action or actions alleged.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

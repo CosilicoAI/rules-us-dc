@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4608"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4608/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4608">
+        <akn:num>47-4608</akn:num>
+        <akn:heading>DC-USA development project — Tax exemptions.</akn:heading>
+<akn:subsection eId="subsec_47-4608_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4608_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The DC-USA Project shall be exempt from the tax imposed by §§ 42-1103 and 47-903.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4608_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4608_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4608_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The amount of taxes exempt pursuant to subsections (c) and (d) of this section shall not exceed, in the aggregate, $1,029,000.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4608_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The amount of all taxes exempt pursuant to this section shall be in addition to any other tax relief or assistance from any other source applicable to the DC-USA Project.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-629"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-629/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_629">
+        <akn:num>7-629</akn:num>
+        <akn:heading>Preservation of existing rights.</akn:heading>
+<akn:subsection eId="subsec_7-629_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in this subchapter shall impair or supersede any legal right or legal responsibility which any person may have to effect the withholding or withdrawal of life-sustaining procedures in any lawful manner. In such respect the provisions of this subchapter are cumulative.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-629_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This subchapter shall create no presumption concerning the intention of an individual who has not executed a declaration to consent to the use or withholding of life-sustaining procedures in the event of a terminal condition.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1505"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1505/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1505">
+        <akn:num>32-1505</akn:num>
+        <akn:heading>Commencement of compensation; maximum compensation.</akn:heading>
+<akn:subsection eId="subsec_32-1505_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No compensation shall be allowed for the first 3 days of the disability, except the benefits provided for in § 32-1507; provided, that in case the injury results in disability of more than 14 days the compensation shall be allowed from the date of the disability.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1505_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Compensation for disability or death shall not exceed the average weekly wages of insured employees in the District of Columbia or $396.78, whichever is greater. For any one injury causing temporary or permanent partial disability, the payment for disability benefits shall not continue for more than a total of 500 weeks. Within 60 days of the expiration of the duration of the compensation provided for in this subsection, an employee may petition the Mayor for an extension of up to 167 weeks. The extension shall be granted only upon a finding by an independent medical examiner appointed by the Mayor of continued whole body impairment exceeding 20% under the American Medical Association’s Guides to the Evaluation of Permanent Impairment. An injured employee shall have up to 3 years after termination of nonscheduled benefits to re-open his or her case due to changes in condition.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1505_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The minimum compensation for total disability or death shall be 25% of the maximum compensation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1505_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the average weekly wage of insured employees in the District shall be determined by the Mayor as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1505_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The average weekly wage shall not be deemed to have changed for any calendar year unless the computation in subsection (d) of this section results in an increase or decrease of $2 or more, raised to the next even dollar.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

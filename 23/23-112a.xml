@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-112a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-112a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_112a">
+        <akn:num>23-112a</akn:num>
+        <akn:heading>Notice at sentencing of child support modification.</akn:heading>
+<akn:subsection eId="subsec_23-112a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>At all sentencing proceedings in which an individual will be sentenced for a period of imprisonment of more than 30 days, or at any proceeding in which a judge is revoking probation that will result in a sentence of imprisonment of more than 30 days, the sentencing court shall inquire as to whether the individual being sentenced is subject to a child support order. If the individual being sentenced is subject to a child support order, the sentencing court shall explain that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-112a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The court shall provide each individual being sentenced with a copy of a pro se petition to modify the child support order pursuant to § 46-204. The petition may be filed in open court during sentencing. The petition shall be deemed filed in the case in which the child support order was entered as of its filing in open court, and the petition shall be included in the records of that case.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-112a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The clerk of the Court shall effectuate service of the petition in accordance with § 46-206.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

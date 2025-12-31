@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2421.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2421.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2421_02">
+        <akn:num>50-2421.02</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_50-2421_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Abandoned vehicle” means any motor vehicle, trailer, or semitrailer that is left, parked, or stored on public space for more than 48 hours or on private property for more than 30 days, and to which at least 2 of the following apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Dangerous vehicle” means any motor vehicle, trailer, or semitrailer that, as a result of the presence of rats, vermin, or other pests, exposed glass or metal shards, or other dangerous condition poses an imminent hazard to the public health, safety, or welfare. Any motor vehicle, trailer, or semitrailer that is in a wrecked, dismantled, or irreparable condition, or destroyed by fire, is per se a dangerous vehicle.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Department” means the Department of Public Works.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Director” means the Director of the Department of Public Works.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Impounded” means any vehicle in the custody of the Department of Public Works or stored at a private storage facility at the direction of the Department as a result of the vehicle:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_02_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Motor vehicle” or “vehicle” means any device designed to be propelled by an internal-combustion engine, electricity, or steam.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_02_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Physical characteristics of an abandoned vehicle” means any 2 of the conditions set forth in paragraph (1) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_02_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Private property” means real property, including real property owned or under the jurisdiction of the District of Columbia, other than public space.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_02_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Public space” means all the property owned or under the jurisdiction of the District of Columbia, between lines on a street, as such property lines are shown on the records of the Surveyor of the District of Columbia, and includes any roadway, tree space, sidewalk, or parking between such property lines.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_02_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Unclaimed vehicle” means an impounded motor vehicle not reclaimed within the applicable time periods set forth in § 50-2421.08.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

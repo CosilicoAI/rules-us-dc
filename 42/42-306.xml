@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-306"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-306/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_306">
+        <akn:num>42-306</akn:num>
+        <akn:heading>Deed or will necessary for more than one-year term or for limitation upon such.</akn:heading>
+<akn:subsection eId="subsec_42-306_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, “commercial lease” means a lease for nonresidential real property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-306_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (c) of this section, no estate of inheritance, or for life, or for a longer term than 1 year, in any real property, corporeal or incorporeal, in the District of Columbia, or any declaration or limitation of uses in the same, for any of the estates mentioned, shall be created or take effect, except by deed signed and sealed by the grantor, lessor, or declarant, in person or by power of attorney or by will.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-306_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Commercial leases for a longer term than 1 year in any real property in the District of Columbia may be signed on behalf of the owner of real property by an authorized agent.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-608.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-608.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_608_05">
+        <akn:num>29-608.05</akn:num>
+        <akn:heading>Statement of dissolution.</akn:heading>
+<akn:subsection eId="subsec_29-608_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After dissolution, a partner that has not wrongfully dissociated may file a statement of dissolution stating the name of the partnership and that the partnership has dissolved and is winding up its activities and affairs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-608_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A statement of dissolution shall cancel a filed statement of partnership authority for the purposes of § 29-603.03(d) and shall be a limitation on authority for the purposes of § 29-603.03(e).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-608_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of §§ 29-603.01 and 29-608.04, a person not a partner shall be deemed to have notice of the dissolution and the limitation on the partners’ authority as a result of the statement of dissolution 90 days after it is filed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-608_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>After filing and, if appropriate, recording a statement of dissolution, a dissolved partnership may file and, if appropriate, record a statement of partnership authority which will operate with respect to a person not a partner as provided in § 29-603.03(d) and (e) in any transaction, whether or not the transaction is appropriate for winding up the partnership activities and affairs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_401">
+        <akn:num>16-401</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_16-401_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Artificial insemination” means the process by which a man’s fresh or frozen sperm sample is introduced into a woman’s vagina, other than by sexual intercourse, under the supervision of a physician.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-401_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-401_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“In vitro fertilization” means a procedure in which an ovum is surgically removed from a genetic mother’s ovary and fertilized with the sperm of the genetic father in a laboratory procedure, with the resulting embryo implanted in the uterus of a birth mother.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-401_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Surrogate parenting contract” means any agreement, oral or written, in which:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

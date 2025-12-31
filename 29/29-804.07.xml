@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-804.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-804.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_804_07">
+        <akn:num>29-804.07</akn:num>
+        <akn:heading>Management of limited liability company.</akn:heading>
+<akn:subsection eId="subsec_29-804_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A limited liability company shall be a member-managed limited liability company unless the operating agreement:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In a member-managed limited liability company, the following rules shall apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In a manager-managed limited liability company, the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An action requiring the consent of members under this chapter may be taken without a meeting, and a member may appoint a proxy or other agent to consent or otherwise act for the member by signing an appointing record, personally or by the member’s agent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_07_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The dissolution of a limited liability company shall not affect the applicability of this section. However, a person that wrongfully causes dissolution of the company loses the right to participate in management as a member and a manager.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_07_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>This chapter shall not entitle a member to remuneration for services performed for a member-managed limited liability company, except for reasonable compensation for services rendered in winding up the activities and affairs of the company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_07_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A limited liability company shall reimburse a member for an advance to the company beyond the amount of capital the member agreed to contribute.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_07_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>A payment or advance made by a member which gives rise to an obligation of the limited liability company under subsection (g) of this section or under § 29-804.08(a) constitutes a loan to the company which accrues interest from the date of the payment or advance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

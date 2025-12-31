@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2303.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2303.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2303_11">
+        <akn:num>50-2303.11</akn:num>
+        <akn:heading>Reconsideration.</akn:heading>
+<akn:subsection eId="subsec_50-2303_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person found liable at a hearing conducted pursuant to subchapters II and III, including a hearing involving the suspension or revocation of a license or privilege to drive, shall be entitled to reconsideration of the matter if a written application is received by the Department or is postmarked within 30 calendar days of the date of a finding of liability.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2303_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The application for reconsideration shall set forth one or more of the following grounds:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2303_11_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An application for reconsideration shall contain all documents or evidence in support of reconsideration.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2303_11_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>On reconsideration, the matter may be reviewed by the hearing examiner who reviewed the matter initially or may be referred to another hearing examiner, should the Chief Examiner make this determination.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2303_11_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If an application for reconsideration is timely submitted, the 30-day time period for filing an appeal to the appeals board shall begin on the date that the reconsideration decision is served in accordance with § 50-2304.04.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2303_11_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A person shall not have an opportunity to appeal a finding of liability by a hearing examiner to the appeals board unless the person’s liability is affirmed upon reconsideration; provided, that a denial by a hearing examiner of a motion to vacate a finding of liability based on a failure to appear at a scheduled hearing under § 50-2302.06(b) or a deemed admission under § 50-2302.05(e) or § 50-2303.05(d)(2) shall be appealed directly to the appeals board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2303_11_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>Failure by a hearing examiner to issue a decision within 180 calendar days after receipt of an application for reconsideration shall be deemed a decision in favor of the applicant.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

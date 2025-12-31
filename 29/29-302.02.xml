@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-302.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-302.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_302_02">
+        <akn:num>29-302.02</akn:num>
+        <akn:heading>Articles of incorporation.</akn:heading>
+<akn:subsection eId="subsec_29-302_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The articles of incorporation shall set forth:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-302_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The articles of incorporation may set forth:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-302_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The articles of incorporation need not set forth any of the corporate powers enumerated in this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-302_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Provisions of the articles of incorporation may be made dependent upon facts objectively ascertainable outside the articles of incorporation in accordance with § 29-301.04.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

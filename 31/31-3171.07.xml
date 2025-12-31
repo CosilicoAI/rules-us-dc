@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3171.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3171.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3171_07">
+        <akn:num>31-3171.07</akn:num>
+        <akn:heading>Advisory board.</akn:heading>
+<akn:subsection eId="subsec_31-3171_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In addition to the executive board, there shall be a standing advisory board consisting of 9 members, who shall be residents of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3171_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The executive board may create additional advisory boards as it considers appropriate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3171_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The executive board shall solicit the recommendations of, and consult with, the advisory boards on:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3171_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The executive board shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3171_07_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3171_07_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Each person appointed to an advisory board shall have demonstrated and acknowledged expertise on issues related to at least one of the following groups:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

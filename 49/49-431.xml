@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/49-431"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/49-431/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_49_431">
+        <akn:num>49-431</akn:num>
+        <akn:heading>District of Columbia National Guard Morale, Welfare, and Recreation Association.</akn:heading>
+<akn:subsection eId="subsec_49-431_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All commissioned officers, warrant officers, and enlisted personnel of the District of Columbia National Guard, including retired personnel, may organize themselves into an association, the name of which shall be the District of Columbia National Guard Morale, Welfare, and Recreation Association (“MWRA”). The purpose of the MWRA shall be to enhance the morale and welfare of District of Columbia National Guard members and their families. The MWRA may adopt, alter, and amend bylaws not otherwise inconsistent with District law. Participation in the MWRA shall be voluntary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-431_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>To facilitate its purpose, the MWRA may accept donations of money, property, or services from any lawful source to improve the capabilities of the District of Columbia National Guard or otherwise support members and their families.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-431_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The District may appropriate funds, donate any other valuable thing, or grant or lease any land belonging to the District to aid, or further the purpose of, the MWRA.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-431_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The money appropriated, other valuable thing donated, or the land granted or leased to the MWRA shall be, so far as practicable, expended or disposed of by the District of Columbia National Guard in such manner and under such lawful conditions as the donor may direct.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

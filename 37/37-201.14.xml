@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/37-201.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/37-201.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_37_201_14">
+        <akn:num>37-201.14</akn:num>
+        <akn:heading>Sale of frozen and fluid dairy products.</akn:heading>
+<akn:subsection eId="subsec_37-201_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All fluid and frozen dairy products, including but not limited to whole milk, skimmed milk, cultured milk, sweet cream, sour cream, buttermilk, chocolate milk, chocolate drink, ice cream, and frozen custard, and frozen dairy desserts such as sherbet, water ice, and ice milk, shall, when sold or offered for sale in package form, be packaged only in units of gallons, one and one-half gallons, two and one-half gallons, integral multiples of the gallon, or binary-submultiples of the gallon of not less than 1 fluid ounce. Packages of less than 1 fluid ounce shall be permitted if the net contents of each such package are clearly and permanently marked thereon and if the labeling of the package conforms with the requirements of this subchapter or such package be 1 of a number of identical packages in an outside container the total contents and labeling of which conform with the requirements of this subchapter. Notwithstanding the foregoing, frozen dairy products and frozen dairy desserts may be sold or offered for sale in individually packaged or wrapped portions each containing 4 or more but less than 16 fluid ounces, in integral multiples of 1 ounce, or, if less than 4 ounces, in multiples of one-half ounce. The package or wrapper of each individual portion of any such frozen dairy product or frozen dairy dessert shall be clearly labeled to show the net contents in fluid ounces. When 2 or more such individual portions of a frozen dairy product or frozen dairy dessert are sold or offered for sale in an outside container, the exterior of such container shall be clearly labeled to show the number of individual portions contained therein and the total net contents of such container, in fluid ounces.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-201_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Bottles or containers used for the retail sale of milk, buttermilk, chocolate milk, chocolate drink, or cream shall have clearly blown or otherwise permanently marked in the side of each bottle or container, or printed on the cap or stopple thereof, the name and address of the person, firm, or corporation who or which bottled such milk, buttermilk, chocolate milk, chocolate drink, or cream and the capacity of such bottle or container, except that a package containing less than 1 fluid ounce need not be labeled as to quantity if such package be 1 of a number of identical packages in an outside container the total contents and labeling of which conform with the requirements of this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

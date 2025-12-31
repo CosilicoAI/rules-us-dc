@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4A_301">
+        <akn:num>28:4A-301</akn:num>
+        <akn:heading>Execution and execution date.</akn:heading>
+<akn:subsection eId="subsec_28:4A-301_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A payment order is “executed” by the receiving bank when it issues a payment order intended to carry out the payment order received by the bank. A payment order received by the beneficiary’s bank can be accepted but cannot be executed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-301_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>“Execution date” of a payment order means the day on which the receiving bank may properly issue a payment order in execution of the sender’s order. The execution date may be determined by instruction of the sender but cannot be earlier than the day the order is received and, unless otherwise determined, is the day the order is received. If the sender’s instruction states a payment date, the execution date is the payment date or an earlier date on which execution is reasonably necessary to allow payment to the beneficiary on the payment date.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

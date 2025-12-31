@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3502_15">
+        <akn:num>42-3502.15</akn:num>
+        <akn:heading>Voluntary agreement.</akn:heading>
+<akn:subsection eId="subsec_42-3502_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Seventy percent or more of the tenants of a housing accommodation may enter into a voluntary agreement with the housing provider:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The voluntary agreement must be filed with the Rent Administrator and shall include the signature of each tenant, the number of each tenant’s rental unit or apartment, the specific amount of increased rent each tenant will pay, if applicable, and a statement that the agreement was entered into voluntarily without any form of coercion on the part of the housing provider. If approved by the Rent Administrator the agreement shall be binding on the housing provider and on all tenants.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Where the agreement filed with the Rent Administrator is to have the rent charged for all rental units in the housing accommodation adjusted by a specified percentage, the Rent Administrator shall immediately certify approval of the increase.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

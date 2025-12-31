@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_101">
+        <akn:num>1-325.101</akn:num>
+        <akn:heading>Anti-Graffiti Mural Assistance Program Fund.</akn:heading>
+<akn:subsection eId="subsec_1-325_101_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a nonlapsing fund the Anti-Graffiti Mural Assistance Program Fund (“Fund”), which shall be used solely for the purposes set forth in subsections (c) and (d) of this section, and administered by the Office of the Director of the Department of Public Works.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_101_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All funds deposited into the Fund shall not revert to the unrestricted fund balance of the General Fund of the District at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsections (c) and (d) of this section without regard to fiscal year limitation, subject to authorization by Congress.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_101_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Director of the Department of Public Works (“Director”) shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_101_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Regarding the production of any mural art for which Fund monies have been provided, the qualified corporation shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_101_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For the purposes of subsections (c) and (d) of this section, the term “qualified corporation” means a nonprofit corporation incorporated in the District that provides education, training, funding, and supervision for the creation of mural art within the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-313.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-313.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_313_07">
+        <akn:num>29-313.07</akn:num>
+        <akn:heading>Financial statements for shareholders.</akn:heading>
+<akn:subsection eId="subsec_29-313_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A corporation shall deliver to its shareholders annual financial statements, which may be consolidated or combined statements of the corporation and one or more of its subsidiaries, as appropriate, that include a balance sheet as of the end of the fiscal year, an income statement for that year, and a statement of changes in shareholders’ equity for the year unless that information appears elsewhere in the financial statements. If financial statements are prepared for the corporation on the basis of generally accepted accounting principles, the annual financial statements shall also be prepared on that basis.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-313_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the annual financial statements are reported upon by a public accountant, the report shall accompany them. If not, the statements shall be accompanied by a statement of the president or the person responsible for the corporation’s accounting records:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-313_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A corporation shall mail the annual financial statements to each shareholder within 120 days after the close of each fiscal year. Thereafter, on written request from a shareholder that was not sent the statements, the corporation shall mail the shareholder the latest financial statements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-313_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A public corporation may fulfill its responsibilities under this section by delivering the specified financial statements or otherwise making them available in any manner permitted by the applicable rules and regulations of the United States Securities and Exchange Commission.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-204.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-204.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_204_04">
+        <akn:num>29-204.04</akn:num>
+        <akn:heading>Amendment or abandonment of plan of conversion.</akn:heading>
+<akn:subsection eId="subsec_29-204_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A plan of conversion of a domestic converting entity may be amended:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-204_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>After a plan of conversion has been approved by a domestic converting entity and before a statement of conversion becomes effective, the plan may be abandoned:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-204_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a plan of conversion is abandoned after a statement of conversion has been delivered to the Mayor for filing and before the statement of conversion becomes effective, a statement of abandonment, signed on behalf of the entity, shall be delivered to the Mayor for filing before the time the statement of conversion becomes effective. The statement of abandonment shall be effective upon filing by the Mayor, and the conversion shall be abandoned and shall not become effective. The statement of abandonment shall contain:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

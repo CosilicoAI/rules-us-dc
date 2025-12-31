@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-703"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-703/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_703">
+        <akn:num>26-703</akn:num>
+        <akn:heading>Exceptions.</akn:heading>
+<akn:subsection eId="subsec_26-703_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>A bank having banking offices in a state not within the region, if the bank has been acquired pursuant to the provisions of 12 U.S.C. § 1730a(m) [repealed] or 12 U.S.C. § 1823(f);</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-703_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A bank having banking offices in a state not within the region, if the bank has been acquired in the regular course of securing or collecting a debt previously contracted in good faith, as provided in 12 U.S.C. § 1842(a), and if the bank or bank holding company divests the securities or assets acquired within 2 years of the date of acquisition; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-703_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>A bank or corporation organized under the laws of the United States or of any state and operating under 12 U.S.C. § 601 or 12 U.S.C. §§ 611-632, or a bank or bank holding company organized under the laws of a foreign country that is principally engaged in business outside the United States and that either has no banking office in the United States or has banking offices in the United States that are engaged only in business activities permissible for a corporation operating under 12 U.S.C. § 601 or 12 U.S.C. §§ 611-632.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

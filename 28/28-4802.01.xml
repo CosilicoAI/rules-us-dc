@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4802.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4802.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4802_01">
+        <akn:num>28-4802.01</akn:num>
+        <akn:heading>Determination and distribution of net income.</akn:heading>
+<akn:subsection eId="subsec_28-4802_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>A fiduciary of an estate or of a terminating income interest shall determine the amount of net income and net principal receipts received from property specifically given to a beneficiary under the rules in subchapters III through V of this chapter which apply to trustees and the rules in paragraph (5) of this section. The fiduciary shall distribute the net income and net principal receipts to the beneficiary who is to receive the specific property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4802_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A fiduciary shall determine the remaining net income of a decedent’s estate or a terminating income interest under the rules in subchapters III through V of this chapter which apply to trustees and by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4802_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>A fiduciary shall distribute to a beneficiary who receives a pecuniary amount outright the interest or any other amount provided by the will, the terms of the trust, or applicable law from net income determined under paragraph (2) of this section or from principal to the extent that net income is insufficient. If a beneficiary is to receive a pecuniary amount outright from a trust after an income interest ends and no interest or other amount is provided for by the terms of the trust or applicable law, the fiduciary shall distribute the interest or other amount to which the beneficiary would be entitled under applicable law if the pecuniary amount were required to be paid under a will.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4802_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>A fiduciary shall distribute the net income remaining after distributions required by paragraph (3) of this section in the manner described in § 28-4802.02 to all other beneficiaries, including a beneficiary who receives a pecuniary amount in trust, even if the beneficiary holds an unqualified power to withdraw assets from the trust or other presently exercisable general power of appointment over the trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4802_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>A fiduciary may not reduce principal or income receipts from property described in paragraph (1) of this section because of a payment described in § 28-4805.01 or § 28-4805.02 to the extent that the will, the terms of the trust, or applicable law requires the fiduciary to make the payment from assets other than the property or to the extent that the fiduciary recovers or expects to recover the payment from a third party. The net income and principal receipts from the property are determined by including all of the amounts the fiduciary receives or pays with respect to the property, whether those amounts accrued or became due before, on, or after the date of a decedent’s death or an income interest’s terminating event, and by making a reasonable provision for amounts that the fiduciary believes the estate or terminating income interest may become obligated to pay after the property is distributed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

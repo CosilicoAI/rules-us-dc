@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4410"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4410/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4410">
+        <akn:num>16-4410</akn:num>
+        <akn:heading>Consolidation of separate arbitration proceedings.</akn:heading>
+<akn:subsection eId="subsec_16-4410_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (c) of this section, upon motion of a party to an agreement to arbitrate or to an arbitration proceeding, the court may order consolidation of separate arbitration proceedings as to all or some of the claims if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4410_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The court may order consolidation of separate arbitration proceedings as to some claims and allow other claims to be resolved in separate arbitration proceedings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4410_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The court may not order consolidation of the claims of a party to an agreement to arbitrate if the agreement prohibits consolidation; provided, that nothing in this section is intended to prevent a party’s participation in a class action lawsuit or arbitration.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

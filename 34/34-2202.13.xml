@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2202.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2202.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2202_13">
+        <akn:num>34-2202.13</akn:num>
+        <akn:heading>District repayment option.</akn:heading>
+<akn:subsection eId="subsec_34-2202_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The District retains the right to direct the Authority to purchase its own bonds and notes, subject to the terms and conditions of § 34-2202.10(h), for the purpose of dissolving or altering the Authority after such bonds and notes are cancelled or defeased.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2202_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The District further retains the right to direct the Authority to defease bonds, and the authority shall do so, conditioned upon the District providing moneys, which together with the moneys of the Authority available for defeasance, would be sufficient to satisfy the requirements of § 34-2202.13a(a)(1).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

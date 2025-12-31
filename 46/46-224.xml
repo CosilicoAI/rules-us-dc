@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-224"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-224/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_224">
+        <akn:num>46-224</akn:num>
+        <akn:heading>Enforcement of orders by means other than income withholding.</akn:heading>
+<akn:subsection eId="subsec_46-224_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A lien is created by operation of law against the real and personal property of an obligor subject to a support order who resides or owns property in the District for amounts of overdue support, as defined by section 466(e) of the Social Security Act, approved August 16, 1984 (98 Stat. 1310; 42 U.S.C. § 666(e)), that are owed by the obligor. In addition to withholding of earnings or other income, this lien shall be separate from and in addition to any other lien created by or provided for under law. The IV-D agency or the custodian to whom support is payable shall have the priority of a secured creditor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-224_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The lien shall be enforceable from the date the lien is filed and recorded in the Office of the Recorder of Deeds of the District of Columbia. A lien may be enforced by the IV-D agency or the custodian to whom support is payable. This remedy does not affect the availability of other remedies provided by law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-224_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a lien has been filed in accordance with subsection (b) of this section, and a person having notice of the lien possesses nonexempt personal property of the obligor that may be subject to the lien, the property may not be paid over, released, sold, transferred, encumbered, or conveyed unless:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-224_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The District shall accord full faith and credit to liens described in subsection (b) of this section that arise in another state, if the other state’s IV-D agency, a party to a support action, or other entity seeking to enforce such a lien complies with the procedural rules relating to recording or serving liens that arise in the District, except that judicial notice or hearing prior to enforcement of the lien shall not be required.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

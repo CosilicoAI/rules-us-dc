@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-755.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-755.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_755_01">
+        <akn:num>4-755.01</akn:num>
+        <akn:heading>No entitlement to services.</akn:heading>
+<akn:subsection eId="subsec_4-755_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No provision of this chapter shall be construed to create an entitlement (either direct or implied) on the part of any individual or family to any services within the Continuum of Care, other than shelter in severe weather conditions as authorized by § 4-754.11(5).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-755_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No provision of this chapter shall be construed to require the District to expend funds for individuals or families who are eligible for services within the Continuum of Care, beyond the level of the District’s annual appropriation for services within the Continuum of Care.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-755_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-755_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

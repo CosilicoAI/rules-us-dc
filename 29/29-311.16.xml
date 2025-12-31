@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-311.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-311.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_311_16">
+        <akn:num>29-311.16</akn:num>
+        <akn:heading>Procedure if shareholder dissatisfied with payment or offer.</akn:heading>
+<akn:subsection eId="subsec_29-311_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A shareholder paid pursuant to § 29-311.14 that is dissatisfied with the amount of the payment shall notify the corporation in writing of that shareholder’s estimate of the fair value of the shares and demand payment of that estimate plus interest, less any payment under § 29-311.14. A shareholder offered payment under § 29-311.15 that is dissatisfied with that offer shall reject the offer and demand payment of the shareholder’s stated estimate of the fair value of the shares plus interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-311_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A shareholder that fails to notify the corporation in writing of that shareholder’s demand to be paid the shareholder’s stated estimate of the fair value plus interest under subsection (a) of this section within 30 days after receiving the corporation’s payment or offer of payment under § 29-311.14 or § 29-311.15, respectively, waives the right to demand payment under this section and is entitled only to the payment made or offered pursuant to those respective sections.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

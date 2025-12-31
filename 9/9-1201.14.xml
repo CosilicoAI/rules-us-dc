@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-1201.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-1201.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_1201_14">
+        <akn:num>9-1201.14</akn:num>
+        <akn:heading>Streets to be under or over railroad tracks.</akn:heading>
+<akn:subsection eId="subsec_9-1201_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any and all streets or highways within the District of Columbia now or hereafter planned or projected to cross any line of railroad, other than a street railway, in the District of Columbia, which may be hereafter opened to public use, shall be located, constructed, and maintained either beneath such railroad by a suitable subway, or above the same by a suitable viaduct bridge at such altitude as will not interfere with the free and safe operation thereof; provided, however, that nothing herein contained shall require the location, construction, or maintenance of any such street or highway under or above any spur, industrial, switching or sidetrack, or branch line of any railroad unless the Mayor of the District of Columbia shall find the same is necessary in the public safety.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-1201_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The cost and expense of any project for opening any such street or highway within the limits of such railroad company’s right-of-way, including the cost of constructing the portion of any viaduct bridge, within said limits, shall be borne and paid as follows:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

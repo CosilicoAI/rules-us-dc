@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-1101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-1101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_1101">
+        <akn:num>22-1101</akn:num>
+        <akn:heading>Definition and penalty.</akn:heading>
+<akn:subsection eId="subsec_22-1101_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person commits the crime of cruelty to children in the first degree if that person intentionally, knowingly, or recklessly tortures, beats, or otherwise willfully maltreats a child under 18 years of age or engages in conduct which creates a grave risk of bodily injury to a child, and thereby causes bodily injury.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-1101_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person commits the crime of cruelty to children in the second degree if that person intentionally, knowingly, or recklessly:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-1101_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4615"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4615/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4615">
+        <akn:num>47-4615</akn:num>
+        <akn:heading>Abatement of real property taxes for National Public Radio, Inc.</akn:heading>
+<akn:subsection eId="subsec_47-4615_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The real property taxes to be imposed with respect to the real property identified in the tax records of the District of Columbia, as of the effective date of this section [August 29, 2008], as Square 673, Lot 837, and any improvements thereto, shall be abated in any amount in excess of the amount of the real property taxes imposed on the property for tax year 2008, but only until the 1st tax year beginning after the 20th anniversary of the issuance of the final certificate of occupancy for the headquarters building of National Public Radio, Inc., on such real property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4615_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any increase in the real property taxes and vault fees imposed on Square W-484 shall be limited to an annual increase of no more than 3% from the effective date of this section [August 29, 2008] until the earlier of the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-903.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-903.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_903_04">
+        <akn:num>1-903.04</akn:num>
+        <akn:heading>Payments from retirement funds.</akn:heading>
+<akn:subsection eId="subsec_1-903_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Retirement Board shall determine the amount of any payments for annuities or other retirement or disability benefits (including refunds and lump-sum payments) required to be made from the trust assets of the Police Officers and Fire Fighters’ Retirement Fund or the Teachers’ Retirement Fund. The Retirement Board shall make the payments from the appropriate fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-903_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Once authorized pursuant to the appropriation process, the Retirement Board may make payments from the Funds sufficient to cover the cost of the management of the assets and the reasonable and necessary administrative expenses of the Retirement Board, including trustee and staff compensation, and liability insurance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

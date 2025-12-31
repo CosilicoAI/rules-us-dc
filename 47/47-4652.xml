@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4652"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4652/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4652">
+        <akn:num>47-4652</akn:num>
+        <akn:heading>Abatement of real property taxes for Adams Morgan Hotel.</akn:heading>
+<akn:subsection eId="subsec_47-4652_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The tax imposed by Chapter 8 of this title on the real property described as Lot 872, Lot 875, and Lot 127, Square 2560, and any improvements thereon, shall be abated for 20 years in accordance with subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4652_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The abatement contained in subsection (a) of this section shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4652_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>To receive the abatement contained in subsection (a) of this section, the development of the real property as a hotel shall comply with the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

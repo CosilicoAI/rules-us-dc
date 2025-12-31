@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1310.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1310.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1310_10">
+        <akn:num>19-1310.10</akn:num>
+        <akn:heading>Limitation on personal liability of trustee.</akn:heading>
+<akn:subsection eId="subsec_19-1310_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in the contract, a trustee is not personally liable on a contract properly entered into in the trustee’s fiduciary capacity in the course of administering the trust if the trustee in the contract disclosed the fiduciary capacity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1310_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A trustee is personally liable for torts committed in the course of administering a trust, or for obligations arising from ownership or control of trust property, including liability for violation of environmental law, only if the trustee is personally at fault.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1310_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A claim based on a contract entered into by a trustee in the trustee’s fiduciary capacity, on an obligation arising from ownership or control of trust property, or on a tort committed in the course of administering a trust, may be asserted in a judicial proceeding against the trustee in the trustee’s fiduciary capacity, whether or not the trustee is personally liable for the claim.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

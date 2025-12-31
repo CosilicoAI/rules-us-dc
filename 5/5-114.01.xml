@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-114.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-114.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_114_01">
+        <akn:num>5-114.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_5-114_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Accident” means an untoward and unforeseen occurrence out of the maintenance or use of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-114_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Insurance Identification Card” means a current document issued by an insurer as proof of insurance for a motor vehicle that lists the name of the insurer, the policy number, the name of the insured, the period of coverage for the insurance, and the make, model, and vehicle identification number.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-114_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Insurer” means any person, company, or professional association licensed in the District of Columbia that provides motor vehicle liability protection or any self-insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-114_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Law enforcement officer” means any officer of the Metropolitan Police Department, whether salaried or reserve, or of any other law enforcement agency operating in the District of Columbia with which the Metropolitan Police Department has an agreement authorizing its officers to enforce the provisions of this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-114_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Motor vehicle” means any device propelled by an internal-combustion engine, electricity, or steam, including any non-operational vehicle that is being restored or repaired. The term “motor vehicle” does not include traction engines used exclusively for drawing vehicles in fields, road rollers, vehicles propelled only upon rails and tracks, electric personal assistive mobility devices, as defined by § 50-2201.02(12), and battery-operated wheelchairs when operated by a person with a disability at speeds not exceeding 10 miles per hour.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-114_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Operator” means a person who drives or is in actual physical control of a motor vehicle or who is exercising control over or steering a motor vehicle being pushed or towed by a motor vehicle.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-114_01_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Owner” means any person, corporation, firm, agency, association, organization, or federal, state, or local government agency or other authority or other entity having the property or title to a vehicle or bicycle used or operated in the District; any registrant of a vehicle used or operated in the District; or any person, corporation, firm, agency, association, organization, or federal, state, or local government agency or authority or other entity in business or renting or leasing vehicles or bicycles to be used or operated in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-114_01_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Proof of insurance” means a valid Insurance Identification Card for a District of Columbia resident or its equivalent for the resident of another state. Other documentation from an insurance company that constitutes reasonable proof of valid insurance being in effect shall be adequate evidence of proof of insurance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-114_01_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Self-insurer” means any person having received a certificate of self-insurance issued by the Mayor pursuant to § 50-1301.79.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

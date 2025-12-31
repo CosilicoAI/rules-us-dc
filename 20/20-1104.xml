@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-1104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-1104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_1104">
+        <akn:num>20-1104</akn:num>
+        <akn:heading>Distribution; effect.</akn:heading>
+<akn:subsection eId="subsec_20-1104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Title of distributees. — Proof that a distributee has received an instrument or deed of distribution of assets in kind from the personal representative is conclusive evidence that the distributee has succeeded to the interest of the estate in the distributed assets, as against all interested persons, except that the personal representative shall recover the assets or their value if the distribution was improper in accordance with subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-1104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Improper distribution; liability of distributee. — A distributee of property improperly distributed who has not disposed of the property shall return the property received to the personal representative unless the distribution can no longer be questioned because of adjudication or limitations. If a distributee has disposed of any property improperly distributed, such distributee shall be liable to the personal representative for the value of the property on the date of distribution or the date of disposition, whichever is lower, unless the distribution can no longer be questioned because of adjudication or limitations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-1104_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Purchasers from distributees protected. — If property distributed in kind or a security interest therein is acquired for value by a purchaser from, or lender to, a distributee who has received an instrument or deed of distribution from the personal representative, or is so acquired by a purchaser from, or lender to, a transferee from such distributee, the purchaser or lender takes good title free of any claims or rights of any interested person in the estate and incurs no personal liability to the estate, or to any interested person, whether or not the distribution was proper or supported by court order or the authority of the personal representative was terminated before execution of the instrument or deed. This section protects a purchaser from, or lender to, a distributee (or a distributee’s transferee) even when the distributee, who, as personal representative, has executed such deed of distribution. To be protected under this provision, a purchaser or lender need not inquire whether a personal representative acted properly in making the distribution in kind, even if the personal representative and the distributee are the same person, or whether the authority of the personal representative had terminated before the distribution. Any recorded instrument described in this section on which a state documentary fee is noted shall be prima facie evidence that such transfer was made for value.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

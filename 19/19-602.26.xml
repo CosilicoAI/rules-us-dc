@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-602.26"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-602.26/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_602_26">
+        <akn:num>19-602.26</akn:num>
+        <akn:heading>Discharge.</akn:heading>
+<akn:subsection eId="subsec_19-602_26_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Payment made pursuant to this subchapter in accordance with the terms of the account discharges the financial institution from all claims for amounts so paid, whether or not the payment is consistent with the beneficial ownership of the account as between parties, beneficiaries, or their successors. Payment may be made whether or not a party, beneficiary, or agent has a disability, is incapacitated, or deceased when payment is requested, received, or made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-602_26_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Protection under this section does not extend to payments made after a financial institution has received written notice from a party, or from the personal representative, surviving spouse, or heir or devisee of a deceased party, to the effect that payments in accordance with the terms of the account, including one having an agency designation, should not be permitted, and the financial institution has had a reasonable opportunity to act on it when the payment is made. Unless the notice is withdrawn by the person giving it, the successor of any deceased party must concur in a request for payment if the financial institution is to be protected under this section. Unless a financial institution has been served with process in an action or proceeding, no other notice or other information shown to have been available to the financial institution affects its right to protection under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-602_26_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A financial institution that receives written notice pursuant to this section or otherwise has reason to believe that a dispute exists as to the rights of the parties may refuse, without liability, to make payments in accordance with the terms of the account.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-602_26_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Protection of a financial institution under this section does not affect the rights of parties in disputes between themselves or their successors concerning the beneficial ownership of sums on deposit in accounts or payments made from accounts.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

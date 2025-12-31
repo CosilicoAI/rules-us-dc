@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-314"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-314/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_314">
+        <akn:num>31-314</akn:num>
+        <akn:heading>Applicability.</akn:heading>
+<akn:subsection eId="subsec_31-314_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every insurer, as defined in § 31-301, shall be subject to this chapter. Insurers having direct premiums written in the District of Columbia of less than $1,000,000 in any calendar year and having less than 1,000 policyholders or certificateholders of directly written policies nationwide at the end of any calendar year shall be exempt from this chapter for that year, unless the Mayor makes a specific finding that compliance is necessary for the Mayor to carry out statutory responsibilities, except that insurers having assumed premiums pursuant to contracts or treaties of reinsurance of $1,000,000 or more will not be so exempt.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-314_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Foreign or alien insurers filing audited financial reports in another state pursuant to the other state’s requirement of audited financial reports which has been found by the Mayor to be substantially similar to the requirements of this chapter are exempt from this chapter if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-314_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This chapter shall not prohibit, preclude, or in any way limit the Mayor from ordering, conducting, or performing examinations of insurers under the rules and the practices and procedures of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-1718"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-1718/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_1718">
+        <akn:num>22-1718</akn:num>
+        <akn:heading>Advertising and promotion; sale and possession of lottery and numbers tickets and slips.</akn:heading>
+<akn:subsection eId="subsec_22-1718_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in subchapter I of this chapter shall be construed to prohibit the advertising and promotion of excepted permissible gambling activities pursuant to § 22-1717, hereof, including, but not limited to, the sale, by agents authorized by the District of Columbia, and the possession of tickets, certificates, or slips for lottery and daily numbers games excepted and permissible pursuant to § 22-1717, hereof, and the sale, lease, purchase, or possession of tickets, slips, certificates, or cards for bingo, raffles, and Monte Carlo night parties, excepted and permissible pursuant to § 22-1717, hereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-1718_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in § 22-1701 shall prohibit advertising a lottery by the Maryland State Lottery so long as Maryland does not prohibit advertising or otherwise publishing an account of a lottery by the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

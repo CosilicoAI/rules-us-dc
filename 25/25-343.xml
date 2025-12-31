@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-343"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-343/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_343">
+        <akn:num>25-343</akn:num>
+        <akn:heading>Special restrictions for off-premises retailer’s license in Ward 8.</akn:heading>
+<akn:subsection eId="subsec_25-343_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “Ward 8” means the area defined as Ward VIII in § 1-1041.03(a) on [August 15, 2008].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-343_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A licensee under an off-premises retailer’s license in Ward 8, class A or B, shall not divide a manufacturer’s package of more than one container of beer, malt liquor, or ale, to sell an individual container of the package if the capacity of the individual container is 70 ounces or less.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-343_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A licensee under an off-premises retailer’s license in Ward 8, class A or B, shall not sell, give, offer, expose for sale, or deliver an individual container of beer, malt liquor, or ale with a capacity of 70 ounces or less.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

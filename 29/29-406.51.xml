@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.51"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.51/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_406_51">
+        <akn:num>29-406.51</akn:num>
+        <akn:heading>Permissible indemnification.</akn:heading>
+<akn:subsection eId="subsec_29-406_51_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this section, a nonprofit corporation may indemnify an individual who is a party to a proceeding because he or she is or was a director against liability incurred in the proceeding if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_51_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A director’s conduct with respect to an employee benefit plan for a purpose the director reasonably believed to be in the interests of the participants in and the beneficiaries of the plan is conduct that satisfies the requirement of subsection (a)(1)(B)(ii) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_51_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The termination of a proceeding by judgment, order, settlement, or conviction, or upon a plea of nolo contendere or its equivalent, shall not, of itself, determinative that the director did not meet the relevant standard of conduct described in this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_51_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Unless ordered by a court under § 29-406.54(a)(3), a nonprofit corporation shall not indemnify a director:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

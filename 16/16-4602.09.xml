@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4602.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4602.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4602_09">
+        <akn:num>16-4602.09</akn:num>
+        <akn:heading>Information to be submitted to court.</akn:heading>
+<akn:subsection eId="subsec_16-4602_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In a child-custody proceeding, each party, in its first pleading or in an attached affidavit, shall give information, if reasonably ascertainable, under oath as to the child’s present address or whereabouts, the places where the child has lived during the last 5 years, and the names and present addresses of the persons with whom the child has lived during that period. The pleading or affidavit must state whether the party:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4602_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the information required by subsection (a) of this section is not furnished, the court, upon motion of a party or its own motion, may stay the proceeding until the information is furnished.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4602_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the declaration as to any of the items described in subsection (a) (1) through (3) of this section is in the affirmative, the declarant shall give additional information under oath as required by the court. The court may examine the parties under oath as to details of the information furnished and other matters pertinent to the court’s jurisdiction and the disposition of the case.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4602_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Each party has a continuing duty to inform the court of any proceeding in this or any other state that could affect the current proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4602_09_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a party alleges in an affidavit or a pleading under oath that the health, safety, or liberty of a party or child would be jeopardized by disclosure of identifying information, the information must be sealed and may not be disclosed to the other party or the public unless the court orders the disclosure to be made after a hearing in which the court takes into consideration the health, safety, or liberty of the party or child and determines that the disclosure is in the interest of justice.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

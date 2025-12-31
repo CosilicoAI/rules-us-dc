@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-231"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-231/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_231">
+        <akn:num>44-231</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_44-231_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Automated external defibrillator” or “AED” or “defibrillator” means a medical device heart monitor and defibrillator that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-231_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Compensation” shall not include the salary of any person who registers an automated external defibrillator, trains the individuals who operate the registered automated external defibrillators, orders the automated external defibrillators which will subsequently be registered, or operates a registered automated external defibrillator at the scene of an emergency, excluding any professional medical emergency setting.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-231_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Recreation facility” means a Department of Parks and Recreation public facility that is regularly staffed by a paid District government employee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-231_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Recreation facility certificate” means a certificate issued by the Mayor to authorize the installation and use of an AED at a recreation facility that has complied with the AED program requirements and guidelines established under § 44-232.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

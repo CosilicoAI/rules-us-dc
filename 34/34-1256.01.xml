@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1256.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1256.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1256_01">
+        <akn:num>34-1256.01</akn:num>
+        <akn:heading>Franchise fee.</akn:heading>
+<akn:subsection eId="subsec_34-1256_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A cable operator shall pay to the District a franchise fee of at least 5% of its annual gross revenues. The amount of the franchise fee shall be set forth in the franchise agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1256_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The franchise fee shall be paid quarterly.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1256_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A cable operator shall file with the Office within 30 days after the end of each of the cable operator’s fiscal quarter, a financial statement clearly showing the gross revenues received by the cable operator during the preceding quarter. Payment of the quarterly portion of the franchise agreement fee shall be payable by certified check made to the D.C. Treasurer at the time the statement is filed. A cable operator shall also file, within 120 days after the end of the cable operator’s fiscal year, an annual report, prepared by a certified public accountant, showing the yearly total gross revenues.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1256_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The District may audit and recalculate any amounts determined to be payable under this chapter or the franchise agreement. Any additional amount due the District based on the audit shall be paid within 30 days after the Office sends to the cable operator a written notice setting forth the amount due. The notice shall include a copy of the audit report. The cost of the audit shall be borne by the cable operator if it is determined that the cable operator’s payment to the District for the preceding year is increased by more than 4%.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1256_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the cable operator does not pay the recomputed amount within the 30-day period established by subsection (c) of this section, the cable operator shall be charged from the due date at the prevailing prime rate of interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1256_01_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The franchise fee shall not be deemed a tax or payment in lieu of taxes or fees of general applicability imposed by the District. No cable operator may designate the franchise fee as a tax in any communication to a subscriber or any third party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1256_01_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>If a franchise is terminated or revoked prior to its expiration date and the District invokes its right to purchase the cable operator’s cable system, the cable operator shall file with the Office, within not less than 30 days following the date that ownership and control pass to the District or its assignee, a financial statement clearly showing the gross revenues received by the cable operator since the end of the previous fiscal quarter. The cable operator shall pay the franchise fee due at the time the statement is filed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

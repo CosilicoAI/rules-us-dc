@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1373"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1373/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1373">
+        <akn:num>47-1373</akn:num>
+        <akn:heading>How unknown owner made party; affidavit of search.</akn:heading>
+<akn:subsection eId="subsec_47-1373_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the identity of an owner cannot be ascertained as provided in § 47-1371, the unknown owner of the real property may be included as a defendant by the designation: “Unknown owner of real property (insert a description of the real property in substantially the same form as the description that appears on the certificate of sale along with the street address, if any), the unknown owner’s heirs, devisees, and personal representatives and their or any of their heirs, devisees, executors, administrators, grantees, assigns, or successors in right, title and interest.” The unknown owner shall be so designated throughout the action. The action shall proceed against the unknown owner by publication under order of the court as provided in § 47-1375.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1373_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A complaint to foreclose the right of redemption filed against an unknown owner as set forth in subsection (a) of this section shall have attached to it an affidavit by the person making the search stating at a minimum that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

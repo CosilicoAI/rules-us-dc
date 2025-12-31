@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-301.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-301.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_301_13">
+        <akn:num>50-301.13</akn:num>
+        <akn:heading>Regulation of public vehicles-for-hire.</akn:heading>
+<akn:subsection eId="subsec_50-301_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commission may issue any reasonable rule relating to the supervision of public vehicles-for-hire it considers necessary for the protection of the public.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commission may establish standards, criteria, and requirements for the licensing of the different classes of public vehicles-for-hire and the owner and operators thereof, and may establish appropriate classes of license fees for the ownership and operation of public vehicles-for-hire subject to the requirements of this section, provided that no license requirement for operating authority shall be mandated by the Commission which is duplicative of the jurisdiction of the Washington Metropolitan Area Transit Commission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No person, corporation, partnership, or association shall operate a public vehicle-for-hire in the District without first having procured all applicable licenses and meeting all requirements as mandated by the Commission. Any violation of this subsection shall subject a violator to a civil fine not to exceed $500.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_13_c_1">
+      <akn:num>(c-1)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_13_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Commission may establish reasonable civil fines and penalties for violation of any rule issued pursuant to the authority of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_13_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>All rules and regulations applicable to public vehicles-for-hire in effect before October 22, 2012, that are consistent with this subchapter shall remain effective until amended or repealed by the Commission.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

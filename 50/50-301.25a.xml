@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-301.25a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-301.25a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_301_25a">
+        <akn:num>50-301.25a</akn:num>
+        <akn:heading>Accessibility of digital dispatch for individuals with disabilities.</akn:heading>
+<akn:subsection eId="subsec_50-301_25a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>By January 1, 2016, a company that provides digital dispatch shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_25a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A company that provides digital dispatch shall not:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_25a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an operator accepts a ride request through digital dispatch from a passenger with a disability who uses a mobility device, upon picking up the passenger, the operator shall stow the passenger’s mobility equipment in the vehicle if the vehicle is capable of stowing the equipment. If a passenger or operator determines that the vehicle is not capable of stowing the equipment, the company that provides digital dispatch shall not charge a trip cancellation fee or, if such fee is charged, shall provide the passenger with a refund in a timely manner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

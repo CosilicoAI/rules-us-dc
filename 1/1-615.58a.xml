@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-615.58a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-615.58a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_615_58a">
+        <akn:num>1-615.58a</akn:num>
+        <akn:heading>Salary restriction for interfering with Council whistleblowers.</akn:heading>
+<akn:subsection eId="subsec_1-615_58a_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Prohibits or prevents, or attempts or threatens to prohibit or prevent, any other officer or employee of the District from having any direct oral or written communication or contact with any member, committee, or subcommittee of the Council in connection with any matter pertaining to the employment of the other officer or employee or pertaining to the department or agency of the other officer or employee in any way, irrespective of whether the communication or contact is at the initiative of the other officer or employee or in response to the request or inquiry of the member, committee, or subcommittee, of the Council except where the communication or contact would be unlawful; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-615_58a_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Removes; suspends from duty without pay; demotes; reduces in rank, seniority, status, pay, or performance rating; denies promotion to; relocates; reassigns; transfers; disciplines; or discriminates in regard to any employment right, entitlement, or benefit, or any term or condition of employment, of any other officer or employee of the District, or attempts or threatens to commit any of the foregoing actions with respect to the other officer or employee, by reason of any communication or contact of the other officer or employee with any member, committee, or subcommittee of the Council as described in paragraph (1) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

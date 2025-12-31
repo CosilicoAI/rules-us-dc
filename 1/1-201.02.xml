@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-201.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-201.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_201_02">
+        <akn:num>1-201.02</akn:num>
+        <akn:heading>Purposes.</akn:heading>
+<akn:subsection eId="subsec_1-201_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to the retention by Congress of the ultimate legislative authority over the nation’s capital granted by article I, § 8, of the Constitution, the intent of Congress is to delegate certain legislative powers to the government of the District of Columbia; authorize the election of certain local officials by the registered qualified electors in the District of Columbia; grant to the inhabitants of the District of Columbia powers of local self-government; modernize, reorganize, and otherwise improve the governmental structure of the District of Columbia; and, to the greatest extent possible, consistent with the constitutional mandate, relieve Congress of the burden of legislating upon essentially local District matters.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-201_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Congress further intends to implement certain recommendations of the Commission on the Organization of the Government of the District of Columbia and take certain other actions irrespective of whether the charter for greater self-government provided for in subchapter IV of this chapter is accepted or rejected by the registered qualified electors of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

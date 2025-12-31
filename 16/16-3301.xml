@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_3301">
+        <akn:num>16-3301</akn:num>
+        <akn:heading>Complaint; allegations; parties; service; decree.</akn:heading>
+<akn:subsection eId="subsec_16-3301_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When title to real property in the District of Columbia has become vested in a person by adverse possession, the holder thereof may file a complaint in the Superior Court of the District of Columbia to have the title perfected. In the complaint, it is sufficient to allege that the plaintiff holds the title to the property, and that it has vested in him, or in himself and in those under whom he claims, by adverse possession. In the action, it is not necessary to make any person a party defendant except those persons who appear to have a claim or title adverse to that of the plaintiff. Upon the trial of the cause, proof of the facts showing title in the plaintiff by adverse possession entitles him to decree of the court declaring his title by adverse possession, and a copy of the decree may be entered of record in the office of the Recorder of Deeds for the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-3301_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In an action pursuant to this section, if process is returned not to be found, notice by publication may be substituted as in the case of nonresident defendants. Subject to subsection (c) of this section, if it is unknown whether one who, if living, would be an adverse party, is living or dead, or, in the case of a decedent, whether he died testate or left heirs, or his heirs or devisees are unknown, the cause may be proceeded with pursuant to section 13-341.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-3301_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The rights of infants or others under legal disability shall be saved for a period of two years after the removal of their disabilities, but the entire period during which they shall be preserved may not exceed twenty-two years from the time they accrued, either in the plaintiff or in the persons under whom he claims.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

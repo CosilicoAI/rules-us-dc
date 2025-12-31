@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3506.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3506.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3506_02">
+        <akn:num>42-3506.02</akn:num>
+        <akn:heading>Demolition.</akn:heading>
+<akn:subsection eId="subsec_42-3506_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, no person shall demolish and the Mayor shall not permit the demolition of any housing accommodation or rental unit for the purpose of constructing or expanding a hotel, motel, inn, or other transient residential accommodation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3506_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person shall construct or expand and the Mayor shall not permit the construction or expansion of a hotel, motel, inn, or other transient residential occupancy on the site of a housing accommodation or rental unit demolished after July 17, 1985.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

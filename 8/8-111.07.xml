@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-111.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-111.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_111_07">
+        <akn:num>8-111.07</akn:num>
+        <akn:heading>Summary action.</akn:heading>
+<akn:subsection eId="subsec_8-111_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the Mayor determines that the conduct of an asbestos worker or business entity presents an imminent danger to the public health or safety of the residents of the District, the Mayor may suspend or restrict the license or permit of the asbestos worker or business entity prior to a hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-111_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>At the time of the suspension or restriction of a license or permit, the Mayor shall provide the asbestos worker or business entity with written notice that states the action that is being taken, the basis for the action, and the right of the asbestos worker or business entity to request a hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-111_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An asbestos worker or business entity shall have the right to request a hearing within 3 days of service of notice of the suspension or restriction of the license or permit. The Mayor shall hold a hearing within 3 days of receipt of a timely request and shall issue a decision within 3 days of the hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-111_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall inform the asbestos worker or business entity of the decision in writing and provide findings of fact and conclusions of law. The findings shall be supported by reliable, probative, and substantial evidence. The Mayor shall provide a copy of the decision to each party to a case or to the party’s attorney of record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-111_07_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any person aggrieved by a decision pursuant to this section may file an appeal with the Mayor within 10 days of the decision.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

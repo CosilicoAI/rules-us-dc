@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-5206"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-5206/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_5206">
+        <akn:num>28-5206</akn:num>
+        <akn:heading>Pricing.</akn:heading>
+<akn:subsection eId="subsec_28-5206_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The unit price shall be to the nearest cent when a dollar or more. If the unit price is under a dollar, it shall be listed:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5206_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The retail establishment shall have the option of listing the unit price as outlined in subsection (a)(1) or (2) of this section, but shall not use both methods of listing the unit price.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5206_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The retail establishment shall accurately and consistently use the same method of rounding up or down to compute the price to the whole cent.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

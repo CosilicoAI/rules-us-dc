@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-412.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-412.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_412_02">
+        <akn:num>29-412.02</akn:num>
+        <akn:heading>Approval of dissolution.</akn:heading>
+<akn:subsection eId="subsec_29-412_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The board of directors of a membership corporation may propose dissolution for submission to the members.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-412_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For a proposal to dissolve to be adopted:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-412_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The board of directors may condition its submission of the proposal for dissolution on any basis.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-412_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The nonprofit corporation shall give notice to each member, whether or not entitled to vote, of the proposed meeting of members. The notice shall also state:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-412_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Unless the articles of incorporation, the bylaws, or the board of directors acting pursuant to subsection (c) of this section, requires a greater vote or a greater number of members to be present, the adoption of the proposal to dissolve by the members shall require the approval of the members at a meeting at which a quorum exists, and, if any class of members is entitled to vote as a separate group on the proposal, the approval of each such separate voting group at a meeting at which a quorum of the voting group exists.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-412_02_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>If the nonprofit corporation does not have any members entitled to vote on its dissolution, a proposal to dissolve shall be adopted by the corporation when it has been adopted by the board of directors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-412_02_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A charitable corporation shall give the Attorney General for the District of Columbia notice in the form of a record that it intends to dissolve before the time it delivers articles of dissolution to the Mayor. Notice to the Attorney General under this section shall not delay or otherwise affect the dissolution process.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

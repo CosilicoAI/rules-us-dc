@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1208.54"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1208.54/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1208_54">
+        <akn:num>3-1208.54</akn:num>
+        <akn:heading>Waiver of requirements.</akn:heading>
+<akn:subsection eId="subsec_3-1208_54_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board of Professional Counseling shall waive the educational and examination requirements for any applicant for certification who can demonstrate to the satisfaction of the Board that he or she has been performing the function of an addiction counselor I, as defined in § 3-1208.51, on a full-time or substantially full-time basis continually for at least 24 months immediately preceding July 7, 2009, and is qualified to do so on the basis of pertinent education, training, experience, and demonstrated current competence; provided, that the application is made within 24 months of July 7, 2009.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1208_54_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board of Professional Counseling shall waive the educational and examination requirements for any applicant for certification who can demonstrate to the satisfaction of the Board, that he or she has been performing the function of an addiction counselor II, as defined in § 3-1208.52, on a full-time or substantially full-time basis continually for at least 60 months immediately preceding July 7, 2009, and is qualified to do so on the basis of pertinent education, training, experience, and demonstrated current competence; provided, that the application is made within 24 months of July 7, 2009.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

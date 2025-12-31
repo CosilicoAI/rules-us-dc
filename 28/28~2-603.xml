@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-603"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-603/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_603">
+        <akn:num>28:2-603</akn:num>
+        <akn:heading>Merchant buyer’s duties as to rightfully rejected goods.</akn:heading>
+<akn:subsection eId="subsec_28:2-603_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Subject to any security interest in the buyer (subsection (3) of section 28:2-711), when the seller has no agent or place of business at the market of rejection a merchant buyer is under a duty after rejection of goods in his possession or control to follow any reasonable instructions received from the seller with respect to the goods and in the absence of such instructions to make reasonable efforts to sell them for the seller’s account if they are perishable or threaten to decline in value speedily. Instructions are not reasonable if on demand indemnity for expenses is not forthcoming.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-603_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>When the buyer sells goods under subsection (1), he is entitled to reimbursement from the seller or out of the proceeds for reasonable expenses of caring for and selling them, and if the expenses include no selling commission then to such commission as is usual in the trade or if there is none to a reasonable sum not exceeding ten percent on the gross proceeds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-603_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>In complying with this section the buyer is held only to good faith and good faith conduct hereunder is neither acceptance nor conversion nor the basis of an action for damages.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

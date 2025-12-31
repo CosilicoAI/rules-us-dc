@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-605"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-605/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_605">
+        <akn:num>32-605</akn:num>
+        <akn:heading>Cooperation with consultant.</akn:heading>
+<akn:subsection eId="subsec_32-605_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each agency of government shall cooperate with the consultant selected pursuant to § 32-603(2) in the conduct of the study under this chapter. Each agency shall provide any data, reports, or other information, in a timely manner, that the consultant may request in the course of the study. All information shall be kept confidential by the consultant until the final report is issued.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-605_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Office of Personnel shall provide, in a timely manner, the Commission with any information that the Commission considers necessary in order to carry out its responsibilities under this chapter. All information shall be kept confidential until the final report is issued pursuant to § 32-607.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-605_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing in this section authorizes the disclosure of any information if, or to the extent that, the disclosure would otherwise be prohibited by law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-605_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall provide administrative support, space, and other resources needed by the Commission.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

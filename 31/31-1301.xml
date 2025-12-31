@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1301">
+        <akn:num>31-1301</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-1301_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Ancillary state” means any state other than a domiciliary state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Creditor” is a person having any claim, whether matured or unmatured, liquidated or unliquidated, secured or unsecured, absolute, fixed, or contingent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Delinquency proceeding” means any proceeding instituted against an insurer for the purpose of liquidating, rehabilitating, reorganizing, or conserving the insurer, and any summary proceeding under § 31-1308.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Doing business” includes any of the following acts, whether effected by mail or otherwise:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Domiciliary state” means the state in which an insurer is incorporated or organized, or, in the case of an alien insurer, its state of entry.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Fair consideration” is given for property or obligation:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Foreign country” means any other jurisdiction not in any state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Formal delinquency proceeding” means any liquidation or rehabilitation proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“General assets” means all property, real, personal, or otherwise, not specifically mortgaged, pledged, deposited, or otherwise encumbered for the security or benefit of specified persons or classes of persons. As to specifically encumbered property, the term “general assets” includes all the property or its proceeds in excess of the amount necessary to discharge the sum or sums secured thereby. Assets held in trust and on deposit for the security or benefit of all policyholders or all policyholders and creditors, in more than a single state, shall be treated as general assets.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Guaranty association” means the District of Columbia Property and Casualty Insurance Guaranty Association, and any other similar entity now or hereafter created by the Council of the District of Columbia for the payment of claims of insolvent insurers. The term “foreign guaranty association” means any similar entities now in existence in or hereafter created by the legislature of any other state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“Insolvency” or “insolvent” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“Insurer” means any person who has done, purports to do, is doing, or is licensed to do an insurance business, and is or has been subject to the authority of, or to liquidation, rehabilitation, reorganization, supervision, or conservation by, any insurance superintendent or commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“Person” means corporations, partnerships, associations, trusts, and individual natural persons.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“Preferred claim” means any claim with respect to which the terms of this chapter accord priority of payment from the general assets of the insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_16">
+      <akn:num>(16)</akn:num>
+      <akn:content><akn:p>“Receiver” means receiver, liquidator, rehabilitator, or conservator as the context requires.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_17">
+      <akn:num>(17)</akn:num>
+      <akn:content><akn:p>“Reciprocal state” means any state other than the District in which in substance and effect §§ 31-1316(a), 31-1350, 31-1351, and 31-1353 through 31-1355 are in force, and in which provisions are in force requiring that the Commissioner or equivalent official be the receiver of a delinquent insurer, and in which fraudulent conveyances and preferential transfers by a delinquent insurer may be avoided.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_18">
+      <akn:num>(18)</akn:num>
+      <akn:content><akn:p>“Secured claim” means any claim secured by mortgage, trust deed, pledge, deposit as security, escrow, or otherwise, but not including special deposit claims or claims against general assets. The term “secured claim” also includes claims which have become liens upon specific assets by reason of judicial process.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_19">
+      <akn:num>(19)</akn:num>
+      <akn:content><akn:p>“Special deposit claim” means any claim secured by a deposit made pursuant to statute for the security or benefit of a limited class or classes of persons, but not including any claim secured by general assets.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_20">
+      <akn:num>(20)</akn:num>
+      <akn:content><akn:p>“State” means any state, district, or territory of the United States and the Panama Canal Zone.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_21">
+      <akn:num>(21)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1301_22">
+      <akn:num>(22)</akn:num>
+      <akn:content><akn:p>“Transfer” shall include the sale and every other and different mode, direct or indirect, of disposing of or parting with property or with an interest therein, or with the possession thereof or of fixing a lien upon property or upon an interest therein, absolutely or conditionally, voluntarily, by or without judicial proceedings. The retention of a security title to property delivered to a debtor shall be deemed a transfer suffered by the debtor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

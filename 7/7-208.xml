@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-208"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-208/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_208">
+        <akn:num>7-208</akn:num>
+        <akn:heading>Judicial procedure to establish facts of birth.</akn:heading>
+<akn:subsection eId="subsec_7-208_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a delayed certificate of birth is rejected under § 7-207, a complaint signed and sworn to by the petitioner may be filed with the Court for an order establishing a record of the date and place of the birth and the parentage of the person whose birth is to be registered. A complaint filed under this section shall be governed by the Rules of the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-208_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Such petition shall allege:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-208_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The petition shall be accompanied by a statement of the Registrar made in accordance with § 7-207 and all documentary evidence which was submitted to the Registrar in support of such registration.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-208_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Court shall issue an order to establish a certificate of birth if the Court finds, that the person for whom a delayed certificate of birth is sought was born in the District. The Court shall make findings as to the place and date of birth, parentage, and such other findings as may be required. The order shall include the birth data to be registered, a description of the evidence presented, and the date of the Court’s action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-208_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Court shall forward a certified copy of such order to the Registrar not later than the 10th day of the month following the month during which it was entered. The certified copy of the order shall cause the Registrar to execute a certificate of birth.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

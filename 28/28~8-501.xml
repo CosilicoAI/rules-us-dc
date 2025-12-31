@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_501">
+        <akn:num>28:8-501</akn:num>
+        <akn:heading>Securities account; acquisition of security entitlement from securities intermediary.</akn:heading>
+<akn:subsection eId="subsec_28:8-501_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this article, the term “securities account” means an account to which a financial asset is or may be credited in accordance with an agreement under which the person maintaining the account undertakes to treat the person for whom the account is maintained as entitled to exercise the rights that comprise the financial asset.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-501_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsections (d) and (e) of this section, a person acquires a security entitlement if a securities intermediary:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-501_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a condition of subsection (b) of this section has been met, a person has a security entitlement even though the securities intermediary does not itself hold the financial asset.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-501_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a securities intermediary holds a financial asset for another person, and the financial asset is registered in the name of, payable to the order of, or specially indorsed to the other person, and has not been indorsed to the securities intermediary or in blank, the other person is treated as holding the financial asset directly rather than as having a security entitlement with respect to the financial asset.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-501_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Issuance of a security is not establishment of a security entitlement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

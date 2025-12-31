@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-131"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-131/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_131">
+        <akn:num>7-131</akn:num>
+        <akn:heading>Regulations to prevent spread of communicable diseases.</akn:heading>
+<akn:subsection eId="subsec_7-131_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor may, upon the advice of the Director of the Department of Health and pursuant to subchapter I of Chapter 5 of Title 2, issue rules to prevent and control the spread of communicable diseases, environmentally or occupationally related diseases, and other diseases or medical conditions that the Director of the Department of Health has advised should be monitored for epidemiological or other public health reasons. These rules may include, but shall not necessarily be limited to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-131_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

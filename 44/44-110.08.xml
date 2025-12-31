@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-110.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-110.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_110_08">
+        <akn:num>44-110.08</akn:num>
+        <akn:heading>Bedrooms.</akn:heading>
+<akn:subsection eId="subsec_44-110_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An ALR located in an existing building shall ensure that bedrooms provide at least 70 square feet of habitable space for single occupancy resident units and 100 square feet of habitable space in double occupancy resident units. Each bedroom shall have adequate dresser and closet or wardrobe space for residents’ seasonal clothing and personal belongings. A secure storage space in a resident’s unit shall be made available if requested by the resident.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-110_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any ALR located in a building newly constructed or renovated after June 24, 2000 shall ensure that bedrooms provide at least 80 sq. ft. of habitable space for single occupancy and 120 sq. ft. of habitable space for double occupancy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-110_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An ALR shall ensure that each resident has an adult size bed with clean comfortable mattress and extra linens. Additional furnishings, such as night stand, desk, chair, mirror, waste basket, etc., shall be made available, subject to residents wishes and tastes. Beds in double occupancy bedrooms must be at least 3 feet apart. Residents may choose to provide their own furnishings after being made aware of the furnishings that the facility is required to provide. All furnishings must meet the Fire Safety Code and be maintained in good repair.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

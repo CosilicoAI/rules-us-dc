@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2151"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2151/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2151">
+        <akn:num>34-2151</akn:num>
+        <akn:heading>Lead Service Line Priority Replacement Assistance Fund.</akn:heading>
+<akn:subsection eId="subsec_34-2151_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established within the General Fund of the District of Columbia a nonlapsing Lead Service Line Priority Replacement Assistance Fund (“Fund”) to be administered by the Mayor, in consultation with the District of Columbia Water and Sewer Authority (“WASA”).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2151_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The purpose of the Fund shall be to provide grants to eligible District homeowners up to $2,500 to assist them in the replacement of the portion of their lead service line that is located on their private property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2151_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Payments to eligible homeowners are subject to appropriation and the availability of funds. This chapter does not establish a right to funds on the part of any person.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

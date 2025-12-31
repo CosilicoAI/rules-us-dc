@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-754.25"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-754.25/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_754_25">
+        <akn:num>4-754.25</akn:num>
+        <akn:heading>Additional standards for providers of transitional housing.</akn:heading>
+<akn:subsection eId="subsec_4-754_25_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Follow-up supportive services, for a minimum of 6 months, for clients who have transferred to permanent housing from their program, unless the client is receiving such supportive services from another provider;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-754_25_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>An apartment-style or group home housing accommodation; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-754_25_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Access to private space and personal time.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

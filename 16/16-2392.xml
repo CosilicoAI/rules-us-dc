@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2392"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2392/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2392">
+        <akn:num>16-2392</akn:num>
+        <akn:heading>Guardianship order; finality; appeals; transcripts.</akn:heading>
+<akn:subsection eId="subsec_16-2392_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every guardianship order shall be in writing and shall recite the findings upon which such order is based, including findings pertaining to the court’s jurisdiction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2392_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise expressly provided by law, in all hearings and cases tried before the court pursuant to this subchapter, the judgment of the court shall be final.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2392_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In all appeals from decisions of the court with respect to an order under this subchapter, the child shall be identified only by initials in all transcripts, briefs, and other papers filed, and all necessary steps, as prescribed by rule of the District of Columbia Court of Appeals, shall be taken to protect the identity of the child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2392_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon the filing of a motion and supporting affidavit stating that he or she is financially unable to purchase a transcript, a party who has filed notice of appeal or of interlocutory appeal of an order under this subchapter shall be furnished, at no cost or at such part of cost as he or she is able to pay, so much of the transcript as is necessary to prepare adequately and support the appeal.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2392_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An appeal does not operate to stay the order, judgment, or decree appealed from, but whenever the case is properly before the appellate court, that court, on application and hearing, may order otherwise if suitable provision is made in the order for the care and custody of the child.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

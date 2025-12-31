@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-308"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-308/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_308">
+        <akn:num>28:9-308</akn:num>
+        <akn:heading>When security interest or agricultural lien is perfected; continuity of perfection.</akn:heading>
+<akn:subsection eId="subsec_28:9-308_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this section and § 28:9-309, a security interest is perfected if it has attached and all of the applicable requirements for perfection in §§ 28:9-310 through 28:9-316 have been satisfied. A security interest is perfected when it attaches if the applicable requirements are satisfied before the security interest attaches.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-308_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An agricultural lien is perfected if it has become effective and all of the applicable requirements for perfection in § 28:9-310 have been satisfied. An agricultural lien is perfected when it becomes effective if the applicable requirements are satisfied before the agricultural lien becomes effective.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-308_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A security interest or agricultural lien is perfected continuously if it is originally perfected by one method under this article and is later perfected by another method under this article, without an intermediate period when it was unperfected.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-308_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Perfection of a security interest in collateral also perfects a security interest in a supporting obligation for the collateral.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-308_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Perfection of a security interest in a right to payment or performance also perfects a security interest in a security interest, mortgage, or other lien on personal or real property securing the right.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-308_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Perfection of a security interest in a securities account also perfects a security interest in the security entitlements carried in the securities account.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-308_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>Perfection of a security interest in a commodity account also perfects a security interest in the commodity contracts carried in the commodity account.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

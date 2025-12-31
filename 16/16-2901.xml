@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2901">
+        <akn:num>16-2901</akn:num>
+        <akn:heading>Parties; accounting by tenant in common.</akn:heading>
+<akn:subsection eId="subsec_16-2901_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Superior Court of the District of Columbia may decree a partition of lands, tenements, or hereditaments on the complaint of a tenant in common, claiming by descent or purchase, or of a joint tenant; or when it appears that the property can not be divided without loss or injury to the parties interested, the court may decree a sale thereof and a division of the money arising from the sale among the parties, according to their respective rights.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2901_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This section applies to cases where:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2901_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In a case of partition, when a tenant in common has received the rents and profits of the property to his own use, he may be required to account to his cotenants for their respective shares of the rents and profits. Amounts found to be due on the accounting may be charged against the share of the party owing them in the property, or its proceeds in case of sale.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2901_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This section does not affect sections 21-146 and 21-704 [repealed].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

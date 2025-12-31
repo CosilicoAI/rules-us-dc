@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-505"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-505/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_505">
+        <akn:num>2-505</akn:num>
+        <akn:heading>Public notice and participation in rulemaking; emergency rules.</akn:heading>
+<akn:subsection eId="subsec_2-505_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor and each independent agency shall, prior to the adoption of any rule or the amendment or repeal thereof, publish in the District of Columbia Register (unless all persons subject thereto are named and either personally served or otherwise have actual notice thereof in accordance with law) notice of the intended action so as to afford interested persons opportunity to submit data and views either orally or in writing, as may be specified in such notice. The notice shall also contain a citation to the legal authority under which the rule is being proposed. The publication or service required by this subsection of any notice shall be made not less than 30 days prior to the effective date of the proposed adoption, amendment, or repeal, as the case may be, except as otherwise provided by the Mayor or the agency upon good cause found and published with the notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-505_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any interested person may petition the Mayor or an independent agency requesting the promulgation, amendment, or repeal of any rule. The Mayor and each independent agency shall prescribe by rule the form for such petitions, and the procedure for their submission, consideration, and disposition. Nothing in this subchapter shall make it mandatory that the Mayor or any agency promulgate, amend, or repeal any rule pursuant to a petition therefor submitted in accordance with this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-505_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this section, if, in an emergency, as determined by the Mayor or an independent agency, the adoption of a rule is necessary for the immediate preservation of the public peace, health, safety, welfare, or morals, the Mayor or such independent agency may adopt such rules as may be necessary in the circumstances, and such rule may become effective immediately. Any such emergency rule shall forthwith be published and filed in the manner prescribed in subchapter III of this chapter. No such rule shall remain in effect longer than 120 days after the date of its adoption.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

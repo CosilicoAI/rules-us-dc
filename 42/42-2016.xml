@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2016"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2016/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2016">
+        <akn:num>42-2016</akn:num>
+        <akn:heading>Common profits and expenses; taxation; proportional contributions for administration and maintenance mandatory; determination of amount due and assessment of lien.</akn:heading>
+<akn:subsection eId="subsec_42-2016_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The common profits of the property shall be distributed among and the common expenses shall be charged to the unit owners according to the percentages established by § 42-2006; provided, that for purposes of the application of subchapter II of Chapter 18 of Title 47, the council of co-owners shall, in accordance, with the provisions of said subchapter, be regarded as constituting an unincorporated business and shall file returns and pay taxes upon the taxable income derived from the common areas without regard to the “common profits” as defined in this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2016_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All co-owners are bound to contribute in accordance with the said percentages toward the expenses of administration and of maintenance and repairs of the general common elements, and, in proper case, of the limited common elements of the project and toward any other expenses lawfully agreed upon by the council of co-owners.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2016_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No owner shall be exempt from contributing toward such common expenses by waiver of the use or enjoyment of the common elements both general and limited, or by the abandonment of the condominium unit belonging to him.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2016_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Said contribution may be determined, levied, and assessed as a lien on the first day of each calendar or fiscal year, and may become and be due and payable in such installments as the bylaws may provide, and said bylaws may further provide that upon default in the payment of any 1 or more of such installments, the balance of said lien may be accelerated at the option of the manager, board of directors, or of management and be declared due and payable in full.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

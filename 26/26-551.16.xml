@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-551.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-551.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_551_16">
+        <akn:num>26-551.16</akn:num>
+        <akn:heading>Cease and desist order.</akn:heading>
+<akn:subsection eId="subsec_26-551_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commissioner may issue and serve upon the financial institution or its affiliate or subsidiary a final cease and desist order if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-551_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A final cease and desist order may require that a financial institution or a director, officer, trustee, employee, agent, affiliate, or subsidiary of the financial institution:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-551_16_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A final cease and desist order shall become effective 30 days after the service of the order upon the financial institution or its affiliate or subsidiary; provided, that a final cease and desist order which has been issued upon the consent of the Commissioner and a financial institution or other parties shall become effective upon the date specified in the consent order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-551_16_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A final cease and desist order shall remain in effect until it is stayed, modified, terminated, or set aside by the Commissioner or a court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-551_16_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>In addition to, or instead of, issuing a final cease and desist order, the Commissioner may enter into an informal enforcement action, such as a supervisory agreement or memorandum of understanding, with the financial institution.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

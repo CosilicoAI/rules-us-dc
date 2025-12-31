@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1372.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1372.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1372_06">
+        <akn:num>31-1372.06</akn:num>
+        <akn:heading>Tangible personal property under lease.</akn:heading>
+<akn:subsection eId="subsec_31-1372_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1372_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The insurer shall compute the amount of each investment under this section on the basis of the cash purchase price and applicable related expenses paid by the insurer for the investment, net of each borrowing made to finance the purchase price and expenses to the extent the borrowing is nonrecourse to the insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1372_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An insurer shall not acquire an investment under this section if, as a result of and after giving effect to the investment, the aggregate amount of all investments held by the insurer under this section would exceed:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1372_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For purposes of determining compliance with the limitations of § 31-1372.02:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1372_06_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>This section shall not be applicable to a lease of tangible personal property between an insurer and its subsidiaries or affiliates under a cost sharing arrangement or agreement permitted under subchapter I of Chapter 7 of Title 31.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

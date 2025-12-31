@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1107"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1107/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1107">
+        <akn:num>29-1107</akn:num>
+        <akn:heading>Statement of authority as to real property.</akn:heading>
+<akn:subsection eId="subsec_29-1107_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “statement of authority” means a statement authorizing a person to transfer an interest in real property held in the name of an unincorporated nonprofit association.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1107_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An interest in real property held in the name of an unincorporated nonprofit association may be transferred by a person authorized to do so in a statement of authority filed by the association with the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1107_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A statement of authority shall set forth:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1107_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A statement of authority shall be executed in the same manner as a deed by a person other than the person authorized in the statement to transfer the interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1107_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A document effecting an amendment, revocation, or cancellation of a statement of authority, or stating that the statement is unauthorized or erroneous, shall meet the requirements for execution and filing of an original statement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1107_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Unless canceled earlier, a filed statement of authority and its most recent amendment shall expire 5 years after the date of the most recent filing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1107_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>If the record title to real property is in the name of an unincorporated nonprofit association and the statement of authority is delivered to the Mayor for filing, the authority of the person named in the statement to transfer shall be conclusive in favor of a person that gives value without notice that the person lacks authority.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

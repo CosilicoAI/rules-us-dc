@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-502"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-502/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_502">
+        <akn:num>8-502</akn:num>
+        <akn:heading>Unlawful acts.</akn:heading>
+<akn:subsection eId="subsec_8-502_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Who is a manufacturer or renovator of, or dealer in, mattresses shall sell, exchange, give away, or offer or have in his possession for sale, exchange, or gift, any mattress which bears any false or misleading label, statement, design, or device, in respect of its material or processes of manufacture or renovation, or which is not labeled as provided in § 8-503;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-502_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Who is a renovator of mattresses shall use in whole or in part, in the renovation of any mattress, material which has formed part of any mattress theretofore used in or about any sanitarium or hospital, or used by any individual having an infectious or contagious disease;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-502_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Who is a manufacturer of mattresses shall use in whole or in part any secondhand material in the manufacture of mattresses sold, exchanged, or given away, or to be offered for sale, exchange, or gift, as new mattresses;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-502_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Shall knowingly sell, exchange, give away, or offer or have in his possession for sale, exchange, or gift:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-502_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Who is a manufacturer or renovator of, or a dealer in, mattresses, shall remove, conceal, or deface, or cause or permit to be removed, concealed, or defaced, any label placed, in accordance with the provisions of this chapter, upon any mattress.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

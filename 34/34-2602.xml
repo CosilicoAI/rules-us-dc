@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2602"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2602/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2602">
+        <akn:num>34-2602</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_34-2602_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Action” means any project or activity proposed by a public utility that, if implemented, would be likely to have a significant effect on the quality of the environment. The term “action” shall include a new and continuing project or activity that is directly undertaken by a public utility or its agent or subsidiary, that would require the issuance of a lease, permit, license, certificate, or other entitlement for use or permission to act by the Commission. The term “action” shall not include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2602_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Environment” means the physical conditions that will be affected by a proposed action, including the land, air, water, minerals, flora, fauna, objects of historic, health, or aesthetic significance, existing patterns of population concentration, distribution, or growth, and existing community or neighborhood characteristics, including traffic patterns and noise levels.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

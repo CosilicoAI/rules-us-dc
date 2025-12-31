@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2434"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2434/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2434">
+        <akn:num>42-2434</akn:num>
+        <akn:heading>Private actions.</akn:heading>
+<akn:subsection eId="subsec_42-2434_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In addition to any action by the Attorney General authorized under this chapter and any other action otherwise authorized by law, a homeowner may bring an action for damages incurred, or equitable relief, as the result of a practice prohibited by this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2434_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A homeowner who brings an action under this chapter and who is awarded damages or equitable relief may also be awarded reasonable attorney’s fees and costs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2434_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A violation of this chapter shall be a violation of Chapter 39 of Title 28 and all remedies of the chapter shall be available for such action. A private cause of action under the chapter is in the public interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2434_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The remedies provided in this section are cumulative and do not restrict any remedy that is otherwise available.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

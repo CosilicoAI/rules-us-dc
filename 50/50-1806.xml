@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1806"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1806/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1806">
+        <akn:num>50-1806</akn:num>
+        <akn:heading>Enforcement of chapter.</akn:heading>
+<akn:subsection eId="subsec_50-1806_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There shall not be penalties for violating the Mandatory Use of Seat Belts Amendment Act of 1996 during the first 6 months after December 12, 1985. Instead, the Mayor of the District of Columbia shall issue warnings to drivers and passengers who violate the Mandatory Use of Seat Belts Amendment Act of 1996 during those 6 months.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1806_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1806_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1806_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Department of Motor Vehicles shall assign points, pursuant to 18 DCMR § 303, to the record of a driver found in violation of this chapter as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1806_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Violations of this chapter shall be civil infractions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1806_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The driver of the vehicle, except operators of passenger vehicles for hire, shall be responsible for ensuring that passengers comply with this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

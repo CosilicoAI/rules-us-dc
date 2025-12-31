@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4407"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4407/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4407">
+        <akn:num>16-4407</akn:num>
+        <akn:heading>Motion to compel or stay arbitration.</akn:heading>
+<akn:subsection eId="subsec_16-4407_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>On motion of a person showing an agreement to arbitrate and alleging another person’s refusal to arbitrate pursuant to the agreement:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4407_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>On motion of a person alleging that an arbitration proceeding has been initiated or threatened but that there is no agreement to arbitrate, the court shall proceed summarily to decide the issue. If the court finds that there is an enforceable agreement to arbitrate, it shall order the parties to arbitrate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4407_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the court finds that there is no enforceable agreement, it may not, pursuant to subsection (a) or (b) of this section, order the parties to arbitrate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4407_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The court may not refuse to order arbitration because the claim subject to arbitration lacks merit or grounds for the claim have not been established.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4407_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a party makes a motion to the court to order arbitration, the court, on just terms, shall stay any judicial proceeding that involves a claim alleged to be subject to the arbitration until the court renders a final decision under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4407_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>If the court orders arbitration, the court, on just terms, shall stay any judicial proceeding that involves a claim subject to the arbitration. If a claim subject to the arbitration is severable, the court may limit the stay to that claim.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

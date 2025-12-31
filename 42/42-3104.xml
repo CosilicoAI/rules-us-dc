@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3104">
+        <akn:num>42-3104</akn:num>
+        <akn:heading>Preliminary injunction.</akn:heading>
+<akn:subsection eId="subsec_42-3104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon the filing of a complaint to abate the drug-, firearm-, or prostitution-related nuisance, the court shall hold a hearing on the motion for a preliminary injunction, within 10 business days of the filing of such action. If it appears, by affidavit or otherwise, that there is a substantial likelihood that the plaintiff will be able to prove at trial that a drug-, firearm-, or prostitution-related nuisance exists, the court may enter an order preliminarily enjoining the drug-, firearm-, or prostitution-related nuisance and granting such other relief as the court may deem appropriate, including those remedies provided in § 42-3110. A plaintiff need not prove irreparable harm to obtain a preliminary injunction. Where appropriate, the court may order a trial of the action on the merits to be advanced and consolidated with the hearing on the motion for preliminary injunction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This section shall not be construed to prohibit the application for or the granting of a temporary restraining order, or other equitable relief otherwise provided by law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

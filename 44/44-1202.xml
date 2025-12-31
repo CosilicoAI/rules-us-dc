@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1202"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1202/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1202">
+        <akn:num>44-1202</akn:num>
+        <akn:heading>Eligibility for treatment for substance abuse.</akn:heading>
+<akn:subsection eId="subsec_44-1202_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each District resident who meets the requirements of this section shall be eligible for treatment for substance abuse at the treatment facility, regardless of his or her ability to pay, subject to the restriction in § 44-1208, if the resident:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1202_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any minor, pregnant woman, or the parent, guardian, or other person who has legal custody of a minor and who meets the requirements of this section shall have priority for admission to the treatment facility over any single adult who does not have a minor child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1202_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The determination of an individual’s need for treatment may be made by a qualified health professional on duty at the treatment facility or by any other qualified health professional who has examined the individual prior to the individual’s application or referral for admission.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

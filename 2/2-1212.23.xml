@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1212.23"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1212.23/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1212_23">
+        <akn:num>2-1212.23</akn:num>
+        <akn:heading>Grocery ambassador program.</akn:heading>
+<akn:subsection eId="subsec_2-1212_23_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Providing research and data on eligible areas with insufficient grocery access;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1212_23_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Coordinating with all relevant District agencies and public utilities;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1212_23_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Providing assistance in obtaining and expediting regulatory procedures and approvals; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1212_23_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Providing other assistance as needed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

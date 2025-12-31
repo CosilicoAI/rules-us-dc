@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1401.24"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1401.24/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1401_24">
+        <akn:num>26-1401.24</akn:num>
+        <akn:heading>Conservator; rights, powers, and privileges.</akn:heading>
+<akn:subsection eId="subsec_26-1401_24_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to the supervision of the Commissioner, the conservator shall take possession of the books, records, and assets of the bank and shall take any action necessary to conserve the assets of the universal bank pending further disposition of the business of the universal bank as provided by law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1401_24_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to Superior Court approval and under the supervision of the Commissioner, the conservator shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1401_24_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to Superior Court approval and under the supervision of the Commissioner the conservator may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1401_24_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Unless otherwise provided by law, a conservator, other than a conservator who is an employee of the Department and acting in his or her official capacity, shall post a bond in an amount to be determined by the Superior Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1401_24_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The conservator shall, on a regular basis, report to the Commissioner regarding all matters involving the conservatorship.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

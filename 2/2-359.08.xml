@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-359.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-359.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_359_08">
+        <akn:num>2-359.08</akn:num>
+        <akn:heading>Claims by contractors against the District government.</akn:heading>
+<akn:subsection eId="subsec_2-359_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All claims by a contractor against the District government arising under or relating to a contract shall be in writing and shall be submitted to the contracting officer for a decision.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-359_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 120 days after receipt of a claim, the contracting officer shall issue a decision, whenever possible taking into account factors such as the size and complexity of the claim and the adequacy of the information in support of the claim provided by the contractor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-359_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any failure by the contracting officer to issue a decision on a contract claim within the required time period shall be deemed to be a denial of the claim and shall authorize the commencement of an appeal on the claim as otherwise provided in this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-359_08_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

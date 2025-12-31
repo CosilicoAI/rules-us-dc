@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4702"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4702/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4702">
+        <akn:num>16-4702</akn:num>
+        <akn:heading>Compelled disclosure prohibited.</akn:heading>
+<akn:subsection eId="subsec_16-4702_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The source of any news or information procured by the person while employed by the news media and acting in an official news gathering capacity, whether or not the source has been promised confidentiality; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4702_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Any news or information procured by the person while employed by the news media in the course of pursuing professional activities that is not itself communicated in the news media, including any:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

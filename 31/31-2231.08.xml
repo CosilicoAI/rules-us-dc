@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2231.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2231.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2231_08">
+        <akn:num>31-2231.08</akn:num>
+        <akn:heading>False statements and entries.</akn:heading>
+<akn:subsection eId="subsec_31-2231_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person shall knowingly file with an insurance regulatory or other public official, knowingly make, publish, disseminate, circulate, or deliver to a person, or place before the public, or knowingly cause directly or indirectly to be made, published, disseminated, circulated, delivered to a person, or placed before the public, a false material statement of fact as to the financial condition of an insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person shall knowingly:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

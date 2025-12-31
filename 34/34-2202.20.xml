@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2202.20"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2202.20/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2202_20">
+        <akn:num>34-2202.20</akn:num>
+        <akn:heading>No inurement to private persons; exemption from District taxation.</akn:heading>
+<akn:subsection eId="subsec_34-2202_20_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All rights, property and assets of the Authority shall transfer automatically to the District government upon dissolution of the Authority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2202_20_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>None of the property, assets or earnings of the Authority shall inure to any private person or entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2202_20_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Authority, its income, property, and transactions shall be exempt from District taxes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

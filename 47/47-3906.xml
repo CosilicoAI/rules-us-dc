@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3906"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3906/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_3906">
+        <akn:num>47-3906</akn:num>
+        <akn:heading>Alternate method of reporting.</akn:heading>
+<akn:subsection eId="subsec_47-3906_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A taxpayer subject to the provisions of § 47-3902 may be allowed an alternate method of reporting its monthly gross charges subject to the tax under this chapter upon showing to the satisfaction of the Mayor, within 90 days from the effective date of this act or 30 days from the first day a toll or wireless telecommunication company begins offering a new toll or wireless telecommunication service in the District, that it does not have the capability to identify the gross charges from the sale of District-based wireless telecommunication, or it is unable to identify the jurisdiction of origination or termination of a particular toll telecommunication service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3906_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The showing shall be made by a petition to the Mayor which shall include the factual basis for the inability of the taxpayer to identify the charges, with supporting documentation, and an alternate method of reporting the charges that the taxpayer believes is reasonable and equitable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3906_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may employ a reasonable and equitable alternate method for reporting the gross charges of the taxpayer based on information submitted pursuant to this chapter or based on any other information made available to the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1744"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1744/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1744">
+        <akn:num>11-1744</akn:num>
+        <akn:heading>Information and liaison services.</akn:heading>
+<akn:subsection eId="subsec_11-1744_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>collecting and compiling statistical information with respect to the volume and disposition of the work of the courts and the personnel of the courts;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1744_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>printing and the distribution of court rules;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1744_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>keeping the courts advised of pending legislative and executive actions relating to the courts;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1744_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>serving as the public information officer of the courts; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1744_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>performing such other duties as may be assigned to the Executive Officer by the Joint Committee and the chief judges in their respective courts.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

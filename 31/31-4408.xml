@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4408"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4408/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4408">
+        <akn:num>31-4408</akn:num>
+        <akn:heading>Minimum capital and surplus requirements.</akn:heading>
+<akn:subsection eId="subsec_31-4408_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A domestic capital-stock company organized under this subdivision shall have a paid-up capital stock of not less than $1,000,000. Each domestic capital-stock company organized under this subdivision, in addition to the paid-up capital stock, shall have a surplus paid-up equal to at least 50% of such capital stock. Each domestic mutual company organized or doing business under this subdivision shall at all times have a surplus as defined by this subdivision of not less than $1,500,000.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4408_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No company shall be exempt from the provisions of this section by reason of its having been incorporated in the District or elsewhere prior to the effective date of this subsection or subsequent amendment, except that in the case of companies authorized in the District of Columbia on August 31, 1964, and continuously authorized thereafter without any increase or broadening of authority, the minimum capital required of a stock company, or the minimum surplus required of a mutual company, shall not be increased by this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

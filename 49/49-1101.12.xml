@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/49-1101.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/49-1101.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_49_1101_12">
+        <akn:num>49-1101.12</akn:num>
+        <akn:heading>Rulemaking functions of the Interstate Commission.</akn:heading>
+<akn:subsection eId="subsec_49-1101_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Interstate Commission shall promulgate reasonable rules to effectively and efficiently achieve the purposes of this compact. Notwithstanding the foregoing, if the Interstate Commission exercises its rulemaking authority in a manner that is beyond the scope of the purposes of this chapter or the powers granted pursuant to this chapter, then such exercise by the Interstate Commission shall be invalid and have no force or effect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-1101_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Rules shall be made pursuant to a rulemaking process that substantially conforms to the Model State Administrative Procedure Act (1981), Uniform Laws Annotated, Vol. 15, p.1 (2000), as amended, as may be appropriate to the operations of the Interstate Commission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-1101_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Not later than 30 days after a rule is promulgated, any person may file a petition for judicial review of the rule; provided, that the filing of such a petition shall not stay or otherwise prevent the rule from becoming effective unless the court finds that the petitioner has a substantial likelihood of success. The court shall give deference to the actions of the Interstate Commission consistent with applicable law and shall not find the rule to be unlawful if the rule represents a reasonable exercise of the Interstate Commission’s authority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-1101_12_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a majority of the legislatures of the compacting states rejects a rule by enactment of a statute or resolution in the same manner used to adopt the compact, then such rule shall have no further force and effect in any compacting state.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.80"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.80/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_306_80">
+        <akn:num>29-306.80</akn:num>
+        <akn:heading>Business opportunities.</akn:heading>
+<akn:subsection eId="subsec_29-306_80_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A director’s taking advantage, directly or indirectly, of a business opportunity shall not be the subject of equitable relief, or give rise to an award of damages or other sanctions against the director, in a proceeding by or in the right of the corporation on the ground that the opportunity should have first been offered to the corporation, if, before becoming legally obligated respecting the opportunity, the director brings it, to the attention of the corporation and:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_80_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In any proceeding seeking equitable relief or other remedies based upon an alleged improper taking advantage of a business opportunity by a director, the fact that the director did not employ the procedure described in subsection (a) of this section before taking advantage of the opportunity shall not create an inference that the opportunity should have been first presented to the corporation or alter the burden of proof otherwise applicable to establish that the director breached a duty to the corporation in the circumstances.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

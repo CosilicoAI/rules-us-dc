@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-527"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-527/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_527">
+        <akn:num>16-527</akn:num>
+        <akn:heading>Judgment in case of undertaking for retention of property or credits.</akn:heading>
+<akn:subsection eId="subsec_16-527_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When property or credits attached are released upon an undertaking given as provided by sections 16-509 and 16-510, and judgment in the action is rendered in favor of the plaintiff, it is a joint judgment against both the defendant and all persons in the undertaking for the appraised value of the property or the amount of the credits.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-527_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When the property attached has been delivered to or retained by a garnishee, upon his executing an undertaking as provided by section 16-509, judgment of condemnation of the property shall be rendered as provided by section 16-525, and judgment shall also be entered that the plaintiff recover from the garnishee and his surety or sureties the value of the property, not exceeding the plaintiff’s claim, the judgment to be entered satisfied if the property is forthcoming and delivered to the marshal, undiminished in value, within ten days after the judgment; otherwise, execution thereon may be had against the garnishee and his surety or sureties; and if the property is so delivered to the marshal the same shall be sold by him under fieri facias to satisfy the judgment of condemnation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

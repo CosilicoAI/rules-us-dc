@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1202.23a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1202.23a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1202_23a">
+        <akn:num>10-1202.23a</akn:num>
+        <akn:heading>Use of new convention center vault space.</akn:heading>
+<akn:subsection eId="subsec_10-1202_23a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, with respect to the airspace located below the portion of N Street, N.W., between 7th and 9th Streets, N.W., the portion of 9th Street, N.W., between and including N Street, N.W., and Massachusetts Avenue, N.W., and the adjoining sidewalks abutting the new convention center in which the Authority was permitted to construct, and has constructed, a portion of the new convention center, including loading docks, access ramps, and associated driveways, the Authority may enter into one or more agreements with Marriott International, Inc., or its designee, to permit Marriott International, Inc., or its designee to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1202_23a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The agreement regarding the pedestrian connector authorized under subsection (a) of this section may provide that Marriott International, Inc., or its designee, shall be responsible for the operation and maintenance of the pedestrian connector and, if so provided, that the Authority shall pay 50% of the costs to operate and maintain the pedestrian connector.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

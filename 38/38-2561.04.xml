@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2561.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2561.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2561_04">
+        <akn:num>38-2561.04</akn:num>
+        <akn:heading>Funding of a placement of a student with disabilities in a nonpublic special education school or program made by other District of Columbia government agencies.</akn:heading>
+<akn:subsection eId="subsec_38-2561_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If another District of Columbia government agency places a student with a disability in a nonpublic special education school or program, the SEA shall fund the placement unless and until the other agency agrees to fund the placement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2561_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The District of Columbia shall comply with section 612(a)(12) of the IDEA [20 U.S.C. § 1412(a)(12)] and 34 C.F.R. § 300.154 by developing appropriate mechanisms for interagency coordination between the SEA and other District government agencies to ensure that all necessary services are provided and funded by the appropriate agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2561_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed as removing the SEA’s liability for providing and paying for special education and related services if another public agency fails to provide or pay for them.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

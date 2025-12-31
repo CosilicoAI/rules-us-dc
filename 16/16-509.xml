@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-509"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-509/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_509">
+        <akn:num>16-509</akn:num>
+        <akn:heading>Attachment of personal property; undertaking by defendant or person in possession.</akn:heading>
+<akn:subsection eId="subsec_16-509_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An attachment shall be levied upon personal chattels by the officer taking them into his possession and custody, unless the defendant gives the officer his undertaking to be filed in the cause, with sufficient security, substantially in the form set forth in subsection (b) of this section, or unless the person in whose possession the property is attached gives the officer his undertaking to be filed in the cause substantially in the form set forth in subsection (c) of this section. In cases where such undertakings are given, the attachment is sufficiently levied by the taking of the undertaking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-509_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An undertaking by the defendant shall contain the substance of the following form:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

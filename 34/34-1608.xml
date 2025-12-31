@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1608"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1608/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1608">
+        <akn:num>34-1608</akn:num>
+        <akn:heading>Maximum rates for gas; additional charge for nonpayment of bills.</akn:heading>
+<akn:subsection eId="subsec_34-1608_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No part of any money appropriated by any act shall be used for the payment to the Washington Gas Light Company or the Georgetown Gas Light Company for any gas furnished by said companies for use in any of the public buildings of the United States or the District of Columbia at a rate in excess of $.70 per 1,000 cubic feet.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1608_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Washington Gas Light Company shall not charge or collect for gas furnished a private consumer in any part of the District of Columbia a rate in excess of $.75 per 1,000 cubic feet of gas so furnished; provided, that if a consumer of gas other than the government or the District of Columbia shall not pay monthly any gas bill within 10 days after the same shall have been presented said gas company may charge and collect from any such consumer so failing to pay said gas bill as aforesaid $.10 additional for each 1,000 cubic feet of gas presented by said bill; and provided further, that nothing contained in this section shall be construed as limiting or taking away any of the powers vested by law in the Public Service Commission of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1608_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Georgetown Gas Light Company shall not be permitted to charge or collect more than $.85 per 1,000 cubic feet for gas for cooking, illuminating, or other purposes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

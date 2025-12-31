@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-206"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-206/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_206">
+        <akn:num>28:3-206</akn:num>
+        <akn:heading>Restrictive indorsement.</akn:heading>
+<akn:subsection eId="subsec_28:3-206_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An indorsement limiting payment to a particular person or otherwise prohibiting further transfer or negotiation of the instrument is not effective to prevent further transfer or negotiation of the instrument.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-206_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An indorsement stating a condition to the right of the indorsee to receive payment does not affect the right of the indorsee to enforce the instrument. A person paying the instrument or taking it for value or collection may disregard the condition, and the rights and liabilities of that person are not affected by whether the condition has been fulfilled.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-206_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an instrument bears an indorsement (i) described in section 28:4-201(b), or (ii) in blank or to a particular bank using the words “for deposit”, “for collection”, or other words indicating a purpose of having the instrument collected by a bank for the indorser or for a particular account, the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-206_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except for an indorsement covered by subsection (c) of this section, if an instrument bears an indorsement using words to the effect that payment is to be made to the indorsee as agent, trustee, or other fiduciary for the benefit of the indorser or another person, the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-206_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The presence on an instrument of an indorsement to which this section applies does not prevent a purchaser of the instrument from becoming a holder in due course of the instrument unless the purchaser is a converter under subsection (c) of this section or has notice or knowledge of breach of fiduciary duty as stated in subsection (d) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-206_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>In an action to enforce the obligation of a party to pay the instrument, the obligor has a defense if payment would violate an indorsement to which this section applies and the payment is not permitted by this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

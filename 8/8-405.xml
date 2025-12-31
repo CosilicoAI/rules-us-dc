@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-405"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-405/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_405">
+        <akn:num>8-405</akn:num>
+        <akn:heading>Pesticide dealers.</akn:heading>
+<akn:subsection eId="subsec_8-405_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person shall act in the capacity of, or advertise as, or assume to act as a pesticide dealer at any time unless he is licensed by the Mayor in accordance with this subchapter and the rules and regulations promulgated pursuant thereto.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-405_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-405_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A pesticide dealer shall be responsible for the acts of each of his employees in the solicitation and sale of restricted use pesticides, and for all claims and recommendations for the use of restricted use pesticides.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-405_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The provisions of this section shall not apply to a licensed pesticide operator who sells restricted use pesticides only as an integral part of his pesticide application service, or to any District or other governmental agency which provides pesticides only for its own programs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

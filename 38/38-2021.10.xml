@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2021.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2021.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2021_10">
+        <akn:num>38-2021.10</akn:num>
+        <akn:heading>Payment of beneficiaries.</akn:heading>
+<akn:subsection eId="subsec_38-2021_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Under regulations prescribed by the District of Columbia Retirement Board, a present or former teacher may designate a beneficiary or beneficiaries for the purpose of this part.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2021_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2021_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If: (1) a teacher dies: (A) without a survivor; or (B) with a survivor or survivors and the right of all survivors terminates before a claim for survivor annuity is filed; or (2) a former teacher not retired dies, the lump-sum credit shall be paid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2021_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If all annuity rights under this part based on the service of a deceased teacher terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2021_10_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If an annuitant dies, any annuity accrued and unpaid shall be paid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2021_10_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>For purposes of this section, the term “lump-sum credit” means the unrefunded amount consisting of:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

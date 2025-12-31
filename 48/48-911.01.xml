@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-911.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-911.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_911_01">
+        <akn:num>48-911.01</akn:num>
+        <akn:heading>Consumption of marijuana in public space prohibited; impairment prohibited.</akn:heading>
+<akn:subsection eId="subsec_48-911_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other District law, it is unlawful for any person to smoke or otherwise consume marijuana in or upon a public space, or in or upon any of the following places:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-911_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person, whether in or on public or someone else’s private property, shall be impaired due to smoking or otherwise consuming marijuana and endanger the safety of himself, herself, or any other person or property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-911_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any person violating the provisions of subsection (a) or (b) of this section shall be guilty of a misdemeanor and, upon conviction, shall be punished by a fine of not more than the amount set forth in § 22-3571.01 or imprisoned for not more than 60 days.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-911_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Attorney General for the District of Columbia, or his or her assistants, shall prosecute violations of this section, in the name of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-911_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “smoke” means to inhale, ingest, or otherwise introduce marijuana into the human body, or to hold or carry a lighted roll of paper or other lighted smoking equipment filled with marijuana.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

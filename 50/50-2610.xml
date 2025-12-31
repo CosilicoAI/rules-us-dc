@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2610"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2610/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2610">
+        <akn:num>50-2610</akn:num>
+        <akn:heading>Rulemaking; Council review for 18 DCMR § 2407.</akn:heading>
+<akn:subsection eId="subsec_50-2610_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor is authorized to make fee increases and to promulgate rules necessary to implement section 2407 of Title 18 of the District of Columbia Municipal Regulations (18 DCMR § 2407), entitled Temporary and Emergency Parking Restrictions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2610_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any proposed fee increases, rules, or regulations shall be submitted by the Mayor to the Council in a proposed resolution for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed resolution within this 45-day period, the proposed resolution shall be deemed approved.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2501">
+        <akn:num>42-2501</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_42-2501_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Agency” means the District of Columbia Housing Finance Agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2501_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Agreement” means the housing allowance agreement required, pursuant to § 42-2504, to be entered into between a Participant and the District of Columbia government.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2501_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Deferred payment loan” means funds made available to Participants in the Program by the District to assist with the purchase of housing units and for which payment of the principal is deferred until the property is sold, transferred, or otherwise ceases to be the principal residence of the Participant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2501_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Department” means the District of Columbia Department of Housing and Community Development.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2501_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“First-time homebuyer” means a purchaser who has no ownership interest in a principal residence at any time during the 3-year period ending on the date of the application for assistance, but includes an applicant who has divorced or separated during the 3-year period where a formal settlement did not convey an ownership interest in a principal residence which had been jointly owned.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2501_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Household” means all of the persons living in a housing unit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2501_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Housing unit” means any room or group of rooms forming a single-family residential unit, including a semi-detached condominium, cooperative, or semi-detached or detached home that is used or intended to be used for living, sleeping, and the preparation and eating of meals by human occupants.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2501_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Matching contribution” means those funds made available to Participants in the Program by the District to assist the Participants in saving toward a down payment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2501_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Participant” means a person who has applied to the Program and who has met the eligibility requirements set forth in § 42-2503.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2501_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Program” means the District of Columbia Government Employer-Assisted Housing Program established pursuant to § 42-2502.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

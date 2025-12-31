@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1226.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1226.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1226_03">
+        <akn:num>2-1226.03</akn:num>
+        <akn:heading>Workforce intermediary.</akn:heading>
+<akn:subsection eId="subsec_2-1226_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall use a workforce intermediary as the primary means of meeting the hiring requirements of § 2-1226.02(a)(2).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1226_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1226_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “workforce intermediary” means an entity established or chosen by the Mayor, or the former AWC, that is modeled on similar, successful entities in other cities and is designed to meet the hiring goals of § 2-1226.02(a)(2) by coordinating the needs and capacities of businesses that are creating new jobs in the Anacostia Waterfront Development Zone, workforce development organizations that serve residents of the District, and residents of the District who are seeking jobs in the Anacostia Waterfront Development Zone.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

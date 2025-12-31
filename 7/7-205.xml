@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-205"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-205/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_205">
+        <akn:num>7-205</akn:num>
+        <akn:heading>Birth registration.</akn:heading>
+<akn:subsection eId="subsec_7-205_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A certificate of birth for each live birth which occurs in the District shall be filed as directed by the Registrar, within 5 days after such birth, and shall be registered if it has been completed and filed in accordance with this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-205_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When a birth occurs in or en route to an institution the person in charge of the institution or his or her designee shall collect the personal data, prepare the certificate, secure the signatures required, and file the certificate. The physician or other person in attendance at or immediately after the birth shall provide the medical information required in the certificate and certify to the facts of birth within 72 hours after the birth. If the physician, or other person in attendance at or immediately after the birth, does not certify to the facts of birth within the 72-hour period, the person in charge of the institution or his or her designee shall certify to the facts of birth and complete the certificate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-205_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When a birth occurs outside an institution, the certificate shall be prepared and filed by one of the following persons in the indicated order of priority:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-205_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When a birth occurs on a moving conveyance within the United States and the child is first removed from the conveyance in the District, the birth shall be registered in the District, and the place where it is first removed shall be considered the place of birth. When a birth occurs on a moving conveyance while in international waters, air space, in a foreign country or its air space,  and the child is first removed from the conveyance in the District, the birth shall be registered in the District, but the certificate shall show the actual place of birth insofar as can be determined.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-205_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For the purposes of preparation and filing a birth certificate the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-205_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

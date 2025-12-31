@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-409"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-409/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_409">
+        <akn:num>8-409</akn:num>
+        <akn:heading>Records and reports.</akn:heading>
+<akn:subsection eId="subsec_8-409_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Commercial applicators and pesticide operators shall maintain records containing the information the Mayor may promulgate by regulation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-409_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Pesticide dealers shall maintain records containing such information as the Mayor shall promulgate by regulation to adequately identify purchases of restricted use pesticides and the materials purchased.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-409_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may, pursuant to regulations promulgated by him, require private applicators to maintain records or file reports or other documents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-409_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Each person shall upon written request furnish the Mayor with copies of any requested records or any other information requested by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-409_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The records required to be maintained by subsections (a), (b), and (c) shall be subject to inspection by the Mayor at any time during business hours. The applicator or operator who prepared them shall transfer to the Mayor as required by appropriate regulations all such records which were prepared during that period which is determined by the regulations, and the Mayor shall preserve them for not less than ten (10) years. Should any such applicator or operator go out of business all such records in his or her possession shall immediately be transferred to the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

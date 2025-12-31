@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/49-1101.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/49-1101.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_49_1101_14">
+        <akn:num>49-1101.14</akn:num>
+        <akn:heading>Financing of the Interstate Commission.</akn:heading>
+<akn:subsection eId="subsec_49-1101_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Interstate Commission shall pay, or provide for the payment of, the reasonable expenses of its establishment, organization, and ongoing activities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-1101_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Interstate Commission may levy on and collect an annual assessment from each member state to cover the cost of the operations and activities of the Interstate Commission and its staff, which must be in a total amount sufficient to cover the Interstate Commission’s annual budget as approved each year. The aggregate annual assessment amount shall be allocated based on a formula to be determined by the Interstate Commission, which shall promulgate a rule binding upon all member states.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-1101_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Interstate Commission shall not incur obligations of any kind prior to securing the funds adequate to meet the same or pledge the credit of any of member state, except by and with the authority of the member state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-1101_14_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Interstate Commission shall keep accurate accounts of all receipts and disbursements. The receipts and disbursements of the Interstate Commission shall be subject to the audit and accounting procedures established under its bylaws. All receipts and disbursements of funds handled by the Interstate Commission shall by audited yearly by a certified or licensed public accountant and a report of the audit shall be included in and become part of the annual report of the Interstate Commission.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

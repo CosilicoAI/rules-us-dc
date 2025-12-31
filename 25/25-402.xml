@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-402"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-402/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_402">
+        <akn:num>25-402</akn:num>
+        <akn:heading>New license application for manufacturer, wholesaler, or retailer.</akn:heading>
+<akn:subsection eId="subsec_25-402_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The application of a person applying for a manufacturer’s, wholesaler’s, or retailer’s license shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-402_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The applicant for a restaurant or hotel license shall attest that it will receive at least 45% of its gross annual receipts from the sale of food during each year of the license period.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-402_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Board shall establish application procedures for the issuance of a caterer’s license under § 25-211(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-402_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

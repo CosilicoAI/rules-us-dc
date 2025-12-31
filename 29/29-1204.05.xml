@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1204.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1204.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1204_05">
+        <akn:num>29-1204.05</akn:num>
+        <akn:heading>Claims pertaining to a series.</akn:heading>
+<akn:subsection eId="subsec_29-1204_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A series of a statutory trust may not sue or be sued in its own name.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1204_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a series trust has a claim against a person which pertains to the property of a series thereof, the trust may assert the claim under § 29-1203.08 and shall allocate the proceeds of the claim under §§ 29-1204.01 and 29-1204.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1204_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a person has a claim against a series trust which pertains to the property of a series thereof, to assert the claim the person must bring the claim against the trust, stating that the claim pertains to the property of a series thereof and specifying the series if known. To the extent the claim succeeds and is reduced to judgment:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

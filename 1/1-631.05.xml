@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-631.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-631.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_631_05">
+        <akn:num>1-631.05</akn:num>
+        <akn:heading>Employee access to official personnel record.</akn:heading>
+<akn:subsection eId="subsec_1-631_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-631_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each employee shall have the right to present information immediately germane to any information contained in his or her official personnel record and seek to have irrelevant, immaterial, or untimely information removed from the record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-631_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purpose of this subchapter, information other than a record of official personnel action is untimely if it concerns an event more than 3 years in the past upon which an action adverse to an employee may be based. Immaterial, irrelevant, or untimely information shall be removed from the official record upon the finding by the agency head that the information is of such a nature. Prior to the removal of any information in the file, the employer shall notify the employee and give him or her an opportunity to be heard.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

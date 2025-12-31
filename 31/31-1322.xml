@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1322"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1322/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1322">
+        <akn:num>31-1322</akn:num>
+        <akn:heading>Actions by and against liquidator.</akn:heading>
+<akn:subsection eId="subsec_31-1322_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon issuance of an order appointing a liquidator of a domestic insurer or of an alien insurer domiciled in the District, no action at law or equity or in arbitration shall be brought against the insurer or liquidator, whether in the District or elsewhere, nor shall any existing actions be maintained or further presented after issuance of the order. The courts of the District shall give full faith and credit to injunctions against the liquidator or the company, or the continuation of existing actions against the liquidator or the company, when the injunctions are included in an order to liquidate an insurer issued pursuant to corresponding provisions in other states. Whenever, in the liquidator’s judgment, protection of the estate of the insurer necessitates intervention in an action against the insurer that is pending outside the District, he or she may intervene in the action. The liquidator may defend any action in which he or she intervenes under this section at the expense of the estate of the insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1322_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The liquidator may, upon or after an order for liquidation, within 2 years, or other longer time as applicable law may permit, institute an action or proceeding on behalf of the estate of the insurer upon any cause of action against which the period of limitation fixed by applicable law has not expired at the time of the filing of the petition upon which the order is entered. Where, by any agreement, a period of limitation is fixed for instituting a suit or proceeding upon any claim, or for filing any claim, proof of claim, proof of loss, demand, notice, or the like, or where in any proceeding, judicial or otherwise, a period of limitation is fixed, either in the proceeding or by applicable law, for taking any action, filing any claim or pleading, or doing any act, and where in such a case the period had not expired at the date of the filing of the petition, the liquidator may, for the benefit of the estate, take any action or do any act required of or permitted to the insurer within a period of 180 days subsequent to the entry of an order for liquidation, or within any further period shown to the satisfaction of the court not to be unfairly prejudicial to the other party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1322_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No statute of limitation or defense of laches shall run with respect to any action against an insurer between the filing of a petition for liquidation against an insurer and the denial of the petition. Any action against the insurer that might have been commenced when the petition was filed may be commenced for at least 60 days after the petition is denied.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1322_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any guaranty association or foreign guaranty association shall have standing to appear in any court proceeding concerning the liquidation of an insurer if the association is or may become liable to act as a result of the liquidation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4665.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4665.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4665_03">
+        <akn:num>47-4665.03</akn:num>
+        <akn:heading>The Advisory Board Company — compliance.</akn:heading>
+<akn:subsection eId="subsec_47-4665_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the Mayor, pursuant to § 2-219.03a, determines that the Company is in compliance with the hiring requirements of §§ 47-4665.01 through 47-4665.05 and the incentive agreement, the Company shall be deemed to be in compliance with the provisions of part A of subchapter X of Chapter 2 of Title 2 of the District of Columbia Official Code.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4665_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>On or before October 31, the Company shall provide the Mayor with the following information pertaining to the previous tax year:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4665_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Company shall comply with the requirements contained in § 2-218.46, with regard to the Project.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

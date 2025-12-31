@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1451.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1451.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_1451_07">
+        <akn:num>6-1451.07</akn:num>
+        <akn:heading>Green Building Fund.</akn:heading>
+<akn:subsection eId="subsec_6-1451_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established a fund designated as the Green Building Fund, which shall be separate from the General Fund of the District of Columbia. All additional monies obtained pursuant to §§ 6-1451.05 and 6-1451.08, and all interest earned on those funds, shall be deposited into the Fund without regard to fiscal year limitation pursuant to an act of Congress, and used solely to pay the costs of operating and maintaining the Fund and for the purposes stated in subsection (c) of this section. All funds, interest, and other amounts deposited into the Fund shall not be transferred or revert to the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall continually be available for the uses and purposes set forth in this section, subject to authorization by Congress in an appropriations act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1451_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall administer the monies deposited in the Fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1451_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-406"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-406/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_406">
+        <akn:num>44-406</akn:num>
+        <akn:heading>Certificate of need requirements.</akn:heading>
+<akn:subsection eId="subsec_44-406_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in § 44-407, all persons proposing to offer or develop in the District a new institutional health service, or to obligate a capital expenditure to obtain an asset to be located in the District shall, prior to proceeding with that offering, development, or obligation, obtain from the SHPDA a certificate of need that demonstrates a public need for the new service or expenditure. Only those institutional health services or capital expenditures that are granted a certificate of need shall be offered, developed, or obligated within the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-406_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before there is a capital expenditure to acquire, either by purchase or under a lease or comparable arrangement, of an existing HCF or part of a HCF (“Transaction”), the person or persons acquiring control (“Proposed Owner”) shall obtain a certificate of need from SHPDA. Subject to the provisions of paragraphs (5), (6), (7) and (8) of this subsection, SHPDA shall waive the procedures and review criteria set forth under § 44-409 and shall grant a certificate of need if all of the following conditions are met:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-406_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any person proposing to close permanently or to terminate operation of a HCF or health service shall notify the SHPDA of the intention to close or terminate operation no later than 90 days prior to the proposed closing, and obtains its approval, and shall provide the SHPDA with any information that may be requested as established in the rules promulgated to implement the provisions of this chapter. The information shall include, but not be limited to, the reasons for the closure or termination of operation, the number of patients to be affected by the closure, and the provisions being made to provide for their continuing care. When notice of closure of a HCF or health service is received, the SHPDA shall provide assistance for an orderly transition of the patient load to the extent possible.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-406_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A conversion or acquiring of effective control, as defined in § 44-401(1), of a nonprofit HCF shall not be approved by the Attorney General for the District of Columbia unless charitable assets of the HCF have been adequately protected pursuant to the provisions of the Healthcare Entity Conversion Act of 1997.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

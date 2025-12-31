@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-331.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-331.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_331_12">
+        <akn:num>5-331.12</akn:num>
+        <akn:heading>Prompt release of persons arrested in connection with a First Amendment assembly.</akn:heading>
+<akn:subsection eId="subsec_5-331_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-331_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-331_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Chief of Police shall issue an annual public report that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-331_12_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The MPD shall ensure that it possesses an automated information processing system that enables it to promptly process for release or presentation to the court all persons arrested in connection with a First Amendment assembly, and shall ensure that such system is fully operational (with respect to its hardware, software, and staffing) prior to a First Amendment assembly that has a potential for a substantial number of arrests.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-405.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-405.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_405_05">
+        <akn:num>29-405.05</akn:num>
+        <akn:heading>Notice of meeting.</akn:heading>
+<akn:subsection eId="subsec_29-405_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A membership corporation shall give notice to the members of the date, time, and place of each annual, regular, or special meeting of the members. Except as otherwise provided in the articles of incorporation or the bylaws, the notice shall be given no fewer than 10 nor more than 60 days before the meeting date. Except as otherwise provided in this chapter, the articles, or the bylaws, the corporation shall give notice only to members entitled to vote at the meeting.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Unless this chapter, the articles of incorporation, or the bylaws require otherwise, notice of an annual meeting need not include a description of the purpose for which the meeting is called.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notice of a special meeting shall include a description of the purpose for which the meeting is called.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If not otherwise fixed under § 29-405.03 or § 29-405.07, the record date for determining members entitled to notice of and to vote at an annual or special meeting of the members is the day before the first notice is given to members.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_05_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Unless the articles of incorporation or bylaws require otherwise, if an annual, regular, or special meeting of the members is adjourned to a different date, time, or place, notice need not be given of the new date, time, or place if the new date, time, or place is announced at the meeting before adjournment. If a new record date for the adjourned meeting is or must be fixed under § 29-405.07, notice of the adjourned meeting shall be given under this section to the members entitled to vote on the new record date.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

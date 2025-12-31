@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2320"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2320/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2320">
+        <akn:num>47-2320</akn:num>
+        <akn:heading>Contraband; declaration; forfeiture; seizure; search; confiscation; sale.</akn:heading>
+<akn:subsection eId="subsec_47-2320_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All motor vehicle fuels found in any place in the District of Columbia at such time and under such circumstances that the taxes levied and imposed by this subchapter should have been collected and paid, and on which such taxes have not been paid as required by this subchapter, shall be declared contraband goods and be forfeited to the District of Columbia. The Mayor may seize any such motor vehicle fuels wherever they are found.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2320_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In any case where the Mayor has knowledge or reason to suspect that any vehicle is carrying motor vehicle fuel in violation of any provisions of this subchapter, the Mayor is authorized to stop such vehicle and to inspect the same for contraband motor vehicle fuel. If such vehicle is carrying motor vehicle fuel in violation of any provision of this subchapter, the motor vehicle fuel and the vehicle shall be confiscated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2320_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall not in any way be held responsible in any court for the seizure or the confiscation of any motor vehicle fuel or vehicles which are seized or confiscated under the provisions of this subchapter. Any motor vehicle fuel or vehicles so seized shall be sold in the same manner as personal property seized for the payment of District of Columbia taxes, and the proceeds of such sales shall be deposited to the credit of the District of Columbia. Notwithstanding the provisions of this section, if the Mayor believes that any failure to comply with the provisions of this subchapter is excusable, the Mayor may, in his discretion, return to the owner or owners thereof any motor vehicle fuel or vehicles seized under the provisions of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

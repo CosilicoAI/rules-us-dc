@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-274.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-274.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_274_01">
+        <akn:num>2-274.01</akn:num>
+        <akn:heading>Rules.</akn:heading>
+<akn:subsection eId="subsec_2-274_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Office, pursuant to subchapter I of Chapter 5 of this title [§ 2-501 et seq.], shall issue rules to implement the provisions of this chapter, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-274_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Office shall consult with the Office of the Chief Financial Officer when formulating rules to establish policies and procedures to ensure compliance with relevant laws with regards to the financing of public-private partnership projects.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-274_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2421.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2421.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2421_10">
+        <akn:num>50-2421.10</akn:num>
+        <akn:heading>Disposal of unclaimed vehicles; penalties; auction admission fees.</akn:heading>
+<akn:subsection eId="subsec_50-2421_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Department may, consistent with reasonable business practices, sell or otherwise dispose of an unclaimed vehicle.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an unclaimed vehicle is sold at a public auction or through other means pursuant to subsection (a) of this section, the purchaser shall take title to the vehicle free and clear of all liens and claims of ownership by others, receive a sales receipt, and be entitled, upon application and the payment of all applicable fees, to a certificate of title and registration; provided, that all other eligibility requirements are met.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Department shall retain the proceeds of the sale or disposition of any vehicle an amount that represents reimbursement for the costs of sale, the costs of towing and storing the vehicle, the costs of furnishing notice and other related enforcement activities, the payment of such liens as were declared null and void, and the remainder shall be deposited into the General Fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except for vehicles enclosed on private property or located on the property of a business engaged in the lawful repair, storage, salvage, or disposal of vehicles, any person who purchases a vehicle that has been sold for salvage only from the Department, and who, thereafter, leaves, stores, or parks the vehicle on public space or private property, shall be guilty of a misdemeanor prosecuted by the Office of the Corporation Counsel, and shall be subject to a fine for each offense of not more than the amount set forth in § 22-3571.01, imprisonment for a period not to exceed one year, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2421_10_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Director is authorized to establish a non-refundable cost-based auction admission fee. The proceeds from this fee shall be used to offset the costs of all vehicle auctions held on the day of the auctions. The proceeds from the fee shall be deposited into the General Fund.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

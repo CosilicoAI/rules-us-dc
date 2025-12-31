@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/15-908"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/15-908/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_15_908">
+        <akn:num>15-908</akn:num>
+        <akn:heading>Prejudgment and judgment interest.</akn:heading>
+<akn:subsection eId="subsec_15-908_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>With respect to a foreign-money claim, recovery of prejudgment or pre-award interest and the rate of interest to be applied in the action or distribution proceeding, except as provided in subsection (b) of this section, are matters of the substantive law governing the right to recovery under the conflict of laws rules of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-908_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The court or arbitrator shall increase or decrease the amount of prejudgment or pre-award interest otherwise payable in a judgment or award in foreign money to the extent required by the law of the District governing a failure to make or accept an offer of settlement or an offer of judgment, or to the extent required by the law of the District governing conduct by a party or its attorney causing undue delay or expense.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-908_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A judgment or award on a foreign-money claim bears interest at the rate applicable to judgments of the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

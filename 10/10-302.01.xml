@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-302.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-302.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_302_01">
+        <akn:num>10-302.01</akn:num>
+        <akn:heading>Fee-based use permits.</akn:heading>
+<akn:subsection eId="subsec_10-302_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Department may issue a fee-based use permit on a property under its jurisdiction, control, or use, subject to such conditions as the Director may impose and only upon a determination that the use permit:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-302_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Fee-based use permits shall not be issued solely for their revenue-producing potential.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

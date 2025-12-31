@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1313.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1313.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1313_01">
+        <akn:num>34-1313.01</akn:num>
+        <akn:heading>Commission authorizations.</akn:heading>
+<akn:subsection eId="subsec_34-1313_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commission is authorized to issue financing orders upon application by the electric company. All financing orders, among their other provisions, shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1313_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All financing orders shall be operative and in full force and effect from the time fixed for them to become effective by the Commission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1313_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The financing order shall provide that except to implement any true-up mechanism as provided is § 34-1313.14, the Commission may not amend, modify, or terminate the financing order by any subsequent action or reduce, impair, postpone, terminate, or otherwise adjust the DDOT Underground Electric Company Infrastructure Improvement Charges approved in the financing order.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

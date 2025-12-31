@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-848"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-848/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_848">
+        <akn:num>47-848</akn:num>
+        <akn:heading>Sale of tax delinquent property — Transference of ownership.</akn:heading>
+<akn:subsection eId="subsec_47-848_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Guarantee to pay taxes on the property;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-848_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Live in the property for at least 5 years (for residential property owners), or maintain active ownership and legal possession of the property for at least 10 years and provide needed community services in the District for at least 10 years (for nonprofit organizations or developers); and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-848_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Give assurance of bringing the property into reasonable compliance with the building code in the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

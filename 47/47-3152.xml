@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3152"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3152/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_3152">
+        <akn:num>47-3152</akn:num>
+        <akn:heading>Use of credit card information in connection with payment by check.</akn:heading>
+<akn:subsection eId="subsec_47-3152_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person shall imprint the information contained on a drawer’s credit card or other form of identification on the face or on the back of a check used as payment for goods or services, nor shall any person record in any manner the number of a drawer’s credit card or other form of identification as a condition to accepting a check as payment for the sale of goods or services. Nothing herein shall be deemed to prohibit a person from requesting, but not requiring, that a drawer voluntarily display a credit card or other form of identification as an additional form of identification, provided that the only information recorded concerning the credit card or other form of identification is the type of credit card or other form of identification so displayed and its expiration date where applicable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3152_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Where a second form of identification is requested, the merchant must inform the purchaser of the range of acceptable second forms of identification and post a listing of the range of acceptable second forms of identification in at least one location clearly visible to the purchaser within the merchant’s place of business.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

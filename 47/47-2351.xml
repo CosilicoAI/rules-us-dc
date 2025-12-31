@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2351"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2351/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2351">
+        <akn:num>47-2351</akn:num>
+        <akn:heading>Reciprocal agreements.</akn:heading>
+<akn:subsection eId="subsec_47-2351_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor is authorized to enter into reciprocal agreements on behalf of the District with the duly authorized representatives of any jurisdiction of the United States or of a foreign country to satisfy the requirements of the IFTA. The Mayor is expressly authorized to enter into the IFTA and become a member of the International Fuel Tax Association, Inc., or such other organization that may, from time to time, be created to implement the reporting requirements of the IFTA.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2351_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The IFTA and any other agreements associated with the IFTA that are entered into by the Mayor shall take precedence over any District law or regulation that may be in conflict with such agreements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2351_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The District, as a member jurisdiction to the IFTA, shall provide reciprocity to motor vehicle carriers that are engaged in interjurisdictional movement and intrajurisdictional movement, and are properly registered with another member jurisdiction.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

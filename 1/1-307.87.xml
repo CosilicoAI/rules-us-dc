@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.87"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.87/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_307_87">
+        <akn:num>1-307.87</akn:num>
+        <akn:heading>Plan of operation for the Agency.</akn:heading>
+<akn:subsection eId="subsec_1-307_87_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The captive manager shall submit to the Risk Officer a plan of operation for the Agency that has been approved by the Commissioner and any amendments to the plan necessary or suitable to assure the fair, reasonable, and equitable administration of the Agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_87_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The plan of operation shall:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/37-201.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/37-201.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_37_201_13">
+        <akn:num>37-201.13</akn:num>
+        <akn:heading>Sale of bread.</akn:heading>
+<akn:subsection eId="subsec_37-201_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The word “bread” when used in the name of the food means the unit weighs 8 ounces or more after cooling, and any bread exposed for sale or sold in the District of Columbia shall have the net weight of the contents indicated by printing or marking the net weight on the label, wrapper, or container.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-201_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing herein shall apply to crackers, pretzels, buns, rolls, scones, or loaves of fancy bread weighing less than one-fourth pound avoirdupois, or what is commonly known as stale bread, provided the seller shall, at the time the sale is made, expressly state to the buyer that the bread sold is stale bread.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-201_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any loaf of bread weighing within 10 per centum in excess or within 4 per centum less than standard weight shall be deemed of legal weight.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

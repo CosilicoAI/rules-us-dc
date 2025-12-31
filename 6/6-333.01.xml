@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-333.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-333.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_333_01">
+        <akn:num>6-333.01</akn:num>
+        <akn:heading>Relocation payments and assistance for persons displaced by District programs or by Washington Metropolitan Area Transit Authority; relocation services for persons displaced by condominium or cooperative conversion, or by rehabilitation, demolition, or discontinuance from housing use.</akn:heading>
+<akn:subsection eId="subsec_6-333_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever real property is acquired by the government of the District of Columbia or the Washington Metropolitan Area Transit Authority for a program or project which is not subject to §§ 210 and 211 of this title, and such acquisition will result in the displacement of any person on or after January 2, 1971, the Mayor of the District of Columbia or the Washington Metropolitan Area Transit Authority, as the case may be, shall make all relocation payments and provide all assistance required of a federal agency by this act. Whenever real property is acquired for such a program or project on or after January 2, 1971, such Mayor or Authority, as the case may be, shall make all payments and meet all requirements prescribed for a federal agency by title III of this act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-333_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-651.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-651.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_651_01">
+        <akn:num>31-651.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-651_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Delivered by electronic means” means delivery to an electronic mail address at which a party has consented to receive notices or documents or the posting on an electronic network or site accessible via the Internet, mobile application, computer, mobile device, tablet, or any other electronic device, together with separate notice of the posting, which shall be provided by electronic mail to the address at which the party has consented to receive notice or by any other delivery method that has been consented to by the party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-651_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Insurance document” means any notice or document required in an insurance transaction or that is evidence of insurance coverage.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-651_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Party” means a recipient of an insurance document, including an applicant, an insured, a policyholder, or an annuity contract holder.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

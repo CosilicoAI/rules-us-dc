@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2031"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2031/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_2031">
+        <akn:num>8-2031</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_8-2031_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2031_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Elderly” means any person who is 60 years of age or older.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2031_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Person with a disability” means any person who has a medically determined physical impairment, including blindness, which prohibits and incapacitates 75% of that person’s ability to move about, to assist himself or herself, or to engage in an occupation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2031_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Locally assisted housing accommodation for elderly persons or persons with disabilities” means any building that contains 4 or more rental units, receives District housing assistance, and is designated for elderly tenants or tenants with disabilities. The term “locally assisted housing accommodation for elderly persons or persons with disabilities” shall not include facilities receiving other types of District assistance and licensed under § 44-501 et seq.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2031_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Common household pet” means a domesticated animal, such as a dog, cat, bird, rodent, fish, or turtle, that is traditionally kept in the home for pleasure rather than for commercial purposes. The term “common household pet” shall not include reptiles, other than turtles.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-204.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-204.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_204_15">
+        <akn:num>9-204.15</akn:num>
+        <akn:heading>Guidelines for consideration of applications.</akn:heading>
+<akn:subsection eId="subsec_9-204_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Commemorative works on public space that are proposed for commemoration of local individuals, groups, events, or other significant elements of District of Columbia culture or history generally should be given priority over other commemorative works.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subjects to be memorialized by commemorative works on public space in the District should be of long-term historic importance and shall generally not be any living person, any deceased person who has been deceased less than 10 years, nor any event that has occurred within 10 years of the application for placement of the commemorative work on public space.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In considering a proposed commemorative work on public space, the Mayor, the Council, and the Committee shall be guided by the following criteria, in addition to any other criteria set forth in this subchapter, and any other criteria not inconsistent with this subchapter developed by the Mayor and published in the D.C. Register:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

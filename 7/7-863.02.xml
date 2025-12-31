@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-863.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-863.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_863_02">
+        <akn:num>7-863.02</akn:num>
+        <akn:heading>Purpose.</akn:heading>
+<akn:subsection eId="subsec_7-863_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>To enhance the development of infants and toddlers with disabilities and to minimize their potential for developmental delay;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-863_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>To reduce the educational costs to our society, including our schools, by minimizing the need for special education and related services after infants and toddlers with disabilities reach school age;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-863_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>To minimize the likelihood for institutionalization of individuals with disabilities and maximize the potential for their independent living in society;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-863_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>To enhance the capacity of families to meet the special needs of their infants and toddlers with disabilities;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-863_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>To establish collaborative activities among agencies of the District of Columbia that administer programs relating to young children to maximize the quality of early intervention services; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-863_02_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>To enhance the capacity of city agencies and service providers to identify, evaluate, and meet the special needs of historically under-represented populations, particularly minorities and low-income and inner-city populations.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

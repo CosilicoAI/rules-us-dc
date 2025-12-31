@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1314"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1314/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_1314">
+        <akn:num>16-1314</akn:num>
+        <akn:heading>Declaration of taking; contents; deposit; transfer of title; determination; interest.</akn:heading>
+<akn:subsection eId="subsec_16-1314_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In an action pursuant to this subchapter, the plaintiffs may file in a cause, with the complaint or at any time before judgment, a declaration of taking, signed by the Mayor, declaring that the property is thereby taken for use of the District of Columbia. The declaration of taking shall contain or have annexed thereto a —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1314_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding section 16-1319, upon the filing of the declaration of taking and the deposit in the registry of the court, to the use of the persons entitled thereto, of the amount of the estimated compensation stated in the declaration, title to the property in fee simple absolute, or such less estate or interest therein as is specified in the declaration, shall vest in the District of Columbia, and the property shall be deemed to be condemned and taken for the use of the District, and the right to just compensation therefor shall vest in the persons entitled thereto. The compensation shall be ascertained and awarded in the proceedings and established by judgment therein, and the judgment shall include, as part of the just compensation awarded, interest at the rate of 6 per centum per annum on the amount finally awarded as the value of the property as of the date of taking, from that date to the date of payment. Interest may not be allowed on as much thereof as has been paid into the registry. A sum so paid into the registry may not be charged with commissions or poundage.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

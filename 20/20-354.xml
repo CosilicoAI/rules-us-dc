@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-354"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-354/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_354">
+        <akn:num>20-354</akn:num>
+        <akn:heading>Duties of personal representatives.</akn:heading>
+<akn:subsection eId="subsec_20-354_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Attorney; bond; compensation. — No person appointed as a personal representative in accordance with section 20-353 shall be required to be represented by an attorney or to give bond or be entitled to receive any commission for the performance of duties as personal representative.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-354_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Distribution. — If notice is required and 30 days have expired since the publication of notice as provided in section 20-353(b), the personal representative shall file proof of publication of the notice and a verified list of all claims, including contingent and disputed claims, and the amount of the claims filed since the original petition. The Court shall hear any objections filed pursuant to the notice and, if satisfied that all action taken pursuant to this subchapter is proper, shall direct the personal representative to pay all proper claims and expenses and to distribute the net estate either in accordance with the will or, if the decedent died intestate, to the decedent’s heirs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

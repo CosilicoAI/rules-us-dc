@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4805.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4805.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4805_06">
+        <akn:num>28-4805.06</akn:num>
+        <akn:heading>Adjustments between principal and income because of taxes.</akn:heading>
+<akn:subsection eId="subsec_28-4805_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A fiduciary may make adjustments between principal and income to offset the shifting of economic interests or tax benefits between income beneficiaries and remainder beneficiaries which arise from:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4805_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the amount of an estate tax marital or domestic partnership deduction or charitable contribution deduction is reduced because a fiduciary deducts an amount paid from principal for income tax purposes instead of deducting it for estate tax purposes, and as a result estate taxes paid from principal are increased and income taxes paid by an estate, trust, or beneficiary are decreased, each estate, trust, or beneficiary that benefits from the decrease in income tax shall reimburse the principal from which the increase in estate tax is paid. The total reimbursement shall equal the increase in the estate tax to the extent that the principal used to pay the increase would have qualified for a marital or domestic partnership deduction or charitable contribution deduction but for the payment. The proportionate share of the reimbursement for each estate, trust, or beneficiary whose income taxes are reduced shall be the same as its proportionate share of the total decrease in income tax. An estate or trust shall reimburse principal from income.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

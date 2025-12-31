@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2204"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2204/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2204">
+        <akn:num>21-2204</akn:num>
+        <akn:heading>Certification of incapacity.</akn:heading>
+<akn:subsection eId="subsec_21-2204_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Mental incapacity to make a health-care decision shall be certified by 2 professionals who are licensed to practice in the District and qualified to make a determination of mental incapacity. One of the 2 certifying professionals shall be a physician and one shall be a qualified psychologist or psychiatrist. At least 1 of the 2 certifying professionals shall examine the individual in question within 1 day preceding certification. Both certifying professionals shall give an opinion regarding the cause and nature of the mental incapacity as well as its extent and probable duration.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2204_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All professional findings and opinions forming the basis of certification under subsection (a) of this section shall be expressed in writing, included in the patient-care records of the individual, and provide clear evidence that the person is incapable of understanding the health-care choice, making a decision concerning the particular treatment or services in question, or communicating a decision even if capable of making it.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2204_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Certification of incapacity under this section shall be limited in its effect to the capacity to make health-care decisions and shall not be construed as a finding of incompetency for any other purpose.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

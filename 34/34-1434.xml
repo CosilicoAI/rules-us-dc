@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1434"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1434/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1434">
+        <akn:num>34-1434</akn:num>
+        <akn:heading>Reporting requirements and compliance fee.</akn:heading>
+<akn:subsection eId="subsec_34-1434_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each electricity supplier shall submit an annual compliance report to the Commission, by a date and in a form prescribed by the Commission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1434_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1434_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an electricity supplier fails to comply with the renewable energy portfolio standard for the applicable year, the electricity supplier shall pay into the Fund a compliance fee of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1434_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Beginning on March 1, 2010, and annually thereafter, energy companies that sell electricity in the District of Columbia shall file an energy portfolio report for the preceding calendar year with DDOE, which shall include a breakdown of the average cost per kilowatt hour of electricity that the company sold in the District of Columbia by source of generation, to include coal, gas, oil, nuclear, solar, land-based wind, off-shore wind, and other renewable sources. The breakdown of cost should also include the average capital cost per kilowatt, as well as the average fixed and variable costs associated with operations and maintenance per megawatt.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1434_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1434_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The District Department of the Environment shall publish on its website at least annually a report that describes progress towards the solar generation goals provided in the renewable energy portfolio standard and a comparison with other sources of energy used in the District. Each report shall detail the equitable distribution of resources consistent with the policy findings in § 34-1501.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-204.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-204.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_204_14">
+        <akn:num>4-204.14</akn:num>
+        <akn:heading>Purposes, powers, and duties of the Office.</akn:heading>
+<akn:subsection eId="subsec_4-204_14_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Provide technical assistance and support to District of Columbia agencies for the purpose of documenting and processing Medicaid, Medicare, and Foster Care and Adoption Assistance claims, and maximizing Medicaid, Medicare, and Foster Care and Adoption Assistance reimbursements, where not duplicative of assistance already provided to District of Columbia agencies by the State Medicaid Office;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_14_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Manage Medicaid, Medicare, and Foster Care and Adoption Assistance costs and project revenues in liaison with the State Medicaid, Medicare, and Foster Care and Adoption Assistance Office and the Chief Financial Officer;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_14_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Review and support legislation ensuring service expansion for all entitled residents in collaboration with the Mayor and the State Medicaid Office;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_14_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Oversee the implementation of Medicaid, Medicare, and Foster Care and Adoption Assistance reforms within District of Columbia agencies to fulfill statutory requirements;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_14_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Prepare an annual report for the Mayor and the Council on the Office’s activities and recommendations; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_14_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Engage in other activities as needed to carry out the purposes of this part.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

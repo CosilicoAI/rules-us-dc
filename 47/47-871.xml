@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-871"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-871/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_871">
+        <akn:num>47-871</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_47-871_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Condominium”, “cooperative housing association”, “dwelling unit”, or “nontransient” shall have the same meaning as the terms have in § 47-813(d); and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-871_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Homeowners association” means a mandatory membership association of owners of residential real property created and formed pursuant to a recorded instrument including a declaration of covenants, limitations, and conditions, which subjects property within the homeowners association to certain restrictive covenants.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

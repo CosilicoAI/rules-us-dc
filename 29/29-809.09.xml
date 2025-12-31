@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-809.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-809.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_809_09">
+        <akn:num>29-809.09</akn:num>
+        <akn:heading>Effect of domestication.</akn:heading>
+<akn:subsection eId="subsec_29-809_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a domestication takes effect:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-809_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A domesticated company that is a foreign limited liability company consents to the jurisdiction of the Superior Court to enforce any debt, obligation, or other liability owed by the domesticating company, if, before the domestication, the domesticating company was subject to suit in the District on the debt, obligation, or other liability. A domesticated company that is a foreign limited liability company and not authorized to do business in the District may be served with process as provided in § 29-404.12 for purposes of enforcing a debt, obligation, or other liability under this subsection. Service on the Mayor under this subsection shall be made in the same manner and has the same consequences as in § 29-104.12.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-809_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a limited liability company has adopted and approved a plan of domestication under § 29-809.06 providing for the company to be domesticated in a foreign jurisdiction, a statement surrendering the company’s certificate of organization shall be delivered to the Mayor for filing setting forth:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

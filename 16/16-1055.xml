@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1055"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1055/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_1055">
+        <akn:num>16-1055</akn:num>
+        <akn:heading>Subpoena power.</akn:heading>
+<akn:subsection eId="subsec_16-1055_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When necessary for the discharge of its duties, the Board shall have the authority to issue subpoenas to compel witnesses to appear and testify and to produce books, papers, correspondence, memoranda, documents, or other relevant records.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1055_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (c) of this section, subpoenas hall be served personally upon the witness or his or her designated agent, not less than 5 business days before the date the witness must appear or the documents must be produced, by one of the following methods, which may be attempted concurrently or successively:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1055_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If, after a reasonable attempt, personal service on a witness or witness’ agent cannot be obtained, a special process server identified in subsection (b) of this section may serve a subpoena by registered or certified mail not less than 8 business days before the date the witness must appear or the documents must be produced.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1055_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a witness who has been personally summoned neglects or refuses to obey the subpoena issued pursuant to subsection (a) of this section, the Board may report that fact to the Superior Court of the District of Columbia and the court may compel obedience to the subpoena to the same extent as witnesses may be compelled to obey the subpoenas of the court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

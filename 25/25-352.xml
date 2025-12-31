@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-352"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-352/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_352">
+        <akn:num>25-352</akn:num>
+        <akn:heading>Procedures to request a moratorium.</akn:heading>
+<akn:subsection eId="subsec_25-352_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The moratorium request shall be made to the Board in writing, stating:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-352_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of subsection (a)(2) of this section, the individual, group, or business entity seeking the moratorium shall identify one licensed establishment. The area to be covered by the moratorium shall be measured from the property lines of that establishment. The entire area to be covered under a moratorium shall be either a locality, section, or portion.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-352_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of subsection (a)(3) of this section, a moratorium may be sought for a single class of license or for any combination of the classes of licenses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-352_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No moratorium request to limit the number of licenses to be issued, the number of licenses issued for any single class, or the issuance of amended licenses for any single class that constitute a substantial change shall be considered by the Board unless all the requirements of subsection (a) of this section have been met and the following conditions are satisfied:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-352_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A moratorium request to limit the sale of products by licensees under an off-premises retailer’s license, class A and class B, shall not be considered by the Board unless all the requirements of subsection (a) of this section have been met and the following conditions are satisfied:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-352_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The requirements of this section shall not apply to solicitor’s licenses, manager’s licenses, caterer’s licenses, or to temporary licenses.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

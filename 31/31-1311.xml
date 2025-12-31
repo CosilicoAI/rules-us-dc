@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1311"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1311/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1311">
+        <akn:num>31-1311</akn:num>
+        <akn:heading>Rehabilitation orders.</akn:heading>
+<akn:subsection eId="subsec_31-1311_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An order to rehabilitate the business of a domestic insurer, or an alien insurer domiciled in the District, shall appoint the Commissioner and his or her successors in office the rehabilitator, and shall direct the rehabilitator forthwith to take possession of the assets of the insurer, and to administer them under the general supervision of the court. The filing or recording of the order with the clerk of the Superior Court of the District of Columbia shall impart the same notice as a deed, bill of sale, or other evidence of title duly filed or recorded with the recorder of deeds would have imparted. The order to rehabilitate the insurer shall by operation of law vest title to all assets of the insurer in the rehabilitator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1311_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any order issued under this section shall require accountings to the court by the rehabilitator. Accountings shall be at intervals the court specifies in its order, but no less frequently than semiannually. Each accounting shall include a report concerning the rehabilitator’s opinion as to the likelihood that a plan under § 31-1312(e) will be prepared by the rehabilitator and the timetable for doing so.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1311_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Entry of an order of rehabilitation shall not constitute an anticipatory breach of any contracts of the insurer nor shall it be grounds for retroactive revocation or retroactive cancellation of any contracts of the insurer, unless the revocation or cancellation is done by the rehabilitator pursuant to § 31-1312.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

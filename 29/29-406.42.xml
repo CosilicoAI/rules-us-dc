@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.42"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.42/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_406_42">
+        <akn:num>29-406.42</akn:num>
+        <akn:heading>Standards of conduct for officers.</akn:heading>
+<akn:subsection eId="subsec_29-406_42_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An officer with discretionary authority shall discharge his or her duties under that authority:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_42_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The duty of an officer shall include the obligation to inform:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_42_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In discharging his or her duties, an officer who does not have knowledge that makes reliance unwarranted may rely on information, opinions, reports, or statements, including financial statements and other financial data, if prepared or presented by:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

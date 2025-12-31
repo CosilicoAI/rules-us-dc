@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-109"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-109/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_109">
+        <akn:num>41-109</akn:num>
+        <akn:heading>Stock and other intangible interests in business associations.</akn:heading>
+<akn:subsection eId="subsec_41-109_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to § 41-104, any stock, other certificate of ownership, or other intangible ownership interest, or any dividend, profit, distribution, interest, payment on principal, or other sum held or owing by a business association for or to the owner, is presumed abandoned if the owner has not claimed it, corresponded in writing with the business association concerning it, or otherwise communicated with the association concerning it, as evidenced by a memorandum or other record on file with the association within 3 years after the date prescribed for payment or delivery.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-109_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to § 41-104, any intangible interest in a business association, as evidenced by the stock records or membership records of the association, is presumed abandoned if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-109_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to § 41-104, any dividend, profit, distribution, interest, payment on principal, or other sum held or owing by a business association for or to the owner, is presumed abandoned at the time the stock, other certificate of ownership, or other intangible ownership interest to which it attaches is presumed abandoned.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-109_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This chapter does not apply to any stock or other intangible ownership interest enrolled in a plan that provided for the automatic reinvestment of dividends, distribution, or other sums payable as a result of the interest unless one or more of the following applies:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/14-306"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/14-306/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_14_306">
+        <akn:num>14-306</akn:num>
+        <akn:heading>Spouse or domestic partner.</akn:heading>
+<akn:subsection eId="subsec_14-306_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In civil and criminal proceedings, a spouse or domestic partner is competent but not compellable to testify for or against their spouse or domestic partner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_14-306_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In civil and criminal proceedings, a spouse or domestic partner is not competent to testify as to any confidential communications made by one to the other during the marriage or the domestic partnership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_14-306_b_1">
+      <akn:num>(b-1)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsections (a) and (b) of this section, a spouse or domestic partner is both competent and compellable to testify against his or her spouse or domestic partner as to both confidential communications made by one to the other during the marriage or domestic partnership and any other matter in:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_14-306_b_2">
+      <akn:num>(b-2)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsections (a) and (b) of this section, when one spouse or domestic partner is charged with committing a crime that occurred prior to the marriage of the spouses or prior to the filing of a domestic partnership agreement, the other spouse or domestic partner is both competent and compellable to testify against his or her spouse or domestic partner as to the crime, communications made by one to the other, and any other matter that occurred prior to the marriage of the spouses, or prior to the filing of the domestic partnership agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_14-306_b_3">
+      <akn:num>(b-3)</akn:num>
+      <akn:content><akn:p>The burden is upon the person asserting a privilege under this section to establish that it exists.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_14-306_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

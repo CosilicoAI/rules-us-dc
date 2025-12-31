@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1231.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1231.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1231_06">
+        <akn:num>7-1231.06</akn:num>
+        <akn:heading>Durable power of attorney for health care; declaration of advance instructions for mental health treatment.</akn:heading>
+<akn:subsection eId="subsec_7-1231_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All consumers may execute a durable power of attorney for health care in accordance with Chapter 22 of Title 21. The durable power of attorney for health care may include a statement of the consumer’s mental health treatment preferences, which shall be honored by his or her attorney-in-fact in accordance with § 21-2206(c)(1), or by any substitute health care decision-maker in accordance with § 21-2210(b). The consumer’s treatment preferences shall be followed by the Department or other provider, except for good cause as documented in the consumer’s clinical records, and shall never be overridden for the convenience of the Department or other provider.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1231_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For purposes of informing a substitute health care decision-maker about his or her mental health treatment preferences pursuant to § 21-2210(b), a consumer may execute a declaration of advance instructions regarding his or her informed choice to accept or forego particular mental health services and mental health supports. A substitute health care decision-maker shall act in accordance with the consumer’s treatment preferences as expressed in the consumer’s declaration of advance instructions. The consumer’s treatment preferences shall be followed by the Department or other provider, except for good cause as documented in the consumer’s clinical records, and shall never be overridden for the convenience of the Department or other provider.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1231_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The existence of a consumer’s durable power of attorney for health care or declaration of advance instructions for mental health treatment shall not affect his or her right to make decisions about the receipt of particular mental health services and mental health supports when he or she is capable of making such decisions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1231_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

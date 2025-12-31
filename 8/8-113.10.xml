@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-113.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-113.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_113_10">
+        <akn:num>8-113.10</akn:num>
+        <akn:heading>Summary action.</akn:heading>
+<akn:subsection eId="subsec_8-113_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the Mayor determines during or after an investigation that the conduct of any business or individual who installs, removes, or tests an underground storage tank presents an imminent danger to the health or safety of the residents of the District, the Mayor may summarily suspend or restrict, without a hearing, the license of the business or certificate of the individual.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>At the time of the summary suspension or restriction, the Mayor shall provide the licensee or certificate holder with a written notice stating the action that is being taken, the basis for the action, and the right of the licensee or certificate holder to request a hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A licensee or certificate holder shall have the right to request a hearing within 72 hours after service of notice of the summary suspension or restriction of the license or certificate. The Mayor shall hold a hearing within 15 days of receipt of a timely request, and shall issue a decision within 15 days after the hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any decision and order adverse to a licensee or certified holder shall be in writing and accompanied by findings of fact and conclusions of law. The Mayor shall provide a copy of the decision and order and findings of fact and conclusions of law to each party or his or her attorney of record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-113_10_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any licensee or certificate holder aggrieved by a decision and order may file an appeal in accordance with § 2-510.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

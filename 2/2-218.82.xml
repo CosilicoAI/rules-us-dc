@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-218.82"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-218.82/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_218_82">
+        <akn:num>2-218.82</akn:num>
+        <akn:heading>Repealers.</akn:heading>
+<akn:subsection eId="subsec_2-218_82_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Sections 2-215.03, 2-215.04, and 2-215.11 are repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-218_82_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subchapter IX of Chapter 2 of Title 2 [§ 2-217.01 et seq.] is repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-218_82_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An order, rule, or regulation in effect under a law repealed by this section shall remain in effect under the corresponding provision enacted by this subtitle [Subtitle N of Title II of D.C. Law 16-33, §§ 2301 to 2391], until repealed, amended, or superseded.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

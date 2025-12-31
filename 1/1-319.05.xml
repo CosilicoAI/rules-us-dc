@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-319.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-319.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_319_05">
+        <akn:num>1-319.05</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_1-319_05_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The term “employee” means a person who is paid by the District of Columbia government from grant or appropriated funds for his or her services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-319_05_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The term “volunteer” means a person who donates his or her services to a specific program or department of the District of Columbia government, by his or her free choice and without payment for the services rendered. The reimbursement of the actual expenditures by a volunteer on behalf of the District of Columbia government shall not make that person an employee of the District of Columbia for the purposes of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-319_05_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The term “agencies, departments, commissions, and instrumentalities of the District of Columbia” means all governmental instrumentalities and bodies of the District of Columbia government, except the Superior Court of the District of Columbia and the District of Columbia Court of Appeals.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

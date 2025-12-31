@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-864"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-864/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_864">
+        <akn:num>47-864</akn:num>
+        <akn:heading>Owner-occupant residential tax credit.</akn:heading>
+<akn:subsection eId="subsec_47-864_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Real property receiving the homestead deduction under § 47-850 or § 47-850.01 shall receive an owner-occupant residential tax credit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-864_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The credit under subsection (a) of this section shall be calculated as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-864_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The credit under this section shall not apply if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-864_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this section, if the entire interest in the real property is transferred to a new owner and the real property no longer qualifies as a homestead pursuant to § 47-850 or § 47-851[§ 47-850.01], the real property shall be entitled to the credit applicable to the installment payable during the half tax year during which the ownership interest was transferred. At the end of the half tax year, the credit shall cease.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-864_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this chapter, if the current tax year’s taxable assessment of a real property receiving the homestead deduction under § 47-850 or § 47-850.01 is less than 40% of the current tax year’s assessed value, the current tax year’s taxable assessment for purposes of subsection (b)(1) of this section shall be 40% of the current tax year’s assessed value.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-864_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The credit under this section shall:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

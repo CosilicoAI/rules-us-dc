@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-119"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-119/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_119">
+        <akn:num>25-119</akn:num>
+        <akn:heading>Importation permit requirements and qualifications.</akn:heading>
+<akn:subsection eId="subsec_25-119_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An importation permit shall authorize the licensee to import, transport, or cause to be imported or transported, alcoholic beverages into the District. An importation permit shall be issued to the licensee under a retailer’s license, class A, B, C, or D, and a pool buying agent if the Board is satisfied that the alcoholic beverages bearing the same brand or trade name are not obtainable by the licensee from a licensed manufacturer or wholesaler in the District in sufficient quantity to reasonably satisfy the immediate needs of the licensee and when the licensee has paid the appropriate taxes as imposed by Chapter 9.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-119_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The permit shall specifically set forth the quantity, character, and brand or trade name of the alcoholic beverage to be transported and the names and addresses of the seller and the licensee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-119_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The permit shall accompany the alcoholic beverages during transportation in the District to the licensed premises of the licensee and shall be exhibited upon the demand of any police officer or duly authorized inspector of the Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-119_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The permit shall, immediately upon receipt of the alcoholic beverages by the retail licensee, be marked “canceled” by the licensee and the canceled permit maintained for 3 years.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

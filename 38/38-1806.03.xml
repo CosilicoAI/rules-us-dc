@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1806.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1806.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1806_03">
+        <akn:num>38-1806.03</akn:num>
+        <akn:heading>Eligibility criteria for private, nonprofit corporation.</akn:heading>
+<akn:subsection eId="subsec_38-1806_03_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Has a board of directors which includes members who are also chief executive officers of technology-related corporations involved in education and workforce development issues;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1806_03_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Has extensive practical experience with initiatives that link business resources and expertise with education and training systems;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1806_03_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Has experience in working with State and local educational agencies throughout the United States with respect to the integration of academic studies with workforce preparation programs; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1806_03_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Has a nationwide structure through which additional resources can be leveraged and innovative practices disseminated.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

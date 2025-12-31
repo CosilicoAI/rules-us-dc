@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1517.32"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1517.32/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1517_32">
+        <akn:num>2-1517.32</akn:num>
+        <akn:heading>Early childhood and school-based behavioral health comprehensive plan.</akn:heading>
+<akn:subsection eId="subsec_2-1517_32_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Establish a strategy to enhance behavioral health services in all public schools and public charter schools, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1517_32_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Include an analysis of whether current health education standards align with actual behavioral health needs of youth and any recommendations for proposed changes; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1517_32_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Provide recommendations for the expansion of behavioral health programs and services at child development facilities.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

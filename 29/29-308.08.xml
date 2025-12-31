@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-308.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-308.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_308_08">
+        <akn:num>29-308.08</akn:num>
+        <akn:heading>Amendment pursuant to reorganization.</akn:heading>
+<akn:subsection eId="subsec_29-308_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A corporation’s articles of incorporation may be amended without action by the board of directors or shareholders to carry out a plan of reorganization ordered or decreed by a court of competent jurisdiction under the authority of a law of the United States.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-308_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The individual designated by the Superior Court shall deliver to the Mayor for filing articles of amendment setting forth:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-308_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section shall not apply after entry of a final decree in the reorganization proceeding even though the Superior Court retains jurisdiction of the proceeding for limited purposes unrelated to consummation of the reorganization plan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

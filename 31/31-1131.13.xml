@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1131.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1131.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1131_13">
+        <akn:num>31-1131.13</akn:num>
+        <akn:heading>Commissions.</akn:heading>
+<akn:subsection eId="subsec_31-1131_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An insurer or insurance producer shall not pay a commission, service fee, brokerage fee, or other valuable consideration to a person for selling, soliciting, or negotiating insurance in the District if that person is required to be licensed under this chapter and is not licensed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person shall not accept a commission, service fee, brokerage fee, or other valuable consideration for selling, soliciting, or negotiating insurance in the District if that person is required to be licensed under this chapter and is not licensed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Renewal or other deferred commissions may be paid to a person for selling, soliciting, or negotiating insurance in the District if the person was required to be licensed under this chapter at the time of the sale, solicitation, or negotiation and was licensed at that time.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_13_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An insurer or insurance producer may pay or assign commissions, service fees, brokerage fees, or other valuable consideration to an insurance agency or to persons who do not sell, solicit, or negotiate insurance in the District unless the payment would violate this chapter or any other District law relating to insurance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

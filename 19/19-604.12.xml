@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-604.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-604.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_604_12">
+        <akn:num>19-604.12</akn:num>
+        <akn:heading>Effect of transfer on death deed during transferor’s life.</akn:heading>
+<akn:subsection eId="subsec_19-604_12_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Affect an interest or right of the transferor or any other owner, including the right to transfer or encumber the property;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-604_12_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Affect an interest or right of a transferee, even if the transferee has actual or constructive notice of the deed;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-604_12_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Affect an interest or right of a secured or unsecured creditor or future creditor of the transferor, even if the creditor has actual or constructive notice of the deed;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-604_12_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Affect the transferor’s or designated beneficiary’s eligibility for any form of public assistance;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-604_12_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Create a legal or equitable interest in favor of the designated beneficiary; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-604_12_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Subject the property to claims or process of a creditor of the designated beneficiary.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

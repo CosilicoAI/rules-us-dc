@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-352.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-352.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_352_05">
+        <akn:num>46-352.05</akn:num>
+        <akn:heading>Continuing, exclusive jurisdiction to modify child-support order.</akn:heading>
+<akn:subsection eId="subsec_46-352_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A tribunal of the District that has issued a child-support order consistent with the law of the District, has and shall exercise continuing, exclusive jurisdiction to modify its child-support order if the order is the controlling order and:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-352_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A tribunal of the District that has issued a child-support order consistent with the law of the District, may not exercise continuing, exclusive jurisdiction to modify the order if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-352_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a tribunal of another state has issued a child-support order pursuant to the Uniform Interstate Family Support Act or a law substantially similar to that Act which modifies a child-support order of a tribunal of the District, a tribunal of the District shall recognize the continuing, exclusive jurisdiction of the tribunal of the other state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-352_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A tribunal of the District that lacks continuing, exclusive jurisdiction to modify a child-support order, may serve as an initiating tribunal to request a tribunal of another state to modify a support order issued in that state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-352_05_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A temporary support order issued ex parte or pending resolution of a jurisdictional conflict does not create continuing, exclusive jurisdiction in the issuing tribunal.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

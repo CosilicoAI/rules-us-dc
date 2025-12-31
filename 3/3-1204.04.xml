@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1204.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1204.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1204_04">
+        <akn:num>3-1204.04</akn:num>
+        <akn:heading>Removal.</akn:heading>
+<akn:subsection eId="subsec_3-1204_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor may remove a member of a board or advisory committee for incompetence, misconduct, or neglect of duty, after due notice and a hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1204_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The failure of a member of a board or advisory committee to attend at least 1/2 of the regular, scheduled meetings of the board or advisory committee within a 12-month period shall constitute neglect of duty within the meaning of subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

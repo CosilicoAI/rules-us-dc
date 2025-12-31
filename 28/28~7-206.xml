@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-206"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-206/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:7_206">
+        <akn:num>28:7-206</akn:num>
+        <akn:heading>Termination of storage at warehouse’s option.</akn:heading>
+<akn:subsection eId="subsec_28:7-206_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A warehouse, by giving notice to the person on whose account the goods are held and any other person known to claim an interest in the goods, may require payment of any charges and removal of the goods from the warehouse at the termination of the period of storage fixed by the document of title or, if a period is not fixed, within a stated period not less than 30 days after the warehouse gives notice. If the goods are not removed before the date specified in the notice, the warehouse may sell them pursuant to § 28:7-210.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-206_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a warehouse in good faith believes that goods are about to deteriorate or decline in value to less than the amount of its lien within the time provided in subsection (a) of this section and § 28:7-210, the warehouse may specify in the notice given under subsection (a) of this section any reasonable shorter time for removal of the goods and, if the goods are not removed, may sell them at public sale held not less than one week after a single advertisement or posting.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-206_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If, as a result of a quality or condition of the goods of which the warehouse did not have notice at the time of deposit, the goods are a hazard to other property, the warehouse facilities, or other persons, the warehouse may sell the goods at public or private sale without advertisement or posting on reasonable notification to all persons known to claim an interest in the goods. If the warehouse, after a reasonable effort, is unable to sell the goods, it may dispose of them in any lawful manner and does not incur liability by reason of that disposition.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-206_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A warehouse shall deliver the goods to any person entitled to them under this article upon due demand made at any time before sale or other disposition under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-206_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A warehouse may satisfy its lien from the proceeds of any sale or disposition under this section but shall hold the balance for delivery on the demand of any person to which the warehouse would have been bound to deliver the goods.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

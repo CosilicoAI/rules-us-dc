@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2871.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2871.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2871_02">
+        <akn:num>7-2871.02</akn:num>
+        <akn:heading>Concussion protection.</akn:heading>
+<akn:subsection eId="subsec_7-2871_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An athlete who is suspected of sustaining a concussion in an athletic activity shall be immediately removed from physical participation in the athletic activity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2871_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An athlete who has been removed from an athletic activity may not return to physical participation in the athletic activity until he or she has been evaluated by a licensed or certified health-care provider and receives written clearance to return to physical participation in the athletic activity from the evaluating health-care provider.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

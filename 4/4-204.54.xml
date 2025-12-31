@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-204.54"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-204.54/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_204_54">
+        <akn:num>4-204.54</akn:num>
+        <akn:heading>Purposes of the Fund.</akn:heading>
+<akn:subsection eId="subsec_4-204_54_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Ensuring adequate resources are available to support District-wide Medicaid costs and revenue shortfalls;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_54_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>Ensuring adequate resources are available to support District-wide Medicare costs and revenue shortfalls;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_54_1B">
+      <akn:num>(1B)</akn:num>
+      <akn:content><akn:p>Ensuring adequate resources are available to support District-wide Foster Care and Adoption Assistance costs and revenue shortfalls;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_54_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Ensuring adequate resources are available to support District-wide Special Education costs and revenue shortfalls;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_54_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Supporting Medicaid, Medicare, and Foster Care and Adoption Assistance reform activities designed to establish cost-effective, agency-based Medicaid, Medicare, and Foster Care and Adoption Assistance operations; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_54_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Optimizing Medicaid, Medicare, Foster Care and Adoption Assistance and other third-party revenues.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1904.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1904.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1904_01">
+        <akn:num>42-1904.01</akn:num>
+        <akn:heading>Exemptions.</akn:heading>
+<akn:subsection eId="subsec_42-1904_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Dispositions in a condominium in which all units are restricted to commercial, industrial, or other nonresidential use;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1904_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Dispositions pursuant to court order;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1904_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Dispositions by any government or government agency;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1904_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Solicitation and acquisition by the declarant of nonbinding reservation agreements;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1904_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Gratuitous dispositions; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1904_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Dispositions by foreclosure or deed in lieu of foreclosure.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.56d"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.56d/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_56d">
+        <akn:num>1-204.56d</akn:num>
+        <akn:heading>Quarterly financial reports.</akn:heading>
+<akn:subsection eId="subsec_1-204_56d_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Submission of quarterly financial reports. — Not later than fifteen days after the end of every calendar quarter (beginning with a report for the quarter beginning October 1, 1997), the Chief Financial Officer shall submit to the Committee on Government Reform and Oversight of the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Subcommittees on the District of Columbia of the Committees on Appropriations of the House of Representatives and the Senate, a report on the financial and budgetary status of the government of the District of Columbia for the previous quarter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_56d_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Contents of report. — Each quarterly financial report submitted under subsection (a) of this section shall include the following information:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

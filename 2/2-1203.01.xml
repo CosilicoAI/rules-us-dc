@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1203.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1203.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1203_01">
+        <akn:num>2-1203.01</akn:num>
+        <akn:heading>Establishment of the Economic Development Liaison Office.</akn:heading>
+<akn:subsection eId="subsec_2-1203_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In accordance with § 1-204.04(b), there is hereby established in the Executive Branch of the government of the District of Columbia an Economic Development Liaison Office, to be headed by an Assistant City Administrator for Economic Development, who shall serve as liaison between the Mayor, the City Administrator, the Chief Financial Officer, the National Capital Revitalization Corporation, hospitality industry organizations, and economic development policy groups.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1203_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Economic Development Liaison Office shall give priority to assisting activities that foster economic growth and employment opportunities in the District by retaining, expanding, and attracting business through strategic neighborhood revitalization policies and actions to remove blight and facilitating opportunities for commercial and human capital development consistent with the economic, social, housing, and employment needs of residents and citizens of the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1601.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1601.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1601_08">
+        <akn:num>10-1601.08</akn:num>
+        <akn:heading>Certain required provisions to be included in future agreements.</akn:heading>
+<akn:subsection eId="subsec_10-1601_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Construction Administration Agreement, referenced in § 10-1601.05(c)(3), shall require a risk management program that minimizes the exposure of the Sports and Entertainment Commission and the District to cost overrun and late completion risk under section 8.04(c)(iii) of the Baseball Stadium Agreement, as defined in § 10-1601.05(a)(3), including, but not limited to provisions that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1601_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The ballpark lease agreement and the license agreement for interim use of Robert F. Kennedy Stadium shall each include provisions requiring Baseball Expos, L.P., or its assigns or successors, to maintain its Major League Baseball franchise in the District for the term of the agreement, and shall each include such other provisions and remedies as shall be necessary to ensure enforcement of this obligation, including all remedies available under District law, and provisions requiring Baseball Expos, L.P., or its assigns or successors, if the team relocates from the District prior to the expiration of the term of the agreement, to directly pay, or to finance the reimbursement of the District or any other party, for any and all outstanding costs to be borne by the District or any other party related to the ballpark as set forth in § 10-1601.02(c), and for any lost revenue that the District or any other party would have received if the team had completed its term.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

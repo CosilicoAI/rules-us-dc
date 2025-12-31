@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1582"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1582/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1582">
+        <akn:num>2-1582</akn:num>
+        <akn:heading>Strategy update.</akn:heading>
+<akn:subsection eId="subsec_2-1582_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor, within 30 days of the adoption of the budget, shall disseminate the budget and implementation strategy for the Youth Development Plan for each fiscal year (“youth development report”). Copies of the youth development report shall be transmitted to each member of the Council and posted on the District government’s website. This report shall summarize the successes and difficulties of the previous year’s strategy and any new youth development initiatives that are to be included in the plan for the upcoming year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1582_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The youth development report shall also include qualitative and quantitative outcome measures and performance measures (“measures”) for each implemented initiative (“measures”). Outcome measures and performance measures for other initiatives shall be developed as soon as practicable. The Deputy Mayor for Children, Youth, Families and Elders and the Deputy Mayor for Public Safety and Justice shall develop these measures upon advice from the Youth Development Plan Executive Working Group established under § 2-1585.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1582_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For purposes of this section, the term “Qualitative and quantitative outcome measures and performance measures” means indicators of progress toward achieving the citywide goals established in the Children’s Budget Report and ensuring that youth development programs are provided effectively and efficiently.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

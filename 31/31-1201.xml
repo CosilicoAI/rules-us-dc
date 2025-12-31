@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1201"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1201/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1201">
+        <akn:num>31-1201</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-1201_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Assessable year” means the calendar year in which the direct gross receipts are received or derived from insurance business in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1201_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1201_1A_i">
+      <akn:num>(1A-i)</akn:num>
+      <akn:content><akn:p>“Continuing Care Retirement Community Regulatory and Supervision Trust Account” or “Account” means the account established within the Insurance Regulatory Trust Fund for the purpose of administering Chapter 1A of Title 44 [§ 44-151.01 et seq.], and for reasonable expenses incurred in promoting the continuing care retirement community industry in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1201_1B">
+      <akn:num>(1B)</akn:num>
+      <akn:content><akn:p>“Department of Insurance, Securities, and Banking” means the District of Columbia’s regulatory body which is responsible for administering the insurance laws and health maintenance organization laws of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1201_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Direct gross receipts” means all policy and membership fees and net premium receipts or consideration received in a calendar year on all insurance risks and annuity contracts originating in or from the District of Columbia. Direct gross receipts shall not include any policy or membership fees, net premium receipts, or consideration received from or paid by the District of Columbia’s Department of Health Care Finance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1201_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1201_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Insurer” means any person, firm, association, or corporation duly licensed in the District of Columbia pursuant to the applicable provisions of District insurance law as an insurer. In addition, Group Hospitalization and Medical Service Incorporated, shall be defined as an insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1201_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Net premium receipts or consideration received” means gross premiums or consideration received less the sum of premiums received for reinsurance assumed and premiums or consideration returned on policies or contracts canceled or not taken.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1201_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

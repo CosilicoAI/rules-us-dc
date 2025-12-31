@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-223.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-223.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_223_02">
+        <akn:num>2-223.02</akn:num>
+        <akn:heading>Prohibitions.</akn:heading>
+<akn:subsection eId="subsec_2-223_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A supervisor shall not threaten to take or take a prohibited personnel action or otherwise retaliate against an employee because of the employee’s protected disclosure or because of an employee’s refusal to comply with an illegal order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-223_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A District government official or employee having the responsibility to evaluate, award, authorize payments, terminate, or otherwise administer a contract for goods or services between the District government and a contractor shall not threaten to take or take a prohibited procurement action against a contractor, or a contractor competing for a contract, based wholly or in part on a protected disclosure made by an employee, officer, or owner of the contractor to a public body.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

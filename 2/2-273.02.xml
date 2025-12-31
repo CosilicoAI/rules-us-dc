@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-273.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-273.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_273_02">
+        <akn:num>2-273.02</akn:num>
+        <akn:heading>Pre-qualification.</akn:heading>
+<akn:subsection eId="subsec_2-273_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Office may provide for a process of prequalification for private entities to submit a bid pursuant to § 2-273.03. The process shall include public notice of a request for qualifications, including the requirements and the criteria the Office will use in determining whether the private entity prequalifies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-273_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In order to be prequalified to submit a bid pursuant to § 2-273.03, a private entity shall, in addition to any requirements set forth in the request for proposals for a public-private partnership project:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-273_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the Office determines that a prequalification process is appropriate for the public-private partnership project, only prequalified private entities may be a proposer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-273_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Office may charge a reasonable application fee for prequalification that may not exceed the Office&#x27;s actual direct cost of evaluating the application and which shall be deposited into the Fund established by § 2-272.04.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

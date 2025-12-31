@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-511"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-511/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_511">
+        <akn:num>21-511</akn:num>
+        <akn:heading>Voluntary hospitalization and treatment.</akn:heading>
+<akn:subsection eId="subsec_21-511_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person may apply to a public or private hospital, the Department, or any mental health provider in the District of Columbia to become a voluntary patient for the purposes of observation, diagnosis, and care and treatment of a mental illness. Upon the request of a person 18 years of age or over, or, in the case of a person under 18 years of age, of the person’s spouse, parent, or legal guardian, the administrator of the public hospital to which application is made shall, or the administrator of a private hospital to which application is made may, admit the person as a voluntary patient to the hospital for the purposes described in this section, in accordance with this chapter, if an examination by an admitting psychiatrist or an admitting qualified psychologist reveals the need for hospitalization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-511_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an examination reveals that the person requesting admission is not in need of hospitalization but is in need of outpatient treatment, the administrator of the hospital to which the application was made, or his designee, shall facilitate the admission of the person for voluntary outpatient treatment to the Department, a core services agency, or another provider. A person who is under 18 years of age may, consistent with the provisions of the Mental Health Service Delivery Reform Act of 2001, effective December 18, 2001 (D.C. Law 14-56; D.C. Official  Code § 7-1131.01 et seq.), seek and consent to outpatient mental health services and mental health supports.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.29"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.29/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1162_29">
+        <akn:num>1-1162.29</akn:num>
+        <akn:heading>Registration form.</akn:heading>
+<akn:subsection eId="subsec_1-1162_29_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each registrant shall file a registration form with the Director of Government Ethics, signed under oath, on or before January 15th of each year, or no later than 15 days after becoming a lobbyist (and on or before January 15th of each year thereafter). If the registrant is not an individual, an authorized officer or agent of the registrant shall sign the form. A registrant shall file a separate registration form for each person from whom he or she receives compensation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_29_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_29_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No later than 10 days after a registrant files a registration form with the Director of Government Ethics, the Director of Government Ethics shall publish on the Ethics Board’s website a summary of all information required to be submitted under this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

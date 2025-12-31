@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1730"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1730/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1730">
+        <akn:num>11-1730</akn:num>
+        <akn:heading>Reports of court personnel.</akn:heading>
+<akn:subsection eId="subsec_11-1730_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Judges of the courts shall furnish time and attendance records pursuant to sections 11-709 and 11-909 to the respective chief judges, with a copy to the Executive Officer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1730_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All nonjudicial personnel of the courts shall furnish such reports and information to the Executive Officer as the Executive Officer shall request.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

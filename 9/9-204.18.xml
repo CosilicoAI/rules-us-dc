@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-204.18"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-204.18/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_204_18">
+        <akn:num>9-204.18</akn:num>
+        <akn:heading>Deposit for maintenance of commemorative work.</akn:heading>
+<akn:subsection eId="subsec_9-204_18_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In addition to the criteria set forth in § 9-204.17, no construction permit shall be issued unless the sponsor authorized to construct the commemorative work has donated either an amount that is equal to 10% of the total estimated cost of the construction or another amount determined by the Mayor to offset the costs of perpetual maintenance and preservation of the commemorative work.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_18_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All proceeds received pursuant to subsection (a) of this section shall be deposited in a nonlapsing account of the District government and shall be available for the nonrecurring repair and maintenance of the sponsor’s commemorative work pursuant to the provisions of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_18_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The sponsor shall be required to submit to the Mayor an annual report of operations prior to and during construction of the commemorative work, including financial statements audited by an independent certified public accountant, paid for by the sponsor authorized to construct the commemorative work.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_18_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The provisions of this section shall not apply to a commemorative work that is constructed by a Federal or District agency and where less than 50% of the funding for the construction is provided by private sources.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

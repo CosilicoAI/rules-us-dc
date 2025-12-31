@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4234"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4234/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_4234">
+        <akn:num>22-4234</akn:num>
+        <akn:heading>Duties.</akn:heading>
+<akn:subsection eId="subsec_22-4234_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Criminal Justice Coordinating Council shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4234_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The CJCC shall also report, on an annual basis, on the status and progress of the goals and objectives referenced in subsection (a)(8) of this section, including any recommendations made by the CJCC and its subcommittees to the membership of the CJCC, the public, the Mayor, and the Council. The report shall be submitted to the Mayor and the Council within 90 days after the end of each fiscal year and shall be the subject of a public hearing before the Council during the annual budget process. The CJCC’s budget and future funding requests shall also be the subject of a hearing before the Council during the annual budget process.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4234_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The CJCC is designated as a criminal justice agency for purposes of transmitting electronically to local, state, and federal agencies criminal-justice-related information, as required by CJCC to perform the duties specified under this section and in accordance with the terms and conditions regarding data sharing approved by the agency that is the source of the information for transmission.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

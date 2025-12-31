@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-807.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-807.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_807_01">
+        <akn:num>8-807.01</akn:num>
+        <akn:heading>Solid Waste Nuisance Abatement Fund.</akn:heading>
+<akn:subsection eId="subsec_8-807_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A Solid Waste Nuisance Abatement Fund (“Fund”) is hereby established, separate from the General Fund of the District of Columbia, into which all fines, penalties, interest, charges and costs assessed pursuant to this chapter shall be deposited. The deposit of these monies shall be subject to § 8-807(f)(2).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-807_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Fund shall be nonlapsing. Revenues deposited in the Fund shall not revert to the General Fund at the end of any fiscal year or at any other time, but shall be continually available to the Department of Public works for the uses and purposes set forth in this chapter, subject to authorization by Congress.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-807_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Monies deposited into the Fund shall be used to offset some of the costs of implementing this chapter, the costs of the abatement of solid waste nuisances, and to fund waste recovery and recycling education and activities in accordance with Chapter 10A of this title and Chapter 10B of this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-807_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall submit to the Council an annual statement of the Fund’s receipts and disbursements for the preceding fiscal year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-551"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-551/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_551">
+        <akn:num>21-551</akn:num>
+        <akn:heading>Nonresidents.</akn:heading>
+<akn:subsection eId="subsec_21-551_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a person ordered committed to the Department by the court pursuant to section 21-545 is found by the Commission, subject to a review by the court, not to be a resident of the District of Columbia, and to be a resident of another place, he shall be transferred to the State of his residence if an appropriate institution of that State is willing to accept him. If the person is an indigent, the expense of transferring him, including the traveling expenses of necessary attendants, shall be borne by the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-551_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “resident of the District of Columbia” means a person who voluntarily lives in the District of Columbia and has no present intention of removing himself from the District of Columbia. The term “resident of the District of Columbia” does not include persons who live in the District of Columbia solely for a temporary purpose. Residency is not affected by temporary absence from and the subsequent return to the District of Columbia. Residency shall not depend upon the reason that the person entered the District of Columbia, except to the extent that it bears upon whether they are in the District of Columbia for a temporary purpose.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

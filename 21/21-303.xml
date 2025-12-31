@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_303">
+        <akn:num>21-303</akn:num>
+        <akn:heading>Nomination of custodian.</akn:heading>
+<akn:subsection eId="subsec_21-303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A custodian nominated under this section must be a person to whom a transfer of property of that kind may be made under section 21-309(a).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-303_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The nomination of a custodian under this section does not create custodial property until the nominating instrument becomes irrevocable or a transfer to the nominated custodian is completed under section 21-309. Unless the nomination of a custodian has been revoked, upon the occurrence of the future event the custodianship becomes effective and the custodian shall enforce a transfer of the custodial property pursuant to section 21-309.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2201"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2201/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_2201">
+        <akn:num>8-2201</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_8-2201_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Animal Care and Control Agency” means the agency established by § 8-1802.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2201_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Department” means the District Department of the Environment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2201_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Director” means the Director of the District Department of the Environment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2201_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Licensed wildlife rehabilitator” means a wildlife rehabilitator licensed in any state or the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2201_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Wildlife” shall include any free-roaming wild animal, but shall not include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2201_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Wildlife control” means to harass, repel, evict, exclude, possess, transport, liberate, reunite, rehome, take, euthanize, or kill wildlife.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2201_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Wildlife control operator” means a person who is licensed to perform wildlife control services under § 8-2204, but shall not include the Animal Care and Control Agency or a property manager as defined by § 47-2853.141.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2201_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Wildlife control services provider” means the operator of a business which involves the charging of a fee for services in wildlife control.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

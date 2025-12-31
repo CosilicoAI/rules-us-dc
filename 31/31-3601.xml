@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3601"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3601/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3601">
+        <akn:num>31-3601</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-3601_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Applicant” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3601_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Certificate” means any certificate issued under a group long-term care insurance policy, which policy has been delivered or issued for delivery in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3601_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3601_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Group long-term care insurance” means a long-term care insurance policy which is delivered or issued for delivery in the District of Columbia and issued to one of the following groups:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3601_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3601_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Nonforfeiture benefit” means a benefit provided to a policyholder in the event of nonpayment of a premium due.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3601_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Policy” means any policy, contract, subscriber agreement, rider or endorsement delivered or issued for delivery in the District of Columbia by an insurer; fraternal benefits society; nonprofit health, hospital, or medical service corporation; prepaid health plan, health maintenance organization, or any similar organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3601_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

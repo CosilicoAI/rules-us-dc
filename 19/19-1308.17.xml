@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1308.17"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1308.17/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1308_17">
+        <akn:num>19-1308.17</akn:num>
+        <akn:heading>Distribution upon termination.</akn:heading>
+<akn:subsection eId="subsec_19-1308_17_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon termination or partial termination of a trust, the trustee may send to the beneficiaries a proposal for distribution. The right of any beneficiary to object to the proposed distribution terminates if the beneficiary does not notify the trustee of an objection within 30 days after the proposal was sent but only if the proposal informed the beneficiary of the right to object and of the time allowed for objection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1308_17_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon the occurrence of an event terminating or partially terminating a trust, the trustee shall proceed expeditiously to distribute the trust property to the persons entitled to it, subject to the right of the trustee to retain a reasonable reserve for the payment of debts, expenses, and taxes, and to secure a right of reimbursement if the reserve is inadequate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1308_17_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A release by a beneficiary of a trustee from liability for breach of trust is invalid to the extent:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-111"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-111/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_111">
+        <akn:num>47-111</akn:num>
+        <akn:heading>Disbursing Officer; appointment; bond; general powers and duties; audit of accounts.</akn:heading>
+<akn:subsection eId="subsec_47-111_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Disbursing Officer shall be appointed by the Mayor of the District of Columbia, and shall give bond to the United States in the sum of $50,000, for the benefit of the United States, the District of Columbia, the Mayor of the District of Columbia, and all persons interested conditioned for the faithful performance of the duties of his office in the disbursing and accounting, according to law, for all moneys of the United States and of the District of Columbia that may come into his hands, which bond shall be approved by the Mayor and the Secretary of the Treasury and be filed in the office of the Secretary of the Treasury; provided, that advances in money shall be made, on the requisition of the Mayor, to the said Disbursing Officer instead of to the Mayor, and he shall account for the same as required by § 47-409. Said Disbursing Officer shall be subordinate to the Mayor, and he shall in every respect be responsible to the United States, the District of Columbia, and to individuals for the acts and doings of said Disbursing Officer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-111_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Disbursing Officer is authorized to pay laborers and employees of the District of Columbia, and such payments shall be made upon payrolls or other vouchers audited and approved by the Auditor of the District of Columbia, and certified by the Mayor as required by § 47-409. Said payrolls and other vouchers shall be included in the account of the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-111_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The accounts of the Disbursing Officer shall be audited by the Auditor of the District of Columbia, who shall promptly forward the same to the Mayor for his approval.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

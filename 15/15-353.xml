@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/15-353"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/15-353/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_15_353">
+        <akn:num>15-353</akn:num>
+        <akn:heading>Notice of filing.</akn:heading>
+<akn:subsection eId="subsec_15-353_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>At the time of the filing of the foreign judgment, the judgment creditor or the judgment creditor’s lawyer shall make and file with the Clerk an affidavit that sets forth the names and last known addresses of the judgment debtor and the judgment creditor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-353_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Promptly upon the filing of the foreign judgment and the affidavit, the Clerk shall mail notice of the filing of the foreign judgment to the judgment debtor at the address given and shall make a note of the mailing in the docket. The notice shall include the name and address or name and post office address of the judgment creditor and the judgment creditor’s lawyer, if any, in the District. The judgment creditor may mail a notice of the filing of the foreign judgment to the judgment debtor and may file proof of mailing with the Clerk. Lack of mailing notice of filing by the Clerk shall not affect the enforcement proceedings if proof of mailing by the judgment creditor has been filed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

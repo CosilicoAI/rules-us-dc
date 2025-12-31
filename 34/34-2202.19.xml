@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2202.19"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2202.19/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2202_19">
+        <akn:num>34-2202.19</akn:num>
+        <akn:heading>Transfer of function and redelegation of authority.</akn:heading>
+<akn:subsection eId="subsec_34-2202_19_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All of the functions transferred to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984, that have been delegated to the Water and Sewer Utility Administration are hereby transferred to the Water and Sewer Authority as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2202_19_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any other functions not specified in this section that are now delegated to or vested in the Administrator of the Water and Sewer Utility Administration are hereby transferred to the Water and Sewer Utility Authority, including the power to obtain and enforce liens for the failure to pay any charge, fee, assessment, or levy authorized or required by § 34-2202.16 in accordance with §§ 34-2407.02 and 34-2110.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

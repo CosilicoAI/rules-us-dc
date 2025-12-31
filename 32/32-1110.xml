@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1110"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1110/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1110">
+        <akn:num>32-1110</akn:num>
+        <akn:heading>Temporary variances; application for temporary order.</akn:heading>
+<akn:subsection eId="subsec_32-1110_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An employer may apply to the Board for a temporary order granting a variance from a rule or a provision of a rule promulgated pursuant to this chapter. The temporary order shall be granted only if the employer files an application that meets the requirements of subsection (c) of this section and establishes that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1110_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A temporary order issued pursuant to subsection (a) of this section shall prescribe the practices, means, methods, operations, and processes that the employer must adopt and use while the temporary order is in effect and state, in detail, the employer’s program for coming into compliance with the rule. The temporary order may be granted only after notice to the employees of the employer requesting the variance and after there has been an opportunity for a hearing. The Board may issue 1 interim temporary order to be effective until a decision is made on the basis of the hearing. No temporary order may be in effect for longer than the period needed by the employer to achieve compliance with the rule or 1 year, whichever is shorter. A temporary order may be renewed not more than twice if the requirements of this section are met and if an application for renewal is filed at least 90 days prior to the expiration date of the temporary order. No interim temporary order renewal may remain in effect for more than 180 days.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1110_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An application for a temporary order shall contain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1110_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Board is authorized to grant a variance from a rule or portion of a rule whenever the Board determines that a variance is necessary to permit an employer to participate in an experiment approved by the employer and designed to demonstrate or validate new and improved techniques to safeguard the safety or health of employees.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

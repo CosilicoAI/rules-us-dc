@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-701.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-701.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_701_12">
+        <akn:num>6-701.12</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_6-701_12_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The terms “apartment house,” “tenement house,” and “flat” mean a building in which rooms in suites are provided for occupancy by 3 or more families.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-701_12_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The term “rooming house” means a building in which rooms are rented and sleeping quarters provided to accommodate 10 or more persons, not including the family of the owner or lessee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-701_12_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The term “lodging house” means a building in which sleeping quarters are provided to accommodate 10 or more transients.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-701_12_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The term “hotel” means a building in which meals are served and rooms are provided for the accommodation of 10 or more transients.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-701_12_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The term “elevator shaft” includes a dumbwaiter shaft.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-701_12_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>The term “fire escape” means an exterior open stairway or arrangement of ladders constructed entirely of incombustible materials and of approved design, or an interior or exterior stairway of fire-resistive construction with enclosing walls of masonry with fire-resistive doors and windows.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-701_12_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>The term “standpipe” means a vertical iron or steel pipe provided with hose connections and valves, so arranged as to supply water for firefighting purposes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-701_12_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>The terms “fireproof ” and “fire-resistive” have the same meaning as is ascribed to the term “fire-resistive” in the Building Code approved pursuant to the Construction Codes Approval and Amendments Act of 1986.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

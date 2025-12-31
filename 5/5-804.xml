@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-804"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-804/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_804">
+        <akn:num>5-804</akn:num>
+        <akn:heading>Penalties in lieu of discipline for members in conditional retirement.</akn:heading>
+<akn:subsection eId="subsec_5-804_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Metropolitan Police Department shall set the level of discipline for a member in conditional retirement as if he or she continued to be a member of the Metropolitan Police Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-804_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A member in conditional retirement who would have received suspension as discipline had he or she remained a member of the Metropolitan Police Department, shall be assessed a penalty of not less than $100 and not greater than $5,000, depending on the length of suspension.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-804_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a member in conditional retirement would have been terminated from the Metropolitan Police Department as discipline for serious misconduct the member shall be assessed a penalty of not less than $1,000 and not greater than $5,000 in the discretion of the Chief of Police, pursuant to written standards developed by the Chief of Police.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

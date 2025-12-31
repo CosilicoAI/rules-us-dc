@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-319.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-319.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_319_03">
+        <akn:num>1-319.03</akn:num>
+        <akn:heading>Conflicts of interest; ineligibility for employee benefits; liability of District for torts of volunteers.</akn:heading>
+<akn:subsection eId="subsec_1-319_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Volunteer citizens may not assist governmental programs until regulations have been properly promulgated under the authority of §§ 1-319.01 to 1-319.05. No volunteer may be placed in any position likely to constitute a conflict of interest or the appearance of a conflict of interest in violation of the provisions of Chapter 29 of Title 18, United States Code, or Parts C and D of subchapter II of Chapter 11A of this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-319_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Persons engaged as volunteers by the District of Columbia government as authorized by this section shall not be eligible for benefits provided to employees of the District of Columbia government under Chapters 81, 83, 85, 87, and 89 of Title 5, United States Code.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-319_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All volunteers shall be considered employees of the District of Columbia government for the purposes of §§ 2-411 to 2-416.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-319_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The District of Columbia shall be liable to third parties for tortious injury caused by volunteers under its supervision and control.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

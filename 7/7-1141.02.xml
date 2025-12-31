@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1141.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1141.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1141_02">
+        <akn:num>7-1141.02</akn:num>
+        <akn:heading>Establishment of the Department of Behavioral Health.</akn:heading>
+<akn:subsection eId="subsec_7-1141_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a separate, cabinet-level Department, subordinate to the Mayor, the Department of Behavioral Health.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1141_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Department shall be the successor-in-interest to the Department of Mental Health, established by Chapter 11A of this title [§ 7-1131.01 et seq.], and the Department of Health Addiction Prevention and Recovery Administration, established in the Department of Health by the Reorganization Plan No. 4 of 1996, effective July 17, 1996 [§ 1-1514.01].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

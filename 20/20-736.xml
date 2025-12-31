@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-736"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-736/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_736">
+        <akn:num>20-736</akn:num>
+        <akn:heading>Finality.</akn:heading>
+<akn:subsection eId="subsec_20-736_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>who has received the notice and copy of the final account of the unsupervised personal representative, and not objected to the final account within the 60-day period described in section 20-735(b); an unsupervised personal representative may send such notice and copy of the final account to any one or more creditors of the decedent or of the estate, and any such creditor not so objecting in a timely manner shall be similarly bound; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-736_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>who has not filed an exception to the final account of the supervised personal representative within the time and manner prescribed in section 20-726.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

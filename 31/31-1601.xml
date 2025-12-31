@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1601"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1601/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1601">
+        <akn:num>31-1601</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-1601_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“AIDS” means acquired immune deficiency syndrome as defined by the Centers for Disease Control of the United States Public Health Service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1601_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“ARC” means AIDS-related complex as defined by the Centers for Disease Control of the United States Public Health Service or, during any period when the Centers for Disease Control have not issued a definition, by the District of Columbia Commission of Public Health.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1601_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1601_3A">
+      <akn:num>(3A)</akn:num>
+      <akn:content><akn:p>“Gender identity or expression” shall have the same meaning as provided in § 2-1401.02(12A).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1601_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Health maintenance organization” or “HMO” means any person that undertakes to provide or arrange for the delivery of basic health care services to enrollees on a prepaid basis, except for enrollees responsibility for co-payments and deductibles, and qualifies as a health maintenance organization under Chapter 34 of Title 31.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1601_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“HIV” means human immunodeficiency virus.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1601_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Mayor” means the Mayor of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1601_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Insurer” means any individual, partnership, corporation, association, fraternal benefit association, nonprofit health service plan, health maintenance organization, or other business entity that issues, amends, or renews individual or group health, disability, or life insurance policies or contracts, including health maintenance organization membership contracts, in the District. The term “insurer” shall include Group Hospitalization and Medical Services, Incorporated.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1003.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1003.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1003_02">
+        <akn:num>44-1003.02</akn:num>
+        <akn:heading>Notice to resident and resident’s representative.</akn:heading>
+<akn:subsection eId="subsec_44-1003_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever a resident is to be discharged, transferred, or relocated, a facility representative shall give that resident and his or her representative both oral and written notice of the reasons for, procedures for contesting, and proposed effective date of the discharge, transfer, or relocation. Except as provided in subsection (b) of this section or unless the resident and his or her representative consent to shorter notice, the oral and written notice shall be given at least 21 calendar days before a proposed discharge or transfer from the facility, and at least 7 calendar days before a proposed relocation within the facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The time requirements for advance oral and written notice set forth in subsection (a) of this section shall not apply if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Consent by a resident and his or her representative to a discharge, transfer, relocation, or abbreviated notice under this subchapter shall be valid only if knowingly and voluntarily given at the time the move is proposed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The written notice required by subsection (a) of this section shall be on a form prescribed by the Mayor and shall at a minimum contain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_02_d_1">
+      <akn:num>(d-1)</akn:num>
+      <akn:content><akn:p>Upon oral and written notification of discharge, the nursing facility shall provide to the resident and his or her representative:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Copies of the written notice required by subsection (a) of this section shall be placed in the resident’s clinical record and shall be transmitted to the Mayor’s designee and, if the resident’s care is paid in whole or in part through Medicaid, the Director of the Department of Human Services (“DHS”), and the Long-Term Care Ombudsman.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_02_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Whenever nonpayment is the ground for a proposed involuntary discharge or transfer, the resident shall have the right to redeem up to the time that the discharge or transfer is to be effected and, if full payment is made, shall have the right to remain in the facility.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

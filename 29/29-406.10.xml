@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_406_10">
+        <akn:num>29-406.10</akn:num>
+        <akn:heading>Vacancy on board.</akn:heading>
+<akn:subsection eId="subsec_29-406_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (b) of this section, the articles of incorporation, or the bylaws, if a vacancy occurs on the board of directors, including a vacancy resulting from an increase in the number of directors, the vacancy may be filled by a majority of the directors remaining in office even if they constitute less than a quorum.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in the articles of incorporation or bylaws, a vacancy in the position of a director who is:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A vacancy that will occur at a specific later time, by reason of a resignation effective at a later time under § 29-406.07(b) or otherwise, may be filled before the vacancy occurs but the new director shall not take office until the vacancy occurs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1407"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1407/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_1407">
+        <akn:num>6-1407</akn:num>
+        <akn:heading>Injunctions.</akn:heading>
+<akn:subsection eId="subsec_6-1407_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever it appears that any person, association, or business entity has engaged, is engaged, or is about to engage in acts or practices constituting a violation or infraction of any provision or orders issued under the Construction Codes, the Office of the Attorney General for the District of Columbia may bring an action in the Superior Court of the District of Columbia for injunctive relief. Injunctive relief shall be granted on a showing that it will prevent illegal construction activity in the District of Columbia. A plaintiff shall not be required to prove irreparable harm to obtain a preliminary injunction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1407_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The injunctive relief shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1407_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition, upon a proper showing, an ex parte, interlocutory, or permanent injunction may be granted without bond. The Superior Court of the District of Columbia may also issue a mandatory injunction commanding compliance with any provision or order issued under the Construction Codes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

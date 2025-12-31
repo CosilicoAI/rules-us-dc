@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.36"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.36/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1163_36">
+        <akn:num>1-1163.36</akn:num>
+        <akn:heading>Prohibition on the use of District government resources for campaign-related activities.</akn:heading>
+<akn:subsection eId="subsec_1-1163_36_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No resources of the District of Columbia government, including the expenditure of funds, the personal services of employees during their hours of work, and nonpersonal services, including supplies, materials, equipment, office space, facilities, and telephones and other utilities, shall be used to support or oppose any candidate for elected office, whether partisan or nonpartisan, or to support or oppose any initiative, referendum, or recall measure, including a charter amendment referendum conducted in accordance with § 1-203.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1163_36_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

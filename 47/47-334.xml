@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-334"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-334/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_334">
+        <akn:num>47-334</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_47-334_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Debt Service” means the amount of money necessary to pay interest on outstanding District Bonds, including interest payments deferred to future years, the principal on maturing District Bonds, and the required contributions to a sinking fund for District Bonds, but excluding debt service payments rebated to the District pursuant to the American Recovery and Reinvestment Act of 2009, approved February 17, 2009 (123 Stat. 115; 26 U.S.C. § 1 note). For tax-supported debt issued as variable-rate District Bonds, if the planned amortization of principal on the District Bonds, as documented in the indenture associated with such District Bonds, is different from the stated maturity of principal on the District Bonds, then the principal on maturing District Bonds shall mean the planned amortization of principal on the District Bonds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-334_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“District Bonds” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-334_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“District Bond Issuance” means the District’s authorizing, selling, and delivering of District Bonds, including District Bonds to refund outstanding District Bonds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-334_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Home Rule Act” means the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 774; D.C. Official Code § 1-201.01 et seq.).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-334_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Total Expenditures” means the total amount included in the Total Expenditures and Transfers line item in the enacted District Budget and Financial Plan for the General Fund for an applicable fiscal year, plus any Debt Service amounts in an applicable fiscal year on District Bonds for which the Debt Service on such District Bonds is not included in the Total Expenditures and Transfers line item in the enacted District Budget and Financial Plan for the General Fund.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

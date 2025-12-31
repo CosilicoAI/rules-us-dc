@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-2104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-2104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_2104">
+        <akn:num>22-2104</akn:num>
+        <akn:heading>Penalty for murder in first and second degrees.</akn:heading>
+<akn:subsection eId="subsec_22-2104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The punishment for murder in the first degree shall be not less than 30 years nor more than life imprisonment without release, except that the court may impose a prison sentence in excess of 60 years only in accordance with § 22-2104.01 or § 24-403.01(b-2). The prosecution shall notify the defendant in writing at least 30 days prior to trial that it intends to seek a sentence of life imprisonment without release as provided in § 22-2104.01; provided that, no person who was less than 18 years of age at the time the murder was committed shall be sentenced to life imprisonment without release.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-2104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, a person convicted of murder in the first degree shall not be released from prison prior to the expiration of 30 years from the date of the commencement of the sentence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-2104_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Whoever is guilty of murder in the second degree shall be sentenced to a period of incarceration of not more than life, except that the court may impose a prison sentence in excess of 40 years only in accordance with § 24-403.01(b-2).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-2104_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For purposes of imprisonment following revocation of release authorized by § 24-403.01(b)(7), murder in the first degree and murder in the second degree are Class A felonies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-2104_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>In addition to any other penalty provided under this section, a person may be fined an amount not more than the amount set forth in § 22-3571.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

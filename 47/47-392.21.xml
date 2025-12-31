@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-392.21"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-392.21/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_392_21">
+        <akn:num>47-392.21</akn:num>
+        <akn:heading>Duties of Authority during year other than control year.</akn:heading>
+<akn:subsection eId="subsec_47-392_21_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. — During the period beginning upon the termination of a control period pursuant to § 47-392.09(b) and ending with the suspension of its activities pursuant to § 47-391.07(a), the Authority shall conduct the following activities:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-392_21_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Requiring Mayor to submit budgets to Authority. — With respect to the budget for each fiscal year occurring during the period described in subsection (a) of this section, at the time the Mayor submits the budget of the District government adopted by the Council to the President under § 1-204.46, the Mayor shall submit such budget to the Authority.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

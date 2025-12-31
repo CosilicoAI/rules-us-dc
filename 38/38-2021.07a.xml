@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2021.07a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2021.07a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2021_07a">
+        <akn:num>38-2021.07a</akn:num>
+        <akn:heading>Required minimum distributions.</akn:heading>
+<akn:subsection eId="subsec_38-2021_07a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Distributions shall begin no later than the teacher’s required beginning date, as defined in section 401(a)(9) of the Internal Revenue Code, and shall be made in accordance with all other requirements of section 401(a)(9) of the Internal Revenue Code. The provisions of this section shall apply for the purposes of determining minimum required distributions under section 401(a)(9) of the Internal Revenue Code and take precedence over any inconsistent provisions of this part; provided, that these provisions are intended solely to reflect the requirements of section 401(a)(9) of the Internal Revenue Code and accompanying Treasury regulations and are not intended to provide or expand, and shall not be construed as providing or expanding, a benefit or distribution option not otherwise expressly provided for under the terms of this part. The provisions of this section shall apply only to the extent required under section 401(a)(9) of the Internal Revenue Code as applied to a governmental plan, and if any special rules for governmental plans are not set forth in this section, these special rules are incorporated by reference and shall for all purposes be deemed a part of this part.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2021_07a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2021_07a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2021_07a_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Amounts payable if a teacher dies before distribution begins are subject to the following requirements:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

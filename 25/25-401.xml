@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_401">
+        <akn:num>25-401</akn:num>
+        <akn:heading>Form of application.</akn:heading>
+<akn:subsection eId="subsec_25-401_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person applying for issuance, transfer to a new owner, or renewal of a license, or for approval of substantial changes in operation or change in license class, shall file with the Board an application in the form prescribed by the Board. The application shall contain the information set forth in this chapter and any additional information that the Board may require.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-401_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A separate application shall be filed for each establishment for which a license is sought; provided, that a railroad company may file one application for all of its dining cars and club cars and a passenger-carrying marine vessel line may file one application for all of its passenger-carrying marine vessels and dockside waiting areas.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-401_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An individual applicant, all of the general partners of an applicant partnership, all of the members of a limited liability company, or the president or vice-president of an applicant corporation shall sign a notarized statement certifying that the application is complete and accurate. Any person who knowingly makes a false statement on an application, or in any accompanying statement under oath that the Mayor or the Board may require, shall be guilty of the offense of making false statements. The making of a false statement, whether made with or without the knowledge or consent of the applicant, shall, in the discretion of the Board, constitute sufficient cause for denial of the application or revocation of the license.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-401_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>It shall be a primary tier violation for a person to knowingly submit an altered document or application to the Board for the purpose of deceiving the Board. The submission of an altered document intended to deceive the Board, may, at the discretion of the Board, constitute sufficient cause for denial of the application or revocation of the license.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

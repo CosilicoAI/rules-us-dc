@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1013"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1013/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1013">
+        <akn:num>26-1013</akn:num>
+        <akn:heading>Examinations.</akn:heading>
+<akn:subsection eId="subsec_26-1013_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner] may in his discretion conduct an on-site examination of a licensee upon 45 days written notice to the licensee. The licensee shall pay all reasonably incurred costs of the examination. The on-site examination may be conducted in conjunction with examinations to be performed by representatives of agencies of another state. The Superintendent [Commissioner], in lieu of an on-site examination, may accept the examination report of an agency of another state; or a report prepared by an independent accounting firm; and reports so accepted shall be considered for all purposes as an official report of the Superintendent [Commissioner].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1013_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner] may (1) request financial data from a licensee in addition to that required under § 26-1010 or (2) conduct an on-site examination of a licensee, authorized delegate or location of a licensee within the District of Columbia without prior notice to the authorized delegate or licensee if the Superintendent [Commissioner] has a reasonable basis to believe that the licensee or authorized delegate is not in compliance with this chapter. When the Superintendent [Commissioner] examines an authorized delegate’s operations, the authorized delegate shall pay all reasonably incurred costs of the examination. When the Superintendent [Commissioner] examines a licensee’s location within the District of Columbia, the licensee shall pay all reasonably incurred costs of the examination.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

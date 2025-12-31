@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-629.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-629.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_629_04">
+        <akn:num>1-629.04</akn:num>
+        <akn:heading>Collection of debts.</akn:heading>
+<akn:subsection eId="subsec_1-629_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any debt authorized to be collected under this subchapter may be collected in monthly installments or at officially established regular pay period intervals, by deduction in reasonable amounts from the current pay of the employee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-629_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Deductions may be made from any wages, salary, compensation, remuneration for services, or other authorized pay, including, but not limited to, back pay and lump sum leave payments but not including retirement pay.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-629_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The amount deducted for any period may not exceed 20% of disposable pay, except that a greater percentage may be deducted upon consent of the employee involved.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-629_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the employee’s employment ends before collection of the amount of the indebtedness is completed, deductions may be made from later non-periodic government payments of any nature except retirement pay due the former employee without regard to the limit imposed by subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

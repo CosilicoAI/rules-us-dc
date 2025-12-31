@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1602"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1602/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1602">
+        <akn:num>7-1602</akn:num>
+        <akn:heading>Comprehensive AIDS Health-Care Response Plan.</akn:heading>
+<akn:subsection eId="subsec_7-1602_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 6 months of December 30, 1985, the Mayor shall develop and present to the Council for its review and comment a comprehensive AIDS Health-Care Response Plan for the District of Columbia. The plan shall include, but not be limited to, the development of short-term and long-term goals and schemes for administrative coordination by District government agencies, educational programs, prevention methods and programs, a compilation of private sector services available to AIDS patients, medical research and information gathering, outpatient and inpatient health-care services delivery, social services delivery, exploration of the feasibility of establishing a separate compensation rate for District employees working in the health-care treatment facility or facilities contemplated in § 7-1603, housing, and identifying other general services needs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1602_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall update annually the comprehensive plan mandated by subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

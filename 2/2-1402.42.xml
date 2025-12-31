@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1402.42"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1402.42/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1402_42">
+        <akn:num>2-1402.42</akn:num>
+        <akn:heading>Exceptions regarding sex discrimination and age.</akn:heading>
+<akn:subsection eId="subsec_2-1402_42_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter regarding sex discrimination in admission policy shall apply to any private undergraduate college or to any private preschool, elementary or secondary school; except that, when any of the above exempted colleges offers a course nowhere else available in the District, opportunity for admission to that course must be open to students of both sexes who otherwise meet lawful requirements for admission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1402_42_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It shall not be an unlawful discriminatory practice for the District of Columbia to prescribe minimum and maximum age limits for appointment to the police officer and firefighter cadet programs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2888.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2888.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2888_02">
+        <akn:num>47-2888.02</akn:num>
+        <akn:heading>General prohibitions.</akn:heading>
+<akn:subsection eId="subsec_47-2888_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It shall be unlawful for any person to own, operate, maintain, open, or establish a veterinary facility within the District without first having obtained a license from the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2888_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It shall be unlawful for any person other than a veterinarian licensed in the District to hold a license for a veterinary facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2888_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section shall not apply to a facility or agency operated by the federal government or the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

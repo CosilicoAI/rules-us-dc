@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4221"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4221/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4221">
+        <akn:num>47-4221</akn:num>
+        <akn:heading>Waiver of penalty — reasonable cause.</akn:heading>
+<akn:subsection eId="subsec_47-4221_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A penalty shall not be imposed with respect to a portion of an underpayment if the taxpayer shows that there was reasonable cause for the underpayment and that the taxpayer acted in good faith.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4221_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Relief for reasonable cause is available for the following penalties:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4221_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Reasonable cause generally exists if, based on all the facts and circumstances, the taxpayer exercises ordinary business care and prudence in determining his or her tax obligations, but was unable to comply with a prescribed duty within the prescribed time. Ordinary business care and prudence includes making provision for business obligations to be met when reasonably foreseeable events occur.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

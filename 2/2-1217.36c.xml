@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1217.36c"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1217.36c/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1217_36c">
+        <akn:num>2-1217.36c</akn:num>
+        <akn:heading>Declaration of intent.</akn:heading>
+<akn:subsection eId="subsec_2-1217_36c_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Council supports the Project and, to the extent feasible, legal, and prudent under the District’s debt limitations, and in compliance with law, supports efforts to issue TIF Bonds to finance eligible development costs of the Project.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1217_36c_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The maximum principal amount of the TIF Bonds to be issued to finance the Project shall be determined by agreement of the Development Sponsor, the Chief Financial Officer, and the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1217_36c_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The issuance of the TIF Bonds shall be dependent on the execution of a mutually agreed upon development agreement and other agreements between the District and the Development Sponsor and certification of the Project by the Chief Financial Officer pursuant to the TIF Act.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

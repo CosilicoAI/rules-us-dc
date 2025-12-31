@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-620.41"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-620.41/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_620_41">
+        <akn:num>1-620.41</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_1-620_41_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Applicant” means an individual who has filed an application for employment with a public employer or who has filed an application or made a verbal request to serve in a volunteer position with a public employer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_41_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Covered position” means a position in which a criminal background check is required by law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_41_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Public employer” means the District government.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

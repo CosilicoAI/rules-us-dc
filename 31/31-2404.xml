@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2404"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2404/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2404">
+        <akn:num>31-2404</akn:num>
+        <akn:heading>Personal injury protection.</akn:heading>
+<akn:subsection eId="subsec_31-2404_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2404_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Payment without regard to fault. — The benefits set forth in this section with respect to personal injury protection shall be provided without regard to, and irrespective of, negligence, freedom from negligence, fault, or freedom from fault on the part of any person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2404_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Medical and rehabilitation expenses. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2404_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Work loss. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2404_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Funeral benefits. — Personal injury protection benefits shall be paid to the survivors of each victim as funeral and funeral-related benefits. The benefits payable pursuant to this subsection for funeral and funeral-related benefits for any 1 victim shall be actual costs up to $4,000.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

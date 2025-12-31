@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3234"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3234/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3234">
+        <akn:num>22-3234</akn:num>
+        <akn:heading>Altering or removing bicycle identification numbers.</akn:heading>
+<akn:subsection eId="subsec_22-3234_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It is unlawful for a person to knowingly remove, obliterate, tamper with, or alter any identification number on a bicycle or bicycle part.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3234_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person who violates subsection (a) of this section shall be guilty of a misdemeanor and, upon conviction, shall be imprisoned for not more than 180 days, or fined not more than the amount set forth in § 22-3571.01, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3234_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-807.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-807.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_807_02">
+        <akn:num>29-807.02</akn:num>
+        <akn:heading>Winding up.</akn:heading>
+<akn:subsection eId="subsec_29-807_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A dissolved limited liability company shall wind up its activities and affairs, and, except as otherwise provided in § 29-807.06, shall continue after dissolution only for the purpose of winding up.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-807_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In winding up its activities and affairs, a limited liability company:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-807_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a dissolved limited liability company has no members, the legal representative of the last person to have been a member may wind up the activities and affairs of the company. If the person does so, the person shall have the powers of a sole manager under § 29-804.07(c) and shall be deemed to be a manager for the purposes of § 29-803.04(a)(2).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-807_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the legal representative under subsection (c) of this section declines or fails to wind up the company’s activities and affairs, a person may be appointed to do so by the consent of transferees owning a majority of the rights to receive distributions as transferees at the time the consent is to be effective. A person appointed under this subsection:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-807_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Superior Court may order judicial supervision of the winding up of a dissolved limited liability company, including the appointment of a person to wind up the company’s activities and affairs:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

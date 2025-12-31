@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-304"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-304/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_304">
+        <akn:num>38-304</akn:num>
+        <akn:heading>Authority not affected by Reorganization Plan; delegation of functions; § 38-161 to remain in full force and effect.</akn:heading>
+<akn:subsection eId="subsec_38-304_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall be construed so as to affect the authority vested in the Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952 (66 Stat. 824). The performance of any function vested by this chapter in the Commissioners of the District of Columbia or in any office or agency under the jurisdiction and control of said Commissioners may be delegated by said Commissioners in accordance with § 3 of such Plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-304_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This chapter shall not be construed as superseding § 38-161, and such section shall continue in full force and effect.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

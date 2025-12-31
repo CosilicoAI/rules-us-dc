@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1162_16">
+        <akn:num>1-1162.16</akn:num>
+        <akn:heading>Dismissal of meritless claim, complaint, or request for investigation.</akn:heading>
+<akn:subsection eId="subsec_1-1162_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Ethics Board may dismiss, at any stage of the proceedings, any claim, complaint, request for investigation, investigation, or portion of an investigation that the Ethics Board finds to be without merit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Ethics Board may require a person who made or caused to be made a claim, complaint, or request for investigation in bad faith and without merit to pay reasonable fees for time spent reviewing or investigating the claim, complaint, or requests for investigation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

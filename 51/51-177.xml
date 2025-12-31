@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/51-177"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/51-177/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_51_177">
+        <akn:num>51-177</akn:num>
+        <akn:heading>Employee eligibility for shared work benefits.</akn:heading>
+<akn:subsection eId="subsec_51-177_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this subchapter, and notwithstanding any other provisions of the employment security law, an individual shall be deemed to be unemployed and eligible for shared work benefits in any week in which the individual, as an employee in an affected unit, works for less than the individual’s normal weekly hours of work in accordance with an approved shared work plan in effect for that week. The Director shall not deny shared work benefits for any week to an otherwise eligible individual by reason of the application of any provision of the employment security law that relates to availability for work, active search for work, or refusal to apply for or accept work with an employer other than the participating employer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-177_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An individual shall be eligible to receive shared work benefits with respect to any week in which the Director finds that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-177_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this subchapter, an individual who has received all of the shared work benefits and regular unemployment compensation benefits available in a benefit year is an exhaustee under § 51-107(g)(1)(H), and shall be entitled to receive extended benefits under the employment security law if the individual is otherwise eligible under the employment security law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-177_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provisions of this subchapter, an individual shall not be eligible to receive shared work benefits for more than 50 calendar weeks during the 12-month period of the shared work plan; provided, that 2 weeks of additional benefits shall be payable to claimants who exhaust regular benefits and any benefits under any other federal or state extended benefits program. No week shall be counted as a week for which an individual is eligible for shared work benefits for the purposes of this subchapter unless the week occurs within the 12-month period of the shared work plan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

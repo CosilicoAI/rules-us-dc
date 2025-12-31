@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-808"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-808/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_808">
+        <akn:num>32-808</akn:num>
+        <akn:heading>Employer to furnish safe place of employment, information required by Board, report of employees’ injury or death, and record of employees.</akn:heading>
+<akn:subsection eId="subsec_32-808_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every employer shall furnish a place of employment which shall be reasonably safe for employees, shall furnish and use safety devices and safeguards, and shall adopt and use practices, means, methods, operations, and processes which are reasonably safe and adequate to render such employment and place of employment reasonably safe.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-808_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Every employer shall furnish to the Board any information which the Board is authorized to require and shall make true and specific answers to all questions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-808_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Every employer shall submit to the Board within 10 days from the date of any injury or death, or from the date that the employer has knowledge of any disease or infection resulting from any injury, a duplicate copy of the report provided for in § 930 of Title 33, United States Code, as made applicable to the District of Columbia by §§ 36-501 and 36-502 [1973 Ed.].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-808_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Every employer shall keep an accurate record of every person employed by him so as to be able in case of accident immediately to give an accurate record relative to same.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

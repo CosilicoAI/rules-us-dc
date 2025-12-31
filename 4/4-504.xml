@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-504"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-504/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_504">
+        <akn:num>4-504</akn:num>
+        <akn:heading>Crime Victims Compensation Advisory Commission; establishment; membership; duties.</akn:heading>
+<akn:subsection eId="subsec_4-504_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A Crime Victims Compensation Advisory Commission (“Commission”) is established and shall consist of 15 members appointed by the Chief Judge of the Court. The Chief Judge shall designate one of the members as the Commission’s Chairperson. The Chief Judge may make an appointment to fill an unexpired term.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-504_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commission’s members shall serve for a term of 3 years and shall be eligible for reappointment. The members shall serve without compensation. The members shall elect any additional officers necessary for the efficient discharge of their duties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-504_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commission shall be composed of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-504_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Commission shall:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

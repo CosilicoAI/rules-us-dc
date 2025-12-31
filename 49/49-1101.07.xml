@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/49-1101.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/49-1101.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_49_1101_07">
+        <akn:num>49-1101.07</akn:num>
+        <akn:heading>Eligibility for enrollment.</akn:heading>
+<akn:subsection eId="subsec_49-1101_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Special power of attorney, relative to the guardianship of a child of a military family and executed under applicable law shall be sufficient for the purposes of enrollment and all other actions requiring parental participation and consent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-1101_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A local education agency shall be prohibited from charging local tuition to a transitioning student placed in the care of a non-custodial parent or other person standing in loco parentis who lives in a jurisdiction other than that of the custodial parent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-1101_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A transitioning student placed in the care of a noncustodial parent or other person standing in loco parentis who lives in a jurisdiction other than that of the custodial parent may continue to attend the school in which he or she was enrolled while residing with the custodial parent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-1101_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>State and local education agencies shall facilitate the opportunity for transitioning military children’s inclusion in extracurricular activities, regardless of application deadlines, to the extent they are otherwise qualified to be included.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

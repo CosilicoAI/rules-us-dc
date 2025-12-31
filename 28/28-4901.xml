@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4901">
+        <akn:num>28-4901</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_28-4901_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Agreement” means the bargain of the parties in fact, as found in their language or inferred from other circumstances and from rules, regulations, and procedures given the effect of agreements under laws otherwise applicable to a particular transaction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Automated transaction” means a transaction conducted or performed, in whole or in part, by electronic means or electronic records, in which the acts or records of one or both parties are not reviewed by an individual in the ordinary course in forming a contract, performing under an existing contract, or fulfilling an obligation required by the transaction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Computer program” means a set of statements or instructions to be used directly or indirectly in an information processing system in order to bring about a certain result.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Contract” means the total legal obligation resulting from the parties’ agreement as affected by this chapter and other applicable law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Electronic” means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Electronic agent” means a computer program or an electronic or other automated means used independently to initiate an action or respond to electronic records or performances in whole or in part, without review or action by an individual.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Electronic record” means a record created, generated, sent, communicated, received, or stored by electronic means.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Electronic signature” means an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Governmental agency” means an executive, legislative, or judicial agency, department, board, commission, authority, institution, or instrumentality of the federal government or of a State or of a county, municipality, or other political subdivision of a State.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Information” means data, text, images, sounds, codes, computer programs, software, databases, or the like.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Information processing system” means an electronic system for creating, generating, sending, receiving, storing, displaying, or processing information.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“Person” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, governmental agency, public corporation, or any other legal or commercial entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“Record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“Security procedure” means a procedure employed for the purpose of verifying that an electronic signature, record, or performance is that of a specific person or for detecting changes or errors in the information in an electronic record. The term includes a procedure that requires the use of algorithms or other codes, identifying words or numbers, encryption, or callback or other acknowledgment procedures.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“State” means a State of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States. The term includes an Indian tribe or band, or Alaskan native village, which is recognized by federal law or formally acknowledged by a State.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4901_16">
+      <akn:num>(16)</akn:num>
+      <akn:content><akn:p>“Transaction” means an action or set of actions occurring between two or more persons relating to the conduct of business, commercial, or governmental affairs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

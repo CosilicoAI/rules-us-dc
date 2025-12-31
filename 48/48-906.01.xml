@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-906.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-906.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_906_01">
+        <akn:num>48-906.01</akn:num>
+        <akn:heading>Pending proceedings.</akn:heading>
+<akn:subsection eId="subsec_48-906_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Prosecution for any violation of the laws repealed by D.C. Law 4-29, pursuant to § 604, which were initiated prior to August 5, 1981, is not affected or abated by this chapter. If the offense being prosecuted is similar to an offense set out in subchapter IV of this chapter, then the penalties under subchapter IV of this chapter apply if they are less than those under prior law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-906_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Civil seizures or forfeitures commenced prior to August 5, 1981, are not affected by this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-906_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All administrative proceedings pending under prior laws which are superseded by this chapter shall be continued and brought to a final determination in accord with the laws and rules in effect prior to August 5, 1981.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-906_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall initially permit persons to register who own or operate any establishment engaged in the manufacture, distribution, or dispensing of any controlled substance prior to August 5, 1981, and who are registered or licensed by the District of Columbia on August 5, 1981, pursuant to laws and rules in effect immediately prior thereto.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-906_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>This chapter applies to violations of law, seizures and forfeiture, administrative proceedings, and investigations which occur following its effective date.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

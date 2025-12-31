@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_101">
+        <akn:num>32-101</akn:num>
+        <akn:heading>Covered employees.</akn:heading>
+<akn:subsection eId="subsec_32-101_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This chapter shall apply to the following employees, except persons employed less than 15 hours per week and except persons employed in an executive, administrative, or professional capacity as defined by the Secretary of Labor under § 13(a)(1) of the Fair Labor Standards Act (29 U.S.C. § 213(a)(1)) or required by District of Columbia law in effect on April 26, 1994, to possess an occupational license:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-101_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of this chapter “contractor” includes a subcontractor and means an individual or company that employs 25 or more persons.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

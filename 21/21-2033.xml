@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2033"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2033/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2033">
+        <akn:num>21-2033</akn:num>
+        <akn:heading>Guardian ad litem; counsel; visitor.</akn:heading>
+<akn:subsection eId="subsec_21-2033_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>At any point in a proceeding, a court may appoint a guardian ad litem to prosecute or defend the best interests of individuals in any legal proceeding if the court determines that representation of the interest otherwise would be inadequate. If not precluded by a conflict of interest, a guardian ad litem may be appointed to represent several individuals or interests. In addition, a guardian ad litem may be appointed by the court to assist the subject of an intervention proceeding to determine his or her best interests in regard to the guardianship or protective proceeding or to make that determination if the subject of the proceeding is unconscious or otherwise wholly incapable of determining his or her interests in that proceeding even with assistance. In either case the guardian ad litem shall not serve as an independent finder of fact, investigator, ombudsman, or other neutral party in the proceeding. The court, as a part of the record of the proceeding, shall set out its reasons for appointing a guardian ad litem and his or her specific duties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2033_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2033_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Visitors appointed by the court in guardianship or protective proceedings shall interview the subject of the proceeding, the person who has filed the petition initiating the proceeding, and any person nominated to serve as guardian or conservator. The visitor shall also visit the present place of abode of the subject of the proceeding and the place it is proposed that the individual will be detained or reside if the appointment is made. The visitor shall submit a written report to the court. If a person has been nominated for appointment as a guardian or conservator, the visitor shall investigate whether a conflict or potential conflict of interest should preclude the appointment. If no person is nominated, the visitor shall make a nomination in his or her report to the court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

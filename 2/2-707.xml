@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-707"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-707/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_707">
+        <akn:num>2-707</akn:num>
+        <akn:heading>Authorized uses of official mail by elected officials.</akn:heading>
+<akn:subsection eId="subsec_2-707_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The whole or part of any record, speech, debate, or report of the Council or any committee thereof;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-707_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The tabulation of an official’s vote or explanation thereof;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-707_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Matter which expresses condolences to a person who has suffered a loss or congratulations to a person who has achieved some personal or public distinction; provided, that mass mailings of a congratulatory nature which are substantially the same except for individualized addresses are not authorized;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-707_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Information concerning the official’s schedule of meeting constituents;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-707_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Information concerning the meeting schedule and agenda for committees and subcommittees upon which the official serves;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-707_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Information concerning financial disclosure information, whether or not required by law;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-707_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Matter which consists of federal, state, or local laws, regulations or publications paid for by public funds;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-707_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>Questionnaires which relate to matters respecting public policy or administration; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-707_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>Matter which contains pictures of the member or biographical or autobiographical data whenever such matter is mailed in response to a specific request therefor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-413"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-413/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_413">
+        <akn:num>44-413</akn:num>
+        <akn:heading>Administrative appeal.</akn:heading>
+<akn:subsection eId="subsec_44-413_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Following reconsideration by the SHPDA, or if the SHPDA denies a request for consideration, or has not granted a request for reconsideration pursuant to § 44-412(a) within 30 days after the request for reconsideration, the final decision of the SHPDA on the application for a certificate of need may be appealed by the SHCC, the applicant, or any previously appearing persons to the Office of Administrative Hearings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-413_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Office of Administrative Hearings shall review the record and any additional evidence presented on behalf of the parties to the appeal. It shall take due account of the presumption of official regularity, the experience, and specialized competence of the SHPDA, and the purposes of this chapter. The Office of Administrative Hearings must make its written decision within 45 days of the conclusion of its review. The decision must be provided to the applicant, the SHPDA, the person requesting the hearing, and to any other person upon request. The decision of the Office of Administrative Hearings shall be considered the final decision of the SHPDA.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-413_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any contested case hearing required by § 2-509, shall be conducted by the Office of Administrative Hearings.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

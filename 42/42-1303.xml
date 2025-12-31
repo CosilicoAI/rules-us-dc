@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1303">
+        <akn:num>42-1303</akn:num>
+        <akn:heading>Scope of liability; information prepared by third party.</akn:heading>
+<akn:subsection eId="subsec_42-1303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The transferor is not liable for any error, inaccuracy, or omission in any information delivered pursuant to this chapter if the error, inaccuracy, or omission was not within the actual personal knowledge of the transferor, or was based entirely on information provided by public agencies or provided by other persons specified in subsection (c) of this section and ordinary care was exercised in transmitting the information. It is not a violation of this chapter if the transferor fails to disclose information that could be obtained only through inspection or observation of inaccessible portions of real estate or could be discovered only by a person with expertise in a science or trade beyond the knowledge of the transferor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The delivery to a prospective transferee of any information required by this chapter to be disclosed to a prospective transferee by a public agency or other person specified in subsection (c) of this section shall be considered to comply with the requirements of this chapter and relieves the transferor of any further duty or liability under this chapter with respect to that item of information, unless the transferor has actual personal knowledge of a known defect or condition that contradicts the information provided by the public agency or the person specified in subsection (c) of this section and knowingly fails to disclose such known defect or condition.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1303_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The delivery to a prospective transferee of a report or opinion prepared by a licensed professional engineer, professional surveyor, home inspector, geologist, structural pest control operator, contractor, or other expert, dealing with matters within the scope of the professional’s license or expertise, is sufficient compliance for application of the exemption provided in subsection (a) of this section if the information is provided upon the request of the prospective transferee (provided that nothing in this chapter shall be construed as imposing on the transferor any obligation to comply with the request), unless the transferor has actual personal knowledge of a known defect or condition that contradicts the information contained in the report or opinion and knowingly fails to disclose the known defect or condition. In responding to a request by a prospective transferee, an expert may indicate, in writing, an understanding that the information provided will be used in fulfilling the requirements of § 42-1305 and, if so, shall indicate the required disclosures, or parts of disclosures, to which the information being furnished applies. In furnishing the statement, the expert is not responsible for any items of information other than those expressly set forth in the statement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

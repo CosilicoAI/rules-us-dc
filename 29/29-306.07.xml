@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_306_07">
+        <akn:num>29-306.07</akn:num>
+        <akn:heading>Resignation of directors.</akn:heading>
+<akn:subsection eId="subsec_29-306_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A director may resign at any time by delivering a written resignation to the board of directors, or its chair, or to the secretary of the corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A resignation shall be effective when the resignation is delivered unless the resignation specifies a later effective date or an effective date determined upon the happening of an event or events. A resignation that is conditioned upon failing to receive a specified vote for election as a director may provide that it is irrevocable.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

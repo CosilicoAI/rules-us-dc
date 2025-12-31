@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-921.51"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-921.51/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_921_51">
+        <akn:num>50-921.51</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_50-921_51_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“CFO” means the Chief Financial Officer of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_51_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Director of Capital Programs” means the Director of Capital Programs within the Office of Budget and Planning of the Office of the Chief Financial Officer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_51_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Inactive” means that no nonpersonal service funds have been obligated or expended for a capital project during the immediately preceding months.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_51_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Local Streets Ward-Based Capital Projects” means the District Department of Transportation’s 8 local streets ward-based capital projects (Project No. SR301-SR308), which endeavor to preserve, maintain, repair, or replace the District’s sidewalks, curbs, and local roads.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

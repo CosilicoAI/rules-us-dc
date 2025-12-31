@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/40-303.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/40-303.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_40_303_16">
+        <akn:num>40-303.16</akn:num>
+        <akn:heading>Payment into court and release.</akn:heading>
+<akn:subsection eId="subsec_40-303_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In any suit to enforce a lien under this chapter, the owner of the building and premises to which the lien may have attached may be allowed to either:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-303_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>On the payment of the money into court, or the approval of the undertaking pursuant to subsection (a)(2) of this section, the property shall be released from the lien, and any money so paid in shall be subject to the final decree of the court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-303_16_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

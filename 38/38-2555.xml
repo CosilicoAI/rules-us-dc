@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2555"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2555/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2555">
+        <akn:num>38-2555</akn:num>
+        <akn:heading>Memorandum of Understanding.</akn:heading>
+<akn:subsection eId="subsec_38-2555_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The voting members of the Task Force shall adopt and sign a Memorandum of Understanding regarding the implementation of the Reform Plan, which shall be submitted to the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2555_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This chapter shall expire upon the submission of the Memorandum of Understanding to the Council pursuant to subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2885.20"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2885.20/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2885_20">
+        <akn:num>47-2885.20</akn:num>
+        <akn:heading>Penalties; prosecutions; injunction.</akn:heading>
+<akn:subsection eId="subsec_47-2885_20_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person who violates any provision of this part shall be guilty of a misdemeanor and shall be punished by a fine of not more than the amount set forth in [§ 22-3571.01] or by imprisonment for not more than 6 months or both for each violation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2885_20_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Prosecutions for violations of any provision of this part shall be conducted in the Superior Court of the District of Columbia, by the Attorney General for the District of Columbia. It shall be sufficient to prove in any prosecution or hearing under this part only a single act prohibited by law or a single holding out, or any attempt thereof, without proving a general course of conduct in order to constitute a violation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2885_20_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to the remedy set forth in this section, application may be made to a court having competent jurisdiction over the parties and subject matter for a writ of injunction or other civil remedy to restrain violations of the provisions of this part. Such application may be made by the Attorney General for the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2885_20_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this part, or any rules or regulations issued under the authority of this part, pursuant to Chapter 18 of Title 2. Adjudication of any infraction of this chapter shall be pursuant to Chapter 18 of Title 2.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

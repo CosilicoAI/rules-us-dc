@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1001.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1001.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1001_03">
+        <akn:num>1-1001.03</akn:num>
+        <akn:heading>Board of Elections — Created; composition; term of office; vacancies; reappointment; designation of Chairman.</akn:heading>
+<akn:subsection eId="subsec_1-1001_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is created a District of Columbia Board of Elections (hereafter in this subchapter referred to as the “Board”), to be composed of 3 members, no more than 2 of whom shall be of the same political party, appointed by the Mayor, with the advice and consent of the Council. Members shall be appointed to serve for terms of 3 years, except the members 1st appointed under this subchapter. One member shall be appointed to serve for a 1-year term, 1 member shall be appointed to serve for a 2-year term, and 1 member shall be appointed to serve for a 3-year term, as designated by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1001_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person appointed to fill a vacancy on the Board shall be appointed only for the unexpired term of the member whose vacancy he or she is filling.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1001_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A member may be reappointed, and, if not reappointed, the member shall serve until his successor has been appointed and qualifies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1001_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall, from time to time, designate the Chairman of the Board.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

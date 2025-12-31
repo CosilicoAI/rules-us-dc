@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-921.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-921.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_921_15">
+        <akn:num>50-921.15</akn:num>
+        <akn:heading>Sustainable Transportation Fund.</akn:heading>
+<akn:subsection eId="subsec_50-921_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a nonlapsing fund the Sustainable Transportation Fund (“Fund”), which shall be administered by the Director of the District Department of Transportation and be used by the District Department of Transportation on approved capital projects for bus-operating enhancements, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Fees collected for the parking of vehicles where meters or devices are installed shall be deposited into the Fund in accordance with § 50-2603(8)(B).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All funds deposited into the Fund, and any interest earned on those funds, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (a) of this section without regard to fiscal year limitation, subject to authorization by Congress.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

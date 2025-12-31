@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-610.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-610.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_610_05">
+        <akn:num>29-610.05</akn:num>
+        <akn:heading>Reinstatement.</akn:heading>
+<akn:subsection eId="subsec_29-610_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A partnership whose statement of qualification has been revoked administratively under § 29-610.04 may apply to the Mayor for reinstatement of the statement of qualification not later than 2 years after the effective date of the revocation. The application must state:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-610_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>To have its statement of qualification reinstated, a partnership must pay all fees, taxes, and penalties that were due to the Mayor at the time of the administrative revocation and all fees, taxes, and penalties that would have been due to the Mayor while the partnership’s statement of qualification was revoked administratively.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-610_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the Mayor determines that the application contains the information required by subsection (a) of this section, is satisfied that the information is correct, and determines that all payments required to be made to the Mayor by subsection (b) of this section have been made, the Mayor shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-610_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When reinstatement under this section is effective:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

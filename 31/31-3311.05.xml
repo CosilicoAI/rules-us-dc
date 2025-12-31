@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3311.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3311.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3311_05">
+        <akn:num>31-3311.05</akn:num>
+        <akn:heading>Commissioner’s authority to rescind approved rates.</akn:heading>
+<akn:subsection eId="subsec_31-3311_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commissioner may, at any time, require any insurer subject to this chapter to demonstrate that its rates and method for setting rates are in compliance with this chapter, notwithstanding that the filings then in effect had previously been approved. Any rates previously approved by the Commissioner, but subsequently disapproved under this chapter, shall be considered disapproved on a prospective basis only from the date of the notice of disapproval, unless the insurer made a material misrepresentation in its contract form or rate filings, in which case the rates shall be deemed disapproved on a retroactive basis.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3311_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If, at any time subsequent to the approval of rates, the Commissioner finds that a filing does not meet the requirements of this chapter, the Commissioner shall issue an order to the insurer specifying why the filing fails to meet the requirements of this chapter, and, stating when, within a reasonable period thereafter, the filing shall be no longer effective. The order shall not affect any subscriber contract, group certificate, or other contract made or issued prior to the expiration of the period set forth in the order. The Commissioner may, prior to issuing the order and if requested by the insurer, hold a hearing upon not less than 10 business days’ written notice to the insurer specifying the matters to be considered at the hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3311_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For violations of this chapter, the Commissioner may order any relief which is appropriate, including disapproving a rate and awarding interest.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

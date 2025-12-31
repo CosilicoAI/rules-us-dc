@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1007"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1007/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1007">
+        <akn:num>26-1007</akn:num>
+        <akn:heading>Bond or other security device.</akn:heading>
+<akn:subsection eId="subsec_26-1007_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each application must be accompanied by a surety bond, irrevocable letter of credit, or such other similar security device acceptable to the Superintendent [Commissioner] in the amount of $50,000. If the applicant proposes to engage in business at more than one location, through authorized delegates or otherwise, then the amount of the security device will be increased by $10,000 per location. The maximum amount of the security device required for all locations shall not exceed $250,000. The security device shall be in a form satisfactory to the Superintendent [Commissioner] and shall run to the District of Columbia for the benefit of any claimants against the licensee to secure the faithful performance of the obligations of the licensee in respect to the receipt, handling, transmission, or payment of money in connection with the sale and issuance of payment instruments or transmission of money. In the case of a bond, the aggregate liability of the surety shall not exceed the principal sum of the bond. Claimants against the licensee may themselves bring suit directly on the security device or the Superintendent [Commissioner] may, through the Office of the Corporation Counsel, bring suit on behalf of such claimants, either in one action or in successive actions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1007_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1007_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The security device shall be held for 5 years after the licensee ceases money transmission operations in the District of Columbia. Notwithstanding this provision, the Superintendent [Commissioner] may permit the security device to be reduced or eliminated prior to that time to the extent that the amount of the licensee’s payment instruments outstanding in the District of Columbia are reduced. The Superintendent [Commissioner] may also permit a licensee to substitute a letter of credit or such other form of security device acceptable to the Superintendent [Commissioner] for the security device in place at the time the licensee ceases money transmission operations in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

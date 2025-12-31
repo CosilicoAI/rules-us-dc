@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-918"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-918/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_918">
+        <akn:num>16-918</akn:num>
+        <akn:heading>Appointment of counsel; compensation; termination of appointment.</akn:heading>
+<akn:subsection eId="subsec_16-918_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In all cases under this chapter, where the court deems it necessary or proper, a disinterested attorney may be appointed by the court to enter his appearance for the defendant and actively defend the cause.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-918_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In any proceeding wherein the custody of a child is in question, the court may appoint a disinterested attorney to appear on behalf of the child and represent his best interests.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-918_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An attorney appointed under this section may receive such compensation for his services as the court determines to be proper, which the court may order to be paid by either or both of the parties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-918_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law or any rule of court, the appearance of an attorney in any action under this chapter before a court of original jurisdiction shall be deemed to have terminated for the purpose of service of any motion, process, or any other pleading, upon completion of the case ending in a judgment, adjudication, decree, or final order from which no appeal has been taken when the time allowed for an appeal expires, and, if notice of appeal has been entered, upon the date of the final disposition of the appeal. There shall be no action required of any person or attorney under this subsection, but the court having jurisdiction over the matter may suspend the termination of the appearance on its own motion, or on the motion of any party to the case prior to the expiration of the time for appeal.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

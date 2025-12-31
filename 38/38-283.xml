@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-283"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-283/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_283">
+        <akn:num>38-283</akn:num>
+        <akn:heading>OSSE requirements.</akn:heading>
+<akn:subsection eId="subsec_38-283_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The OSSE shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-283_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 60 days of February 26, 2015, the OSSE shall add participation in the Child and Adult Care Food Program to the searchable criteria on the website for the OSSE Child Care Connections, which is the District’s child care resource and referral center.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-283_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No later than December 30 of each year, the OSSE shall submit, in conjunction with the Department of Health, a report to the Council and the Mayor on the efforts to promote WIC in child development facilities, including data on:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-283_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Within 120 days of February 26, 2015, pursuant to the authority granted by § 38-2602(b)(11), the OSSE shall issue rules to implement this chapter, which, at a minimum, shall:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

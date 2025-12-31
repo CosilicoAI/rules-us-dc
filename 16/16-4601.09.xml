@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4601.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4601.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4601_09">
+        <akn:num>16-4601.09</akn:num>
+        <akn:heading>Communication between courts.</akn:heading>
+<akn:subsection eId="subsec_16-4601_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A court of the District may communicate with a court in another state concerning a proceeding arising under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4601_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The court may allow the parties to participate in the communication. If the parties are not able to participate in the communication, they must be given the opportunity to present facts and legal arguments before a decision on jurisdiction is made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4601_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Communication between courts on schedules, calendars, court records, and similar matters may occur without informing the parties. A record need not be made of the communication.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4601_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (c) of this section, a record must be made of a communication under this section. The parties must be informed promptly of the communication and granted access to the record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4601_09_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

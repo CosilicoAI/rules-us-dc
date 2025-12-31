@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_3102">
+        <akn:num>16-3102</akn:num>
+        <akn:heading>Settlement of accounts as prima facie evidence only.</akn:heading>
+<akn:subsection eId="subsec_16-3102_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>for an accounting, by legatees or next to kin against personal representatives, or wards against their guardians; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-3102_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>to subject the real estate of decedents to the payment of their debts, by creditors against personal representatives, or against heirs or devisees —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

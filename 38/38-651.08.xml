@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-651.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-651.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_651_08">
+        <akn:num>38-651.08</akn:num>
+        <akn:heading>Maintenance of records.</akn:heading>
+<akn:subsection eId="subsec_38-651_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A school shall keep the medication action plans in the school health suite or other designated, easily accessible location.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-651_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A school shall create and maintain a list of students with valid medication action plans, including the emergency contact information for each student. The principal of the school may distribute the list among appropriate employees or agents of the school.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-651_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A school shall maintain accurate records of all its employees and agents who are certified to administer medication.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-651_08_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A school shall maintain accurate records of all incidents where medication was administered to a student in an emergency circumstance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

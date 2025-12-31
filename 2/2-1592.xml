@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1592"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1592/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1592">
+        <akn:num>2-1592</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_2-1592_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Commission” means the Statewide Commission on Children, Youth, and their Families established in § 2-1594.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1592_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Comprehensive, multi-disciplinary assessment” means an assessment of children to determine the extent to which they are affected by risk and protective factors as individuals and as members of families, communities, and schools, and the extent to which they have service needs resulting from emotional disturbance, substance abuse, exposure to violence, or learning disabilities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1592_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Evidence-based program” means a program that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1592_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Integrated service plan” means a service plan that promotes delivery of services that are, to the fullest extent possible, comprehensive, implemented without interruption, and free from duplication or redundancy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1592_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Risk and protective factors” means a circumstance or set of circumstances that assist in determining whether an individual is at risk of harm, emotional, physical, or otherwise; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1592_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“School-based clinician” means a healthcare or social-services practitioner, a mental-health professional, or substance abuse counselor certified or licensed in his or her field by the Director of the Department of Health or another nationally recognized professional organization, qualified to conduct comprehensive, multi-disciplinary assessments.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2333.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2333.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2333_01">
+        <akn:num>16-2333.01</akn:num>
+        <akn:heading>Permitted disclosures of juvenile information.</akn:heading>
+<akn:subsection eId="subsec_16-2333_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An official of the Family Court, the Department of Youth Rehabilitation Services, or the Metropolitan Police Department may disclose information (but not records) about a juvenile otherwise protected from disclosure under sections 16-2331, 16-2332, and 16-2333 in accordance with this section only if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2333_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Information disclosed under this section may be disclosed only to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2333_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The information that may be disclosed under this section shall be limited to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2333_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Information disclosed pursuant to this section shall be:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2333_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>This section permits the limited disclosure of information contained in records and files otherwise protected from disclosure under sections 16-2331, 16-2332, and 16-2333, but does not authorize disclosure of the records and files.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

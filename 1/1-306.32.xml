@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-306.32"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-306.32/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_306_32">
+        <akn:num>1-306.32</akn:num>
+        <akn:heading>Housing linkage purpose.</akn:heading>
+<akn:subsection eId="subsec_1-306_32_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>To encourage the construction and rehabilitation of housing throughout the District of Columbia, particularly housing that is affordable to low- and moderate-income households;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-306_32_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>To reduce a shortage of affordable housing in the District which has been caused in part by increased demand for this housing from employees of new commercial development who compete with present residents for scarce, vacant affordable housing, and by high land values which raise the cost of housing and which are partly a function of the demand for additional commercial office space in the National Capital; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-306_32_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>To increase the income tax base and labor force in the District by providing a mechanism to stimulate the development and expansion of housing for employees in the District who cannot afford to reside in the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

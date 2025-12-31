@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-355.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-355.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_355_01">
+        <akn:num>47-355.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_47-355_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Agency” means an agency, office, department, board, commission, or independent agency or instrumentality of the District Government.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-355_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Apportionment” means the division of an agency’s appropriated budget authority by periods within a fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-355_01_2A">
+      <akn:num>(2A)</akn:num>
+      <akn:content><akn:p>“Emergencies involving the safety of human life or the protection of property” does not include ongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-355_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Employee” means an individual who performs a function of the District Government and who receives compensation for the performance of that function.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-355_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Manager” means an individual chosen or appointed to manage, direct, or administer some affairs of the agency, including the expenditure of funds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-355_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Program” means the highest level, for budgeting and expenditure control, within the agency that the District of Columbia Government uses for a specific purpose for appropriated budget authority. A program may consist of multiple activities, which combined achieve the stated purpose and goals.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

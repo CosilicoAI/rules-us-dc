@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/15-703"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/15-703/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_15_703">
+        <akn:num>15-703</akn:num>
+        <akn:heading>Security for costs by nonresidents.</akn:heading>
+<akn:subsection eId="subsec_15-703_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The defendant in a suit instituted by a nonresident of the District of Columbia, or by one who becomes a nonresident after the suit is commenced, upon notice served on the plaintiff or his attorney after service of process on the defendant, may require the plaintiff to give security for costs and charges that may be adjudged against him on the final disposition of the cause. This right of the defendant does not entitle him to delay in pleading, and his pleading before the giving of the security is not a waiver of his right to require security for costs. In case of noncompliance with these requirements, within a time fixed by the court, judgment of nonsuit or dismissal shall be entered. The security required may be by an undertaking, with security, to be approved by the court, or by a deposit of money in an amount fixed by the court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-703_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A nonresident, at the commencement of his suit, may deposit with the clerk such sum as the court deems sufficient as security for all costs that may accrue in the cause, which deposit may afterwards be increased on application, in the discretion of the court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

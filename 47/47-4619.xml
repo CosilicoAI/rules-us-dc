@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4619"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4619/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4619">
+        <akn:num>47-4619</akn:num>
+        <akn:heading>Abatement of real property taxes for the temporary Walker Jones/Northwest One Unity Health Center.</akn:heading>
+<akn:subsection eId="subsec_47-4619_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “Unity Health Center” means the portion of the real property described as Lot 253, Square 672, in use by Unity Health Care, Inc., as the Walker Jones/Northwest One Unity Health Center.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4619_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The real property taxes imposed by Chapter 8 of this title on the Unity Health Center shall be abated for the period of October 1, 2009 to September 30, 2013.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

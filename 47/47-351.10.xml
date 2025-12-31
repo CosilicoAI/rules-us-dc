@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-351.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-351.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_351_10">
+        <akn:num>47-351.10</akn:num>
+        <akn:heading>Preservation of banking services.</akn:heading>
+<akn:subsection eId="subsec_47-351_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Without regard to the competitive bidding requirements of §§ 47-351.04 and 47-351.05, the Mayor, or the CFO pursuant to § 47-351.02(c), may place deposits or investments at an insured financial institution for the purpose of maintaining banking services in a low-to-moderate income area in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-351_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Mayor, or the CFO pursuant to § 47-351.02(c), waives the requirements of §§ 47-351.04 and 47-351.05, the Mayor, or the CFO pursuant to § 47-351.02(c), shall execute a community development program agreement with the insured financial institution or certify that the insured financial institution is meeting the objectives of an existing community development program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-351_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section only, a community development program agreement shall meet the requirements of § 26-704(d).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-361.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-361.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_361_02">
+        <akn:num>2-361.02</akn:num>
+        <akn:heading>Payment of stipends authorized.</akn:heading>
+<akn:subsection eId="subsec_2-361_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The contracting officer may pay a stipend to cover a portion of bid or proposal development costs to an unsuccessful responsible offeror that submits a responsive proposal to a solicitation to generate meaningful competition and to ensure that small businesses are not competitively disadvantaged.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-361_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The contracting officer shall determine the number and amount of the stipends, if any.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-361_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In consideration for paying the stipend fee, the District may use any ideas or information contained in the proposals in connection with any contract awarded for the project, or in connection with a subsequent procurement, without any obligation to pay any additional compensation to the unsuccessful offerors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-361_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

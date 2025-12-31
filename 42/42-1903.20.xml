@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.20"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.20/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1903_20">
+        <akn:num>42-1903.20</akn:num>
+        <akn:heading>Conveyance or encumbrance of common elements.</akn:heading>
+<akn:subsection eId="subsec_42-1903_20_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A portion of the common elements may be conveyed or subjected to a security interest by the unit owners’ association if persons entitled to cast at least 80% of the votes in the unit owners’ association, including 80% of the votes allocated to units not owned by a declarant, or any larger percentage the condominium instruments specify, agree to convey or subject to a security interest. To convey or subject a limited common element to a security interest, all the owners of units to which any limited common element is allocated shall agree. The condominium instruments may specify a smaller percentage if all of the units are restricted exclusively to nonresidential uses. Proceeds of the sale shall be an asset of the unit owners’ association.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_20_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An agreement to convey or subject common elements to a security interest shall be evidenced by the execution and recordation of the agreement, or ratification of the agreement, in the same manner as a deed, and by the requisite number of unit owners. The agreement shall specify a date after which the agreement shall be void unless recorded before that date.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_20_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The unit owners’ association, on behalf of the unit owners, may contract to convey or subject common elements to a security interest. The contract shall not be enforceable against the unit owners’ association until approved pursuant to subsections (a) and (b) of this section. Upon approval, the unit owners’ association shall have any power necessary and appropriate to effect the conveyance or encumbrance of the common elements, including the power to execute a deed or other instrument.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_20_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any purported conveyance, encumbrance, judicial sale, or other voluntary transfer of common elements pursuant to this section shall not deprive any unit of the unit’s right of access or support.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_20_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Unless the condominium instruments otherwise provide, a conveyance or encumbrance of common elements pursuant to this section shall not affect the priority or validity of a preexisting encumbrance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

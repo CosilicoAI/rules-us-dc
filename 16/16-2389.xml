@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2389"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2389/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2389">
+        <akn:num>16-2389</akn:num>
+        <akn:heading>Effect of guardianship order.</akn:heading>
+<akn:subsection eId="subsec_16-2389_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless the court specifies otherwise, the permanent guardian shall maintain physical custody of the child and shall have the following rights and responsibilities concerning the child:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2389_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The permanent guardian is not liable to third persons by reason of the relationship for acts of the child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2389_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Entry of a guardianship order does not terminate the parent and child relationship, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2389_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The guardianship order may specify the frequency and nature of visitation or contact between relatives and the child. The court may determine whether the visitation or contact is in the child’s best interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2389_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Except as required by a motion under subsection (f) of this section, upon entry of a guardianship order, and during the period of time such an order remains in effect, the requirements of sections 16-2322 and 16-2323 shall be suspended.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2389_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The court shall make a permanency determination and close the neglect case upon motion by any party to the permanent guardianship proceeding if the court finds that such a determination is in the child’s best interest.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

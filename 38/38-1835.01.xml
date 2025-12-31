@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1835.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1835.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1835_01">
+        <akn:num>38-1835.01</akn:num>
+        <akn:heading>Evaluation of charter school authorizing boards.</akn:heading>
+<akn:subsection eId="subsec_38-1835_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Management evaluation of the District of Columbia Chartering Authorities for the District of Columbia Public Charter Schools shall be conducted by the Comptroller General of the United States every five years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1835_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Evaluation shall include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1835_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Initial interim report to Congress. — The Government Accountability Office shall submit to the Committees on Appropriations of the House of Representatives and Senate, no later than May 1, 2005, a baseline report on the performance of each authorizer in meeting the requirements of the School Reform Act of 1995.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1835_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Hereafter § 38-1802.14(f), shall apply to the District of Columbia Board of Education Charter Schools Office.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

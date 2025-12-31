@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1321"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1321/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1321">
+        <akn:num>31-1321</akn:num>
+        <akn:heading>Duties of agents.</akn:heading>
+<akn:subsection eId="subsec_31-1321_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every person who receives notice in the form prescribed in § 31-1320 that an insurer which he represents as an agent is the subject of a liquidation order shall, within 30 days of the notice, provide to the liquidator (in addition to the information he may be required to provide pursuant to § 31-1305) the information in the agent’s records related to any policy issued by the insurer through the agent, and, if the agent is a general agent, the information in the general agent’s records related to any policy issued by the insurer through an agent under contract to him or her, including the name and address of such subagent. A policy shall be deemed issued through an agent if the agent has a property interest in the expiration of the policy, or if the agent has had in his or her possession a copy of the declarations of the policy at any time during the life of the policy, except where the ownership of the expiration of the policy has been transferred to another.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1321_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any agent failing to provide information to the liquidator as required in subsection (a) of this section may be subject to payment of a penalty of not more than $1,000 and may have his or her licenses suspended, the penalty to be imposed after a hearing held by the Commissioner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

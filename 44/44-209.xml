@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-209"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-209/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_209">
+        <akn:num>44-209</akn:num>
+        <akn:heading>Proficiency testing programs.</akn:heading>
+<akn:subsection eId="subsec_44-209_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each clinical laboratory shall participate in a proficiency testing program approved by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-209_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A proficiency testing program shall include at least 3 proficiency testing events per year, performed at approximately equal intervals. Each testing event shall include at least 5 samples. Proficiency testing shall be conducted for each category of tests for which the clinical laboratory has obtained a license. If there is no sample available for evaluation during a testing event for a particular category of laboratory tests, the clinical laboratory must devise a system for self-evaluation of this category of tests. The system for self-evaluation shall be approved by the Mayor and performed at least twice per year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-209_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The clinical laboratory shall demonstrate continuing satisfactory performance in the proficiency testing program. Continuing satisfactory performance shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-209_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Proficiency testing programs shall report the results of each proficiency test to the Mayor. Upon receipt of a determination of a substandard level of overall performance, the Mayor shall, within 30 days, inspect the clinical laboratory at any time during normal operating ours. For the purpose of this section, a substandard level of overall performance shall include intentional nonperformance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-209_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Upon completion of the inspection, the Mayor shall determine if any deficiencies exist. Upon an affirmative determination of any deficiency, the Mayor shall notify the laboratory director or the designated supervisory physician in writing of the deficiencies. The clinical laboratory shall submit a written plan to correct the deficiencies and an appropriate course of remedial education and dates by which the corrections shall be made to the Mayor within 30 days of the receipt of the notice of the deficiencies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-209_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>If the clinical laboratory does not submit a plan for corrective action that is approved by the Mayor, or if a clinical laboratory is determined by the Mayor after a subsequent inspection not to have corrected the deficiencies as specified in the plan by the expiration dates in the plan, the Mayor may take action to revoke, suspend, or limit the laboratory license pursuant to § 44-212.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-209_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>The analyses and reports of a proficiency testing program may be considered by the Mayor in proceedings under § 44-213.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

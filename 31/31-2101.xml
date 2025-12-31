@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2101">
+        <akn:num>31-2101</akn:num>
+        <akn:heading>Standards for determining insurance companies in hazardous financial condition.</akn:heading>
+<akn:subsection eId="subsec_31-2101_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In order to determine whether the continued operation of any insurer transacting an insurance business in the District of Columbia might be deemed to be hazardous to the policyholders, creditors, or the general public, the Mayor may consider the following standards, either singly or in combination of 2 or more:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2101_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of making a determination of an insurer’s financial condition under this chapter, the Mayor may:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

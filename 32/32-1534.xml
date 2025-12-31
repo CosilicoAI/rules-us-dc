@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1534"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1534/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1534">
+        <akn:num>32-1534</akn:num>
+        <akn:heading>Security for payment of compensation.</akn:heading>
+<akn:subsection eId="subsec_32-1534_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every employer shall secure the payment of compensation under this chapter: (1) by insuring and keeping insured the payment of such compensation with any stock company or mutual company or association, or with any person or fund, while such person or fund is authorized: (A) under the laws of the United States, the District of Columbia, or of any state, to insure workers’ compensation; and (B) by the Mayor to insure payment of compensation under this chapter; or (2) by furnishing satisfactory proof to the Mayor of his financial ability to pay such compensation and receiving an authorization from the Mayor to pay such compensation directly. The Mayor may, as a condition to such authorization, require such employer to deposit with the District of Columbia Treasurer either an indemnity bond or securities (at the option of the employer) of a kind and in an amount determined by the Mayor, and subject to such conditions as the Mayor may prescribe, which shall include authorization to the Mayor, in case of default, to sell any such securities sufficient to pay compensation awards or to bring suit upon such bonds, to procure prompt payment of compensation under this chapter. Any employer securing compensation in accordance with the provisions of this subsection shall be known as a self-insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1534_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In granting authorization to any carrier to insure payment of compensation under this chapter the Mayor may take into consideration the recommendation of any District authority having supervision over carriers. Any carrier so authorized by the Mayor shall maintain a representative in the District of Columbia who can fulfill all of the obligations of the carrier under this chapter and who shall maintain a file of all active claims being serviced by the carrier in the District of Columbia. The Mayor may suspend or revoke the authorization of any carrier to insure payment of compensation under this chapter for good cause shown after a hearing at which the carrier shall be entitled to be heard in person or by counsel and to present evidence. No suspension or revocation shall affect the liability of any carrier already incurred.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

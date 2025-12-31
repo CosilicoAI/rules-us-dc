@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_251_07">
+        <akn:num>46-251.07</akn:num>
+        <akn:heading>Withholding for health insurance coverage.</akn:heading>
+<akn:subsection eId="subsec_46-251_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When an employer receives notice from a health insurer that a child has been enrolled in health insurance coverage pursuant to a medical support notice or a support order requiring a parent to provide health insurance coverage, the employer shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Withholding for health insurance coverage shall not exceed the limitations set forth in § 303(b) of the Consumer Credit Protection Act, approved May 29, 1968 (82 Stat. 163; 15 U.S.C. § 1673(b)).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing in this subchapter shall alter the obligation of an obligor, obligee, employer, or other person or entity to comply with the provisions for the withholding of earnings or other income stated in subchapter I of Chapter 2 of this title.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4201"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4201/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4201">
+        <akn:num>16-4201</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_16-4201_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Mediation” means a process in which a mediator facilitates communication and negotiation between parties to assist them in reaching a voluntary agreement regarding their dispute.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4201_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Mediation communication” means a statement, whether oral or in a record or verbal or nonverbal, that occurs during a mediation or is made for purposes of considering, conducting, participating in, initiating, continuing, or reconvening a mediation or retaining a mediator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4201_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Mediation party” means a person that participates in a mediation and whose agreement is necessary to resolve the dispute.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4201_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Mediator” means an individual who conducts a mediation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4201_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Nonparty participant” means a person, other than a party or mediator, that participates in a mediation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4201_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Person” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, government; governmental subdivision, agency, or instrumentality; public corporation, or any other legal or commercial entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4201_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Proceeding” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4201_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4201_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Sign” means:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

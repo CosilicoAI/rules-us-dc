@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-305.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-305.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_305_05">
+        <akn:num>29-305.05</akn:num>
+        <akn:heading>Notice of meeting.</akn:heading>
+<akn:subsection eId="subsec_29-305_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A corporation shall notify shareholders of the date, time, and place of each annual and special shareholders’ meeting no less than 10, or more than, 60 days before the meeting date. If the board of directors has authorized participation by means of remote communication pursuant to § 29-305.09 for any class or series of shareholders, the notice to such class or series of shareholders shall describe the means of remote communication to be used. Unless this chapter or the articles of incorporation require otherwise, the corporation shall give notice only to shareholders entitled to vote at the meeting.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Unless this chapter or the articles of incorporation require otherwise, notice of an annual meeting need not include a description of the purpose or purposes for which the meeting is called.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notice of a special meeting shall include a description of the purpose or purposes for which the meeting is called.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If not otherwise fixed under § 29-305.03 or [§] 29-305.07, the record date for determining shareholders entitled to notice of and to vote at an annual or special shareholders’ meeting shall be the day before the 1st notice is delivered to shareholders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_05_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Unless the bylaws require otherwise, if an annual or special shareholders’ meeting is adjourned to a different date, time, or place, notice need not be given of the new date, time, or place if the new date, time, or place is announced at the meeting before adjournment; provided, that if a new record date for the adjourned meeting is or must be fixed under § 29-305.07, notice of the adjourned meeting shall be given under this section to persons that are shareholders as of the new record date.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

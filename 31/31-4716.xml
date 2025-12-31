@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4716"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4716/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4716">
+        <akn:num>31-4716</akn:num>
+        <akn:heading>Rights of parties under life policies.</akn:heading>
+<akn:subsection eId="subsec_31-4716_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a policy of insurance, whether heretofore or hereafter issued, is effected by any person on his own life or on another life in favor of some person other than himself having an insurable interest therein, or, except in cases of transfer with intent to defraud creditors, if a policy of life insurance is assigned or in any way made payable to any such person, the lawful beneficiary or assignee thereof, other than the insured or the person so effecting such insurance or executors or administrators of such insured or the person so effecting such insurance, shall be entitled to its proceeds and avails against the creditors and representatives of the insured and of the person effecting such insurance whether or not the right to change the beneficiary is reserved or permitted and whether or not the policy is made payable to the person whose life is insured, if the beneficiary or assignee shall predecease such person; provided, that subject to the statute of limitations the amount of any premiums for said insurance paid with intent to defraud creditors, with interest thereon, shall inure to their benefit from the proceeds of the policy, but the company issuing the policy shall be discharged of all liability thereon by payment of its proceeds in accordance with its terms, unless before such payment the company shall have written notice by or in behalf of a creditor of a claim to recover for transfer made or premiums paid with intent to defraud creditors with specifications of the amount claimed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4716_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A charitable, benevolent, educational, governmental, or religious institution that is described in § 501(c)(3) or § 170(b)(1)(A) of the Internal Revenue Code or a trust for the benefit of the institution that is qualified as a charitable remainder trust under § 664 or a pooled income fund under § 642(c)(5) of the Internal Revenue Code may acquire an insurable interest in the life of an individual if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4716_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subsection (b) of this section does not prohibit the insured from retaining all ownership rights conferred by the insurance policy, except the right to loan or borrow value during the premium-paying period or at maturity.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

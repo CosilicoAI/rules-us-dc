@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1902.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1902.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1902_12">
+        <akn:num>42-1902.12</akn:num>
+        <akn:heading>Allocation where condominium expandable or contains convertible land; reallocation following addition of land; where all convertible space converted to common elements; effect of reduction in number of units.</akn:heading>
+<akn:subsection eId="subsec_42-1902_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a condominium contains any convertible land or is an expandable condominium, then the declaration shall not allocate undivided interests in the common elements on the basis of par value unless the declaration:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1902_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No allocation of interests in the common elements to any units created within any convertible land or within any additional land shall be effective until plats and plans depicting such units are recorded pursuant to § 42-1902.14(c). The declarant shall reallocate the undivided interests in the common elements so that the units within the convertible land or additional land shall be allocated undivided interests in the common elements on the same basis as the units depicted on the plats and plans recorded pursuant to subsections (a) and (b) of § 42-1902.14. Promptly upon recording the amendment to the declaration, the declarant shall record an amendment to the plats and plans depicting the units created within the convertible land or additional land.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1902_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If all of a convertible space is converted into common elements, then the undivided interest in the common elements appertaining to such space shall thenceforth appertain to the remaining units, being allocated among them in proportion to their undivided interests in the common elements. The principal officer of the unit owners’ association, or such other officer or officers as the condominium instruments may specify, shall forthwith prepare, execute, and record an amendment to the declaration reflecting the reallocation of undivided interests produced thereby.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1902_12_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In the case of a leasehold condominium, if the expiration or termination of any lease causes a contraction of the condominium which reduces the number of units, then the undivided interest in the common elements appertaining to any units thereby withdrawn from the condominium shall thenceforth appertain to the remaining units, being allocated among them in proportion to their undivided interests in the common elements. The principal officer of the unit owners’ association, or such other officer or officers as the condominium instruments may specify, shall forthwith prepare, execute, and record an amendment to the declaration reflecting the reallocation of undivided interests produced thereby.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-2605"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-2605/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_2605">
+        <akn:num>11-2605</akn:num>
+        <akn:heading>Services other than counsel.</akn:heading>
+<akn:subsection eId="subsec_11-2605_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Counsel for a person who is financially unable to obtain investigative, expert, or other services necessary for an adequate defense may request them in an ex parte application. Upon finding, after appropriate inquiry in an ex parte proceeding, that the services are necessary and that the person is financially unable to obtain them, the court shall authorize counsel to obtain the services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-2605_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Counsel appointed under this section may obtain, subject to later review, investigative, expert, or other services, excluding the preparation of reporter’s transcript, without prior authorization if necessary for an adequate defense. The total cost of services obtained without prior authorization may not exceed $375 or the rate provided by § 3006A(e)(2) of title 18, United States Code, (or, in the case of investigative services, a fixed rate of $25 per hour) whichever is higher, and expenses reasonably incurred.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-2605_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Compensation to be paid to a person for services rendered by such person to a person under this subsection shall not exceed $750, or the rate provided by § 3006A(e)(3) of title 18, United States Code, (or, in the case of investigative services, a fixed rate of $25 per hour) whichever is higher, exclusive of reimbursement for expenses reasonably incurred, unless payment in excess of that limit is certified by the court, as necessary to provide fair compensation for services of an unusual character or duration, and the amount of the excess payment is approved by the presiding judge in the case.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

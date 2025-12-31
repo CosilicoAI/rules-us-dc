@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-618.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-618.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_618_01">
+        <akn:num>1-618.01</akn:num>
+        <akn:heading>Standards of conduct.</akn:heading>
+<akn:subsection eId="subsec_1-618_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each employee, member of a board or commission, or a public official of the District government must at all times maintain a high level of ethical conduct in connection with the performance of official duties, and shall refrain from taking, ordering, or participating in any official action which would adversely affect the confidence of the public in the integrity of the District government.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-618_01_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>As a matter of public policy, each employee, member of a board or commission, or a public official of the District is encouraged to report, pursuant to subchapter XV-A of this chapter, any violation of a law or rule, or the misuse of government resources, as soon as the employee, member of a board or commission, or a public official becomes aware of the violation or misuse of resources.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-618_01_a_2">
+      <akn:num>(a-2)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-618_01_a_3">
+      <akn:num>(a-3)</akn:num>
+      <akn:content><akn:p>Notwithstanding the penalty provisions of this chapter, any public official who knowingly violates any provision of subsection (a-2) of this section may be subject to an adverse performance action but not termination.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-618_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall issue rules and regulations governing the ethical conduct of all District employees after consultation with the District of Columbia Board of Education, the Board of Trustees of the University of the District of Columbia, and recognized labor representatives of District employees, and shall require the submission by designated employees at a policy making, contract negotiating, or purchasing level of reports of financial interest in matters which may create conflicts of interest. The Mayor shall provide for the annual auditing of all reports filed under the authority of this subsection.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

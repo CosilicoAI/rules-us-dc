@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-585"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-585/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_585">
+        <akn:num>23-585</akn:num>
+        <akn:heading>Violation of condition of release on citation; failure to appear.</akn:heading>
+<akn:subsection eId="subsec_23-585_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person who knowingly fails to abide by a condition of release on citation issued pursuant to § 23-584(d)(1) before his or her first appearance before a judicial officer shall be taken into custody in accordance with § 23-581 and presented before a judicial officer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-585_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person who, having been released on a citation issued pursuant to § 23-584 or having posted bond pursuant to § 23-1110, willfully fails to appear as required shall:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

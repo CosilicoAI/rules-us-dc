@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.28"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.28/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1162_28">
+        <akn:num>1-1162.28</akn:num>
+        <akn:heading>Exceptions.</akn:heading>
+<akn:subsection eId="subsec_1-1162_28_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person need not register with the Director pursuant to § 1-1162.29 if the person is:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_28_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person who is exempt from registration under any provision of this section, except a person exempt from registration under the provisions of subsection (a)(1) of this section, may be a registrant for other purposes under this part; provided, that no activity engaged in by the person shall constitute a conflict of interest under the provisions of § 1-1162.23. Registrants have no obligation to report activities in furtherance of exempt activities under this section in activity reports required under § 1-1162.30.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

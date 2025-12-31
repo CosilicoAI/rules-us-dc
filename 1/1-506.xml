@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-506"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-506/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_506">
+        <akn:num>1-506</akn:num>
+        <akn:heading>Refusal to give testimony relating to office or employment.</akn:heading>
+<akn:subsection eId="subsec_1-506_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any officer or employee of the District who refuses to testify upon matters relating to his office or employment in any proceeding wherein he is a defendant or is called as a witness upon the ground that his answer may tend to incriminate him or compel him to be a witness against himself, or who refuses so to testify on such ground when called by a grand jury or a congressional committee, shall forfeit his office or employment and any emolument, perquisite, or benefit (by way of pension or otherwise) arising therefrom, and be disqualified from holding any public office or employment under the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-506_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any former officer or employee of the District who refuses to testify upon matters relating to his former office or employment in any proceeding wherein he is a defendant or is called as a witness upon the ground that his answer may tend to incriminate him or compel him to be a witness against himself, or who refuses so to testify on such ground when called by a grand jury or a congressional committee, shall forfeit any emolument, perquisite, or benefit (by way of pension or otherwise) arising from such former office or employment, and be disqualified from holding any public office or employment under the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-506_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the retirement pay, pension, or annuity of any officer or employee or former officer or employee of the District is forfeited under this section, there shall be paid to such individual a sum equal to (1) the total amount paid by him as contributions toward such retirement pay, pension, or annuity, plus any accrued interest attributable to such contributions, less (2) the total amount of such retirement pay, pension, or annuity received by him prior to such forfeiture.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

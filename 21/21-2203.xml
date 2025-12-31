@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2203"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2203/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2203">
+        <akn:num>21-2203</akn:num>
+        <akn:heading>Presumption of capacity.</akn:heading>
+<akn:subsection eId="subsec_21-2203_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Has been voluntarily or involuntarily hospitalized for mental illness pursuant to § 21-501 et seq.;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2203_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Has a diagnosis of an intellectual disability or has been determined by a court to be incompetent to refuse commitment under § 7-1301.01 et seq.; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2203_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Has a conservator or guardian appointed pursuant to § 21-1501 et seq. [repealed] or § 21-2001 et seq.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

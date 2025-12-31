@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-841.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-841.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_841_03">
+        <akn:num>48-841.03</akn:num>
+        <akn:heading>Off-label use of medication.</akn:heading>
+<akn:subsection eId="subsec_48-841_03_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Explain to the patient, in easily understood terms, that the medication is not within the uses approved for that medication by the FDA; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-841_03_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Provide the patient with information regarding the potential risks and side effects associated with using the medication for the off-label use.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

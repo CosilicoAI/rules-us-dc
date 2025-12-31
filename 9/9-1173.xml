@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-1173"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-1173/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_1173">
+        <akn:num>9-1173</akn:num>
+        <akn:heading>Aerial wire planning requirements.</akn:heading>
+<akn:subsection eId="subsec_9-1173_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Prior to the expansion or construction of aerial wire-powered streetcar transit beyond the H Street/Benning Road line, authorized pursuant to § 9-1171, the Mayor shall develop a plan for the use of aerial wires for each phase or extension of the streetcar transit system and submit the plan to the Council, along with a written report that includes:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-1173_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall submit each proposed plan to the Council for a 45-day period of review, excluding Saturdays, Sundays, holidays, and days of Council recess. If the Council does not approve or disapprove of a proposed plan, by resolution, within the 45-day review period, the plan shall be deemed disapproved.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-1173_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Council shall hold a hearing on each plan before the plan shall be approved or disapproved.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

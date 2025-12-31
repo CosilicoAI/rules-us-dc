@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-104.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-104.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_104_02">
+        <akn:num>8-104.02</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_8-104_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Department” means the District Department of the Environment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-104_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Enhanced efficiency fertilizer” means a fertilizer product with characteristics that allow increased plant uptake and reduces the potential of nutrient loss to the environment, such as gaseous loss, leaching, or runoff, when compared to an appropriate reference fertilizer product.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-104_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Fertilizer” means a material that contains one or more nutrients intended to promote plant growth.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-104_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Low phosphorus fertilizer” means a fertilizer containing no more than 5% of available phosphate (P2O5), and that has an application rate not to exceed 0.25 pound of available phosphate (P2O5)/1,000 square feet/application and 0.5 pound of available phosphate (P2O5)/1,000 square feet/year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-104_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Organic fertilizer” means a material that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-104_02_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Soil test” means a scientific measurement that determines the nutrient levels of soil.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-104_02_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Turf” means nonagricultural managed grasses, such as the grasses found at parks, recreation areas, golf courses, commercial locations, cemeteries, athletic fields, schools, universities, government grounds, residential lawns, and other similar nonagricultural managed grasses. The term “turf” does not include non-grass groundcovers, shrubs, trees, vegetable and flower gardens, and indoor applications such as greenhouses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-104_02_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Waterbody” means a wetland, watercourse, river, stream, creek, storm water retention or detention basin, or other similar water resource.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

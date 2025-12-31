@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-907"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-907/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_907">
+        <akn:num>31-907</akn:num>
+        <akn:heading>Optional provisions in a plan of conversion.</akn:heading>
+<akn:subsection eId="subsec_31-907_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The following provisions may be included in the plan:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-907_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The plan may allocate to a tax-qualified employee benefit plan nontransferable subscription rights to purchase up to 10% of the capital stock of the converted stock company, or the stock of another corporation that is participating in the conversion plan as provided in § 31-906(e) and (l). The employee benefit plan shall be entitled to exercise its subscription rights regardless of the amount of shares purchased by other persons.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

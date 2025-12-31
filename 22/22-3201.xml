@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3201"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3201/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3201">
+        <akn:num>22-3201</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_22-3201_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Appropriate” means to take or make use of without authority or right.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3201_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Deprive” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3201_2A">
+      <akn:num>(2A)</akn:num>
+      <akn:content><akn:p>“Person” means an individual (whether living or dead), trust, estate, fiduciary, partnership, company, corporation, association, organization, union, government department, agency, or instrumentality, or any other legal entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3201_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Property” means anything of value. The term “property” includes, but is not limited to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3201_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Property of another” means any property in which a government or a person other than the accused has an interest which the accused is not privileged to interfere with or infringe upon without consent, regardless of whether the accused also has an interest in that property. The term “property of another” includes the property of a corporation or other legal entity established pursuant to an interstate compact. The term “property of another” does not include any property in the possession of the accused as to which any other person has only a security interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3201_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Services” includes, but is not limited to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3201_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Stolen property” includes any property that has been obtained by conduct previously known as embezzlement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3201_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Value” with respect to a credit card, check, or other written instrument means the amount of money, credit, debt, or other tangible or intangible property or services that has been or can be obtained through its use, or the amount promised or paid by the credit card, check, or other written instrument.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

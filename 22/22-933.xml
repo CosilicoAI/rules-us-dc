@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-933"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-933/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_933">
+        <akn:num>22-933</akn:num>
+        <akn:heading>Criminal abuse of a vulnerable adult.</akn:heading>
+<akn:subsection eId="subsec_22-933_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Inflicts or threatens to inflict physical pain or injury by hitting, slapping, kicking, pinching, biting, pulling hair or other corporal means;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-933_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Uses repeated or malicious oral or written statements that would be considered by a reasonable person to be harassing or threatening; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-933_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Imposes unreasonable confinement or involuntary seclusion, including but not limited to, the forced separation from other persons against his or her will or the directions of any legal representative.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

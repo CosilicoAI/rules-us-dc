@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1131.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1131.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1131_14">
+        <akn:num>31-1131.14</akn:num>
+        <akn:heading>Appointments.</akn:heading>
+<akn:subsection eId="subsec_31-1131_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An insurance producer shall not act as an agent of an insurer unless the insurance producer becomes an appointed agent of that insurer. An insurance producer who is not acting as an agent of an insurer shall not be required to become appointed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>To appoint an insurance producer as its agent, the appointing insurer shall file, on a form prescribed by the Commissioner, a notice of appointment within 30 days from the date that the agency contract is executed or the first insurance application is submitted.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Upon receipt of the notice of appointment, the Commissioner shall verify, within 10 days, that the insurance producer is eligible for appointment. If the insurance producer is determined to be ineligible for appointment, the Commissioner shall notify the insurer within 5 days of the determination.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_14_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An insurer shall pay an appointment fee, in the amount and on or before the date prescribed by the Commissioner, for each insurance producer appointed by the insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_14_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An insurer shall pay a renewal appointment fee in the amount and on or before the date prescribed by the Commissioner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

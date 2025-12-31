@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_901">
+        <akn:num>25-901</akn:num>
+        <akn:heading>Taxes to be levied, collected, and paid on alcoholic beverages except beer.</akn:heading>
+<akn:subsection eId="subsec_25-901_A">
+      <akn:num>(A)</akn:num>
+      <akn:content><akn:p>A tax of $.30 on every wine-gallon of wine containing 14% or less of   alcohol by volume, other than champagne, sparkling wine, and any wine   artificially carbonated, and a proportionate tax at the same rate on all   fractional parts of such gallon;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-901_B">
+      <akn:num>(B)</akn:num>
+      <akn:content><akn:p>A tax of $.40 on every wine-gallon of wine containing more than 14% of alcohol by volume, other than champagne, sparkling wine, and any wine artificially carbonated, and a proportionate tax at the same rate on all fractional parts of such gallon;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-901_C">
+      <akn:num>(C)</akn:num>
+      <akn:content><akn:p>A tax of $.45 on every wine-gallon of champagne, sparkling wine, and any wine artificially carbonated, and a proportionate tax at the same rate on all fractional parts of such gallon;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-901_D">
+      <akn:num>(D)</akn:num>
+      <akn:content><akn:p>A tax of $1.50 on every wine-gallon of spirits, and a proportionate tax at the same rate on all fractional parts of such gallon; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-901_E">
+      <akn:num>(E)</akn:num>
+      <akn:content><akn:p>A tax of $1.50 on every wine-gallon of all other alcoholic beverages, and a proportionate tax at the same rate on all fractional parts of such gallon.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

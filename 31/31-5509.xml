@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5509"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5509/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5509">
+        <akn:num>31-5509</akn:num>
+        <akn:heading>Nonduplication of recovery.</akn:heading>
+<akn:subsection eId="subsec_31-5509_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person having a claim against an insurer under any provision in an insurance policy, other than a policy of an insolvent insurer which is also a covered claim, shall be required to exhaust first his or her right under such a policy. Any amount payable on a covered claim under this chapter shall be reduced by the amount of any recovery under such an insurance policy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5509_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person having a claim which may be recovered under more than one insurance guaranty association or its equivalent shall seek recovery first from the Association of the place of residence of the insured, except that if it is a first-party claim for damage to property with a permanent location, he or she shall seek recovery first from the Association of the location of the property, and if it is a workers’ compensation claim, he or she shall seek recovery first from the Association of the residence of the claimant. Any recovery under this chapter shall be reduced by the amount of recovery from any other insurance guaranty association or its equivalent.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

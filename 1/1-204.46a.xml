@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.46a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.46a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_46a">
+        <akn:num>1-204.46a</akn:num>
+        <akn:heading>Permitting increase in amount appropriated as local funds during a fiscal year.</akn:heading>
+<akn:subsection eId="subsec_1-204_46a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In General. — Notwithstanding the fourth sentence of § 1-204.46, to account for an unanticipated growth of revenue collections, the amount appropriated as District of Columbia funds under budget approved by Act of Congress as provided in such section may be increased —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_46a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Conditions. — The District of Columbia may obligate and expend any increase in the amount of funds authorized under this section only in accordance with the following conditions:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_46a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Effective Date. — This section shall apply with respect to fiscal years 2006 through 2007.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

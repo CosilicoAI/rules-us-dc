@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3902"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3902/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3902">
+        <akn:num>22-3902</akn:num>
+        <akn:heading>Testing and counseling.</akn:heading>
+<akn:subsection eId="subsec_22-3902_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon the request of a victim, the court shall order any individual convicted of an offense, as defined by § 22-3901, to furnish a blood sample to be tested for the presence of HIV.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3902_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The court shall promptly notify the Mayor of any court order for an HIV test. Upon receipt of a court order for an HIV test, the Mayor shall promptly collect a blood sample from the convicted individual and conduct an HIV test on the blood sample.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3902_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After conducting the HIV test, the Mayor shall promptly notify the victim and the convicted individual of the results of the HIV test. The Mayor shall not disclose the results of the HIV test without also providing, offering, or arranging for appropriate counselling and referral for appropriate health care and support services to the victim and the convicted individual.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3902_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The victim may disclose the results of the HIV test to any other individual to protect the health and safety of the victim, the victim’s sexual partners, or the victim’s family.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3902_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The result of any HIV test conducted under this section shall not be admissible as evidence of guilt or innocence in any criminal proceeding.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

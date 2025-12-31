@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1316"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1316/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1316">
+        <akn:num>8-1316</akn:num>
+        <akn:heading>Identification of major generators of hazardous waste and releasers of toxic chemicals.</akn:heading>
+<akn:subsection eId="subsec_8-1316_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 180 days of March 8, 1991, the Mayor shall determine and present to the Council a report that identifies the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1316_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 30 days after the Mayor has presented the report specified in subsection (a) of this section to the Council, the Mayor shall notify in writing each business identified that the business is subject to the provisions of this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1316_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Every 4 years following March 8, 1991, the Mayor shall reassess the findings required by subsection (a) of this section and make any change in the reporting or targeting of technical assistance indicated.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

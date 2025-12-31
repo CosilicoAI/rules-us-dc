@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1504"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1504/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1504">
+        <akn:num>2-1504</akn:num>
+        <akn:heading>Office of Youth Advocacy established; functions; appointment of Director; personnel.</akn:heading>
+<akn:subsection eId="subsec_2-1504_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is hereby established in the executive branch an Office of Youth Advocacy which shall perform a planning, review and evaluation function for all programs operated by the District of Columbia government impacting on children and youth, including employment, health, counseling recreation, and training.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1504_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Director of the Office of Youth Advocacy shall be appointed by the Mayor. The Director may hold no other public office.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1504_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The following positions and their associated funding are hereby authorized to be transferred from the Office of Youth Opportunity Services to the Office of Youth Advocacy:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.21"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.21/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_623_21">
+        <akn:num>1-623.21</akn:num>
+        <akn:heading>Claim required; contents.</akn:heading>
+<akn:subsection eId="subsec_1-623_21_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Compensation under this subchapter may be allowed only if an individual or someone on his or her behalf makes claim therefor. The claim shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_21_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may waive paragraphs (3) through (6) of subsection (a) of this section for reasonable cause shown.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

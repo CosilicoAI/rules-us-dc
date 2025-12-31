@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-309.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-309.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_309_03">
+        <akn:num>29-309.03</akn:num>
+        <akn:heading>Share exchange.</akn:heading>
+<akn:subsection eId="subsec_29-309_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Through a share exchange:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-309_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A foreign business corporation may be a party to a share exchange only if the share exchange is permitted by the laws under which the corporation is incorporated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-309_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The plan of share exchange shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-309_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Terms of a plan of share exchange may be made dependent on facts objectively ascertainable outside the plan in accordance with § 29-301.04.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-309_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The plan of share exchange may also include a provision that the plan may be amended by the directors or shareholders of a domestic acquired corporation; provided, that the shareholders that were entitled to vote on the plan shall be entitled to vote on any amendment of the plan that will change:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-309_03_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>This section shall not limit the power of a domestic corporation to acquire shares of another corporation in a transaction other than a share exchange.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-309_03_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A share exchange or interest exchange in which a business corporation and another form of entity are parties shall be governed by Chapter 2 of this title.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

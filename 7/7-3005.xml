@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-3005"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-3005/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_3005">
+        <akn:num>7-3005</akn:num>
+        <akn:heading>Administration of the Drug Treatment Choice Program and Addiction Recovery Fund.</akn:heading>
+<akn:subsection eId="subsec_7-3005_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Performing certification of treatment providers;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-3005_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Creating standardized intake forms and procedures to be utilized by APRA and treatment providers;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-3005_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Monitoring intake screening and assessments performed by qualified substance abuse counselors located within the APRA or the treatment providers;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-3005_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Determining whether the applicant is eligible to participate in the Program following the intake screening and assessment;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-3005_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Requiring the persons performing the intake screening and assessment, after determining eligibility, to share with the client the entire spectrum of treatment providers and to inform the client of his or her right to select the treatment provider of his or her choice in consultation with a qualified substance abuse counselor;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-3005_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Reviewing rehabilitation and aftercare plans, including estimated costs, submitted by treatment providers;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-3005_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Providing payment directly to treatment providers for services rendered at such times as established between APRA and the treatment provider; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-3005_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>Monitoring the rehabilitation and aftercare plans and the quality of the services rendered by the treatment providers.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

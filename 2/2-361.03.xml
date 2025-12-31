@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-361.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-361.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_361_03">
+        <akn:num>2-361.03</akn:num>
+        <akn:heading>Supply schedule, purchase card, and training funds.</akn:heading>
+<akn:subsection eId="subsec_2-361_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The CPO may charge and collect a fee, in an amount to be determined by rule, on all sales, purchase orders, delivery orders, task orders, and purchase card transactions made under contracts awarded to contractors under the DCSS.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-361_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The CPO may charge a fee for training conducted by the procurement training institute established pursuant to § 2-352.06.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-361_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to the terms of any memoranda of understanding with the Chief Financial Officer regarding adherence to the applicable requirements of federal grants, loans, or other extensions of credit to the District, the Chief Procurement Officer shall collect any rebates issued to the District by the purchase card issuers under the Purchase Card Program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-361_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>All funds received pursuant to this section shall be deposited in the unrestricted fund balance of the General Fund of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

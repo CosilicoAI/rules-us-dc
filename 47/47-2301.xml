@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2301">
+        <akn:num>47-2301</akn:num>
+        <akn:heading>Rate; deposit into General Fund.</akn:heading>
+<akn:subsection eId="subsec_47-2301_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2301_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The proceeds of the taxes imposed under §§ 47-2302 through 47-2315, and the money collected from fees charged for the registration and titling of motor vehicles, including fees charged for the issuance of permits to operate motor vehicles, shall be deposited in the General Fund of the District of Columbia established under § 47-131.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2301_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer of the District of Columbia shall transfer annually to the District of Columbia Highway Trust Fund the proceeds of the taxes imposed under subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

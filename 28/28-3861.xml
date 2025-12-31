@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3861"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3861/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3861">
+        <akn:num>28-3861</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_28-3861_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Consumer” means an individual who resides in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3861_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Credit report” means information maintained by a credit reporting agency bearing on a consumer’s creditworthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living, which is used or expected to be used or collected in whole or in part for:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3861_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Credit reporting agency” means any person who, for consideration, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of maintaining consumers’ credit information for the purpose of furnishing the information to third parties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3861_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Proper identification” means information generally considered sufficient to identify a person. Additional information concerning the consumer’s employment and personal or family history shall not be included within the term “proper identification” unless the consumer is unable to reasonably identify himself or herself with other information generally considered sufficient.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3861_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Security freeze” or “freeze” means a restriction, at the request of the consumer and subject to certain exceptions, that prohibits the credit reporting agency from releasing all or any part of a credit report or any information derived from it without the express authorization of the consumer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

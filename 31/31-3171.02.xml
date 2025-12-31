@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3171.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3171.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3171_02">
+        <akn:num>31-3171.02</akn:num>
+        <akn:heading>Establishment and purpose.</akn:heading>
+<akn:subsection eId="subsec_31-3171_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established, as an independent authority of the District government, the District of Columbia Health Benefit Exchange Authority. The Authority shall be an instrumentality, created to effectuate the purposes stated in this chapter, that shall have a legal existence separate from the District government.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3171_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The purposes of the Authority shall be to:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

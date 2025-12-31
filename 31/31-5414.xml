@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5414"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5414/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5414">
+        <akn:num>31-5414</akn:num>
+        <akn:heading>Immunity.</akn:heading>
+<akn:subsection eId="subsec_31-5414_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There shall be no liability on the part of, and no cause of action shall arise against, any member insurer or its agents or employees, the Association or its agents or employees, members of the Board of Directors, or the Mayor or the Mayor’s representatives, for any action or omission by them in performance of their powers and duties under this chapter, except in the case of willful misconduct, gross negligence, or criminal activity on the part of these persons.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5414_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The immunity established by subsection (a) of this section shall extend to the participation in any organization of 1 or more state associations of similar purposes and to any organization and its agents or employees.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

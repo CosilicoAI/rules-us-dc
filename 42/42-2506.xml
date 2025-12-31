@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2506"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2506/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2506">
+        <akn:num>42-2506</akn:num>
+        <akn:heading>Assistance available for District government and public charter school employees.</akn:heading>
+<akn:subsection eId="subsec_42-2506_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In addition to the assistance provided in §§ 42-2504 and 42-2505, a District of Columbia government employee, an employee of a District of Columbia public charter school, or a person who has accepted an offer to be a District of Columbia police officer, firefighter, emergency medical technician, public school teacher, or a teacher at a District of Columbia public charter school who is a first-time homebuyer in the District shall be eligible for the following assistance, subject to annual available appropriations:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2506_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any real property owner eligible to receive a real property tax credit under this section shall receive the tax credit as of the next half of the real property tax year following the date the real property owner applied for the credit. The real property owner shall continue to receive the real property tax credit for each succeeding 9 halves of the real property tax year; provided, that the real property owner remains eligible to receive the tax credit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2506_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section shall not apply to a home purchase with a closing date of after March 30, 2015.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

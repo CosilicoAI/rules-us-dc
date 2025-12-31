@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-204"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-204/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_204">
+        <akn:num>50-204</akn:num>
+        <akn:heading>Restrictions on the use of official vehicles.</akn:heading>
+<akn:subsection eId="subsec_50-204_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this section, no officer or employee of the District may be provided with an official vehicle unless the officer or employee uses the vehicle only in the performance of the officer’s or employee’s official duties. For purposes of this subsection, the term “official duties” shall not include travel between the officer’s or employee’s residence and workplace; except in the case of (1) an officer or employee of the Metropolitan Police Department who resides in the District or is otherwise designated by the Chief of the Department; (2) at the discretion of the Fire Chief, an officer or employee of the D.C. Fire and Emergency Medical Services Department who resides in the District and is on call 24 hours a day; (3) the Mayor; (4) the Chairman of the Council; (5) at the discretion of the Chief Medical Examiner, an employee of the Office of the Chief Medical Examiner who resides in the District and is on call 24 hours a day; (6) at the discretion of the Director of the Homeland Security and Emergency Management Agency, an officer or employee of the Homeland Security and Emergency Management Agency who resides in the District and is on call 24 hours a day; and (7) at the discretion of the Director of the Department of Corrections, an officer or employee of the District of Columbia Department of Corrections who resides in the District and is on call 24 hours a day.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-204_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-204_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-204_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>[Not funded].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

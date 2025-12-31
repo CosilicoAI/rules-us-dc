@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1005.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1005.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1005_16">
+        <akn:num>29-1005.16</akn:num>
+        <akn:heading>Action without a meeting.</akn:heading>
+<akn:subsection eId="subsec_29-1005_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless the organic rules require that action be taken only at a members meeting, any action that may be taken by the members may be taken without a meeting if each member entitled to vote on the action consents in a record to the action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1005_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Consent under subsection (a) of this section may be withdrawn by a member in a record at any time before the limited cooperative association receives a consent from each member entitled to vote.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1005_16_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Consent to any action may specify the effective date or time of the action.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

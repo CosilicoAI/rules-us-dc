@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-403"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-403/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_403">
+        <akn:num>25-403</akn:num>
+        <akn:heading>License renewal application for manufacturer, wholesaler, or retailer.</akn:heading>
+<akn:subsection eId="subsec_25-403_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An applicant for license renewal shall verify, by affidavit, the accuracy of its application, including all documents and submissions constituting a part of the application for its initial license or, if appropriate, at the time of a Board-approved substantial change in operation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-403_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the case of an application for renewal of a restaurant or hotel license, the applicant shall present evidence establishing that the sale of food accounted for at least 45% of gross annual receipts from the operation of the restaurant or of the dining room of the hotel during the current license period.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-403_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The applicant shall submit documents or other written evidence establishing to the satisfaction of the Board that the applicant has complied with the requirements of § 25-423.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-403_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Board shall establish application procedures for the renewal of a caterer’s license under § 25-211(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-403_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

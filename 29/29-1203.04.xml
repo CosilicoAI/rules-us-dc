@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1203.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1203.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1203_04">
+        <akn:num>29-1203.04</akn:num>
+        <akn:heading>Limitation on liability of trustees and beneficial owners.</akn:heading>
+<akn:subsection eId="subsec_29-1203_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A debt, obligation, or other liability of a statutory trust or series thereof shall be solely a debt, obligation, or other liability of the trust or series thereof. A beneficial owner, trustee, or person designated pursuant to § 29-1201.03(e)(8) or (9) is not personally liable, directly or indirectly, by way of contribution or otherwise, for a debt, obligation, or other liability of the trust or series thereof solely by reason of being or acting as a trustee, beneficial owner, or person designated pursuant to § 29-1201.03(e)(8) or (9. This subsection applies regardless of the dissolution of the statutory trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1203_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subchapter IV of this chapter, property of a statutory trust held in the name of the trust or by the trustee in the trustee’s capacity as trustee shall be subject to attachment and execution to satisfy a debt, obligation, or other liability of the trust.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

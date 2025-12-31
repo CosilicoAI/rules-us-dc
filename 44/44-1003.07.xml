@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1003.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1003.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1003_07">
+        <akn:num>44-1003.07</akn:num>
+        <akn:heading>Notice to resident and resident’s representative; informal conference.</akn:heading>
+<akn:subsection eId="subsec_44-1003_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Before a resident is transferred or discharged under § 44-1003.05(a)(1) through (4), the Mayor shall provide the resident, the representative of a resident, and the Long-Term Care Ombudsman with a written notice stating the reasons for the intended action and informing them of their right to contest the transfer or discharge under § 44-1003.09.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before the transfer or discharge, the Mayor shall hold an informal conference with the resident, the representative of a resident, and the Long-Term Care Ombudsman at which they may present objections to the proposed transfer or discharge plan and alternative placement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

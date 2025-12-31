@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2855.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2855.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2855_04">
+        <akn:num>47-2855.04</akn:num>
+        <akn:heading>Rules; fees.</akn:heading>
+<akn:subsection eId="subsec_47-2855_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall adopt rules as necessary to administer this subchapter. The rules may include the specifying of forms and the setting of fees for trade name registrations, amendments, searches, renewals, and copies of registration documents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2855_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Fees set pursuant to subsection (a) of this section shall not exceed the actual cost of administering this title [subchapter]; provided, that</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

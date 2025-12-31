@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-704"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-704/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_704">
+        <akn:num>20-704</akn:num>
+        <akn:heading>Notice of appointment to interested persons, creditors and unknown heirs.</akn:heading>
+<akn:subsection eId="subsec_20-704_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 20 days after appointment, the personal representative shall, unless notice has already been given under this subsection, publish a notice of the appointment in a newspaper of general circulation of the District of Columbia and any other publication the Court may order or provide by Rule once a week for 3 successive weeks. This notice shall announce the appointment and address of the personal representative, state whether administration is supervised or unsupervised, and notify creditors of the estate to present their claims. The personal representative shall file with the Register a certification specifying the date and content of the published notice. The notice shall be substantially in the following form:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-704_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Not later than 20 days after appointment, a personal representative (except when notice under this subsection has already been given) shall send, by registered or certified mail to the heirs and legatees of the decedent and to all creditors whose identities are known or whose identities are reasonably ascertainable by reasonably diligent efforts, the text of the first newspaper notice of the appointment of such representative, and the following general information in a form developed by the Court:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-704_b_1">
+      <akn:num>(b-1)</akn:num>
+      <akn:content><akn:p>The personal representative shall certify to the Register that notices under subsection (b) of this section have been given.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-704_b_2">
+      <akn:num>(b-2)</akn:num>
+      <akn:content><akn:p>Within 90 days after the appointment of the personal representative, the personal representative (whether supervised or unsupervised) shall certify to the Register that the notices required under subsection (b) of this section above have been given.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-704_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a will is admitted to probate after notice has been given under subsections (a) and (b) of this section, the personal representative shall give notice of appointment or reappointment as provided in subsections (a) and (b) of this section: except, that ordinary mail may be substituted for registered or certified mail in accordance with section 20-103.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

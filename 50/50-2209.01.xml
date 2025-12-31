@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2209.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2209.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2209_01">
+        <akn:num>50-2209.01</akn:num>
+        <akn:heading>Authorized; violations as moving violations; evidence; definition.</akn:heading>
+<akn:subsection eId="subsec_50-2209_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor is authorized to use an automated traffic enforcement system to detect moving infractions. Violations detected by an automated traffic enforcement system shall constitute moving violations. Proof of an infraction may be evidenced by information obtained through the use of an automated traffic enforcement system. For the purposes of this subchapter, the term “automated traffic enforcement system” means equipment that takes a film or digital camera-based photograph which is linked with a violation detection system that synchronizes the taking of a photograph with the occurrence of a traffic infraction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2209_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Recorded images taken by an automated traffic enforcement system are prima facie evidence of an infraction and may be submitted without authentication.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2209_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An individual’s driver’s license or privilege to operate a motor vehicle in the District shall not be suspended for a violation detected by an automated traffic enforcement system for failure to:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

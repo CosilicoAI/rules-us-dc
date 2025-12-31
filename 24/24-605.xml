@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-605"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-605/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_605">
+        <akn:num>24-605</akn:num>
+        <akn:heading>Voluntary admission to inpatient centers; information program; involuntary detention.</akn:heading>
+<akn:subsection eId="subsec_24-605_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person may voluntarily request admission to the inpatient center authorized in § 24-603(a), and no person committed under § 24-607 shall take precedence for purposes of admission over a person who voluntarily requests admission unless the person so committed is found by the Court to endanger the public safety. The medical officer in charge of the inpatient center is authorized to determine who shall be admitted as a patient. A complete medical, social, occupational, and family history shall be obtained as part of the diagnosis and classification at the inpatient center, and an effort shall also be made to obtain copies of all pertinent records from other agencies, institutions, and medical facilities in order to develop a complete and permanent history on each patient.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-605_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A program shall be developed for patients of the inpatient center who are diagnosed not to be chronic alcoholics which program shall be designed to inform them of the dangers of alcoholism.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-605_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In the case of a patient of the inpatient center who is diagnosed as a chronic alcoholic, he shall be given immediate, intensive treatment for chronic alcoholism at the inpatient center.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-605_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No patient may be detained at the inpatient center without his consent, except under an order of the Court issued under § 24-607. Reasonable regulations for checking out of the inpatient center and for providing transportation may be adopted. If a patient checks out of the center against medical advice, he may be readmitted at the discretion of the medical officer in charge of the center.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

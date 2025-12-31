@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2402.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2402.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2402_10">
+        <akn:num>38-2402.10</akn:num>
+        <akn:heading>International students.</akn:heading>
+<akn:subsection eId="subsec_38-2402_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Enrollment. — Effective with new admissions for academic year 1993-1994 and each succeeding academic year, the University (including preparatory, undergraduate, and graduate students) and NTID shall limit the enrollment of international students to approximately 10 percent of the total postsecondary student population enrolled respectively at the University or NTID.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2402_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Tuition surcharge. — Effective with new admissions, the tuition for postsecondary international students enrolled in the University (including preparatory, undergraduate, and graduate students) or NTID shall include a surcharge of 75% for the academic year 1993-1994 and 90 percent beginning with the academic year 1994-1995.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2402_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Reduction of surcharge. — Beginning with the academic year 1993-1994, the University or NTID may reduce the surcharge under subsection (b) of this section to 50% if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2402_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Definition. — For purposes of subsection (c), the term “developing country” means a country that has a 1990 per capita income not in excess of $4,000 in 1990 United States dollars.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

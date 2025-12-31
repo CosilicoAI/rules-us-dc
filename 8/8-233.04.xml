@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-233.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-233.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_233_04">
+        <akn:num>8-233.04</akn:num>
+        <akn:heading>Mayor’s responsibilities.</akn:heading>
+<akn:subsection eId="subsec_8-233_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall review and determine whether to approve a paint stewardship program plan submitted under § 8-233.02 within 120 days of its receipt. The Mayor shall make the plan available for public review for at least 30 days before determining whether to approve the plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-233_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may approve or deny the plan and may make approval of the plan contingent upon the removal, change, or inclusion of specific actions and practices, or the addition of paints covered under § 8-233.01(3).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-233_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Within 60 days of submission of a report under § 8-233.02(f), upon a determination by the Mayor that the implementation of the approved plan fails to meet the requirements of this subchapter or regulations promulgated pursuant to this subchapter, the Mayor may request modifications to the producer of representative organization’s paint stewardship program plan. The Mayor may approve or deny the proposed modifications to the plan as set forth in § 8-233.04(b). The Mayor may impose civil penalties under § 8-233.06 upon a determination that the paint stewardship organization or producer is not complying with the modified plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-233_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Within 7 days of approving a paint stewardship program plan, the Mayor shall list the producers and brands implementing or participating in the plan on the Mayor’s website.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-233_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Mayor shall impose an initial fee to be submitted with a proposed paint stewardship program plan under § 8-233.02(a) and an annual fee to be submitted thereafter in an amount sufficient to cover the costs of an agency reviewing a paint stewardship program plan, conducting inspections, and enforcing the provisions of this subchapter. Permit fees collected pursuant to this section shall not exceed the cost of implementing and enforcing this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

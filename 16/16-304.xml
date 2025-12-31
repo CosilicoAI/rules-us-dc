@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-304"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-304/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_304">
+        <akn:num>16-304</akn:num>
+        <akn:heading>Consent; exceptions.</akn:heading>
+<akn:subsection eId="subsec_16-304_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A petition for adoption may not be granted by the court unless there is filed with the petition a written statement of consent, as provided by this section, signed and acknowledged before an officer authorized by law to take acknowledgments, before a representative of a licensed child-placing agency, or before the Mayor of the District, or unless a relinquishment of parental rights with respect to the prospective adoptee has been recorded and filed as provided by section 4-1406.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-304_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Consent to a proposed adoption of a person under eighteen years of age is necessary:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-304_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Minority of a natural parent is not a bar to that parent’s consent to adoption.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-304_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When a parent whose consent is hereinbefore required, after such notice as the court directs, cannot be located, or has abandoned the prospective adoptee and voluntarily failed to contribute to his support for a period of at least six months next preceding the date of the filing of the petition, the consent of that parent is not required.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-304_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The court may grant a petition for adoption without any of the consents specified in this section, when the court finds, after a hearing, that the consent or consents are withheld contrary to the best interest of the child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-304_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A person over eighteen years of age may be adopted, on the petition of the adopting parent or parents and with the consent of the prospective adoptee, if the court is satisfied that the adoption should be granted.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-304_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>The court may grant a petition for adoption without consent when there has been a relinquishment of parental rights and the termination of parental rights pursuant to [§ 4-1451.05].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

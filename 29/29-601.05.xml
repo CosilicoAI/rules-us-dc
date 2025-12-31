@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-601.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-601.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_601_05">
+        <akn:num>29-601.05</akn:num>
+        <akn:heading>Execution, filing, and recording of statements.</akn:heading>
+<akn:subsection eId="subsec_29-601_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A statement delivered to the Mayor for filing by a partnership shall be executed by at least 2 partners. Other statements shall be executed by a partner or other person authorized by this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-601_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person that delivers a statement to the Mayor for filing pursuant to this section shall promptly send a copy of the statement to every nonfiling partner and to any other person named as a partner in the statement. Failure to send a copy of a statement to a partner or other person shall not limit the effectiveness of the statement as to a person not a partner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-601_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A statement delivered to the Mayor for filing by a partnership shall be executed by at least 2 partners. Other statements shall be executed by a partner or other person authorized by this chapter An individual who executes a statement shall personally declare under penalty of making false statements that the contents of the statement are accurate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-601_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A person authorized by this chapter to deliver a statement to the Mayor for filing may amend or cancel the statement by delivering filing an amendment or cancellation to the Mayor for filing that names the partnership, identifies the statement, and states the substance of the amendment or cancellation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-601_05_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A person that delivers a statement to the Mayor for filing pursuant to this section shall promptly send a copy of the statement to every nonfiling partner and to any other person named as a partner in the statement. Failure to send a copy of a statement to a partner or other person shall not limit the effectiveness of the statement as to a person not a partner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

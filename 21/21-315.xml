@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-315"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-315/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_315">
+        <akn:num>21-315</akn:num>
+        <akn:heading>Custodian’s expenses; compensation; bond.</akn:heading>
+<akn:subsection eId="subsec_21-315_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A custodian is entitled to reimbursement from custodial property for reasonable expenses incurred in the performance of the custodian’s duties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-315_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except for one who is a transferor under section 21-304, a custodian has a non-cumulative election during each calendar year to charge reasonable compensation for services performed during that year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-315_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as provided in section 21-318(f), a custodian need not give a bond.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

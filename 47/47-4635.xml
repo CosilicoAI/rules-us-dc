@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4635"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4635/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4635">
+        <akn:num>47-4635</akn:num>
+        <akn:heading>UNCF — 10-year real property tax abatement.</akn:heading>
+<akn:subsection eId="subsec_47-4635_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4635_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The real property taxes imposed by Chapter 8 of this title on the property shall be abated for 10 years, beginning on the later of October 1, 2011, or the 1st day following DCRA’s issuance of the certificate of occupancy for the property and UNCF’s physical occupancy of the property; provided, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4635_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The total abatement under this section shall not exceed:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

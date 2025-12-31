@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-921.33"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-921.33/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_921_33">
+        <akn:num>50-921.33</akn:num>
+        <akn:heading>DC Circulator Fund establishment.</akn:heading>
+<akn:subsection eId="subsec_50-921_33_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is hereby established the DC Circulator Fund as a nonlapsing special fund, the funds of which shall be for the Department to pay for goods, services, property, or for any other authorized purpose, subject to authorization by Congress, into which shall be deposited all revenue collected pursuant to § 50-921.32 by the District, WMATA, or their agents, parking meter revenue from the National Park Service for meters on the Mall, and all monetary gifts intended to be used to assist in the funding of the DC Circulator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_33_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsection (a) of this section, during any period of time in which a contract with WMATA is in effect, monies from the payment of fares, the purchase of tickets, and the sale of advertising space by third parties may be, with the written consent of the Chief Financial Officer for the District of Columbia and pursuant to the terms of the contract, deposited in a WMATA interest bearing account for the benefit of the District of Columbia and used by WMATA to offset its costs of contract performance, but only to the extent that Congress has appropriated funds to the District to perform or procure those services; provided, that for a period of 8 months following March 2, 2010, no DC Circulator route shall replace more than 20% of the revenue miles or revenue hours of any WMATA route.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

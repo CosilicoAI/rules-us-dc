@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1805"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1805/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1805">
+        <akn:num>31-1805</akn:num>
+        <akn:heading>Duties of insurers utilizing the services of a reinsurance intermediary-broker.</akn:heading>
+<akn:subsection eId="subsec_31-1805_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An insurer shall not engage the services of any person, firm, association, or corporation to act as a reinsurance broker on its behalf unless the person is licensed as required by § 31-1802(a).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1805_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An insurer may not employ an individual who is employed by a reinsurance broker with which it transacts business, unless the reinsurance broker is under common control with the insurer and subject to Chapter 7 of this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1805_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The insurer shall annually obtain a copy of statements of the financial condition of each reinsurance broker with which it transacts business.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

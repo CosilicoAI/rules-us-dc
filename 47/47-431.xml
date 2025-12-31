@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-431"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-431/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_431">
+        <akn:num>47-431</akn:num>
+        <akn:heading>Right of states to sue in District; certificate of authorized official conclusive proof of authority.</akn:heading>
+<akn:subsection eId="subsec_47-431_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any state, acting through its lawfully authorized officials, shall have the right to sue in the Superior Court of the District of Columbia to recover any tax lawfully due and owing to it in any case in which such reciprocal right is accorded to the District of Columbia by such state, whether such right is granted by statutory authority or as a matter of comity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-431_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The certificate of the secretary of state, or of any other authorized official, of such state, or any subdivision thereof, to the effect that the official instituting a suit authorized under subsection (a) of this section for collection of taxes in the Superior Court of the District of Columbia has the authority to institute such suit and collect such taxes shall be conclusive proof of such authority.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1671.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1671.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1671_07">
+        <akn:num>7-1671.07</akn:num>
+        <akn:heading>Board of Medicine review of medical marijuana physician recommendations.</akn:heading>
+<akn:subsection eId="subsec_7-1671_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board of Medicine shall have the authority to review and audit the written physician recommendations submitted to the Department as part of the registration process and shall have the authority to discipline physicians who act outside of the scope of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1671_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board of Medicine shall audit the recommendations submitted by any physician who provides more than 250 recommendations in any 12-month period to patients for the use of medical marijuana.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1671_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Submitting a false statement regarding a qualifying patient’s eligibility to participate in the Program on the form developed pursuant to § 7-1671.04(b)(2) shall be grounds for the revocation, suspension, or denial of a license to practice medicine or osteopathy, or the imposition of a civil fine pursuant to § 3-1205.14(c), or both.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-1834"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-1834/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_1834">
+        <akn:num>22-1834</akn:num>
+        <akn:heading>Sex trafficking of children.</akn:heading>
+<akn:subsection eId="subsec_22-1834_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It is unlawful for an individual or a business knowingly to recruit, entice, harbor, transport, provide, obtain, or maintain by any means a person who will be caused as a result to engage in a commercial sex act knowing or in reckless disregard of the fact that the person has not attained the age of 18 years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-1834_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In a prosecution under subsection (a) of this section in which the defendant had a reasonable opportunity to observe the person recruited, enticed, harbored, transported, provided, obtained, or maintained, the government need not prove that the defendant knew that the person had not attained the age of 18 years.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

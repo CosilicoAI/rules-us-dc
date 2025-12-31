@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-114"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-114/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_114">
+        <akn:num>25-114</akn:num>
+        <akn:heading>Arena C/X license requirements and qualifications; special provisions for on-premises retail licenses, class C, at DC Arena.</akn:heading>
+<akn:subsection eId="subsec_25-114_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A retailer’s license, class Arena C/X, shall be issued only for the DC Arena and shall permit the storage and sale of spirits, wine, and beer for consumption on the premises of the DC Arena. The license shall not permit the sale or dispensing of alcoholic beverages in unbroken packages for the purpose of permitting the packages to be carried off the premises.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-114_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-114_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>[Not funded].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-114_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>One or more retailer’s licenses, class Arena C/X, shall be issued either as the license for all alcoholic beverage operations at the DC Arena or individually for concession stands, portable bars, and other non-fixed locations, and suite and club suite service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-114_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>One or more on-premises retailer’s licenses, class C, may be issued to concessionaires or tenants of the DC Arena for suitable locations within the DC Arena, approved by the Board, where food and alcoholic beverages are served.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

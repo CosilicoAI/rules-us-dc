@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-601"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-601/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_601">
+        <akn:num>50-601</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_50-601_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Mayor” means the Mayor of the District of Columbia, or his designated agent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-601_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-601_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Finance charge” means finance charge as defined under the provisions of the Truth in Lending Act (15 U.S.C. § 1601 et seq.) and the regulations and interpretations thereunder.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-601_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Governmental charges” means the excise tax, personal property tax, inspection fee, registration fee, recording fee, and such other fees charged by any government, or otherwise authorized by law, incident to the transfer of title to a motor vehicle as the District of Columbia Council may by regulation include within such term.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-601_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Instrument of security” means any promissory note, retail installment contract, or other written promise to pay the unpaid balance of the total amount to be paid by a retail buyer of a motor vehicle.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-601_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Motor vehicle” means any automobile, mobile home, motorcycle, truck, truck tractor, trailer, semi-trailer, or bus. The term “motor vehicle” shall not include any boat trailer, any vehicle propelled or drawn exclusively by muscular power, any vehicle designed to run only on rails or tracks, a personal mobility device, as defined by § 50-2201.02(12), or a battery-operated wheelchair when operated by a person with a disability.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-601_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Person” means an individual, firm, partnership, joint-stock company, corporation, association, incorporated society, statutory or common law trust, estate, executor, administrator, receiver, trustee, conservator, liquidator, committee, assignee, officer, employee, principal, or agent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-601_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Principal balance” means the cash sale price of a motor vehicle, including accessories and equipment, plus the amounts, if any, included in the retail installment contract, if separate identified charges are stated therein, for insurance and governmental charges, less the amount of the purchaser’s downpayment, if any, in money or goods or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-601_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Retail installment contract” means a contract entered into in the District or entered into by a seller licensed or required to be licensed by the District evidencing a retail installment transaction pursuant to which the title to or a lien on, or security or a security interest in, the motor vehicle, which is the subject matter of the transaction, is retained or taken to secure, in whole or in part, the retail buyer’s obligations. The term includes a security agreement, chattel mortgage, conditional sale contract and a contract in the form of a bailment or a lease if the bailee or lessee contracts to pay as compensation for use a sum substantially equivalent to or in excess of the value of the motor vehicle sold and it is agreed that the bailee or lessee is bound to become, or, for no further or a merely nominal consideration, has the option of becoming, the owner of the motor vehicle upon full compliance with the terms of the bailment or lease.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-601_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Retail installment transaction” means any transaction in which a retail buyer purchases a motor vehicle for a price in excess of the cash sale price and agrees to pay part or all of such price in one or more deferred installments.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-601_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Security interest” and “secured party” have the same meanings as those given to the terms in §§ 28:1-201 and 28:9-105(m) [see now §§ 28:1-201(37) and 28:9-102(a)(72)].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

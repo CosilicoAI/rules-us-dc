@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1907"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1907/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1907">
+        <akn:num>7-1907</akn:num>
+        <akn:heading>Ex parte temporary protection order.</akn:heading>
+<akn:subsection eId="subsec_7-1907_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a petition filed in accordance with § 7-1906(a) is supported by affidavit and alleges the existence of an immediate, substantial risk of life-threatening harm to an adult who the Department has determined is in need of protective services, the court may, upon a finding of probable cause and in accordance with § 7-1906(e), grant any relief listed in § 7-1906(d) immediately and without a hearing by issuing an ex parte temporary protection order. The Attorney General shall ensure that, within 48 hours after the issuance of such an order, notice of the hearing date and copies of the petition, supporting affidavit(s), and order are served on the same parties and in the same manner described in § 7-1906(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1907_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An ex parte temporary protection order shall remain effective for such period as the court may specify until a hearing is held and the petition for a provisional protection order granted or denied pursuant to § 7-1906. The court may modify or rescind an ex parte temporary protection order upon the motion of any person and for good cause shown.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

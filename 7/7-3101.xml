@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-3101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-3101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_3101">
+        <akn:num>7-3101</akn:num>
+        <akn:heading>Establishment.</akn:heading>
+<akn:subsection eId="subsec_7-3101_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall establish, by contract, a substance abuse program for youths 14 through 20 years of age. The Addiction Prevention and Recovery Administration shall administer the program from its appropriated operating budget.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-3101_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In fiscal year 2005, the Addiction Prevention and Recovery Administration shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-3101_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>To support the infrastructure necessary for implementation and ongoing monitoring of quality assurance for the youth substance abuse treatment program, 3 full-time employees, personnel grade DSS-11/12, shall be detailed from the Department of Human Services, Youth Services Administration to the Department of Health, Addiction Prevention and Recovery Administration to serve as Program Monitors/Coordinators.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-3101_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-3101_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A memorandum of understanding, or any other formal agreement deemed necessary to facilitate the implementation of the priority outpatient slots for the Youth Services Administration, shall be finalized and signed no later than October 1, 2004. A copy of the agreement shall be provided to the Council’s Committee on Human Services.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

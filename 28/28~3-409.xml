@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-409"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-409/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_409">
+        <akn:num>28:3-409</akn:num>
+        <akn:heading>Acceptance of draft; certified check.</akn:heading>
+<akn:subsection eId="subsec_28:3-409_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>“Acceptance” means the drawee’s signed agreement to pay a draft as presented. It must be written on the draft and may consist of the drawee’s signature alone. Acceptance may be made at any time and becomes effective when notification pursuant to instructions is given or the accepted draft is delivered for the purpose of giving rights on the acceptance to any person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-409_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A draft may be accepted although it has not been signed by the drawer, is otherwise incomplete, is overdue, or has been dishonored.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-409_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a draft is payable at a fixed period after sight and the acceptor fails to date the acceptance, the holder may complete the acceptance by supplying a date in good faith.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-409_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>“Certified check” means a check accepted by the bank on which it is drawn. Acceptance may be made as stated in subsection (a) of this section, or by a writing on the check which indicates that the check is certified. The drawee of a check has no obligation to certify the check, and refusal to certify is not dishonor of the check.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

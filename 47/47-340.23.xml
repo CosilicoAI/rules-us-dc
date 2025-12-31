@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-340.23"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-340.23/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_340_23">
+        <akn:num>47-340.23</akn:num>
+        <akn:heading>Use of funds allocated.</akn:heading>
+<akn:subsection eId="subsec_47-340_23_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Account monies allocated to the Office of the Deputy Mayor for Planning and Economic Development as provided in § 47-340.22 may be used to pay the costs of operating and administering economic development programs, including the provision of credit support or enhancement, loans, grants, contacts, and the implementation of other initiatives that are consistent with and in furtherance of the purposes of this subtitle or § 47-340.20. The Mayor shall report to the Council the details of how these monies are used in accordance with this subtitle or § 47-340.20.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-340_23_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-340_23_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

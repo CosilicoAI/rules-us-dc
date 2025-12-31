@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-402"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-402/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_402">
+        <akn:num>28:3-402</akn:num>
+        <akn:heading>Signature by representative.</akn:heading>
+<akn:subsection eId="subsec_28:3-402_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a person acting, or purporting to act, as a representative signs an instrument by signing either the name of the represented person or the name of the signer, the represented person is bound by the signature to the same extent the represented person would be bound if the signature were on a simple contract. If the represented person is bound, the signature of the representative is the “authorized signature of the represented person” and the represented person is liable on the instrument, whether or not identified in the instrument.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-402_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a representative signs the name of the representative to an instrument and the signature is an authorized signature of the represented person, the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-402_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a representative signs the name of the representative as drawer of a check without indication of the representative status and the check is payable from an account of the represented person who is identified on the check, the signer is not liable on the check if the signature is an authorized signature of the represented person.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

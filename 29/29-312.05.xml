@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-312.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-312.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_312_05">
+        <akn:num>29-312.05</akn:num>
+        <akn:heading>Effect of dissolution.</akn:heading>
+<akn:subsection eId="subsec_29-312_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A dissolved corporation continues its corporate existence but shall not carry on any activities except that appropriate to wind up and liquidate its business and affairs, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-312_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Dissolution of a corporation shall not:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

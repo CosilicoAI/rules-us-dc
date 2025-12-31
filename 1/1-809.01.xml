@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-809.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-809.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_809_01">
+        <akn:num>1-809.01</akn:num>
+        <akn:heading>Interim administration.</akn:heading>
+<akn:subsection eId="subsec_1-809_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Administration of benefits until appointment of trustee. — Notwithstanding subchapter II of this chapter, after the enactment of this chapter the District Government shall continue to discharge its duties and responsibilities under the District Retirement Program and the District Retirement Fund (as such duties and responsibilities are modified by this chapter), including the responsibility for Federal benefit payments, until such time as the Secretary notifies the District Government that the Secretary has directed the Trustee to carry out the duties and responsibilities required under the contract.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-809_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Reimbursement. — The Secretary or the Trustee shall, at such times during or after the period of interim administration described in subsection (a) of this section as are deemed appropriate by the Secretary or the Trustee, reimburse the District Government for any administrative expenses incurred by the District Government in carrying out subsection (a) of this section:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-809_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Making District Retirement Fund whole. — The District Government shall reimburse the District Retirement Fund for any benefits paid inconsistent with this chapter from the District Retirement Fund between the freeze date and such time as the Secretary notifies the District government that the Secretary has directed the Trustee to carry out the duties and responsibilities required under the contract.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

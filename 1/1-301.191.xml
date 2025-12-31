@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.191"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.191/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_301_191">
+        <akn:num>1-301.191</akn:num>
+        <akn:heading>Office of the Deputy Mayor for Public Safety and Justice; establishment; authority.</akn:heading>
+<akn:subsection eId="subsec_1-301_191_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Pursuant to § 1-204.04(b), the Council establishes the Office of the Deputy Mayor for Public Safety and Justice (“Office”), as a separate agency, subordinate to the Mayor, within the executive branch of the District of Columbia government, which shall be headed by the Deputy Mayor for Public Safety and Justice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_191_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (d) of this section, the Deputy Mayor for Public Safety and Justice shall be appointed to head the Office pursuant to § 1-523.01(a).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_191_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Office shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_191_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Subsection (b) of this section shall not apply to the Deputy Mayor for Public Safety and Justice who is the incumbent head of the Office on September 14, 2011.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

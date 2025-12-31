@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4108"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4108/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4108">
+        <akn:num>31-4108</akn:num>
+        <akn:heading>Restrictions on insurance purchased by purchasing groups.</akn:heading>
+<akn:subsection eId="subsec_31-4108_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A purchasing group may not purchase insurance from a risk retention group that is not chartered in a state or from an insurer not admitted in the state in which the purchasing group is located, unless the purchase is effected through a licensed agent or broker acting pursuant to the surplus lines laws and regulations of such a state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4108_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A purchasing group which obtains liability insurance from an insurer not admitted in the District or a risk retention group shall inform each of the members of the group that has a risk resident or located in the District that such a risk is not protected by an insurance insolvency guaranty fund in the District, and that the risk retention group or the insurer may not be subject to all the insurance laws and regulations of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4108_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No purchasing group may purchase insurance providing for a deductible or self-insured retention applicable to the group as a whole; however, coverage may provide for a deductible or self-insured retention applicable to individual members.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4108_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Purchases of insurance by purchasing groups are subject to the same standards regarding aggregate limits which are applicable to all purchases of group insurance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

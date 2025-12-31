@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-111.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-111.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_111_03">
+        <akn:num>8-111.03</akn:num>
+        <akn:heading>Business entity license and permit.</akn:heading>
+<akn:subsection eId="subsec_8-111_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To obtain or renew a license to engage in asbestos abatement, a business entity shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-111_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A license for a business entity to engage in asbestos abatement shall expire 2 years from the date of issuance. A license may be renewed for 2-year periods if the business entity submits a renewal application with the renewal fee to the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-111_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A business entity shall apply for a permit prior to the commencement of each asbestos abatement project. Before a permit may be issued, the business entity must demonstrate that the business entity will perform the work in compliance with the Construction Code, this subchapter, and rules issued pursuant to this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-111_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any license issued pursuant to this section shall be issued as an Environmental Materials endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of Chapter 28 of Title 47.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

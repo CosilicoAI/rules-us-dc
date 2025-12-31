@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1301.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1301.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1301_06">
+        <akn:num>4-1301.06</akn:num>
+        <akn:heading>Investigation.</akn:heading>
+<akn:subsection eId="subsec_4-1301_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The full investigation shall be completed no more than 30 days after the receipt of the first notice of the suspected abuse or neglect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1301_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The investigation shall determine:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1301_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1301_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the Agency determines that a report was made in bad faith, the Agency shall refer the report to the Office of the Attorney General, which shall determine whether prosecution of the person making the report in bad faith is warranted.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1301_06_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be read as abrogating the responsibility of the Metropolitan Police Department for criminal investigations.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

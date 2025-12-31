@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1301.39"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1301.39/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1301_39">
+        <akn:num>50-1301.39</akn:num>
+        <akn:heading>Suspension of unlicensed or licensed person after certain convictions; proof of financial responsibility required; certificate of conviction to be forwarded to Mayor.</akn:heading>
+<akn:subsection eId="subsec_50-1301_39_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a person by final order or judgment is convicted of or forfeits any bail or collateral deposited to secure an appearance for trial for driving a motor vehicle within the District of Columbia at a time when his license is suspended or revoked, the operating privilege of such person shall be suspended and no license shall thereafter be issued to such person, but if such person has obtained a license prior to the time the Mayor has issued an order precluding the issuance of such license, then such license shall be suspended; and no vehicle shall continue to be registered or thereafter be registered in the name of such person as owner, unless such person shall give and thereafter maintain proof of financial responsibility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1301_39_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It shall be the duty of the clerk of the court in which any such conviction or forfeiture is ordered to forward immediately to the Mayor a certified copy of said order, which certified copy shall be prima facie evidence of the facts stated therein.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

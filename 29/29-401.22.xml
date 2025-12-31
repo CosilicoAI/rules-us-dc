@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-401.22"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-401.22/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_401_22">
+        <akn:num>29-401.22</akn:num>
+        <akn:heading>Review of contested corporate action.</akn:heading>
+<akn:subsection eId="subsec_29-401_22_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon petition of a person whose status as, or whose rights or duties as, a member, delegate, director, member of a designated body, or officer of a corporation are or may be affected by any corporate action, the Superior Court may hear and determine the validity of the corporate action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-401_22_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Superior Court may make such orders in any such case as may be just and proper, with power to enforce the production of any books, papers and records of the corporation and other evidence that may relate to the issue. The Superior Court shall provide for notice of the pendency of the proceedings under this section to all persons affected thereby. If it is determined that no valid corporate action has been taken, the Superior Court may order a meeting to be held in accordance with § 29-401.21.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-401_22_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subsection (a) of this section shall not apply if a nonprofit corporation has provided in its articles of incorporation or bylaws for a means of resolving a challenge to a corporate action, but the Superior Court may enforce the articles or bylaws if appropriate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

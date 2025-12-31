@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_401">
+        <akn:num>50-401</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_50-401_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Commercial driver’s license” means a license issued pursuant to this chapter that authorizes an individual to operate a class of commercial motor vehicle.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-401_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Commercial driver’s license information system” means the informational system established pursuant to the Commercial Motor Vehicle Safety Act of 1986, approved October 27, 1986 (100 Stat. 3207; 49 U.S.C. sec. 2701 et seq.) (“Commercial Motor Vehicle Safety Act”), to serve as a clearinghouse for locating information related to the licensing and identification of commercial motor vehicle drivers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-401_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Commercial motor vehicle” means a motor vehicle used in commerce to transport passengers or property:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-401_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Disqualify” means to withdraw the privilege to drive a commercial motor vehicle.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-401_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Out-of-service order” means a declaration by an authorized enforcement officer of a federal, state, Canadian, Mexican, or local jurisdiction that a driver, a commercial motor vehicle, or a motor carrier operation, is out-of-service pursuant to Federal Motor Vehicle Safety Regulations, 49 C.F.R. § 386.72, 392.5, 395.13, 396.9, or compatible laws, or the North American Uniform Out-of-Service Criteria.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

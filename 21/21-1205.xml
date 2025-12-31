@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-1205"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-1205/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_1205">
+        <akn:num>21-1205</akn:num>
+        <akn:heading>Rules and regulations for implementation.</akn:heading>
+<akn:subsection eId="subsec_21-1205_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 90 days of the effective date of this chapter, the Mayor shall issue proposed rules and regulations to implement this chapter. The rules and regulations issued shall include procedures for:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-1205_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Training programs for all program employees who may be authorized to administer medication in accordance with this chapter shall be approved by the Mayor or shall be medication administration programs approved by the State of Maryland or the Commonwealth of Virginia. The Mayor may enter into agreements of reciprocity with other jurisdictions, under which training programs approved in such jurisdictions shall also be accepted in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

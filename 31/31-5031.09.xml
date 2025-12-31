@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5031.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5031.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5031_09">
+        <akn:num>31-5031.09</akn:num>
+        <akn:heading>Liquidation, dissolution, or insolvency.</akn:heading>
+<akn:subsection eId="subsec_31-5031_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this section, the IRLA shall apply to all domestic title insurers subject to this chapter. In applying the provisions of the IRLA, the court shall consider the unique aspects of title insurance and shall have broad authority to fashion relief that provides for the maximum protection of the title insurance policyholders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5031_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Indemnity and escrow funds held by or on behalf of the title insurer shall not become general assets and shall be administered as secured creditor claims as provided in the IRLA.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5031_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Title insurance policies issued by a domestic title insurer that are in force at the time an order of liquidation is entered shall not be canceled except upon a showing to the court of good cause by the liquidator. The determination of good cause shall be within the discretion of the court. In making this determination, the court shall consider the unique aspects of title insurance and all other relevant circumstances.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5031_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The court may set appropriate dates that potential claimants shall file their claims with the liquidator as to a domestic title insurer. The court may set different dates for claims based upon the title insurance policy than for all other claims. In setting dates, the court shall consider the unique aspects of title insurance and all other relevant circumstances.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5031_09_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>As of the date of the order of insolvency or liquidation, all premiums paid, due, or to become due under policies of the domestic title insurers shall be fully earned. It shall be the obligation of producers, insureds, or representatives of the title insurer to pay fully earned premium to the liquidator or rehabilitator.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

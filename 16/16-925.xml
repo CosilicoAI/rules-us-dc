@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-925"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-925/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_925">
+        <akn:num>16-925</akn:num>
+        <akn:heading>Privacy protection for victims of domestic violence.</akn:heading>
+<akn:subsection eId="subsec_16-925_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall promulgate rules and establish procedures to implement safeguards, applicable to all confidential information handled by the IV-D agency or executive branch agencies in cooperative agreements with the IV-D agency, to protect the privacy rights of parties in IV-D agency proceedings. These safeguards shall include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-925_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Superior Court shall establish procedures to implement safeguards, applicable to all confidential information possessed by the Superior Court, to protect the privacy rights of parties in paternity or support proceedings. These safeguards shall include:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

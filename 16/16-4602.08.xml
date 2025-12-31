@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4602.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4602.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4602_08">
+        <akn:num>16-4602.08</akn:num>
+        <akn:heading>Jurisdiction declined by reason of conduct.</akn:heading>
+<akn:subsection eId="subsec_16-4602_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 16-4602.04, if a court of the District has jurisdiction under this chapter because a person seeking to invoke its jurisdiction has engaged in unjustifiable conduct, the court shall decline to exercise its jurisdiction unless:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4602_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a court of the District declines to exercise its jurisdiction pursuant to subsection (a) of this section, it may fashion an appropriate remedy to ensure the safety of the child and prevent a repetition of the unjustifiable conduct, including staying the proceeding until a child-custody proceeding is commenced in a court having jurisdiction under §§ 16-4602.01 through 16-4602.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4602_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a court dismisses a petition or stays a proceeding because it declines to exercise its jurisdiction pursuant to subsection (a) of this section, it shall assess against the party seeking to invoke its jurisdiction necessary and reasonable expenses, including costs, communication expenses, attorney’s fees, investigative fees, expenses for witnesses, travel expenses, and child care during the course of the proceedings, unless the party from whom fees are sought establishes that the assessment would be clearly inappropriate. The court may not assess fees, costs, or expenses against the District unless authorized by law other than this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

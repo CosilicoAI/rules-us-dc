@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-863.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-863.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_863_03">
+        <akn:num>7-863.03</akn:num>
+        <akn:heading>Establishment of Early Intervention Program and Interagency Coordinating Council.</akn:heading>
+<akn:subsection eId="subsec_7-863_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established in the District of Columbia an Early Intervention Program (“Program”) to provide early intervention services to infants and toddlers, from birth through 2 years of age, and their families. The program shall be administered by the Office of the State Superintendent of Education. The services shall be provided in accordance with the requirements of the Individuals with Disabilities Education Act, approved June 4, 1997 (111 Stat. 37; 20 U.S.C. § 1400 et seq.).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-863_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>There is established an Interagency Coordinating Council to advise and assist the Mayor with the implementation of the Program, including the establishment of interagency agreements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-863_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Early intervention services shall not be required under this subchapter, if a minor’s parent or guardian submits in good faith a written notarized statement to the appropriate official affirming the intervention in question would violate the established tenets and practices of the parent’s or guardian’s church or religious denomination.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

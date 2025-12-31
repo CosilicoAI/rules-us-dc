@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-1212"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-1212/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_1212">
+        <akn:num>48-1212</akn:num>
+        <akn:heading>Answer to a notice of violation.</akn:heading>
+<akn:subsection eId="subsec_48-1212_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person shall answer a notice of violation within 14 calendar days of the date the notice of violation was issued.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-1212_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-1212_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person admitting a violation shall, at the time the person submits an answer, pay the applicable civil fine in person or by mail.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-1212_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A person denying the violation shall receive from the Office of Administrative Hearings within 30 days of the office’s receipt of the answer a notice with information about a hearing date.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-1212_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a person to whom a notice of violation has been issued fails to respond to the notice within 14 calendar days of the date the notice was issued, the person shall be found liable for the civil violation and in default and shall be assessed both the civil fine for the violation and an additional penalty equal to the amount of that civil fine.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

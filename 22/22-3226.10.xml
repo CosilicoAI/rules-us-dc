@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3226.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3226.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3226_10">
+        <akn:num>22-3226.10</akn:num>
+        <akn:heading>Criminal penalties.</akn:heading>
+<akn:subsection eId="subsec_22-3226_10_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>If the amount of the transaction is valued at $20,000 or more, the seller or telephone solicitor shall upon conviction be guilty of a felony, and shall be subject to a fine of not more than the amount set forth in § 22-3571.01 or imprisonment for not more than 4 years, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3226_10_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>If the amount of the transaction is valued at less than $20,000 but more than $5,000, the seller or telephone solicitor shall upon conviction be guilty of a felony, and shall be subject to a fine of not more than the amount set forth in § 22-3571.01 or imprisonment for not more than 3 years, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3226_10_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>If the amount of the transaction is valued at less than $5,000 or less, the seller or telephone solicitor shall upon conviction be guilty of a misdemeanor and shall be subject to a fine of not more than the amount set forth in § 22-3571.01 or imprisonment for not more than 6 months, or both.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

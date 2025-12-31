@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/40-301.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/40-301.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_40_301_03">
+        <akn:num>40-301.03</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_40-301_03_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Home improvement” means the repair, remodeling, alteration, conversion, or modernization of, or addition to, residential real property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-301_03_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Home improvement contract” means any written agreement, in a form that has been approved by the Department of Consumer and Regulatory Affairs, entered into between the same contractor and the same homeowner within any 12-month period for home improvement for a specific price. For the purposes of this section, the contract price for a home improvement contract shall be the contract price for all contracts during any 12-month period with respect to a home improvement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-301_03_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Land records” means the property records maintained by the Office of the Recorder of Deeds of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-301_03_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Notice amount” means a written notice of amounts due to a contractor, subcontractor, materialman, or supplier for a project.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-301_03_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Notice of intent” means a notice of intention to enforce a lien against the owner’s property for a project.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-301_03_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Owner” means an owner either in fee simple or a lesser estate, a lessee, or a prospective purchaser in possession under a contract of sale authorized to contract for a project.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-301_03_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Project” means any work or materials provided by a contractor for the erection, construction, improvement, repair of, or addition to any real property in the District of Columbia at the direction of an owner, or an owner’s authorized agent, or the placing of any engine, machinery, or other thing therein or in connection therewith so as to become a fixture, though capable of being detached.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

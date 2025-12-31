@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-314"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-314/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_314">
+        <akn:num>25-314</akn:num>
+        <akn:heading>Additional considerations for new license application or transfer of license to a new location.</akn:heading>
+<akn:subsection eId="subsec_25-314_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In determining the appropriateness of an establishment for initial issuance of a license or a transfer of a license to a new location, the Board shall also consider the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-314_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-314_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In the case of applications for nightclub or tavern licenses, the Board shall consider whether the proximity of the establishment to a residence district, as identified in the zoning regulations of the District and shown in the official atlases of the Zoning Commission for the District, would generate a substantial adverse impact on the residents of the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

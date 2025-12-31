@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-751.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-751.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_751_09">
+        <akn:num>6-751.09</akn:num>
+        <akn:heading>Civil penalties.</akn:heading>
+<akn:subsection eId="subsec_6-751_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purpose of this section, each day a dwelling unit, hotel, motel, hospital, nursing home, or residential custodial care facility fails to comply with this subchapter shall constitute a separate violation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>To enforce this subchapter, the Mayor may seek either the civil penalties in this section or the criminal penalties in § 2104 of The Housing Code of the District of Columbia [14 DCMR § 102] or § 6-1406(a) and (b), but the Mayor shall not seek both the civil penalties and the criminal penalties to enforce a related series of violations.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

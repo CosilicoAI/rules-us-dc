@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-735"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-735/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_735">
+        <akn:num>26-735</akn:num>
+        <akn:heading>Additional authority of Superintendent</akn:heading>
+<akn:subsection eId="subsec_26-735_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner] may conduct examinations of any branch of an out-of-state state bank established or maintained within the District pursuant to § 26-734 to ensure that such branch is operating in a safe and sound manner and to ensure that such branch is in compliance with the laws of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-735_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner] may require periodic reports from any out-of-state bank that establishes or maintains a branch in the District pursuant to § 26-734, including reports regarding any agency agreements entered into between a branch and a depository institution affiliate as authorized and established by § 26-739, provided that the reports:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-735_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner] may enter into cooperative agreements with any other state bank regulators for any legal purpose, including agreements for sharing of examination fees and other regulatory fees, in order to prevent duplication of regulatory functions and for the convenience and needs of the public.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-735_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An out-of-state bank that has established and maintained a branch in the District may establish and maintain additional branches in the District to the same extent as a District state bank or to the extent otherwise permitted by federal law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

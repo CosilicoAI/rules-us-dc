@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-762"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-762/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_762">
+        <akn:num>25-762</akn:num>
+        <akn:heading>Substantial changes in operation must be approved.</akn:heading>
+<akn:subsection eId="subsec_25-762_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Before a licensee may make a change in the interior or exterior, or a change in format, of any licensed establishment, which would substantially change the nature of the operation of the licensed establishment as set forth in the initial application for the license, the licensee shall obtain the approval of the Board in accordance with § 25-404.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-762_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In determining whether the proposed changes are substantial, the Board shall consider whether they are potentially of concern to the residents of the area surrounding the establishment, including changes which would:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-762_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A temporary or permanent reduction in the hours of operation of a licensed establishment shall not constitute a substantial change.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

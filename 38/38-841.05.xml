@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-841.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-841.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_841_05">
+        <akn:num>38-841.05</akn:num>
+        <akn:heading>Designation of Title IX athletic coordinators.</akn:heading>
+<akn:subsection eId="subsec_38-841_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>OSSE shall designate a Title IX Coordinator for the District’s interscholastic athletics who shall coordinate the District’s efforts to ensure and encourage compliance with the athletics aspects of Title IX and this chapter. The responsibilities of the Title IX Coordinator shall include those described in 34 C.F.R. § 106.8(a). OSSE shall annually notify all students and the students’ guardians of and make publicly available on a website the name, office address, e-mail address, and phone number of the Title IX Coordinator designated pursuant to this section. Each applicable school shall post a notice with this information in the school’s athletic facilities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-841_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each LEA shall designate an LEA Title IX Athletic Coordinator who shall oversee and monitor each applicable school within the LEA to ensure and encourage compliance with the athletic aspects of Title IX and this chapter; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-841_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each applicable school shall designate a School Title IX Athletic Liaison, in accordance with 34 C.F.R. § 106.8(a), who coordinates the activities at the school level that are designed to promote gender equity in athletics. The School Title IX Athletic Liaison is not required to, but may, serve as one of the 3 members of the GERC. Additionally, the School Title IX Athletic Liaison shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-841_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If an applicable school is also an LEA, the LEA Title IX Athletic Coordinator shall carry out the responsibilities of both the LEA Title IX Athletic Coordinator and the School Title IX Athletic Liaison.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3502_13">
+        <akn:num>42-3502.13</akn:num>
+        <akn:heading>Vacant accommodation.</akn:heading>
+<akn:subsection eId="subsec_42-3502_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a tenant vacates a rental unit on the tenant’s own initiative or as a result of a notice to vacate for nonpayment of rent, violation of an obligation of the tenant’s tenancy, or use of the rental unit for illegal purpose or purposes as determined by a court of competent jurisdiction, the amount of rent charged may, at the election of the housing provider, be increased:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, rental units shall be defined to be substantially identical where they contain essentially the same square footage, essentially the same floor plan, comparable amenities and equipment, comparable locations with respect to exposure and height, if exposure and height have previously been factors in the amount of rent charged, and are in comparable physical condition.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No rent increase under subsections (a)(1) and (a)(2) may be sought or granted within the 12-month period following the implementation of a hardship increase under § 42-3502.12.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_13_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Within 15 days after of the commencement of the new tenancy, the housing provider shall disclose to the tenant on a form published by the Rent Administrator (or in another suitable format until a form is published):</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

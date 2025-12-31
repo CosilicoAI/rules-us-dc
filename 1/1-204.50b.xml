@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.50b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.50b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_50b">
+        <akn:num>1-204.50b</akn:num>
+        <akn:heading>Comprehensive Financial Management Policy.</akn:heading>
+<akn:subsection eId="subsec_1-204_50b_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Comprehensive Financial Management Policy. — The District of Columbia shall conduct its financial management in accordance with a comprehensive financial management policy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_50b_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Contents of Policy. — The comprehensive financial management policy shall include, but not be limited to, the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_50b_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Annual Review. — The comprehensive financial management policy shall be reviewed at the end of each fiscal year by the Chief Financial Officer who shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_50b_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Procedure for Development of First Comprehensive Financial Management Policy. —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

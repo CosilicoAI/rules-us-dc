@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1501.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1501.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_1501_13">
+        <akn:num>5-1501.13</akn:num>
+        <akn:heading>Stakeholder Council.</akn:heading>
+<akn:subsection eId="subsec_5-1501_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established a Stakeholder Council, which shall consist of the following members:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1501_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The chairperson of the Judiciary Committee of the Council of the District of Columbia shall be an ex officio, non-voting member of the Stakeholder Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1501_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The members listed in subsection (a) of this section shall not be represented by a designee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1501_13_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The chairperson of the Stakeholder Council shall be the Deputy Mayor for Public Safety and Justice. In his or her absence, the Attorney General shall be the chairperson.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1501_13_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Stakeholder Council shall meet no fewer than 2 times per year. The chairperson shall fix the time and place of the meetings.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

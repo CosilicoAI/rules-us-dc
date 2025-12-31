@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-112"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-112/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_112">
+        <akn:num>28:3-112</akn:num>
+        <akn:heading>Interest.</akn:heading>
+<akn:subsection eId="subsec_28:3-112_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless otherwise provided in the instrument, (i) an instrument is not payable with interest, and (ii) interest on an interest-bearing instrument is payable from the date of the instrument.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-112_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Interest may be stated in an instrument as a fixed or variable amount of money or it may be expressed as a fixed or variable rate or rates. The amount or rate of interest may be stated or described in the instrument in any manner and may require reference to information not contained in the instrument. If an instrument provides for interest, but the amount of interest payable cannot be ascertained from the description, interest is payable at the judgment rate in effect at the place of payment of the instrument and at the time interest first accrues.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

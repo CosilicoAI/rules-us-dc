@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-802"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-802/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_802">
+        <akn:num>32-802</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_32-802_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Employer” includes every person, firm, corporation, partnership, stock association, agent, manager, representative, or foreman, or other persons having control or custody of any place of employment or of any employee. It shall not include the District of Columbia or any instrumentality thereof, or the United States or any instrumentality thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-802_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Board” means the Minimum Wage and Industrial Safety Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-802_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Safe” and “safety” as applied to an employment, a device, or a place of employment, including facilities of sanitation and hygiene, mean such freedom from danger to life or health of employees as circumstances reasonably permit, and shall not be given restrictive interpretation so as to exclude any mitigation or prevention of a specific danger.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-802_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Place of employment” means any place where employment is carried on; provided, however, that such term shall not include the premises of any federal or District of Columbia establishment, except to include any and all work of whatever nature being performed by an independent contractor for the United States government or any instrumentality thereof, or the District of Columbia or any instrumentality thereof.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

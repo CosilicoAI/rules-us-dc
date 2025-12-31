@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-113a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-113a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_113a">
+        <akn:num>25-113a</akn:num>
+        <akn:heading>License endorsements.</akn:heading>
+<akn:subsection eId="subsec_25-113a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All license endorsements shall be placed on the applicant’s license.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-113a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-113a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The licensee under a manufacturer’s license class A or B holding an on-site sales and consumption permit or an on-premises license, class C/R, D/R, C/H, D/H, C/T, D/T, C/N, D/N, C/X, and D/X, shall obtain a sidewalk café endorsement or summer garden endorsement from the Board to be eligible to conduct business operations on a sidewalk café or summer garden, which may include the sale, service, and consumption of alcoholic beverages on outdoor public or private space. The licensee under a manufacturer’s license class A or B holding an on-site sales and consumption permit may be authorized to conduct business operations on a sidewalk cafe or summer garden only between the hours of 8:00 a.m. and 12:00 a.m., 7 days a week.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

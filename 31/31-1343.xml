@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1343"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1343/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1343">
+        <akn:num>31-1343</akn:num>
+        <akn:heading>Unclaimed and withheld funds.</akn:heading>
+<akn:subsection eId="subsec_31-1343_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All unclaimed funds subject to distribution remaining in the liquidator’s hands when he or she is ready to apply to the court for discharge, including the amount distributable to any creditor, shareholder, member, or other person who is unknown or cannot be found, shall be deposited with the District of Columbia, and shall be paid without interest, except in accordance with § 31-1340, to the person entitled thereto or his or her legal representative upon proof satisfactory to the District of Columbia Treasurer of his or her right thereto. Any amount on deposit and not claimed at the time of the discharge of the liquidator shall be distributed in accordance with Chapter 1 of Title 41.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1343_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All funds withheld under § 31-1336 and not distributed shall, upon discharge of the liquidator, be deposited with the District of Columbia Treasurer and paid by him or her in accordance with § 31-1340. Any sums remaining, which under § 31-1340 would revert to the undistributed assets of the insurer, shall be transferred to the District of Columbia Treasurer and become the property of the District under subsection (a) of this section, unless the Commissioner in his or her discretion petitions the court to reopen the liquidation under § 31-1345.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

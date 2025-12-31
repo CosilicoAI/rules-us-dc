@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3403"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3403/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_3403">
+        <akn:num>47-3403</akn:num>
+        <akn:heading>Annual payment by the United States — Appropriations — Employee pay increases.</akn:heading>
+<akn:subsection eId="subsec_47-3403_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In addition to the amount authorized to be appropriated under § 47-3402 for the fiscal year ending June 30, 1972, there is authorized to be appropriated to the District of Columbia for such fiscal year not to exceed $6,000,000 which may only be used in such fiscal year to pay officers and employees of the District of Columbia increased compensation which is required by comparability adjustments made on or after January 1, 1972, in the rates of pay of statutory pay systems (as defined in § 5301(c) of Title 5, United States Code), based on the 1971 Bureau of Labor Statistics survey.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3403_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In addition to the amount authorized to be appropriated under § 47-3402 for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, there is authorized to be appropriated to the District of Columbia not to exceed $12,000,000 for each such fiscal year which may only be used to pay officers and employees of the District of Columbia increased compensation which is required by comparability adjustments made on or after January 1, 1972, in the rates of pay of statutory pay systems (as defined in § 5301(c) of Title 5, United States Code), based on the 1971 Bureau of Labor Statistics survey.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

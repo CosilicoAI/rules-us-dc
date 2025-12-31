@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2504"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2504/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2504">
+        <akn:num>42-2504</akn:num>
+        <akn:heading>Employee savings; District government contribution.</akn:heading>
+<akn:subsection eId="subsec_42-2504_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each Participant in the Program shall be required to save an agreed upon amount, as set forth in this section, which shall be applied toward the down payment and closing costs for the housing unit. Each Participant shall enter into an Agreement with the Department. The Agreement shall set forth the following items:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2504_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For each Participant in the Program who sets aside $2,500 under an Agreement, the District shall obligate $500 in the financial management system. The District shall match succeeding Participant saving increments of $2,500 with a $500 obligation until the District obligation totals $1,500. Matching contributions by the District shall not exceed $1,500 for any individual Participant. The District shall disburse its cash contribution at the time of settlement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2504_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall establish a procedure to allow a Participant in the Program to save the target amount of money listed in the Agreement through a system of payroll deduction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2504_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An applicant who has saved toward a down payment prior to entering the Program shall also be eligible for the matching contribution upon entering into an Agreement with the Department.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

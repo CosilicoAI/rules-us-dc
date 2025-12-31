@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-902"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-902/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_902">
+        <akn:num>29-902</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_29-902_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Articles” means the articles of incorporation referred to in § 29-906.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-902_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Association” means a group enterprise incorporated under this chapter. An association shall be treated as a nonprofit corporation for purposes of taxation or securities regulation under the law of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-902_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Cooperative basis” as applied to any incorporated or unincorporated group referred to in §§ 29-905(7), 29-913, 29-923, 29-935, and 29-936 means that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-902_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Member” means a member in a nonshare association or share association.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-902_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Net savings” means the total income of an association minus the costs of operation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-902_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Savings returns” means the amount returned to the patrons in proportion to their patronage or otherwise in accordance with § 29-931.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

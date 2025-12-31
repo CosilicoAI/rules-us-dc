@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1451.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1451.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1451_05">
+        <akn:num>4-1451.05</akn:num>
+        <akn:heading>Parental rights.</akn:heading>
+<akn:subsection eId="subsec_4-1451_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding § 4-1406(b) [(b) repealed], there shall be no 72-hour waiting period prior to relinquishment of parental rights under this chapter. A relinquishment of parental rights shall take place upon surrender. Upon CFSA’s receipt of the statement required by § 4-1451.02(d) and assuming physical custody, CFSA shall assume immediate care, custody, and control of the surrendered newborn.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1451_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A relinquishment of parental rights under this chapter may be revoked and parental rights restored in accordance with § 4-1406(c) and (d); provided, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1451_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1451_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

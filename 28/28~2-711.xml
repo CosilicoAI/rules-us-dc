@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-711"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-711/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_711">
+        <akn:num>28:2-711</akn:num>
+        <akn:heading>Buyer’s remedies in general; buyer’s security interest in rejected goods.</akn:heading>
+<akn:subsection eId="subsec_28:2-711_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Where the seller fails to make delivery or repudiates or the buyer rightfully rejects or justifiably revokes acceptance then with respect to any goods involved, and with respect to the whole of the breach goes to the whole contract (section 28:2-612), the buyer may cancel and whether or not he has done so may in addition to recovering so much of the price as has been paid</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-711_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Where the seller fails to deliver or repudiates the buyer may also</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-711_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>On rightful rejection or justifiable revocation of acceptance a buyer has a security interest in goods in his possession or control for any payments made on their price and any expenses reasonably incurred in their inspection, receipt, transportation, care and custody and may hold such goods and resell them in like manner as an aggrieved seller (section 28:2-706).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/39-205"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/39-205/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_39_205">
+        <akn:num>39-205</akn:num>
+        <akn:heading>Administration.</akn:heading>
+<akn:subsection eId="subsec_39-205_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There shall be an Executive Director for the Commission who shall be appointed by the Commission. The Executive Director shall be the chief administrative officer of the Commission and shall be responsible for supervising the remainder of the staff of the Commission. He shall report regularly to the Commission on his activities. The Executive Director shall receive annual compensation fixed in accordance with the provisions of subchapter XI of Chapter 6 of Title 1.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-205_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commission shall meet monthly, except when a meeting is cancelled by the Chairperson and a majority of the Commission. Special meetings of the Commission may be called by the Mayor, Council, Chairperson of the Commission, or upon the request of 5 members of the Commission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-205_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commission shall prepare and submit to the Mayor an annual budget to be included in the regular budget process of the District of Columbia developed in accordance with subchapter I of Chapter 3 of Title 47. In addition, each annual capital budget request submitted by the Mayor to the Council shall include as a discrete capital project a public arts fund in the amount of 1% of the total authority requested for the construction, renovation, and repair of public facilities and institutions, exclusive of land acquisition and infrastructure. Public arts fund financing shall be used by the Commission to fund the creation, installation, and maintenance of public art. The commissioning of artists and the selection, approval, placement, and maintenance of public art shall be the responsibility of the Commission in consultation with both the Department of Public Works and, if applicable, the public official or employee with chief administrative responsibility for the actual use of the public place affected.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-205_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Chairperson shall submit to the Mayor and the Council the annual reports of the Commission’s activities, the public arts plan required by § 39-204(8), and any other plans, recommendations, and projections for the following year. These reports, plans, recommendations, and projections shall accompany the budget request referred to in subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

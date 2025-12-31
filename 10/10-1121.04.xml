@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1121.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1121.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1121_04">
+        <akn:num>10-1121.04</akn:num>
+        <akn:heading>Execution of airspace leases.</akn:heading>
+<akn:subsection eId="subsec_10-1121_04_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The lessee of the airspace has a fee simple title to the real property abutting such airspace and the lease is for airspace which lies only within the frontages of such abutting real property which are directly opposite;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1121_04_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The Zoning Commission of the District of Columbia, after public hearing and after securing the advice and recommendations of the National Capital Planning Commission, has determined the use to be permitted in such airspace and has established regulations applicable to the use of such airspace consistent with regulations applicable to the abutting privately owned property, including limitations and requirements respecting the height of any structure to be erected in such airspace, offstreet parking and floor area ratios applicable to such structure, and easements of light, air, and access;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1121_04_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The lessee has submitted to the Mayor, for his review and approval, plans, elevations, sections, a description of the texture, material, and method of construction of the exterior walls, and a scale model, of any structure to be erected in such airspace;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1121_04_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The Mayor with respect to any structure proposed to be constructed in an area subject to §§ 6-611.01 and 6-611.02, or §§ 6-1201 to 6-1205 has submitted to the Commission of Fine Arts for its review and recommendations, plans, elevations, sections, a description of the texture, material, and method of construction of the exterior walls, and a scale model, of any such structure; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1121_04_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The Mayor, with respect to any structure proposed to be constructed over space utilized or to be utilized for the construction and operation of the subway of the Washington Metropolitan Area Transit Authority, has submitted to the Authority for its review and recommendations the plans, elevations, sections, and a scale model of any such structure.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

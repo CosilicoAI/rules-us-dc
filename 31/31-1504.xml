@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1504"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1504/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1504">
+        <akn:num>31-1504</akn:num>
+        <akn:heading>Duties of insurers.</akn:heading>
+<akn:subsection eId="subsec_31-1504_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The insurer shall have on file an independent financial examination, in a form acceptable to the Mayor, of each managing general agent with which it has done business.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1504_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a managing general agent establishes loss reserves, the insurer shall annually obtain the opinion of an actuary attesting to the adequacy of loss reserves established for losses incurred and outstanding on business produced by the managing general agent. This is in addition to any other required loss reserve certification.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1504_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The insurer shall periodically (at least semiannually) conduct an on-site review of the underwriting and claims processing operations of the managing general agent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1504_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Binding authority for all reinsurance contracts or participation in insurance or reinsurance syndicates shall rest with an officer of the insurer, who shall not be affiliated with the managing general agent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1504_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Within 30 days of entering into or terminating a contract with a managing general agent, the insurer shall provide written notification of the appointment or termination to the Mayor. Notices of appointment of a managing general agent shall include a statement of duties which the applicant is expected to perform on behalf of the insurer, the lines of insurance for which the applicant is to be authorized to act, and any other information the Mayor may request.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1504_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>An insurer shall review its books and records each quarter to determine if any producer has, because of § 31-1501(4), become a managing general agent as defined in that section. If the insurer determines that a producer has become a managing general agent pursuant to the above, the insurer shall promptly notify the producer and the Mayor of the determination, and the insurer and producer shall fully comply with the provisions of this chapter within 30 days.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1504_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>An insurer shall not appoint to its board of directors an officer, director, employee, subproducer, or controlling shareholder of its managing general agents. This subsection shall not apply to relationships governed by Chapter 7 of this title or, if applicable, Chapter 4 of this title.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

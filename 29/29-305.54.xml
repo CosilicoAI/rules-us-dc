@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-305.54"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-305.54/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_305_54">
+        <akn:num>29-305.54</akn:num>
+        <akn:heading>Dismissal.</akn:heading>
+<akn:subsection eId="subsec_29-305_54_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Superior Court shall dismiss a derivative proceeding on motion by the corporation if one of the groups specified in subsection (b) or subsection (e) of this section has determined in good faith, after conducting a reasonable inquiry upon which its conclusions are based, that the maintenance of the derivative proceeding is not in the best interests of the corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_54_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Unless a panel is appointed pursuant to subsection (e) of this section, the determination in subsection (a) of this section shall be made by a majority vote of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_54_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a derivative proceeding is commenced after a determination has been made rejecting a demand by a shareholder, the complaint shall allege with particularity facts establishing that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_54_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a majority of the board of directors consisted of qualified directors at the time the determination was made, the plaintiff shall have the burden of proving that the requirements of subsection (a) of this section have not been met. Otherwise, the corporation has the burden of proving that the requirements of subsection (a) of this section have been met.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_54_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Upon motion by the corporation, the Superior Court may appoint a panel of one or more individuals to make a determination whether the maintenance of the derivative proceeding is in the best interests of the corporation. In such case, the plaintiff has the burden of proving that the requirements of subsection (a) of this section have not been met.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

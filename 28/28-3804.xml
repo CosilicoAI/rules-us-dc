@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3804"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3804/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3804">
+        <akn:num>28-3804</akn:num>
+        <akn:heading>Assignment of earnings and authorization to confess judgment prohibited.</akn:heading>
+<akn:subsection eId="subsec_28-3804_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A creditor may not take an assignment of earnings of the consumer for payment or as security for payment of an obligation arising out of a consumer credit sale or direct installment loan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3804_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A creditor may not take or accept from the consumer a warrant or power of attorney or other authorization for the creditor, or other person acting on his behalf, to confess judgment arising out of a consumer credit sale or direct installment loan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3804_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An assignment of earnings or an authorization in violation of this section is subject to the provisions of section 28-3813(d)(1) of this subtitle.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

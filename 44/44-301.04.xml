@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-301.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-301.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_301_04">
+        <akn:num>44-301.04</akn:num>
+        <akn:heading>Grievance process.</akn:heading>
+<akn:subsection eId="subsec_44-301_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A member or member representative may appeal any adverse benefit determination decision resulting in a rescission, denial, termination, or other limitation of a benefit in accordance with the provisions of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-301_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>At the time an insurer denies, reduces, terminates, or limits a benefit, an insurer shall provide to the affected member or member representative a written description of the procedures for filing appeals, including procedures to request expedited internal or external review if the matter concerns an emergency or urgent medical condition. The notice shall adhere to requirements of Title XXVII of the Public Health Service Act, approved July 1, 1944 (42 U.S.C. § 300gg et seq.), and the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (Pub. L. No. 93-406; 88 Stat. 829), and shall include information sufficient to identify the claim, the reason for the denial, any standards relied on to deny the claim, contact information for the Health Care Ombudsman, and notice of the right of the claimant to receive free of charge all documents relevant to the claim.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-301_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The appeal process shall consist of 2 separate appeal levels:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-301_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in the health benefits plan shall prohibit a member or member representative from discussing or exercising the right to appeal pursuant to this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-301_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-301_04_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

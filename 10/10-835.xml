@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-835"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-835/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_835">
+        <akn:num>10-835</akn:num>
+        <akn:heading>Evaluation criteria of a request for proposals.</akn:heading>
+<akn:subsection eId="subsec_10-835_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Offering price. — More points shall be awarded for a higher proposed offering price. If a subsidy is offered under § 10-834 and is requested by the proposer, the subsidy shall be considered in conjunction with the offering price. (10 points).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-835_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Quality of rehabilitation. — More points shall be awarded for proposing higher-quality rehabilitation. (20 points).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-835_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Affordability. — The minimum affordability level shall be determined pursuant to § 10-832(c), and shall remain in effect for not less than 10 years for property offered for sale to the public and not less than 40 years for property offered for rental to the public. More points shall be awarded for proposing to develop additional affordable single-household dwelling units (that is units not counted toward the minimum affordability level); greater levels of affordability (that is affordable to a household earning 60% or less of the area median income); or for longer periods of affordability (that is for longer than the minimum period of affordability). (20 points).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-835_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Level of LSDBE involvement. — Pursuant to § 10-833(a)(2), a person submitting a winning proposal will be required to enter into an LSDBE MOU. More points shall be awarded for proposing, and evidencing the commitment and ability to achieve, greater involvement by, an LSDBE. (10 points). An additional 5 points shall be awarded to a person submitting a proposal that is an LSDBE whose primary place of business is in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-835_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Feasibility. — More points shall be awarded to a proposal that is deemed more feasible. Feasibility shall be based on the consideration of whether the property will be likely to be developed and sold or rented in the time-line proposed, with the quality of construction proposed, and at the sales or rental prices proposed. (35 points).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

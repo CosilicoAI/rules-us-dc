@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1206.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1206.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1206_14">
+        <akn:num>29-1206.14</akn:num>
+        <akn:heading>Special litigation committee.</akn:heading>
+<akn:subsection eId="subsec_29-1206_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a statutory trust is named as or made a party in a derivative proceeding, the trust may appoint a special litigation committee to investigate the claims asserted in the proceeding and determine whether pursuing the action is in the best interests of the trust. If the trust appoints a special litigation committee, on motion by the committee made in the name of the trust, except for good cause shown, the court shall stay discovery for the time reasonably necessary to permit the committee to complete its investigation. This subsection does not prevent the court from enforcing a person’s right to information under § 29-1205.08 or § 29-1206.08, for good cause shown, granting extraordinary relief in the form of a temporary restraining order or preliminary injunction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1206_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A special litigation committee may be composed of one or more disinterested and independent individuals, who may be trustees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1206_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A special litigation committee may be appointed:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1206_14_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>After appropriate investigation, a special litigation committee may determine that it is in the best interests of the statutory trust that the proceeding:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1206_14_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>After making a determination under subsection (d) of this section, a special litigation committee shall file with the court a statement of its determination and its report supporting its determination and shall serve each party with a copy of the determination and report. The court shall determine whether the members of the committee were disinterested and independent and whether the committee conducted its investigation and made its recommendation in good faith, independently, and with reasonable care, with the committee having the burden of proof. If the court finds that the members of the committee were disinterested and independent and that the committee acted in good faith, independently, and with reasonable care, the court shall enforce the determination of the committee. Otherwise, the court shall dissolve the stay of discovery entered under subsection (a) of this section and allow the action to proceed under the direction of the plaintiff.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/49-1101.20"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/49-1101.20/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_49_1101_20">
+        <akn:num>49-1101.20</akn:num>
+        <akn:heading>District of Columbia State Interstate Compact Council.</akn:heading>
+<akn:subsection eId="subsec_49-1101_20_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established the District of Columbia Educational Opportunity for Military Children State Council. The State Council shall be composed of 7 members. The State Council shall provide for the coordination among its agencies of government, local education agencies, and military installations concerning the state’s participation in, and compliance with, the compact. The members of the State Council shall be:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_49-1101_20_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

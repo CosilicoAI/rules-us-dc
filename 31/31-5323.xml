@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5323"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5323/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5323">
+        <akn:num>31-5323</akn:num>
+        <akn:heading>Reports.</akn:heading>
+<akn:subsection eId="subsec_31-5323_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every society transacting business in the District shall annually, on or before March 1, unless for cause shown the time has been extended by the Commissioner, file with the Commissioner a true statement of its financial condition, transactions, and affairs for the preceding calendar year and pay a filing fee of $50. The statement shall be in general form and context as approved by the National Association of Insurance Commissioners for fraternal benefit societies and as supplemented by additional information required by the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5323_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>As part of the annual statement, each society shall, on or before March 1, file with the Commissioner a valuation of its certificates in force on the preceding December 31. The Commissioner may, in his or her discretion for cause shown, extend the time for filing the valuation for not more than 2 calendar months.  The valuation shall be done in accordance with the standards specified in § 31-5322.  The valuation and underlying data shall be certified by a qualified actuary or, at the expense of the society, verified by the actuary of the department of insurance of the state of domicile of the society.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5323_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A society neglecting to file the annual statement in the form and within the time provided by this section shall forfeit $100 for each day during which the neglect continues, and, upon notice by the Commissioner to that effect, its authority to do business in the District shall cease while the default continues.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.61"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.61/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_61">
+        <akn:num>1-325.61</akn:num>
+        <akn:heading>Fee Collection Incentive Fund.</akn:heading>
+<akn:subsection eId="subsec_1-325_61_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_61_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>There is established a fund designated as the Fee Collection Incentive Fund, which shall be a segregated account within the General Fund of the District of Columbia. All funds shall be deposited into the Fund without regard to fiscal year limitation and shall not revert to the fund balance of the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall be continually available for the uses and purposes set forth in subsection (c) of this section, subject to authorization by Congress in an appropriations act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_61_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Five percent of supplementary revenue collected by an agency in the base year shall be deposited on an annual basis at the beginning of the disbursal year in the Fund in an account established for the agency. The funds in the agency account may be expended for any authorized use in the disbursal year; provided, that the funds shall not be used by the agency for employee bonuses; provided further, that the expenditure of funds shall directly enhance the agency’s efficiency. Any balance of funds in an account in the Fund at the end of the disbursal year shall be transferred to the General Fund of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

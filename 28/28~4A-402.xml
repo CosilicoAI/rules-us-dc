@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-402"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-402/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4A_402">
+        <akn:num>28:4A-402</akn:num>
+        <akn:heading>Obligation of sender to pay receiving bank.</akn:heading>
+<akn:subsection eId="subsec_28:4A-402_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This section is subject to §§ 28:4A-205 and 28:4A-207.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-402_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>With respect to a payment order issued to the beneficiary’s bank, acceptance of the order by the bank obliges the sender to pay the bank the amount of the order, but payment is not due until the payment date of the order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-402_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This subsection is subject to subsection (e) of this section and to § 28:4A-303. With respect to a payment order issued to a receiving bank other than the beneficiary’s bank, acceptance of the order by the receiving bank obliges the sender to pay the bank the amount of the sender’s order. Payment by the sender is not due until the execution date of the sender’s order. The obligation of that sender to pay its payment order is excused if the funds transfer is not completed by acceptance by the beneficiary’s bank of a payment order instructing payment to the beneficiary of that sender’s payment order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-402_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the sender of a payment order pays the order and was not obliged to pay all or part of the amount paid, the bank receiving payment is obliged to refund payment to the extent the sender was not obliged to pay. Except as provided in §§ 28:4A-204 and 28:4A-304, interest is payable on the refundable amount from the date of payment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-402_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a funds transfer is not completed as stated in subsection (c) of this section and an intermediary bank is obliged to refund payment as stated in subsection (d) of this section but is unable to do so because not permitted by applicable law or because the bank suspends payments, a sender in the funds transfer that executed a payment order in compliance with an instruction, as stated in § 28:4A-302(a)(1), to route the funds transfer through that intermediary bank is entitled to receive or retain payment from the sender of the payment order that it accepted. The first sender in the funds transfer that issued an instruction requiring routing through that intermediary bank is subrogated to the right of the bank that paid the intermediary bank to refund as stated in subsection (d) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-402_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The right of the sender of a payment order to be excused from the obligation to pay the order as stated in subsection (c) of this section or to receive refund under subsection (d) of this section may not be varied by agreement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

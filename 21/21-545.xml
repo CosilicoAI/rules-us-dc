@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-545"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-545/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_545">
+        <akn:num>21-545</akn:num>
+        <akn:heading>Hearing and determination by court or jury; order; witnesses; jurors.</akn:heading>
+<akn:subsection eId="subsec_21-545_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon the receipt by the court of a report referred to in section 21-544, the court shall promptly set the matter for hearing and shall cause a written notice of the time and place of the final hearing to be served personally upon the person with respect to whom the report was made and his attorney, together with notice that he has five days following the date on which he is so served within which to demand a jury trial or a trial by the Court. The demand may be made by the person or by anyone in his behalf. If a jury trial or a trial by the Court is demanded within the five-day period, it shall be accorded by the court with all reasonable speed. If a timely demand for jury trial or a trial by the Court is not made, the court shall determine the person’s mental condition on the basis of the report of the Commission, or on such further evidence in addition to the report as the court requires.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-545_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-545_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The psychiatrists and qualified psychologists who are members of the Commission shall be competent and compellable witnesses at a hearing or trial held pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-545_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The jury to be used in any case where a jury trial is demanded under this chapter shall be impaneled, upon order of the Court, from the jurors in attendance upon other branches of the Court, who shall perform the services in addition to and as part of their duties in the Court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

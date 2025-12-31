@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1152.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1152.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1152_06">
+        <akn:num>26-1152.06</akn:num>
+        <akn:heading>Unfair steering or improper use of credit scores.</akn:heading>
+<akn:subsection eId="subsec_26-1152_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A lender shall not steer, counsel, or direct any prospective borrower to accept a loan product with a risk grade less favorable than the risk grade that the borrower would qualify for based on that lender’s then current underwriting guidelines, prudently applied, considering the information available to that lender, including the information provided by the borrower. A lender shall not violate this section if the risk grade determination applied to a borrower is reasonably based on the lender’s underwriting guidelines and if it is an appropriate risk grade category for which the borrower qualifies with the lender.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1152_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The lender shall not make, or cause to be made, any false, deceptive, or misleading statement, representation, or determination regarding the borrower’s ability to qualify for any mortgage product or the borrower’s credit score.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-411"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-411/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_411">
+        <akn:num>47-411</akn:num>
+        <akn:heading>Trust fund deposits and disbursements.</akn:heading>
+<akn:subsection eId="subsec_47-411_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All moneys received by the Collector of Taxes of the District of Columbia in the nature of trust fund deposits, the disposition of which is not provided for by law, and which had been on April 27, 1904, deposited by said Collector with the Treasurer of the United States to the official credit of the Disbursing Officer of the District of Columbia, shall be deposited by the said Collector in the Treasury of the United States to the credit of a permanent appropriation account, to be known and designated as “Miscellaneous Trust Fund Deposits, District of Columbia.”</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-411_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Necessary advances from said permanent appropriation account shall be made by the Secretary of the Treasury to the Disbursing Officer of the District of Columbia, upon requisition of the Mayor of the District of Columbia for such amounts as may be required from time to time for necessary disbursements. The said Disbursing Officer shall make disbursements from such advances only upon itemized vouchers duly audited and approved by the Auditor of the District of Columbia, and the accounts of said Disbursing Officer for all such disbursements shall be rendered to and audited by the General Accounting Office.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-411_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>It shall be the duty of the Auditor of the District of Columbia to keep separate accounts with each depositor for all trust fund deposits received and deposited in accordance with the provisions of this section, showing the amounts received and deposited and the payments made on each individual account.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

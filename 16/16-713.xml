@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-713"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-713/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_713">
+        <akn:num>16-713</akn:num>
+        <akn:heading>Alien sentencing.</akn:heading>
+<akn:subsection eId="subsec_16-713_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Prior to acceptance of a plea of guilty or nolo contendere to any offense punishable as a crime, the court shall administer the following advisement on the record to the defendant:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-713_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon request, the court shall allow the defendant a reasonable amount of additional time to consider the appropriateness of the plea in light of the advisement. If the court fails to advise the defendant as required by subsection (a) and the defendant shows that conviction of the offense to which the defendant pleaded guilty or nolo contendere may have the consequences for the defendant of deportation, exclusion from the United States, or denial of naturalization pursuant to the laws of the United States, the court, on defendant’s motion, shall vacate the judgment and permit the defendant to withdraw the plea of guilty or nolo contendere, and enter a plea of not guilty. Absent a record that the court provided the advisement required by subsection (a), the defendant shall be presumed not to have received the required advisement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

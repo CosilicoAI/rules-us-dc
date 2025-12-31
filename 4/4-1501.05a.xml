@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1501.05a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1501.05a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1501_05a">
+        <akn:num>4-1501.05a</akn:num>
+        <akn:heading>Assessment of information obtained from criminal background check.</akn:heading>
+<akn:subsection eId="subsec_4-1501_05a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The information obtained from the criminal background check shall not create a disqualification or presumption against employment or volunteer status of the applicant unless the Mayor determines that the applicant poses a present danger to children or youth. In making this determination, the Mayor shall consider the following factors:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1501_05a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor and covered child or youth services providers shall not employ or permit to serve as an unsupervised volunteer an applicant who has been convicted of, has pleaded nolo contendere to, is on probation before judgment or placement of a case on the stet docket because of, or has been found not guilty by reason of insanity for any sexual offenses involving a minor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1501_05a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an application is denied because the applicant presents a present danger to children or youth, the Mayor shall inform the applicant in writing and the applicant may appeal the denial to the Commission on Human Rights within 30 days of the date of the written statement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

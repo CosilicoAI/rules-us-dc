@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5333"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5333/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5333">
+        <akn:num>31-5333</akn:num>
+        <akn:heading>Exemption of certain societies.</akn:heading>
+<akn:subsection eId="subsec_31-5333_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing contained in this chapter shall be construed as to affect or apply to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5333_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any such society or association described in subsection (a)(3) or (4) of this section which provides for death or disability benefits for which benefit certificates are issued, and any such society or association included in subsection (a)(4) of this section which has more than 1000 members, shall not be exempted from the provisions of this chapter but shall comply with all requirements thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5333_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No society which is exempt from the requirements of this chapter, except any society described in subsection (a)(2) of this section, shall give or allow, or promise to give or allow, to any person any compensation for procuring new members.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5333_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Every society which provides for benefits in case of death or disability resulting solely from accident, and which does not obligate itself to pay natural death or sick benefits shall have all of the privileges and be subject to all the applicable provisions and regulations of this chapter except that the provisions thereof relating to medical examination, valuations of benefit certificates, and incontestability, shall not apply to such society.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5333_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Commissioner may require from any society or association, by examination or otherwise, such information as will enable the Commissioner to determine whether the society or association is exempt from the provisions of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5333_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Societies, exempted under the provisions of this section, shall also be exempt from all other provisions of the insurance laws of the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

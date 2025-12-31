@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_251_03">
+        <akn:num>46-251.03</akn:num>
+        <akn:heading>Medical support notice; contents; effect.</akn:heading>
+<akn:subsection eId="subsec_46-251_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A medical support notice shall be issued in a format consistent with federal requirements and shall contain all information required by federal law. A medical support notice shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An appropriately completed medical support notice that meets the requirements of section 401(b) of the Child Support Performance and Incentive Act of 1998, approved July 16, 1998 (112 Stat. 663; 42 U.S.C. § 651 note), shall be deemed to be a qualified medical child support order under section 609(a)(2) of the Employee Retirement Income Security Act of 1974, approved August 10, 1993 (107 Stat. 371; 29 U.S.C. § 1169(a)(2)).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A medical support notice issued in another jurisdiction shall be treated under this subchapter in the same manner as a medical support notice issued in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

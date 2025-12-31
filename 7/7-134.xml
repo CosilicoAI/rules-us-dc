@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-134"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-134/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_134">
+        <akn:num>7-134</akn:num>
+        <akn:heading>Persons believed to be carriers of communicable diseases — Detention; expiration of order; continuation; hearing on detention; minors.</akn:heading>
+<akn:subsection eId="subsec_7-134_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A copy of the order provided for in § 7-133 shall be delivered to the person in charge of any place or institution where a person or group of persons has been taken or detained, or, if the place of detention is a residence, to any person of suitable age and discretion then present in the residence. The order shall constitute the authority for detention until the order expires. The order shall expire within 24 hours of its issuance unless a judge of the Superior Court of the District of Columbia continues its force and effect for a longer period. The judge shall continue the force and effect of an order if the judge finds that probable cause exists to believe that the detained person’s presence in the general population is likely to cause death or seriously impair the health of others.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-134_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a judge continues an order, any person or group of persons detained pursuant to the order may petition for a hearing to determine whether the person or group of persons is affected with a communicable disease, and, if the person or group of persons is affected with a communicable disease, whether release of the person or group of persons into the general population is likely to cause death or seriously impair the health of others. The hearing shall take place as soon as practicable, but no later than 10 days after the court receives the petition.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

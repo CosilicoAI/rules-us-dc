@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-517"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-517/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2A_517">
+        <akn:num>28:2A-517</akn:num>
+        <akn:heading>Revocation of acceptance of goods.</akn:heading>
+<akn:subsection eId="subsec_28:2A-517_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A lessee may revoke acceptance of a lot or commercial unit whose nonconformity substantially impairs its value to the lessee if the lessee has accepted it:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-517_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except in the case of a financial lease that is not a consumer lease, a lessee may revoke acceptance of a lot or commercial unit if the lessor defaults under the lease contract and the default substantially impairs the value of that lot or commercial unit to the lessee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-517_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the lease agreement so provides, the lessee may revoke acceptance of a lot or commercial unit because of other defaults by the lessor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-517_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Revocation of acceptance must occur within a reasonable time after the lessee discovers or should have discovered the ground for it and before any substantial change in condition of the goods which is not caused by the nonconformity. Revocation is not effective until the lessee notifies the lessor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-517_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A lessee who so revokes has the same rights and duties with regard to the goods involved as if the lessee had rejected them.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

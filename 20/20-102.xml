@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_102">
+        <akn:num>20-102</akn:num>
+        <akn:heading>Verification.</akn:heading>
+<akn:subsection eId="subsec_20-102_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a writing is required by this title to be verified, verification shall be sufficient if the writing is signed by the person required to make the verification and contains the following representation:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-102_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person who in making a verification under this section willfully and contrary to the verification states any material matter that such person does not believe to be true shall be guilty of an offense. Any person convicted of this offense shall be punished by imprisonment for not less than 2 or more than 10 years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-102_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to any other penalty provided under this section, a person may be fined an amount not more than the amount set forth in [§ 22-3571.01].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

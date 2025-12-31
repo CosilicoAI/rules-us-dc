@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2076"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2076/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2076">
+        <akn:num>21-2076</akn:num>
+        <akn:heading>Payment of debt and delivery of property to foreign conservator without local proceedings.</akn:heading>
+<akn:subsection eId="subsec_21-2076_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person indebted to a protected individual or having possession of property or of an instrument evidencing a debt, stock, or chose in action belonging to a protected individual may pay or deliver it to a conservator, guardian of the estate, or other fiduciary appointed by a court of the state of residence of the protected individual upon being presented with proof of appointment and an affidavit made by or on behalf of the fiduciary stating:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2076_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the person to whom the affidavit is presented is not aware of any protective proceeding pending in the District, payment or delivery in response to the demand and affidavit discharges the debtor or possessor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

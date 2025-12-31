@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4310"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4310/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4310">
+        <akn:num>47-4310</akn:num>
+        <akn:heading>Summons authority.</akn:heading>
+<akn:subsection eId="subsec_47-4310_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purpose of ascertaining the correctness of a return; making a return where none has been made; determining the liability of a person or real property for a tax imposed under this title; determining the liability at law or in equity of a transferee or fiduciary of a person for a tax under this title; collecting tax; or inquiring into an offense connected with the administration or enforcement of a law, the Mayor may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4310_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A summons under this section shall be served by the Mayor or by a member of the Metropolitan Police Department in the same manner as a subpoena issued by the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4310_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may report to the Superior Court of the District of Columbia the failure of a person to obey a summons.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4310_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Superior Court of the District of Columbia may compel obedience of a summons under this section to the same extent as witnesses may be compelled to obey the subpoenas of the Court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

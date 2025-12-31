@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1305.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1305.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1305_02">
+        <akn:num>4-1305.02</akn:num>
+        <akn:heading>Criminal records check required for certain individuals.</akn:heading>
+<akn:subsection eId="subsec_4-1305_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>An individual who seeks to be approved or licensed as an adoptive parent by the Agency or by any licensed child-placing agency;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1305_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>An individual who seeks to be approved or licensed as a foster parent by the Agency or by any licensed child-placing agency;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1305_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>An individual who seeks to be approved as a kinship caregiver or legal guardian by the Agency;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1305_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Except as provided in paragraph (1) of this section, an individual who seeks to become an adoptive parent of a child under Chapter 3 of Title 16;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1305_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Upon order of a judicial officer, an individual with whom a child is placed under § 16-2320(a)(2) or § 16-2320(a)(3)(C); and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1305_02_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>An adult residing in the home of an individual described in paragraphs (1), (2), (3), or (4) of this section or, upon order of a judicial officer, an adult who resides in the home of an individual described in paragraph (5) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

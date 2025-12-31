@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-803.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-803.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_803_01">
+        <akn:num>48-803.01</akn:num>
+        <akn:heading>Generically equivalent drug formulary; therapeutic interchange list.</akn:heading>
+<akn:subsection eId="subsec_48-803_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The formulary of generically equivalent drug products for the District of Columbia shall be the chemical and generic drugs contained in the Food and Drug Administration publication, “Approved Drug Products with Therapeutic Equivalence Evaluations,” including all updates issued by the Food and Drug Administration (“Orange Book”).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-803_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Boards of Pharmacy and Medicine may jointly establish a therapeutic interchange list.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-803_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a therapeutic interchange list is established pursuant to subsection (b) of this section:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

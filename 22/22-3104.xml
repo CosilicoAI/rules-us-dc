@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3104">
+        <akn:num>22-3104</akn:num>
+        <akn:heading>Affirmative defenses.</akn:heading>
+<akn:subsection eId="subsec_22-3104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Under this chapter it shall be an affirmative defense that the defendant in good faith reasonably believed the person appearing in the performance was 18 years of age or over.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3104_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>It shall be an affirmative defense to a charge under § 22-3102 that the defendant:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

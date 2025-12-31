@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4805.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4805.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4805_05">
+        <akn:num>28-4805.05</akn:num>
+        <akn:heading>Income taxes.</akn:heading>
+<akn:subsection eId="subsec_28-4805_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A tax required to be paid by a trustee based on receipts allocated to income shall be paid from income.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4805_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A tax required to be paid by a trustee based on receipts allocated to principal shall be paid from principal, even if the tax is called an income tax by the taxing authority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4805_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A tax required to be paid by a trustee on the trust’s share of an entity’s taxable income shall be paid:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4805_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>After applying subsections (a) through (c) of this section, the trustee shall adjust income or principal receipts to the extent that the trust’s taxes are reduced because the trust receives a deduction for payments made to a beneficiary.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

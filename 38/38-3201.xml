@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-3201"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-3201/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_3201">
+        <akn:num>38-3201</akn:num>
+        <akn:heading>Mayor to provide notice to Board when locating certain facilities near schools.</akn:heading>
+<akn:subsection eId="subsec_38-3201_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall give at least 60 days written notice to the District of Columbia Board of Education or the governing body of a private or parochial school of the proposed establishment of a homeless shelter, correctional facility, halfway house, or drug treatment center, to be located within 400 feet of a school, or adjacent school grounds in the District of Columbia, used for the instruction of minors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-3201_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall give great weight to written comments of the District of Columbia Board of Education in regard to the establishment or current operation of a homeless shelter, correctional facility, halfway house, or drug treatment center located within 400 feet of a District of Columbia public school, of the adjacent school grounds, used for the instruction of minors.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

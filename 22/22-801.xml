@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-801"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-801/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_801">
+        <akn:num>22-801</akn:num>
+        <akn:heading>Definition and penalty.</akn:heading>
+<akn:subsection eId="subsec_22-801_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whoever shall, either in the nighttime or in the daytime, break and enter, or enter without breaking, any dwelling, or room used as a sleeping apartment in any building, with intent to break and carry away any part thereof, or any fixture or other thing attached to or connected thereto or to commit any criminal offense, shall, if any person is in any part of such dwelling or sleeping apartment at the time of such breaking and entering, or entering without breaking, be guilty of burglary in the first degree. Burglary in the first degree shall be punished by imprisonment for not less than 5 years nor more than 30 years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-801_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (a) of this section, whoever shall, either in the night or in the daytime, break and enter, or enter without breaking, any dwelling, bank, store, warehouse, shop, stable, or other building or any apartment or room, whether at the time occupied or not, or any steamboat, canalboat, vessel, or other watercraft, or railroad car, or any yard where any lumber, coal, or other goods or chattels are deposited and kept for the purpose of trade, with intent to break and carry away any part thereof or any fixture or other thing attached to or connected with the same, or to commit any criminal offense, shall be guilty of burglary in the second degree. Burglary in the second degree shall be punished by imprisonment for not less than 2 years nor more than 15 years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-801_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to any other penalty provided under this section, a person may be fined an amount not more than the amount set forth in § 22-3571.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

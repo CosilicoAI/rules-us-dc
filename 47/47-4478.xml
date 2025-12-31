@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4478"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4478/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4478">
+        <akn:num>47-4478</akn:num>
+        <akn:heading>Release of levy and return of property.</akn:heading>
+<akn:subsection eId="subsec_47-4478_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall release the levy upon all, or part, of the property levied upon and shall promptly notify the person upon whom the levy was made (if any) that the levy has been released if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4478_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The release of levy on a property under subsection (a)(1) of this section shall not prevent a subsequent levy on the property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4478_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the Mayor determines that property has been wrongfully levied upon, the Mayor may return:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4478_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Interest shall be allowed and paid at the overpayment rate established in § 47-4212:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

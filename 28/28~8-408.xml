@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-408"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-408/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_408">
+        <akn:num>28:8-408</akn:num>
+        <akn:heading>Statements of uncertificated securities.</akn:heading>
+<akn:subsection eId="subsec_28:8-408_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 2 business days after the transfer of an uncertificated security has been registered, the issuer shall send to the new registered owner and, if the security has been transferred subject to a registered pledge, to the registered pledgee a written statement containing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-408_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 2 business days after the pledge of an uncertificated security has been registered, the issuer shall send to the registered owner and the registered pledgee a written statement containing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-408_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Within 2 business days after the release from pledge of an uncertificated security has been registered, the issuer shall send to the registered owner and the pledgee whose interest was released a written statement containing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-408_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An “initial transaction statement” is the statement sent to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-408_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Each initial transaction statement shall be signed by or on behalf of the issuer and must be identified as “Initial Transaction Statement”.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-408_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Within 2 business days after the transfer of an uncertificated security has been registered, the issuer shall send to the former registered owner and the former registered pledgee, if any, a written statement containing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-408_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>At periodic intervals no less frequent than annually and at any time upon the reasonable written request of the registered owner, the issuer shall send to the registered owner of each uncertificated security a dated written statement containing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-408_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>At periodic intervals no less frequent than annually and at any time upon the reasonable written request of the registered pledgee, the issuer shall send to the registered pledgee of each uncertificated security a dated written statement containing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-408_i">
+      <akn:num>(i)</akn:num>
+      <akn:content><akn:p>If the issuer sends the statements described in subsections (g) and (h) of this section at periodic intervals no less frequent than quarterly, the issuer is not obligated to send additional statements upon request unless the owner or pledgee requesting them pays to the issuer the reasonable cost of furnishing them.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-408_j">
+      <akn:num>(j)</akn:num>
+      <akn:content><akn:p>Each statement sent pursuant to this section must bear a conspicuous legend reading substantially as follows: “This statement is merely a record of the rights of the addressee as of the time of its issuance. Delivery of this statement, of itself, confers no rights on the recipient. This statement is neither a negotiable instrument nor a security.”</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

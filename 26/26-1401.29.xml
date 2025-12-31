@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1401.29"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1401.29/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1401_29">
+        <akn:num>26-1401.29</akn:num>
+        <akn:heading>Acquisitions, mergers and asset purchases.</akn:heading>
+<akn:subsection eId="subsec_26-1401_29_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A universal bank may purchase the assets of, merge with, acquire, or be acquired by, a financial institution, or the holding company of a financial institution, only after a written application to the Commissioner and the written approval of the application by the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1401_29_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An application for approval of the Commissioner under subsection (a) of this section shall be submitted on a form, and accompanied by a fee, prescribed by the Commissioner. In reviewing and approving or disapproving an application under this section, the Commissioner shall apply the standards required by the District of Columbia Banking Code, including the applicant’s general plan of business, proposed plan of capital investment in the District, and community development program.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

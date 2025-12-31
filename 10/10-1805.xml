@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1805"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1805/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1805">
+        <akn:num>10-1805</akn:num>
+        <akn:heading>Naming rights for the Waterfront Park.</akn:heading>
+<akn:subsection eId="subsec_10-1805_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The provisions of subchapter IV of Unit A of Chapter 2 of Title 9 [§ 9-204.01 et seq.] shall not apply to the Waterfront Park.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1805_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The authority to sell the naming rights for the Waterfront Park, including the right to sell the naming rights for portions of the Waterfront Park, is assigned to Forest City SEFC, LLC; provided, that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1303.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1303.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1303_04">
+        <akn:num>4-1303.04</akn:num>
+        <akn:heading>Services authorized; custodial placement; removal of child.</akn:heading>
+<akn:subsection eId="subsec_4-1303_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When an investigation indicates that a child has been left alone or with inadequate supervision, the Agency is authorized to make a temporary custodial placement of the child; provided, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When an investigation made pursuant to § 4-1301.04 or § 4-1301.05 indicates that a child is an abused or a neglected child and when it has been determined that the child cannot be adequately protected by any of the services set forth in § 4-1303.03(a)(7) or (b) of this section or by any other services, the Director of the Agency is authorized to:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

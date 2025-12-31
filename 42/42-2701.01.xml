@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2701.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2701.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2701_01">
+        <akn:num>42-2701.01</akn:num>
+        <akn:heading>Declaration of policy.</akn:heading>
+<akn:subsection eId="subsec_42-2701_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Council of the District of Columbia hereby finds: that a decline in the number of housing units in the District of Columbia, together with the existing number of substandard dwellings, has produced a critical shortage of adequate housing for low and moderate income families; that this shortage of affordable housing and the inability of residents to obtain appropriate financing compels a substantial number of District residents to live in unsanitary, overcrowded and unsafe conditions and to expend a disproportionate portion of their incomes on housing; that these conditions are detrimental to the health and welfare of District residents and adversely affect the economy of the District; that a major cause of this housing crisis is the cost of funds made available by mortgage lenders in the District to finance housing for low and moderate income families; and further that this situation has frustrated the construction, lease, sale and purchase of housing units for low and moderate income families.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2701_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Council determines that a corporate instrumentality of the District shall be created and given authority to generate funds from private and public sources to increase the supply and lower the cost of funds available for residential mortgages and construction loans and thereby help alleviate the shortage of adequate housing. The Council further determines that this purpose can be accomplished through programs whereby mortgage lenders and/or the Agency make mortgage, construction and rehabilitation loans for single and multifamily rental and home ownership units on terms designed to expand available housing opportunities. The Council further determines that this purpose can also be accomplished through a program whereby the Agency issues bonds and lends the proceeds thereof to Eligible State and Local Government Units to enhance the Agency’s ability to generate revenues to fulfill its duties under this chapter. The Council further determines that the goals of neighborhood and fiscal stability can be achieved through a policy of residential economic diversity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2701_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Council hereby declares that the enactment of this chapter is in the public interest and for the public benefit, and that the authority and powers conferred by this chapter and the expenditure of monies pursuant to this chapter are to serve valid public purposes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

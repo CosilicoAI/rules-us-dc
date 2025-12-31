@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-541"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-541/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_541">
+        <akn:num>21-541</akn:num>
+        <akn:heading>Petition to Commission; copy to person affected.</akn:heading>
+<akn:subsection eId="subsec_21-541_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Proceedings for the judicial commitment of a person in the District of Columbia may be commenced by the filing of a petition with the Commission by his spouse, parent, or legal guardian, by a physician or a qualified psychologist, by a duly accredited officer or agent of the Department, by the Director of the Department or the Director’s designee, or by an officer authorized to make arrests in the District of Columbia. The petition shall be accompanied by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-541_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within three days after the Department receives a petition filed under subsection (a) of this section, the Department shall send a copy of the petition by registered mail to the person with respect to whom it was filed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

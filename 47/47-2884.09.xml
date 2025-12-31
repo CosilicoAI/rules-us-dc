@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2884.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2884.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2884_09">
+        <akn:num>47-2884.09</akn:num>
+        <akn:heading>Maximum rate of interest permitted; repayment of loan.</akn:heading>
+<akn:subsection eId="subsec_47-2884_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Beginning January 1, 2011, the maximum rate of interest which a pawnbroker may contract for, and receive, including fees, shall not exceed 5% per month, or fraction of the month, for the first 6 months of a loan, and 3% per month, or fraction of the month, thereafter; provided, that a pawnbroker may contract for, and receive, a minimum charge of $2 per month, or fraction of the month, in lieu of interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2884_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The borrower may pay all or any part of any loan made pursuant to this part at any time before the date of maturity thereof, but any such payment may first be applied by the licensee to all interest unpaid up to the date of such payment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2884_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Once during each calendar year, a borrower shall have the right to rescind any pawn loan by the end of the same business day of the transaction. A $2 fee may be assessed by the licensee to offset the administrative cost of the rescission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2884_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall investigate from time to time, but no more frequently than once every 3 years, the economic conditions and other factors relating to and affecting the business of making pawnbroker loans under this part and shall ascertain and report to the Council all pertinent facts necessary to determine what maximum rate of interest should be permitted.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-409.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-409.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_409_05">
+        <akn:num>29-409.05</akn:num>
+        <akn:heading>Merger with controlled corporation or between controlled corporations.</akn:heading>
+<akn:subsection eId="subsec_29-409_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A domestic or foreign entity that holds a membership in a domestic nonprofit corporation that carries at least 80% of the voting power of each class of membership of the controlled corporation that has voting power may merge the controlled corporation into itself or into another such controlled corporation, or merge itself into the controlled corporation, without the approval of the board of directors, designated body or members of the controlled corporation, unless the articles of incorporation or bylaws of any of the corporations or the organic records of a controlling unincorporated entity otherwise provide.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-409_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If, under subsection (a) of this section, approval of a merger by the members of a controlled corporation is not required, the controlling entity shall, within 10 days after the effective date of the merger, notify each of the members of the controlled corporation that the merger has become effective.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-409_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsections (a) and (b) of this subsection, a merger between a controlling entity and a controlled corporation shall be governed by the provisions of this subchapter applicable to mergers generally.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-409_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A merger pursuant to this section shall also be approved in a record by a designated body whose approval is required to amend the articles of incorporation of the controlled corporation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

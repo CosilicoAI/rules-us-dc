@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4801"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4801/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4801">
+        <akn:num>16-4801</akn:num>
+        <akn:heading>Findings.</akn:heading>
+<akn:subsection eId="subsec_16-4801_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Existing custody law does not provide adequately for the needs of a parent who is terminally ill, or who is periodically incapable of caring for the needs of a child due to the parent’s incapacity or debilitation resulting from illness, and who desires to make long-term plans for the future of a child without terminating or limiting in any way the parent’s legal rights.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4801_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Children are becoming unnecessarily involved in adversarial court proceedings or are without legally sanctioned caretakers because their ill parents cannot or will not permanently or temporarily transfer care, custody, or control of their children to another person if such a transfer requires any limitation of the custodial parent’s rights.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

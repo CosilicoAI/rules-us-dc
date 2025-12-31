@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-1106"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-1106/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_1106">
+        <akn:num>20-1106</akn:num>
+        <akn:heading>Distribution to a minor.</akn:heading>
+<akn:subsection eId="subsec_20-1106_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a personal representative is required to distribute assets of an estate to a minor, and if the will contains a direction or grants discretion to the personal representative with regard to the manner of making such a distribution, then the personal representative shall make distribution in accordance with that direction or discretion without the need for any order of the Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-1106_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a personal representative is required to distribute assets of an estate to a minor, and if there is no will or if the will does not give any direction or discretion to the personal representative with regard to such a distribution, then the personal representative may make such distribution as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-1106_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When a personal representative distributes assets in accordance with this section, the personal representative shall obtain a voucher, signed by the distributee, indicating receipt of the property distributed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

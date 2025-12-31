@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-210.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-210.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_210_04">
+        <akn:num>4-210.04</akn:num>
+        <akn:heading>Notification of right to request hearing and method of making request.</akn:heading>
+<akn:subsection eId="subsec_4-210_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Written information regarding the right to request a hearing and the method of making such request shall be furnished by the Mayor to each public assistance applicant or recipient at the time of application and whenever the Mayor notifies the applicant or recipient that it intends to take action which may or will adversely affect him or her or his or her benefits, including changes in or terminations of assistance payments. Such written notice shall include information that the claimant has the right to be represented by legal counsel or by a lay person who is not an employee of the District; that he may bring witnesses in his or her behalf; that reasonable expenses related to the hearing, such as transportation costs for the claimant and his or her witnesses, will be paid by the Mayor, and that legal services are available to the claimants.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-210_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A copy of the rules relating to hearing procedures will be furnished to all claimants at the time a hearing is requested pursuant to § 4-210.05.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

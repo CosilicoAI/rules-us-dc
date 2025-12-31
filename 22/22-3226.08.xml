@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3226.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3226.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3226_08">
+        <akn:num>22-3226.08</akn:num>
+        <akn:heading>Abusive telemarketing acts or practices.</akn:heading>
+<akn:subsection eId="subsec_22-3226_08_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Cause a telephone to ring more than 15 times in an intended telephone solicitation call;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3226_08_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Initiate a telephone solicitation call to a consumer after the same consumer has expressly stated that he or she does not wish to receive solicitation calls from that seller; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3226_08_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Engage in telephone solicitation to a consumer’s residence at any time before 8:00 a.m. and after 9:00 p.m., local time at the place of the consumer called.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

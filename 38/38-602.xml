@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-602"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-602/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_602">
+        <akn:num>38-602</akn:num>
+        <akn:heading>Examination requirements; certificates of health, testing for lead poisoning and dental health.</akn:heading>
+<akn:subsection eId="subsec_38-602_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in § 38-603, each student attending prekindergarten through grade 12 in a public, public charter, private, or independent school in the District of Columbia shall furnish the school annually with a certificate of health completed and signed by a physician or advanced practice nurse who has examined the student during the 12-month period immediately preceding the 1st day of the school year or the date of the student’s enrollment in the school, whichever occurs later. The examination shall cover all items required by the certificate of health form for the student’s particular age group.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-602_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>Upon entry of a student under 6 years of age into a licensed day care center, Head Start or similar early childhood program, pre-kindergarten, kindergarten or first grade in a public or private school in the District, the student shall furnish the school with a certificate of testing for lead poisoning.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-602_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall establish requirements for periodic testing for lead poisoning and dental examinations. The Mayor shall also establish requirements for the submission of certificates of testing for lead poisoning for the students subject to the provisions of subsection (a-1) of this section, and submission of certificates of dental health for elementary and secondary school students.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-602_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall develop standard forms for certificates of health, testing for lead poisoning, and dental health, and shall make blank forms available in sufficient quantities to carry out the purposes of this subchapter. The certificate of health form shall contain, at a minimum, the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-602_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except as provided in § 38-603, the Mayor may require that prekindergarten, elementary, and secondary school students who participate in special programs or have been exposed to certain hazards meet examination requirements in addition to those established by this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

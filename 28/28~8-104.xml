@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_104">
+        <akn:num>28:8-104</akn:num>
+        <akn:heading>Acquisition of security or financial asset or interest therein.</akn:heading>
+<akn:subsection eId="subsec_28:8-104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person acquires a security or an interest therein, under this article, if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person acquires a financial asset, other than a security, or an interest therein, under this article, if the person acquires a security entitlement to the financial asset.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-104_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person who acquires a security entitlement to a security or other financial asset has the rights specified in Part 5, but is a purchaser of any security, security entitlement, or other financial asset held by the securities intermediary only to the extent provided in § 28:8-503.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-104_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Unless the context shows that a different meaning is intended, a person who is required by other law, regulation, rule, or agreement to transfer, deliver, present, surrender, exchange, or otherwise put in the possession of another person a security or financial asset satisfies that requirement by causing the other person to acquire an interest in the security or financial asset pursuant to subsection (a) or (b) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

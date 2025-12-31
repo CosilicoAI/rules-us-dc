@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-751.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-751.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_751_04">
+        <akn:num>6-751.04</akn:num>
+        <akn:heading>Equipment.</akn:heading>
+<akn:subsection eId="subsec_6-751_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An owner subject to this subchapter shall install a smoke detector which is capable of sensing visible or invisible particles of combustion and emitting an audible signal. The owner shall install a smoke detector which is of a type approved by the Mayor of the District of Columbia consistent with any appropriate federal regulations. The owner shall install a smoke detector in accordance with specifications of the manufacturer or in compliance with the National Fire Protection Association Standards 72-E and 74 (1974 Edition).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 40 days after June 20, 1978, and before approving any type of smoke detector pursuant to this section, the Mayor of the District of Columbia or his designated agent shall hold a public hearing at which he shall consider, in addition to any other matter he considers relevant, any potential radiological danger presented by any of the types of smoke detectors under consideration.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

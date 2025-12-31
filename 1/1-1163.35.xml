@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.35"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.35/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1163_35">
+        <akn:num>1-1163.35</akn:num>
+        <akn:heading>Penalties.</akn:heading>
+<akn:subsection eId="subsec_1-1163_35_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1163_35_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (c) of this section, any person who violates any of the provisions of Parts A through E of this subchapter shall be subject to criminal prosecution and, upon conviction, shall be fined not more than the amount set forth in § 22-3571.01, or imprisoned for not longer than 6 months, but not both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1163_35_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any person who knowingly violates any of the provisions of Parts A through E of this subchapter shall be subject to criminal prosecution and, upon conviction, shall be fined not more than the amount set forth in § 22-3571.01, or imprisoned for not longer than 5 years, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1163_35_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Prosecutions pursuant to subsection (b) may be brought by the United States Attorney for the District of Columbia, in the name of the United States, or by the Attorney General for the District of Columbia, in the name of the District of Columbia. If the Attorney General for the District of Columbia initiates an investigation for the purpose of prosecution pursuant to subsection (b) of this section, he shall promptly notify the United States Attorney for the District of Columbia. Prosecutions pursuant to subsection (c) of this section shall be brought by the United States Attorney for the District of Columbia in the name of the United States.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1163_35_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>All actions of the Elections Board, the United States Attorney for the District of Columbia, or the Attorney General for the District of Columbia to enforce the provisions of Parts A, B, D, and E of this subchapter shall be initiated within 6 years of the actual occurrence of the alleged violation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

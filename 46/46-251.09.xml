@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_251_09">
+        <akn:num>46-251.09</akn:num>
+        <akn:heading>Liability for contributions to health insurance coverage; objections to withholding.</akn:heading>
+<akn:subsection eId="subsec_46-251_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An employee is liable for employee contributions required to enroll a child in health insurance coverage pursuant to a medical support notice or a support order, except that an employee may contest a withholding for employee contributions for health insurance coverage based on a mistake of fact.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An employee may contest a withholding for employee contributions for health insurance coverage by filing a motion to quash the withholding with the Superior Court of the District of Columbia, with service upon the IV-D agency if the withholding was commenced pursuant to a medical support notice. The employee shall file the motion within 15 days after the date the first employee contributions for health insurance coverage are withheld from the employee’s earnings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The only grounds for contesting a withholding based on a mistake of fact under this section are:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Enrollment of a child in health insurance coverage and withholding of the employee’s contributions for health insurance coverage shall not be stayed or terminated until the employer receives written notice that the contest has been resolved in the employee’s favor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_09_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed to limit an employee’s right to contest an underlying support order requiring the employee to provide health insurance coverage for a child.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

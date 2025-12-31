@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1432"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1432/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1432">
+        <akn:num>34-1432</akn:num>
+        <akn:heading>Renewable energy portfolio standard.</akn:heading>
+<akn:subsection eId="subsec_34-1432_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commission shall implement a renewable energy portfolio standard which applies to all District of Columbia retail electricity sales, except as provided under subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1432_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1432_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the standard becomes applicable to electricity sold to a customer after the start of a calendar year, the standard shall not apply to electricity sold to the customer during that portion of the year before the standard became applicable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1432_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The renewable energy portfolio standard shall be as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1432_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Subject to subsections (a) and (c) of this section, an electricity supplier shall meet the standard by obtaining the equivalent amount of renewable energy credits that equal the percentage required under this section for each electricity product sold at retail by the electricity supplier.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1432_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

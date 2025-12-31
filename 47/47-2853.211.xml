@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2853.211"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2853.211/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2853_211">
+        <akn:num>47-2853.211</akn:num>
+        <akn:heading>Scope of practice for steam and other operating engineers.</akn:heading>
+<akn:subsection eId="subsec_47-2853_211_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this part, the term “steam engineer” means a person who maintains, inspects and operates steam or hot water boilers, boiler room auxiliary equipment such as pumps, condensate and derating water tanks, blowdown tanks, burners, fuel systems, steam and gas turbines, steam pumps, air compressors, hot water heaters, boiler room electrical systems, chiller room or refrigeration equipment such as centrifugal chillers, reciprocating absorption chillers, air conditioning and refrigeration auxiliaries such as cooling towers, pumps and controls, electrical generators, appliances using gas, liquid fuel, solid fuel or waste heat.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2853_211_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The term “operating engineer” means a person who operates and maintains cranes, backhoes, bulldozers, air compressors, concrete pumps, derricks, clams or any construction heavy equipment used for hoisting, demolition, digging or earth moving.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

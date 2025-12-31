@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1204.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1204.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1204_01">
+        <akn:num>3-1204.01</akn:num>
+        <akn:heading>Qualifications of members.</akn:heading>
+<akn:subsection eId="subsec_3-1204_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The members of each board shall be residents of the District at the time of their appointments and while they are members of the board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1204_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1204_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each consumer member of a board, in addition to the requirements of subsection (a) of this section, shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1204_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Within the meaning of subsection (c) of this section, the term “household member” means a relative, by blood, marriage, or domestic partnership, or a ward of an individual who shares the individual’s actual residence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1204_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The office of a member of a board or advisory committee shall be forfeited upon the member’s failure to maintain the qualifications required by this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1204_01_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Each professional member of a board or advisory committee shall disqualify himself or herself from acting on his or her own application for licensure or license renewal or on any other matter related to his or her practice of a health occupation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

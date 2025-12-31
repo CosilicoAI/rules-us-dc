@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-911"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-911/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_911">
+        <akn:num>11-911</akn:num>
+        <akn:heading>Emergency authority to conduct proceedings outside District of Columbia.</akn:heading>
+<akn:subsection eId="subsec_11-911_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. — The Superior Court may hold special sessions at any place within the United States outside the District of Columbia as the nature of the business may require and upon such notice as the Superior Court orders, upon a finding by either the chief judge of the Superior Court (or, if the chief judge is absent or disabled, the judge designated under section 11-907(a)) or the Joint Committee on Judicial Administration in the District of Columbia that, because of emergency conditions, no location within the District of Columbia is reasonably available where such special sessions could be held.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-911_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Business transacted. — The Superior Court may transact any business at a special session outside the District of Columbia authorized pursuant to this section which it has the authority to transact at a regular session, except that a criminal trial may not be conducted at such a special session without the consent of the defendant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-911_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Summoning of jurors. — Notwithstanding any other provision of law, in any case in which special sessions are conducted pursuant to this section, the Superior Court may summon jurors—</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-911_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notice requirements. — If the Superior Court issues an order exercising its authority under subsection (a), the Court—</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

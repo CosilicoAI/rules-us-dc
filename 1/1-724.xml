@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-724"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-724/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_724">
+        <akn:num>1-724</akn:num>
+        <akn:heading>Appropriations authorized as payments to the Funds.</akn:heading>
+<akn:subsection eId="subsec_1-724_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is authorized to be appropriated from the revenues of the United States for fiscal year 1980 and for each fiscal year thereafter through fiscal year 2004:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-724_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-724_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If at any time the balance of any Fund established by this chapter is not sufficient to meet all obligations against such Fund, such Fund shall have a claim on the revenues of the District of Columbia to the extent necessary to meet such obligations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-724_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If, for any fiscal year, the Mayor and the Council do not carry out the requirements of subsections (c)(2), (d), and (e) of § 1-722 with respect to a Fund, no funds authorized to be appropriated for such Fund by this section shall be available for such Fund for such fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-724_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-724_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this Act, no Federal payments may be made to any Fund established by this chapter for any fiscal year after fiscal year 1997.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4402"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4402/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4402">
+        <akn:num>47-4402</akn:num>
+        <akn:heading>Credit card or electronic payment of taxes.</akn:heading>
+<akn:subsection eId="subsec_47-4402_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For purposes of this section, “electronic funds transfer” means a transfer of funds, other than a transaction by check, draft, or similar paper instrument, that is initiated through an electronic terminal, telephone, or computer or magnetic tape for the purpose of ordering, instructing, or authorizing a financial institution to debit or credit an account. The term includes point of sale transfers, automated teller machine transfers, direct deposit or withdrawal of funds, transfers initiated by telephone, and transfers resulting from debit card transactions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4402_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may accept payment of taxes by credit card or electronic funds transfer. The Mayor may contract with a bank or credit card vendor, or third party provider, for the acceptance of the credit card or other form of payment, with any fee or charge for the election to use this method of payment absorbed by the taxpayer, or, in the alternative, paid to the vendor or contractor out of the monies collected. If the taxpayer elects to pay by one of these methods, the payment shall not be deemed to be made until the District receives the funds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4402_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may require non-individual taxpayers to make payments electronically if the amount of the payment due for a period exceeds $5,000.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

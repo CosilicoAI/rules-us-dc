@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-220.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-220.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_220_03">
+        <akn:num>2-220.03</akn:num>
+        <akn:heading>Living wage payment.</akn:heading>
+<akn:subsection eId="subsec_2-220_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All recipients of contracts or government assistance in the amount of $100,000 or more shall pay their affiliated employees no less than the living wage. All subcontractors of recipients of these contracts that receive funds of $15,000 or more shall pay their affiliated employees no less than the living wage; provided, that this receipt of funds is from the contract funds received by the recipient from the District government. All subcontractors of recipients of government assistance shall pay their affiliated employees the living wage if the subcontractor receives $50,000 or more from a recipient; provided, that this receipt of funds is from government assistance received by the recipient from the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-220_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The living wage shall be paid to employees of the District government commencing March 1, 2006; provided, that the wage of any such employee established under an existing collective bargaining agreement or by the recipients of a federal law or grant shall continue as long as that agreement, law, or grant remains in effect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-220_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Department of Employment Services shall adjust this rate for the previous calendar year, on an annual basis by the annual average increase, if any, in the Consumer Price Index for all Urban Consumers in the Washington Metropolitan Statistical Area published by the Bureau of Labor Statistics of the United States Department of Labor up to 3%. This adjustment shall begin the 1st of January occurring at least one year following June 8, 2006. The Department shall calculate the adjustment to the nearest multiple of $.05 and shall publish the adjusted rate not later than March 1 of each year. Any annual adjustment in excess of 3% shall be approved by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-220_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall publish any adjustment to the living wage rate in the District of Columbia Register no later than 45 days after the rate is adjusted.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-220_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

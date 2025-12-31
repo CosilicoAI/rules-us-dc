@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2202.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2202.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2202_15">
+        <akn:num>34-2202.15</akn:num>
+        <akn:heading>Merit personnel system inapplicable.</akn:heading>
+<akn:subsection eId="subsec_34-2202_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in this section and in § 34-2202.17(b), no provision of § 1-601.01 et seq., shall apply to employees of the Authority except as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2202_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An employee of the Authority who is covered under the District of Columbia Defined Contribution Pension Plan, who meets the minimum requirements for participation in a retirement plan established by the Authority, may, upon written notice to the Authority, elect, instead, to be covered by the Authority’s plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2202_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

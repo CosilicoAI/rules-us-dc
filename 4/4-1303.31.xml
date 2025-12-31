@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1303.31"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1303.31/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1303_31">
+        <akn:num>4-1303.31</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_4-1303_31_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_31_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Child fatality” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_31_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Disclosing official” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_31_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_31_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Findings and information related to a child fatality or near fatality” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_31_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Near fatality” means a child in serious or critical medical condition as a result of child abuse, neglect, or maltreatment, as certified by a physician.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_31_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Personal or private information” means information about an individual’s personal relationships, sexual preference or conduct, economic or financial needs or status, physical or mental health, substance use or abuse, work or school records, religious beliefs, or political opinions, unless such personal or private information is related to the cause of the child fatality or near fatality.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_31_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Public record” shall have the same meaning provided in § 2-502(18).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

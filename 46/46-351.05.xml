@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-351.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-351.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_351_05">
+        <akn:num>46-351.05</akn:num>
+        <akn:heading>Application of chapter to resident of foreign country and foreign support proceeding.</akn:heading>
+<akn:subsection eId="subsec_46-351_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A tribunal of the District shall apply subchapters I through VI of this chapter [§§ 46-351.01  through § 46-356.16] and, as applicable, subchapter VII of this chapter [§ 46-357.01 et seq.], to a support proceeding involving:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-351_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A tribunal of the District that is requested to recognize and enforce a support order on the basis of comity may apply the procedural and substantive provisions of subchapters I through VI of this chapter [§§ 46-351.01  through § 46-356.16].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-351_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subchapter VII of this chapter [§ 46-357.01 et seq.] applies only to a support proceeding under the Convention. In such a proceeding, if a provision of subchapter VII of this chapter [§ 46-357.01 et seq.] is inconsistent with subchapters I through VI of this chapter [§§ 46-351.01  through § 46-356.16], subchapter VII [§ 46-357.01 et seq.] controls.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

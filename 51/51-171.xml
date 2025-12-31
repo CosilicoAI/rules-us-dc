@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/51-171"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/51-171/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_51_171">
+        <akn:num>51-171</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_51-171_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Affected unit” means an employer or its specified department, shift, or other unit of 2 or more employees that is designated by the employer to participate in a shared work plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-171_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Director” means the Director of the Department of Employment Services, established by Reorganization Plan No. 1 of 1980, effective April 17, 1980 (part A, subchapter IV, Chapter 15 [of Title 1] of the D.C. Official Code).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-171_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Employment security law” means subchapter I of this chapter [§ 51-101 et seq.], and the federal unemployment compensation laws, including the Social Security Act, approved August 14, 1935 (49 Stat. 620; 42 U.S.C. § 301 et seq.), the Employment Security Administrative Financing Act of 1954, approved August 5, 1954 (68 Stat. 668; 42 U.S.C. § 1101 et seq.), and the Federal Unemployment Tax Act, approved August 16, 1954 (68A Stat. 439; 26 U.S.C. § 3301 et seq.).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-171_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Fringe benefits” means health insurance, a retirement benefit received under a pension plan, a paid vacation day, a paid holiday, sick leave, and any other analogous employee benefit that is provided by an employer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-171_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Normal weekly hours of work” means the lesser of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-171_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Participating employer” means an employer who has a shared work plan in effect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-171_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Shared work benefit” means an unemployment compensation benefit that is payable to an individual in an affected unit because the individual works reduced hours under an approved shared work plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-171_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Shared work plan” means a strategy for reducing unemployment under which employees who are members of an affected unit share the work remaining after a reduction in their normal weekly hours of work.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-171_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Shared work unemployment compensation program” means a voluntary program designed to reduce unemployment and stabilize the work force by allowing certain employees to collect unemployment compensation benefits if the employees share the work remaining after a reduction in the total number of hours of work and a corresponding reduction in wages.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

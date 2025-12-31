@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-508"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-508/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_508">
+        <akn:num>4-508</akn:num>
+        <akn:heading>Disqualifications and reductions.</akn:heading>
+<akn:subsection eId="subsec_4-508_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Court shall not award compensation if the:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-508_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An application for assistance may be denied, in whole or in part, if the Court finds:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-508_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsections (a) and (b) of this section, if the victim is found to have willingly or knowingly participated, consented, provoked, or incited the crime, a secondary victim is not automatically precluded from compensation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-508_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Gang membership or co-habitation with the offender is not considered a disqualifying factor under subsections (a) or (b) of this section, unless the claimant will be substantially and unjustly enriched by the award.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

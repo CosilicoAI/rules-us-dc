@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/39-112"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/39-112/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_39_112">
+        <akn:num>39-112</akn:num>
+        <akn:heading>Establishment of the Library Development Trust Fund.</akn:heading>
+<akn:subsection eId="subsec_39-112_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established within the General Fund of the District of Columbia a segregated, nonlapsing trust fund designated as the Library Development Trust Fund (“Trust Fund”) into which shall be deposited any revenue generated from:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-112_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Monies deposited into the Trust Fund shall be used to solicit proposals for public-private partnerships and to finance public-private partnerships pursuant to this subchapter, such as the:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-112_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Pursuant to § 39-106, the Mayor shall submit to the Council, as part of the annual budget, a requested appropriation for expenditures from the Trust Fund, including a description of the specific approved plan or project for which the funds will be used.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-112_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Funds deposited in the Trust Fund shall not revert to the fund balance of the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall be continually available for the uses and purposes set forth in this section, subject to authorization by Congress.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

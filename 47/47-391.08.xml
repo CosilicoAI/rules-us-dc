@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-391.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-391.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_391_08">
+        <akn:num>47-391.08</akn:num>
+        <akn:heading>Application of laws of District of Columbia to Authority.</akn:heading>
+<akn:subsection eId="subsec_47-391_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. — The following laws of the District of Columbia (as in effect on April 17, 1995) shall apply to the members and activities of the Authority:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-391_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No control, supervision, oversight, or review by Mayor or Council. — Neither the Mayor nor the Council may exercise any control, supervision, oversight, or review over the Authority or its activities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-391_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Authority not subject to representation by Attorney General for the District of Columbia. — In any action brought by or on behalf of the Authority, and in any action brought against the Authority, the Authority shall be represented by such counsel as it may select, but in no instance may the Authority be represented by the Attorney General for the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

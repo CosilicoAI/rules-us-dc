@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_303">
+        <akn:num>28:9-303</akn:num>
+        <akn:heading>Law governing perfection and priority of security interests in goods covered by a certificate of title.</akn:heading>
+<akn:subsection eId="subsec_28:9-303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This section applies to goods covered by a certificate of title, even if there is no other relationship between the jurisdiction under whose certificate of title the goods are covered and the goods or the debtor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Goods become covered by a certificate of title when a valid application for the certificate of title and the applicable fee are delivered to the appropriate authority. Goods cease to be covered by a certificate of title at the earlier of the time the certificate of title ceases to be effective under the law of the issuing jurisdiction or the time the goods become covered subsequently by a certificate of title issued by another jurisdiction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-303_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The local law of the jurisdiction under whose certificate of title the goods are covered governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in goods covered by a certificate of title from the time the goods become covered by the certificate of title until the goods cease to be covered by the certificate of title.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

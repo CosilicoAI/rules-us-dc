@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-412.21"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-412.21/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_412_21">
+        <akn:num>29-412.21</akn:num>
+        <akn:heading>Procedure for judicial dissolution.</akn:heading>
+<akn:subsection eId="subsec_29-412_21_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It shall not be necessary to make directors or members parties to a proceeding to dissolve a nonprofit corporation unless relief is sought against them individually.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-412_21_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Superior Court, in a proceeding brought to dissolve a nonprofit corporation, may issue injunctions, appoint a receiver or custodian pendente lite with all powers and duties the court directs, take other action required to preserve the corporate assets wherever located, and carry on the activities of the corporation until a full hearing can be held.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4412"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4412/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4412">
+        <akn:num>16-4412</akn:num>
+        <akn:heading>Disclosure by arbitrator.</akn:heading>
+<akn:subsection eId="subsec_16-4412_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Before accepting appointment, an individual who is requested to serve as an arbitrator, after making a reasonable inquiry, shall disclose to all parties to the agreement to arbitrate and arbitration proceeding, and to any other arbitrators, any known facts that a reasonable person would consider likely to affect the impartiality of the arbitrator in the arbitration proceeding, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4412_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An arbitrator has a continuing obligation to disclose to all parties to the agreement to arbitrate and arbitration proceeding, and to any other arbitrators, any facts that the arbitrator learns after accepting appointment which a reasonable person would consider likely to affect the impartiality of the arbitrator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4412_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an arbitrator discloses a fact required by subsection (a) or (b) of this section to be disclosed and a party timely objects to the appointment or continued service of the arbitrator based upon the fact disclosed, the objection may be a ground under § 16-4423(a)(2) for vacating an award made by the arbitrator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4412_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the arbitrator did not disclose a fact as required by subsection (a) or (b) of this section, upon timely objection by a party, the court, under § 16-4423(a)(2), may vacate an award.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4412_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An arbitrator appointed as a neutral arbitrator who does not disclose a known, direct, and material interest in the outcome of the arbitration proceeding or a known, existing, and substantial relationship with a party is presumed to act with evident partiality under § 16-4423(a)(2).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4412_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>If the parties to an arbitration proceeding agree to the procedures of an arbitration organization or any other procedures for challenges to arbitrators before an award is made, substantial compliance with those procedures is a condition precedent to a motion to vacate an award on that ground under § 16-4423(a)(2).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

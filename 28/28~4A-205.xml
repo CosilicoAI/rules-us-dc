@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-205"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-205/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4A_205">
+        <akn:num>28:4A-205</akn:num>
+        <akn:heading>Erroneous payment orders.</akn:heading>
+<akn:subsection eId="subsec_28:4A-205_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If an accepted payment order was transmitted pursuant to a security procedure for the detection of error and the payment order (i) erroneously instructed payment to a beneficiary not intended by the sender, (ii) erroneously instructed payment in an amount greater than the amount intended by the sender, or (iii) was an erroneously transmitted duplicate of a payment order previously sent by the sender, the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-205_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If (i) the sender of an erroneous payment order described in subsection (a) of this section is not obliged to pay all or part of the order, and (ii) the sender receives notification from the receiving bank that the order was accepted by the bank or that the sender’s account was debited with respect to the order, the sender has a duty to exercise ordinary care, on the basis of information available to the sender, to discover the error with respect to the order and to advise the bank of the relevant facts within a reasonable time, not exceeding 90 days, after the bank’s notification was received by the sender. If the bank proves that the sender failed to perform that duty, the sender is liable to the bank for the loss the bank proves it incurred as a result of the failure, but the liability of the sender may not exceed the amount of the sender’s order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-205_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section applies to amendments to payment orders to the same extent it applies to payment orders.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

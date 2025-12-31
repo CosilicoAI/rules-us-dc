@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.18"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.18/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1541_18">
+        <akn:num>50-1541.18</akn:num>
+        <akn:heading>Transfer of ownership by secured party’s transfer statement.</akn:heading>
+<akn:subsection eId="subsec_50-1541_18_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In For the purposes of this section, “secured party’s transfer statement” means a record signed by the secured party of record stating:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_18_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Unless the Harbor Master rejects a secured party’s transfer statement for a reason stated in § 50-1541.07(c), not later than 20 days after delivery to the Harbor Master of the statement and payment of fees and taxes payable under the law of the District other than this chapter in connection with the statement or the acquisition or use of the vessel, the Harbor Master shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_18_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An application under subsection (a) of this section or the creation of a certificate of title under subsection (b) of this section is not by itself a disposition of the vessel and does not by itself relieve the secured party of its duties under Article 9 of Subtitle I of Title 28.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1303.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1303.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1303_06">
+        <akn:num>4-1303.06</akn:num>
+        <akn:heading>Confidentiality of records and information.</akn:heading>
+<akn:subsection eId="subsec_4-1303_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Information acquired by staff of the Child and Family Services Agency that identifies individual children reported as or found to be abused or neglected or which identifies other members of their families or other persons shall be considered confidential and may be released or divulged only for:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Persons or agencies who are not covered by confidentiality requirements comparable to those in subsection (a) of this section, to whom information is released pursuant to this section, § 4-1302.03, or § 4-1302.04 must sign a statement that they will not divulge such confidential information for purposes unrelated to the purposes of treatment, identification or evaluation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

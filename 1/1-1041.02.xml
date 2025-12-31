@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1041.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1041.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1041_02">
+        <akn:num>1-1041.02</akn:num>
+        <akn:heading>Report of ward task forces.</akn:heading>
+<akn:subsection eId="subsec_1-1041_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1041_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The report submitted by a ward task force shall contain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1041_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In developing its report, each ward task force shall comply with the requirements of this section and the requirements of § 1-309.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1041_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The total District population and the population of defined sub-units of the District population as determined by the federal decennial census, or any official adjustment to the federal decennial census, shall be the exclusive permissible population data for apportionment of single-member districts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1041_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>No redistricting plan or proposed amendment to a redistricting plan shall result in district populations with a deviation range greater than 10% or a relative deviation greater than plus-or-minus 5%, unless the deviation results from the limitations of census geography or from the promotion of a rational public policy, including, but not limited to, respect for the political geography of the District, the natural geography of the District, neighborhood cohesiveness, or the development of compact and contiguous districts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1041_02_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>No redistricting plan or proposed amendment to a redistricting plan shall be considered if the plan or amendment has the purpose and effect of diluting the voting strength of minority citizens.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

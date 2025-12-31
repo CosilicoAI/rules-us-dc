@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-706.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-706.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_706_02">
+        <akn:num>29-706.02</akn:num>
+        <akn:heading>Effect of dissociation as limited partner.</akn:heading>
+<akn:subsection eId="subsec_29-706_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon a person’s dissociation as a limited partner:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-706_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person’s dissociation as a limited partner does not itself discharge the person from any debt, liability, or other obligation to the limited partnership or the other partners which the person incurred while a limited partner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

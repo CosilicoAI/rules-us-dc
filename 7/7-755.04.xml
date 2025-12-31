@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-755.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-755.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_755_04">
+        <akn:num>7-755.04</akn:num>
+        <akn:heading>Commission on Health Disparities Fund.</akn:heading>
+<akn:subsection eId="subsec_7-755_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a special fund the Commission on Health Disparities Fund (“Fund”), which shall be administered by the Commission in accordance with subsections (b) and (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-755_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Revenue from the following sources shall be deposited into the Fund:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-755_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Money in the Fund shall be used to fulfill the functions and duties of the Commission, as set forth in § 7-755.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-755_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

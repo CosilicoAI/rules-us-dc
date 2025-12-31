@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-402"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-402/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_402">
+        <akn:num>20-402</akn:num>
+        <akn:heading>Supervised administration; procedure.</akn:heading>
+<akn:subsection eId="subsec_20-402_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A prayer for supervised administration may be made in the petition for probate. The Court shall order supervised administration of a decedent’s estate only:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-402_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In no event shall the appointment of a personal representative be delayed pending the Court’s decision pursuant to subsection (a) of this section. Thus, whenever the Court must make a decision under subsection (a)(2) or (a)(3) of this section, the Court shall appoint the personal representative in unsupervised administration; thereafter, an Order for supervised administration shall convert the proceeding to supervised administration.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

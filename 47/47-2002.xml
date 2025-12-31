@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2002"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2002/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2002">
+        <akn:num>47-2002</akn:num>
+        <akn:heading>Imposition of tax.</akn:heading>
+<akn:subsection eId="subsec_47-2002_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A tax is imposed upon all vendors for the privilege of selling at retail certain tangible personal property and for the privilege of selling certain selected services (defined as “retail sale” and “sale at retail” in this chapter). Beginnning [Beginning] on October 1, 2013, the rate of such tax shall be 5.75% of the gross receipts from sales of or charges for such tangible personal property and services, except that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2002_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Of the sales tax revenue received pursuant to this section, $1,170,000 annually shall be used to fund the Reimbursable Detail Subsidy Program in the Alcoholic Beverage Regulation Administration.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2002_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>[Repealed].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-754.36a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-754.36a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_754_36a">
+        <akn:num>4-754.36a</akn:num>
+        <akn:heading>Discontinuation of supportive housing services.</akn:heading>
+<akn:subsection eId="subsec_4-754_36a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A provider may discontinue supportive housing services for a client only when the client has:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-754_36a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Providers of supportive housing shall give oral and written notice, in accordance with § 4-754.33(d), to clients of their discontinuation from services only after the required time period in subsection (a) of this section has lapsed, except where there is credible evidence that the client who has relocated to another program or facility is expected to be absent for more than 180 days. The notice shall be given at least 30 days before the effective date of the discontinuation of services. If it is not possible to provide written notice at the time of the action because the client’s whereabouts are unknown, a written notice shall be delivered to the client’s last known address or, upon request, within 90 days of the discontinuation of services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-754_36a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A client whose supportive housing services are discontinued pursuant to this section shall have the right to be re-housed upon return; provided, that the client continues to meet the eligibility criteria for the program and the services are available. If the services are not available from the original supportive housing provider, the client shall receive the first available opening at the original supportive housing provider’s program, unless an opening elsewhere is available and the client consents to the alternate provider. To the extent possible, a provider who is notified of a client’s impending return shall make a reasonable effort to work with the client to arrange supportive housing services that will be available upon the client’s return.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

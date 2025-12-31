@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_406_05">
+        <akn:num>29-406.05</akn:num>
+        <akn:heading>Terms of directors generally.</akn:heading>
+<akn:subsection eId="subsec_29-406_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The articles of incorporation or bylaws may specify the terms of directors. If a term is not specified in the articles or bylaws, the term of a director is one year. Except for directors who are appointed by persons that are not members or who are designated in a manner other than by election or appointment, the term of a director shall not exceed 5 years. Except as otherwise provided in the articles or bylaws, a director shall be appointed, elected, or otherwise designated for additional terms.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A decrease in the number of directors or term of office shall not shorten an incumbent director’s term.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in the articles of incorporation or bylaws, the term of a director elected to fill a vacancy expires at the end of the unexpired term that the director is filling.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Despite the expiration of a director’s term, the director shall continue to serve until the director’s successor is elected, appointed, or designated and until the director’s successor takes office, unless otherwise provided in the articles of incorporation or bylaws.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

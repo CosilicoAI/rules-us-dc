@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-912"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-912/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_912">
+        <akn:num>38-912</akn:num>
+        <akn:heading>Driver education program; police officer and firefighter cadet programs.</akn:heading>
+<akn:subsection eId="subsec_38-912_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board of Education is authorized, within the limits of appropriations therefor, to accept, on a loan basis, and to maintain and provide for insurance of motor vehicles, for use in the driver education programs of the public schools.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-912_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>There may be appropriated the funds necessary for the administration of comprehensive programs, established in consultation with the Chief of the Metropolitan Police Department and the Chief of the District of Columbia Fire Department, to train and educate students in the public schools to become police officers or firefighter cadets, which funds shall be available for transfer to the Board of Education at the request of the Board, should the Board determine that it will conduct these programs in the public schools.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-912_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A student who is a resident of the District of Columbia and who successfully completes a curriculum established pursuant to this section shall be accorded a preference rating which shall be taken into consideration if the student applies for appointment to either the Metropolitan Police Department cadet program or the District of Columbia Fire Department cadet program.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

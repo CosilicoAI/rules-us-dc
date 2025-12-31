@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_251_02">
+        <akn:num>46-251.02</akn:num>
+        <akn:heading>Use of medical support notice; IV-D agency.</akn:heading>
+<akn:subsection eId="subsec_46-251_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In cases being enforced pursuant to Part D of Title IV of the Social Security Act, approved January 4, 1975 (88 Stat. 2351; 42 U.S.C. § 651 et seq.), where a parent is required by a support order to provide health insurance coverage for a child, which is available through the parent’s employer, the IV-D agency may apply for the enrollment of the child in the health insurance coverage by submitting a medical support notice to the employer. The IV-D agency shall, where appropriate, submit a medical support notice to the employer when the support order requires the noncustodial parent to provide health insurance coverage for the child and the employer is known to the IV-D agency, unless the support order directs enrollment of the child in alternative coverage.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Where a noncustodial parent is a newly hired employee entered in the District of Columbia Directory of New Hires pursuant to § 46-226.06, and the support order requires the noncustodial parent to provide health insurance coverage for a child, the IV-D agency shall submit the medical support notice to the employer within 2 business days after the entry of the employee in the directory.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The IV-D agency shall promptly notify an employer that has received a medical support notice when there is no longer a support order in effect for which the IV-D agency is responsible that requires a parent to provide health insurance coverage for a child.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

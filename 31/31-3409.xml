@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3409"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3409/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3409">
+        <akn:num>31-3409</akn:num>
+        <akn:heading>Information to enrollees.</akn:heading>
+<akn:subsection eId="subsec_31-3409_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A health maintenance organization shall provide to its enrollees a list of providers, upon enrollment and re-enrollment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3409_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Every health maintenance organization shall provide to its enrollees within 30 days notice of any material change in the operation of the organization that will affect them directly.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3409_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An enrollee must be notified in writing by a health maintenance organization of the termination of the primary care provider who provided health care services to that enrollee. A health maintenance organization shall provide assistance to the enrollee in transferring to another participating primary care provider.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3409_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A health maintenance organization shall provide to enrollees information on how services may be obtained, where additional information on access to services can be obtained, and a number where the enrollee can contact the HMO at no cost to the enrollee.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

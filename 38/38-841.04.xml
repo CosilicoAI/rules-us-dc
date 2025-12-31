@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-841.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-841.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_841_04">
+        <akn:num>38-841.04</akn:num>
+        <akn:heading>Additional requirements.</akn:heading>
+<akn:subsection eId="subsec_38-841_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each public or public charter high school shall establish a 3-member Gender Equity Review Committee or identify at least 3 senior administrators to establish criteria for ensuring the gender equity in the school’s athletic program, evaluate the athletics program, and manage Title IX issues at the LEA. This grievance procedures and criteria shall be posted publicly on the school’s website.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-841_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An LEA shall develop grievance procedures that are made available upon request or to any person alleging a violation of Title IX in accordance with Title IX regulations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-841_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An applicable school shall maintain Title IX records for a minimum of 10 years. The Title IX records shall be subject to review by the Mayor and shall include the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

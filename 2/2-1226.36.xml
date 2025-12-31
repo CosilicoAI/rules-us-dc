@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1226.36"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1226.36/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1226_36">
+        <akn:num>2-1226.36</akn:num>
+        <akn:heading>Stormwater control standards.</akn:heading>
+<akn:subsection eId="subsec_2-1226_36_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This section shall apply to the new construction and substantial improvement projects identified in § 2-1226.33 that disturb 5,000 square feet or greater of soil or that have a building footprint of 5,000 square feet or greater.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1226_36_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Private and public space, including buildings, sidewalks, streets, and lawns, within a project subject to this part that discharge directly to the waters of the District, or to either a separate or combined sewer system, shall be designed, constructed, and maintained to comply with the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1226_36_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1226_36_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A payment in lieu of mitigation shall be:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1226_36_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Under circumstances described in subsection (c) of this section, transportation projects, or substantially similar projects undertaken by a public utility, in the existing public right-of-way shall be exempt from the requirement for off-site mitigation or payment in lieu of mitigation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

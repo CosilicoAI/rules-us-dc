@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1205.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1205.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1205_12">
+        <akn:num>3-1205.12</akn:num>
+        <akn:heading>Reinstatement of expired licenses, registrations, or certifications.</akn:heading>
+<akn:subsection eId="subsec_3-1205_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a health professional fails for any reason to renew the license, registration, or certification issued under this subchapter, the board regulating the health occupation shall reinstate the license, registration, or certification if the health professional:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1205_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The board shall not reinstate the license, registration, or certification of a health professional who fails to apply for reinstatement of a license, registration, or certification within 5 years after the license, registration, or certification expires. The health professional may become licensed, registered, or certified by meeting the requirements then in existence for obtaining an initial license, registration, or certification under this subchapter; except, that an individual applying for a license to practice nursing who has not been actively practicing for 5 years or more shall submit proof of having completed a board-approved refresher course in lieu of the requirements then in existence for obtaining an initial license.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

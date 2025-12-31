@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-831.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-831.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_831_09">
+        <akn:num>26-831.09</akn:num>
+        <akn:heading>Structure and organization of merchant banks.</akn:heading>
+<akn:subsection eId="subsec_26-831_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A merchant bank may be organized as a corporation, limited liability company, limited partnership, or limited liability partnership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-831_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The articles of incorporation or other organizational documents of a merchant bank shall contain the following statement: “This [corporation/limited liability company/limited partnership/limited liability partnership] is subject to the requirements of the District of Columbia Banking Code and does not have the power to solicit, receive or accept money or its equivalent on deposit.” The appropriate business form listed in the bracketed text in the statement shall be included in the statement. The statement shall not otherwise be amended.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-831_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A merchant bank may use as a part of its name the word “bank,” “banker”, “banking”, or any abbreviations of those words.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

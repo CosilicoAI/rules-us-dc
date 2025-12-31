@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5051.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5051.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5051_03">
+        <akn:num>31-5051.03</akn:num>
+        <akn:heading>Billing and collection of premiums.</akn:heading>
+<akn:subsection eId="subsec_31-5051_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Charges for portable electronics insurance coverage may be billed and collected by the vendor of portable electronics. Any charge to the enrolled customer for coverage that is not included in the cost associated with the purchase or lease of portable electronics or related services shall be separately itemized on the enrolled customer’s bill. If the portable electronics insurance coverage is included with the purchase or lease of portable electronics or related services, the vendor shall clearly and conspicuously disclose to the enrolled customer that the portable electronics insurance coverage is included with the portable electronics or related services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5051_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Vendors billing and collecting charges for portable electronics insurance coverage shall not be required to maintain funds collected in a segregated account; provided, that the vendor is authorized by the insurer to hold the funds in an alternative manner and remits the amounts to the supervising entity within 60 days of receipt. All funds received by a vendor from an enrolled customer for the sale of portable electronics insurance shall be considered funds held in trust by the vendor in a fiduciary capacity for the benefit of the insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5051_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Vendors may receive compensation for billing and collection services.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

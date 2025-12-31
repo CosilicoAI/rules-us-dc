@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4509"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4509/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4509">
+        <akn:num>47-4509</akn:num>
+        <akn:heading>Local tax exemption.</akn:heading>
+<akn:subsection eId="subsec_47-4509_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An account owner who files an income tax return in the District of Columbia may claim a deduction in an annual amount not to exceed $4,000 for contributions made to all accounts under the Program. With respect to married individuals (or domestic partners registered under § 32-702) filing a joint return, each married individual (or domestic partner registered under § 32-702) may claim a deduction in an annual amount not to exceed $4,000 for contributions made to all accounts under the Program for which the married individual (or domestic partner registered under § 32-702) is the account owner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4509_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an amount greater than $4,000 is contributed to one or more accounts in a tax year, the excess may be carried forward as a deduction, subject to the annual limit, for 5 years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4509_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any deduction taken under this section shall be subject to recapture with respect to a withdrawal or rollover taken within 2 years of the establishment of the account for any reason other than provided in subsection (d) of this section. In addition, notwithstanding the statute of limitations on assessments in § 47-912 [repealed], any deduction taken under this section shall be subject to recapture in the taxable year in which the withdrawal or rollover is made after 2 years of the establishment of the account for any reason other than provided in subsection (d) of this section or to transfer to another qualified tuition program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4509_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Deductions taken under this section shall not be subject to recapture as provided in subsection (c) of this section if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4509_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Subject to subsection (f) of this section, earnings on accounts shall be exempt from District of Columbia income taxation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4509_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Qualified withdrawals shall be exempt from District of Columbia income taxation. The portion of any other withdrawal that is attributable to account earnings shall be subject to District of Columbia income taxation in the year in which the withdrawal is made.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

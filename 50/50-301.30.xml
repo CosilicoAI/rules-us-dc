@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-301.30"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-301.30/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_301_30">
+        <akn:num>50-301.30</akn:num>
+        <akn:heading>Vehicle inspection officers.</akn:heading>
+<akn:subsection eId="subsec_50-301_30_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Vehicle inspection officers shall undergo training on the rules and regulations governing private and public vehicles-for-hire and undergo yearly performance evaluations. Vehicle inspection officers shall be prohibited from making traffic stops of on-duty private or public vehicles-for-hire in the act of transporting a fare, unless there is reasonable suspicion of a violation, and shall act in accordance with all rules governing their duties, as established through rulemaking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_30_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon reasonable suspicion of an illegal street hail, a public or private vehicle-for-hire operator shall provide a law enforcement official or vehicle inspection officer with access to a device containing an electronic record of trips sufficient to establish that the ride in question was prearranged through digital dispatch. Failure to have or provide access to a device containing such a record shall constitute a civil infraction punishable by fine or other penalty as established by the Mayor; provided, that an operator shall not be required to relinquish custody of a device containing evidence of a trip arranged through digital dispatch.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

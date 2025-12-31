@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3651.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3651.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3651_03">
+        <akn:num>42-3651.03</akn:num>
+        <akn:heading>Petition for receivership.</akn:heading>
+<akn:subsection eId="subsec_42-3651_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding the availability of any other remedy, the Corporation Counsel may, in the name of the District of Columbia and based on the grounds set forth in § 42-3651.02, petition the Superior Court of the District of Columbia (“Court”) to appoint a receiver of the rents or payments for use and occupancy for the affected rental housing accommodation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3651_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the availability of any other remedy, a majority of the tenants in the rental housing accommodation may, based on the grounds set forth in § 42-3651.02, submit a written request asking the Corporation Counsel to petition the Court to appoint a receiver of the rents or payments for use and occupancy of the affected rental housing accommodation. If the Corporation Counsel denies the request or does not file a petition within 5 days, excluding Saturdays, Sundays, and legal holidays, after receiving a request, the requestor may file with the Court a petition for the appointment of a receiver.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3651_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as provided in § 42-3651.04(b), the Court shall set a date for a hearing on the petition no later than 30 days after the filing of the petition.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

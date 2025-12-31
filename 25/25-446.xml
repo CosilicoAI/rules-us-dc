@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-446"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-446/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_446">
+        <akn:num>25-446</akn:num>
+        <akn:heading>Settlement agreements; approval process; penalties for violations.</akn:heading>
+<akn:subsection eId="subsec_25-446_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The applicant and any protestant may, at any time, negotiate a settlement and enter into a written settlement agreement setting forth the terms of the settlement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-446_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-446_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If it determines that the settlement agreement complies with all applicable laws and regulations and the applicant otherwise qualifies for licensure, the Board shall approve the license application, conditioned upon the licensee’s compliance with the terms of the settlement agreement. The Board shall incorporate the text of the settlement agreement in its order and the settlement agreement shall be enforceable by the Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-446_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-446_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Upon a determination that a licensee has violated a settlement agreement, the Board shall penalize the licensee according to the provisions set forth for violations of a license in Chapter 8 of this title.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

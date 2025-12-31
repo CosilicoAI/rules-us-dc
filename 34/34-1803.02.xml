@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1803.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1803.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1803_02">
+        <akn:num>34-1803.02</akn:num>
+        <akn:heading>Collection and remittance of prepaid wireless E911 charge.</akn:heading>
+<akn:subsection eId="subsec_34-1803_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1803_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The prepaid wireless E911 charge is the liability of the consumer and not of the seller or of any provider, except that the seller shall be liable to remit all prepaid wireless E911 charges that the seller collects from consumers, except for deductions pursuant to subsection (f) of this section, including all such charges that the seller is deemed to collect where the amount of the charge has not been separately stated on an invoice, receipt, or other similar document provided to the consumer by the seller.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1803_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the amount of the prepaid wireless E911 charge that is collected by a seller from a consumer is separately stated on an invoice, receipt, or other similar document provided to the consumer by the seller, the amount shall not be included in the base for measuring any tax, fee, surcharge, or other charge that is imposed by the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1803_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1803_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Office of Tax and Revenue shall establish regulations governing collection, remittance, and other administrative provisions that are consistent with existing provisions governing the collection, remittance, and administration of the tax imposed by § 47-2002.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1803_02_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A seller shall be permitted to deduct and retain 3% of prepaid wireless E911 charges that are collected by the seller from consumers.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

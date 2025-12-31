@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/15-905"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/15-905/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_15_905">
+        <akn:num>15-905</akn:num>
+        <akn:heading>Asserting and defending a foreign-money claim.</akn:heading>
+<akn:subsection eId="subsec_15-905_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person may assert a claim in a specified foreign money. If a foreign-money claim is not asserted, the claimant makes the claim in United States dollars.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-905_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An opposing party may allege and prove that a claim, in whole or in part, is in a different money than that asserted by the claimant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-905_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person may assert a defense, set-off, recoupment, or counterclaim in any money without regard to the money of other claims.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-905_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The determination of the proper money of the claim is a question of law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

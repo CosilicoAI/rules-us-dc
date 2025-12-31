@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-632"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-632/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_632">
+        <akn:num>31-632</akn:num>
+        <akn:heading>Fingerprinting and criminal history record background checks.</akn:heading>
+<akn:subsection eId="subsec_31-632_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commissioner shall require state and national criminal history record background checks of each applicant for the purpose of determining eligibility for a license, registration, or charter. In order for the Commissioner to obtain and receive national criminal history records from the Federal Bureau of Investigation’s Criminal Justice Information Services Division, the Commissioner shall require each applicant to submit a full set of fingerprints, including a scanned electronic or digital fingerprint or a hard copy fingerprint.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-632_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The applicant shall bear the cost of administering and processing the fingerprinting and criminal history record background checks. The Commissioner shall establish, by rule, fees to cover the costs associated with the fingerprinting and criminal history record background checks.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-632_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commissioner may contract for the collection and transmission of fingerprints authorized under this chapter, including any administrative functions related thereto.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-632_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Commissioner may exchange the fingerprints and other information with, and receive criminal history record background information from, the Metropolitan Police Department and the Federal Bureau of Investigation for the purpose of facilitating determinations regarding eligibility for licensure under this chapter. The Metropolitan Police Department may exchange this fingerprint data with the Federal Bureau of Investigation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

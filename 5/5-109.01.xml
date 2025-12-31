@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-109.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-109.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_109_01">
+        <akn:num>5-109.01</akn:num>
+        <akn:heading>Cadet program authorized; purpose; preference for appointment; appropriations.</akn:heading>
+<akn:subsection eId="subsec_5-109_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Chief of the Metropolitan Police Department shall establish a police officer cadet program, which shall include senior year high school students and young adults under 21 years of age residing in the District of Columbia who are graduates of a high school in the District, for the purpose of instructing, training, and exposing interested persons to the operations of the Metropolitan Police Department and the duties, tasks, and responsibilities of serving as a police officer with the Metropolitan Police Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-109_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person successfully completing the required training and service in a cadet program established pursuant to this section shall be accorded full preference for appointment as a member of the Metropolitan Police Department or of the Fire and Emergency Medical Services Department, if the person shall have met all other requirements pertaining to membership in the chosen Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-109_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>There may be appropriated the funds necessary for the administration of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

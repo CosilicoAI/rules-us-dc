@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1771.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1771.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1771_06">
+        <akn:num>8-1771.06</akn:num>
+        <akn:heading>Electric company purchases of distribution transformers — Public Service Commission rule.</akn:heading>
+<akn:subsection eId="subsec_8-1771_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1771_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 365 days of the date that the United States Department of Energy issues a final rule on liquid-immersed distribution transformers, the Public Service Commission shall adopt a rule governing the purchase of liquid-immersed distribution transformers by the electric company. The rule shall ensure that, subject to availability, all such purchases occurring on or after January 1, 2009 are based on the life-cycle cost methodology contained in section 2 of Standard TP 1-2002 published by the National Electrical Manufacturers Association. The Public Service Commission may also consider additional inventory management costs as costs for inclusion within the life-cycle cost methodology to be used by an electric company for purposes of this section. Except as provided herein, the rule shall be consistent with regulations pertaining to liquid-immersed distribution transformers adopted by the United States Department of Energy.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

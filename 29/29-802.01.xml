@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-802.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-802.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_802_01">
+        <akn:num>29-802.01</akn:num>
+        <akn:heading>Formation of limited liability company; certificate of organization.</akn:heading>
+<akn:subsection eId="subsec_29-802_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>One or more persons may act as organizers to form a limited liability company by signing and delivering to the Mayor for filing a certificate of organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-802_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A certificate of organization shall state:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-802_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to § 29-801.09(c), a certificate of organization may also contain statements as to matters other than those required by subsection (b) of this subsection [section] but may not vary or otherwise affect the provisions of § 29-801.07(c) in a manner inconsistent with that section. However, a statement in a certificate of organization shall not be effective as a statement of authority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-802_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A limited liability company is formed when the Mayor has filed the company’s certificate of organization and it becomes effective and at least one person becomes a member.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

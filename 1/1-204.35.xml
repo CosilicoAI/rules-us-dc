@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.35"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.35/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_35">
+        <akn:num>1-204.35</akn:num>
+        <akn:heading>Election of the Attorney General.</akn:heading>
+<akn:subsection eId="subsec_1-204_35_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Attorney General for the District of Columbia shall be elected on a partisan basis by the registered qualified electors of the District. Nothing in this section shall prevent a candidate for the position of Attorney General from belonging to a political party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_35_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_35_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The term of office for the Attorney General shall be 4 years and shall begin on noon on January 2nd of the year following his or her election. The term of office of the Attorney General shall coincide with the term of office of the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_35_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any candidate for the position of Attorney General shall meet the qualifications of § 1-301.83, prior to the day on which the election for the Attorney General is to be held.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_35_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The first election for the position of Attorney General shall be after January 1, 2014.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

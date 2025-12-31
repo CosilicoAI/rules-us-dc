@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5404"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5404/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5404">
+        <akn:num>31-5404</akn:num>
+        <akn:heading>Board of Directors.</akn:heading>
+<akn:subsection eId="subsec_31-5404_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5404_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall give notice to all member insurers of the time and place of the organizational meeting to select the initial Board of Directors, and to initially organize the Association.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5404_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In determining voting rights at the organizational meeting, each member insurer shall be entitled to 1 vote in person or by proxy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5404_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the Board of Directors is not selected within 60 days after notice of the organizational meeting, the Mayor may appoint the initial members.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5404_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>In approving selections or in appointing members to the Board, the Mayor shall consider, among other things, whether all member insurers are fairly represented.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5404_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Members of the Board may be reimbursed from the assets of the Association for expenses incurred by them as members of the Board of Directors, but shall not otherwise be compensated by the Association for their services.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

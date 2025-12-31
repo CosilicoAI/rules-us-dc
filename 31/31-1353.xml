@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1353"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1353/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1353">
+        <akn:num>31-1353</akn:num>
+        <akn:heading>Claims of nonresidents against insurers domiciled in the District of Columbia.</akn:heading>
+<akn:subsection eId="subsec_31-1353_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In a liquidation proceeding begun in the District against an insurer domiciled in the District, claimants residing in foreign countries or in states not reciprocal states must file claims in the District, and claimants residing in reciprocal states may file claims either with the ancillary receivers, if any, in their respective states, or with the domiciliary liquidator. Claims must be filed on or before the last date fixed for the filing of claims in the domiciliary liquidation proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1353_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Claims belonging to claimants residing in reciprocal states may be proved either in the liquidation proceeding in the District as provided in this chapter, or in ancillary proceedings, if any, in the reciprocal states. If notice of the claims and opportunity to appear and be heard is afforded the domiciliary liquidator of the District as provided in § 31-1354(b) with respect to ancillary proceedings, the final allowance of claims by the courts in ancillary proceedings in reciprocal states shall be conclusive as to amount and priority against special deposits or other security located in ancillary states, but shall not be conclusive with respect to priorities against general assets under § 31-1340.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

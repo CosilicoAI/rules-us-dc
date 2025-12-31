@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-108"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-108/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_108">
+        <akn:num>28:8-108</akn:num>
+        <akn:heading>Warranties in direct holding.</akn:heading>
+<akn:subsection eId="subsec_28:8-108_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person who transfers a certificated security to a purchaser for value warrants to the purchaser, and an indorser, if the transfer is by indorsement, warrants to any subsequent purchaser, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-108_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person who originates an instruction for registration of transfer of an uncertificated security to a purchaser for value warrants to the purchaser that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-108_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person who transfers an uncertificated security to a purchaser for value and does not originate an instruction in connection with the transfer warrants that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-108_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A person who indorses a security certificate warrants to the issuer that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-108_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A person who originates an instruction for registration of transfer of an uncertificated security warrants to the issuer that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-108_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A person who presents a certificated security for registration of transfer or for payment or exchange warrants to the issuer that the person is entitled to the registration, payment, or exchange, but a purchaser for value and without notice of adverse claims to whom transfer is registered warrants only that the person has no knowledge of any unauthorized signature in a necessary indorsement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-108_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>If a person acts as agent of another in delivering a certificated security to a purchaser, the identity of the principal was known to the person to whom the certificate was delivered, and the certificate delivered by the agent was received by the agent from the principal or received by the agent from another person at the direction of the principal, the person delivering the security certificate warrants only that the delivering person has authority to act for the principal and does not know of any adverse claim to the certificated security.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-108_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>A secured party who redelivers a security certificate received, or after payment and on order of the debtor delivers the security certificate to another person, makes only the warranties of an agent under subsection (g) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-108_i">
+      <akn:num>(i)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (g) of this section, a broker acting for a customer makes to the issuer and a purchaser the warranties provided in subsections (a) through (f) of this section. A broker that delivers a security certificate to its customer, or causes its customer to be registered as the owner of an uncertificated security, makes to the customer the warranties provided in subsection (a) or (b), and has the rights and privileges of a purchaser under this section. The warranties of and in favor of the broker acting as an agent are in addition to applicable warranties given by and in favor of the customer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

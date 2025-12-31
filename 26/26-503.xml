@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-503"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-503/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_503">
+        <akn:num>26-503</akn:num>
+        <akn:heading>Conversion of District credit unions into federal credit unions — Applicability of federal provisions; fees; liquidation of existing loans; bylaws.</akn:heading>
+<akn:subsection eId="subsec_26-503_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>No fee shall be imposed upon a credit union converting pursuant to this chapter as an incident to its conversion;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-503_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Any loan or investment made by a credit union converting pursuant to this chapter in conformity with the District of Columbia Credit Unions Act prior to its conversion, which does not conform to the requirements of the Federal Credit Union Act and is still outstanding at the time of conversion, shall be liquidated at or before its maturity or, if it has no maturity date, in a prudent manner and within a reasonable period of time; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-503_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>A credit union converting pursuant to this chapter shall submit proposed bylaws to the Administrator for his approval after its conversion, but not later than 30 days following its next annual meeting or 6 months after August 1, 1964, whichever is later; provided, that any existing bylaw inconsistent with any other requirements of the Federal Credit Union Act shall be deemed null and void.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

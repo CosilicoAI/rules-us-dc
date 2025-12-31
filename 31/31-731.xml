@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-731"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-731/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_731">
+        <akn:num>31-731</akn:num>
+        <akn:heading>Formation of a mutual holding company.</akn:heading>
+<akn:subsection eId="subsec_31-731_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A domestic mutual insurance company, upon approval of the Commissioner, may reorganize by directly or indirectly forming an insurance holding company based upon a mutual plan. The reorganized insurance company shall continue, without interruption, its corporate existence as a stock insurance company subsidiary to the mutual insurance holding company or as a stock insurance company subsidiary to an intermediate holding company which is subsidiary to the mutual insurance holding company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-731_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commissioner, after a public hearing as provided in § 31-703(g)(1), if satisfied that the interests of the policyholders are properly protected and that the plan of reorganization is fair and equitable to the policyholders, shall approve the proposed plan of reorganization and may require as a condition of approval such modifications of the proposed plan of reorganization as the Commissioner finds necessary for the protection of the policyholders’ interests. The Commissioner may retain consultants as provided in § 31-703(g)(3). A reorganization pursuant to this section is subject to § 31-703(a), (b), and (c). The Commissioner shall retain jurisdiction over a mutual insurance holding company organized pursuant to this section to assure that policyholder interests are protected.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-731_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All of the initial shares of the capital stock of the reorganized insurance company shall be issued to the mutual insurance holding company. The membership interests of the policyholders of the reorganized insurance company shall become membership interests in the mutual insurance holding company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-731_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Policyholders of the reorganized insurance company shall be members of the mutual insurance holding company in accordance with the articles of incorporation and bylaws of the mutual insurance holding company. The mutual insurance holding company shall at all times own a majority of the voting shares of the capital stock of the reorganized insurance company.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

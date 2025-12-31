@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-511"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-511/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_511">
+        <akn:num>32-511</akn:num>
+        <akn:heading>Notice.</akn:heading>
+<akn:subsection eId="subsec_32-511_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall devise, and an employer shall post and maintain in a conspicuous place, a notice that sets forth excerpts from or summaries of the pertinent provisions of this chapter and information that pertains to the filing of a complaint under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-511_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any employer who willfully violates this section shall be assessed a civil penalty not to exceed $100 for each day that employer fails to post the notice.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

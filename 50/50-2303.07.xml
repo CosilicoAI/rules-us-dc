@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2303.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2303.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2303_07">
+        <akn:num>50-2303.07</akn:num>
+        <akn:heading>Identification of pedestrian offenders.</akn:heading>
+<akn:subsection eId="subsec_50-2303_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A pedestrian who is stopped by a police officer or other authorized official after the pedestrian has committed an infraction of these regulations shall be required to inform the officer or other official of his or her true name and address for the purpose of including that information on a notice of infraction; provided, that no pedestrian shall be required to possess or display any documentary proof of his or her name or address in order to comply with the requirements of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2303_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A pedestrian who refuses to provide his or her name and address to a police officer upon request after having been stopped for committing an infraction of these regulations shall, upon conviction, be fined not less than $100 nor more than $250.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

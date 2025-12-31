@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-131.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-131.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_131_07">
+        <akn:num>26-131.07</akn:num>
+        <akn:heading>Automated teller machine surcharge disclosure.</akn:heading>
+<akn:subsection eId="subsec_26-131_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An operator of an automated teller machine in the District shall not impose a surcharge upon a customer for the use of an automated teller machine, including a use where there is a sale of a good or service, unless the surcharge is clearly disclosed to the customer electronically on the automated teller machine. After the disclosure is made, the person using the automated teller machine shall be provided an opportunity to cancel the use of the automated teller machine without incurring a surcharge.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-131_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If person using an automated teller machine uses an access device issued by a person other than the operator of the automated teller machine, the operator of the automated teller machine shall disclose to the person using the automated teller machine that, in addition to any surcharge charged by the operator, a fee may be charged by the person’s financial institution for the use of the automated teller machine.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

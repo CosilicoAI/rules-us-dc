@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-381.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-381.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_381_05">
+        <akn:num>2-381.05</akn:num>
+        <akn:heading>Limitation of actions; burden of proof.</akn:heading>
+<akn:subsection eId="subsec_2-381_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A civil action brought pursuant to § 2-381.03 may not be brought:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-381_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A civil action brought pursuant to § 2-381.03 may not be brought for activity prior to April 12, 1997.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-381_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In any action brought pursuant to § 2-381.03, the District or the qui tam plaintiff shall be required to prove all essential elements of the cause of action, including damages, by a preponderance of the evidence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-381_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, a judgment of guilt in a criminal proceeding charging false statements or fraud, upon a verdict after trial or upon a plea of guilty or nolo contendere, shall estop the defendant from denying the essential elements of the offense in any action brought pursuant to § 2-308.15 which involves the same transaction as in the criminal proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-381_05_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

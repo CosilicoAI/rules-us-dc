@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-513"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-513/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_513">
+        <akn:num>4-513</akn:num>
+        <akn:heading>False claims.</akn:heading>
+<akn:subsection eId="subsec_4-513_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It shall be a misdemeanor to knowingly submit false information or suppress relevant information concerning a claim under this chapter. Law enforcement authorities investigating possible false claims referred by the Court under this section have complete access to the claimant’s files for the purpose of pursuing a false claim investigation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-513_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person convicted of an offense under this section shall be fined not more than $1,000 or imprisoned for not more than 180 days, or both. A person convicted of an offense under this section forfeits compensation under this chapter and shall repay to the District of Columbia all compensation received pursuant to this chapter. The United States Attorney’s Office shall prosecute crimes under this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

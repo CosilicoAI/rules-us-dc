@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1904.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1904.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1904_08">
+        <akn:num>42-1904.08</akn:num>
+        <akn:heading>Conversion condominiums; additional contents of public offering statement; notice of intent to convert; tenant’s and subtenant’s right to purchase; notice to vacate.</akn:heading>
+<akn:subsection eId="subsec_42-1904_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any declarant of a conversion condominium shall include in his public offering statement, in addition to the requirements of § 42-1904.04:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1904_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the case of a conversion condominium:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1904_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each declarant of a conversion condominium shall assure that the budget established for the unit owners’ association and upon which common expense assessments are made shall include an adequate provision for reasonable reserves to cover future maintenance, repair, or replacement costs associated with the common elements.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

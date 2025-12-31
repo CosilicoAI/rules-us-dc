@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4415"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4415/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4415">
+        <akn:num>16-4415</akn:num>
+        <akn:heading>Arbitration process.</akn:heading>
+<akn:subsection eId="subsec_16-4415_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An arbitrator may conduct an arbitration in such manner as the arbitrator considers appropriate for a fair and expeditious disposition of the proceeding. The authority conferred upon the arbitrator includes the power to hold conferences with the parties to the arbitration proceeding before the hearing and, among other matters, determine the admissibility, relevance, materiality, and weight of any evidence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4415_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An arbitrator may decide a request for summary disposition of a claim or particular issue:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4415_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4415_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>At a hearing under subsection (c) of this section, a party to the arbitration proceeding has a right to be heard, to present evidence material to the controversy, and to cross-examine witnesses appearing at the hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4415_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If an arbitrator ceases or is unable to act during the arbitration proceeding, a replacement arbitrator shall be appointed in accordance with § 16-4411 to continue the proceeding and to resolve the controversy.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

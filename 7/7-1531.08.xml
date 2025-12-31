@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1531.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1531.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1531_08">
+        <akn:num>7-1531.08</akn:num>
+        <akn:heading>Who may make anatomical gift of decedent’s body or part.</akn:heading>
+<akn:subsection eId="subsec_7-1531_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to subsections (b) and (c) of this section and unless barred by § 7-1531.06 or § 7-1531.07, an anatomical gift of a decedent’s body or part for purpose of transplantation, therapy, research, or education may be made by any member of the following classes of persons who is reasonably available, in the order of priority listed:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1531_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If there is more than one member of a class listed in subsection (a)(1), (3), (4), (5), (6), (7), or (9) of this section entitled to make an anatomical gift, an anatomical gift may be made by a member of the class unless that member or a person to which the gift may pass under § 7-1531.10 knows of an objection by another member of the class. If an objection is known, the gift may be made only by a majority of the members of the class who are reasonably available.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1531_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person may not make an anatomical gift if, at the time of the decedent’s death, a person in a prior class under subsection (a) of this section is reasonably available to make or to object to the making of an anatomical gift.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

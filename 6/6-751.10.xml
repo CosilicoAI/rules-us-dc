@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-751.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-751.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_751_10">
+        <akn:num>6-751.10</akn:num>
+        <akn:heading>Installation by tenant.</akn:heading>
+<akn:subsection eId="subsec_6-751_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A tenant of a dwelling unit that is not in compliance with this subchapter may purchase, install, and maintain a smoke detector or visual alert system, or arrange for proper installation and maintenance of a smoke detector or visual alert system, and may deduct the reasonable costs from the rent for the dwelling unit. No tenant shall be charged, evicted, or penalized in any fashion for failure to pay the reasonable cost deducted from the rent for the dwelling unit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In units required to have a smoke detector or visual alert system directly wired to the power supply of the building, and where the landlord fails to install and maintain the smoke detector or visual alert system, the tenant may purchase, install, and maintain battery-operated units at the owner’s expense.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No act or omission by a tenant under this section shall relieve the owner of responsibility to ensure full and continuing compliance with this subchapter, nor shall an act or an omission relieve the owner of liability for failure to comply with this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed to impose a penalty or other liability on a tenant for failure to install or maintain a smoke detector or visual alert system, nor shall this section be construed to mean that a tenant who fails to install or maintain a smoke detector or visual alert system is contributorily negligent.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

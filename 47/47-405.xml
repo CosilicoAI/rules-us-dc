@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-405"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-405/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_405">
+        <akn:num>47-405</akn:num>
+        <akn:heading>Certificate of taxes and assessments due; furnishment; fee.</akn:heading>
+<akn:subsection eId="subsec_47-405_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall furnish whenever called upon, a certified statement of all taxes and assessments, general and special, that may be due at the time of making the certificate; and the certificate when furnished shall be a bar to the collection and recovery from any subsequent purchaser of any tax or assessment omitted from and which may be a lien upon the real property mentioned in the certificate, and the lien shall be discharged as to such subsequent purchaser, but shall not affect the liability of the person who owned the real property at the time such tax was assessed to pay the same, mentioned in the certificate. The Mayor shall collect a fee for each certificate of taxes issued.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-405_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subsection (a) of this section shall not apply to taxes and assessments, general and special, for which a lien has been recorded at the Recorder of Deeds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-405_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section shall not apply to taxes owed, or which shall be owed, under § 47-850.02(c)(2) or § 47-863(g)(2).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-405_c_1">
+      <akn:num>(c-1)</akn:num>
+      <akn:content><akn:p>This section shall not apply to real property taxes deferred under §§ 47-845, 47-845.01, 47-845.02, and 47-845.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-405_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The certified statement may be furnished in the form of a physical certificate or via an electronic medium, at the discretion of the Mayor. When furnished via an electronic medium, a digital signature shall be deemed a signature and official seal for purposes of subsection (a) of this section; provided, that in the absence of the digital signature, the last update to the electronic file as evidenced by the records of the Mayor, immediately prior to transfer of the real property for which the certified statement was obtained, shall be deemed the certified statement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

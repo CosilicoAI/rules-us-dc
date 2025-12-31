@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-109.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-109.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_109_07">
+        <akn:num>8-109.07</akn:num>
+        <akn:heading>Lead agencies; files.</akn:heading>
+<akn:subsection eId="subsec_8-109_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall designate a lead agency to prepare an EIS or supplemental EIS when the preparation of the EIS requires the input of more than 1 agency. The lead agency shall, if necessary, oversee the preparation of a single, omnibus EIS, ensure reasoned consideration of and distinction among any inconsistent conclusions, and promote coordination with public and private organizations and individuals with a special expertise or recognized interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-109_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall maintain a file of all EIS’s and supplemental EIS’s for public review.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

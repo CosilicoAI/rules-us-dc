@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/40-401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/40-401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_40_401">
+        <akn:num>40-401</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_40-401_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Default” means the failure to perform any obligation or duty set forth in the rental agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-401_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Last known address” means the address provided by the occupant in the rental agreement or the address provided by the occupant in a subsequent written notice of a change of address.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-401_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Leased space” means the individual storage space at the self-service facility which is rented to an occupant pursuant to a rental agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-401_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Occupant” means a person, including an assignee, a sublessee, or successor, entitled to the use of a leased space at a self-service storage facility under a rental agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-401_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Operator” means the owner, operator, lessor, or sublessor of a self-service storage facility, an agent, or any other person authorized to manage the facility. The term “operator” shall not mean a warehouseman, unless the operator issues a warehouse receipt, bill of lading, or other document of title for the personal property stored.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-401_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Personal property” means movable property, not affixed to land, including goods, wares, merchandise, motor vehicles, watercraft, and household items and furnishings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-401_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Rental agreement” means any written agreement that establishes or modifies the terms, conditions, or rules concerning the use and occupancy of a self-service storage facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-401_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Self-service storage facility” means any real property used for renting or leasing individual storage spaces in which the occupants themselves customarily store and remove their own personal property on a “selfstorage” basis.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

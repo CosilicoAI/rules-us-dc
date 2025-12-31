@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3311"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3311/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3311">
+        <akn:num>28-3311</akn:num>
+        <akn:heading>Definition of interest.</akn:heading>
+<akn:subsection eId="subsec_28-3311_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this chapter, the word “interest” means any compensation directly or indirectly imposed by a lender for the extension of credit for the use or forbearance of money, including any loan fee, origination fee, service and carrying charge, investigator’s fee, and any amount payable as a discount under section 28-3301(e)(1), or point, or otherwise payable for services. The following charges shall not be considered interest:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3311_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The rate of interest on any loan or financial transaction shall be calculated in compliance with the provisions of the Truth-in-Lending Act, as heretofore and hereafter amended, effective May 29, 1968 (82 Stat. 146; 15 U.S.C. 1601 et seq.), and the regulations and interpretations thereunder.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

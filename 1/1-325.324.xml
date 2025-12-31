@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.324"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.324/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_324">
+        <akn:num>1-325.324</akn:num>
+        <akn:heading>Reporting requirements.</akn:heading>
+<akn:subsection eId="subsec_1-325_324_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Detailed subgrantee data;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_324_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Performance measures and performance outcomes under each subgrant;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_324_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The specific services provided under each subgrant;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_324_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The entity providing the services, if one other than the subgrantee;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_324_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The time period of delivery of the services;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_324_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>The type of service provided;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_324_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>The actual amount paid for the services; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_324_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>The amount of other expenditures under the subgrant, if any.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1203.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1203.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1203_04">
+        <akn:num>7-1203.04</akn:num>
+        <akn:heading>Disclosures for collection of fees.</akn:heading>
+<akn:subsection eId="subsec_7-1203_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A mental health professional or mental health facility may disclose the administrative information necessary for the collection of his or its fee from the client to a person authorized by the mental health professional or mental health facility for the collection of a fee from such client if the client or client representative has received a written notification that the fee is due and has failed to arrange for payment with the mental health professional or mental health facility within a reasonable time after such notification.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1203_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the event of a claim in any civil action for the collection of such a fee, no additional mental health information shall be disclosed in litigation, except to the extent necessary:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

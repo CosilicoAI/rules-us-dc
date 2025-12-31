@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-923"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-923/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_923">
+        <akn:num>24-923</akn:num>
+        <akn:heading>Location of BOOT CAMP.</akn:heading>
+<akn:subsection eId="subsec_24-923_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Director shall use an existing building or set of buildings, which may be located in the Washington Metropolitan area, to establish a residential center for the BOOT CAMP participants.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-923_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The residential center shall include classrooms, a counseling and vocational training center, separate sleeping accommodations for male and female participants, a dining facility, outdoor drill and recreation areas, and other usages that are necessary for the efficient operation of the BOOT CAMP.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

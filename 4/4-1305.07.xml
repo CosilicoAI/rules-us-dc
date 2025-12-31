@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1305.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1305.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1305_07">
+        <akn:num>4-1305.07</akn:num>
+        <akn:heading>Effect of failure to request a criminal records check.</akn:heading>
+<akn:subsection eId="subsec_4-1305_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If an individual described in § 4-1305.02(1), (2), or (3), or any adult residing in the home of an individual described in § 4-1305.02(1), (2), or (3), fails to request a criminal records check as required by this part, the Agency may deny approval or licensure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1305_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an individual described in § 4-1305.02(4), or any adult residing in the home of an individual described in § 4-1305.02(4), fails to request a criminal records check as required by this part, the Family Division of the Superior Court of the District of Columbia may dismiss the petition for adoption.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1305_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an individual described in § 4-1305.02(5), or an adult residing in the home of an individual described in § 4-1305.02(5), fails to request a criminal records check as required by this part, the Family Division of the Superior Court of the District of Columbia may refuse to place the child in the individual’s home, may remove the child from the home, or may take other appropriate action to ensure the health, welfare, and safety of the child.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

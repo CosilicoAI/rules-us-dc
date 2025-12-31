@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-801.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-801.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_801_09">
+        <akn:num>29-801.09</akn:num>
+        <akn:heading>Operating agreement; effect on third parties and relationship to records effective on behalf of limited liability company.</akn:heading>
+<akn:subsection eId="subsec_29-801_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An operating agreement may specify that its amendment requires the approval of a person that is not a party to the operating agreement or the satisfaction of a condition. An amendment shall be ineffective if its adoption does not include the required approval or satisfy the specified condition.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-801_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The obligations of a limited liability company and its members to a person in the person’s capacity as a transferee or dissociated member shall be governed by the operating agreement. Subject only to any court order issued under § 29-805.03(b)(2) to effectuate a charging order, an amendment to the operating agreement made after a person becomes a transferee or dissociated member shall be effective with regard to any debt, obligation, or other liability of the limited liability company or its members to the person in the person’s capacity as a transferee or dissociated member and is not effective to the extent the amendment imposes a new debt, obligation, or other liability on the transferee or person dissociated as a member.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-801_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a record that has been delivered by a limited liability company to the Mayor for filing and has become effective under this chapter contains a provision that would be ineffective under § 29-801.07(c) or (d)(3) if contained in the operating agreement, the provision shall likewise be ineffective in the record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-801_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Subject to subsection (c) of this section, if a record that has been delivered by a limited liability company to the Mayor for filing and has become effective under this chapter conflicts with a provision of the operating agreement:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

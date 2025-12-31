@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-606"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-606/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_606">
+        <akn:num>4-606</akn:num>
+        <akn:heading>Notice.</akn:heading>
+<akn:subsection eId="subsec_4-606_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any individual or institutional health-care provider that bills the District for health-care assistance furnished to a beneficiary shall provide the Mayor with written notice of any known or suspected third-party liability as soon as the health-care provider acquires knowledge of or suspects the existence of that liability. The written notice shall include the beneficiary’s name and, if known, the name of the third party and a description of the circumstances allegedly creating a liability.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-606_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If either the beneficiary or the Mayor separately institutes a proceeding against or settlement negotiations with a third party, the party instituting the proceeding or negotiations shall have 20 calendar days to give the other party written notice of the action by personal service or certified mail. If a court proceeding has been instituted, proof of timely notice shall be filed with the court. Whenever the Mayor separately institutes a proceeding under this chapter, written notice to the beneficiary shall advise him or her of the Mayor’s right to reimbursement and, if the beneficiary has not proceeded to trial in another proceeding or executed a settlement agreement, his or her rights to intervene or join in the proceeding and to retain private counsel.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-606_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After deducting a beneficiary’s litigation costs and reasonable attorney’s fees, a third party who is aware that the District might have a claim against the remainder of a judgment or settlement awarded or executed in favor of the beneficiary shall not satisfy the remainder of that judgment or settlement without first giving the Mayor both written notice of the judgment or settlement and 30 calendar days from the date notice is received to determine the appropriateness of a lien under § 4-607, and, if appropriate, to perfect and satisfy that lien.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-606_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a beneficiary retains private counsel, counsel shall be responsible for giving all notices required by this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

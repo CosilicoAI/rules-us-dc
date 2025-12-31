@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3671.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3671.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3671_04">
+        <akn:num>42-3671.04</akn:num>
+        <akn:heading>Disclosures.</akn:heading>
+<akn:subsection eId="subsec_42-3671_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For each lease-purchase agreement, the lessor shall disclose in the agreement the following items, as applicable:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3671_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>With respect to matters specifically governed by the Consumer Credit Protection Act, approved May 29, 1968 (88 Stat. 1511; 15 U.S.C. § 1601 et seq.), compliance with that Act shall satisfy the requirements of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

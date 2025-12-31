@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5031.18"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5031.18/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5031_18">
+        <akn:num>31-5031.18</akn:num>
+        <akn:heading>Form filing.</akn:heading>
+<akn:subsection eId="subsec_31-5031_18_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5031_18_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Forms covered by this section shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5031_18_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After notice and opportunity to be heard are given to the insurer or rate service organization which submitted a form for approval, the Commissioner may withdraw approval of the form on finding that the use of the form is contrary to the legal requirements applicable at the time of withdrawal. The effective date of withdrawal of approval shall not be less than 90 days after notice of withdrawal is given.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5031_18_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An approved policy form or endorsement providing coverage for which no identifiable premium is assessed may be incorporated into every applicable title insurance policy. The insurer shall disclose any additional coverage to the insured. The provisions of this section shall not operate to eliminate any underwriting standard of conditions relating to the approved policy forms or endorsements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5031_18_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any term or condition related to an insurance coverage provided by an approved title insurance policy or any exception to the coverage, except those ascertained from a search and examination of records relating to a title or inspection or survey of a property to be insured, shall only be included in the policy after the term, condition, or exception has been filed with the Commissioner and approved.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

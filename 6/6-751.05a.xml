@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-751.05a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-751.05a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_751_05a">
+        <akn:num>6-751.05a</akn:num>
+        <akn:heading>Smoke and carbon monoxide detector and battery program.</akn:heading>
+<akn:subsection eId="subsec_6-751_05a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall develop a program to test and install smoke and carbon monoxide detectors and batteries in District residences, and to educate District residents on the use of the detectors. The program shall be re-developed annually. The program may include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_05a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The program shall specify that any person who agrees to receive and install a smoke or combination smoke/carbon monoxide detector shall permit a representative of the Fire and Emergency Medical Services Department to inspect the installation of the unit to confirm that the installation occurred and was done properly.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_05a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any resident or property owner participating in the program shall indemnify and hold harmless the District, its officers, employees, agents, and assigns for the provision and installation of the smoke or combination smoke/carbon monoxide detectors or batteries.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

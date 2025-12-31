@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5410"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5410/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5410">
+        <akn:num>31-5410</akn:num>
+        <akn:heading>Credits for assessments paid.</akn:heading>
+<akn:subsection eId="subsec_31-5410_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A member insurer may offset against its premium taxes an assessment described in § 31-5406(h) to the extent of 10% of the amount of the assessment for each of the 10 calendar years following the year in which the assessment was paid. In the event a member insurer should cease doing business, all uncredited assessments may be credited against the premium taxes for the year it ceases doing business.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5410_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any sums which are acquired by refund, pursuant to § 31-5406(f) from the Association by member insurers, and which theretofore have been offset against premium taxes as provided in subsection (a) of this section, shall be paid by member insurers to the District of Columbia in accordance with requirements of the District of Columbia Department of Finance and Revenue. The Association shall notify the Commissioner that the refunds have been made.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

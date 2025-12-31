@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1113"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1113/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_1113">
+        <akn:num>6-1113</akn:num>
+        <akn:heading>Annual report.</akn:heading>
+<akn:subsection eId="subsec_6-1113_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The number of applications reviewed pursuant to §§ 6-1104, 6-1105, 6-1106, and 6-1107 for historic landmarks and each historic district, categorized by type of application;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1113_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The number of such applications granted after a public hearing; specifying for each such application the nature of the requested permit, the nature of the applicant’s claim, whether or not economic hardship was found, whether or not it was found to be in the public interest and on what grounds; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1113_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The financial condition of the HLP Fund, including:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-405.23"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-405.23/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_405_23">
+        <akn:num>29-405.23</akn:num>
+        <akn:heading>Acceptance of votes.</akn:heading>
+<akn:subsection eId="subsec_29-405_23_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the name signed on a ballot, consent, waiver, or proxy appointment corresponds to the name of a member, the membership corporation if acting in good faith may accept the ballot, consent, waiver, or proxy appointment and give it effect as the act of the member.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_23_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the name signed on a ballot, consent, waiver, or proxy appointment does not correspond to the name of its member, the membership corporation if acting in good faith may nevertheless accept the ballot, consent, waiver, or proxy appointment and give it effect as the act of the member if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_23_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The membership corporation may reject a ballot, consent, waiver, or proxy appointment if the secretary or other officer or agent authorized to tabulate votes, acting in good faith, has reasonable basis for doubt about the validity of the signature on it or about the signatory’s authority to sign for the member.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_23_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The membership corporation and its officer or agent that accepts or rejects a ballot, consent, waiver, or proxy appointment in good faith and in accordance with the standards of this section or § 29-405.22(b) shall not be liable in damages to the member for the consequences of the acceptance or rejection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_23_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Corporate action based on the acceptance or rejection of a ballot, consent, waiver, or proxy appointment under this section shall be valid unless a court of competent jurisdiction determines otherwise.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

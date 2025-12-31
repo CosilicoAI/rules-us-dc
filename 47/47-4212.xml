@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4212"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4212/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4212">
+        <akn:num>47-4212</akn:num>
+        <akn:heading>Imposition of fraud penalty.</akn:heading>
+<akn:subsection eId="subsec_47-4212_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a portion of an underpayment of tax required to be shown on a return is attributable to fraud, there shall be added to the tax imposed by this title an amount equal to 75% of the portion of the underpayment which is attributable to fraud.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4212_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Mayor establishes that a portion of an underpayment is attributable to fraud, the entire underpayment shall be deemed to be attributable to fraud, except with respect to any portion of the underpayment which the taxpayer establishes, by a preponderance of the evidence, is not attributable to fraud.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4212_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In the case of a joint return, this section shall not apply with respect to a spouse (including a domestic partner who files under § 47-1805.01(f)) unless a portion of the underpayment is attributable to the fraud of the spouse (including a domestic partner who files under § 47-1805.01(f)).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4212_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Fraud is indicated where a taxpayer willfully:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_302">
+        <akn:num>21-302</akn:num>
+        <akn:heading>Scope and jurisdiction.</akn:heading>
+<akn:subsection eId="subsec_21-302_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This chapter applies to a transfer that refers to this act in the designation under section 21-309(a) by which the transfer is made if at the time of the transfer, the transferor, the minor, or the custodian is a resident of the District or the custodial property is located in the District. The custodianship so created remains subject to this chapter despite a subsequent change in residence of a transferor, the minor or the custodian, or despite the removal of custodial property from the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-302_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person designated as custodian under this chapter is subject to personal jurisdiction in the District with respect to any matter relating to the custodianship.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-302_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A transfer that purports to be made and which is valid under the Uniform Transfers to Minors Act, the Uniform Gifts to Minors Act, or a substantially similar act, of another state is governed by the law of the designated state and may be executed and is enforceable in the District if, at the time of the transfer, the transferor, the minor, or the custodian is a resident of the designated state or the custodial property is located in the designated state.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

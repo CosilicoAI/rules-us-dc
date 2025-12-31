@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_303">
+        <akn:num>28:8-303</akn:num>
+        <akn:heading>Protected purchaser.</akn:heading>
+<akn:subsection eId="subsec_28:8-303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this article, the term “protected purchaser” means a purchaser of a certificated or uncertificated security, or of an interest therein, who:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In addition to acquiring the rights of a purchaser, a protected purchaser also acquires its interest in the security free of any adverse claim.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

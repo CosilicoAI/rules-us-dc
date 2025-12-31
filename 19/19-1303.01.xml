@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1303.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1303.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1303_01">
+        <akn:num>19-1303.01</akn:num>
+        <akn:heading>Representation: basic effect.</akn:heading>
+<akn:subsection eId="subsec_19-1303_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notice to a person who may represent and bind another person under this subchapter has the same effect as if notice were given directly to the other person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1303_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The consent of a person who may represent and bind another person under this subchapter is binding on the person represented unless the person represented objects to the representation by notifying the trustee or the representative before the consent would otherwise have become effective.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1303_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in sections 19-1304.11 and 19-1306.02, a person who under this subchapter may represent a settlor who lacks capacity may receive notice and give a binding consent on the settlor’s behalf.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1331.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1331.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1331_09">
+        <akn:num>32-1331.09</akn:num>
+        <akn:heading>Private right of action.</akn:heading>
+<akn:subsection eId="subsec_32-1331_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person aggrieved by a violation of this subchapter, or any rule issued pursuant to this subchapter, by an employer or entity may bring a civil action in any court of competent jurisdiction within 3 years after the occurrence of the alleged violation of [this] subchapter. A person whose rights have been violated under this subchapter by an employer or entity is entitled to collect:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1331_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A court may order the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1331_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The court shall allow for reasonable attorneys fees and costs of the action to be paid by the defendant.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

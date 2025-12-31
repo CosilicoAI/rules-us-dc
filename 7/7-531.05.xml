@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-531.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-531.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_531_05">
+        <akn:num>7-531.05</akn:num>
+        <akn:heading>Service credit guarantee.</akn:heading>
+<akn:subsection eId="subsec_7-531_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To ensure that outstanding service credits are promptly honored when exchanged for targeted services, the Mayor and each sponsor shall develop contingency plans and engage in diligent volunteer recruitment. Except as otherwise provided in subsections (b) and (c) of this section, the Mayor shall guarantee all outstanding credits from the pool of service credits established under § 7-531.04(a), and a sponsor shall guarantee all outstanding credits from any pool of service credits it has established under § 7-531.04(b). Under these guarantees the Mayor or a sponsor shall ensure the provision of a targeted service, even if a volunteer is unavailable, within 10 days after an eligible person with service credits requests that service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-531_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the program expires or is terminated, the Mayor shall promptly give written notice to all sponsors and persons known to have outstanding credits from the pool of service credits established under § 7-531.04(a). Each sponsor shall promptly give written notice of the expiration or termination to all persons known to have outstanding credits from any pool of service credits it has established under § 7-531.04(b). The guarantees required by subsection (a) of this section shall cover all requests for targeted services made within 6 months after written notice is given under this subsection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-531_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Service credit guarantees established by this section shall not apply to those requested services that are required by District law to be performed by licensed individuals.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

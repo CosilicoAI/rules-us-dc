@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-417"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-417/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_417">
+        <akn:num>5-417</akn:num>
+        <akn:heading>Arson reporting.</akn:heading>
+<akn:subsection eId="subsec_5-417_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the Fire Marshal or any agency empowered to investigate the cause of, or circumstances attendant upon, a fire loss involving real or personal property within the District of Columbia or empowered to institute criminal prosecutions for criminal acts causing, or related to, a fire loss has reason to believe that a fire was caused by other than accidental means, the Fire Marshal or such authorized agency may require, by written demand, any insurer investigating a fire loss to release any relevant information in its possession relating to that fire loss. Relevant information may include, but is not limited to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-417_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Whenever an insurer has reason to believe that a fire loss in which it has an interest may have been caused by other than accidental means, the insurer shall, for the purpose of having the fire loss investigated, notify the Fire Marshal or an authorized agency in writing and furnish the Fire Marshal or such agency with all relevant information acquired during its investigation of the fire loss.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-417_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No insurer (or person acting on behalf of an insurer) who in good faith furnished information pursuant to subsection (a) or (b) of this section shall be liable therefor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-417_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any information or evidence furnished pursuant to subsection (a) or (b) of this section shall be held in confidence by and among the Fire Marshal and authorized agencies, except that such information or evidence may be released in a criminal or civil proceeding in accordance with applicable court rules.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-417_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Whoever shall knowingly: (1) refuse to release any information requested pursuant to subsection (a) of this section; (2) fail to notify or supply information to the Fire Marshal or an authorized agency pursuant to subsection (b) of this section; or (3) fail to hold in confidence information required to be held in confidence in accordance with the provisions of subsection (d) of this section shall be fined not more than $10,000.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

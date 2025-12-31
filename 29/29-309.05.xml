@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-309.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-309.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_309_05">
+        <akn:num>29-309.05</akn:num>
+        <akn:heading>Merger between parent and subsidiary or between subsidiaries.</akn:heading>
+<akn:subsection eId="subsec_29-309_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A domestic parent corporation that owns shares of a domestic or foreign subsidiary corporation that carry at least 90% of the voting power of each class and series of the outstanding shares of the subsidiary that have voting power may merge the subsidiary into itself or into another such subsidiary, or merge itself into the subsidiary, without the approval of the board of directors or shareholders of the subsidiary, unless the articles of incorporation of any of the corporations otherwise provide, and unless, in the case of a foreign subsidiary, approval by the subsidiary’s board of directors or shareholders is required by the laws under which the subsidiary is organized.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-309_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If, under subsection (a) of this section, approval of a merger by the subsidiary’s shareholders is not required, the parent corporation shall, within 10 days after the effective date of the merger, notify each of the subsidiary’s shareholders that the merger has become effective.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-309_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsections (a) and (b) of this section, a merger between a parent and a subsidiary shall be governed by the provisions of this subchapter applicable to mergers generally.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

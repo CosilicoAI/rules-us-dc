@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3302.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3302.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3302_04">
+        <akn:num>31-3302.04</akn:num>
+        <akn:heading>Market requirements.</akn:heading>
+<akn:subsection eId="subsec_31-3302_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The provisions of this chapter shall not be construed to require that a health insurer offering health insurance coverage only in connection with group health plans or through one or more bona fide associations, or both, offer such health insurance coverage in the individual market.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3302_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A health insurer offering health insurance coverage in connection with group health plans under this subchapter shall not be deemed to be a health insurer offering individual health insurance coverage solely because such issuer offers a conversion policy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3302_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A health insurer offering individual health insurance coverage solely because such insurer offers any insurance coverage for children as a participant in a pilot program relating to insurance coverage for children shall not be deemed to be a health insurer offering individual health insurance coverage.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

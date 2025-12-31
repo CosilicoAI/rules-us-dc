@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/40-103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/40-103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_40_103">
+        <akn:num>40-103</akn:num>
+        <akn:heading>Enforcement of lien by sale.</akn:heading>
+<akn:subsection eId="subsec_40-103_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the amount due and for which a lien is given by § 40-101 or 40-102 hereof is not paid by the end of 30 days after the giving of notice, then the party entitled to such lien may proceed to sell the property so subject to lien at public auction, after giving notice once a week for 3 successive weeks in some daily newspaper published in the District. Said advertisement shall set forth the date, time, and place of sale, which shall not be less than 15 days from date of the 1st publication of such notice, that the purpose of the sale is to satisfy a lien, the amount for which said lien is claimed, including storage to date of sale if allowable, the names of all interested parties, and a description of the chattel, including, in the case of vehicles, the make, type, year and model number, serial number and engine number, if any, and State or District license number and year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-103_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person selling such property in order to satisfy a fraudulent, excessive, or unreasonable lien shall be guilty of a conversion of such property and liable to the owner in damages therefor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

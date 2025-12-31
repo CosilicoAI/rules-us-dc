@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2302">
+        <akn:num>16-2302</akn:num>
+        <akn:heading>Transfer of criminal matters to Family Division.</akn:heading>
+<akn:subsection eId="subsec_16-2302_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If it appears to a court, during the pendency of a criminal charge and before the time when jeopardy would attach in the case of an adult, that a minor defendant was a child at the time of an alleged offense, the court shall forthwith transfer the charge against the defendant, together with all papers and documents connected therewith, to the Division. All action taken by the court prior to transfer of the case shall be deemed null and void unless the Division transfers the child for criminal prosecution under section 16-2307.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2302_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If at the time of an alleged offense, a minor defendant was a child but this fact is not discovered by the court until after jeopardy has attached, the court shall proceed to verdict. If judgment has not been entered, the court shall determine on the basis of the criteria in section 16-2307(e) whether to enter judgment or to refer the case to the Division for disposition. If judgment has been entered, it shall not be set aside on the ground of the defendant’s age unless the court, after hearing, determines that (1) neither the defendant nor his counsel, prior to the entry of judgment, had reason to believe that defendant was under the age of eighteen years, and (2) the defendant would not have been transferred for criminal prosecution if his age had been known and the procedure set forth in section 16-2307 had been followed. If the judgment is set aside, the case shall be referred to the Division for disposition. The disposition and all prior proceedings in any court of any case referred to the Division for disposition pursuant to this section shall be subject to the confidentiality provisions of sections 16-2331 through 16-2336.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2302_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The court making a transfer shall order the minor to be taken forthwith to the Division or to a place of detention designated for children by the Division. The Division shall then proceed as provided in this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2302_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall affect the jurisdiction of a court over a person twenty-one years of age or older.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-153"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-153/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_153">
+        <akn:num>38-153</akn:num>
+        <akn:heading>Coordination of municipal programs.</akn:heading>
+<akn:subsection eId="subsec_38-153_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board of Education and the Mayor of the District of Columbia shall jointly develop procedures to assure the maximum coordination of educational and other municipal programs and services in achieving the most effective educational system and utilization of educational facilities and services to serve broad community needs. Such procedures shall cover such matters as:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-153_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board of Education may invite the Mayor of the District of Columbia or his designee to attend and participate in meetings of the Board on matters pertaining to coordination of educational and other municipal programs and services and on such other matters as may be of mutual interest.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1444"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1444/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1444">
+        <akn:num>8-1444</akn:num>
+        <akn:heading>Civil action.</akn:heading>
+<akn:subsection eId="subsec_8-1444_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Attorney General of [for] the District of Columbia may institute an action in the Superior Court of the District of Columbia against any person liable pursuant to § 8-1442 to recover all costs incurred by the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1444_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the rights of the District of Columbia to institute an action as provided in subsection (a) of this section, any person who has expended funds to remedy environmental damage resulting from the release of any of the gasses, explosive, or materials identified in § 8-1442 may also bring an action in the Superior Court of the District of Columbia against any person who may be liable for such damage pursuant to § 8-1442. Such person’s right to recover costs shall be limited to expenditures that are incurred for the purposes described in § 8-1443 and that are consistent with the laws and rules of the District of Columbia. A person’s right to recovery under this subsection shall not be barred by the fact that the party bringing the action is itself liable to the District of Columbia under this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

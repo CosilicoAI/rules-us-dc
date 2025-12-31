@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-311"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-311/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_311">
+        <akn:num>26-311</akn:num>
+        <akn:heading>Time and renewal of license.</akn:heading>
+<akn:subsection eId="subsec_26-311_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A license issued to a check-cashing business shall remain in full force and effect through the 31st day of December following its date of issuance, unless earlier surrendered, suspended, or revoked.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-311_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an application for a renewal license, along with a license renewal fee of $200, has been filed with the Superintendent [Commissioner] at least 30 days before the expiration of the license in force, such license shall continue in full force and effect either until the issuance by the Superintendent [Commissioner] of the renewal license applied for or until 5 days after the Superintendent [Commissioner] has refused to issue the renewal license and has given notice of such refusal to the applicant.  Except for the fee, the requirements for the issuance of a renewal license shall be the same as the requirements for the issuance of the initial license.  If the Superintendent [Commissioner] denies the applicant the authority to operate at a particular location, the operation of business at that particular location shall cease 5 days after the Superintendent [Commissioner] has refused to issue a renewal license to cover the location and has given notice of such refusal to the applicant.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

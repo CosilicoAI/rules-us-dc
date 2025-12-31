@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2201.04a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2201.04a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2201_04a">
+        <akn:num>50-2201.04a</akn:num>
+        <akn:heading>Operation of personal mobility devices.</akn:heading>
+<akn:subsection eId="subsec_50-2201_04a_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>In the District if it has not been validly registered, unless it is validly registered in another jurisdiction, when required by applicable law of that jurisdiction, and bears readily visible evidence of being registered.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2201_04a_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>By a person under 16 years of age;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2201_04a_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Above the maximum speed limit of 10 miles per hour;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2201_04a_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Upon a sidewalk within the Central Business District, as defined by section 9901 of Title 18 of the District of Columbia Municipal Regulations (18 DCMR 9901);</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2201_04a_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>By a person carrying any package, bundle, or other article that hinders the person from keeping both hands on the handlebars; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2201_04a_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>On any roadway or sidewalk while the person is wearing a headset, headphone, or earphone, unless the device is used to improve the hearing of a person with a hearing impairment or covers or is inserted in one ear only.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

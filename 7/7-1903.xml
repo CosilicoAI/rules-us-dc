@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1903"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1903/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1903">
+        <akn:num>7-1903</akn:num>
+        <akn:heading>Reporting requirements.</akn:heading>
+<akn:subsection eId="subsec_7-1903_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1903_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The duty to report established by subsection (a)(1) of this section shall not apply to a social worker or licensed health professional who has as a client or patient, or is employed by a lawyer representing, a third person who is allegedly responsible for the abuse or neglect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1903_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A report made pursuant to this section may be either oral or written and shall be transmitted to the division within the Department designated by the Mayor to receive these reports. Each report shall include, if known: The name, age, physical description, and location of the adult alleged to be in need of protective services; the name and location of the person(s) allegedly responsible for the abuse, neglect, or exploitation; the nature and extent of the abuse, neglect, self-neglect, or exploitation; the basis of the reporter’s knowledge; and any other information the reporter believes might be helpful to an investigation. A reporter may be required to identify himself or herself only when obliged to report under subsection (a)(1) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1903_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1903_d_1">
+      <akn:num>(d-1)</akn:num>
+      <akn:content><akn:p>The Department may provide outreach and training on the requirements of this section to members of the public and to appropriate governmental personnel, including law enforcement officers, social services personnel, judicial officers, guardians and conservators for incapacitated adults, and others as may be determined by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1903_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Mayor shall widely publicize the phone number and mailing address of the division within the Department designated to receive reports under this section, and may conduct educational programs for those persons required to report under subsection (a)(1) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

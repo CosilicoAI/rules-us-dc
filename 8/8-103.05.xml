@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-103.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-103.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_103_05">
+        <akn:num>8-103.05</akn:num>
+        <akn:heading>Monitoring for compliance with subchapter.</akn:heading>
+<akn:subsection eId="subsec_8-103_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall ensure that all monitoring for compliance under this subchapter acquires accurate data and forms the basis for valid and reliable determinations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-103_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Monitoring for compliance as a condition for a permit under this subchapter shall comply with a quality assurance plan approved by the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

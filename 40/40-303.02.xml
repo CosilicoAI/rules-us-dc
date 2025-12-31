@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/40-303.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/40-303.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_40_303_02">
+        <akn:num>40-303.02</akn:num>
+        <akn:heading>Conditions and limitations.</akn:heading>
+<akn:subsection eId="subsec_40-303_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A lien in favor of parties so employed by the original contractor shall be subject to the terms and conditions of the contract, if any, between the owner and the original contractor except any terms and conditions therein that relate to the original contractor’s right to waive liens on behalf of the parties employed. The lien of the parties shall be limited to the amount due, or to become due, but unpaid to the original contractor and shall be satisfied, in whole or in part, out of that amount only. If the original contractor, by reason of any breach by the original contractor of his, her, or its agreement with the owner, shall be entitled to recover less than the amount agreed upon between them, the liens of the parties employed by the original contractor shall be enforceable only to the extent of the reduced amount.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_40-303_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the owner, in good faith, has paid the original contractor in full for the project of the original contract (and the amount of the payment is not disputed by the original contractor), the parties employed by the original contractor shall not be entitled to a lien on the owner’s real property to recover any amounts due and owing for their work or materials provided for the erection, construction, improvement, repair of, or addition to the real property; provided, that if a subcontractor, materialman, or supplier notifies the owner in writing of amounts due to the subcontractor, materialman, or supplier (“notice amount”) while the owner has a balance due and owing or to become due and owing to the original contractor that is not less than the notice amount, the notice of the notice amount shall be prima facie evidence that any payment thereafter by the owner to the original contractor was not made in good faith. Any provision in a contract, purchase order, or similar document that prohibits a subcontractor, materialman, or supplier from contacting or communicating with an owner shall be void to the extent it prevents compliance with the notice requirements of this subsection.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

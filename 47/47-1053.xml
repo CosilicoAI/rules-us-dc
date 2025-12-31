@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1053"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1053/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1053">
+        <akn:num>47-1053</akn:num>
+        <akn:heading>DC Teachers Federal Credit Union; lot 809, square 938.</akn:heading>
+<akn:subsection eId="subsec_47-1053_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The real estate taxes on the nonprofit real property of the DC Teachers Federal Credit Union, including any interest, penalties, fees, fines, and other related charges assessed against the DC Teachers Federal Credit Union, on real property located 903 D Street, N.E., lot 809, square 938, shall be subject to a full or partial tax exemption for the portion of the real property which is used for the nonprofit activities of DC Teachers Federal Credit Union.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1053_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Pursuant to § 47-1002, this section shall apply only to a District of Columbia sponsored, federally-chartered, credit union which has its place of business located in a current or former District of Columbia-owned property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

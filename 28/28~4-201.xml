@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-201"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-201/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4_201">
+        <akn:num>28:4-201</akn:num>
+        <akn:heading>Status of collecting bank as agent and provisional status of credits; applicability of article; item indorsed “pay any bank”.</akn:heading>
+<akn:subsection eId="subsec_28:4-201_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless a contrary intent clearly appears and before the time that a settlement given by a collecting bank for an item is or becomes final, the bank, with respect to the item, is an agent or subagent of the owner of the item and any settlement given for the item is provisional. This provision applies regardless of the form of indorsement or lack of indorsement and even though credit given for the item is subject to immediate withdrawal as of right or is in fact withdrawn; but the continuance of ownership of an item by its owner and any rights of the owner to proceeds of the item are subject to rights of a collecting bank, such as those resulting from outstanding advances on the item and rights of recoupment or setoff. If an item is handled by banks for purposes of presentment, payment, collection, or return, the relevant provisions of this article apply even though action of the parties clearly establishes that a particular bank has purchased the item and is the owner of it.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-201_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>After an item has been indorsed with the words “pay any bank” or the like, only a bank may acquire the rights of a holder until the item has been:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

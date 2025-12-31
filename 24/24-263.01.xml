@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-263.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-263.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_263_01">
+        <akn:num>24-263.01</akn:num>
+        <akn:heading>Telephone charges in penal or correctional institutions.</akn:heading>
+<akn:subsection eId="subsec_24-263_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other District of Columbia law, no telephone service provider shall charge a customer a rate for operator-assisted calls made from a penal or correctional institution in the District of Columbia in excess of the maximum rate determined by the Public Service Commission of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-263_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No penal or correctional institution in the District of Columbia shall charge a surcharge, commission, or other financial imposition that is in addition to legally established rates for local or long-distance telephone service.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

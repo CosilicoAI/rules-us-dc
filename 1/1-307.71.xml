@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.71"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.71/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_307_71">
+        <akn:num>1-307.71</akn:num>
+        <akn:heading>Use of reserve funds for administrative expenses.</akn:heading>
+<akn:subsection eId="subsec_1-307_71_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No more than 20% of the funds in the opportunity account reserve fund account shall be used for administrative costs of the opportunity account program during either of the first 2 years of an opportunity account program. No more than 15% of the funds in the opportunity account reserve fund account may be used for administrative costs during any subsequent year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_71_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Funds deposited by account holders shall not be used for administrative costs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

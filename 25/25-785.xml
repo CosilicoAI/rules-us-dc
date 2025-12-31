@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-785"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-785/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_785">
+        <akn:num>25-785</akn:num>
+        <akn:heading>Delivery, offer, or otherwise making available to persons under 21; penalties.</akn:heading>
+<akn:subsection eId="subsec_25-785_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person who is not a licensee shall not, within the District, purchase an alcoholic beverage for the purpose of delivering the alcoholic beverage to a person who is under 21 years of age.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-785_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person who is a licensee shall not, within the District, offer, give, provide, or otherwise make available an alcoholic beverage to a person who is under 21 years of age, except if necessary to allow the person to perform lawful employment responsibilities that require the person to have temporary possession of alcoholic beverages.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-785_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person who violates any provision of this section shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-785_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A person alleged to have violated this section may be issued a citation under § 23-1110(b)(1). The person shall not be eligible to forfeit collateral.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-785_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The fines set forth in this section shall not be limited by [§ 22-3571.01].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

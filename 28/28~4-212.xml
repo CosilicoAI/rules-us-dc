@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-212"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-212/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4_212">
+        <akn:num>28:4-212</akn:num>
+        <akn:heading>Presentment by notice of item not payable by, through, or at bank; liability of drawer or indorser.</akn:heading>
+<akn:subsection eId="subsec_28:4-212_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless otherwise instructed, a collecting bank may present an item not payable by, through, or at a bank by sending to the party to accept or pay a record providing notice that the bank holds the item for acceptance or payment. The notice must be sent in time to be received on or before the day when presentment is due and the bank must meet any requirement of the party to accept or pay under section 28:3-501 by the close of the bank’s next banking day after it knows of the requirement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-212_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If presentment is made by notice and payment, acceptance, or request for compliance with a requirement under section 28:3-501 is not received by the close of business on the day after maturity or, in the case of demand items, by the close of business on the third banking day after notice was sent, the presenting bank may treat the item as dishonored and charge any drawer or indorser by sending it notice of the facts.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1207.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1207.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1207_04">
+        <akn:num>38-1207.04</akn:num>
+        <akn:heading>Report on grant program participation.</akn:heading>
+<akn:subsection eId="subsec_38-1207_04_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The number of persons who, during that semester, received tuition grants and participated in one or more courses pursuant to the provisions of this subchapter;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1207_04_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The total number of course enrollments attributable to these persons;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1207_04_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The number of individuals included in the response to paragraph (1) of this section who successfully completed each course, who dropped out, or who otherwise did not complete a course in which the individual had enrolled; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1207_04_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The total amount of funds granted for the semester pursuant to this program to offset charges for tuition and required fees.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

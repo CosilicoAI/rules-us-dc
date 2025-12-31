@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2023.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2023.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2023_03">
+        <akn:num>38-2023.03</akn:num>
+        <akn:heading>Effective dates of annuities provided by §§ 38-2023.01 and 38-2023.02; computation.</akn:heading>
+<akn:subsection eId="subsec_38-2023_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An increase in annuity provided by subsection (a), or clause (1) of subsection (b), of § 38-2023.01 shall take effect on August 1, 1958. An increase in annuity provided by clause (2) of such subsection (b) shall take effect on the commencing date of the survivor annuity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2023_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An annuity provided by § 38-2023.02 shall commence on August 1, 1958, or on the 1st day of the month in which application for such annuity is received by the Mayor of the District of Columbia or his designated agent, or, after October 1, 2004, the 1st day of the month in which application for such annuity is received by the District of Columbia Retirement Board, whichever occurs later.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2023_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The monthly installment of each annuity increased or provided by §§ 38-2023.01 to 38-2023.04 shall be fixed at the nearest dollar.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

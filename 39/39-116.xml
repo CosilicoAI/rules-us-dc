@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/39-116"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/39-116/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_39_116">
+        <akn:num>39-116</akn:num>
+        <akn:heading>Books from Birth Fund.</akn:heading>
+<akn:subsection eId="subsec_39-116_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a special fund the Books from Birth Fund (“Fund”), which shall be administered by the Board in accordance with subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-116_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Revenue from the following sources shall be deposited in the Fund:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-116_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Money in the Fund shall be used to implement and promote the Books from Birth program, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-116_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

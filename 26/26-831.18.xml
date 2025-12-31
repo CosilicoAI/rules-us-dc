@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-831.18"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-831.18/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_831_18">
+        <akn:num>26-831.18</akn:num>
+        <akn:heading>Conservator; appointment; bond and security; qualifications; expenses.</akn:heading>
+<akn:subsection eId="subsec_26-831_18_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If any of the grounds under § 26-833.12 authorizing the request for the appointment of a receiver exist or if the Commissioner determines that it is necessary to conserve the assets of a merchant bank for the benefit of the depositors, investors, or other creditors of the bank or for the benefit of the general public, the Commissioner may petition the Superior Court to appoint a conservator for a merchant bank.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-831_18_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Department shall be reimbursed out of the assets of the conservatorship, for all sums expended by the Department in connection with the conservatorship.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-831_18_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All expenses of a conservatorship shall be paid out of the assets of the merchant bank upon the approval of the Commissioner, shall be a first charge upon the assets of the merchant bank, and shall be paid in full before a final distribution or payment of dividends to creditors or shareholders of the merchant bank.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

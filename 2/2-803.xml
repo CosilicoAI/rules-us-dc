@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-803"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-803/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_803">
+        <akn:num>2-803</akn:num>
+        <akn:heading>Use of reservations, grounds, and public spaces.</akn:heading>
+<akn:subsection eId="subsec_2-803_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Permit for use. — With the approval of the officer having jurisdiction over any of the Federal reservations or grounds in the District of Columbia, the Secretary of the Interior may grant to the Inaugural Committee a permit to use the reservations or grounds during the inaugural period, including a reasonable time before and after the inaugural period.  The Mayor of the District of Columbia may grant a similar permit to use public space under the Mayor’s jurisdiction.  Each permit granted under this subsection is subject to conditions the grantor of the permit prescribes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-803_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Reviewing stands and commercial stands and structures. — A reviewing stand or a stand or structure for the sale of merchandise, food, or drink may be built on public grounds in the District of Columbia only if approved by the Inaugural Committee and by the Secretary or the Mayor, as appropriate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-803_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Restoration after inaugural period. — After the inaugural period, the reservation, ground, or public space occupied by a stand or structure shall be restored promptly to its prior condition.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-803_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Indemnification. — The Inaugural Committee shall indemnify and save harmless the District of Columbia and the appropriate department, agency, or instrumentality of the United States Government against any loss or damage to, and against any liability arising from the use of, the reservation, ground, or public space, by the Inaugural Committee or a licensee of the Inaugural Committee.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/39-304"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/39-304/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_39_304">
+        <akn:num>39-304</akn:num>
+        <akn:heading>Board of Directors — Established; composition; term of office; nonvoting ex officio members.</akn:heading>
+<akn:subsection eId="subsec_39-304_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A self-perpetuating Board of Directors is established to manage the affairs of the Museum. The Board shall have a minimum of 10 and a maximum of 23 members. Members of the Board shall include representatives of various geographical areas of the City, business people, and community leaders known for their interest in the arts, culture, and humanities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-304_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each member of the initial Board, as established by this chapter, shall serve a term of 1 year. A successor Board shall be established according to the requirements of this chapter and those bylaws adopted by the initial Board. Each member of a successor Board shall serve a 3-year term.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-304_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The initial Board shall have a minimum of 10 members and shall be composed at a minimum of the following individuals:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-304_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The initial Board shall appoint such additional or replacement members up to a maximum of 23 individuals, so that the initial Board meets the representational requirements of subsection (a) of this section. The members shall be appointed according to the bylaws adopted by the Board members listed in subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-304_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The following individuals shall be nonvoting ex officio members of the initial Board:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

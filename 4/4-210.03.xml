@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-210.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-210.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_210_03">
+        <akn:num>4-210.03</akn:num>
+        <akn:heading>Hearing officers.</akn:heading>
+<akn:subsection eId="subsec_4-210_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All hearings relating to individual appeals shall be conducted by properly designated hearing officers. Hearing officers are directly responsible to the Mayor in carrying out their duties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-210_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall designate other Department personnel to serve as hearing officers when regular hearing officers are absent or when the number of requests for hearings are too numerous to be expedited by the regular hearing officers. Hearing officers shall be selected from personnel who are not connected with public assistance activity or otherwise involved with the implementation of the public assistance program and shall be directly responsible to the Mayor in carrying out the duties of the hearing officer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

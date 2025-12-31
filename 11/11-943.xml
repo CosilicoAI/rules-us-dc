@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-943"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-943/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_943">
+        <akn:num>11-943</akn:num>
+        <akn:heading>Process.</akn:heading>
+<akn:subsection eId="subsec_11-943_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All process other than a subpena [subpoena] may be served at any place within the District of Columbia, and, when authorized by statute or by the Federal Rules of Civil Procedure, at any place without the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-943_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Service upon a third-party defendant, upon a person whose joinder is needed for just adjudication, and upon persons required to respond to any order of commitment for civil contempt may be served at all places outside the District of Columbia that are not more than one hundred miles from the place of hearing or trial specified.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-943_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The form, issuance, and manner of service of process shall be prescribed by rule of the court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

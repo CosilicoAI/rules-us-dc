@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-601"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-601/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_601">
+        <akn:num>25-601</akn:num>
+        <akn:heading>Standing to file protest against a license.</akn:heading>
+<akn:subsection eId="subsec_25-601_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>An abutting property owner;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-601_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A group of no fewer than 5 residents or property owners of the District  sharing common grounds for their protest; provided, that in a moratorium zone  established under § 25-351 (or in existence as of May 3, 2001), a group of no  fewer than 3 residents or property owners of the District sharing common grounds for their protest;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-601_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>A citizens association incorporated under the laws of the District of Columbia located within the affected area; provided, that the following conditions are met:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-601_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>An affected ANC;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-601_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>In the case of property owned by the District within a 600-foot radius of  the establishment to be licensed, the Mayor;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-601_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>In the case of property owned by the United States within a 600-foot radius of the establishment to be licensed, the designated custodian of the property; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-601_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>The Metropolitan Police Department District Commander, or his or her designee, in whose Police District the establishment resides.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

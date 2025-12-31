@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-721"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-721/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_721">
+        <akn:num>22-721</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_22-721_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Court of the District of Columbia” means the Superior Court of the District of Columbia or the District of Columbia Court of Appeals.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-721_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Criminal investigator” means an individual authorized by the Mayor or the Mayor’s designated agent to conduct or engage in a criminal investigation, or a prosecuting attorney conducting or engaged in a criminal investigation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-721_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Criminal investigation” means an investigation of a violation of any criminal statute in effect in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-721_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Official proceeding” means any trial, hearing, investigation, or other proceeding in a court of the District of Columbia or conducted by the Council of the District of Columbia or an agency or department of the District of Columbia government, or a grand jury proceeding.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

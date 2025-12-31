@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-221.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-221.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_221_04">
+        <akn:num>2-221.04</akn:num>
+        <akn:heading>Filing of claims; disputed payments.</akn:heading>
+<akn:subsection eId="subsec_2-221_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-221_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in § 2-221.03 with respect to disputes concerning discounts, this subchapter shall not be construed to require interest penalties on payments which are not made by the required payment date by reason of a dispute between a District agency and a business concern over the amount of that payment or other allegations concerning compliance with a contract. Claims concerning any dispute, and any interest which may be payable with respect to the period while the dispute is being resolved, shall be subject to the ruling of the Contract Appeals Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-221_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-221_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Subsection (a) of this section shall apply to claims arising after October 7, 1998.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

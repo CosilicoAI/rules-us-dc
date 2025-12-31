@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-707.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-707.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_707_01">
+        <akn:num>31-707.01</akn:num>
+        <akn:heading>Supervisory Colleges.</akn:heading>
+<akn:subsection eId="subsec_31-707_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>With respect to any insurer registered under § 31-705, and in accordance with subsection (c) of this section, the Mayor shall have the power to participate in a supervisory college for any domestic insurer that is part of an insurance holding company system with international operations in order to determine compliance by the insurer with this subchapter. The powers of the Mayor with respect to supervisory colleges shall include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-707_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each registered insurer subject to this section shall be liable for and shall pay the reasonable expenses of the Mayor’s participation in a supervisory college in accordance with subsection (c) of this section, including reasonable travel expenses. For the purposes of this section, a supervisory college may be convened as either a temporary or permanent forum for communication and cooperation between the regulators charged with the supervision of the insurer or its affiliates, and the Mayor may establish a regular assessment to the insurer for the payment of these expenses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-707_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>To assess the business strategy, financial position, legal and regulatory position, risk exposure, risk management, and governance processes, and as part of the examination of individual insurers, in accordance with § 31-707, the Mayor may participate in a supervisory college with other regulators charged with supervision of the insurer or its affiliates, including other state, federal, and international regulatory agencies. The Mayor may enter into agreements in accordance with § 31-708(c) providing the basis for cooperation between the Mayor and the other regulatory agencies, and the activities of the supervisory college.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-707_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall delegate to the supervisory college the authority of the Mayor to regulate or supervise the insurer or its affiliates within its jurisdiction.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

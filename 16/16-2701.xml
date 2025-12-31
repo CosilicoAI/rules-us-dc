@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2701"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2701/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2701">
+        <akn:num>16-2701</akn:num>
+        <akn:heading>Liability; damages; prior recovery as precluding action.</akn:heading>
+<akn:subsection eId="subsec_16-2701_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When, by an injury done or happening within the limits of the District, the death of a person is caused by the wrongful act, neglect, or default of a person or corporation, and the act, neglect, or default is such as will, if death does not ensue, entitle the person injured, or if the person injured is married or domestic partnered, entitle the spouse or domestic partner, either separately or by joining with the injured person, to maintain an action and recover damages, the person who or corporation that is liable if death does not ensue is liable to an action for damages for the death, notwithstanding the death of the person injured, even though the death is caused under circumstances that constitute a felony.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2701_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The damages shall be assessed with reference to the injury resulting from the act, neglect, or default causing the death, to the spouse or domestic partner and the next of kin of the deceased person; and shall include the reasonable expenses of last illness and burial. Where there is a surviving spouse or domestic partner, the jury shall allocate the portion of its verdict payable to the spouse or domestic partner and next of kin, respectively, according to the finding of damage to the spouse or domestic partner and next of kin. If, in a particular case, the verdict is deemed excessive, the trial judge or the appellate court, on appeal of the cause, may order a reduction of the verdict. An action may not be maintained pursuant to this chapter if the party injured by the wrongful act, neglect, or default has recovered damages therefor during his life.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2701_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “domestic partner” shall have the same meaning as provided in § 32-701(3).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

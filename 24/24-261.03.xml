@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-261.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-261.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_261_03">
+        <akn:num>24-261.03</akn:num>
+        <akn:heading>Inmates confined to CTF.</akn:heading>
+<akn:subsection eId="subsec_24-261_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An inmate confined in the CTF shall be deemed to be at all times in the legal custody of the Department of Corrections. Only the Department of Corrections shall have authority to transfer or assign inmates into or out of the CTF. All laws and regulations governing conduct of inmates, including, without limitation, Title 22 of the District of Columbia Official Code, shall apply to inmates confined to the CTF during such time as the CTF is operated by a private operator. All laws and regulations establishing penalties for offenses committed against correctional officers or other correctional employees, including, without limitation, the penalties provided for in § 22-405, shall apply mutatis mutandis to offenses committed against any private correctional officer or other employee of the private operator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-261_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An inmate confined in any privately-operated prison facility established pursuant to Subtitle C of the National Capital Revitalization and Self-Government Improvement Act of 1997, approved August 5, 1997 (P.L. 105-33; 111 Stat. 712), shall be deemed to be at all times in the legal custody of the Federal Bureau of Prisons. Only the Federal Bureau of Prisons shall have authority to transfer or assign inmates into or out of the privately-operated prison facility. All laws and regulations governing conduct of inmates in Federal Bureau of Prisons facilities shall apply to inmates confined in any privately-operated prison facility during such time as the prison facility is operated by a private operator. All laws and regulations establishing penalties for offenses committed against correctional officers or other correctional employees shall apply wherever applicable to offenses committed against any private correctional officer or other employee of the private operator.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-336.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-336.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_336_02">
+        <akn:num>1-336.02</akn:num>
+        <akn:heading>Identification of companies.</akn:heading>
+<akn:subsection eId="subsec_1-336_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 90 days after March 21, 2009, the public fund shall make its best efforts to identify all scrutinized companies in which the public fund has direct or indirect holdings. Such efforts shall include reviewing and relying, as appropriate in the public fund’s judgment, on publicly available information regarding companies that have invested more than $20 million in any given year since August 5, 1996, in Iran’s petroleum energy sector, including information provided by nonprofit organizations, research firms, international organizations, and government entities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-336_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>On or before the 1st meeting of the public fund held 90 days after March 21, 2009, the public fund shall compile a list of all scrutinized companies entitled “Scrutinized Companies With Activities in the Iran Petroleum Energy Sector List”.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-336_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The public fund shall update and make publicly available annually the Scrutinized Companies with Activities in the Iran Petroleum Energy Sector List.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1053"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1053/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_1053">
+        <akn:num>6-1053</akn:num>
+        <akn:heading>Presentation of Comprehensive Housing Strategy; public meetings.</akn:heading>
+<akn:subsection eId="subsec_6-1053_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 12 months after the Council’s confirmation of the Mayor’s nominations to the Task Force, the Task Force shall present the Comprehensive Housing Strategy to the Council and the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1053_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Task Force shall hold at least 2 public meetings, which shall be convened at the following times:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1053_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>At least 30 days before a public meeting, the Task Force shall provide the general public the following information regarding the meeting, the:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1053_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Task Force shall provide all interested persons a reasonable opportunity to be heard at the public meetings.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

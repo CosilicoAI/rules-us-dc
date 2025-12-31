@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-308"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-308/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2A_308">
+        <akn:num>28:2A-308</akn:num>
+        <akn:heading>Special rights of creditors.</akn:heading>
+<akn:subsection eId="subsec_28:2A-308_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A creditor of a lessor in possession of goods subject to a lease contract may treat the lease contract as void if as against the creditor retention of possession by the lessor is fraudulent under any statute or rule of law, but retention of possession in good faith and current course of trade by the lessor for a commercially reasonable time after the lease contract becomes enforceable is not fraudulent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-308_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this article impairs the rights of creditors of a lessor if the lease contract (i) becomes enforceable, not in current course of trade but in satisfaction of or as security for a preexisting claim for money, security, or the like, and (ii) is made under circumstances which under any statute or rule of law apart from this article would constitute the transaction a fraudulent transfer or voidable preference.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-308_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A creditor of a seller may treat a sale or an identification of goods to a contract for sale as void if as against the creditor retention of possession by the seller is fraudulent under any statute or rule of law, but retention of possession of the goods pursuant to a lease contract entered into by the seller as lessee and the buyer as lessor in connection with the sale or identification of the goods is not fraudulent if the buyer bought for value and in good faith.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

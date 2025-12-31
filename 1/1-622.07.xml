@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-622.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-622.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_622_07">
+        <akn:num>1-622.07</akn:num>
+        <akn:heading>Group insurance; amounts.</akn:heading>
+<akn:subsection eId="subsec_1-622_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The group life insurance amounts purchased by the District under § 1-622.05 shall be no less than the insurance amounts provided under the Federal Employees Group Life Insurance (“F.E.G.L.I.”) plan pursuant to 5 U.S.C. § 8702, in effect as of October 1, 1987.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-622_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Employees shall be offered the option of purchasing additional coverage for themselves, and for their spouses and dependent children, and the cost of the additional coverage shall be borne solely by the employees purchasing that coverage, except Executive Service employees.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

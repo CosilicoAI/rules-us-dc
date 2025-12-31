@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1507"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1507/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1507">
+        <akn:num>34-1507</akn:num>
+        <akn:heading>Consumer protections.</akn:heading>
+<akn:subsection eId="subsec_34-1507_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1507_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1507_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Unless the customer consents, a market participant may not change a customer’s electricity supplier.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1507_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Unless the customer consents, a market participant may not add services or new charges to a customer’s existing retail electric service options.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1507_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1507_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A market participant may not discriminate against any customer based wholly or partly on the race, color, creed, national origin, sex, sexual orientation, or gender identity or expression of the customer, or for any arbitrary, capricious, or unfairly discriminatory reason.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1507_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A market participant may not refuse to provide service to a customer except by the application of standards that are reasonably related to the market participant’s economic and business purposes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1507_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>A market participant shall post on the Internet information that is readily understandable about its services and rates for small commercial and residential electric customers.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

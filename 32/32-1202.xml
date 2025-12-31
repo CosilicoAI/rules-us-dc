@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1202"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1202/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1202">
+        <akn:num>32-1202</akn:num>
+        <akn:heading>Amount of leave; denial; form; notice.</akn:heading>
+<akn:subsection eId="subsec_32-1202_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in this section, an employee who is a parent shall be entitled to a total of 24 hours leave during any 12 month period to attend or participate in a school-related event for his or her child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1202_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in this section, an employee shall be entitled to a day of leave each year on April 16th, the District of Columbia Emancipation Day.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1202_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An employer may deny the use of leave provided by subsections (a) and (b) of this section only if the granting of leave would disrupt the employer’s business and make the achievement of production or service delivery unusually difficult.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1202_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The leave provided by this section may consist of unpaid leave unless the parent or employee elects to use any paid family, vacation, personal, compensatory, or leave bank leave that has been provided by the employer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1202_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An employee shall notify the employer of the desire for leave to attend a school-related event or to celebrate the District of Columbia Emancipation Day at least 10 calendar days in advance, unless, in the case of a school event, the need to attend the school-related event cannot be reasonably foreseen.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-531"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-531/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_531">
+        <akn:num>26-531</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_26-531_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Account” means a demand deposit account, checking or negotiable withdrawal order account, savings account, time deposit account, or money-market mutual fund account.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-531_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Financial institution” means the institution as defined in section 469A(d)(1) of the Social Security Act, approved August 22, 1996 (110 Stat. 2105; 42 U.S.C. § 669A(d)(1)).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-531_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“IV-D agency” means the organizational unit of the District government, or any successor organizational unit, that is responsible for administering or supervising the administration of the District’s State Plan under title IV, part D of the Social Security Act, approved January 4, 1975 (88 Stat. 2351; 42 U.S.C. § 651 et seq.), pertaining to parent locator services, paternity establishment, and the establishment, modification, and enforcement of support orders.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

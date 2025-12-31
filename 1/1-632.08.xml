@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-632.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-632.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_632_08">
+        <akn:num>1-632.08</akn:num>
+        <akn:heading>Rules of construction.</akn:heading>
+<akn:subsection eId="subsec_1-632_08_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Subchapter II will govern conflicting provisions; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-632_08_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A parenthetical limitation, upon provisions of a section or subchapter preceding it, shall limit the scope of the section or subchapter to the parenthetical provision.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

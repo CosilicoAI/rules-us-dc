@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:1-203"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:1-203/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:1_203">
+        <akn:num>28:1-203</akn:num>
+        <akn:heading>Lease distinguished from security interest.</akn:heading>
+<akn:subsection eId="subsec_28:1-203_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whether a transaction in the form of a lease creates a lease or security interest is determined by the facts of each case.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:1-203_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A transaction in the form of a lease creates a security interest if the consideration that the lessee is to pay the lessor for the right to possession and use of the goods is an obligation for the term of the lease and is not subject to termination by the lessee, and:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:1-203_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A transaction in the form of a lease does not create a security interest merely because:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:1-203_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Additional consideration is nominal if it is less than the lessee’s reasonably predictable cost of performing under the lease agreement if the option is not exercised. Additional consideration is not nominal if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:1-203_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The remaining economic life of the goods and reasonably predictable fair market rent, fair market value, or cost of performing under the lease agreement must be determined with reference to the facts and circumstances at the time the transaction is entered into.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

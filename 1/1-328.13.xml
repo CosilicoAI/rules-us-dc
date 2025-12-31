@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-328.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-328.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_328_13">
+        <akn:num>1-328.13</akn:num>
+        <akn:heading>Requirements for award of grants.</akn:heading>
+<akn:subsection eId="subsec_1-328_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any grant of $50,000 or more that is made pursuant to an authority described in § 1-328.12 shall be awarded on a competitive basis and solely for the purpose or purposes identified in the statute establishing the grant-making or grant-issuing authority, unless a non-District entity that provides funds to the District to award as grants has rules or requirements that prohibit or otherwise limit competition.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-328_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before providing notice of the availability of grant funds as required by subsection (c) of this section, a grantor shall establish criteria or standards for the selection of a grantee or grantees under the grant program, and shall set priorities among those criteria or standards.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-328_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A grantor shall publish notice in the District of Columbia Register for a minimum of 14 days in advance of making or issuing a grant of the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

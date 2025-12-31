@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-151.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-151.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_151_04">
+        <akn:num>44-151.04</akn:num>
+        <akn:heading>Sale or transfer of ownership.</akn:heading>
+<akn:subsection eId="subsec_44-151_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No provider or other owning entity shall sell or transfer ownership of the facility, or enter into a contract with a third-party provider for management of the facility, unless the transfer or contract has been approved by the Commissioner. The Commissioner shall have 90 days from receipt of the transfer documents or contract in which to review and to approve or disapprove the transfer or contract. If the transfer or sales contract or third-party management contract is approved, the new provider or third-party manager shall have 90 days in which to meet the licensing requirements and to obtain a license to operate the facility in their own name. The Commissioner, with the consent of the applicant, may extend this 90-day period for up to an additional 60 days.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon receipt of an application for the sale or transfer of ownership of the facility or for execution of a contract with a third-party provider for management of the facility, the Commissioner shall, within 10 business days, issue a notice of filing to the applicant. Within 90 days of the notice of filing, the Commissioner shall enter an order issuing the license or rejecting the application. If the Commissioner fails to act within 90 days of the notice of filing, the application shall be deemed denied.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

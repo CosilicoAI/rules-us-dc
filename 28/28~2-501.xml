@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_501">
+        <akn:num>28:2-501</akn:num>
+        <akn:heading>Insurable interest in goods; manner of identification of goods.</akn:heading>
+<akn:subsection eId="subsec_28:2-501_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The buyer obtains a special property and an insurable interest in goods by identification of existing goods as goods to which the contract refers even though the goods so identified are non-conforming and he has an option to return or reject them. Such identification can be made at any time and in any manner explicitly agreed to by the parties. In the absence of explicit agreement identification occurs</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-501_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The seller retains an insurable interest in goods so long as title to or any security interest in the goods remains in him and where the identification is by the seller alone he may until default or insolvency or notification to the buyer that the identification is final substitute other goods for those identified.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-501_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Nothing in this section impairs any insurable interest recognized under any other statute or rule of law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

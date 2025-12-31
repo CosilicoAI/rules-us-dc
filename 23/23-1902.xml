@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-1902"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-1902/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_1902">
+        <akn:num>23-1902</akn:num>
+        <akn:heading>Notice to crime victims.</akn:heading>
+<akn:subsection eId="subsec_23-1902_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The head of each department and agency of the District of Columbia engaged in the detection, investigation, or prosecution of crime or in the judicial process shall designate the persons who will be responsible for identifying the victims of crime and performing the services described in subsection (c) of this section at each stage of a criminal case.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1902_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>At the earliest opportunity after the detection of a crime at which it may be done without interfering with an investigation, a responsible official shall identify the victim or victims of a crime.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1902_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1902_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>After trial, a responsible official shall provide a victim with timely notice of the:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1902_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The victim or the representative of the victim appointed by the court has a continuing obligation to provide the appropriate investigative, prosecutive, judicial, or correctional agency with correct and up-to-date information on the victim’s name and address or an alternate means by which the victim can be given notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1902_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>This section does not create a cause of action or defense in favor of any person arising out of the failure of a responsible person to provide information as required by this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-131.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-131.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_131_09">
+        <akn:num>26-131.09</akn:num>
+        <akn:heading>Complaints against an operator of an automated teller machine.</akn:heading>
+<akn:subsection eId="subsec_26-131_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An operator of an automated teller machine shall clearly and conspicuously disclose on a label or sign posted on the automated teller machine, or in clear view of a person viewing the automated teller machine, the name, address, and telephone number of the Department and the operator. The label or sign shall also state that a person may send comments or complaints regarding the automated teller machine to the Department and shall state that the Department is an agency of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-131_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commissioner may investigate a complaint, in whatever form received, regarding an automated teller machine. The investigation of the Commissioner under this subsection may include an examination of the automated teller machine. The operator of the automated teller machine shall pay to the Commissioner the reasonable costs and expenses incurred by the Commissioner for the examination or investigation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

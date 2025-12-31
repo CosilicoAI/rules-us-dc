@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-106.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-106.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_106_04">
+        <akn:num>44-106.04</akn:num>
+        <akn:heading>Individualized Service Plans.</akn:heading>
+<akn:subsection eId="subsec_44-106_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The ISP shall include the services to be provided, when and how often the services will be provided, and how and by whom all services will be provided and accessed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>During the ISP development process, the ALR shall confer with the prospective resident and, if necessary, the surrogate to arrive at a mutual agreement as to the responsibilities of each party in accessing care and achieving related outcomes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The ISP shall be reviewed 30 days after admission and at least every 6 months thereafter. The ISP shall be updated more frequently if there is a significant change in the resident’s condition. The resident and, if necessary, the surrogate shall be invited to participate in each reassessment. The review shall be conducted by an interdisciplinary team that includes the resident’s healthcare practitioner, the resident, the resident’s surrogate, if necessary, and the ALR.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An ALR shall facilitate aging in place to the best of its ability with the understanding that there may be a point reached where adequate and appropriate services can not be marshalled to support the resident safely, making transfer to another setting necessary.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

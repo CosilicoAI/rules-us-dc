@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-218.67"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-218.67/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_218_67">
+        <akn:num>2-218.67</akn:num>
+        <akn:heading>Establishment of the Volunteer Corp of Executives and Entrepreneurs.</akn:heading>
+<akn:subsection eId="subsec_2-218_67_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established the Volunteer Corp of Executives and Entrepreneurs to provide mentoring, education, consulting, and networking services to certified business enterprises within the Department. Notwithstanding any other provision of law, the Volunteer Corp of Executives and Entrepreneurs may solicit contributions from the private sector to be used to carry out its functions under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-218_67_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-218_67_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Director shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-218_67_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Council shall receive an annual report on the implementation of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

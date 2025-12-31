@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1603"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1603/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1603">
+        <akn:num>50-1603</akn:num>
+        <akn:heading>Office of Bicycle Transportation and Safety.</akn:heading>
+<akn:subsection eId="subsec_50-1603_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The Office shall be headed by a bicycle coordinator who shall be a person with broad knowledge in all aspects of bicycle transportation and safety.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1603_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The Office shall be staffed with a minimum of 2 full-time assistant bicycle coordinators who shall have appropriate experience and knowledge of bicycle matters.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1603_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The duties of the bicycle coordinator shall include, but not be limited to:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

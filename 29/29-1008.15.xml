@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1008.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1008.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1008_15">
+        <akn:num>29-1008.15</akn:num>
+        <akn:heading>Quorum.</akn:heading>
+<akn:subsection eId="subsec_29-1008_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless the articles of organization provide for a greater number, a majority of the total number of directors specified by the organic rules shall constitute a quorum for a meeting of the directors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1008_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a quorum of the board of directors is present at the beginning of a meeting, any action taken by the directors present shall be valid even if withdrawal of directors originally present results in the number of directors being fewer than the number required for a quorum.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1008_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A director present at a meeting but objecting to notice under § 29-1008.14(b)(1) or (2) shall not count toward a quorum.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

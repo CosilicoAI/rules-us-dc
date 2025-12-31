@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1109"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1109/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1109">
+        <akn:num>26-1109</akn:num>
+        <akn:heading>Record keeping requirements.</akn:heading>
+<akn:subsection eId="subsec_26-1109_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each licensee shall keep and make available to the Superintendent [Commissioner] at the licensee’s place of business any books and records that the Superintendent [Commissioner], by rule or regulation, requires to enable the Superintendent [Commissioner] to enforce this chapter and any rule or regulation adopted under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1109_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each mortgage lender required to be licensed under this chapter shall retain for at least 3 years after final payment is made on any mortgage loan or after the mortgage loan is sold, whichever first occurs, copies of the note, settlement statement, truth-in-lending disclosure, and such other papers or records relating to the loan as may be required by rule or regulation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1109_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>On approval of the Superintendent [Commissioner], a licensee need not keep at the licensee’s place of business any books and records otherwise required by the Superintendent [Commissioner] under subsection (a) of this section if the licensee:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1109_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Each independent contractor or mortgage broker required to be licensed under this chapter shall retain for at least 3 years after a mortgage loan is made the original contract for his or her compensation, a copy of the settlement statement, an account of fees received in connection with the loan, and such other papers or records as may be required by rule or regulation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

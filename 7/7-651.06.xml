@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-651.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-651.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_651_06">
+        <akn:num>7-651.06</akn:num>
+        <akn:heading>Decision to withhold resuscitation.</akn:heading>
+<akn:subsection eId="subsec_7-651_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If EMS personnel encounter a person who is in cardiac or respiratory arrest and the person is wearing a comfort care bracelet or necklace, EMS personnel shall determine whether the comfort care bracelet or necklace is intact or has been defaced. If the comfort care bracelet or necklace is intact and has not been defaced, EMS personnel shall not resuscitate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-651_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If EMS personnel encounter a person who is wearing an intact comfort care bracelet or necklace that has not been defaced and who is experiencing significant respiratory distress, which would require artificial ventilation to forestall a cardiac or respiratory arrest, EMS personnel shall withhold artificial ventilation, including advanced airway management.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-651_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If resuscitation has been initiated, resuscitation shall be withdrawn if EMS personnel determine that the criteria in subsection (a) of this section is satisfied.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-651_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If EMS personnel do not resuscitate on the basis of an intact comfort care bracelet or necklace that has not been defaced, EMS personnel shall record the do-not-resuscitate response in the run report and report the do-not-resuscitate response to the Mayor within 5 business days of the incident.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

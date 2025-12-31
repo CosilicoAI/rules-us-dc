@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-204"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-204/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4A_204">
+        <akn:num>28:4A-204</akn:num>
+        <akn:heading>Refund of payment and duty of customer to report with respect to unauthorized payment order.</akn:heading>
+<akn:subsection eId="subsec_28:4A-204_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a receiving bank accepts a payment order issued in the name of its customer as sender which is (i) not authorized and not effective as the order of the customer under § 28:4A-202, or (ii) not enforceable, in whole or in part, against the customer under § 28:4A-203, the bank shall refund any payment of the payment order received from the customer to the extent the bank is not entitled to enforce payment and shall pay interest on the refundable amount calculated from the date the bank received payment to the date of the refund. However, the customer is not entitled to interest from the bank on the amount to be refunded if the customer fails to exercise ordinary care to determine that the order was not authorized by the customer and to notify the bank of the relevant facts within a reasonable time not exceeding 90 days after the date the customer received notification from the bank that the order was accepted or that the customer’s account was debited with respect to the order. The bank is not entitled to any recovery from the customer on account of a failure by the customer to give notification as stated in this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-204_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Reasonable time under subsection (a) of this section may be fixed by agreement as stated in § 28:1-302(b), but the obligation of a receiving bank to refund payment as stated in subsection (a) of this section may not otherwise be varied by agreement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

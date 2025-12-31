@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1314.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1314.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1314_04">
+        <akn:num>34-1314.04</akn:num>
+        <akn:heading>Gas company recovery of gas plant relocation costs.</akn:heading>
+<akn:subsection eId="subsec_34-1314_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The gas company may establish a regulatory asset for the operating and capital-related costs of any gas plant relocation that is necessary for the completion of DDOT Underground Electric Company Infrastructure Improvement Activity incurred by the gas company between base rate cases and that are not recovered by any other means; provided, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1314_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The regulatory asset shall accrue a pre-tax rate of return at the gas company’s authorized rate of return approved by the Commission in the most recent base rate case.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1314_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The creation of a regulatory asset for the gas company’s gas plant relocation costs shall not affect the authority of the Commission to review the prudence of costs associated with the relocation of any gas plant due to DDOT Underground Electric Company Infrastructure Improvement Activity. In any Commission proceeding reviewing the gas company’s costs for any gas plant relocation that is necessary for the completion of any DDOT Underground Electric Company Infrastructure Improvement Activity, the gas company shall have the burden to prove that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

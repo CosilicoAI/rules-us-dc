@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2351"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2351/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2351">
+        <akn:num>50-2351</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_50-2351_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Autonomous vehicle” means a vehicle capable of navigating District roadways and interpreting traffic-control devices without a driver actively operating any of the vehicle’s control systems. The term “autonomous vehicle” excludes a motor vehicle enabled with active safety systems or driver- assistance systems, including systems to provide electronic blind-spot assistance, crash avoidance, emergency braking, parking assistance, adaptive cruise control, lane-keep assistance, lane-departure warning, or traffic-jam and queuing assistance, unless the system alone or in combination with other systems enables the vehicle on which the technology is installed to drive without active control or monitoring by a human operator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2351_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Driver” means a human operator of a motor vehicle with a valid driver’s license.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2351_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Public roadway” means a street, road, or public thoroughfare that allows motor vehicles.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2351_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Traffic control device” means a traffic signal, traffic sign, electronic traffic sign, pavement marking, or other sign, device, or apparatus designed and installed to direct moving traffic.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

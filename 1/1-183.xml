@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-183"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-183/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_183">
+        <akn:num>1-183</akn:num>
+        <akn:heading>Emancipation Day Fund.</akn:heading>
+<akn:subsection eId="subsec_1-183_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established the Emancipation Day Fund (“Fund”) to receive monies for the purposes of funding the Emancipation Day Parade and activities associated with the celebration and commemoration of District of Columbia Emancipation Day.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-183_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The monies in the Fund shall not be a part of, or lapse into, the General Fund of the District of Columbia or any other fund of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-183_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>By August 1st of each year, the Secretary of the District of Columbia shall submit a report to the Council that shall include a specific accounting of the expenditure of money in the Fund and any remaining balance. The report shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-183_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Monies shall only be expended from the Fund for the administration of the Emancipation Day Parade. A minimum of 15% of the monies in the Fund shall be used to purchase and provide educational materials. The Fund may be used to purchase food, snacks, entertainment, and non-alcoholic beverages for the general public, participants, and District government employees to celebrate Emancipation Day.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-183_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Each agency, including the Metropolitan Police Department, the District Department of Transportation, the Department of Public Works, and the Department of Parks and Recreation, shall absorb permitting, staffing, and related costs associated with the conduct of the Emancipation Day Parade.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

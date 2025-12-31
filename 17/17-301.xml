@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/17-301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/17-301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_17_301">
+        <akn:num>17-301</akn:num>
+        <akn:heading>Applications for allowance of appeals from certain Superior Court judgments; hearing; effect of denial.</akn:heading>
+<akn:subsection eId="subsec_17-301_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The application for the allowance of an appeal from a judgment of the Small Claims and Conciliation Branch of the Superior Court of the District of Columbia, or from a judgment of the criminal division of that court where the penalty imposed is less than $50, provided for by section 11-721(c), shall be on a standard form, in simple language, prescribed by the Superior Court of the District of Columbia. If the appellant is not represented by counsel, the clerk of the Superior Court of the District of Columbia shall prepare the application in his behalf.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_17-301_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The application provided for by subsection (a) of this section shall be filed in the District of Columbia Court of Appeals within the time limit prescribed by section 17-307(b), and shall be promptly presented by the clerk of that court to three judges thereof for their consideration. When any one of them is of the opinion that the appeal should be allowed, the appeal shall be recorded as granted, and the case set down for hearing on appeal. It shall be given a preferred status on the calendar, and heard in the same manner as other appeals in the court. When the three judges are of the opinion that the appeal should be denied, the denial shall stand as an affirmance of the judgment of the trial court, and there shall be no further appeal.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

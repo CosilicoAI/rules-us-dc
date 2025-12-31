@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/51-178"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/51-178/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_51_178">
+        <akn:num>51-178</akn:num>
+        <akn:heading>Payment of shared work benefits.</akn:heading>
+<akn:subsection eId="subsec_51-178_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Director shall pay an individual who is eligible for shared work benefits under this subchapter a weekly shared work benefit amount equal to the individual’s regular weekly benefit amount for a period of total unemployment multiplied by the nearest full percentage of reduction of the individual’s hours as set forth in the employer’s shared work plan. If the shared benefit amount is not a multiple of $1, the Director shall reduce the amount to the next lowest multiple of $1. All shared work benefits made available pursuant to this subchapter shall be payable from the District Unemployment Fund, established by § 51-102.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-178_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Director shall not pay an individual shared work benefits for any week in which the individual performs paid work for the participating employer in excess of the reduced hours established under the shared work plan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

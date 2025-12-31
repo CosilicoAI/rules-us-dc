@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.31"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.31/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1163_31">
+        <akn:num>1-1163.31</akn:num>
+        <akn:heading>Reports of receipts and expenditures by legal defense committees.</akn:heading>
+<akn:subsection eId="subsec_1-1163_31_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The treasurer of each legal defense committee shall file with the Director of Campaign Finance, and with the applicable principal campaign committee, reports of receipts and expenditures on forms to be prescribed or approved by the Director of Campaign Finance. The reports shall be filed within 30 days after the committee’s organization and every 30 days thereafter in each year. The reports shall be complete as of a date as prescribed by the Director of Campaign Finance, which shall not be more than 5 days before the date of filing, except that any contribution of $200 or more received after the closing date prescribed by the Director of Campaign Finance for the last report required to be filed before the election shall be reported within 24 hours after its receipt.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1163_31_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each report under this section shall disclose:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1163_31_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The reports to be filed under subsection (a) of this section shall be cumulative during the calendar year to which they relate, but where there has been no change in an item reported in a previous report during such year, only the unchanged amount need be carried forward. If no contributions or expenditures have been accepted or expended during a calendar year, the treasurer of the legal defense committee shall file a statement to that effect.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

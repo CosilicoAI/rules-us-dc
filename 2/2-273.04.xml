@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-273.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-273.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_273_04">
+        <akn:num>2-273.04</akn:num>
+        <akn:heading>Unsolicited proposals.</akn:heading>
+<akn:subsection eId="subsec_2-273_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Office may consider, evaluate, and accept an unsolicited proposal for a public-private partnership project from a private entity if the proposal:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-273_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 90 days after receiving an unsolicited proposal, the Office shall complete a preliminary evaluation of the unsolicited proposal and shall either:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-273_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After a comprehensive evaluation of an unsolicited proposal and any alternatives submitted, the Office may commence negotiations with an proposer if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-273_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Office may charge an administrative fee for the costs of processing, reviewing, or evaluating any unsolicited proposal or alternative proposal submitted by a private entity; provided, that the administrative fee is reasonable and shall not exceed the Office&#x27;s actual direct cost of evaluating the proposal.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-273_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any unsolicited proposal or alternatives shall be the property of the Office.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

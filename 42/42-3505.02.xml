@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3505.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3505.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3505_02">
+        <akn:num>42-3505.02</akn:num>
+        <akn:heading>Retaliatory action.</akn:heading>
+<akn:subsection eId="subsec_42-3505_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No housing provider shall take any retaliatory action against any tenant who exercises any right conferred upon the tenant by this chapter, by any rule or order issued pursuant to this chapter, or by any other provision of law. Retaliatory action may include any action or proceeding not otherwise permitted by law which seeks to recover possession of a rental unit, action which would unlawfully increase rent, decrease services, increase the obligation of a tenant, or constitute undue or unavoidable inconvenience, violate the privacy of the tenant, harass, reduce the quality or quantity of service, any refusal to honor a lease or rental agreement or any provision of a lease or rental agreement, refusal to renew a lease or rental agreement, termination of a tenancy without cause, or any other form of threat or coercion.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3505_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In determining whether an action taken by a housing provider against a tenant is retaliatory action, the trier of fact shall presume retaliatory action has been taken, and shall enter judgment in the tenant’s favor unless the housing provider comes forward with clear and convincing evidence to rebut this presumption, if within the 6 months preceding the housing provider’s action, the tenant:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

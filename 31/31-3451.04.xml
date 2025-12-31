@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3451.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3451.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3451_04">
+        <akn:num>31-3451.04</akn:num>
+        <akn:heading>Regulatory Action Level Event.</akn:heading>
+<akn:subsection eId="subsec_31-3451_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a Regulatory Action Level Event occurs, the Commissioner shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In determining corrective action, the Commissioner may consider factors which include the results of any sensitivity tests undertaken under the RBC instructions. The RBC plan or revised RBC plan shall be submitted:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commissioner may retain actuaries, investment experts, or other consultants as may be necessary in the judgment of the Commissioner to review the health organization’s RBC plan or revised RBC plan, examine or analyze the assets, liabilities, and operations (including contractual relationships) of the health organization, and formulate the corrective order with respect to the health organization. The fees, costs, and expenses relating to the actuaries, investment experts, or consultants shall be borne by the affected health organization or such other party as directed by the Commissioner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

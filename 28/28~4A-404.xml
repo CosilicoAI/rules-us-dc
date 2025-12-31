@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-404"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-404/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4A_404">
+        <akn:num>28:4A-404</akn:num>
+        <akn:heading>Obligation of beneficiary’s bank to pay and give notice to beneficiary.</akn:heading>
+<akn:subsection eId="subsec_28:4A-404_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to §§ 28:4A-211(e), 28:4A-405(d), and 28:4A-405(e), if a beneficiary’s bank accepts a payment order, the bank is obliged to pay the amount of the order to the beneficiary of the order. Payment is due on the payment date of the order, but if acceptance occurs on the payment date after the close of the funds-transfer business day of the bank, payment is due on the next funds-transfer business day. If the bank refuses to pay after demand by the beneficiary and receipt of notice of particular circumstances that will give rise to consequential damages as a result of nonpayment, the beneficiary may recover damages resulting from the refusal to pay to the extent the bank had notice of the damages, unless the bank proves that it did not pay because of a reasonable doubt concerning the right of the beneficiary to payment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-404_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a payment order accepted by the beneficiary’s bank instructs payment to an account of the beneficiary, the bank is obliged to notify the beneficiary of receipt of the order before midnight of the next funds-transfer business day following the payment date. If the payment order does not instruct payment to an account of the beneficiary, the bank is required to notify the beneficiary only if notice is required by the order. Notice may be given by first class mail or any other means reasonable in the circumstances. If the bank fails to give the required notice, the bank is obliged to pay interest to the beneficiary on the amount of the payment order from the day notice should have been given until the day the beneficiary learned of receipt of the payment order by the bank. No other damages are recoverable. Reasonable attorney’s fees are also recoverable if demand for interest is made and refused before an action is brought on the claim.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-404_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The right of a beneficiary to receive payment and damages as stated in subsection (a) of this section may not be varied by agreement or a funds-transfer system rule. The right of a beneficiary to be notified as stated in subsection (b) of this section may be varied by agreement of the beneficiary or by a funds-transfer system rule if the beneficiary is notified of the rules before initiation of the funds transfer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

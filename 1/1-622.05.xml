@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-622.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-622.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_622_05">
+        <akn:num>1-622.05</akn:num>
+        <akn:heading>Contracting authority.</akn:heading>
+<akn:subsection eId="subsec_1-622_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor may purchase from 1 or more life insurance companies a policy or policies of group life insurance to provide the benefits set forth in § 1-622.07 from a life insurance company licensed to provide life and accidental death and dismemberment insurance under the laws of the District. Any contract under this section shall be in accordance with Chapter 3 of Title 2.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-622_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may discontinue at any time a policy purchased from a company under subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

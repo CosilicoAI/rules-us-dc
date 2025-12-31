@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3252"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3252/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3252">
+        <akn:num>42-3252</akn:num>
+        <akn:heading>Testing.</akn:heading>
+<akn:subsection eId="subsec_42-3252_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall require the owner of a multiple dwelling to order a water lead level test kit from WASA to sample the tap water in a dwelling or rooming unit for the presence of lead within 15 calendar days of a written request to do so by a rental tenant or owner-occupant of the unit. The rental tenant or owner-occupant shall also send a copy of this written request to the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3252_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3252_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>WASA shall send a water lead level test kit to each owner upon request. At the time WASA sends a water lead level test kit to an owner in response to a request pursuant to this chapter, WASA shall also send written notice to the Mayor that it has sent the water lead level test kit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3252_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Within 15 calendar days of receiving the water lead level test kit from WASA, the owner shall provide the water lead level test kit to an occupant of each unit being tested and send written certification to the Mayor that the owner has provided the kit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3252_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The rental tenant or owner-occupant of the unit being tested shall send a sample of the water it collects from the unit to WASA to have it tested for the lead level.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3252_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>WASA shall ensure the conducting of a lead level test of the water sample at its expense and shall mail the result of the water lead level test to both the dwelling owner and to the rental tenant or owner-occupant of the unit in which the water sample was collected when the result is available.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3252_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>Within 15 calendar days of receiving the water lead level test result from WASA, the owner shall:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-402"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-402/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_402">
+        <akn:num>8-402</akn:num>
+        <akn:heading>Registration pesticides.</akn:heading>
+<akn:subsection eId="subsec_8-402_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Only those compounds that are registered with the Pesticide Registration Division of the Environmental Protection Agency shall be manufactured, sold, shipped, used, or applied in the District of Columbia, and they shall be used only in the manner or manners specified and approved by the Environmental Protection Agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-402_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may in his discretion require that pesticides registered with the Environmental Protection Agency which are distributed within the District of Columbia also be registered with the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-274.01a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-274.01a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_274_01a">
+        <akn:num>38-274.01a</akn:num>
+        <akn:heading>Transfer of authority, assets, and funds.</akn:heading>
+<akn:subsection eId="subsec_38-274_01a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The authority to establish the HEI program and the HEI scholarship program is transferred from the OSSE to the University of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-274_01a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>By March 1, 2010, any real and personal property, positions, assets, and records relating to the HEI program or the HEI scholarship program, or to the planned establishment of the programs, shall become the property of the University of the District of Columbia, and any unexpended balances of appropriations, allocations, or other funds available or to be made available to the OSSE for the HEI program or the HEI scholarship program, or the planned establishment of the programs, shall be transferred to the HEIG fund.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

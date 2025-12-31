@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2505.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2505.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2505_02">
+        <akn:num>7-2505.02</akn:num>
+        <akn:heading>Permissible sales and transfers.</akn:heading>
+<akn:subsection eId="subsec_7-2505_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person or organization eligible to register a firearm may sell or otherwise transfer ammunition or any firearm, except those which are unregisterable under § 7-2502.02, to a licensed dealer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2505_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any licensed dealer may sell or otherwise transfer:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2505_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any licensed dealer may sell or otherwise transfer a firearm except those which are unregisterable under § 7-2502.02, to any person or organization possessing a registration certificate for such firearm; provided, that if the Chief denies a registration certificate, he shall so advise the licensee who shall thereupon: (1) withhold delivery until such time as a registration certificate is issued, or, at the option of the purchaser; (2) declare the contract null and void, in which case consideration paid to the licensee shall be returned to the purchaser; provided further, that this subsection shall not apply to persons covered by subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2505_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except as provided in subsections (b) and (e) of this section, no licensed dealer shall sell or otherwise transfer ammunition unless:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2505_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any licensed dealer may sell ammunition to any person holding an ammunition collector’s certificate on September 24, 1976; provided, that the collector’s certificate shall be exhibited to the licensed dealer whenever the collector purchases ammunition for his collection; provided further, that the collector shall sign a receipt for the ammunition, which shall be treated in the same manner as that required under paragraph (4) of subsection (d) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

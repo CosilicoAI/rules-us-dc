@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-392.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-392.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_392_14">
+        <akn:num>47-392.14</akn:num>
+        <akn:heading>Other requirements for issuance of bonds.</akn:heading>
+<akn:subsection eId="subsec_47-392_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Minimum debt service reserve fund requirement. — The Authority may not at any time issue bonds, notes, or other obligations pursuant to this part which are secured in whole or in part by a debt service reserve fund under § 47-392.13 if issuance of such bonds would cause the amount in the debt reserve fund to fall below the minimum reserve requirement for such fund, unless the Authority at the time of issuance of such bonds shall deposit in the fund an amount (from the proceeds of the bonds to be issued or from other sources) which when added to the amount already in such fund will cause the total amount on deposit in such fund to equal or exceed the minimum reserve fund requirement established by the Authority at the time of the establishment of the fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-392_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Amounts included in aggregate limit on District borrowing. — Any amounts provided to the District government through the issuance of bonds, notes, or other obligations to borrow funds pursuant to this part shall be taken into account in determining whether the amount of funds borrowed by the District of Columbia during a fiscal year exceeds the limitation on such amount provided under § 1-206.03(b).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-210.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-210.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_210_02">
+        <akn:num>4-210.02</akn:num>
+        <akn:heading>Grounds; objectives of hearing process.</akn:heading>
+<akn:subsection eId="subsec_4-210_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor, upon receipt of an application made pursuant to § 4-210.05, shall grant a fair hearing to any applicant for or a recipient of public assistance whose claim for assistance has been denied or has not been acted upon within a reasonable time not to exceed 45 days; or who is aggrieved by any other action or inaction of the Mayor which affects the receipt, termination, amount, kind, or conditions of his assistance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-210_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The following are the major objectives of the hearing process in public assistance:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-210_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A hearing need not be granted when either District or federal law requires automatic grant adjustments for classes of recipients of TANF, POWER, or GAC unless the reason for an individual appeal is incorrect computation of the grant.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1907"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1907/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1907">
+        <akn:num>11-1907</akn:num>
+        <akn:heading>Summoning of prospective jurors.</akn:heading>
+<akn:subsection eId="subsec_11-1907_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>At such times as are determined under the jury system plan, the Court shall summon or cause to be summoned from among qualified individuals under section 11-1906 sufficient prospective jurors to fulfill requirements for petit and grand jurors for the Court. A summons shall require a prospective juror to report for possible jury service at a specified time and place unless advised otherwise by the Court. Service of prospective jurors may be made personally or by first-class, registered, or certified mail as determined under the plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1907_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A prospective juror who fails to appear for jury duty may be ordered by the Court to appear and show cause why he or she should not be held in contempt for such failure to appear. A prospective juror who fails to show good cause for such failure, or who without good cause fails to appear pursuant to a Court order, may be punished by a fine of not more than $300, by imprisonment for not more than seven days, or both.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

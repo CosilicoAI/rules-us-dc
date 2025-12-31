@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1109"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1109/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1109">
+        <akn:num>19-1109</akn:num>
+        <akn:heading>Use of custodial trust property.</akn:heading>
+<akn:subsection eId="subsec_19-1109_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A custodial trustee shall pay to the beneficiary or expend for the beneficiary’s use and benefit so much or all of the custodial trust property as the beneficiary while not incapacitated may direct from time to time.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1109_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the beneficiary is incapacitated, the custodial trustee shall expend so much or all of the custodial trust property as the custodial trustee considers advisable for the use and benefit of the beneficiary and individuals who were supported by the beneficiary when the beneficiary became incapacitated, or who are legally entitled to support by the beneficiary. Expenditures may be made in the manner, at the time, and to the extent that the custodial trustee determines suitable and proper, without court order and without regard to other support, income, or property of the beneficiary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1109_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A custodial trustee may establish checking, savings, or other similar accounts of reasonable amounts under which either the custodial trustee or the beneficiary may withdraw funds from, or draw checks against, the accounts. Funds withdrawn from, or checks written against, the account by the beneficiary are distributions of custodial trust property by the custodial trustee to the beneficiary.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

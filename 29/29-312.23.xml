@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-312.23"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-312.23/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_312_23">
+        <akn:num>29-312.23</akn:num>
+        <akn:heading>Decree of dissolution.</akn:heading>
+<akn:subsection eId="subsec_29-312_23_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If, after a hearing, the Superior Court determines that one or more grounds for judicial dissolution described in § 29-312.20 exist, it may enter a decree dissolving the corporation and specifying the effective date of the dissolution, and the clerk of the court shall deliver a certified copy of the decree to the Mayor, who shall file it.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-312_23_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>After entering the decree of dissolution, the Superior Court shall direct the winding-up and liquidation of the corporation’s activities and affairs in accordance with § 29-312.05 and the notification of claimants in accordance with §§ 29-312.06 and 29-312.07.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

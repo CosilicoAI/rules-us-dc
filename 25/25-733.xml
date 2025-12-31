@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-733"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-733/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_733">
+        <akn:num>25-733</akn:num>
+        <akn:heading>Delivery and payment records and reports.</akn:heading>
+<akn:subsection eId="subsec_25-733_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A delivery of an alcoholic beverage to a licensee shall be accompanied by an invoice of sale or delivery which shall bear the date of delivery of the alcoholic beverages.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-733_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before the 26th day of each month, each manufacturer and wholesaler shall file with each other manufacturer or wholesaler within the District, on a form prescribed by the Board, a statement under penalties of perjury showing the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-733_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A manufacturer or wholesaler who, after receiving notification of delinquency by a retailer under § 25-731(c), extends credit to any retailer, shall be deemed to have violated § 25-731(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-733_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-733_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-733_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

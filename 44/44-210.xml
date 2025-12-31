@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-210"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-210/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_210">
+        <akn:num>44-210</akn:num>
+        <akn:heading>Cytology screening.</akn:heading>
+<akn:subsection eId="subsec_44-210_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Limit the number of slides a cytotechnologist may examine to no more than 100 in a 24-hour period, irrespective of the site or clinical laboratory;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-210_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Prohibit cytotechnologists from examining slides at any building not owned or used by a licensed clinical laboratory;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-210_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Require clinical laboratories to rescreen no less than 10% of all negative pap smears, and require that pap smear rescreening be performed by a supervisory level cytotechnologist;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-210_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Require clinical laboratories rescreen all negative noncervical smears, and require that noncervical smear rescreening be performed by a supervisory level pathologist;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-210_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Require clinical laboratories to reject improperly prepared smear specimens, make appropriate comments regarding the quality of the specimen, and maintain records on improperly prepared specimens for 5 years subject to review by the Mayor;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-210_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Require clinical laboratories to maintain and store for 5 years from the date of examination any smear slide that was examined for disease or disease agents; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-210_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Require all smear specimen reports to be retained for at least 10 years.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

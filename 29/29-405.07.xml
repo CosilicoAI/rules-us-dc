@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-405.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-405.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_405_07">
+        <akn:num>29-405.07</akn:num>
+        <akn:heading>Record date.</akn:heading>
+<akn:subsection eId="subsec_29-405_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The articles of incorporation or bylaws may fix or provide the manner of fixing the record date to determine the members entitled to notice of a meeting of the members, to demand a special meeting, to vote, or to take any other action. If the articles or bylaws do not fix or provide for fixing a record date, the board of directors of the membership corporation may fix a future date as the record date.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A record date fixed under this section shall not be more than 70 days before the meeting or action requiring a determination of members.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A determination of members entitled to notice of or to vote at a meeting of the members shall be effective for any adjournment of the meeting unless the board of directors fixes a new record date, which it shall do if the meeting is adjourned to a date more than 120 days after the date fixed for the original meeting.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a court orders a meeting adjourned to a date more than 120 days after the date fixed for the original meeting, it may provide that the original record date continues in effect or it may fix a new record date.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

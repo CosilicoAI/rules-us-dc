@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-908"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-908/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_908">
+        <akn:num>25-908</akn:num>
+        <akn:heading>Collection of tax by OTR Director.</akn:heading>
+<akn:subsection eId="subsec_25-908_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The taxes imposed by this chapter and penalties and interest thereon shall be collected by the OTR Director in the manner provided by law for the collection of taxes due to the District on personal property in force at the time of such collection. The liens for the taxes imposed by this chapter and penalties and interest thereon may be acquired in the same manner that liens for personal property taxes are acquired.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-908_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the OTR Director believes that the collection of a tax imposed by this chapter will be jeopardized by delay, the OTR Director shall, whether or not the time otherwise prescribed by law for filing the return or for paying the tax has expired, immediately assess the tax, plus all interest and penalties, the assessment of which is provided by law. The tax, penalties, and interest shall be immediately due and payable and immediate notice and demand shall be made by the OTR Director for payment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-908_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Upon failure or refusal to pay the tax, penalty, or interest, the OTR Director may collect the tax by distraint.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.30"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.30/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_205_30">
+        <akn:num>4-205.30</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_4-205_30_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_30_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Lump-sum payment or settlement” means a nonrecurring earned or unearned income, including retroactive monthly benefits, and payments in the nature of a windfall. The phrase “lump-sum payment or settlement” does not include income that represents a correction of previous underpayments of TANF, POWER, Aid to Families with Dependent Children (representing payments owed before that program was repealed) or GAC, and does not include a personal injury award, worker’s compensation, or similar award to the extent that it is earmarked and used for the purpose for which it was paid, such as payment of medical bills.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

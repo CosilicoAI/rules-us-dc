@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_205_10">
+        <akn:num>4-205.10</akn:num>
+        <akn:heading>TANF income eligibility standards.</akn:heading>
+<akn:subsection eId="subsec_4-205_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When the gross income of family applying for, or receiving TANF exceeds 100% of the standard of assistance for a family of the same composition, as set forth in § 4-205.52, the family is not eligible for assistance. Income deemed from stepparents shall be counted in gross family income to the extent permitted pursuant to § 4-205.22. Income deemed from an alien sponsor shall be counted in gross family income to the extent required by § 421 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, approved August 22, 1996 (110 Stat. 2105; 8 U.S.C. § 1631). Payments to correct underpayments to TANF or POWER recipients are not considered income or as a resource either in the month the payment is made or in the following month.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the gross income, computed pursuant to subsection (a) of this section, is 100% or less of the standard of assistance, financial conditions of eligibility shall be calculated in accordance with § 4-205.11, 4-205.29, 4-205.33(b), and 4-217.05.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

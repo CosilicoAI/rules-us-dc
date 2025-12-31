@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4509"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4509/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4509">
+        <akn:num>28-4509</akn:num>
+        <akn:heading>Indirect purchasers.</akn:heading>
+<akn:subsection eId="subsec_28-4509_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any indirect purchaser in the chain of manufacture, production, or distribution of goods or services, upon proof of payment of all or any part of any overcharge for such goods or services, shall be deemed to be injured within the meaning of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4509_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In actions where both direct and indirect purchasers are involved, a defendant shall be entitled to prove as a partial or complete defense to a claim for damages that the illegal overcharge has been passed on to others who are themselves entitled to recover so as to avoid duplication of recovery of damages.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4509_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In any case in which claims are asserted by both direct purchasers and indirect purchasers, the court may transfer and consolidate cases, apportion damages and delay disbursement of damages to avoid multiplicity of suits and duplication of recovery of damages, and to obtain substantial fairness.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

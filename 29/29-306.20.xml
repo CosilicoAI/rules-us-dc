@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.20"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.20/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_306_20">
+        <akn:num>29-306.20</akn:num>
+        <akn:heading>Meetings.</akn:heading>
+<akn:subsection eId="subsec_29-306_20_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The board of directors may hold regular or special meetings in or outside of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_20_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Unless the articles of incorporation or bylaws provide otherwise, the board of directors may permit any or all directors to participate in a regular or special meeting by, or conduct the meeting through the use of, any means of communication by which all directors participating may simultaneously hear each other during the meeting. A director participating in a meeting by this means shall be deemed to be present in person at the meeting.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

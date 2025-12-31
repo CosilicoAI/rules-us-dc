@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-208.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-208.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_208_01">
+        <akn:num>4-208.01</akn:num>
+        <akn:heading>Determination by Mayor; method of payment.</akn:heading>
+<akn:subsection eId="subsec_4-208_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon completion of the investigation pursuant to subchapter IX of this chapter, the Mayor shall determine whether the applicant is eligible for public assistance, the type and amount of public assistance for which he or she is eligible, and the date from which public assistance shall begin. The Mayor shall furnish public assistance with reasonable promptness to each person to whom the Mayor, in his or her discretion, provides public assistance. For the TANF, POWER, and GAC programs, an application for assistance shall be effective on the date that the application is filed. The amount payable for the initial month shall be prorated by multiplying the amount payable if payment were made for the entire month by the ratio of the days in the month including and following the date of application to the total number of days in a month.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-208_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Money payments of public assistance shall be made by check or electronic benefit transfer, except that in emergency cases money payments of public assistance may be made in cash, and to accomplish such purpose the Mayor may make necessary provisions for advancing from time to time to one or more officers or employees of the District such sum or sums as the Mayor may determine; provided, that no such advance shall be made to any such officer or employee who has not been previously bonded in such amount and form as the Mayor shall determine.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

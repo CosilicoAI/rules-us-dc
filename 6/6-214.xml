@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-214"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-214/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_214">
+        <akn:num>6-214</akn:num>
+        <akn:heading>Social services teams in public housing.</akn:heading>
+<akn:subsection eId="subsec_6-214_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Authority may, subject to availability of funds, develop a plan for the provision of social services within the Housing Properties which it owns, operates, or manages, and establish social service teams to implement that plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-214_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed to prohibit other District or United States government departments and agencies from providing social services to public housing residents.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

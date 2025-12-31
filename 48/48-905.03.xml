@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-905.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-905.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_905_03">
+        <akn:num>48-905.03</akn:num>
+        <akn:heading>Burden of proof.</akn:heading>
+<akn:subsection eId="subsec_48-905_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It is not necessary for the prosecution to negate any exemption or exception in this chapter in any complaint, information, indictment, or other pleading or in any trial, hearing, or other proceeding under this chapter. The burden of proof of any exemption or exception is upon the person claiming it.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-905_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the absence of proof that a person is the duly authorized holder of an appropriate registration or order form issued under this chapter, he or she is presumed not to be the holder of the registration or form. The burden of proof is upon him or her to rebut the presumption.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-905_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subsections (a) and (b) of this section shall not apply to D.C. Law 20-278.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

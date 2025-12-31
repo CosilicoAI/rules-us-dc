@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/13-443"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/13-443/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_13_443">
+        <akn:num>13-443</akn:num>
+        <akn:heading>Issuance of subpoena.</akn:heading>
+<akn:subsection eId="subsec_13-443_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To request issuance of a subpoena under this section, a party shall submit a foreign subpoena to the Clerk of the Superior Court. A request for the issuance of a subpoena under this chapter does not constitute an appearance in the courts of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_13-443_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When a party submits a foreign subpoena to the Clerk of the Superior Court, the clerk, in accordance with the Rules of the Superior Court, shall promptly issue a subpoena for service upon the person to which the foreign subpoena is directed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_13-443_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A subpoena under subsection (b) of this section shall:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

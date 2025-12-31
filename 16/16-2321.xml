@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2321"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2321/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2321">
+        <akn:num>16-2321</akn:num>
+        <akn:heading>Disposition of child with mental illness or a substantial intellectual disability.</akn:heading>
+<akn:subsection eId="subsec_16-2321_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If no previous examination has been made under section 16-2315 and the Division, after a factfinding but before a dispositional hearing, has reason to believe that a child has a mental illness or a substantial intellectual disability, it may order an examination as provided in section 16-2315.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2321_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If as a result of the examination the child is found to have a mental illness or a substantial intellectual disability, the Division may, in lieu of other disposition, direct the appropriate authority to initiate commitment proceedings under Chapter 5 or 11 of Title 21. The Division may order the child detained in suitable facilities pending commitment proceedings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2321_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the examination does not indicate that commitment proceedings should be initiated or if the proceedings do not result in commitment, the Division shall proceed to disposition pursuant to this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1373.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1373.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1373_02">
+        <akn:num>31-1373.02</akn:num>
+        <akn:heading>Reserve requirements.</akn:heading>
+<akn:subsection eId="subsec_31-1373_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1373_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A fire, casualty, and marine insurer shall supplement its annual statement with a reconciliation and summary of its assets and reserve requirements as required under subsection (a) of this section. A reconciliation and summary showing that an insurer’s assets as required under subsection (a) of this section are at least equal to its undiscounted reserves required under subsection (a) of this section shall be sufficient to satisfy this requirement. Upon prior notification, the Commissioner may require an insurer to submit the reconciliation and summary with any quarterly statement filed during the calendar year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1373_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a fire, casualty, and marine insurer’s assets and reserves is not in compliance with subsection (a) of this section, the insurer shall notify the Commissioner immediately of the amount by which the reserve requirements exceed the annual statement value of the qualifying assets, explain why the deficiency exists, and, within 30 days of the date of the notice, propose a plan of action to remedy the deficiency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1373_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

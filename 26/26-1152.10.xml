@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1152.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1152.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1152_10">
+        <akn:num>26-1152.10</akn:num>
+        <akn:heading>Charges in bad faith.</akn:heading>
+<akn:subsection eId="subsec_26-1152_10_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>For services that are not actually performed;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1152_10_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>For loan discount points which are not bona fide discount points; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1152_10_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>In violation of the Real Estate Procedures Settlement Act of 1974, approved December 22, 1974 (88 Stat. 1724; 12 U.S.C. § 2601 et seq.).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

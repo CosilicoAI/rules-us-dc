@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-708"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-708/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_708">
+        <akn:num>48-708</akn:num>
+        <akn:heading>Inspections.</akn:heading>
+<akn:subsection eId="subsec_48-708_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall conduct an on-site inspection of an applicant’s facility before a license is granted.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-708_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor, at any reasonable hour and consistent with constitutional guidelines, may enter a facility to conduct an announced or unannounced inspection of the facility to determine if the facility is in compliance with this chapter, the rules issued pursuant to this chapter, or any other District or locally enforceable federal law applicable to the manufacture, distribution, or wholesale of drugs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

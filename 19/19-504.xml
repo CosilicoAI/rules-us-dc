@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-504"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-504/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_504">
+        <akn:num>19-504</akn:num>
+        <akn:heading>Co-owners with right of survivorship; requirement of survival by 120 hours.</akn:heading>
+<akn:subsection eId="subsec_19-504_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>If it is not established by clear and convincing evidence that one of 2 co-owners with right of survivorship survived the other co-owner by 120 hours, one-half of the property passes as if one had survived by 120 hours and one-half as if the other had survived by 120 hours; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-504_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>If there are more than 2 co-owners and it is not established by clear and convincing evidence that at least one of them survived the others by 120 hours, the property passes in the proportion that one bears to the whole number of co-owners.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

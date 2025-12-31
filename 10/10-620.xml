@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-620"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-620/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_620">
+        <akn:num>10-620</akn:num>
+        <akn:heading>Construction Services Fund.</akn:heading>
+<akn:subsection eId="subsec_10-620_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established in the Treasury of the United States a permanent working fund, without fiscal year limitation, to be known as the Construction Services Fund, Department of General Services, District of Columbia. The Mayor is authorized to transfer to such Fund from capital outlay appropriations for public building construction such amounts as he may deem necessary to carry out the purposes of this section, and, subject to subsequent adjustment, advances and reimbursements may be made to such Fund from appropriations for services to other departments and agencies of the District government, without reference to fiscal year limitations on such appropriations. The Fund shall be available for expenses incurred in the initial planning for construction projects, for work performed under contract or otherwise, including, but not limited to, preliminary planning and related expenses, surveys, preparation of plans and specifications, soil investigation, administration, overhead, planning design, engineering, inspection, and contract management.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-620_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Council of the District of Columbia shall annually review the budget of the Construction Services Fund within 90 days after the annual District of Columbia Appropriations Act is enacted into law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-620_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Council of the District of Columbia, the Board of Higher Education, the Board of Vocational Education, the Board of Education, the Public Library Board, and the Executive Director of the District of Columbia Court System shall be kept fully advised, at least semiannually, of the status of projects and activities within their respective areas of concern which are financed from the Construction Services Fund.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

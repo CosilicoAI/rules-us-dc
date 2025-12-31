@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-392.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-392.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_392_09">
+        <akn:num>47-392.09</akn:num>
+        <akn:heading>Control periods described.</akn:heading>
+<akn:subsection eId="subsec_47-392_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Initiation. — For purposes of this Act, a “control period” is initiated upon the occurrence of any of the following events (as determined by the Authority based upon information obtained through the Mayor, the Inspector General of the District of Columbia, or such other sources as the Authority considers appropriate):</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-392_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Termination. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-392_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Control period deemed to exist upon enactment. — For purposes of this part, a control period is deemed to exist beginning April 17, 1995.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

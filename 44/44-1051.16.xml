@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1051.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1051.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1051_16">
+        <akn:num>44-1051.16</akn:num>
+        <akn:heading>Inspections and enforcement.</akn:heading>
+<akn:subsection eId="subsec_44-1051_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To verify compliance with this chapter or with regulations promulgated pursuant to this chapter, the Department is authorized to conduct inspections of a nurse staffing agency’s offices and operations, and to obtain records and other documentation from a nurse staffing agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1051_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the course of conducting an inspection of a nurse staffing agency, the Department shall investigate:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1051_16_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the Department ascertains that any of the nursing personnel provided or referred by a nurse staffing agency are not licensed or certified, as required, or that the agency has not developed, documented, and implemented the procedures required by § 44-1051.15, the Department shall take such corrective or enforcement action authorized by this chapter or by regulations promulgated pursuant to this chapter as it deems appropriate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

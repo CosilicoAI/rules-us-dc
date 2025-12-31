@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-621.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-621.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_621_07">
+        <akn:num>1-621.07</akn:num>
+        <akn:heading>Election of coverage.</akn:heading>
+<akn:subsection eId="subsec_1-621_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless an employee or annuitant affirmatively waives health insurance coverage, each employee or annuitant shall enroll in 1 of the approved health benefit plans under § 1-621.05 either as an individual or for self and family or provide evidence satisfactory to the Mayor that the employee or annuitant is covered under another health benefit plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-621_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an employee or annuitant has a spouse or domestic partner who is an employee or annuitant, either spouse or domestic partner but not both may enroll for self and family, or each spouse or domestic partner may enroll as an individual. An individual shall not be enrolled as an employee or annuitant and also as a member of a family.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-621_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An employee or an annuitant enrolled in a health benefit plan may change coverage by an application filed within 60 days of a change in family status or as otherwise permitted by rule promulgated by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-621_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An employee or annuitant may transfer enrollment from one health benefit plan to another health benefit plan under § 1-621.05 as permitted by rules promulgated by the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

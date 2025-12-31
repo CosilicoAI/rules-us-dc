@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2023.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2023.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2023_12">
+        <akn:num>38-2023.12</akn:num>
+        <akn:heading>Annuity increase.</akn:heading>
+<akn:subsection eId="subsec_38-2023_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The annuity of each person who, January 1, 1963, is receiving or entitled to receive an annuity from the District of Columbia Teachers’ Retirement and Annuity Fund shall be increased by 5% of the amount of such annuity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2023_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In lieu of any other increase provided by this section, the annuity of a survivor of a retired employee who received an increase under this section shall be increased by a percentage equal to the percentage by which the annuity of such employee was so increased.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2023_12_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No increase provided by this section shall be computed on any additional annuity purchased at retirement by voluntary contributions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2023_12_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The limitation contained in the next to the last sentence of § 38-2021.05(c) (1) shall not be effective on and after January 1, 1963.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2023_12_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The increases provided by this section shall take effect on January 1, 1963, except that any increase under subsection (b) or (c) of this section shall take effect on the beginning date of the annuity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2023_12_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>The monthly installment of annuity after adjustment under this section shall be fixed at the nearest dollar.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

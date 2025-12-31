@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4423"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4423/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4423">
+        <akn:num>47-4423</akn:num>
+        <akn:heading>Lien priority.</akn:heading>
+<akn:subsection eId="subsec_47-4423_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The lien imposed by § 47-4421 shall not be valid against a bona fide purchaser for value, holder of a security interest, mechanic’s lienor, or judgment lien creditor until the lien has been filed with the Recorder of Deeds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4423_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the case of business property sold, transferred, or assigned in bulk other than in the ordinary course of trade or business, the purchaser shall also be deemed to have notice of taxes owing if the purchaser fails to give timely notice to the Mayor under § 47-4461.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4423_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsection (a) of this section, the lien imposed by § 47-4421 for tax owing under Chapter 20 or § 47-1812.08 shall be valid against a purchaser, holder of a security interest, mechanic’s lienor, or judgment lien creditor regardless of when the lien is filed with the Recorder of Deeds; provided, that the lien shall not be valid against a bona fide purchaser for value of homestead real property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-831.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-831.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_831_03">
+        <akn:num>16-831.03</akn:num>
+        <akn:heading>Action for custody of a child by a de facto parent.</akn:heading>
+<akn:subsection eId="subsec_16-831_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A de facto parent may file a complaint for custody of a child or a motion to intervene in any existing action involving custody of the child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-831_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An individual who establishes that he or she is a de facto parent by clear and convincing evidence shall be deemed a parent for the purposes of §§ 16-911, 16-914, 16-914.01, and 16-916, and for the purposes of this chapter if a third party is seeking custody of the child of the de facto parent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-831_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

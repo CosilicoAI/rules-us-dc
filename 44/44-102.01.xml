@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-102.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-102.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_102_01">
+        <akn:num>44-102.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_44-102_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Activities of Daily Living” or “ADLs” means activities including eating, bathing, toileting, grooming, dressing, undressing, mobility, and in place transfers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Aging in place” means minimizing the circumstances which require a person to move to a different setting when his or her condition changes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Assistant Living Administrator” or “ALA” means the licensee, or a person designated by the licensee, who oversees the day-to-day operation of the facility, including compliance with all regulations for licensed assisted living residences.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Assisted Living Residence” or “ALR” means an entity, whether public or private, for profit or not for profit, that combines housing, health, and personalized assistance, in accordance to individually developed service plans, for the support of individuals who are unrelated to the owner or operator of the entity. “Assisted Living Residence” or “ALR” does not include a group home for persons with intellectual disabilities as defined in § 44-501(5) or a mental health community residence facility as that term is used in Chapter 38 of Title 22 of the District of Columbia Municipal Regulations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Change of ownership” means the transfer of ownership by an individual, partnership, or association to another and includes transfers of the legal or beneficial ownership of 10% or more of the stock of a corporation that owns or operates an ALR.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Chemical restraint” means the use of a psychopharmacologic drug for a purpose other than to treat a standard psychiatric diagnosis whose criteria are set forth by the American Psychiatric Association.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Cognitive impairment” means the loss of those mental processes that orchestrate relatively simple ideas, movements, or actions into goal directed behavior including a lack of judgment, planning, organization, self-control, and the persistence needed to manage normal demands of the individual’s environment. “Cognitive impairment” refers to a condition that interferes with decision-making skills or effective communication including Alzheimer’s disease, multi-infarct dementia, stroke, Parkinson’s disease, and other neurological conditions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Functional assessment” means an assessment of a resident’s ability to perform activities of daily living, instrumental activities of daily living, and the degree of assistance required, if any.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Health-Care Licensure Act” means subchapter I of Chapter 5 of this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Health-Care Protection Act” means Chapter 10 of this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Healthcare practitioner” means a person licensed as a physician or nurse practitioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“Healthcare provider” means a healthcare practitioner, home health agency, hospice, rehabilitation agency, or health management organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“In place transfer” means movements that involve changes in position in place. “In place transfer” includes an activity such as moving from a bed to a wheelchair or regular chair, moving from a wheelchair to a toilet, bathtub, shower, or car, and moving from a wheelchair, regular chair, or toilet seat to a standing position.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“Individualized Service Plan” or “ISP” means a written plan developed by the provider, in conjunction with the resident and his or her surrogate, if appropriate, which identifies, among other things, services that the licensee will provide or arrange for the resident.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“Instrumental Activities of Daily Living” or “IADL” means daily activities such as housekeeping, meal preparation, shopping, money management, and travel outside the ALR.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_16">
+      <akn:num>(16)</akn:num>
+      <akn:content><akn:p>“Licensee” means any person, association, partnership, or corporation to which a license is issued pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_17">
+      <akn:num>(17)</akn:num>
+      <akn:content><akn:p>“Physical restraint” means any manual method or physical or mechanical device, material, or equipment attached to or adjacent to the resident’s body, such as mitts or vests, that the individual cannot remove easily and which restricts freedom of movement or normal access to one’s own body.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_18">
+      <akn:num>(18)</akn:num>
+      <akn:content><akn:p>“Physician’s statement” means the form approved by the Mayor pursuant to § 44-108.02(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_19">
+      <akn:num>(19)</akn:num>
+      <akn:content><akn:p>“Resident” means an individual admitted to an ALR pursuant to subchapter VI of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_20">
+      <akn:num>(20)</akn:num>
+      <akn:content><akn:p>“Resident agreement” means the admission agreement between the resident, the resident’s surrogate, when appropriate, and the assisted living residence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_21">
+      <akn:num>(21)</akn:num>
+      <akn:content><akn:p>“Shared responsibility” means a process by which the resident, or the resident’s surrogate, and the ALR arrive at an acceptable balance between the resident’s desire for independence and the facility’s legitimate concerns for safety, where there is a disagreement. The purpose of “shared responsibility” is to provide complete information to the resident and the surrogate so that the parties can arrive at an informed agreement of which services are to be provided and in what manner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_22">
+      <akn:num>(22)</akn:num>
+      <akn:content><akn:p>“Shared responsibility agreement” means a formal written agreement that outlines the responsibilities and actions of all parties. The agreement is a process for resolving discrepancies between the individual resident’s right to independence and the provider’s concerns for the safety and well being of the individual and others.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_23">
+      <akn:num>(23)</akn:num>
+      <akn:content><akn:p>“Surrogate” means a person designated by a resident to act on the resident’s behalf pursuant to law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-102_01_24">
+      <akn:num>(24)</akn:num>
+      <akn:content><akn:p>“Trained Medication Employee” or “TME” means an individual employed to work in an ALR who has successfully completed the training program developed by the Mayor pursuant to § 44-109.06 and who is certified to administer medication to residents.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

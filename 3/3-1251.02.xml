@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1251.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1251.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1251_02">
+        <akn:num>3-1251.02</akn:num>
+        <akn:heading>Formation of Committee on Impaired Nurses.</akn:heading>
+<akn:subsection eId="subsec_3-1251_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A Committee on Impaired Nurses is established to supervise operation of the Program. The Committee shall be composed of 5 nurses licensed in the District of Columbia who shall be appointed by the Board. The Board may establish additional committees as may be necessary to perform the functions described in this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1251_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All members of the Committee shall be knowledgeable about impairment and rehabilitation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1251_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The members of the Committee shall be appointed for a 3-year term, except in the first year of any Committee, when the terms shall be staggered. At the end of a term, a member shall continue to serve until a successor is appointed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1251_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A Committee member who is appointed after a term has begun, or to replace a former member of the Committee, shall serve for the rest of the term of his or her predecessor. The appointed member shall continue to serve until a successor is appointed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1251_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Board may appoint a Committee member for successive terms.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1251_02_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The Committee shall select a chairperson from among its members.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1251_02_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>The Board may remove a Committee member for cause.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1251_02_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>The Board shall review and approve all procedures established by the Committee.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

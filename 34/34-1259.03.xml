@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1259.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1259.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1259_03">
+        <akn:num>34-1259.03</akn:num>
+        <akn:heading>Periodic evaluations; performance hearings.</akn:heading>
+<akn:subsection eId="subsec_34-1259_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>At least once every 3 years following the grant of a franchise, the Office shall conduct a performance evaluation of the cable operator and the cable system. The evaluation shall include a public hearing to allow public comment on the cable operator’s performance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1259_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>During the evaluation process, a cable operator shall fully cooperate with the Office, and shall provide all information and documents the Office needs to reasonably perform its review, including information and documents that may be considered proprietary or confidential.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1259_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If any books, records, maps, plans, or other requested documents are voluminous, or for security reasons cannot be copied and moved, then the cable operator may request that the inspection take place at another location; provided, that the cable operator shall make necessary arrangements for copying documents selected by the Office after review, and the cable operator shall pay all travel and additional copying expenses incurred by the Office in inspecting those documents or having those documents inspected by its designee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1259_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Office may hold a hearing on the performance of a cable operator, or a specific aspect of the performance of a cable operator, at any time.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

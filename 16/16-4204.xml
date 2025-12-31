@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4204"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4204/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4204">
+        <akn:num>16-4204</akn:num>
+        <akn:heading>Waiver and preclusion of privilege.</akn:heading>
+<akn:subsection eId="subsec_16-4204_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A privilege under § 16-4203 may be waived in a record or orally during a proceeding if it is expressly waived by all parties to the mediation and:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4204_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person that discloses or makes a representation about a mediation communication which prejudices another person in a proceeding is precluded from asserting a privilege under § 16-4203, but only to the extent necessary for the person prejudiced to respond to the representation or disclosure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4204_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person that intentionally uses a mediation to plan, attempt to commit, or commit a crime, or to conceal an ongoing crime or ongoing criminal activity, is precluded from asserting a privilege under § 16-4203.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

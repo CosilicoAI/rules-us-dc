@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2707"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2707/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2707">
+        <akn:num>31-2707</akn:num>
+        <akn:heading>Information to be furnished to insured or Commissioner; grievance procedure.</akn:heading>
+<akn:subsection eId="subsec_31-2707_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every rating organization and every company which makes its own rates shall, within a reasonable time after receiving written request therefor and upon payment of such reasonable charge as it may make, furnish to any insured affected by a rate made by it, or to the authorized representative of such insured, all pertinent information as to such rate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2707_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Every rating organization and every company which makes its own rates shall provide within the District reasonable means whereby any person aggrieved by the application of its rating system may be heard, in person or by his authorized representative, on his written request to revise the manner in which such rating system has been applied in connection with the insurance afforded him. If the rating organization or company fails to grant or reject such request within 30 days after it is made, the applicant may proceed in the same manner as if his application had been rejected. Any party affected by the action of such rating organization or such company on such request may, within 30 days after written notice of such action, appeal to the Commissioner, who, after a hearing held upon not less than 10 days written notice to the appellant and to such rating organization or company, may affirm or reverse such action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2707_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No company, agent, broker, or rating organization may willfully withhold required information from or give false or misleading information to the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2707_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No company, agent, or broker shall fail to furnish to an insured any policy or comparable evidence of insurance to which the insured is entitled.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

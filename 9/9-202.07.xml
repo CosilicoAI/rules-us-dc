@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-202.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-202.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_202_07">
+        <akn:num>9-202.07</akn:num>
+        <akn:heading>Publication of notice of hearing; written notice to involved advisory neighborhood commission.</akn:heading>
+<akn:subsection eId="subsec_9-202_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>At least 15 days prior to a public hearing to consider an application to close all or part of a street or alley, the Council shall publish notice of the public hearing in the D.C. Register and shall give written notice of the public hearing to the advisory neighborhood commission(s) in whose commission area the street and alley to be closed is located.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-202_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>At least 15 days and no more than 6 months prior to final consideration by the Council of proposed legislation to close all or part of a street or alley which has not been the subject of a public hearing, the Council shall give written notice of the Council’s intent to consider the proposed legislation to the advisory neighborhood commission(s) in whose commission area the street and alley to be closed is located.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

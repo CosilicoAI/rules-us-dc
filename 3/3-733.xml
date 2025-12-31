@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-733"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-733/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_733">
+        <akn:num>3-733</akn:num>
+        <akn:heading>Duties of the Commission.</akn:heading>
+<akn:subsection eId="subsec_3-733_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commission shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-733_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commission shall devise policies and procedures that will effectively address the social economic concerns of fathers, men, and boys, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-733_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commission may apply for and receive grants to fund programs and initiatives in accordance with procedures relating to grants management, District government statutes, regulations, Mayor’s Orders, and procedures as specified by the Office of the Chief Financial Officer, the Office of Partnerships and Grant Services, and the Office of Contracting and Procurement and to recommend to the Mayor and Council applications for federal grants-in-aid for fatherhood, children, and family initiatives.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-733_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Commission may accept private gifts and donations to carry out the purposes of this chapter in compliance with the procedures and requirements of the Office of Partnerships and Grant Services.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

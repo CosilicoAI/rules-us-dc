@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2703.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2703.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2703_05">
+        <akn:num>42-2703.05</akn:num>
+        <akn:heading>Supportive programs.</akn:heading>
+<akn:subsection eId="subsec_42-2703_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Agency may establish, administer or contract for the administration of any program which assists sponsors or eligible persons, “or Eligible State or Local Government Units”, as determined by the Agency consistent with the declarations of policy under § 42-2701.01 and the delegation of authority under § 42-2702.06.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2703_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Agency may establish, administer, or contract for the administration of any program that involves providing loans or other financial assistance directly by the Agency or by an entity established by the Agency under this chapter or indirectly through an Agency-approved financial institution, to persons residing within any state or political subdivision thereof within the meaning of section 103 of the Internal Revenue Code of 1986, approved August 16, 1954 (68A Stat. 29; 26 U.S.C. § 103) (or successor provisions), which loan or other financial assistance is eligible for, or made in conjunction with the provision of, mortgage insurance under any program of the Department of Housing and Urban Development or meets the guidelines established by Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Department of Veterans Affairs, or the Rural Development Agency, and which loan or other financial assistance will result in the generation of revenues that will benefit programs authorized under this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-604"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-604/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_604">
+        <akn:num>4-604</akn:num>
+        <akn:heading>Enforcement of right; waiver.</akn:heading>
+<akn:subsection eId="subsec_4-604_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In enforcing its right to reimbursement, the District may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-604_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may waive, in whole or in part, enforcement of the District’s claim against a third party if enforcement in a particular case would not be cost effective or would result in undue hardship to the beneficiary, including any dependents or survivors of the actual recipient of health-care assistance. If waiver is based on the avoidance of undue hardship, the Mayor may in addition void the legal subrogation or assignment effected pursuant to § 4-602(b). In determining whether, and to what extent, reimbursement should be sought or awarded under this chapter, the Mayor or a court, respectively, shall give due consideration to the extent of the beneficiary’s injuries and his or her current and future needs, including the current and future needs of any dependents or survivors of the actual recipient of health-care assistance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-604_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No proceeding prosecuted or judgment received by the District pursuant to this chapter shall be a bar to a beneficiary’s claim or cause of action for elements of damage not covered by the District’s cause of action, or shall operate to deny the beneficiary recovery of those elements of damage.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

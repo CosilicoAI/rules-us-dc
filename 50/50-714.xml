@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-714"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-714/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_714">
+        <akn:num>50-714</akn:num>
+        <akn:heading>Operational incentives for clean-fuel fleets.</akn:heading>
+<akn:subsection eId="subsec_50-714_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Clean-fuel vehicles operated by covered fleet operators shall be exempt from measures which restrict vehicle usage based primarily on temporal considerations, such as time-of-day and day-of-week restrictions and commercial vehicle bans. This exemption does not include access to High-Occupancy Vehicle lanes, except as provided in subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-714_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A fleet vehicle which has been certified by the Environmental Protection Agency as an ILEV, is operated by a covered fleet, and continues to be in compliance with applicable ILEV emission standards shall be exempt from High-Occupancy Vehicle lane restrictions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-714_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may issue any regulations the Mayor considers necessary for implementing the exemptions provided for in this section within 45 days after March 14, 1995. The exemptions shall be available to covered fleet vehicles upon the adoption of such regulations.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

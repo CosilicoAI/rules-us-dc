@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-531.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-531.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_531_13">
+        <akn:num>24-531.13</akn:num>
+        <akn:heading>General provisions.</akn:heading>
+<akn:subsection eId="subsec_24-531_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall preclude a person confined under the authority of this chapter from establishing his or her eligibility for release under the provisions of this chapter by a writ of habeas corpus.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-531_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The provisions of this chapter shall supersede in the District of Columbia the provisions of any federal statutes or parts thereof inconsistent with this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-531_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When a person has been ordered confined in a hospital for the mentally ill pursuant to this chapter and has escaped from such hospital, the court which ordered confinement shall, upon request of the government, order the return of the escaped person to such hospital. The return order shall be effective throughout the United States. Any federal judicial officer within whose jurisdiction the escaped person shall be found shall, upon receipt of the return order issued by the committing court, cause such person to be apprehended and delivered up for return to such hospital.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

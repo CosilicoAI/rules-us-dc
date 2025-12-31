@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-702"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-702/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_702">
+        <akn:num>23-702</akn:num>
+        <akn:heading>Procedure on arrest of fugitives.</akn:heading>
+<akn:subsection eId="subsec_23-702_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person arrested upon a warrant issued pursuant to section 23-701, or arrested within the District of Columbia as a fugitive from justice without a warrant having been issued, shall be taken before the Criminal Division of the Superior Court for preliminary examination on a complaint charging him as a fugitive.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-702_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If, upon the examination of the person charged, it shall appear to the court that there is reasonable cause to believe that the complaint is true and that the person may be lawfully demanded of the chief judge, the person shall be detained or released according to law, in like manner as if the offense had been committed in the District of Columbia, to appear before the court at a future date, allowing thirty days to obtain a requisition from the Governor of the State from which the person is a fugitive. The complaint of fugitivity from another jurisdiction shall create a presumption that the person is unlikely to appear if released, which may be overcome only by clear and convincing proof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-702_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the person so released or detained shall appear before the court upon the day ordered, he shall be discharged, unless he shall be demanded by requisition, pursuant to subsection (g) of this section or section 23-704, or unless the court shall find cause to detain or to release him as provided by subsection (b) of this section until a later day; but regardless of whether the person shall be detained or released as provided in subsection (b) of this section or discharged, his delivery to any person authorized by the warrant of the Governor shall be a discharge of any bond or obligation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-702_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Chief of Police of the Metropolitan Police Department shall give notice to the police official or sheriff of the city or county from which the person is a fugitive that the person is so held in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-702_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A person detained as provided by this section shall not be detained in jail longer than to allow a reasonable time for the person receiving the notice required by subsection (d) of this section to apply for and obtain a proper requisition for the person detained according to the circumstances of the case and the distance of the place where the offense is alleged to have been committed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-702_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-702_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>If a person has not waived further proceedings pursuant to subsection (f) of this section, and a requisition from the Governor of the jurisdiction from which the person is a fugitive is presented to the court, the court shall order the requisition to be filed and referred to the chief judge for extradition proceedings pursuant to section 23-704, and shall order the person committed pending those proceedings.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

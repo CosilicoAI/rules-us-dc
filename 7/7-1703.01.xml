@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1703.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1703.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1703_01">
+        <akn:num>7-1703.01</akn:num>
+        <akn:heading>Designated nonsmoking areas in restaurants; new construction and major renovation to existing restaurants; smoking areas.</akn:heading>
+<akn:subsection eId="subsec_7-1703_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (b) of this section, the owner, manager, or person in charge of any restaurant having a seating capacity of 50 or more shall designate at least 25% of the total seating capacity as a nonsmoking area. Bar and lounge seating in the restaurant is excluded from this total seating capacity calculation. Smoking shall be prohibited in these nonsmoking areas even if, after a certain hour, food is no longer served.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1703_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any new construction for the purpose of establishing a restaurant or major renovation, performed on or after March 29, 1988, to an existing restaurant, which has a seating capacity of 50 or more, shall contain a nonsmoking area that is at least 50% of the total seating capacity. Bar and lounge seating in the restaurant is excluded from this total seating capacity calculation. Smoking shall be prohibited in these nonsmoking areas even if, after a certain hour, food is no longer served. In accordance with § 7-1705(c), the Mayor shall define the term “major renovation”.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1703_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

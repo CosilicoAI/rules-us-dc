@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-702.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-702.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_702_07">
+        <akn:num>7-702.07</akn:num>
+        <akn:heading>Immunity from liability.</akn:heading>
+<akn:subsection eId="subsec_7-702_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No employee, designee, or representative of the program shall be held liable for the good faith performance of responsibilities under this chapter, except that no immunity shall extend to criminal acts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-702_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-702_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No communication made by the ombudsman or his or her designee, if reasonably related to the requirements of his or her responsibilities, shall be subject to civil action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-702_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

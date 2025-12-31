@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4472"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4472/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4472">
+        <akn:num>47-4472</akn:num>
+        <akn:heading>Notice and sale.</akn:heading>
+<akn:subsection eId="subsec_47-4472_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After seizure of property, notice in writing shall be given by the Mayor to the owner of the property (or, in the case of personal property, the possessor of the property), or shall be left at his usual place of abode or business. If the owner cannot be readily located, or has no dwelling or place of business, the notice may be mailed to his last known address.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4472_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>After giving notice to the owner in the manner prescribed in subsection (a) of this section, the Mayor shall publish a notice 3 times in a daily newspaper of general circulation within the area wherein the seizure is made. The notice shall specify the property to be sold, and the time, place, manner, and conditions of the sale thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4472_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If property subject to levy is not divisible, so as to enable the Mayor by sale of a part thereof to raise the whole amount of the tax and expenses, the whole of the property shall be sold.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4472_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The time of sale shall not be less than 10 days or more than 40 days from the date of the third public notice under subsection (b) of this section. The place of sale shall be determined by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4472_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

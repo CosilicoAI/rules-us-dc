@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-306"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-306/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_306">
+        <akn:num>28:8-306</akn:num>
+        <akn:heading>Effect of guaranteeing signature, indorsement, or instruction.</akn:heading>
+<akn:subsection eId="subsec_28:8-306_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person who guarantees a signature of an indorser of a security certificate warrants that at the time of signing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-306_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person who guarantees a signature of the originator of an instruction warrants that at the time of signing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-306_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person who specially guarantees the signature of an originator of an instruction makes the warranties of a signature guarantor under subsection (b) of this section and also warrants that at the time the instruction is presented to the issuer:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-306_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A guarantor under subsections (a) and (b) of this section or a special guarantor under subsection (c) of this section does not otherwise warrant the rightfulness of the transfer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-306_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A person who guarantees an indorsement of a security certificate makes the warranties of a signature guarantor under subsection (a) of this section and also warrants the rightfulness of the transfer in all respects.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-306_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A person who guarantees an instruction requesting the transfer of an uncertificated security makes the warranties of a special signature guarantor under subsection (c) of this section and also warrants the rightfulness of the transfer in all respects.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-306_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>An issuer may not require a special guaranty of signature, a guaranty of indorsement, or a guaranty of instruction as a condition to registration of transfer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-306_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>The warranties under this section are made to a person taking or dealing with the security in reliance on the guaranty, and the guarantor is liable to the person for loss resulting from their breach. An indorser or originator of an instruction whose signature, indorsement, or instruction has been guaranteed is liable to a guarantor for any loss suffered by the guarantor as a result of breach of the warranties of the guarantor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

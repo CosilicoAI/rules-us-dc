@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-384"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-384/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_384">
+        <akn:num>47-384</akn:num>
+        <akn:heading>Notice of application for grant funds.</akn:heading>
+<akn:subsection eId="subsec_47-384_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall monthly give notice to the Council of every proposed application for grant funds or state plan approved by the Mayor. In giving notice to the Council, the Mayor shall provide a summary of a grant application’s major provisions including, but not limited to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-384_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall monthly provide public notice of grant applications in the D.C. Register in accordance with the provisions of the District of Columbia Administrative Procedure Act (§ 2-505); and such public notice shall also be provided by the presiding officer of the governing bodies of those agencies identified in § 47-383(b); and such notice shall include, but not be limited to, a summary of the information required pursuant to subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

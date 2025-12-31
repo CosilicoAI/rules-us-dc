@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1358"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1358/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1358">
+        <akn:num>3-1358</akn:num>
+        <akn:heading>Use of budget authority.</akn:heading>
+<akn:subsection eId="subsec_3-1358_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commission may use its budget authority:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1358_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Grants and financial support pursuant to § 3-1354(1) shall be used to complement, not supplement, existing resources, and to expand or encourage new initiatives to reduce the incidence of motor vehicle theft in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-620.32"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-620.32/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_620_32">
+        <akn:num>1-620.32</akn:num>
+        <akn:heading>Employee testing.</akn:heading>
+<akn:subsection eId="subsec_1-620_32_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The following individuals shall be tested by the District government for drug and alcohol use:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_32_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The District shall subject District employees in safety-sensitive positions to random testing, unless a District agency has additional requirements for drug and alcohol testing of its employees, in which case the stricter requirements shall apply.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_32_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Supervisors shall be trained in substance abuse recognition and shall receive a second opinion from another supervisor prior to making a reasonable suspicion referral.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_32_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>District employees shall be given written notice that the District is implementing a drug and alcohol testing program at least 30 days in advance of implementation of the program. Upon receipt of a written notice of the program, each employee shall be given one opportunity to seek treatment, if he or she has a drug or alcohol problem.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_32_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>No employee may be tested under this subchapter for drug or alcohol use prior to receiving the notice required by subsection (d) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_32_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Following the issuance of the 30-day written notice required by subsection (d) of this section, the Mayor shall procure a testing vendor and testing shall be implemented as described in this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

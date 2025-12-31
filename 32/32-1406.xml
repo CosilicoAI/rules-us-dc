@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1406"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1406/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1406">
+        <akn:num>32-1406</akn:num>
+        <akn:heading>Apprenticeship committees.</akn:heading>
+<akn:subsection eId="subsec_32-1406_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Local joint apprenticeship committees and non-joint apprenticeship committees in any trade or group of trades may be submitted to the Registration Agency for approval. Such apprenticeship committees shall be composed of an equal number of employer and employee representatives appointed by the groups or organizations they represent, or the committee may consist of the employer and not fewer than 2 representatives from the recognized bargaining agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1406_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In a trade or group of trades in which there is no bona fide employee organization, the Registration Agency, with the advice and guidance of the Apprenticeship Council, may approve a joint trade apprenticeship committee and a non-joint apprenticeship committee (also referred to as a unilateral or group non-joint committee).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1406_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to the approval of the Registration Agency, and in accordance with standards established by or under authority of this subchapter, joint trade apprenticeship committees and non-joint apprenticeship committees may develop standards to govern the training of apprentices and give such aid as may be necessary to effectuate the standards.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

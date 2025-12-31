@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-321"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-321/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_321">
+        <akn:num>28:2-321</akn:num>
+        <akn:heading>C.I.F. or C. &amp; F.: “net landed weights”; “payment on arrival”; warranty of condition on arrival.</akn:heading>
+<akn:subsection eId="subsec_28:2-321_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Where the price is based on or is to be adjusted according to “net landed weights”, “delivered weights”, “out turn” quantity or quality or the like, unless otherwise agreed the seller must reasonably estimate the price. The payment due on tender of the documents called for by the contract is the amount so estimated, but after final adjustment of the price a settlement must be made with commercial promptness.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-321_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>An agreement described in subsection (1) or any warranty of quality or condition of the goods on arrival places upon the seller the risk of ordinary deterioration, shrinkage and the like in transportation but has no effect on the place or time of identification to the contract for sale or delivery or on the passing of the risk of loss.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-321_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Unless otherwise agreed where the contract provides for payment on or after arrival of the goods the seller must before payment allow such preliminary inspection as is feasible; but if the goods are lost delivery of the documents and payment are due when the goods should have arrived.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

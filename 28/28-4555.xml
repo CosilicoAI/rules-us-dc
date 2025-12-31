@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4555"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4555/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4555">
+        <akn:num>28-4555</akn:num>
+        <akn:heading>Judicial remedies.</akn:heading>
+<akn:subsection eId="subsec_28-4555_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any affected party, including the District of Columbia, shall have standing to file a civil suit in a court of competent jurisdiction for a violation of this chapter and to seek a remedy, including declaratory and injunctive relief. If the District of Columbia is the plaintiff, it may seek remedies on its own behalf, on behalf of all residents of the District of Columbia, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4555_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a judge of a court of competent jurisdiction finds that there has been excessive pricing in a suit filed by an affected party, the judge shall levy the appropriate civil penalties and may order, if supported by the evidence:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

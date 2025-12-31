@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-609.52"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-609.52/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_609_52">
+        <akn:num>1-609.52</akn:num>
+        <akn:heading>Composition.</akn:heading>
+<akn:subsection eId="subsec_1-609_52_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each individual (except for employees appointed pursuant to §§ 1-609.01 to 1-609.08 or subchapters VIII-A, VIII-B, or X-A of this chapter, employees of the Board of Education, employees of the Board of Trustees of the University of the District of Columbia, and uniformed members of the Metropolitan Police Department or the D.C. Fire and Emergency Medical Services Department) who meets the definition of “management employee” pursuant to § 1-614.11(5) shall be in the Management Supervisory Service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-609_52_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Consistent with the provisions of subchapter XVII of this chapter, any individual occupying a position included in a recognized collective bargaining unit shall not be included in the Management Supervisory Service.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

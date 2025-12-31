@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3821"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3821/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3821">
+        <akn:num>31-3821</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-3821_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Aggregate attachment point” means the total amount of health claims incurred by a small employer in a policy year for all covered employees and their dependents, and covered by a stop-loss insurance policy, above which the stop-loss insurer incurs a liability for payment under aggregate stop-loss coverage.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3821_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Attachment point” means the claims amount incurred by an insured group beyond which the insurer incurs a liability for payment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3821_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Commissioner” means the Commissioner of the Department of Insurance, Securities and Banking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3821_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Expected claims” means the total amount of claims that, in the absence of medical stop-loss insurance, are projected to be incurred by the insured using reasonable and accepted actuarial principles in a policy year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3821_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Individual attachment point” means the amount of health claims incurred by a small employer in a policy year for an individual employee or dependent of an employee, and covered by a stop-loss insurance policy, above which the stop-loss insurer incurs a liability for payment, under individual stop-loss coverage.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3821_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Stop-loss insurance” means coverage that insures an employer or an employer-sponsored health plan against the risk that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-802"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-802/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_802">
+        <akn:num>6-802</akn:num>
+        <akn:heading>Unsafe structure or excavation — Survey of premises.</akn:heading>
+<akn:subsection eId="subsec_6-802_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When the public safety does not, in the judgment of the Mayor, demand immediate action, if the owner, agent, or other party interested in an unsafe structure, except for a deteriorated structure under subchapter II of Chapter 31C of Title 42, or excavation, having been notified, shall refuse or neglect to comply with the requirements of said notice within the time specified, then a careful survey of the premises shall be made by 3 disinterested persons, 1 to be appointed by the Mayor of the District of Columbia, 1 by the owner or other person interested, and the 3rd to be chosen by these 2, and the report of said survey shall be reduced to writing, and a copy served upon the owner or other interested party; and if said owner or other interested party refuses or neglects to appoint a member of said board of survey within the time specified in said notice, then the survey shall be made by the Mayor, and the person chosen by the Mayor, and in case of disagreement they shall choose a 3rd person and the determination of a majority of the 3 so chosen shall be final.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-802_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the building or structure is an historic landmark or is located within an historic district, as defined in § 6-1102(5), the Mayor shall include as a 4th member of the board an architect or historic architect who meets the professional qualifications set forth in 36 C.F.R. § 61.4(f)(1). For the purposes of compliance with this subsection, the Mayor may designate a representative of the State Historic Preservation Officer, as defined in § 6-1102(12).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

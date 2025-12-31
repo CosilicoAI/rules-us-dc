@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-331"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-331/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_331">
+        <akn:num>25-331</akn:num>
+        <akn:heading>Quotas — Off-premises retail licenses.</akn:heading>
+<akn:subsection eId="subsec_25-331_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The number of off-premises retailer’s licenses, class A, shall be no more than 250.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-331_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The number of off-premises retailer’s licenses, class B, shall be no more than 300.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-331_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The quotas set forth in this section shall have a prospective effect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-331_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The quotas set forth in subsection (b) of this section shall not prohibit the issuance of a license for an off-premises retailer’s license, Class B, for the sale of alcoholic beverages in an establishment if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

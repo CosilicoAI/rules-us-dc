@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-606.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-606.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_606_07">
+        <akn:num>1-606.07</akn:num>
+        <akn:heading>Arbitration.</akn:heading>
+<akn:subsection eId="subsec_1-606_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The parties may agree in writing to arbitrate the dispute rather than have the Office adjudicate the case. An agreement by the parties to arbitrate the dispute must be reached within 30 days, excluding Saturdays, Sundays, and legal holidays, of the date the appeal was filed with the Office. Failure to reach an agreement to arbitrate shall result in the appeal being adjudicated by the Office.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-606_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the parties agree to arbitrate the dispute, the Office shall immediately forward the matter to the American Arbitration Association (“AAA”). The dispute shall be arbitrated in accordance with the Voluntary Labor Arbitration Rules of the AAA, except that a hearing on the dispute shall be held no later than 60 days from the date the dispute is referred to AAA.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-606_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When an employee who is a party to the dispute is not a member of a collective bargaining unit, the District shall bear the filing fee and the costs of the arbitration, including the arbitrator’s fee. When an employee who is a party to the dispute is a member of a collective bargaining unit, the terms of the collective bargaining agreement and § 1-616.52(d) shall govern with respect to the filing fee and the costs of arbitration.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-606_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The decision of the arbitrator may be appealed to the Superior Court of the District of Columbia within 30 days of issuance of the decision. The Court shall vacate the arbitration award if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

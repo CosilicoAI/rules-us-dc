@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2603"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2603/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2603">
+        <akn:num>34-2603</akn:num>
+        <akn:heading>Environmental impact statement requirements.</akn:heading>
+<akn:subsection eId="subsec_34-2603_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a public utility proposes an action, it shall prepare and transmit to the Commission a detailed environmental impact statement within 60 days following the submission of the proposal. The environmental impact statement shall describe in detail the proposed action, the necessity for the proposed action, and a brief discussion of the following factors:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2603_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The environmental impact statement shall be considered in addition to any Department of Consumer and Regulatory Affairs’ decision regarding the environmental impact of the action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2603_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For any proposed action that is subject to this chapter, including but not limited to new plant construction or the expansion of an existing plant, the public utility shall perform an analysis that identifies the cumulative risk of adverse health effects from any existing and projected emissions of pollutants from the proposed action. If the Commission determines, on the basis of the analysis and any other information submitted at any public hearing on the pending application, that the addition of the new facility may create an unacceptable risk of adverse health effects, the Commission shall require the public utility to submit the following information:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2603_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For a proposed action that is the subject of an application pending on October 19, 1989, the public utility shall prepare and submit an environmental impact statement within 30 days of October 19, 1989. To the maximum extent practicable, the statement shall rely on environmental information available on October 19, 1989. The Commission may require the public utility to submit any additional information that, in the Commission’s judgment, is needed to satisfy the requirements set forth in subsection (a) of this section or to enable the Commission to make its decision concerning the reasonable safety and adequacy of the proposed facility.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

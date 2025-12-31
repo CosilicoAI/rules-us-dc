@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-632.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-632.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_632_01">
+        <akn:num>1-632.01</akn:num>
+        <akn:heading>Continuation of personnel rules and regulations.</akn:heading>
+<akn:subsection eId="subsec_1-632_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All personnel rules and regulations, issued under appropriate authority on or before the date that this section becomes effective as provided in subsection (b) of § 1-636.02, shall continue in full force and effect until superseded by a provision of this chapter. All administrative directives of whatever name issued by any personnel authority or the Chiefs of the Metropolitan Police Department or the District of Columbia Fire Department in effect on the date that this section becomes effective as provided in subsection (b) of § 1-636.02 shall remain in effect until superseded by a provision of this chapter. Such existing rules and regulations may be amended in accordance with existing provisions of law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-632_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Persons employed by the District of Columbia government after March 3, 1979, shall be appointed under existing authority until the provisions of this chapter become effective.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

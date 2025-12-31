@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3862"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3862/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3862">
+        <akn:num>31-3862</akn:num>
+        <akn:heading>Private reimbursement.</akn:heading>
+<akn:subsection eId="subsec_31-3862_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A health insurer offering a health benefits plan in the District may not deny coverage for a healthcare service on the basis that the service is provided through telehealth if the same service would be covered when delivered in person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3862_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A health insurer shall reimburse the provider for the diagnosis, consultation, or treatment of the insured when the service is delivered through telehealth.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3862_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A health insurer shall not be required to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3862_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A health insurer may require a deductible, copayment, or coinsurance amount for a healthcare service delivered through teleheath; provided, that the deductible, copayment, or coinsurance amount may not exceed the amount applicable to the same service when it is delivered in person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3862_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A health insurer shall not impose any annual or lifetime dollar maximum on coverage for telehealth services other than an annual or lifetime dollar maximum that applies in the aggregate to all items and services under the health benefits plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3862_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall preclude the health insurer from undertaking utilization review to determine the appropriateness of telehealth as a means of delivering a healthcare service; provided, that the determinations shall be made in the same manner as those regarding the same service when it is delivered in person.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

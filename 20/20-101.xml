@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_101">
+        <akn:num>20-101</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_20-101_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>“Abbreviated probate proceeding” means the type of proceeding defined in section 20-311.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>“Court” means the Probate Division of the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>“Heir” means a person entitled to property of an intestate decedent pursuant to Chapter 3 of Title 19.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>“Intestate decedent” means a person who dies without leaving a valid will.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>“Legacy” means a disposition of property made in a will.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>“Legatee” means the surviving spouse of the decedent or a person who, under the terms of a will, would receive a legacy. Legatee includes a trustee of a trust created under or referred to in the decedent’s will but not a beneficiary of the trust unless each trustee is also a petitioning party or acting personal representative.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>“Letters” means the official instrument by which a personal representative is appointed by the Court to administer the estate of a decedent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_i">
+      <akn:num>(i)</akn:num>
+      <akn:content><akn:p>“Metropolitan area” means Prince Georges County, and Montgomery County, Maryland; Arlington County, Fairfax County, the City of Fairfax, the City of Falls Church, and the City of Alexandria, Virginia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_j">
+      <akn:num>(j)</akn:num>
+      <akn:content><akn:p>“Personal representative” means a person, other than a special administrator, who has been appointed by the Court to administer the estate of a decedent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_k">
+      <akn:num>(k)</akn:num>
+      <akn:content><akn:p>“Probate” means the admission to record of a decedent’s will or the determination of a decedent’s intestacy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_l">
+      <akn:num>(l)</akn:num>
+      <akn:content><akn:p>“Property” means both real and personal property and any interest in such property that is owned by the decedent and that does not pass at the time of the decedent’s death to another person by the terms of the instrument under which it is held, or by operation of law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_m">
+      <akn:num>(m)</akn:num>
+      <akn:content><akn:p>“Register” means the Register of Wills.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_n">
+      <akn:num>(n)</akn:num>
+      <akn:content><akn:p>“Residuary legatee” means the person to whom a testate decedent bequeaths the surplus of such decedent’s estate, subject to all debts and other legacies specifically mentioned in the will.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_o">
+      <akn:num>(o)</akn:num>
+      <akn:content><akn:p>“Rules” means the rules promulgated by the Superior Court of the District of Columbia applicable to the Probate Division of that Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_p">
+      <akn:num>(p)</akn:num>
+      <akn:content><akn:p>“Special administrator” means an administrator appointed as provided in section 20-531.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_q">
+      <akn:num>(q)</akn:num>
+      <akn:content><akn:p>“Special appraiser” means an appraiser who is not an employee of the Office of the Register.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_r">
+      <akn:num>(r)</akn:num>
+      <akn:content><akn:p>“Standard probate proceeding” means the type of proceeding defined in section 20-321.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_s">
+      <akn:num>(s)</akn:num>
+      <akn:content><akn:p>“Standing appraiser” means an appraiser who is an employee of the Office of the Register.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_t">
+      <akn:num>(t)</akn:num>
+      <akn:content><akn:p>“Testate decedent” means a person who dies leaving a valid will.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_u">
+      <akn:num>(u)</akn:num>
+      <akn:content><akn:p>“Supervised administration” or “supervised personal representative” means that the administration and the representative have been ordered to be supervised in accordance with this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-101_v">
+      <akn:num>(v)</akn:num>
+      <akn:content><akn:p>“Unsupervised personal representative” means a personal representative who is not subject to continued court supervision pursuant to this title.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

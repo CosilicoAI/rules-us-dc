@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2885.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2885.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2885_10">
+        <akn:num>47-2885.10</akn:num>
+        <akn:heading>Denial, suspension, or revocation of pharmacy license.</akn:heading>
+<akn:subsection eId="subsec_47-2885_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor may refuse the issuance or renewal, or may revoke, or may suspend for not more than 90 days, a license issued pursuant to this part for any 1 or a combination of the following reasons:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2885_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall forthwith suspend a license issued pursuant to this part whenever the Mayor finds that the failure of a pharmacy to comply with any provision of this part or with any District of Columbia or federal law or regulation applicable to such pharmacy is of such a serious nature and magnitude that an imminent danger to the health or safety of the public is presented. In such a case, if a hearing is requested, such request or hearing shall not serve to stay the issuance of an order suspending the license.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-403.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-403.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_403_04">
+        <akn:num>8-403.04</akn:num>
+        <akn:heading>Reduced-risk pesticides and methods of pest control.</akn:heading>
+<akn:subsection eId="subsec_8-403_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a pesticide designated by the Mayor as reduced-risk pursuant to subsection (b) of this subsection is applied, the operator shall indicate on the customer notice provided in § 8-403.01(a)(9) that the customer has selected a reduced-risk pesticide.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-403_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 6 months of June 5, 2008, the Mayor shall approve a list of reduced-risk pesticides and methods of pest control.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

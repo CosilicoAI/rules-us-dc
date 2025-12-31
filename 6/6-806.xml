@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-806"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-806/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_806">
+        <akn:num>6-806</akn:num>
+        <akn:heading>Payment of cost assessed against property; sale of property for nonpayment.</akn:heading>
+<akn:subsection eId="subsec_6-806_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any tax authorized to be levied and collected under § 6-804, may be paid without interest within 60 days from the date such tax was levied. Interest of 20% per annum shall be charged on all unpaid amounts from the expiration of 60 days from the date such tax was levied. Any such tax may be paid in 3 equal installments with interest thereon. If any such tax or part thereof shall remain unpaid after the expiration of 2 years from the date such tax was levied, the property against which said tax was levied may be sold for such tax or unpaid portion thereof with interest and penalties thereon at the next ensuing annual tax sale conducted pursuant to § 47-1301 in the same manner and under the same conditions as property sold for delinquent general real estate taxes, if said tax with interest and penalties thereon shall not have been paid in full prior to said sale.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-806_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For taxes authorized to be levied and collected under this chapter in accordance with §§ 6-801 and 6-803, the provisions of § 47-1205(b) and (c) shall apply.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

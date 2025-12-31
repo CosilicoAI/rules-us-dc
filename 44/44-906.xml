@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-906"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-906/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_906">
+        <akn:num>44-906</akn:num>
+        <akn:heading>Conditions of employment for former employees of the Hospital.</akn:heading>
+<akn:subsection eId="subsec_44-906_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each individual accepting employment without a break in service with the District government pursuant to § 44-905 shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-906_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An individual appointed to a position in the District government without a break in service, from the retention list, or from the District or federal agency reemployment priority lists, shall be exempt from the residency requirements of subchapter VIII of Chapter 6 of Title 1.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-906_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An individual receiving compensation for work injuries pursuant to Chapter 81 of Title 5, United States Code, shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-906_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The District government may initiate or continue an action against an individual who accepts employment under § 44-905(c) for cause related to events that occur prior to the end of the service coordination period. Any such action shall be conducted in accordance with such federal laws and regulations under which action would have been conducted had the assumption of function by the District not occurred.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-906_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Commissioned public health service officers detailed to the District of Columbia mental health system shall not be considered employees for purposes of any full-time employee equivalency total of the Department of Health and Human Services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-906_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>For purposes of this section, Hospital employees shall include former patient employees occupying career positions at the Hospital.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

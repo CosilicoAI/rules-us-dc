@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-316"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-316/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_316">
+        <akn:num>16-316</akn:num>
+        <akn:heading>Appointment and compensation of counsel; guardian ad litem.</akn:heading>
+<akn:subsection eId="subsec_16-316_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a petition for adoption has been filed and there has been no termination or relinquishment of parental rights with respect to the proposed adoptee or consent to the proposed adoption by a parent or guardian whose consent is required under [section 16-304], the Court may appoint an attorney to represent such parent or guardian in the adoption proceeding if the individual is financially unable to obtain adequate representation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-316_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Court may appoint a guardian ad litem who is an attorney to represent the child in an adoption proceeding. The guardian ad litem shall in general be charged with the representation of the child’s best interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-316_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An attorney appointed pursuant to subsection (a) or (b) of this section shall be compensated in accordance with [section 16-2326.01], except that compensation in the adoption case shall be subject to the limitation set forth in [section 16-2326.01(b)(2)].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

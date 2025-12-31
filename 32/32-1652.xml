@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1652"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1652/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1652">
+        <akn:num>32-1652</akn:num>
+        <akn:heading>Funding of program.</akn:heading>
+<akn:subsection eId="subsec_32-1652_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The DOES shall make individual training account (“ITA”) funds received by the District pursuant to the federal Workforce Investment Act of 1998, approved August 7, 1998 (112 Stat. 936; 29 U.S.C. § 2801 et seq.), available to pay for a student’s enrollment in a certificate course; provided, that the course has been approved pursuant to the procedures and criteria established by this subtitle, and by the Council, in consultation with the DOES.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1652_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Council’s proposed procedures and criteria shall be submitted to the Council of the District of Columbia for a 30-day period of review, excluding days of Council of District of Columbia recess. If the Council of the District of Columbia does not approve or disapprove the procedures and criteria by resolution within this 30-day period, the procedures and criteria shall be deemed approved.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1652_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Prior to expending ITA funds to pay for a student’s enrollment in an approved course, the institution or the student shall apply for any grant funds available to the institution or to the student for this purpose. In the case of a student who meets the eligibility requirements for a grant and who has made timely application for such grant but the funds have not been received by the institution, the institution shall credit the student’s account in the amount of the grant. Upon receipt of the grant, the institution shall apply the funds received to the student’s account. In the case where a grant is available, ITA funds shall be used to the extent that the cost of the course exceeds the amount of grant funds received.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

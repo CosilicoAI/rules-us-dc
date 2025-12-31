@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.51"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.51/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_51">
+        <akn:num>1-325.51</akn:num>
+        <akn:heading>Funds for HIV/AIDS Crisis Area Capacity Building.</akn:heading>
+<akn:subsection eId="subsec_1-325_51_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established a revolving HIV/AIDS Crisis Area Capacity Building Fund, to be administered by the Mayor, for the purposes of providing loans and grants of up to $500,000 to develop, support, expand, repair, or improve service delivery to persons with HIV/AIDS within those Wards that did not receive grants from the HIV/AIDS Administration during fiscal year 2005.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_51_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>There is authorized to be appropriated out of the revenue of the District $500,000 to carry out the purposes of this part.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

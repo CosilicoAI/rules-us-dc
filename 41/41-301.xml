@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_301">
+        <akn:num>41-301</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_41-301_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“By type of property” means the 4 distinct types of property: real property, vehicles, currency, and other personal property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-301_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Court” means the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-301_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Currency” means cash, or the fair market value of seized property disposed of pursuant to § 41-303(e).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-301_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Forfeitable offense” means an alleged violation of District law that can give rise to forfeiture pursuant to the following provisions: § 7-2507.06a, § 8-905, § 22-902, § 22-1705, § 22-2723, § 48-905.02, or § 50-1501.04.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-301_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Indigent” means a person who is financially unable to give any bond or give a bond in the required amount.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-301_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Mayor” means the Mayor of the District of Columbia or the Mayor’s designee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-301_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Owner” means a person with a legal ownership interest in the property subject to seizure or forfeiture.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-301_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Relative” means a spouse, partner, sibling, parent, grandparent, child, grandchild, or the spouse, partner, or child thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-301_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Sale proceeds” means all funds received by the District of Columbia as a result of the sale of seized property pursuant to § 41-303(e) or § 41-310.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

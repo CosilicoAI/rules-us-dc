@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-951.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-951.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_951_16">
+        <akn:num>44-951.16</akn:num>
+        <akn:heading>Debts and borrowing.</akn:heading>
+<akn:subsection eId="subsec_44-951_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Corporation is authorized by the Council pursuant to § 1-204.90(a)(6) to incur debt, including lines of credit, to carry out the authorized purposes of the Corporation. The Corporation may, at any time, and from time to time, enter into debt obligations, by resolution of the Board. Debt of the Corporation shall be payable solely from the revenues of the Corporation from whatever source derived and shall not be issued in the form of obligations maturing longer than 5 years, including renewals. The Corporation shall have the power to incur indebtedness regardless of whether the interest payable by the Corporation or the income derived by the holders of the evidence of the indebtedness is, for the purposes of federal taxation, includable in the taxable income of the recipients of these payments or is otherwise not exempt from the imposition of taxable income on the recipients. No official, employee, or agent of the Corporation shall be held personally liable solely because a debt instrument is issued.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-951_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any debt created pursuant to this section shall not:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

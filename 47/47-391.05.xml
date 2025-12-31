@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-391.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-391.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_391_05">
+        <akn:num>47-391.05</akn:num>
+        <akn:heading>Treatment of actions arising from act.</akn:heading>
+<akn:subsection eId="subsec_47-391_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Jurisdiction established in District Court for District of Columbia. — Except as provided in § 47-391.03(e)(2) (relating to the issuance of an order enforcing a subpoena), any action against the Authority or any action otherwise arising out of this Act, in whole or in part, shall be brought in the United States District Court for the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-391_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Prompt appeal. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-391_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Timing of relief. — No order of any court granting declaratory or injunctive relief against the Authority, including relief permitting or requiring the obligation, borrowing, or expenditure of funds, shall take effect during the pendency of the action before such court, during the time appeal may be taken, or (if appeal is taken) during the period before the court has entered its final order disposing of such action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-391_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Expedited consideration. — It shall be the duty of the United States District Court for the District of Columbia, the United States Court of Appeals for the District of Columbia Circuit, and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any matter brought under subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1048"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1048/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1048">
+        <akn:num>47-1048</akn:num>
+        <akn:heading>Shakespeare Theatre; lot 814, square 787.</akn:heading>
+<akn:subsection eId="subsec_47-1048_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Beginning January 1, 1995, the property, real and personal, situated in square 787 in the District of Columbia, described as lot 814, owned, occupied, and used by the Shakespeare Theatre in the Nation’s Capital is hereby exempt from all taxation so long as, and to the extent that, the same is owned and occupied by the Shakespeare Theatre and used for nonprofit residential purposes in support of theatrical and educational activities of the Theatre and subject to the provisions of § 47-1002.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1048_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any taxes paid in association with the real or personal property described in subsection (a) of this section prior to April 20, 1999 shall be refunded.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

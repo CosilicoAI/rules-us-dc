@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2853.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2853.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2853_14">
+        <akn:num>47-2853.14</akn:num>
+        <akn:heading>Inactive status.</akn:heading>
+<akn:subsection eId="subsec_47-2853_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon application by any person licensed, certified, or registered to practice an occupation or profession in the District and payment of an inactive status fee established by the Mayor, the Mayor shall place such person on inactive status.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2853_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>While on inactive status, the person shall not be subject to the renewal fee and shall not practice, attempt to practice, or offer to practice the occupation or profession in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2853_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall issue a license or certificate or shall register any person who is on inactive status for less than 5 years and who desires to resume the practice of an occupation or profession for which that person was previously licensed, certified, or registered if that person:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2853_14_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the person seeking return to active status has been on inactive status for 5 years or more, he or she shall be considered a new applicant and shall be required to meet all current requirements for licensure, unless the relevant board in its discretion determines that the failure to renew during the 5-year inactive period was due to reasonable cause or excusable neglect.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

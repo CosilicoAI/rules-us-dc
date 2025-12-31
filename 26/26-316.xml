@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-316"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-316/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_316">
+        <akn:num>26-316</akn:num>
+        <akn:heading>Revocation and suspension of license.</akn:heading>
+<akn:subsection eId="subsec_26-316_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner] may revoke any license issued pursuant to this chapter if, after notice and a hearing, the Superintendent [Commissioner] finds that the licensee has:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-316_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A hearing for the purposes of this section shall be held in accordance with subchapter I of Chapter 5 of Title 2. Pending a hearing for the revocation of any license issued pursuant to this chapter, the Superintendent [Commissioner] may suspend the license for a period not to exceed 30 days if the Superintendent [Commissioner] determines that such a suspension is in the public interest and that one or more grounds for revocation of a license, as set forth in subsection (a) of this section, exist.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-316_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Whenever the Superintendent [Commissioner] suspends or revokes a license issued pursuant to this chapter, the Superintendent [Commissioner] shall immediately execute a written order stating the grounds for the suspension or revocation.  On the date the order is executed, the Superintendent [Commissioner] shall serve a copy thereof on the licensee either personally or by mailing the same to the last known address of the licensee.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

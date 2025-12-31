@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-318.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-318.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_318_02">
+        <akn:num>47-318.02</akn:num>
+        <akn:heading>Mayoral budget submissions required; accounting of expenditures — Budget request and multiyear plan.</akn:heading>
+<akn:subsection eId="subsec_47-318_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall provide the Council with both a budget request and a multiyear plan no earlier than February 1 and no later than February 8 of each calendar year commencing with 1994.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-318_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall provide the Council with both a budget modification and a multiyear plan modification 3 times each fiscal year: the first set no earlier than June 1 and no later than June 15, the second set no earlier than November 8 and no later than November 15, and the third set no earlier than February 1 and no later than February 8.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-318_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Council shall adopt each of the budget and multiyear plan modifications no more than 28 days after official submission to the Council. Any modification on which the Council does not act within 28 days shall be deemed approved.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-318_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsection (b) of this section, for fiscal year 1994, the Mayor shall provide the Council with the first budget modification and first multiyear plan no earlier than November 8 and no later than November 15.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

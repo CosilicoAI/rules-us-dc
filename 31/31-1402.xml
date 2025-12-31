@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1402"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1402/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1402">
+        <akn:num>31-1402</akn:num>
+        <akn:heading>Authority, scope, and scheduling of examinations.</akn:heading>
+<akn:subsection eId="subsec_31-1402_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor, or any of his or her examiners, may conduct an examination under this chapter of any company as often as the Mayor in his or her sole discretion deems appropriate, but shall at a minimum conduct an examination of every insurer licensed in the District at least once every 5 years. In scheduling and determining the nature, scope, and frequency of the examinations, the Mayor shall consider such factors as the results of financial statement analyses and ratios, changes in management or ownership, actuarial opinions, reports of independent certified public accountants, and other criteria set forth in the Examiners’ Handbook adopted by the National Association of Insurance Commissioners and in effect when the Mayor exercises discretion under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1402_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For purposes of completing an examination of any company under this chapter, the Mayor may examine or investigate any person, or the business of any person, insofar as the examination or investigation is, in the sole discretion of the Mayor, necessary or material to the examination of the company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1402_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In lieu of an examination under this chapter of any foreign or alien insurer licensed in the District, the Mayor may accept, until January 1, 1994, an examination report on the company prepared by the insurance department for the company’s state of domicile or port-of-entry state. Thereafter, these reports may be accepted only if the insurance department was at the time of the examination accredited under the National Association of Insurance Commissioners’ Financial Regulation Standards and Accreditation Program, or the examination is performed under the supervision of an accredited state insurance department or with the participation of one or more examiners who are employed by such an accredited state insurance department, and who, after a review of the examination workpapers and report, state under oath that the examination was performed in a manner consistent with the standards and procedures required by their insurance department.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3405.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3405.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3405_01">
+        <akn:num>42-3405.01</akn:num>
+        <akn:heading>Rule making; publication requirements.</akn:heading>
+<akn:subsection eId="subsec_42-3405_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall issue rules for the implementation of this chapter. The Mayor shall issue rules for the holding of elections which shall include, but not be limited to, provisions for secret voting, and the right of any person including the owner to observe the counting of the ballots.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3405_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>By November 9, 1980, the Mayor shall publish in the D.C. Register a summary of tenant rights and obligations pursuant to this chapter, and sources of technical assistance, which shall include, but shall not be limited to, information regarding counseling, subsidy programs, relocation services, housing purchase and rehabilitation finance, tax relief programs, formation of tenant organizations, purchase of housing accommodations, rehabilitation, and conversion to cooperative or condominium.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3405_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>By March 5, 1996, the Mayor shall issue updated rules for comment, which shall reflect all changes made by the Rental Housing Conversion and Sale Act of 1980 Reenactment Extension and Amendment Act of 1995. Within 180 days after publication of the proposed rules, the Mayor shall adopt final rules. The failure to meet these deadlines shall not prevent the changes in the Rental Housing Conversion and Sale Act of 1980 Reenactment Extension and Amendment Act of 1995 from being effective immediately upon September 6, 1995.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

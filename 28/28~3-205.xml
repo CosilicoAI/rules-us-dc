@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-205"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-205/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_205">
+        <akn:num>28:3-205</akn:num>
+        <akn:heading>Special indorsement; blank indorsement; anomalous indorsement.</akn:heading>
+<akn:subsection eId="subsec_28:3-205_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If an indorsement is made by the holder of an instrument, whether payable to an identified person or payable to bearer, and the indorsement identifies a person to whom it makes the instrument payable, it is a “special indorsement”. When specially indorsed, an instrument becomes payable to the identified person and may be negotiated only by the indorsement of that person. The principles stated in section 28:3-110 apply to special indorsements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-205_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an indorsement is made by the holder of an instrument and it is not a special indorsement, it is a “blank indorsement”.  When indorsed in blank, an instrument becomes payable to bearer and may be negotiated by transfer of possession alone until specially indorsed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-205_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The holder may convert a blank indorsement that consists only of a signature into a special indorsement by writing, above the signature of the indorser, words identifying the person to whom the instrument is made payable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-205_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>“Anomalous indorsement” means an indorsement made by a person who is not the holder of the instrument. An anomalous indorsement does not affect the manner in which the instrument may be negotiated.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1702"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1702/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1702">
+        <akn:num>44-1702</akn:num>
+        <akn:heading>Powers of Mayor and Council.</akn:heading>
+<akn:subsection eId="subsec_44-1702_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor and the Council of the District of Columbia are authorized and empowered:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1702_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor is authorized to prescribe and collect fees for the filing of applications, issuance of certificates of registration, and any other service which this chapter authorizes to be performed by the Mayor.  The Mayor shall fix such fees in such amounts as will, in his judgment, approximate the cost to the District of Columbia of such services.  In fixing such fees the Mayor may, in his discretion, prescribe either uniform fees or varying schedules of fees based on actual or estimated amounts solicited or to be solicited by registrants or applicants for certificates of registration.  No fees may be fixed pursuant to this section until after a public hearing has been held thereon pursuant to reasonable notice thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1702_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Licenses or certificates of registration issued under this section shall be issued as a General Business endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of Chapter 28 of Title 47.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

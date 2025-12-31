@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-611.20"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-611.20/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_611_20">
+        <akn:num>1-611.20</akn:num>
+        <akn:heading>Mandatory direct deposit.</akn:heading>
+<akn:subsection eId="subsec_1-611_20_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, the only method for the receipt of salary, wages, or any other compensation, and retirement payments by any District of Columbia employee or retiree, whether compensated by the District with District funds or federal funds, shall consist of one of the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-611_20_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor is authorized to issue rules to implement this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

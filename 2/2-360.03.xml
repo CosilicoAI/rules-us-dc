@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-360.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-360.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_360_03">
+        <akn:num>2-360.03</akn:num>
+        <akn:heading>Jurisdiction of Board.</akn:heading>
+<akn:subsection eId="subsec_2-360_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board shall be the exclusive hearing tribunal for, and shall review and determine de novo:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-360_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Jurisdiction of the Board shall be consistent with the coverage of this chapter as set forth in § 2-351.05, except that the Board may enter into fee-for-service agreements with agencies, departments, boards, commissions, and instrumentalities of the District or other public entities that are not subject to the Board’s jurisdiction. The agreements shall provide for the Board to resolve contract disputes, including appeals and protests of those agencies, departments, boards, commissions, and instrumentalities. With agreements of the parties, the Board may provide alternate dispute resolution services.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

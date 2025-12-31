@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2341.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2341.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2341_06">
+        <akn:num>7-2341.06</akn:num>
+        <akn:heading>Flight emergency medical services personnel: certification required.</akn:heading>
+<akn:subsection eId="subsec_7-2341_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this chapter, no person shall perform the duties of flight emergency medical services personnel in the District, whether for compensation or not for compensation, without first having obtained a certification from the Mayor to do so.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2341_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An applicant for certification as flight emergency medical services personnel shall be certified as emergency medical services personnel pursuant to this chapter, or shall be licensed pursuant to Chapter 12 of Title 3 [§ 3-1201.01 et seq.], in addition to obtaining special certification from the Mayor to perform his or her duties in an airborne setting.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2341_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An applicant for certification as flight emergency medical services personnel shall establish to the satisfaction of the Mayor that he or she meets all applicable requirements set forth in this chapter and in rules promulgated pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

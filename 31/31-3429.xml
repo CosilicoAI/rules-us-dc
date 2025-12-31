@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3429"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3429/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3429">
+        <akn:num>31-3429</akn:num>
+        <akn:heading>Point of service plan.</akn:heading>
+<akn:subsection eId="subsec_31-3429_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If an employer, association, or other private group arrangement offers health benefit plan coverage to employees or individuals only through a health maintenance organization, the health maintenance organization with which the employer, association, or other private group arrangement is contracting for the coverage shall offer, or contract with another carrier to offer, a point-of-service option to the employer, association, or other private group arrangement in conjunction with the health maintenance organization as an additional benefit for an employee or individual, at the employee’s or individual’s option to accept or reject.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3429_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An employer, association, or other private group arrangement may require an employee or individual that accepts the additional coverage under a point-of-service option under subsection (a) of this section to pay a premium over the amount of the premium for the coverage offered by the health maintenance organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3429_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A health maintenance organization may impose different cost sharing provisions for the point-of-service option based on whether the service is provided through the provider panel of the health maintenance organization or outside the providers panel of the health maintenance organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3429_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The requirements of this section shall not apply to any subscriber contract current and in force on April 9, 1997 for the duration of that contract, but these requirements shall apply to any renewal or new subscriber contract issued subsequent to April 9, 1997.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3429_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The requirements of this section shall not apply to any subscriber contract issued in the individual market to a person who is not part of a contracted group of subscribers.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

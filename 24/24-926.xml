@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-926"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-926/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_926">
+        <akn:num>24-926</akn:num>
+        <akn:heading>Discipline.</akn:heading>
+<akn:subsection eId="subsec_24-926_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Eligible juvenile offenders are expected to adhere to strict standards of discipline within the BOOT CAMP. Eligible juvenile offenders in the BOOT CAMP will be expected to comply with the following procedures:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-926_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Director shall promulgate rules and procedures governing discipline within the BOOT CAMP.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

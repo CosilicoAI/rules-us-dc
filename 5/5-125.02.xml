@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-125.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-125.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_125_02">
+        <akn:num>5-125.02</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_5-125_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>A “trachea hold,” “arm bar hold,” or “bar-arm hold” means any weaponless technique or any technique using the officer’s arm, a long or short police baton, or a flashlight or other firm object that attempts to control or disable a person by applying force or pressure against the trachea, windpipe, or the frontal area of the neck with the purpose or intent of controlling a person’s movement or rendering a person unconscious by blocking the passage of air through the windpipe.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-125_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A “carotid artery hold,” “sleeper hold,” or “v hold” means any weaponless technique which is applied in an effort to control or disable a person by applying pressure or force to the carotid artery or the jugular vein or the sides of the neck with the intent or purpose of controlling a person’s movement or rendering a person unconscious by constricting the flow of blood to and from the brain.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

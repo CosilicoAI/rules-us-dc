@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-706.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-706.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_706_04">
+        <akn:num>29-706.04</akn:num>
+        <akn:heading>Person’s power to dissociate as general partner; wrongful dissociation.</akn:heading>
+<akn:subsection eId="subsec_29-706_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person may dissociate as a general partner at any time, rightfully or wrongfully, by express will pursuant to § 29-706.03(1).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-706_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person’s dissociation as a general partner shall be wrongful only if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-706_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person that wrongfully dissociates as a general partner shall be liable to the limited partnership and, subject to § 29-709.01, to the other partners for damages caused by the dissociation. The liability shall be in addition to any other obligation of the general partner to the limited partnership or to the other partners.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

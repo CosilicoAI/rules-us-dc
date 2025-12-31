@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1005.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1005.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1005_15">
+        <akn:num>29-1005.15</akn:num>
+        <akn:heading>Manner of voting.</akn:heading>
+<akn:subsection eId="subsec_29-1005_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless the organic rules otherwise provide, voting by a proxy at a members meeting shall be prohibited. This subsection shall not prohibit delegate voting based on district or class.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1005_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If voting by a proxy is permitted, a patron member shall appoint only another patron member as a proxy and, if investor members are permitted, an investor member shall appoint only another investor member as a proxy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1005_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The organic rules may provide for the manner of, and provisions governing, the appointment of a proxy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1005_15_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The organic rules may provide for voting on any question by ballot delivered by mail or voting by other means on questions that are subject to vote by members.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

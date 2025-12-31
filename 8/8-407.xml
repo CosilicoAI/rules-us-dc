@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-407"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-407/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_407">
+        <akn:num>8-407</akn:num>
+        <akn:heading>Liability insurance.</akn:heading>
+<akn:subsection eId="subsec_8-407_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall not issue a pesticide operator’s license until the applicant has furnished evidence of financial responsibility in the form of liability insurance for the protection of persons who may suffer damages as a result of the operations of the applicant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-407_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The amount of minimum financial responsibility shall be established by the Mayor and shall be maintained at not less than that sum as long as the pesticide operator engages in business in those categories for which his license is issued.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-407_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The insurer of a pesticide operator shall notify the Mayor in writing at least ten (10) days prior to the effective date of cancellation, if a licensee’s policy is to be cancelled. It shall be the licensee’s responsibility to inform his insurer of this requirement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-407_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in this subchapter shall be construed to relieve any person from liability for any damages to the person or lands of another caused by the use of pesticides even though such use conforms to regulations prescribed by the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

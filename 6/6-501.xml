@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_501">
+        <akn:num>6-501</akn:num>
+        <akn:heading>Review of building permit applications; design and construction requirements.</akn:heading>
+<akn:subsection eId="subsec_6-501_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Be designed (or modified) and anchored to prevent flotation, collapse, or lateral movement of the structure;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-501_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Use construction materials and utility equipment that are resistant to flood damage; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-501_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Use construction methods and practices that will minimize flood damage.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

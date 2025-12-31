@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-722"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-722/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_722">
+        <akn:num>25-722</akn:num>
+        <akn:heading>Hours of sale and delivery for off-premises retail licensees.</akn:heading>
+<akn:subsection eId="subsec_25-722_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A licensee under an off-premises retailer’s license, class A or B, may sell and deliver alcoholic beverages only between the hours of 7:00 a.m. and midnight, Monday through Saturday, and during those same hours on December 24 and 31 of each year, subject to voluntary agreements [settlement agreements] pursuant to § 25-446.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-722_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board may also permit a licensee under an off-premises retailer’s license, class A or B, to sell or deliver alcoholic beverages between the hours of 7:00 a.m. and midnight on Sundays, subject to voluntary agreements [settlement agreements] pursuant to § 25-446.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-722_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A licensee under a retailer’s license, class B, which meets the requirements of § 25-303(c)(1) through (3), may also sell or deliver alcoholic beverages between the hours of 9:00 a.m. and 10:00 p.m. on Sundays and between the hours of 10:00 p.m. and midnight, Monday through Sunday, and on December 24 and December 31 of each year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

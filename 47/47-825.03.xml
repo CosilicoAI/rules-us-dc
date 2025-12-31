@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-825.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-825.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_825_03">
+        <akn:num>47-825.03</akn:num>
+        <akn:heading>Applicability of certain provisions; hearings open to public.</akn:heading>
+<akn:subsection eId="subsec_47-825_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other law, § 47-825.01(d)(5) [repealed], the second sentence of § 47-825.01(e) [repealed], and § 47-825.02 shall not apply until the Chief Financial Officer has determined that the implementation of those provisions will have no negative fiscal impact on the Office of Tax and Revenue, the Real Property Tax Appeals Commission for the District of Columbia, or on real property tax revenues collected by the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-825_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in § 47-821(d)(2), hearings shall be open to the public.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-825_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section shall expire upon notice to the Council by the Chief Financial Officer that he or she has made the determination required by subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

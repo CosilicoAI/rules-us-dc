@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-921.20"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-921.20/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_921_20">
+        <akn:num>50-921.20</akn:num>
+        <akn:heading>Vision Zero Pedestrian and Bicycle Safety Fund.</akn:heading>
+<akn:subsection eId="subsec_50-921_20_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a special fund the Vision Zero Pedestrian and Bicycle Safety Fund (“Fund”), which shall be administered by the Director of DDOT in accordance with subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_20_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>There shall be deposited in the Fund $500,000 per fiscal year from the fines generated from the automated traffic enforcement system, authorized by § 50-2209.01.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_20_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Fund shall be used solely to enhance the safety and quality of pedestrian and bicycle transportation, including education, engineering, and enforcement efforts designed to calm traffic and provide safe routes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_20_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

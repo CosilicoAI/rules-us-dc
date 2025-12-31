@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1061.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1061.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1061_04">
+        <akn:num>1-1061.04</akn:num>
+        <akn:heading>Role of Board.</akn:heading>
+<akn:subsection eId="subsec_1-1061_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board is responsible for implementing this subchapter and the District’s responsibilities under the Uniformed and Overseas Citizens Absentee Voting Act, approved August 28, 1986 (100 Stat. 924; 42 U.S.C. 1973ff et seq.).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1061_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board shall make available to covered voters information regarding voter registration procedures for covered voters and procedures for casting military-overseas ballots.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1061_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Board shall establish an electronic transmission system through which a covered voter may apply for and receive voter registration materials, military-overseas ballots, and other information under this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1061_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Board shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1061_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Board shall prescribe the form and content of a declaration for use by a covered voter to swear or affirm specific representations pertaining to the voter’s identity, eligibility to vote, status as a covered voter, and timely and proper completion of an overseas-military ballot. The declaration must be based on the declaration prescribed to accompany a federal write-in absentee ballot, as modified to be consistent with this subchapter. The Board shall ensure that a form for the execution of the declaration, including an indication of the date of execution of the declaration, is a prominent part of all balloting materials for which the declaration is required.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/37-201.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/37-201.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_37_201_15">
+        <akn:num>37-201.15</akn:num>
+        <akn:heading>Standard containers for sale of fruits, vegetables, and other dry commodities; no sales except in standard containers or by weight or count.</akn:heading>
+<akn:subsection eId="subsec_37-201_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Standard containers for the sale of fruits, vegetables, and other dry commodities in the District of Columbia shall be as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-201_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person shall sell, offer, or expose for sale in the District of Columbia any fruits, vegetables, grain, or similar commodities in any manner except in the standard containers herein prescribed or by weight or numerical count; and no person shall sell, offer, or expose for sale, except by weight or numerical count, in the District of Columbia any commodity in any container herein prescribed which does not contain, at the time of such offer, exposure, or sale, the full capacity of such commodity compactly filled; provided, that fresh beets, onions, turnips, rhubarb, and other similar vegetables, usually and customarily sold by the bunch, may be sold by the bunch.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-201_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All kale, spinach, and other similar leaf vegetables shall be sold at retail by net weight.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

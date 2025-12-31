@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.87"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.87/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_87">
+        <akn:num>1-204.87</akn:num>
+        <akn:heading>Water pollution.</akn:heading>
+<akn:subsection eId="subsec_1-204_87_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall annually estimate the amount of the District’s principal and interest expense which is required to service District obligations attributable to the Maryland and Virginia pro rata share of District sanitary sewage water works and other water pollution projects which provide service to the local jurisdictions in those states. Such amounts as determined by the Mayor pursuant to the agreements described in subsection (b) of this section shall be used to exclude the Maryland and Virginia share of pollution projects cost from the limitation on the District’s capital project obligations as provided in § 1-206.03(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_87_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall enter into agreements with the states and local jurisdictions concerned for annual payments to the District of rates and charges for waste treatment services in accordance with the use and benefits made and derived from the operation of the said waste treatment facilities. Each such agreement shall require that the estimated amount of such rates and charges will be paid in advance, subject to adjustment after each year. Such rates and charges shall be sufficient to cover the cost of construction, interest on capital, operation and maintenance, and the necessary replacement of equipment during the useful life of the facility.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

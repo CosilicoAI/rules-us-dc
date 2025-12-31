@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-903"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-903/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_903">
+        <akn:num>31-903</akn:num>
+        <akn:heading>Approval of the plan of conversion by the Commissioner of the Department of Insurance, Securities, and Banking.</akn:heading>
+<akn:subsection eId="subsec_31-903_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After adoption by the mutual company’s board of directors, the plan shall be submitted to the Commissioner for review and approval. The Commissioner shall approve the plan upon finding that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-903_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>The Commissioner, in his discretion, may order that a hearing on the plan be held, which hearing shall be conducted in accordance with the contested case procedures set forth in § 2-509.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-903_a_2">
+      <akn:num>(a-2)</akn:num>
+      <akn:content><akn:p>A decision or order of the Commissioner, after a hearing conducted in accordance with the contested case procedures as set forth in subsection (a-1) of this section, may be reviewed as provided in § 2-510.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-903_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Prior to the members’ approval of the plan, a mutual company seeking the Commissioner’s approval of a plan shall file the following documents with the Commissioner for review and approval:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-903_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After the members have approved the plan, the converted stock company shall file the following documents with the Commissioner:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-903_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Commissioner may retain, at the mutual company’s expense, any qualified expert not otherwise a part of the Commissioner’s staff to assist in reviewing the plan and the independent evaluation of the pro forma market value which is required by § 31-906(i).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

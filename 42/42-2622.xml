@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2622"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2622/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2622">
+        <akn:num>42-2622</akn:num>
+        <akn:heading>Establishment; funding; annual audit.</akn:heading>
+<akn:subsection eId="subsec_42-2622_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established in the Department of Housing and Community Development, a Home Purchase Assistance Step Up Program to provide one-time housing assistance to residents of the District of Columbia in low- to moderate-income households, who own condominiums, cooperatives, or starter homes and seek to purchase single family housing in the District of Columbia that is larger, or otherwise more appropriate for their households.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2622_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>There is authorized to be appropriated from the general revenues of the District of Columbia, and accounted for in the General Fund as a separate revenue source, such amounts as may be needed to establish a permanent revolving fund to be known as the Home Purchase Assistance Step Up Fund. From this Fund the District shall provide financial assistance to residents of the District of Columbia in low- to moderate-income households, who own condominiums, cooperatives, or starter homes and seek to purchase single family housing in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2622_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>There shall be deposited to the credit of the Fund any amounts as may be appropriated pursuant to this subchapter; any grants and gifts from public and private sources to the Fund or to the District of Columbia government for the purposes of the Fund; repayments of principal and any interest on loans provided from the Fund; any proceeds realized from the liquidation of any security interests held by the District under the terms of any assistance provided from the Fund; any interest earned from the deposit or investment of monies of the Fund; and all other revenues, receipts, penalties, and fees of whatever nature derived from the operation of the Fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2622_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Fund shall be available, without fiscal limitation, to provide financial assistance for down payments or closing costs to recipients for the purpose of purchasing a single family residence that is larger or otherwise more appropriate than the home previously owned by the recipient. Such financial assistance may be used in conjunction with other available home purchase assistance programs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2622_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An annual audit of the operations of the Fund shall be conducted by the Office of the Inspector General of the District of Columbia. Not later than 6 months after the end of the fiscal year, the Mayor shall submit to the Congress and to the Council of the District of Columbia a report on the financial condition of the Fund and the results of the operations for such fiscal year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

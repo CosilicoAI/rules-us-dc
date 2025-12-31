@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-346"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-346/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_346">
+        <akn:num>4-346</akn:num>
+        <akn:heading>Administration of the Adoption Incentive Program and the Adoption Voucher Fund.</akn:heading>
+<akn:subsection eId="subsec_4-346_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Child and Family Services Agency (“CFSA”) shall administer the Program and the Fund. CFSA shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-346_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Vouchers issued pursuant to this section shall contain a statement describing the benefits to the adopting foster parents under the program, as well as the terms and conditions for the use of the vouchers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-346_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Adopting foster parents shall present the vouchers to their attorney and licensed agency hired to perform the homestudy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-346_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An attorney hired by a foster parent shall submit a voucher for attorneys’ fees with his or her first bill to CFSA, which shall set up an account with a  $5,000 balance. Thereafter, the attorney shall submit his or her bills quarterly to CFSA. CFSA shall pay the attorney within 30 days with funds from the account.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-346_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The licensed agency hired to perform the homestudy shall submit its bill and the voucher for the homestudy to CFSA after the homestudy is complete for payment within 30 days.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

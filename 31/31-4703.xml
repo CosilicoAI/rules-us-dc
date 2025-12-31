@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4703"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4703/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4703">
+        <akn:num>31-4703</akn:num>
+        <akn:heading>Life policies — Required provisions.</akn:heading>
+<akn:subsection eId="subsec_31-4703_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No life insurance policy other than industrial insurance, annuities, and pure endowments shall be issued or delivered in the District or shall be issued by a life company organized under District laws after the 1st day of January, 1935, unless the policy has the following features:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4703_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any of the foregoing provisions or portions thereof not applicable to single premium or nonparticipating or term policies shall, to that extent, not be incorporated therein; and any such policy may be issued or delivered in the District which in the opinion of the Commissioner contains provisions on any 1 or more of the several foregoing requirements more favorable to the policyholder than hereinbefore required. The provisions of this section shall not apply to policies of reinsurance, or to policies issued or granted in exchange for lapsed or surrendered policies, or to group insurance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

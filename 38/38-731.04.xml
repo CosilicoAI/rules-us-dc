@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-731.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-731.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_731_04">
+        <akn:num>38-731.04</akn:num>
+        <akn:heading>Members of the Financial Literacy Council.</akn:heading>
+<akn:subsection eId="subsec_38-731_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Financial Literacy Council shall consist of 9 members, as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-731_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Members shall not be compensated for their service on the Financial Literacy Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-731_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Members shall serve for terms of 4 years; provided, that of the initial members appointed:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-731_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall designate one member as the chairperson. The designated member shall serve as chairperson until the conclusion of his or her current term of membership.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

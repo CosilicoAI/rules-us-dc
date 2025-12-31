@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-217.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-217.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_217_10">
+        <akn:num>4-217.10</akn:num>
+        <akn:heading>Condition of eligibility — Effect of failure to comply.</akn:heading>
+<akn:subsection eId="subsec_4-217_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If an applicant or recipient claims good cause for noncooperation under § 4-217.09 and the Mayor determines that good cause does not exist, the applicant or recipient shall be notified and given an opportunity to cooperate, to withdraw the application for assistance, or to have the assistance case closed. Refusal to cooperate, after such notice and opportunity to cooperate, shall result in imposition of the sanctions provided in subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-217_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an applicant for, or recipient of, assistance, who is the parent of the child with respect to whom assistance is claimed, fails to cooperate as required by § 4-217.08, and the Mayor has determined under § 4-217.09 that the applicant or recipient does not have good cause for noncooperation, the amount of the applicant’s or recipient’s public assistance grant shall be reduced by 25%.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-217_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the applicant or recipient complies with § 4-217.08 after a determination of noncooperation, the IV-D agency shall promptly notify the agency administering assistance for the family. The agency administering assistance shall restore assistance to the applicant or recipient in the month following the date of cooperation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1205.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1205.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1205_10">
+        <akn:num>29-1205.10</akn:num>
+        <akn:heading>Direction of trustees.</akn:heading>
+<akn:subsection eId="subsec_29-1205_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The governing instrument may authorize any person, including a beneficial owner, to direct a trustee or other person in the management of a statutory trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1205_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The governing instrument may provide that the power to direct a trustee or other person or the exercise of the power by any person, including a beneficial owner, shall not cause the person to be a trustee or impose on the person duties, including fiduciary duties, or liabilities relating to these duties, to a statutory trust or beneficial owner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1205_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the governing instrument confers on a person a power to direct actions by a trustee or other person, the trustee or other person shall act in accordance with an exercise of the power, unless the direction is manifestly contrary to the terms of the governing instrument or the trustee knows or has reason to know that following the direction would constitute a serious breach of fiduciary duty by the trustee.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

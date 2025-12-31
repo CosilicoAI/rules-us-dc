@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1307"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1307/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1307">
+        <akn:num>31-1307</akn:num>
+        <akn:heading>Condition on release from delinquency proceedings; conditions on operations during proceedings.</akn:heading>
+<akn:subsection eId="subsec_31-1307_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Be released from the proceeding, unless the proceeding is converted into a judicial rehabilitation or liquidation proceeding;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1307_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Be permitted to solicit or accept new business, or request or accept the restoration of any suspended or revoked license or certificate of authority;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1307_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Be returned to the control of its shareholders or private management; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1307_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Have any of its assets returned to the control of its shareholders or private management until all payments of or on account of the insurer’s contractual obligations by all guaranty associations, along with all expenses and interest on all payments and expenses, shall have been repaid to the guaranty associations or a plan of repayment by the insurer shall have been approved by the guaranty association.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

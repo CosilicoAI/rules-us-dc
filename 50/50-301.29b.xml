@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-301.29b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-301.29b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_301_29b">
+        <akn:num>50-301.29b</akn:num>
+        <akn:heading>Registration of private vehicle-for-hire operators.</akn:heading>
+<akn:subsection eId="subsec_50-301_29b_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To become a private vehicle-for-hire operator, an individual shall submit an application to register with a private vehicle-for-hire company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_29b_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before approving a registration application submitted under subsection (a) of this section, a private vehicle-for-hire company shall have a third party that is accredited by the National Association of Professional Background Screeners or a successor accreditation entity conduct the following examinations:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_29b_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A private vehicle-for-hire company shall reject an application submitted under subsection (a) of this section and shall permanently disqualify an applicant who:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_29b_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A motor vehicle used as a private vehicle-for-hire shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_29b_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A person registered with a private vehicle-for-hire company as a private vehicle-for-hire operator under this section shall be deemed by the District to hold the necessary authorization to operate in the District as may be required by another jurisdiction or interstate authority.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

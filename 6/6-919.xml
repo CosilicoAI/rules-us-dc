@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-919"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-919/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_919">
+        <akn:num>6-919</akn:num>
+        <akn:heading>Suits and proceedings under prior law; time limits.</akn:heading>
+<akn:subsection eId="subsec_6-919_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All suits and proceedings instituted by or against the Board for the Condemnation of Insanitary Buildings in the District of Columbia created by former § 6-801, or the Board for the Condemnation of Insanitary Buildings established by the Commissioners under the authority of Reorganization Plan No. 5 of 1952, prior to September 27, 1954, shall be deemed to have been taken by, or instituted by or against, the Mayor of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-919_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>With respect to any building or part of building condemned by either of the Boards aforesaid prior to September 27, 1954, and which building or part of building stands condemned as of September 27, 1954, the 6-month period provided by § 6-903 shall commence running from September 27, 1954.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-919_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

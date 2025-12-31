@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1208.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1208.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1208_06">
+        <akn:num>29-1208.06</akn:num>
+        <akn:heading>Court proceedings.</akn:heading>
+<akn:subsection eId="subsec_29-1208_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A dissolved statutory trust that has published a notice under § 29-1208.05 may file an application with the Superior Court, or, if the principal office is not located in the District, in the appropriate court where the office of its principal office is located, for a determination of the amount and form of security to be provided for payment of claims that are contingent or have not been made known to the dissolved trust or that are based on an event occurring after the effective date of dissolution but which, based on the facts known to the dissolved trust, are reasonably expected to arise after the effective date of dissolution. Provision need not be made for any claim that is or is reasonably anticipated to be barred under § 29-1208.05(c).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1208_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notice of the proceeding must be given by the dissolved statutory trust to each claimant holding a contingent claim whose contingent claim is shown on the records of the dissolved trust not later than 10 days after the filing of the application under subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1208_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Superior Court may appoint a guardian ad litem to represent all claimants whose identities are unknown in any proceeding brought under this section. The reasonable fees and expenses of the guardian, including reasonable expert witness fees, must be paid by the dissolved statutory trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1208_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Provision by the dissolved statutory trust for security in the amount and the form ordered by the court under subsection (a) of this section satisfies the dissolved trust’s obligations with respect to claims that are contingent, have not been made known to the dissolved trust, or are based on an event occurring after the effective date of dissolution, and such claims may not be enforced against a beneficial owner that received assets in liquidation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

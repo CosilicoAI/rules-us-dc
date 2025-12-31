@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-114"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-114/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_114">
+        <akn:num>41-114</akn:num>
+        <akn:heading>Gift certificates and credit memos.</akn:heading>
+<akn:subsection eId="subsec_41-114_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Gift certificates and credit memos held or owing in the ordinary course of the holder’s business that have remained unclaimed by the owner for more than 5 years after becoming payable or distributable are presumed abandoned.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-114_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a gift certificate or credit memo is redeemable for cash or merchandise, its value for purposes of this chapter shall be the amount paid by the purchaser.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

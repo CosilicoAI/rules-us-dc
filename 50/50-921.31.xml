@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-921.31"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-921.31/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_921_31">
+        <akn:num>50-921.31</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_50-921_31_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“DC Circulator” means a local transit facility passenger bus service operated by the District of Columbia government that provides a network of fixed-route bus service solely within the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_31_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“DC Circulator Fund” means the fund established by § 50-921.33.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_31_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Department” means the District Department of Transportation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_31_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Ticket” means passes, tokens, or any other form of payment, including those sold in bulk for resale, that may be used in lieu of cash.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_31_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“WMATA” means the Washington Metropolitan Area Transit Authority created pursuant to § 9-1107.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

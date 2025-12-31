@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-103.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-103.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_103_07">
+        <akn:num>44-103.07</akn:num>
+        <akn:heading>Restrictions.</akn:heading>
+<akn:subsection eId="subsec_44-103_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An ALR licensed pursuant to this chapter shall not use in its title the words “hospital,” “sanitorium,” “nursing,” “convalescent,” “rehabilitive,”  “subacute,” or “hospice.”</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-103_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Only a licensed ALR may describe, market, and offer itself as such. No other entity, whether licensed or not by the District government, shall describe, market, or offer itself as an Assisted Living Residence without first obtaining an ALR license. Violation of this requirement shall constitute operation of an ALR without a license and shall be subject to penalties in accordance with this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

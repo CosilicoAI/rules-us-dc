@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-305.28"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-305.28/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_305_28">
+        <akn:num>29-305.28</akn:num>
+        <akn:heading>Voting for directors; cumulative voting.</akn:heading>
+<akn:subsection eId="subsec_29-305_28_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless otherwise provided in the articles of incorporation, directors shall be elected by a plurality of the votes cast by the shares entitled to vote in the election at a meeting at which a quorum is present.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_28_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Shareholders shall not have a right to cumulate their votes for directors unless the articles of incorporation so provide.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_28_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A statement included in the articles of incorporation that “all” or “a designated voting group” “of shareholders are entitled to cumulate their votes for directors”, or words of similar import, means that the shareholders designated are entitled to multiply the number of votes they are entitled to cast by the number of directors for whom they are entitled to vote and cast the product for a single candidate or distribute the product among 2 or more candidates.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_28_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Shares otherwise entitled to vote cumulatively shall not be voted cumulatively at a particular meeting unless:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

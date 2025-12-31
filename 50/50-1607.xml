@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1607"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1607/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1607">
+        <akn:num>50-1607</akn:num>
+        <akn:heading>Child safety helmet education program.</akn:heading>
+<akn:subsection eId="subsec_50-1607_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 60 days of May 23, 2000, the District Department of Transportation, in conjunction with the Metropolitan Police Department and District of Columbia Public Schools, shall develop and implement a public education program to educate adults and children under 16 years of age on the requirements of this subchapter and the importance of properly wearing bicycle safety helmets.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1607_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>By October 1, of each year, the District Department of Transportation shall provide the Council of the District of Columbia, Committee on Public Works and the Environment, or a successor committee, a report summarizing the public education activities completed during the previous fiscal year, along with any statistics collected regarding bicycle accidents and injuries during the preceding fiscal year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/12-309"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/12-309/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_12_309">
+        <akn:num>12-309</akn:num>
+        <akn:heading>Actions against District of Columbia for unliquidated damages; time for notice.</akn:heading>
+<akn:subsection eId="subsec_12-309_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (b) of this section, an action may not be maintained against the District of Columbia for unliquidated damages to person or property unless, within six months after the injury or damage was sustained, the claimant, his agent, or attorney has given notice in writing to the Mayor of the District of Columbia of the approximate time, place, cause, and circumstances of the injury or damage. A report in writing by the Metropolitan Police Department, in regular course of duty, is a sufficient notice under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_12-309_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This section shall not apply to claims brought under § 2-1403.16 or § 1-615.54.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

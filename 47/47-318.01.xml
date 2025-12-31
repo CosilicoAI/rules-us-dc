@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-318.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-318.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_318_01">
+        <akn:num>47-318.01</akn:num>
+        <akn:heading>Mayoral budget submissions required; accounting of expenditures.</akn:heading>
+<akn:subsection eId="subsec_47-318_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In the annual budget submission, the Mayor shall provide the Council with an agency-by-agency accounting of expenditures for all years of the multiyear plan and multiyear plan modifications submitted with the Mayor’s annual budget and budget modifications. This accounting shall be of agency expenditures at the agency level, with such additional detail as the Council may request.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-318_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Pursuant to §§ 1-204.42 and 1-204.43, the Chief Financial Officer shall prepare, on a biennial basis, and the Mayor shall include in the budget submission to the Council, a tax expenditure budget that estimates the revenue loss to the District government from each tax expenditure for the current fiscal year and the next 2 fiscal years. The Chief Financial Officer shall present the first tax expenditure budget for inclusion in the fiscal year 2003 budget submission to the Council, but shall also prepare for inclusion in the fiscal year 2002 budget submission a pilot tax expenditure budget that includes the tax expenditures for which, in the judgment of the Chief Financial Officer, there is sufficient information to estimate the revenue loss. Beginning with the fiscal year 2003 budget submission, the tax expenditure budget shall include the following information:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

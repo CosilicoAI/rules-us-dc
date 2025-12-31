@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2212"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2212/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2212">
+        <akn:num>21-2212</akn:num>
+        <akn:heading>Effect of subchapter.</akn:heading>
+<akn:subsection eId="subsec_21-2212_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in this subchapter shall be construed to condone, authorize, or approve mercy-killing or to permit any affirmative or deliberate act to end a human life other than to permit the natural dying process.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2212_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this subchapter shall be construed to conflict with or supersede, the Emergency Medical Treatment and Labor Act, approved April 17, 1986 (100 Stat. 164; 42 U.S.C. § 1395dd).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2212_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Emergency health care may be provided without consent to a patient who is certified incapacitated under § 21-2204, if no authorized person is reasonably available or if, in the reasonable medical judgment of the attending physician, attempting to locate an authorized person would cause:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

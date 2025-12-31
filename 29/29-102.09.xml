@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-102.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-102.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_102_09">
+        <akn:num>29-102.09</akn:num>
+        <akn:heading>Signing of entity filing.</akn:heading>
+<akn:subsection eId="subsec_29-102_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Signing an entity filing shall be an affirmation under the penalties for making false statements that the facts stated in the filing are true in all material respects.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Whenever this title requires a particular individual to sign an entity filing and the individual is deceased or incompetent, the filing may be signed by a personal representative of the individual on behalf of the individual.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person that signs a record as an agent or legal representative thereby affirms as a fact that the person is authorized to sign the record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a person required by this title to sign or deliver a record to the Mayor for filing under this title does not do so, any other person that is aggrieved may petition the Superior Court to order:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_09_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the petitioner under subsection (d) of this section is not the entity to which the record pertains, the petitioner shall make the entity a party to the action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_09_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A record filed under subsection (d)(3) of this section is effective without being signed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_09_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>If a record delivered to the Mayor for filing under this title and filed by the Mayor contains inaccurate information, a person that suffers a loss by reliance on the information may recover damages for the loss from a person that signed the record or caused another to sign it on the person’s behalf and knew at the time the record was signed that the information was inaccurate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

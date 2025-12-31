@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-506"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-506/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_506">
+        <akn:num>25-506</akn:num>
+        <akn:heading>Minimum fees for temporary licenses.</akn:heading>
+<akn:subsection eId="subsec_25-506_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The minimum fee for the issuance of a temporary license shall be the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-506_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon request, the Board has the authority to reduce the fee to $150 per day, for a temporary license, class G, or to $50 per day, for a temporary license, class F, for nonprofit organizations. This reduction shall only be available once each calendar year to any single organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-506_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Board may create regulations and fees, in accordance with §§ 25-211(b) and 25-502, to permit an on-premises retailer under a restaurant license to apply for a one-day substantial change to the size of their licensed premises to expand the establishment’s interior or exterior space in order to facilitate participation in community or street festivals. The Board shall not grant permission for this change more than twice in any calendar year for any establishment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

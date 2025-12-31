@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1008.23"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1008.23/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1008_23">
+        <akn:num>29-1008.23</akn:num>
+        <akn:heading>Resignation and removal of officers.</akn:heading>
+<akn:subsection eId="subsec_29-1008_23_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The board of directors may remove an officer at any time with or without cause.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1008_23_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An officer of a limited cooperative association may resign at any time by giving notice in a record to the association. Unless the notice specifies a later time, the resignation shall be effective when the notice is given.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

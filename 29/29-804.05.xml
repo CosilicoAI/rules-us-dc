@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-804.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-804.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_804_05">
+        <akn:num>29-804.05</akn:num>
+        <akn:heading>Limitations on distribution.</akn:heading>
+<akn:subsection eId="subsec_29-804_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A limited liability company shall not make a distribution, including a distribution under § 29-807.05(c), if after the distribution:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A limited liability company may base a determination that a distribution is not prohibited under subsection (a) of this section on financial statements prepared on the basis of accounting practices and principles that are reasonable in the circumstances or on a fair valuation or other method that is reasonable under the circumstances.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsections (e) and (f) of this section, the effect of a distribution under subsection (a) of this section shall be measured:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A limited liability company’s indebtedness to a member or transferee incurred by reason of a distribution made in accordance with this section shall be at parity with the company’s indebtedness to its general, unsecured creditors , except to the extent subordinated by agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_05_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A limited liability company’s indebtedness, including indebtedness issued in connection with or as part of a distribution, shall not be a liability for purposes of subsection (a) of this section if the terms of the indebtedness provide that payment of principal and interest are made only to the extent that a distribution could be made to members under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_05_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>If indebtedness is issued as a distribution, each payment of principal or interest on the indebtedness shall be treated as a distribution, the effect of which is measured on the date the payment is made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_05_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>In measuring the effect of a distribution under § 29-807.05, the liabilities of a dissolved limited liability company do not include any claim that has been disposed of under § 29-807.03, § 29-807.04, or § 29-807.07.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3931.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3931.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3931_14">
+        <akn:num>31-3931.14</akn:num>
+        <akn:heading>Financial examination.</akn:heading>
+<akn:subsection eId="subsec_31-3931_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commissioner, or his designee, may visit each captive insurer at such times as he or she considers necessary to thoroughly inspect and examine the affairs of the captive insurer or protected cell of a captive insurer to ascertain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commissioner may require a captive insurer to retain qualified independent legal, financial, and examination services from outside the Department to conduct the examination and make recommendations to the Commissioner. The cost of the examination shall be paid by the captive insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Chapter 14 of this title [§ 31-1401 et seq.] shall apply to examinations conducted pursuant to this section. The Commissioner may waive the requirement in § 13-1402(a) that a captive insurer must be examined at least once every 5 years, if the:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_14_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For purposes of subsection (a) of this section, protected cells of a captive insurer shall not be separately examined unless the Commissioner has sufficient cause to examine one or more protected cells.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

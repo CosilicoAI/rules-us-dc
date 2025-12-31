@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4006"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4006/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_4006">
+        <akn:num>22-4006</akn:num>
+        <akn:heading>Duties of the Department of Mental Health.</akn:heading>
+<akn:subsection eId="subsec_22-4006_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Agency shall have the authority to notify the Department of Mental Health in writing of those sex offenders in the custody or under the supervision of the Department of Mental Health who are required to register pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4006_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>With respect to sex offenders for whom notice has been given pursuant to subsection (a) of this section, the Department of Mental Health shall inform the Agency when a sex offender:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4006_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The information provided to the Agency by the Department of Mental Health shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4006_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Agency and the Metropolitan Police Department are authorized to make further disclosures of the information provided by the Department of Mental Health pursuant to this section as necessary to ensure compliance with this chapter and to prosecute violations of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

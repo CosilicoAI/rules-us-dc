@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1327"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1327/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1327">
+        <akn:num>31-1327</akn:num>
+        <akn:heading>Claims of holders of void or voidable rights.</akn:heading>
+<akn:subsection eId="subsec_31-1327_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No claims of a creditor who has received or acquired a preference, lien, conveyance, transfer, assignment, or encumbrance voidable under this chapter shall be allowed unless he or she surrenders the preference, lien, conveyance, transfer, assignment, or encumbrance. If the avoidance is effected by a proceeding in which a final judgment has been entered, the claim shall not be allowed unless the money is paid or the property is delivered to the liquidator within 30 days from the date of the entering of the final judgment, except that the court having jurisdiction over the liquidation may allow further time if there is an appeal or other continuation of the proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1327_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A claim allowable under subsection (a) of this section by reason of the avoidance, whether voluntary or involuntary, or a preference, lien, conveyance, transfer, assignment, or encumbrance, may be filed as an excused last filing under § 31-1333 if filed within 30 days from the date of the avoidance, or within the further time allowed by the court under subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

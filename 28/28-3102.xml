@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3102">
+        <akn:num>28-3102</akn:num>
+        <akn:heading>Insolvency.</akn:heading>
+<akn:subsection eId="subsec_28-3102_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A debtor is insolvent if the sum of the debtor’s debts is greater than all of the debtor’s assets, at a fair valuation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3102_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A debtor who is generally not paying his or her debts as they become due is presumed to be insolvent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3102_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A partnership is insolvent under subsection (a) of this section if the sum of the partnership’s debts is greater than the aggregate, at a fair valuation, of all of the partnership’s assets, and the sum of the excess of the value of each general partner’s nonpartnership assets over the partner’s nonpartnership debts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3102_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Assets under this section do not include property that has been transferred, concealed, or removed with intent to hinder, delay, or defraud creditors or that has been transferred in a manner making the transfer voidable under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3102_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Debts under this section do not include an obligation to the extent it is secured by a valid lien on property of the debtor not included as an asset.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

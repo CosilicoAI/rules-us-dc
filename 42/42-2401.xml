@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2401">
+        <akn:num>42-2401</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_42-2401_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Disbursement of loan funds” means the delivery of loan funds by a lender to a settlement agent in the form of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2401_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Disbursement of settlement proceeds” means the payment of all proceeds of a transaction by a settlement agent to the persons entitled to receive the proceeds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2401_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Lender” means any person regularly engaged in making loans secured by mortgages or by deeds of trust on real estate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2401_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Loan closing” means that time agreed upon by a borrower and a lender when the execution of the loan documents by the borrower occurs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2401_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Loan documents” means a note evidencing a debt due a lender, a deed of trust or a mortgage securing a debt due a lender, and any other documents required by a lender to be executed by a borrower as part of a transaction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2401_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Loan funds” means the gross or net proceeds of the loan to be disbursed by a lender at loan closing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2401_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Parties” means a seller, a purchaser, a borrower, a lender, and a settlement agent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2401_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Settlement” means the time when the settlement agent has received a duly executed deed, loan funds, loan documents, and other documents and certified funds required to carry out the terms of a contract between the parties, and the settlement agent can reasonably determine that prerecordation conditions of the contract have been satisfied.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2401_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Settlement agent” means a person responsible for conducting a settlement and disbursement of the settlement proceeds.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

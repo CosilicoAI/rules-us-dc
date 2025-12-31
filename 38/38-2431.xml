@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2431"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2431/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2431">
+        <akn:num>38-2431</akn:num>
+        <akn:heading>Findings.</akn:heading>
+<akn:subsection eId="subsec_38-2431_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>American Sign Language (“ASL”) is one of the top 4 widely used languages in the United States and Canada.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2431_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The District of Columbia has over 20,000 deaf and hard of hearing residents, many of whom use ASL as their primary language.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2431_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>ASL has met the accepted linguistic criteria to qualify as a legitimate language in that it has a system of arbitrary symbols, grammatical signals, syntax, has a community of users, and it has undergone historical changes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2431_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Two-thirds of state legislatures in the United States recognize and accept ASL as a bona fide language.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

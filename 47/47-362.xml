@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-362"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-362/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_362">
+        <akn:num>47-362</akn:num>
+        <akn:heading>Policies enumerated.</akn:heading>
+<akn:subsection eId="subsec_47-362_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A reprogramming shall be used only when an unforeseen situation develops, and then only if postponement until the next appropriations cycle would result in a serious hardship in the management of the City.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-362_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Reprogrammings shall not be used to establish new programs or to change allocations specifically denied, limited, or increased by the Council in the budget act, or the accompanying budget report or mark-up sheets.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-362_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any program or project deferred through reprogramming shall not be later accomplished by means of further reprogramming. Funding for such section shall await the regular budget request.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-362_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Should unusual circumstances require changes to the policies included in subsections (a) through (c) of this section, proposals shall be submitted to the Council for approval regardless of the dollar amount involved.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-362_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-362_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Notwithstanding § 47-363, any funds appropriated for Debt Service, as defined in § 47-334(1), in excess of Debt Service requirements:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

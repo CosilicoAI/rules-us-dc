@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-201.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-201.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_201_01">
+        <akn:num>2-201.01</akn:num>
+        <akn:heading>Bonds required from public contractors; amount; waiver.</akn:heading>
+<akn:subsection eId="subsec_2-201_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Before any contract, exceeding $25,000 in amount, for the construction, alteration, or repair of any public building or public work of the District of Columbia is awarded to any person, such person shall furnish to the District of Columbia the following bonds, which shall become binding upon the award of the contract to such person, who is hereinafter designated as “contractor”: (1) A performance bond with a surety or sureties satisfactory to the Mayor of the District of Columbia, and in such amount as he shall deem adequate, for the protection of the District of Columbia; (2) a payment bond with a surety or sureties satisfactory to the Mayor for the protection of all persons supplying labor and material in the prosecution of the work provided for in said contract for the use of each such person. Whenever the total amount payable by the terms of the contract shall be not more than $1,000,000, the payment bond shall be in a sum equal to one-half the total amount payable by the terms of the contract. Whenever the total amount payable by the terms of the contract shall be more than $1,000,000 and not more than $5,000,000, the said payment bond shall be in a sum equal to 40 per centum of the total amount payable by the terms of the contract. Whenever the total amount payable by the terms of the contract shall be more than $5,000,000 the payment bond shall be in the sum of $2,500,000.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-201_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed to limit the authority of the Mayor to require a performance bond or other security in addition to those, or in cases other than the cases specified in subsection (a) of this section, or the authority of the Mayor to waive the requirement for performance and payment bonds in such cases as he shall determine.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-201_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any surety bond required by this section shall be executed by a surety certified by the U.S. Department of Treasury to do business pursuant to § 9305 of Title 31, United States Code, or a surety company licensed in the District of Columbia which meets the statutory capital and surplus requirements or as otherwise determined by the Mayor to be appropriate and necessary in the amount for underwriting such bonds.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

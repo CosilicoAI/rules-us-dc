@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.91"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.91/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_406_91">
+        <akn:num>29-406.91</akn:num>
+        <akn:heading>Limited liability for employee of corporation.</akn:heading>
+<akn:subsection eId="subsec_29-406_91_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “employee” means a person regularly employed to perform a service for a salary or wages.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_91_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in subsections (c) and (d) of this section, an employee of the corporation shall not be held personally liable in damages for any acts or omissions in providing services or performing duties on behalf of the corporation in an amount greater than the amount of total compensation, other than reimbursement of expenses, received from the corporation for performing those services or duties during the 12 months immediately preceding the act or omission for which liability was imposed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_91_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The limitation of liability in this section shall not apply if the injury or damage was a result of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_91_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The limitation of liability in this section does not apply to any licensed professional employee operating in his or her professional capacity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_91_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>This section shall not exempt the corporation from liability, but the corporation is liable only to the extent of the applicable limit of insurance coverage it maintains.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

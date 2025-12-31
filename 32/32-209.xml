@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-209"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-209/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_209">
+        <akn:num>32-209</akn:num>
+        <akn:heading>Work or vacation permit — Application requirements.</akn:heading>
+<akn:subsection eId="subsec_32-209_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>A statement signed by the prospective employer or the employer’s authorized agent, stating that the employer expects to give such minor present employment, setting forth the specific nature of the occupation in which such minor will be employed, and the number of hours per day and of days per week which said minor will be employed;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-209_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Evidence of age as provided in § 32-210;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-209_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Written consent of the parent, guardian, or custodian, if the minor is under 16 years of age, specifying permission for employment of such minor; provided, that if such minor is withdrawing from school for purposes of employment, the parent, guardian or custodian must appear in person before the issuing officer and sign the consent form;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-209_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>A school record, if the minor is under 16 years of age and is withdrawing from school for purposes of employment, signed by the principal of the public, private or parochial school last attended by the minor, or by a person duly authorized by said principal. The school record shall certify that the minor has completed the 8th grade or the equivalent thereof in a public school, or has regularly received, in a private or parochial school, instruction deemed equivalent by the Board of Education to that prescribed for the completion of the 8th grade in the public school of the District of Columbia. The school record shall contain also the full name, date of birth, grade last completed, and residence of the minor as shown on the records of the school; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-209_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>A certificate, if the person is less than 16 years of age, of physical fitness for the employment specified in the statement submitted in accordance with paragraph (1) of this section. Such certificate shall be signed by a licensed physician.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

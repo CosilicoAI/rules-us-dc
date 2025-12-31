@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1304.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1304.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1304_01">
+        <akn:num>29-1304.01</akn:num>
+        <akn:heading>Annual benefit report.</akn:heading>
+<akn:subsection eId="subsec_29-1304_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A benefit corporation shall prepare an annual benefit report including all of the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1304_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A benefit corporation shall annually send a benefit report to each shareholder:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1304_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A benefit corporation shall post all of its benefit reports on the public portion of its website, if any, but the compensation paid to directors and financial or proprietary information included in the benefit reports may be omitted from the benefit reports as posted.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1304_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a benefit corporation does not have a website, the benefit corporation shall provide a copy of its most recent benefit report, without charge, to any person that requests a copy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1304_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The benefit corporation shall deliver a copy of the benefit report to the Mayor for filing when filing the biennial report required by § 29-102.11, but the compensation paid to directors and financial or proprietary information included in the benefit report may be omitted from the copy of the benefit report that is delivered to the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

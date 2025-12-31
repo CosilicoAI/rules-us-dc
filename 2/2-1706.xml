@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1706"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1706/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1706">
+        <akn:num>2-1706</akn:num>
+        <akn:heading>Maintenance of public records.</akn:heading>
+<akn:subsection eId="subsec_2-1706_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1706_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>No electronic mail shall be deleted or destroyed until new rules and regulations for the retention of electronic mail are submitted to and approved by the Council pursuant to § 2-1702(e). Such rules and regulations shall be submitted within 60 days of June 13, 2008.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1706_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It shall be the responsibility of each agency to develop:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1706_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An employee at each agency shall be designated as the records management officer of the agency, who shall develop and carry out the records management program of the agency and provide liaison with the Administrator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1706_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any inactive public record of the District which is deemed to have continuing historical or other significance shall be transferred to the District of Columbia Archives to be properly preserved, arranged, described, and made available for reference purposes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

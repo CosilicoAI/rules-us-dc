@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-622.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-622.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_622_08">
+        <akn:num>1-622.08</akn:num>
+        <akn:heading>Death claims; order of precedence; viatical settlements.</akn:heading>
+<akn:subsection eId="subsec_1-622_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (a-1) of this section, the amount of group life insurance in force for an employee or annuitant at the date of the employee or annuitant death shall be paid, on the establishment of a valid claim, to the person or persons surviving at the date of the death of the employee or annuitant, in the following order of precedence:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-622_08_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-622_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If no claim has been filed by any of the persons set forth in subsection (a) of this section or an assignee pursuant to subsection (a-1) of this section within 4 years of the date of death of an employee or annuitant, then the funds shall be deposited into the General Fund of the District of Columbia to be kept for safekeeping and disbursed in accordance with Chapter 1 of Title 41.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

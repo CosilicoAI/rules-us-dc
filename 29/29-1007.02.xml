@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1007.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1007.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1007_02">
+        <akn:num>29-1007.02</akn:num>
+        <akn:heading>Marketing contracts.</akn:heading>
+<akn:subsection eId="subsec_29-1007_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a marketing contract provides for the sale of products, commodities, or goods to a limited cooperative association, the sale shall transfer title to the association upon delivery or at any other specific time expressly provided by the contract.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1007_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A marketing contract may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1007_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Some or all of the provisions of a marketing contract between a patron member and a limited cooperative association may be contained in the organic rules.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

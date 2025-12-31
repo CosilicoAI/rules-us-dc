@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4406"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4406/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4406">
+        <akn:num>16-4406</akn:num>
+        <akn:heading>Validity of agreement to arbitrate.</akn:heading>
+<akn:subsection eId="subsec_16-4406_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable, and irrevocable except upon a ground that exists at law or in equity for the revocation of a contract.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4406_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The court shall decide whether an agreement to arbitrate exists or a controversy is subject to an agreement to arbitrate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4406_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An arbitrator shall decide whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4406_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a party to a judicial proceeding challenges the existence of, or claims that a controversy is not subject to, an agreement to arbitrate, the arbitration proceeding may continue pending final resolution of the issue by the court, unless the court otherwise orders.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-221.01c"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-221.01c/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_221_01c">
+        <akn:num>24-221.01c</akn:num>
+        <akn:heading>Credits for good behavior, rehabilitation programs, work details, and special projects.</akn:heading>
+<akn:subsection eId="subsec_24-221_01c_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person sentenced for a misdemeanor whose conduct complies with institutional rules shall be eligible to receive good time credits of up to 3 credits per calendar month for good behavior, as prescribed by applicable rules.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-221_01c_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person sentenced for a misdemeanor who demonstrates successful participation in one or more rehabilitation programs, work details, or special projects shall be eligible to receive good time credits of up to 3 credits per calendar month for each such program, detail, or project, as prescribed by applicable rules.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-221_01c_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No person shall receive more than 8 credits per calendar month under § 24-221.01 and this section combined.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-221_01c_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Good time credits shall be computed from the day on which a person is first incarcerated. In a case in which the person is later sentenced for a misdemeanor, the good time credits shall not be awarded until after a sentence is imposed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

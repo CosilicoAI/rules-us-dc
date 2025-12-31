@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-505"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-505/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_505">
+        <akn:num>50-505</akn:num>
+        <akn:heading>Disclosure of damages or defects in used motor vehicles; violations; penalties.</akn:heading>
+<akn:subsection eId="subsec_50-505_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No motor vehicle dealer may offer for sale any used motor vehicle without first providing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-505_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A motor vehicle dealer who fails to provide the notices required by this section or who provides false or misleading notices shall, upon conviction, be subject to the following penalties:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-505_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The purchaser of a used motor vehicle shall have a right of action against a used motor vehicle dealer for damages or injuries sustained as a result of the dealer’s failure to comply with the requirements of this section. The purchaser, in order to seek the remedies provided by this section, shall first submit a claim to the Board. If the Board rejects the case for arbitration, or if the claim is arbitrated and the purchaser rejects the arbitration decision, the purchaser may then bring an action in court to seek the remedies provided by this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-505_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Violations of this section shall be prosecuted in the name of the District of Columbia by the Corporation Counsel of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-505_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this chapter, or the rules or regulations issued under the authority of this chapter, pursuant to Chapter 18 of Title 2. Adjudication of any infraction shall be pursuant to Chapter 18 of Title 2.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

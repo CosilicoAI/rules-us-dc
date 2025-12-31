@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-715"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-715/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_715">
+        <akn:num>50-715</akn:num>
+        <akn:heading>Financial and operational incentives for use of alternative fuels.</akn:heading>
+<akn:subsection eId="subsec_50-715_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Not later than 180 days after March 14, 1995, the Mayor, where feasible, shall submit to the Council proposed legislation, regulations, or a combination thereof, that provides for financial and operational incentives for the commercial fleet use of alternative fuels.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-715_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Where feasible, as determined by the Mayor, the proposal shall include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-715_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The incentives shall be structured and administered so as to qualify for recognition by the EPA for air quality standards attainment purposes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

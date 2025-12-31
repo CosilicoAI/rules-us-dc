@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1257.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1257.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1257_05">
+        <akn:num>34-1257.05</akn:num>
+        <akn:heading>Construction notice to the public.</akn:heading>
+<akn:subsection eId="subsec_34-1257_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A cable operator shall notify the general public prior to commencing any proposed construction that will significantly disturb or disrupt public rights-of-way or public space, or that has the potential to present danger or affect the safety of the public generally.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1257_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except for routine maintenance or minor repair work, at least 5 days prior to commencement of work, a cable operator shall notify residents and others in the immediate vicinity of proposed construction who are most likely to be affected by the construction work either by telephone, in person, by mail, or distribution of door hangers, and shall provide written notice by first class mail to the affected Advisory Neighborhood Commission and the Advisory Neighborhood Commissioner of the affected single-member district. Publication of a notice in a local newspaper shall not be deemed adequate notice. The notice must include the name and local telephone number of the cable operator’s representative who is qualified to answer questions concerning the proposed construction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1257_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to the notice requirements in subsections (a) and (b) of this section, before entering any person’s property for proposed construction work, a cable operator shall obtain the permission of the owner and shall contact the property owner, and the resident, in the case of a leased property, at least 2 days before entering the person’s property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

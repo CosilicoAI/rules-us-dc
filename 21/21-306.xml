@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-306"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-306/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_306">
+        <akn:num>21-306</akn:num>
+        <akn:heading>Other transfers by fiduciary.</akn:heading>
+<akn:subsection eId="subsec_21-306_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to subsection (c) of this section, a personal representative or trustee may make an irrevocable transfer to another adult or to a trust company, as custodian, for the benefit of a minor pursuant to section 21-309, in the absence of a will or under a will or trust that does not contain an authorization to do so.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-306_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to subsection (c) of this section, a conservator may make an irrevocable transfer to another adult or to a trust company, as custodian, for the benefit of the minor pursuant to section 21-309.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-306_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A transfer under subsection (a) or (b) of this section may be made only if the following occur:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1006"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1006/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1006">
+        <akn:num>7-1006</akn:num>
+        <akn:heading>Equal access to housing.</akn:heading>
+<akn:subsection eId="subsec_7-1006_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Persons with physical or mental disabilities shall be entitled to full and equal access, as other members of the general public, to all housing accommodations offered for rent, lease, or compensation in the District of Columbia, subject to the conditions and limitations established by law or in accordance with law and applicable alike to all persons.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1006_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Persons with physical or mental disabilities who have a service animal shall be entitled to full and equal access to all housing accommodations referred to in this section without being denied access because of the service animal. Such persons shall not be required to pay an extra charge for the service animal but shall be liable for any damage done by the service animal.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1006_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall require any person renting, leasing, or providing real property for compensation in the District of Columbia to modify his property in any way or to provide a higher degree of care for a blind person or person with another physical disability than for a person who does not have a physical disability.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1006_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In making a determination that an individual qualifies under this section, a housing provider shall limit any inquiry to the minimum information and documentation necessary to establish that an individual meets the definition of persons with physical or mental disabilities provided in § 7-1009(4) by requiring that a physician or other licensed healthcare professional verify that the individual meets the definition of persons with physical or mental disabilities. A housing provider may also require a person with a disability to demonstrate a nexus between his or her disability and the function that the service animal provides. A housing provider shall not inquire further into the nature or severity of the disability. A housing provider shall not require the individual to provide a description of the disability when making an eligibility determination. A housing provider shall not require the individual to provide eligibility documentation in less than 30 days.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

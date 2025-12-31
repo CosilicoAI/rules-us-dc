@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-531.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-531.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_531_10">
+        <akn:num>24-531.10</akn:num>
+        <akn:heading>Statements made during the course of competence examination or treatment.</akn:heading>
+<akn:subsection eId="subsec_24-531_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any statement that is obtained during a court-ordered examination, evaluation, or treatment, or any evidence resulting from that statement, is not admissible at any proceeding to determine a defendant’s guilt or innocence or to determine an appropriate sentence, except when the defendant puts his competence or mental health at issue in the proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-531_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any statement made by the defendant during a court-ordered examination, evaluation, or treatment, or any evidence resulting from that statement, concerning any other event or transaction is not admissible at any proceeding to determine the defendant’s guilt or innocence of any other criminal charges or to determine an appropriate sentence based on those events or transactions, except when the defendant puts his competence or mental health concerning those events or transactions at issue in any legal proceeding.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

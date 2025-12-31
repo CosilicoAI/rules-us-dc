@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3602"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3602/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3602">
+        <akn:num>42-3602</akn:num>
+        <akn:heading>Action for possession of rental unit used as a drug haven.</akn:heading>
+<akn:subsection eId="subsec_42-3602_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any provision of § 16-1501, or § 42-3505.01, a housing provider may commence an action in the Court to recover possession of a rental unit or the Mayor may commence an action in the Court to evict a tenant or occupant in a rental unit. The following persons may commence an action to abate a nuisance in the Court: the Mayor, the United States Attorney for the District of Columbia, the civic association within whose boundaries the nuisance is located, or the community association within whose boundaries the nuisance is located. The recovery or eviction shall be ordered if the Court has determined, by a preponderance of the evidence, that the rental unit is a drug haven or that a nuisance exists. In making the determination that the rental unit is a drug haven or that a nuisance exists, the Court shall consider:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3602_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A notice of the action shall be served upon the tenant or occupant and housing provider at least 5 days prior to a hearing.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

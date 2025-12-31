@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1809.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1809.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1809_05">
+        <akn:num>47-1809.05</akn:num>
+        <akn:heading>Tax on estates and trusts — Net income.</akn:heading>
+<akn:subsection eId="subsec_47-1809_05_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>There shall be allowed as an additional deduction in computing the net income of the estate or trust the amount of the income of the estate or trust for its taxable year which is to be distributed currently by the fiduciary to the beneficiaries, and the amount of the income collected by a guardian of an infant which is to be held or distributed as the court may direct, but the amount so allowed as a deduction shall be included in computing the net income of the beneficiaries whether distributed to them or not. Any amount allowed as a deduction under this paragraph shall not be allowed as a deduction under paragraph (2) of this section in the same or any succeeding taxable year;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1809_05_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>In the case of income received by estates of deceased persons during the period of administration or settlement of the estate, and in the case of income which, in the discretion of the fiduciary, may be either distributed to the beneficiary or accumulated, there shall be allowed as an additional deduction in computing the net income of the estate or trust the amount of the income of the estate or trust for its taxable year, which is properly paid or credited during such year to any legatee, heir, or beneficiary, but the amount so allowed as a deduction shall be included in computing the net income of the legatee, heir, or beneficiary;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1809_05_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>There shall be allowed as a deduction, in lieu of a charitable contribution, any part of the gross income, without limitation, which, pursuant to the terms of the will or deed creating a trust, is during the taxable year paid or permanently set aside for the purposes and in the manner provided in the governing instrument creating the trust;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1809_05_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>There shall be allowed to an estate the same exemption as is allowed residents under the provisions of § 47-1806.02(a); and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1809_05_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>There shall be allowed to a trust a credit against net income of $100.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

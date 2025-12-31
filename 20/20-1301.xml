@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-1301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-1301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_1301">
+        <akn:num>20-1301</akn:num>
+        <akn:heading>Termination of appointment.</akn:heading>
+<akn:subsection eId="subsec_20-1301_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Supervised administration. — The approval of the final account shall automatically close the estate, and if the final account so requests and the Court approves, shall terminate the appointment of the personal representative. If the appointment is not terminated by the final account, a supervised personal representative may later petition the Court for an order terminating the appointment. The personal representative shall mail or deliver notice of such petition to all residuary legatees, if the decedent died testate, or heirs, if the decedent died intestate, and to any creditors who have presented their claims but not been paid in full. The Court may hold a hearing on the petition if any person receiving notice files, within 20 days of the mailing of such notice, a written request for a hearing with the Court. After a hearing or, if no hearing is requested, after the expiration of the 20 days, the Court may enter an order terminating the appointment of the personal representative.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-1301_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Unsupervised administration; closing the estate. — Unless otherwise provided by an order of the Court for good cause shown in a particular case, an estate administered in an unsupervised administration shall be closed in one of 2 ways: (A) by the personal representative’s filing with the Court a Certificate of Completion as described in section 20-735, and the appointment of the personal representative shall thereby be terminated if so elected by the personal representative in the Certificate of Completion; or (B) if no Certificate of Completion is filed, then by the termination of the appointment of the personal representative as provided in subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-1301_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Unsupervised administration; automatic termination of appointment. — If no Certificate of Completion is filed by a personal representative in an unsupervised administration, then the appointment of the personal representative shall terminate automatically on the date which is 3 years after the appointment of the personal representative, or on the later expiration of any extension of the appointment granted by the Court. Specifically, the Court shall extend the appointment for an additional 12 months upon the written request of the personal representative; there shall be no limit on the number of extensions granted.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-1301_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Neither the closing of the estate nor the termination of the personal representative’s appointment shall prohibit the personal representative from thereafter performing whatever final administrative actions may be necessary to complete the affairs of the estate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

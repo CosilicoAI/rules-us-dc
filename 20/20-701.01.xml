@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-701.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-701.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_701_01">
+        <akn:num>20-701.01</akn:num>
+        <akn:heading>Personal representative to proceed without court order; exception.</akn:heading>
+<akn:subsection eId="subsec_20-701_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A personal representative shall proceed expeditiously with the settlement and distribution of a decedent’s estate and, except as may be otherwise specified or ordered by the Court in a particular proceeding, do so without adjudication, order, or direction of the Court, but the personal representative may invoke the jurisdiction of the Court, in proceedings authorized by this title, to resolve questions concerning the estate or its administration.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-701_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Unless the time of distribution is extended by the Court for good cause shown, the supervised personal representative shall distribute all the assets of the estate in such representative’s possession or control within 30 days of the approval of the final account.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

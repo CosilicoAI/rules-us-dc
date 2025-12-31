@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-354.18"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-354.18/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_354_18">
+        <akn:num>2-354.18</akn:num>
+        <akn:heading>Right to audit records; right to inspect.</akn:heading>
+<akn:subsection eId="subsec_2-354_18_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The District may, at reasonable times and places, audit the books and records of any person who has submitted data to substantiate offered prices pursuant to § 2-354.19 to the extent that the books and records relate to that data. A person who receives a contract, change order, or contract modification for which the data is required, shall maintain books and records that relate to the cost or pricing data for 3 years from the date of final payment under the contract, unless a shorter period is otherwise authorized in writing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-354_18_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Inspector General, District of Columbia Auditor, or District shall be entitled to audit the books and records of a contractor or any subcontractor under any negotiated contract or subcontract, other than a firm fixed-price contract, to the extent that the books and records relate to the performance of the contract or subcontract. Books and records shall be maintained by the contractor for a period of 3 years from the date of final payment under the prime contract and by the subcontractor for a period of 3 years from the date of final payment under the subcontract, unless a shorter period is otherwise authorized in writing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-354_18_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Inspector General, District of Columbia Auditor, or District may, at reasonable times, inspect the part of the place of business of a contractor or any subcontractor which is related to the performance of any contract awarded or to be awarded by the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

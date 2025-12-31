@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2431"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2431/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2431">
+        <akn:num>42-2431</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_42-2431_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Foreclosure rescue service” means any good or service related to or promising assistance in connection with:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2431_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Foreclosure rescue transaction” means a transaction involving the transfer of title to real property, or an interest in the property, by a homeowner during or incident to a mortgage default, foreclosure, or tax sale proceeding, either by transfer of any interest from the homeowner to another party or by creation of a mortgage, trust, or other lien or encumbrance during the foreclosure process; provided, that the transaction includes the subsequent conveyance, the promise of a subsequent conveyance, or a right to a subsequent conveyance of an interest back to the homeowner from the acquirer or a person acting in participation with the acquirer, including an interest in a contract for deed, purchase agreement, land installment sale, contract for sale, option to purchase, sale/leaseback, trust, or other contractual arrangement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

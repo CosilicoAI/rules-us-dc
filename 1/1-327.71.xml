@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-327.71"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-327.71/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_327_71">
+        <akn:num>1-327.71</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_1-327_71_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“DC One Card” means a credential issued by the District government as a single credential for purposes of accessing multiple District facilities, programs, and benefits, including public libraries, facilities of the Department of Parks and Recreation, and public schools.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-327_71_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Electronic chip” means a smart chip, radio frequency identification chip, or other contact or contact-less electronic media, including a Washington Metropolitan Area Transit Authority Smartrip chip, embedded in a DC One Card, to be read by participating agencies and programs for identification of the cardholder.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

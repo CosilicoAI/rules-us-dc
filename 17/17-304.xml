@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/17-304"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/17-304/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_17_304">
+        <akn:num>17-304</akn:num>
+        <akn:heading>Stay upon application for review of, or pending appeal from, administrative order or decision.</akn:heading>
+<akn:subsection eId="subsec_17-304_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An application for review, or pendency of an appeal, provided for by section 17-303, does not operate as a stay of the order or decision from which the appeal is taken:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_17-304_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For good cause shown, and upon such conditions as may be required and to the extent necessary to prevent irreparable injury, the court may take appropriate and necessary action to preserve the status or rights pending conclusion of the review proceedings provided for by section 17-303.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

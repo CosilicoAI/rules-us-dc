@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-207.40"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-207.40/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_207_40">
+        <akn:num>1-207.40</akn:num>
+        <akn:heading>Emergency control of police.</akn:heading>
+<akn:subsection eId="subsec_1-207_40_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, whenever the President of the United States determines that special conditions of an emergency nature exist which require the use of the Metropolitan Police force for federal purposes, he may direct the Mayor to provide him, and the Mayor shall provide, such services of the Metropolitan Police force as the President may deem necessary and appropriate. In no case, however, shall such services made available pursuant to any such direction under this subsection extend for a period in excess of 48 hours unless the President has, prior to the expiration of such period, notified the Chairmen and ranking minority members of the Committees on the District of Columbia of the Senate and the House of Representatives, in writing, as to the reason for such direction and the period of time during which the need for such services is likely to continue.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-207_40_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to the provisions of subsection (c) of this section, such services made available in accordance with subsection (a) of this section shall terminate upon the end of such emergency, the expiration of a period of 30 days following the date on which such services are first made available, or the enactment into law of a joint resolution by the Congress providing for such termination, whichever first occurs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-207_40_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding the foregoing provisions of this section, in any case in which such services are made available in accordance with the provisions of subsection (a) of this section during any period of an adjournment of the Congress sine die, such services shall terminate upon the end of the emergency, the expiration of the 30-day period following the date on which Congress first convenes following such adjournment, or the enactment into law of a joint resolution by the Congress providing for such termination, whichever first occurs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-207_40_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except to the extent provided for in subsection (c) of this section, no such services made available pursuant to the direction of the President pursuant to subsection (a) of this section shall extend for any period in excess of 30 days, unless the Senate and the House of Representatives enact into law a joint resolution authorizing such an extension.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

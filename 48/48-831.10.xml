@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-831.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-831.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_831_10">
+        <akn:num>48-831.10</akn:num>
+        <akn:heading>AccessRx Fund.</akn:heading>
+<akn:subsection eId="subsec_48-831_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The AccessRx Fund is established as a nonlapsing, dedicated fund, into which shall be deposited revenue from manufacturers and labelers that pay rebates pursuant to this subchapter and any appropriations or allocations designated for the AccessRx Fund, along with accruing interest, to be used for the purposes specified in subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-831_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All funds in the AccessRx Fund, including any surplus or interest, shall be used to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-831_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The funds deposited in the AccessRx Fund shall not revert to the General Fund but shall continually be available for the uses designated in subsection (b) of this section, subject to authorization by Congress in an appropriations act.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

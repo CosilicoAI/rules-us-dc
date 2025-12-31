@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_301">
+        <akn:num>28:9-301</akn:num>
+        <akn:heading>Law governing perfection and priority of security interests.</akn:heading>
+<akn:subsection eId="subsec_28:9-301_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this section, while a debtor is located in a jurisdiction, the local law of that jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in collateral.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-301_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>While collateral is located in a jurisdiction, the local law of that jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a possessory security interest in that collateral.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-301_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in paragraph (4), while tangible negotiable documents, goods, instruments, money, or tangible chattel paper is located in a jurisdiction, the local law of that jurisdiction governs:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-301_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The local law of the jurisdiction in which the wellhead or minehead is located governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in as-extracted collateral.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/51-136"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/51-136/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_51_136">
+        <akn:num>51-136</akn:num>
+        <akn:heading>Disclosure of information pertaining to domestic violence claimant.</akn:heading>
+<akn:subsection eId="subsec_51-136_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The Director notify the claimant prior to the release of any information;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-136_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The Director shall take reasonable actions to prevent the unnecessary disclosure of personal identifiers, such as the claimant’s address, from information otherwise required to be disclosed by law; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-136_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Further dissemination of the information released shall be prohibited.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

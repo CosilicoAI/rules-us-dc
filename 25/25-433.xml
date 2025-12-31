@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-433"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-433/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_433">
+        <akn:num>25-433</akn:num>
+        <akn:heading>Decisions of the board; petition for reconsideration.</akn:heading>
+<akn:subsection eId="subsec_25-433_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No application shall be approved until the Board has determined that the applicant has complied with § 25-402(a)(8) through (10) [now (7) through (9)] (and § 25-402(b) if the applicant is a restaurant or hotel) or, in the case of a renewal, has fulfilled the license requirements of this title. The Board shall make findings of fact with respect to each requirement, including the appropriateness standards set forth in §§ 25-313, 25-314, and 25-315, and the food sales requirements for restaurants and hotels.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-433_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the record shall close 30 days after a hearing is concluded to allow the parties to submit proposed findings of fact and conclusions of law and any other document submissions requested by the Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-433_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Within 90 days after the close of the record, the Board shall issue its written decision accompanied by findings of fact and conclusions of law. For new license applications, the Board shall issue its written decisions accompanied by findings of fact and conclusions of law within 60 days after the close of the record. The Board shall publish and maintain a compilation of its decisions and orders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-433_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-433_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Board may establish procedures under § 25-211(b) to consider an application which is not protested during the protest period.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

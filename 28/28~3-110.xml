@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-110"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-110/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_110">
+        <akn:num>28:3-110</akn:num>
+        <akn:heading>Identification of person to whom instrument is payable.</akn:heading>
+<akn:subsection eId="subsec_28:3-110_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The person to whom an instrument is initially payable is determined by the intent of the person, whether or not authorized, signing as, or in the name or behalf of, the issuer of the instrument. The instrument is payable to the person intended by the signer even if that person is identified in the instrument by a name or other identification that is not that of the intended person. If more than one person signs in the name or behalf of the issuer of an instrument and all the signers do not intend the same person as payee, the instrument is payable to any person intended by one or more of the signers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-110_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the signature of the issuer of an instrument is made by automated means, such as a check-writing machine, the payee of the instrument is determined by the intent of the person who supplied the name or identification of the payee, whether or not authorized to do so.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-110_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person to whom an instrument is payable may be identified in any way, including by name, identifying number, office, or account number. For the purpose of determining the holder of an instrument, the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-110_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If an instrument is payable to 2 or more persons alternatively, it is payable to any of them and may be negotiated, discharged, or enforced by any or all of them in possession of the instrument. If an instrument is payable to 2 or more persons not alternatively, it is payable to all of them and may be negotiated, discharged, or enforced only by all of them. If an instrument payable to 2 or more persons is ambiguous as to whether it is payable to the persons alternatively, the instrument is payable to the persons alternatively.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

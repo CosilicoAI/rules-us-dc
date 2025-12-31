@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1401">
+        <akn:num>7-1401</akn:num>
+        <akn:heading>Health Care Safety Net Administration establishment.</akn:heading>
+<akn:subsection eId="subsec_7-1401_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established within the Department of Health Care Finance a Health Care Safety Net Administration to administer and monitor compliance with any contract that the Mayor makes, pursuant to § 7-1405, or that the District of Columbia Financial Responsibility Management Assistance Authority makes, with a health care entity to provide any of the health care functions provided by the Public Benefit Corporation pursuant to Chapter 11 of Title 44 and to perform such other functions as are set forth herein.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1401_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Health Care Safety Net Administration shall be responsible for all transition activities that result from contracting out the functions of the Public Benefit Corporation and that remain to be completed after abolition of the Public Benefit Corporation pursuant to § 9 of the Health Care Privatization Amendment Act of 2001, effective July 12, 2001 (D.C. Law 14-18; 48 DCR 4047), including the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1401_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Health Care Safety Net Administration shall exercise oversight of the services contracted by the Mayor pursuant to § 7-1405, or by the District of Columbia Financial Responsibility and Management Assistance Authority, to ensure that the health of the population is maintained and that the financial viability of the health care entity providing services exempted pursuant to section 8 of the Health Care Privatization Amendment Act of 2001, effective July 12, 2001 (D.C. Law 14-18; 48 DCR 4047), is addressed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

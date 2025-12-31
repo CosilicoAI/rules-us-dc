@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1812.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1812.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1812_07">
+        <akn:num>47-1812.07</akn:num>
+        <akn:heading>Payment of tax.</akn:heading>
+<akn:subsection eId="subsec_47-1812_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1812_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Extension of time. — At the request of the taxpayer the Mayor may extend the time for payment by the taxpayer of the amount determined as the tax for a period not to exceed 6 months from the date prescribed for the payment of the tax or an installment thereof; provided, however, that where the time for filing a return is extended for a period exceeding 6 months under the provisions of § 47-1805.03(b), the Mayor may extend the time for payment of the tax, or the first installment thereof, to the same date to which he has extended the time for filing the return. In such case the amount in respect to which the extension is granted shall be paid on or before the date of the expiration of the period of the extension.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1812_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Voluntary advance payment. — A tax imposed by this chapter, or any installment thereof, may be paid, at the election of the taxpayer, prior to the date prescribed for its payment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

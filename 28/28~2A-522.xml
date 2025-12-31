@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-522"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-522/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2A_522">
+        <akn:num>28:2A-522</akn:num>
+        <akn:heading>Lessee’s right to goods on lessor’s insolvency.</akn:heading>
+<akn:subsection eId="subsec_28:2A-522_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to subsection (b) of this section and even though the goods have not been shipped, a lessee who has paid a part or all of the rent and security for goods identified to a lease contract (§ 28:2A-217) on making and keeping good a tender of any unpaid portion of the rent and security due under the lease contract may recover the goods identified from the lessor if the lessor becomes insolvent within 10 days after receipt of the first installment of rent and security.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-522_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A lessee acquires the right to recover goods identified to a lease contract only if they conform to the lease contract.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

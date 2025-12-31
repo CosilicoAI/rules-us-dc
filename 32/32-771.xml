@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-771"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-771/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_771">
+        <akn:num>32-771</akn:num>
+        <akn:heading>Department of Employment Services quarterly reports on job training and adult education programs.</akn:heading>
+<akn:subsection eId="subsec_32-771_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Beginning on February 15, 2013, the Department of Employment Services (“Department”) shall transmit to the Council on a quarterly basis, and make available on the Department’s website, a report on the outcomes associated with all local funding administered by the Department for job training or adult education purposes. The report shall include the following outcome measures for job training or adult education participants delineated by job training program and vendor:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-771_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The report shall also include the following outcome measures for subsidized employment programs, including the Transitional Employment Program (“TEP”), established pursuant to section § 32-1331:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-771_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The report shall also include the following outcome measures for training employment programs, including the On-the-Job Training program, established pursuant to § 32-241(a)(4), the:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

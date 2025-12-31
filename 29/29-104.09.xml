@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-104.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-104.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_104_09">
+        <akn:num>29-104.09</akn:num>
+        <akn:heading>Change of name, address, type of entity, or jurisdiction of formation by commercial registered agent.</akn:heading>
+<akn:subsection eId="subsec_29-104_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a commercial registered agent changes its name, its address as listed under § 29-104.05(a)(3), its type of entity, or its jurisdiction of formation, the agent shall deliver to the Mayor for filing a statement of change signed by the agent which states:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-104_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The filing by the Mayor of a statement of change under subsection (a) of this section shall change the information regarding the agent with respect to each entity represented by the agent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-104_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A commercial registered agent promptly shall furnish each entity represented by it notice in a record of the filing by the Mayor of a statement of change relating to the name or address of the agent and the changes made in the statement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-104_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a commercial registered agent changes its address without delivering for filing a statement of change as required by this section, the Mayor may cancel the listing of the agent under § 29-104.05. A cancellation under this subsection shall have the same effect as a termination under § 29-104.06. Promptly after canceling the listing of an agent, the Mayor shall serve notice in a record in the manner provided in § 29-104.12(b) or (c) on:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

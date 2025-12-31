@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3227.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3227.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3227_05">
+        <akn:num>22-3227.05</akn:num>
+        <akn:heading>Correction of public records.</akn:heading>
+<akn:subsection eId="subsec_22-3227_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a person is convicted, adjudicated delinquent, or found not guilty by reason of insanity of identity theft, the court may issue such orders as are necessary to correct any District of Columbia public record that contains false information as a result of a violation of this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3227_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In all other cases, a person who alleges that he or she is a victim of identity theft may petition the court for an expedited judicial determination that a District of Columbia public record contains false information as a result of a violation of this subchapter. Upon a finding of clear and convincing evidence that the person was a victim of identity theft, the court may issue such orders as are necessary to correct any District of Columbia public record that contains false information as a result of a violation of this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3227_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, District of Columbia agencies shall comply with orders issued under subsection (a) of this section within 30 days of issuance of the order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3227_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “District of Columbia public record” means any document, book, photographic image, electronic data recording, paper, sound recording, or other material, regardless of physical form or characteristic, made or received pursuant to law or in connection with the transaction of public business by any officer or employee of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-873"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-873/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_873">
+        <akn:num>47-873</akn:num>
+        <akn:heading>Computation of tax; annual adjustment; limitations — Cooperative housing associations.</akn:heading>
+<akn:subsection eId="subsec_47-873_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For purposes of computing taxes on real property in the District of Columbia, Class 1 Property owned by a cooperative housing association shall be allowed a credit against the tax imposed under § 47-811.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-873_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The credit shall not be allowed for Class 1 Property owned by a cooperative housing association if the Class 1 Property:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-873_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The credit shall be an amount equal to $60 multiplied by the number of dwelling units that are occupied by the shareholders or members of the cooperative housing association. The credit shall be adjusted annually beginning in the tax year beginning July 1, 1992, and ending June 30, 1993, and in each subsequent tax year, in accordance with subsection (d) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-873_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The credit shall be adjusted annually by the addition to the prior tax year credit of an amount equal to the percentage increase in the local Consumer Price Index for all items during the calendar year in which the tax year begins, rounded to the nearest whole dollar.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-873_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The amount of the credit allowed under this section shall not exceed the amount of property tax otherwise due.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

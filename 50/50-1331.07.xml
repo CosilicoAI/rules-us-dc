@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1331.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1331.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1331_07">
+        <akn:num>50-1331.07</akn:num>
+        <akn:heading>Restrictions on use and transfer of Non-repairable Vehicles.</akn:heading>
+<akn:subsection eId="subsec_50-1331_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No motor vehicle for which a Non-repairable Vehicle Certificate has been issued shall be titled or registered by the Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1331_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Ownership of a motor vehicle for which a Non-repairable Vehicle Certificate has been issued may only be transferred once.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1331_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Whenever a motor vehicle has been flattened, baled, shredded, or otherwise destroyed, the motor vehicle title or Non-repairable Vehicle Certificate for the vehicle shall be surrendered to the Department within 30 days of the destruction. If the destroyed vehicle is titled in another state, the Department shall inform the titling state of the surrender of the title or Non-repairable Vehicle Certificate and of the vehicle’s destruction.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

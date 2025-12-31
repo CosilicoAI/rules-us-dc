@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3521"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3521/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_3521">
+        <akn:num>16-3521</akn:num>
+        <akn:heading>Persons against whom issued; civil action.</akn:heading>
+<akn:subsection eId="subsec_16-3521_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>a person who within the District of Columbia usurps, intrudes into, or unlawfully holds or exercises, a franchise conferred by the District of Columbia, a public office of the District of Columbia, civil or military, or an office in a domestic corporation; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-3521_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>one or more persons who act as a corporation within the District of Columbia without being duly authorized, or exercise within the District of Columbia corporate rights, privileges, or franchises not granted them by law in force in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

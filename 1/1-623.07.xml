@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_623_07">
+        <akn:num>1-623.07</akn:num>
+        <akn:heading>Compensation schedule.</akn:heading>
+<akn:subsection eId="subsec_1-623_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If there is permanent disability involving the loss, or loss of use, of a member or function of the body or disfigurement, the employee is entitled to basic compensation for the disability, as provided by the schedule in subsection (c) of this section, at the rate of 66 2/3 percent of his or her monthly pay. The basic compensation shall be:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The compensation schedule is as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If medical records or other objective evidence substantiate a pre-existing impairment or other impairments or conditions unrelated to the work-related injury, the Mayor shall apportion the pre-existing or unrelated medical impairment from that of the current work-related injury or occupational disease in accordance with American Medical Association Guides to the Evaluation of Permanent Impairment (“AMA Guides”). In making this determination, the Mayor shall consider medical reports by physicians with specific training and experience in the use of the AMA Guides.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

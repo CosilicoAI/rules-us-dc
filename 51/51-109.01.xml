@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/51-109.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/51-109.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_51_109_01">
+        <akn:num>51-109.01</akn:num>
+        <akn:heading>Eligibility for benefits; Educational Stepladder program.</akn:heading>
+<akn:subsection eId="subsec_51-109_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An individual who is receiving benefits pursuant to § 51-109 or has exhausted his or her regular benefits so long as the benefit year on that claim has not expired and who is enrolled in an Educational Stepladder program certificate course shall be eligible for an extension of benefits for the duration of the course, up to a maximum amount of 52 times his or her weekly amount or 100% of the wages for employment paid the individual by employers during his or her base period, whichever is the lesser; provided, that the individual maintains a satisfactory level of attendance and achievement. This total amount includes regular benefits and any federal extension that may be in effect. Any benefits awarded to an individual shall not be chargeable to any base payer employer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-109_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An individual who is ineligible to receive benefits pursuant to § 51-109 and who is enrolled in an Educational Stepladder certificate course may be eligible for a weekly monetary benefit, equal to the unemployment insurance compensation weekly benefit amount a person earning minimum wage would receive for the duration of the course, up to a maximum of 52 times the weekly benefit calculated pursuant to this subsection; provided, that the individual maintains a satisfactory level of attendance and achievement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-109_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The receipt of the benefit described in subsection (b) of this section is not an entitlement but contingent upon the availability of such funds for the purposes of subchapter III of Chapter 16 of Title 32 [§ 32-1651 et seq.].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

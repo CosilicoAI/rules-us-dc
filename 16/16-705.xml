@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-705"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-705/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_705">
+        <akn:num>16-705</akn:num>
+        <akn:heading>Jury trial; trial by court.</akn:heading>
+<akn:subsection eId="subsec_16-705_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In a criminal case tried in the Superior Court in which, according to the Constitution of the United States, the defendant is entitled to a jury trial, the trial shall be by jury, unless the defendant in open court expressly waives trial by jury and requests trial by the court, and the court and the prosecuting officer consent thereto. In the case of a trial without a jury, the trial shall be by a single judge, whose verdict shall have the same force and effect as that of a jury.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-705_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In any case where the defendant is not under the Constitution of the United States entitled to a trial by jury, the trial shall be by a single judge without a jury, except that if —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-705_b_1">
+      <akn:num>(b-1)</akn:num>
+      <akn:content><akn:p>If a defendant in a criminal case is charged with 2 or more offenses and the offenses include at least one jury demandable offense and one non-jury demandable offense, the trial for all offenses charged against that defendant shall be by jury unless the defendant in open court expressly waives trial by jury and requests trial by the court, and the court and the prosecuting officer consent thereto. In the case of a trial without a jury, the trial shall be by a single judge, whose verdict shall have the same force and effect as that of a jury.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-705_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The jury shall consist of twelve persons, unless the parties, with the approval of the court and in the manner provided by rules of the court, agree to a number less than twelve. Even absent such agreement, if, due to extraordinary circumstances, the court finds it necessary to excuse a juror for just cause after the jury has retired to consider its verdict, in the discretion of the court, a valid verdict may be returned by the remaining eleven jurors.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

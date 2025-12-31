@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1042"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1042/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_1042">
+        <akn:num>16-1042</akn:num>
+        <akn:heading>Judicial enforcement of order.</akn:heading>
+<akn:subsection eId="subsec_16-1042_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person authorized by the law of the District to seek enforcement of a protection order may seek enforcement of a valid foreign protection order in a tribunal of the District. The tribunal shall enforce the terms of the order, including terms that provide relief that a tribunal of the District would lack power to provide but for this section. The tribunal shall enforce the order, whether the order was obtained by independent action or in another proceeding, if it is an order issued in response to a complaint, petition, or motion filed by or on behalf of or for the benefit of an individual seeking protection. In a proceeding to enforce a foreign protection order, the tribunal shall follow the procedures of the District for the enforcement of protection orders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1042_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except for cases brought under § 16-1005(f) or (g), a tribunal of the District may not enforce a foreign protection order issued by a tribunal of a State that does not recognize the standing of a protected individual to seek enforcement of the order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1042_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A tribunal of the District shall enforce the provisions of a valid foreign protection order that governs custody and visitation, if the order was issued in accordance with the jurisdictional requirements governing the issuance of custody and visitation orders in the issuing State.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1042_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A foreign protection order is valid if it:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1042_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A foreign protection order valid on its face is prima facie evidence of its validity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1042_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Absence of any of the criteria for validity of a foreign protection order is an affirmative defense in an action seeking enforcement of the order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1042_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A tribunal of the District may enforce provisions of a mutual foreign protection order which favor a respondent only if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

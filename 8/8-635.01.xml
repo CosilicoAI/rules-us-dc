@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-635.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-635.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_635_01">
+        <akn:num>8-635.01</akn:num>
+        <akn:heading>Institutional control.</akn:heading>
+<akn:subsection eId="subsec_8-635_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>DDOE is authorized to create, modify, maintain and disseminate records, informational systems, educational materials and other materials that are necessary to protect public health and the environment at contaminated properties cleaned up pursuant to this chapter or any other laws.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-635_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>DDOE is authorized to issue and execute instruments pertaining to properties cleaned up pursuant to this chapter and properties adversely affected by residual hazardous substances from the cleaned-up properties. When necessary, DDOE shall request other District agencies to issue and execute instruments pertaining to properties cleaned up pursuant to this chapter or other pertinent instruments. The instruments shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-635_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Recorder of Deeds shall record any instruments issued pursuant to this section, with the deed to a concerned property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-635_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any instruments issued pursuant to this section shall run with the land and may not be declared unenforceable under any circumstances, including lack of property interest, lack of privity of estate or contract, lack of benefit to a particular property, or any rule against restraints on transfer of property. DDOE may execute, modify, or terminate environmental covenants entered into pursuant to this section in accordance with Chapter 6C of this title. DDOE may modify, rescind, or extinguish any other instrument issued pursuant to this section for good cause consistent with the objectives of this chapter; provided, that the public is notified and given the opportunity to comment on the proposed action.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

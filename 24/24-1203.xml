@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-1203"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-1203/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_1203">
+        <akn:num>24-1203</akn:num>
+        <akn:heading>Responsibilities of the Mayor.</akn:heading>
+<akn:subsection eId="subsec_24-1203_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall submit to the Council a proposal for a detention facility within or near Judiciary Square within 90 days of November 7, 1989.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-1203_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Mayor has not entered into a design construction contract for the detention facility within 180 days of May 4, 1990, the Mayor shall submit a report to the Council that details the progress of the plans for a detention facility and the reason that a contract has not been executed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-1203_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall not dispose of any property owned by or under the jurisdiction of the District government within or near Judiciary Square until a site for a detention facility has been selected or acquired, except that an appropriate disposition may be made for the National Law Enforcement Officers Memorial (“Memorial”), which is to be built pursuant to the Joint Resolution Authorizing the Law Enforcement Officers Memorial Fund to establish a memorial in the District of Columbia or its environs, Pub. L. 98-534, 98 Stat. 2712 (1984). The detention facility shall not be located on private property or on the same property or property immediately adjacent to the planned site of the Memorial, which is to be built on the block bounded by F Street, N.W., to the north, E Street, N.W., to the south, 5th Street, N.W., to the west, and 4th Street, N.W., to the east, provided that the construction of the Memorial in no way prevents or delays the construction of the detention facility. Nothing in this subsection shall be construed to limit the District’s powers of eminent domain.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

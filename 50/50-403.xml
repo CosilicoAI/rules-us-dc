@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-403"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-403/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_403">
+        <akn:num>50-403</akn:num>
+        <akn:heading>Commercial motor vehicle driver responsibility.</akn:heading>
+<akn:subsection eId="subsec_50-403_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person who operates a commercial motor vehicle and is domiciled in the District shall have a commercial driver’s license, and all necessary endorsements thereto required by the Mayor for the particular class of vehicle being operated, issued by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-403_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person who is issued a commercial motor vehicle driver’s license by the Mayor shall surrender any commercial driver’s license issued by another state at the time the District commercial driver’s license is issued.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-403_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any person who has a driver’s license suspended, revoked, or cancelled by the Mayor, who loses the right to operate a commercial motor vehicle, or who is disqualified from the operation of a commercial motor vehicle for any period shall notify his or her employer of the suspension, revocation, cancellation, lost right, or disqualification.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-403_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any person who operates a commercial motor vehicle and applies for employment as an operator of a commercial motor vehicle with an employer shall notify the employer, at the time of application, of his or her previous employment as an operator of a commercial motor vehicle.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

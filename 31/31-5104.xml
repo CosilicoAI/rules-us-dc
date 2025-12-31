@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5104">
+        <akn:num>31-5104</akn:num>
+        <akn:heading>Limitations on amount.</akn:heading>
+<akn:subsection eId="subsec_31-5104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The amount of credit life insurance shall not exceed the initial indebtedness however the indebtedness may be repayable; provided, however, that nothing contained herein shall be deemed to supersede or repeal the limitation on the amount of group insurance specified in § 31-4710(2)(D) [repealed]. In cases where an indebtedness is repayable in substantially equal installments, the amount of insurance shall at no time exceed the scheduled amount of unpaid indebtedness in the case of any individual policy or the actual amount of the unpaid indebtedness in the case of any group policy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The amount of indemnity payable by credit accident and health insurance in the event of disability, as defined in the policy, shall not exceed the aggregate of the periodic scheduled unpaid installments of indebtedness; and the amount of each periodic indemnity payment shall not exceed the original indebtedness divided by the number of periodic installments.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5104_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsections (a) and (b) of this section, the amount of any credit life insurance or credit accident and health insurance with respect to indebtedness incurred to defray educational costs of a student may include the part of a commitment that has not been advanced by the creditor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-105.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-105.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_105_05">
+        <akn:num>29-105.05</akn:num>
+        <akn:heading>Activities not constituting doing business.</akn:heading>
+<akn:subsection eId="subsec_29-105_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Without excluding other activities that do not have the intra-District presence necessary to constitute doing business in the District under this title, a foreign filing entity or foreign limited liability partnership shall not be considered to be doing business in the District under this title solely by reason of carrying on in the District any one or more of the following activities:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-105_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This section shall not apply in determining the contacts or activities that may subject a foreign filing entity or foreign limited liability partnership to service of process, taxation, or regulation under law of the District other than this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-105_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person does not do business in the District solely by being an interest holder or governor of a foreign entity that does business in the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

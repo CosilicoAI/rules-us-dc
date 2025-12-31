@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1112"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1112/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1112">
+        <akn:num>19-1112</akn:num>
+        <akn:heading>Liability to third person.</akn:heading>
+<akn:subsection eId="subsec_19-1112_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A claim based on a contract entered into by a custodial trustee acting in a fiduciary capacity, an obligation arising from the ownership or control of custodial trust property, or a tort committed in the course of administering the custodial trust, may be asserted by a third person against the custodial trust property by proceeding against the custodial trustee in a fiduciary capacity, whether or not the custodial trustee or the beneficiary is personally liable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1112_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A custodial trustee is not personally liable to a third person:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1112_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A beneficiary is not personally liable to a third person for an obligation arising from beneficial ownership of custodial trust property or for a tort committed in the course of administration of the custodial trust unless the beneficiary is personally in possession of the custodial trust property giving rise to the liability or is personally at fault.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1112_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Subsections (b) and (c) of this section do not preclude actions or proceedings to establish liability of the custodial trustee or beneficiary to the extent the person sued is protected as the insured by liability insurance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

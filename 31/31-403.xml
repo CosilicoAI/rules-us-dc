@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-403"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-403/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_403">
+        <akn:num>31-403</akn:num>
+        <akn:heading>Applicability of minimum standards.</akn:heading>
+<akn:subsection eId="subsec_31-403_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The provisions of §§ 31-404, 31-405, and 31-406 shall apply if, in any calendar year, the aggregate amount of gross written premium on business placed with a controlled insurer by a controlling producer is equal to or greater than 5% of the admitted assets of the controlled insurer, as reported in the controlled insurer’s quarterly statement filed as of September 30 of the prior year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-403_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subsection (a) of this section shall not apply if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

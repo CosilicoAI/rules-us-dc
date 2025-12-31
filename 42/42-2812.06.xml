@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2812.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2812.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2812_06">
+        <akn:num>42-2812.06</akn:num>
+        <akn:heading>Payment and security.</akn:heading>
+<akn:subsection eId="subsec_42-2812_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 42-2812.03(b), the principal of, premium, if any, and interest on, the bonds shall be payable solely from proceeds received from the sale of the bonds, income realized from the temporary investment of those proceeds, receipts and revenues realized by the District from the Allocated Fund, income realized from the temporary investment of those receipts and revenues prior to payment to the bond owners, other moneys that, as provided in the Financing Documents, may be made available to the District for the payment of the bonds, and other sources of payment (other than the District), all as provided for in the Financing Documents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2812_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Payment of the bonds shall be secured as provided in the Financing Documents and by an assignment by the District for the benefit of the bond owners of certain of its rights under the Financing Documents and Closing Documents, including a security interest in certain collateral, if any, to the trustee for the bonds pursuant to the Financing Documents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2812_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The trustee is authorized to deposit, invest, and disburse the proceeds received from the sale of the bonds pursuant to the Financing Documents.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

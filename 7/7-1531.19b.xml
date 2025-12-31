@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1531.19b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1531.19b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1531_19b">
+        <akn:num>7-1531.19b</akn:num>
+        <akn:heading>Sources of Registry information; confidentiality.</akn:heading>
+<akn:subsection eId="subsec_7-1531_19b_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The organ procurement organization:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1531_19b_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Personally identifiable information on the Registry about a donor or prospective donor may not be used or disclosed without the express consent of the donor, prospective donor, or person that made the anatomical gift for any purpose other than to determine whether the donor or prospective donor has made, amended, or revoked an anatomical gift.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

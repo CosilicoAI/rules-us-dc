@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2871.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2871.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2871_04">
+        <akn:num>7-2871.04</akn:num>
+        <akn:heading>Materials development and distribution.</akn:heading>
+<akn:subsection eId="subsec_7-2871_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Department of Health shall create educational materials on the nature and risk of concussions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2871_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before an athlete may participate in an athletic activity, the organizing entity shall provide the educational materials developed pursuant to subsection (a) of this section to the athlete and the parent or guardian of the athlete. The athlete and the parent or guardian of the athlete shall sign a statement acknowledging receipt of the materials and return it to the organizing entity before the athlete shall be allowed to participate in the athletic activity.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

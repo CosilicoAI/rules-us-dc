@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-309"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-309/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_309">
+        <akn:num>41-309</akn:num>
+        <akn:heading>Return of property.</akn:heading>
+<akn:subsection eId="subsec_41-309_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Property that is returnable under this chapter shall be returned to the owner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-309_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The owner shall acknowledge receipt and possession of each item of returnable property by reference to the specific property identification number assigned to the item pursuant to §  41-303(b)(1)(C). No receipt of acknowledgement shall be valid until the owner has viewed the item and confirmed that it is the item seized and returnable and that any returnable items contained within the item are also present and being returned.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-309_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-309_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When the owner acknowledges receipt and possession of returnable property pursuant to subsection (b) of this section, the District shall provide written explanation of the requirements, procedures, and deadlines to make a claim pursuant to subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

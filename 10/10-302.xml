@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_302">
+        <akn:num>10-302</akn:num>
+        <akn:heading>Authority of Department of Parks and Recreation.</akn:heading>
+<akn:subsection eId="subsec_10-302_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Department may accept donations, gifts by devise or bequest, grants, and any other type of asset from individuals, clubs, groups, corporations, partnerships, and other governmental entities, except that such acceptance must be approved by the Mayor before it occurs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-302_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-302_b_1">
+      <akn:num>(b-1)</akn:num>
+      <akn:content><akn:p>On a property under its jurisdiction, control, or use, the Department may charge reasonable prices for department activities and issue fee-based use permits in accordance with § 10-302.01.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-302_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Department buildings and grounds shall not be used for any commercial, profit-making, fundraising, or other solicitation by any agency, individual, or organization, except as specifically provided in this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-302_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed as limiting the Department’s authority to issue permits pursuant to § 10-137.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

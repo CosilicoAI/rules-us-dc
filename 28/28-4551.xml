@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4551"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4551/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4551">
+        <akn:num>28-4551</akn:num>
+        <akn:heading>Findings.</akn:heading>
+<akn:subsection eId="subsec_28-4551_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The excessive prices of prescription drugs in the District of Columbia is threatening the health and welfare of the residents of the District as well as the District government’s ability to ensure that all residents receive the health care they need, and these excessive prices directly and indirectly cause economic harm to the District and damage the health and safety of its residents;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4551_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The traditional police powers of the District of Columbia include protecting and promoting the health, safety, and welfare of its residents, regulating monopoly pricing of goods and services, and regulating to assure consumer protection and to prevent and sanction unfair trade practices; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4551_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>To promote the health, safety, and welfare of its residents, it is incumbent on the government of the District of Columbia to take action to restrain the excessive prices of prescription drugs through mechanisms that are consistent with District and federal law, including the Constitution.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-817.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-817.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_817_06">
+        <akn:num>1-817.06</akn:num>
+        <akn:heading>Applicability of other provisions to D.C. Federal Pension Fund.</akn:heading>
+<akn:subsection eId="subsec_1-817_06_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Section 1-805.03(b) (relating to the repayment by the District Government of costs attributable to errors or omissions in transferred records).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-817_06_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Section 1-807.04 (relating to the treatment of the Trust Fund under certain laws).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-817_06_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Section 1-813.01 (relating to annual valuations and reports by the enrolled actuary), except that in applying § 1-813.01(b) to the D.C. Federal Pension Fund, the annual report required under such section shall include a determination of the annual payment to the D.C. Federal Pension Fund under § 1-817.04.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-817_06_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Section 1-813.02 (relating to reports by the Comptroller General).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-817_06_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Section 1-815.01 (relating to judicial review).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-817_06_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Section 1-815.04 (relating to the treatment of misappropriation of Trust Fund amounts as a Federal crime).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

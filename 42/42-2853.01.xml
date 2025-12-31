@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2853.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2853.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2853_01">
+        <akn:num>42-2853.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_42-2853_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Administrative costs” means the costs of the Department to administer, manage, and monitor the low-income housing tax credit program, including personnel costs, whether incurred before or after April 8, 2005.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2853_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Department” means the Department of Housing and Community Development.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2853_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Developer” means a person or entity that proposes to cause the construction affordable housing using tax credits provided under the Low-Income Housing Tax Credit Program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2853_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Fund” means the Low-Income Housing Tax Credit Fund established by § 42-2853.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2853_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Low-Income Housing Tax Credit Program” means the program authorized by section 42 of the Internal Revenue Code [26 U.S.C. § 42].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2853_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“User fee” means a fee charged by the Department to a developer in connection with the Low-Income Housing Tax Credit Program, including application, reservation, allocation, and monitoring fees.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

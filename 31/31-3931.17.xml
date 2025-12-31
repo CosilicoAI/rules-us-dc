@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3931.17"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3931.17/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3931_17">
+        <akn:num>31-3931.17</akn:num>
+        <akn:heading>Redomestication.</akn:heading>
+<akn:subsection eId="subsec_31-3931_17_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any captive insurer which is licensed under laws of any jurisdiction may become a domestic captive insurer in the District by complying with all of the requirements of this chapter relative to the organization and licensing of a domestic insurer of the same type and by designating an office at a place within the District. The redomesticated captive insurer may transact business in the District and shall be subject to the authority and jurisdiction of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_17_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All insurance contracts which are in existence at the time any captive insurer transfers its insurance domicile to the District by merger, consolidation, or any other lawful method shall continue in full force and effect upon the transfer if the captive insurer is duly qualified to transact the same type of insurance business in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_17_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Every transferring insurer shall notify the Commissioner of the details of the proposed transfer and shall file promptly any resulting amendments to application documents filed or required to be filed with the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_17_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any domestic captive insurer, upon the approval of the Commissioner, may transfer its domicile to any state in which it is licensed to transact business as a captive insurance company and, upon the transfer, shall cease to be a domestic insurer. The Commissioner shall approve any proposed transfer unless he or she determines the transfer is not in the best interest of the policyholders.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

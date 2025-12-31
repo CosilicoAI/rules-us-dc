@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-798"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-798/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_798">
+        <akn:num>25-798</akn:num>
+        <akn:heading>Reimbursable details.</akn:heading>
+<akn:subsection eId="subsec_25-798_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-798_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A licensee or licensees, independently or in a group, may enter into an agreement with the MPD to provide for reimbursable details.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-798_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to adequate staffing of the police service areas and an assessment by the MPD of its staffing requirements, the MPD may staff reimbursable details as requested by the licensee. The MPD shall only use officers for this purpose who are overtime and would not otherwise be on duty at the time of the reimbursable detail.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-798_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The MPD shall establish policies and procedures to implement the provisions of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-798_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Mayor shall, in consultation with licensees, promulgate policies, rules and procedures to identify entertainment areas in the District, and establish security plans thereunder delineating the reimbursable detail deployment needs of those areas.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

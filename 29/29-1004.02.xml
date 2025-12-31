@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1004.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1004.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1004_02">
+        <akn:num>29-1004.02</akn:num>
+        <akn:heading>Notice and action on amendment of organic rules.</akn:heading>
+<akn:subsection eId="subsec_29-1004_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in §§ 29-1004.01(a) and 29-1004.05(f), the organic rules of a limited cooperative association shall be amended only at a members meeting. An amendment may be proposed by either:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1004_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The board of directors shall call a members meeting to consider an amendment proposed pursuant to subsection (a) of this section. The meeting shall be held not later than 90 days following the proposal of the amendment by the board or receipt of a petition. The board shall mail or otherwise transmit or deliver in a record to each member:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

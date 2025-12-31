@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.55"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.55/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_205_55">
+        <akn:num>4-205.55</akn:num>
+        <akn:heading>Timely and adequate notice of action to discontinue, etc., assistance.</akn:heading>
+<akn:subsection eId="subsec_4-205_55_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall give timely and adequate notice in cases of intended action to discontinue, withhold, terminate, suspend, reduce assistance, or make assistance subject to additional conditions, or to change the manner or form of payment to a protective, vendor, or 2-party payment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_55_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may dispense with timely notice, but shall send adequate notice no later than the date upon which the action would become effective when:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_55_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When changes in District of Columbia law require automatic grant adjustments for classes of recipients, timely notice of these grant adjustments shall be given, which shall be deemed “adequate” if it includes a statement of the intended action, the reasons for the intended action, a statement of the specific change in law requiring the action, and a statement of the circumstances under which a hearing may be obtained and assistance continued.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

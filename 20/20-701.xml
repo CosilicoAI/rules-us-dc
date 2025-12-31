@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-701"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-701/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_701">
+        <akn:num>20-701</akn:num>
+        <akn:heading>Status and duties of personal representative.</akn:heading>
+<akn:subsection eId="subsec_20-701_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A personal representative, whether supervised or unsupervised, is a fiduciary who, in addition to the specific duties expressed in this title, is under a general duty to settle and distribute the estate of the decedent in accordance with the terms of the will or laws relating to intestacy and this title, as expeditiously and efficiently as is prudent and consistent with the best interests of the persons interested in the estate. Such representative shall use the authority conferred by this title, by the terms of the will, if any, by any order in proceedings to which such representative is a party, and by the equitable principles generally applicable to fiduciaries, fairly considering the interests of all interested persons and creditors whose claims have been allowed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-701_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A personal representative shall not be surcharged for acts of administration or distribution if the conduct in question was authorized at the time. Subject to other obligations of administration and to special duties applicable in cases of supervised administration, a will probated in abbreviated or standard probate proceedings is authority to administer and distribute the estate according to its terms. An order of appointment of a personal representative, whether issued in abbreviated or standard probate proceedings, is authority to distribute apparently intestate assets to the heirs of the decedent if, at the time of distribution, the personal representative is not aware of a pending probate proceeding, a proceeding to vacate an order entered in an earlier probate proceeding, a proceeding questioning his appointment or fitness to continue, or a supervised administration proceeding. Nothing in this section affects the duty of the personal representative to administer and distribute the estate in accordance with the rights of claimants of an allowed claim, the surviving spouse, any minor and dependent children, and any pretermitted child of the decedent as described elsewhere in this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-701_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as to proceedings which do not survive the death of the decedent, a personal representative of a decedent domiciled in the District of Columbia at his death has the same standing to sue and be sued in the courts of this and any other jurisdiction as the decedent had immediately prior to death.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

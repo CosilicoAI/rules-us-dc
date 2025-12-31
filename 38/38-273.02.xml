@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-273.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-273.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_273_02">
+        <akn:num>38-273.02</akn:num>
+        <akn:heading>Eligibility and priority for enrollment in pre-k.</akn:heading>
+<akn:subsection eId="subsec_38-273_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To be eligible for enrollment in pre-k, a child shall be a resident of the District and be of pre-k age, or become 3 years of age on or before September 30th of the program year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-273_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (c) of this section, priority enrollment shall be first to children who live within the school’s attendance zone boundary, as established pursuant to law and regulation, if applicable, and then to children whose family income is between 130% and 250% of federal poverty guidelines, and to children whose family income is below 130% who are not served by existing programs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-273_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Enrollment for pre-k programs in District of Columbia Public Charter Schools shall be conducted according to the admission and enrollment provisions of § 38-1802.06.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

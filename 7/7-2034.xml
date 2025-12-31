@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2034"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2034/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2034">
+        <akn:num>7-2034</akn:num>
+        <akn:heading>License required.</akn:heading>
+<akn:subsection eId="subsec_7-2034_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this subchapter, no person shall, either directly or indirectly, operate a child development facility in the District without first having obtained a license to do so.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2034_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An applicant for a license to operate a child development facility shall establish to the satisfaction of the Mayor, that the facility meets all requirements set forth in this subchapter and rules adopted pursuant to this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2034_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An applicant for a license shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2034_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The license shall be valid for a period of time to be determined by the Mayor and only for the premises and persons named as applicants in the application. Any change in ownership of a licensee owned by a person or in the legal or beneficial ownership of a percentage of stock established by rule of a corporate licensee shall require relicensure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2034_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Mayor may authorize the issuance of provisional and restricted licenses under specific circumstances and criteria to be established by rule.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

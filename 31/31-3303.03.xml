@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3303.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3303.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3303_03">
+        <akn:num>31-3303.03</akn:num>
+        <akn:heading>Renewability.</akn:heading>
+<akn:subsection eId="subsec_31-3303_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every health insurer that offers health insurance coverage in the group market in the District of Columbia shall renew such coverage with respect to all insureds at the option of the employer except:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3303_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>At the time of coverage renewal, a health insurer may modify the health insurance coverage for a product offered to a group health plan in the large group market, or, in the small group market if, for coverage that is available in such market other than only through one or more bona fide associations, such modification is consistent with the law of the District of Columbia and effective on a uniform basis among health insurers with that product.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-319"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-319/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_319">
+        <akn:num>28:2-319</akn:num>
+        <akn:heading>F.O.B. and F.A.S. terms.</akn:heading>
+<akn:subsection eId="subsec_28:2-319_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Unless otherwise agreed the term F.O.B. (which means “free on board”) at a named place, even though used only in connection with the stated price, is a delivery term under which</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-319_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Unless otherwise agreed the term F.A.S. vessel (which means “free alongside”) at a named port, even though used only in connection with the stated price, is a delivery term under which the seller must</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-319_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Unless otherwise agreed in any case falling within subsection (1) (a) or (c) or subsection (2) the buyer must seasonably give any needed instructions for making delivery, including when the term is F.A.S. or F.O.B. the loading berth of the vessel and in an appropriate case its name and sailing date. The seller may treat the failure of needed instructions as a failure of cooperation under this article (section 28:2-311). He may also at his option move the goods in any reasonable manner preparatory to delivery or shipment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-319_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Under the term F.O.B. vessel or F.A.S. unless otherwise agreed the buyer must make payment against tender of the required documents and the seller may not tender nor the buyer demand delivery of the goods in substitution for the documents.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

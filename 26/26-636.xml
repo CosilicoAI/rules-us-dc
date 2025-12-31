@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-636"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-636/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_636">
+        <akn:num>26-636</akn:num>
+        <akn:heading>Applications for licenses; approval or disapproval.</akn:heading>
+<akn:subsection eId="subsec_26-636_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-636_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-636_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An application for approval to organize an international financing corporation shall be subject to the provisions of the District of Columbia Banking Code relating to the organization of new financial institutions and to regulations adopted by the Commissioner as necessary to ensure that the proposed international financing corporation will be operated in a safe and lawful manner; provided, that the applicant shall not be required to become a member of the Federal Reserve System or the Federal Deposit Insurance Corporation. An international financing corporation shall be subject to the examination and supervision of the Commissioner and subject to the District of Columbia Banking Code to the same extent as international banking corporations under § 26-633.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-636_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An application filed under this section shall be subject to the application review procedures contained in § 26-704(a), (b), and (g) [subsection (g) repealed].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-636_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Commissioner shall submit an annual report to the Council of all actions that the Commissioner takes pursuant to this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

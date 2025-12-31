@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1041"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1041/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_1041">
+        <akn:num>16-1041</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_16-1041_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1041_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Foreign protection order” means a protection order issued by a tribunal of another State.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1041_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Issuing State” means the State whose tribunal issues a protection order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1041_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Mutual foreign protection order” means a foreign protection order that includes provisions in favor of both the protected individual seeking enforcement of the order and the respondent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1041_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Protected individual” means an individual protected by a protection order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1041_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Protection order” means an injunction or other order, whether temporary or final, issued by a tribunal for the purpose of preventing violent or threatening acts or harassment against, contact or communication with, or physical proximity to, another individual.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1041_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Respondent” means the individual against whom enforcement of a protection order is sought.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1041_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“State” means a State of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States. The term “State” includes an Indian tribe or band that has jurisdiction to issue protection orders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1041_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Tribunal” means a court, agency, or other entity authorized by law to issue or modify a protection order.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

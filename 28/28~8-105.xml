@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-105"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-105/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_105">
+        <akn:num>28:8-105</akn:num>
+        <akn:heading>Notice of adverse claim.</akn:heading>
+<akn:subsection eId="subsec_28:8-105_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person has notice of an adverse claim if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-105_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Having knowledge that a financial asset or interest therein is or has been transferred by a representative imposes no duty of inquiry into the rightfulness of a transaction and is not notice of an adverse claim. However, a person who knows that a representative has transferred a financial asset or interest therein in a transaction that is, or whose proceeds are being used, for the individual benefit of the representative or otherwise in breach of duty has notice of an adverse claim.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-105_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An act or event that creates a right to immediate performance of the principal obligation represented by a security certificate or sets a date on or after which the certificate is to be presented or surrendered for redemption or exchange does not itself constitute notice of an adverse claim except in the case of a transfer more than:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-105_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A purchaser of a certificated security has notice of an adverse claim if the security certificate:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-105_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Filing of a financing statement under Article 9 is not notice of an adverse claim to a financial asset.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

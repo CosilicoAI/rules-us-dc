@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_3104">
+        <akn:num>16-3104</akn:num>
+        <akn:heading>Sequestration where person fails to appear.</akn:heading>
+<akn:subsection eId="subsec_16-3104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If two summonses issued to a person by the Probate Court are regularly returned non est by the United States marshal and it is necessary to proceed further to compel the person’s attendance, the court may order and issue an attachment against his real and personal property. On return of the attachment, to which a schedule of the attached property, if any, shall be annexed, the court, by order, or commission under seal, may authorize a person or persons to take into his or their care and custody the property returned in the schedule, or a part thereof, and receive the profits thereof, to be accounted for, until the person summoned appears and obeys the order of the court, or until further order. If the marshal or other officer does not deliver the property accordingly, he is liable to be proceeded against as provided by this subsection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-3104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The persons authorized pursuant to subsection (a) of this section to take into their care and custody the property referred to shall first give bond with such security, and in such penalty, as the court directs. The bond shall be recorded, may be sued on, shall be on a footing with an administration bond, and shall be conditioned for rendering a true account of the estate or property, and of the profits thereof, and to deliver the property according to the order of the court, after deducting such allowance for loss, and such commission, not exceeding 5 per centum of the whole, as the court deems proper.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-3104_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When the purpose for which property sequestered under this section is answered, the court shall direct that the estate or property, and the profits, after making the deductions authorized by subsection (b) of this section, be restored to the person from whom the care and custody of the property were taken. When the person is dead, the court shall order the property to be delivered to his heirs, devisees or legal representatives, as soon as the purpose of the sequestration is answered, or immediately, on application, and on satisfying the court of the person’s right, if the purpose, after the death of the original person, can not be answered.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

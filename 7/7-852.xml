@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-852"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-852/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_852">
+        <akn:num>7-852</akn:num>
+        <akn:heading>Newborn hearing screening programs.</akn:heading>
+<akn:subsection eId="subsec_7-852_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each hospital and maternity center in the District of Columbia shall establish a newborn hearing screening program to ensure that all newborns in the hospital or maternity center are screened for hearing impairment before discharge, subject to the limitations stated in subsection (d) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-852_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each test shall be conducted by an audiologist, otolaryngologist, or other qualified person, in accordance with accepted medical practices.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-852_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The screening program shall consist of at least one of the following tests:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-852_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Each hospital and maternity center shall inform the parent of the newborn of the availability of the hearing screening and shall perform the hearing screening unless the procedure is contrary to the parent’s religious beliefs or parental consent is withheld.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-852_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Each hospital and maternity center shall document a parent’s consent or refusal to participate in its newborn hearing screening program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-852_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The results of the screening, and recommendations for follow-up testing and treatment when appropriate, shall be provided to the parent and the child’s primary care health care provider, if known, before discharge.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

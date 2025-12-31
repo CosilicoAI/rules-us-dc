@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-109"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-109/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_109">
+        <akn:num>28:9-109</akn:num>
+        <akn:heading>Scope.</akn:heading>
+<akn:subsection eId="subsec_28:9-109_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsections (c) and (d), this article applies to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-109_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The application of this article to a security interest in a secured obligation is not affected by the fact that the obligation is itself secured by a transaction or interest to which this article does not apply.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-109_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This article does not apply to the extent that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-109_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This article does not apply to:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-135"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-135/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_135">
+        <akn:num>7-135</akn:num>
+        <akn:heading>Persons believed to be carriers of communicable diseases — Examination; diagnosis; detention for quarantine; discharge; public hearing.</akn:heading>
+<akn:subsection eId="subsec_7-135_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall cause to be conducted, by medical personnel designated by the Mayor, medical examinations of all detained persons to determine whether any detained person is affected with a communicable disease and immediately discharge any person who is not affected with a communicable disease. The diagnosis resulting from the examination shall be in writing and signed by the examining physician. A copy of the signed diagnosis shall be retained by any person in charge of the place or institution of detention, or, if the place of detention is a residence, by any person of suitable age and discretion who resides there. A copy of the signed diagnosis also shall be given to the detained person for whom the diagnosis was made. Another copy of the signed diagnosis shall be transmitted to the appropriate health official as designated by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-135_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person who has been diagnosed as being affected with a communicable disease may be detained for as long as necessary to protect the public health. A person detained pursuant to this subsection may at any time petition the Superior Court of the District of Columbia for a discharge hearing. A person detained pursuant to this subsection who chooses to petition the Superior Court of the District of Columbia for a discharge hearing shall be provided with counsel if the person detained cannot afford counsel.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

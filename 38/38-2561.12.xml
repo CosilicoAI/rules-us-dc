@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2561.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2561.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2561_12">
+        <akn:num>38-2561.12</akn:num>
+        <akn:heading>Rate-setting for nonpublic schools.</akn:heading>
+<akn:subsection eId="subsec_38-2561_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor, or his or her designee, shall administer and implement a rate-setting process for the payment of tuition and related services to nonpublic special education schools and programs that provide special education and related services to students with disabilities funded by the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2561_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In establishing fair and reasonable rates, the Mayor, or his or her designee, shall consider a variety of factors, including historical data, the rates established by surrounding jurisdictions, and administrative costs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2561_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor, or his or her designee, may adopt the rates established by surrounding jurisdictions and apply those rates to nonpublic special education schools or programs that have already been approved to provide services with public funds by a surrounding jurisdiction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2561_12_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A nonpublic special education school or program serving students who are funded by the District government shall enter into a contract with the District government accepting rates set by the Mayor, or his or her designee, except that a contract is not required for a student whose placement has been ordered by a District of Columbia court, a federal court, or a hearing officer pursuant to the IDEA.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

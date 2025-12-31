@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-5204"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-5204/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_5204">
+        <akn:num>28-5204</akn:num>
+        <akn:heading>Terms for unit pricing.</akn:heading>
+<akn:subsection eId="subsec_28-5204_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Price per kilogram or 100 grams, or price per pound or ounce, if the net quantity of contents of the commodity is in terms of weight;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5204_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Price per liter or 100 milliliters, or price per dry quart or dry pint, if the net quantity of contents of the commodity is in terms of dry measure or volume;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5204_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Price per liter or 100 milliliters, or price per gallon, quart, pint, or fluid ounce, if the net quantity of contents of the commodity is in terms of liquid volume;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5204_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Price per individual unit or multiple units if the net quantity of contents of the commodity is in terms of count; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5204_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Price per square meter, square decimeter, or square centimeter, or price per square yard, square foot, or square inch, if the net quantity of contents of the commodity is in terms of area.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

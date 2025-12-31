@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-510"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-510/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_510">
+        <akn:num>28:8-510</akn:num>
+        <akn:heading>Rights of purchaser of security entitlement from entitlement holder.</akn:heading>
+<akn:subsection eId="subsec_28:8-510_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In a case not covered by the priority rules in Article 9 or the rules stated in subsection (c), an action based on an adverse claim to a financial asset or security entitlement, whether framed in conversion, replevin, constructive trust, equitable lien, or other theory, may not be asserted against a person who purchases a security entitlement, or an interest therein, from an entitlement holder if the purchaser gives value, does not have notice of the adverse claim, and obtains control.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-510_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an adverse claim could not have been asserted against an entitlement holder under § 28:8-502, the adverse claim cannot be asserted against a person who purchases a security entitlement, or an interest therein, from the entitlement holder.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-510_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In a case not covered by the priority rules in Article 9, a purchaser for value of a security entitlement, or an interest therein, who obtains control has priority over a purchaser of a security entitlement, or an interest therein, who does not obtain control. Except as otherwise provided in subsection (d), purchasers who have control rank according to priority in time of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-510_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A securities intermediary as purchaser has priority over a conflicting purchaser who has control unless otherwise agreed by the securities intermediary.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

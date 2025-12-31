@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-651.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-651.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_651_04">
+        <akn:num>7-651.04</akn:num>
+        <akn:heading>Comfort care bracelet or necklace.</akn:heading>
+<akn:subsection eId="subsec_7-651_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>EMS personnel shall recognize only a comfort care bracelet or necklace for purposes of withholding cardiopulmonary resuscitation or advanced life support.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-651_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall approve the design for a comfort care bracelet and necklace. The bracelet and necklace shall be easily identifiable and designed so that the following information is visible:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-651_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The comfort care bracelet and necklace shall be metal, except that the Mayor may issue a plastic temporary bracelet and necklace for use by a patient until the metal bracelet or necklace is received.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

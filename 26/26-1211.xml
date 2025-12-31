@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1211"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1211/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1211">
+        <akn:num>26-1211</akn:num>
+        <akn:heading>Status after conversion.</akn:heading>
+<akn:subsection eId="subsec_26-1211_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An association’s status as a regional association shall not be affected by the association’s conversion, after October 12, 1988, from a federal charter to a charter issued by a state in the region or by the association’s conversion from a state charter to a federal charter, so long as the association otherwise continues to qualify as a regional association under the provisions of § 26-1201(19).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1211_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An association’s status as a District association or a regional association may not be affected by the association’s conversion, after October 12, 1988, from an association insured by the Federal Deposit Insurance Corporation to an association insured by the Federal Savings and Loan Insurance Corporation or by the association’s conversion from an association insured by the Federal Savings and Loan Insurance Corporation to an association insured by the Federal Deposit Insurance Corporation so long as the association continues to be a District association or a regional association as defined in § 26-1201(8) or § 26-1201(19).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

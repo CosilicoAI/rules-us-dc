@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-306"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-306/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_306">
+        <akn:num>24-306</akn:num>
+        <akn:heading>Psychiatric services.</akn:heading>
+<akn:subsection eId="subsec_24-306_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>In criminal cases, the judges and probation officers of the United States District Court for the District of Columbia and the judges and Director of Social Services of the Superior Court of the District of Columbia;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-306_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The judges and such personnel assigned to the Family Division of the Superior Court as the Chief Judge may designate;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-306_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Such officers of the Department of Corrections as the Director thereof shall designate; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-306_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The Board of Parole of the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

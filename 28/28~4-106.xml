@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-106"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-106/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4_106">
+        <akn:num>28:4-106</akn:num>
+        <akn:heading>Payable through or payable at bank; collecting bank.</akn:heading>
+<akn:subsection eId="subsec_28:4-106_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If an item states that it is “payable through” a bank identified in the item, (i) the item designates the bank as a collecting bank and does not by itself authorize the bank to pay the item, and (ii) the item may be presented for payment only by or through the bank.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-106_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an item states that it is “payable at” a bank identified in the item, the item is equivalent to a draft drawn on the bank.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-106_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a draft names a nonbank drawee and it is unclear whether a bank named in the draft is a co-drawee or a collecting bank, the bank is a collecting bank.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

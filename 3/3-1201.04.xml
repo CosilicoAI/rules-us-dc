@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1201.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1201.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1201_04">
+        <akn:num>3-1201.04</akn:num>
+        <akn:heading>Persons licensed under prior law.</akn:heading>
+<akn:subsection eId="subsec_3-1201_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as expressly provided to the contrary in this chapter, any person licensed, registered, or certified by any agency of the District established or continued by any statute amended, repealed, or superseded by this chapter is considered for all purposes to be licensed, registered, or certified by the appropriate health occupations board established under this chapter for the duration of the term for which the license, registration, or certification was issued, and may renew that authorization in accordance with the appropriate renewal provisions of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1201_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided to the contrary in this chapter, an individual who was originally licensed, registered, or certified under a provision of law that has been deleted by this chapter continues to meet the education and experience requirements as if that provision had not been deleted.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1201_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each employee of the Commission on Mental Health Services who was employed at St. Elizabeths Hospital prior to October 1, 1987, and who accepted employment with the District government on October 1, 1987, without a break in service, shall, within 27 months of appointment by the District government, meet all licensure requirements. If the employee does not meet all licensure requirements, the employee shall be issued a limited license subject to the provisions, limitations, conditions, or restrictions that shall be determined by the appropriate board or commission. The limited license shall not exceed the term of employment with the Commission on Mental Health Services.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

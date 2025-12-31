@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/39-401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/39-401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_39_401">
+        <akn:num>39-401</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_39-401_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Arena Stage project” means the planning, development, acquisition, and construction of theater facilities and ancillary facilities to be located at 1101 6th Street, S.W., Washington, D.C. (Square 472, Lot 123).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-401_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Eligible organization” means an organization with real property described in § 47-1002(6), (7), (10), or (19) that has a signed lease for at least 10 years to carry out the purposes described in those paragraphs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-401_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Capital costs” means the costs of materials and supplies for the construction, rehabilitation, renovation, or preparation of architectural or engineering plans for a physical facility located in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-401_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Economic assistance” means a loan, grant, investment, or other form of expenditure of District monies.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

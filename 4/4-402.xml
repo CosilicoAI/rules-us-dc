@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-402"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-402/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_402">
+        <akn:num>4-402</akn:num>
+        <akn:heading>Day care program authorized; funding system for child development facilities.</akn:heading>
+<akn:subsection eId="subsec_4-402_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Provide a setting and a comprehensive program for the critically important early childhood development experience that will include, but not necessarily be limited to, educational, social, recreational, transportation, health, and nutritional services;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-402_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Provide services directed to the total well-being of the child and the stabilization of the family unit;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-402_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Provide a program which incorporates a broad-based parent and community participation component;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-402_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Provide a resource to enable parents to join or remain in the work force, participate in job training and to attain self-sufficiency and independence for their families; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-402_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Provide a program which protects children of working parents from neglect or inadequate care.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

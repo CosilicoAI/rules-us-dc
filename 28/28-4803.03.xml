@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4803.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4803.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4803_03">
+        <akn:num>28-4803.03</akn:num>
+        <akn:heading>Apportionment when income interest ends.</akn:heading>
+<akn:subsection eId="subsec_28-4803_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “undistributed income” means net income received before the date on which an income interest ends. The term “undistributed income” does not include an item of income or expense that is due or accrued or net income that has been added or is required to be added to principal under the terms of the trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4803_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When a mandatory income interest ends, the trustee shall pay to a mandatory income beneficiary who survives that date, or the estate of a deceased mandatory income beneficiary whose death causes the interest to end, the beneficiary’s share of the undistributed income that is not disposed of under the terms of the trust unless the beneficiary has an unqualified power to revoke more than 5 percent of the trust immediately before the income interest ends. In the latter case, the undistributed income from the portion of the trust that may be revoked shall be added to principal.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4803_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When a trustee’s obligation to pay a fixed annuity or a fixed fraction of the value of the trust’s assets ends, the trustee shall prorate the final payment if and to the extent required by applicable law to accomplish a purpose of the trust or its settlor relating to income, gift, estate, or other tax requirements.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

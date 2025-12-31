@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-309"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-309/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_309">
+        <akn:num>31-309</akn:num>
+        <akn:heading>Communication of internal control related matters noted in audit.</akn:heading>
+<akn:subsection eId="subsec_31-309_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In addition to the annual audited financial report, an insurer shall furnish the Mayor with a written communication regarding any unremediated material weaknesses in its internal controls over financial reporting noted during the audit. If no unremediated material weaknesses were noted during the audit, the insurer shall submit a written communication stating this fact to the Mayor. The communication shall be prepared by the independent certified public accountant within 60 days after the filing of the annual audited financial report and shall contain a description of any unremediated material weakness, as of December 31 immediately preceding, in the insurer’s internal control over financial reporting noted by the accountant during the course of their audit of the financial statements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-309_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The insurer shall provide a description of the remedial actions taken or those being proposed to correct unremediated material weaknesses if the actions are not described in the independent certified public accountant’s communication to the insurer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

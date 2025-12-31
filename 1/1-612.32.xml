@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.32"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.32/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_612_32">
+        <akn:num>1-612.32</akn:num>
+        <akn:heading>Voluntary leave transfer program.</akn:heading>
+<akn:subsection eId="subsec_1-612_32_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each agency or independent agency shall establish a voluntary leave transfer program under which annual or universal leave accrued or accumulated by an employee may be transferred on an hour-for-hour basis within the agency to the annual or universal leave account of any other eligible agency employee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_32_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A voluntary transfer of leave is authorized when a potential recipient employee will suffer a prolonged absence due to the employee’s serious health condition or the employee’s responsibility to provide personal care to an immediate relative.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_32_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A recipient employee shall be eligible to receive a maximum of 320 hours of transferred leave during any 12-month period. Any unused transferred leave shall be forfeited or may be transferred to the annual leave bank upon the concurrence of the Office of Personnel.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_32_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

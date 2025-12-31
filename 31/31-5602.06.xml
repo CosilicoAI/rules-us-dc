@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5602.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5602.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5602_06">
+        <akn:num>31-5602.06</akn:num>
+        <akn:heading>Power of inspection, examination and audit.</akn:heading>
+<akn:subsection eId="subsec_31-5602_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commissioner may, in a manner reasonable under the circumstances, examine, audit, or inspect the books and records, within or without the District, of a licensed broker-dealer, agent, investment adviser, or investment adviser representative as the Commissioner considers necessary or appropriate in the public interest or for the protection of investors or to determine compliance with this chapter. All licensed broker-dealers, agents, and investment advisers shall make their books and records available to the Commissioner in legible form.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5602_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commissioner may copy records, or require a licensed person to copy records and provide the copies to the Commissioner, to the extent and in a manner reasonable under the circumstances.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5602_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commissioner may impose a reasonable fee for the expense of conducting an examination, inspection, or audit under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5602_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For the purpose of avoiding unnecessary duplication of examinations, the Commissioner may cooperate with the securities administrators of other states, the Securities and Exchange Commission, or any self-regulatory organization.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

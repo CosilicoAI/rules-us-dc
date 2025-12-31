@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-809.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-809.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_809_10">
+        <akn:num>29-809.10</akn:num>
+        <akn:heading>Restrictions on approval of mergers and domestications.</akn:heading>
+<akn:subsection eId="subsec_29-809_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a member of a constituent or domesticating limited liability company will have personal liability with respect to a surviving or domesticated organization, approval or amendment of a plan of merger or domestication shall be ineffective without the consent of the member, unless the:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-809_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A member does not give the consent required by subsection (a) of this section merely by consenting to a provision of the operating agreement that permits the operating agreement to be amended with the consent of fewer than all the members.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

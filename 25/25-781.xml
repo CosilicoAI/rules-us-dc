@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-781"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-781/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_781">
+        <akn:num>25-781</akn:num>
+        <akn:heading>Sale to minors or intoxicated persons prohibited.</akn:heading>
+<akn:subsection eId="subsec_25-781_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The sale or delivery of alcoholic beverages to the following persons is prohibited:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-781_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A retail licensee shall not permit at the licensed establishment the consumption of an alcoholic beverage by any of the following persons:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-781_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A licensee or other person shall not, at a licensed establishment, give, serve, deliver, or in any manner dispense an alcoholic beverage to a person under 21 years of age, except as provided in § 25-784(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-781_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A licensee shall not be liable to any person for damages claimed to arise from refusal to sell an alcoholic beverage or refusal to permit the consumption of an alcoholic beverage in its establishment under the authority of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-781_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A person alleged to have violated this section may be issued a citation under § 23-1110(b)(1). The person shall not be eligible to forfeit collateral.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-781_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Upon finding that a licensee has violated subsection (a), (b), or (c) of this section in the preceding 4 years, the penalties shall be the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

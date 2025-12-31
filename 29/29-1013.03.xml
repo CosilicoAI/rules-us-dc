@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1013.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1013.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1013_03">
+        <akn:num>29-1013.03</akn:num>
+        <akn:heading>Pleading.</akn:heading>
+<akn:subsection eId="subsec_29-1013_03_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The date and content of the plaintiff’s demand under § 29-1013.01(1) and the association’s response;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1013_03_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>If 90 days have not expired since the demand, how irreparable harm to the association would result by waiting for the expiration of 90 days;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1013_03_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>If the association agreed to bring an action demanded, that the action has not been brought within a reasonable time; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1013_03_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>If the demand should be excused as futile, the reasons therefor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2033.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2033.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2033_01">
+        <akn:num>7-2033.01</akn:num>
+        <akn:heading>Transfers of personnel, property, and funds from Department of Health to Office of the State Superintendent of Education; continuation.</akn:heading>
+<akn:subsection eId="subsec_7-2033_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All positions, personnel, property, records, and unexpended balances of appropriations, allocations, and other funds available or to be made available to the Department of Health that support the functions related to the licensure of child-care programs in the Early Care and Education Administration and the Early Intervention Program shall be transferred to the Office of the State Superintendent of Education, established by § 38-2601, within 60 days of July 18, 2008.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2033_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All rules, orders, obligations, determinations, grants, contracts, licenses, and agreements of the Department of Health, the Department of Human Services, the Board of Education, or the District of Columbia Public Schools relating to the functions transferred to the Office of the State Superintendent of Education pursuant to subsection (a) of this section shall remain in effect according to their terms until lawfully amended, repealed, or modified.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

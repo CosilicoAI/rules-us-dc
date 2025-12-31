@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-308.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-308.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_308_04">
+        <akn:num>29-308.04</akn:num>
+        <akn:heading>Voting on amendments by voting groups.</akn:heading>
+<akn:subsection eId="subsec_29-308_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a corporation has more than one class of shares outstanding, the holders of the outstanding shares of a class shall be entitled to vote as a separate voting group, if shareholder voting is otherwise required by this chapter, on a proposed amendment to the articles of incorporation if the amendment would:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-308_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a proposed amendment would affect a series of a class of shares in one or more of the ways described in subsection (a) of this section, the holders of shares of that series shall be entitled to vote as a separate voting group on the proposed amendment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-308_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a proposed amendment that entitles the holders of 2 or more classes or series of shares to vote as separate voting groups under this section would affect those 2 or more classes or series in the same or a substantially similar way, the holders of shares of all the classes or series so affected shall vote together as a single voting group on the proposed amendment, unless otherwise provided in the articles of incorporation or required by the board of directors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-308_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A class or series of shares shall be entitled to the voting rights granted by this section although the articles of incorporation provide that the shares are nonvoting shares.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

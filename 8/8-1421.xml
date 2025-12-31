@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1421"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1421/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1421">
+        <akn:num>8-1421</akn:num>
+        <akn:heading>Findings.</akn:heading>
+<akn:subsection eId="subsec_8-1421_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>A terrorist attack on a large-quantity hazardous material shipment near the United States Capitol (“Capitol”) would be expected to cause tens of thousands of deaths and a catastrophic economic impact of $5 billion or more.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1421_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The threat of terrorism facing District of Columbia residents and workers in the vicinity of the Capitol requires an urgent response that recognizes and addresses the unique status of this area in American politics and history, and the risk of terrorism that results from this status.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1421_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>While the federal government has occupied the field of en route security and routing in the aviation context, it has not addressed the subject of rail car routing for security purposes. Moreover, the federal government has not acted to address the terrorist threat resulting from the transportation of ultra-hazardous materials within 2 miles of the Capitol, the White House, and the United States Supreme Court, unique terrorist targets.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1421_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Shippers of ultra-hazardous materials do not need to route large quantities of ultra-hazardous chemicals near the Capitol in order to ship these chemicals to their destinations, and alternative routes would substantially decrease the aggregate risk posed by terrorist attacks.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1421_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Requiring permits for ultra-hazardous shipments from a Capitol Exclusion Zone that encompasses all points within 2.2 miles of the Capitol would impose no significant burden on interstate commerce.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_612_08">
+        <akn:num>1-612.08</akn:num>
+        <akn:heading>Approval of application for withdrawal.</akn:heading>
+<akn:subsection eId="subsec_1-612_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The potential leave recipient’s personnel authority shall review an application to become a leave recipient under procedures established by the Mayor pursuant to § 1-612.11.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before approving an application to become a leave recipient, the personnel authority shall determine that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The value of the annual leave received by the leave recipient shall be in an amount equal to the hourly rate of pay of the leave recipient multiplied by the number of hours of annual leave received.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

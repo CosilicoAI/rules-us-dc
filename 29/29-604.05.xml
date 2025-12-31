@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-604.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-604.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_604_05">
+        <akn:num>29-604.05</akn:num>
+        <akn:heading>Distributions in kind; sharing of and right to distribution before dissolution.</akn:heading>
+<akn:subsection eId="subsec_29-604_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any distributions made by a partnership before its dissolution and winding up must be in equal shares among partners, except to the extent necessary to comply with a transfer effective under § 29-605.03 or charging order in effect under § 29-605.04.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-604_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person has a right to a distribution before the dissolution and winding up of a partnership only if the partnership decides to make an interim distribution.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-604_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person does not have a right to demand or receive a distribution from a partnership in any form other than money. Except as otherwise provided in § 29-608.09, a partnership may distribute an asset in kind only if each part of the asset is fungible with each other part and each person receives a percentage of the asset equal in value to the person’s share of distributions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-604_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a partner or transferee becomes entitled to receive a distribution, the partner or transferee has the status of, and is entitled to all remedies available to, a creditor of the partnership with respect to the distribution. However, the partnership’s obligation to make a distribution is subject to offset for any amount owed to the partnership by the partner or a person dissociated as partner on whose account the distribution is made.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

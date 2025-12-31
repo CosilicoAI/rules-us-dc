@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1011.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1011.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1011_01">
+        <akn:num>1-1011.01</akn:num>
+        <akn:heading>Election wards.</akn:heading>
+<akn:subsection eId="subsec_1-1011_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1011_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Council shall, by act after public hearing, make any adjustment in the boundaries of election wards that is necessary as a result of population shifts and changes, not later than 90 days after the Council’s receipt of the census report, or not later than July 14th of the year in which the census report is received, whichever is later.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1011_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Council shall divide the District into 8 compact and contiguous election wards, each of which shall be approximately equal in population size.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1011_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The total District population and the population of the District’s defined sub-units, as determined by the census report, or any official adjustment of the census report, shall be the exclusive permissible population data for apportionment of election wards.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1011_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The boundaries of each of the 8 election wards shall conform to the greatest extent possible with the boundaries of the census tracts that are established by the United States Bureau of the Census.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1011_01_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>No redistricting plan or proposed amendment to a redistricting plan shall result in district populations with a deviation range more than 10% or a relative deviation greater than plus-or-minus 5%, unless the deviation results from the limitations of census geography or from the promotion of a rational public policy, including but not limited to respect for the political geography of the District, the natural geography of the District, neighborhood cohesiveness, or the development of compact and contiguous districts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1011_01_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>No redistricting plan or proposed amendment to a redistricting plan shall be considered if the plan or amendment has the purpose and effect of diluting the voting strength of minority citizens.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1011_01_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>Any adjustment made less than 180 days prior to a regularly scheduled election shall not be effective for that election, or, if that election is a primary election, for the general election following the primary election.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

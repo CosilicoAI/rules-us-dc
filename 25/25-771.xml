@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-771"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-771/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_771">
+        <akn:num>25-771</akn:num>
+        <akn:heading>Reporting.</akn:heading>
+<akn:subsection eId="subsec_25-771_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Before the 21st day of each month, a licensee under a manufacturer’s license shall furnish to the Board, on a form to be prescribed by the Mayor, a statement, under penalties of perjury, showing the quantity of each kind of alcoholic beverage, except beer, manufactured during the preceding calendar month. For the purposes of this section, alcoholic beverages shall not be considered as manufactured until they are ready for sale.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-771_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Twice a year, a licensee under a wholesaler’s or retailer’s license shall furnish to the Board, on a form to be prescribed by the Mayor, a statement, under penalties of perjury, showing:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

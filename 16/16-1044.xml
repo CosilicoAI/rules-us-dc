@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1044"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1044/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_1044">
+        <akn:num>16-1044</akn:num>
+        <akn:heading>Registration of order.</akn:heading>
+<akn:subsection eId="subsec_16-1044_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Superior Court of the District of Columbia is authorized, subject to appropriations, to create a registry in the District of Columbia for foreign protection orders and protection orders issued in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1044_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any individual may register a foreign protection order in the District. To register a foreign protection order, an individual shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1044_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When a registry is created pursuant to subsection (a) of this section, upon receipt of a foreign protection order, the Superior Court shall register the order in accordance with this section. After the order is registered, the Superior Court shall furnish to the individual registering the order a certified copy of the registered order. The Superior Court shall not notify or require notification of the respondent that the protection order has been registered in the District unless requested to do so by the party protected by the order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1044_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Superior Court shall register an order upon presentation of a copy of a protection order that has been certified by the issuing State. A registered foreign protection order that is inaccurate or is not currently in effect shall be corrected or removed from the registry in accordance with the law of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1044_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A foreign protection order registered under this subchapter may be entered in any existing state or federal registry of protection orders, in accordance with applicable law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1044_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A fee may not be charged for the registration of a foreign protection order, nor may a fee be charged for service of a foreign order in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

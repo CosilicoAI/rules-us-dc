@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2083"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2083/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2083">
+        <akn:num>21-2083</akn:num>
+        <akn:heading>Relation of attorney in fact to court-appointed fiduciary.</akn:heading>
+<akn:subsection eId="subsec_21-2083_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If, following execution of a durable power of attorney, a court of the principal’s domicile appoints a conservator, guardian of the estate, or other fiduciary charged with the management of all of the principal’s property or all of his or her property except specific exclusions, the attorney in fact is accountable to the fiduciary as well as to the principal. The fiduciary has the same power to revoke or amend the power of attorney that the principal would have had if he or she were not incapacitated and did not have a disability.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2083_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A principal may nominate, by a durable power of attorney, the conservator, guardian of his or her estate, or guardian of his or her person for consideration by the court if protective proceedings for the principal’s person or estate are later commenced. The court shall make its appointment in accordance with the principal’s most recent nomination in a durable power of attorney except for good cause or disqualification.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

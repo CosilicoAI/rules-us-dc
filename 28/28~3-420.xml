@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-420"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-420/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_420">
+        <akn:num>28:3-420</akn:num>
+        <akn:heading>Conversion of instrument.</akn:heading>
+<akn:subsection eId="subsec_28:3-420_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The law applicable to conversion of personal property applies to instruments. An instrument is also converted if it is taken by transfer, other than a negotiation, from a person not entitled to enforce the instrument or a bank makes or obtains payment with respect to the instrument for a person not entitled to enforce the instrument or receive payment. An action for conversion of an instrument may not be brought by (i) the issuer or acceptor of the instrument or (ii) a payee or indorsee who did not receive delivery of the instrument either directly or through delivery to an agent or a co-payee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-420_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In an action under subsection (a) of this section, the measure of liability is presumed to be the amount payable on the instrument, but recovery may not exceed the amount of the plaintiff’s interest in the instrument.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-420_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A representative, other than a depositary bank, who has in good faith dealt with an instrument or its proceeds on behalf of one who was not the person entitled to enforce the instrument is not liable in conversion to that person beyond the amount of any proceeds that it has not paid out.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

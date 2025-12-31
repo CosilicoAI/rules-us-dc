@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.153b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.153b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_153b">
+        <akn:num>1-325.153b</akn:num>
+        <akn:heading>Transfer of other surplus capital funds.</akn:heading>
+<akn:subsection eId="subsec_1-325_153b_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a department, office, or agency has a capital project with an unexpended balance of more than $250,000 for which no funds have been expended or encumbered for 3 consecutive years, the OCFO shall provide 30 days written notice to the department, office, or agency of the CFO’s intent to transfer the surplus capital funds to the Capital Project Support Fund. The CFO shall make this transfer unless the department, office, or agency to which the funds have been budgeted or allotted:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_153b_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The OCFO shall have sole and complete discretion to determine whether the activity report required by subsection (a) of this section is satisfactory. If the OCFO determines that an activity report is unsatisfactory, the OCFO shall transfer the surplus capital funds to the Capital Project Support Fund after providing 10 days written notice to the agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_153b_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The OCFO shall transfer to the Capital Project Support Fund surplus capital funds from a capital project with an unexpended balance of $250,000 or less for which no funds have been expended or encumbered for 3 consecutive years upon the OCFO’s identification of such funds.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2503.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2503.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2503_01">
+        <akn:num>7-2503.01</akn:num>
+        <akn:heading>Rights and responsibilities of executors and administrators.</akn:heading>
+<akn:subsection eId="subsec_7-2503_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The executor or administrator of an estate containing a firearm shall notify the Chief of the death of the decedent within 30 days of his appointment or qualification, whichever is earlier.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2503_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Until the lawful distribution of such firearm to an heir or legatee or the lawful sale, transfer, or disposition of the firearm by the estate, the executor or administrator of such estate shall be charged with the duties and obligations which would have been imposed by this unit upon the decedent, if the decedent were still alive; provided, that such executor or administrator shall not be liable to the criminal penalties of § 7-2507.06.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

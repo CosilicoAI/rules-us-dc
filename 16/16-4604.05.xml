@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4604.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4604.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4604_05">
+        <akn:num>16-4604.05</akn:num>
+        <akn:heading>Jurisdiction.</akn:heading>
+<akn:subsection eId="subsec_16-4604_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A petition under this subchapter may be filed only in a court that has jurisdiction to make a child-custody determination with respect to the child at issue under §§ 16-4601.01 to 16-4604.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4604_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A court of this state has temporary emergency jurisdiction under § 16-4602.04 if the court finds a credible risk of abduction.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

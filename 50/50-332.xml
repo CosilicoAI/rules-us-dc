@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-332"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-332/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_332">
+        <akn:num>50-332</akn:num>
+        <akn:heading>Enforcement and issuance of citations; report.</akn:heading>
+<akn:subsection eId="subsec_50-332_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Taxicab Commission and the Metropolitan Police Department shall concurrently enforce and issue citations relating to Taxicab requirements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-332_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>On November 1st of each year the Mayor shall provide to the Committee on Public Works and the Environment, or a successor committee with oversight of the Taxicab Commission, a report on the number of civil citations issued pursuant to 31 DCMR § 825 and laws and regulations of the District of Columbia, and a report on any criminal infractions issued during the prior fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-332_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>On a quarterly basis, beginning in FY 2002, the Taxicab Commission shall issue a report to the Committee on Public Works and the Environment, or a successor committee with oversight of the Taxicab Commission, containing the number of civil infractions issued pursuant to 31 DCMR § 825, by Taxicab Hack Inspectors. This document shall also indicate the number of infractions that were deemed liable through the adjudication process.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

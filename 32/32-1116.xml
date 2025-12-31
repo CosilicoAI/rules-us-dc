@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1116"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1116/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1116">
+        <akn:num>32-1116</akn:num>
+        <akn:heading>Judicial review and enforcement.</akn:heading>
+<akn:subsection eId="subsec_32-1116_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 60 days of the issuance of a decision or order by the Commission or the issuance of a final order of the Mayor when the Commission does not review a decision or order of the Mayor, an employer, employee, or representative of an employee, suffering a legal wrong or adversely affected or aggrieved by an order or decision of the Commission or an employer, employee, or representative of an employee adversely affected or aggrieved by a final order or decision of the Mayor when the Commission does not review a decision or order is entitled to review by the District of Columbia Court of Appeals in accordance with § 2-510. The commencement of proceedings under this subsection shall not, unless ordered by the court, operate as a stay of the order of the Commission or the final order of the Mayor when the Commission does not review a decision or order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1116_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If no appeal is taken as prescribed in subsection (a), upon the conclusion of judicial appellate proceeding where a stay has not been granted to the Commission, when the Mayor is upheld by the court when the Commission does review a decision or order, upon the final order of the Mayor when the Commission does review a final decision or order of the Mayor, or when a citation is not contested, the Mayor may apply to the Superior Court to enforce any abatement requirement prescribed. Failure to comply with the abatement order may be punished by the court as contempt. In a contempt proceeding the court may assess the penalties provided in § 32-1120 in addition to other available remedies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1116_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When a penalty has been assessed or imposed by the Mayor under § 32-1115 but not paid and no timely appeal is taken by an affected party under subsection (a) of this section, upon the conclusion of judicial appellate proceedings in which the Commission or the final order of the Mayor, when the Commission does review the decision or order, is upheld, or where a citation is not contested, the Mayor may file a certified copy of the final order with the Superior Court. Upon notice to the parties, as prescribed by rules issued pursuant to this chapter, the court shall enter judgment. The judgment and all proceedings in relation to it shall have the same effect as a judgment entered in a civil action in the Superior Court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

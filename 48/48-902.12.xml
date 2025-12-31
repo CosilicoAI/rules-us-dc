@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-902.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-902.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_902_12">
+        <akn:num>48-902.12</akn:num>
+        <akn:heading>Schedule V enumerated.</akn:heading>
+<akn:subsection eId="subsec_48-902_12_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Any compound, mixture, or preparation containing limited quantities of any of the following narcotic drugs, or salts thereof, which also contains 1 or more nonnarcotic active medicinal ingredients in sufficient proportion to confer upon the compound, mixture, or preparation valuable medicinal qualities other than those possessed by the narcotic drug alone:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-902_12_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Repealed;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-902_12_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Deleted upon adoption of rule in 34 DCMR 4370 on July 10, 1987;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-902_12_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing any of the following narcotic drugs and their salts, as set forth below:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-902_12_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Prophylhexedrine; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-902_12_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Pyrovalerone.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

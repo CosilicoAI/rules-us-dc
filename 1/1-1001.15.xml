@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1001.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1001.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1001_15">
+        <akn:num>1-1001.15</akn:num>
+        <akn:heading>Candidacy for more than 1 office prohibited; multiple nominations; candidacy of officeholder for another office restricted.</akn:heading>
+<akn:subsection eId="subsec_1-1001_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person shall be a candidate for more than one office on the State Board of Education, the Council, Mayor, or Attorney General in any election for the members of the State Board of Education, the Council, Mayor, or Attorney General, and no person shall be a candidate for more than one office on the Council, Mayor, or Attorney General in any primary election. If a person is nominated for more than 1 such office, he or she shall, within 3 days after the Board has sent him notice that he or she has been so nominated, designate in writing the office for which he or she wishes to run, in which case he or she will be deemed to have withdrawn all other nominations. In the event that such person fails within such 3-day period to file such a designation with the Board, all such nominations of such person shall be deemed withdrawn.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1001_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of subsection (a) of this section, a person holding the office of Delegate, Chairman or member of the Council, Mayor, Attorney General, or member of the State Board of Education shall, while holding such office, be eligible as a candidate for any other of such offices in any primary or general election. In the event that said person is elected in a general election to the office for which he or she is a candidate, that person shall, within 24 hours of the date that the Board certifies said person’s election, pursuant to subsection (a)(11) of § 1-1001.05, either resign from the office that person currently holds or shall decline to accept the office for which he or she was a candidate. In the event that said person elects to resign, said resignation shall be effective not later than 24 hours before the date upon which that person would assume the office to which he or she has been elected.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

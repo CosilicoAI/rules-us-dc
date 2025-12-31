@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_103">
+        <akn:num>48-103</akn:num>
+        <akn:heading>Definitions — “Adulterated article” defined.</akn:heading>
+<akn:subsection eId="subsec_48-103_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>In the case of drugs: (A) if, when sold under or by a name recognized in the United States Pharmacopoeia, it differs from the standard of strength, quality, or purity laid down in the edition thereof at the time official; (B) if, when sold under or by a name not recognized in the United States Pharmacopoeia, but which is found in the German, French, or English Pharmacopoeia, it differs from the strength, quality, or purity laid down therein; (C) if, when sold as a patented medicine, compounded drug, or mixture, it is not composed of all of the ingredients advertised or printed or written on the bottles, wrappers, or labels of or on or with the patented medicine, compounded drug, or mixture; provided, that if the defendant in any prosecution under this chapter, in respect to the sale of any such patented medicine, compounded drug, or mixture, shall prove to the satisfaction of the court that he had purchased the article in question as the same in nature, substance, and quality as that demanded of him by the purchaser, and with a written warranty to that effect, that he had no reason to believe at the time when he sold it that the article was otherwise, and that he sold it in the same state as when he purchased it, he shall be discharged from the prosecution; provided, further, that an offense shall not be deemed to be committed under this section in the following cases:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-103_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>In the case of food, if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1008.22"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1008.22/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1008_22">
+        <akn:num>29-1008.22</akn:num>
+        <akn:heading>Appointment and authority of officers.</akn:heading>
+<akn:subsection eId="subsec_29-1008_22_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A limited cooperative association shall have the officers:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1008_22_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The organic rules may designate or, if the rules do not designate, the board of directors shall designate, one of the association’s officers for preparing all records required by § 29-1001.10 and for the authentication of records.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1008_22_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Unless the organic rules otherwise provide, the board of directors shall appoint the officers of the limited cooperative association.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1008_22_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Officers of a limited cooperative association shall perform the duties the organic rules prescribe or as authorized by the board of directors not in a manner inconsistent with the organic rules.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1008_22_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The election or appointment of an officer of a limited cooperative association shall not of itself create a contract between the association and the officer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1008_22_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Unless the organic rules otherwise provide, an individual may simultaneously hold more than one office in a limited cooperative association.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

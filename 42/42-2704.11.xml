@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2704.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2704.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2704_11">
+        <akn:num>42-2704.11</akn:num>
+        <akn:heading>Deposits; payments out of accounts; contracts involving monies held in trust or otherwise for payment of notes or bonds.</akn:heading>
+<akn:subsection eId="subsec_42-2704_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All monies of the Agency, except as otherwise authorized in this chapter, shall be deposited as soon as practicable in 1 or more separate accounts in financial institutions regulated or insured by a federal or District agency. Monies in these accounts shall be paid out on checks signed by the Executive Director or other authorized officers or employees of the Agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2704_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of this section, the Agency shall have power to contract with the holders of its notes or bonds as to the custody, collection, securing, investment, and payment of any monies of the Agency and of any monies held in trust or otherwise for the payment of notes or bonds. Monies held in trust pursuant to a contract with holders of notes or bonds may be secured in the same manner as monies of the Agency.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

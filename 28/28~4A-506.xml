@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-506"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-506/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4A_506">
+        <akn:num>28:4A-506</akn:num>
+        <akn:heading>Rate of interest.</akn:heading>
+<akn:subsection eId="subsec_28:4A-506_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If, under this article, a receiving bank is obliged to pay interest with respect to a payment order issued to the bank, the amount payable may be determined (i) by agreement of the sender and receiving bank, or (ii) by a funds-transfer system rule if the payment order is transmitted through a funds-transfer system.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-506_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the amount of interest is not determined by an agreement or rule as stated in subsection (a) of this section, the amount is calculated by multiplying the applicable Federal Funds rate by the amount on which interest is payable, and then multiplying the product by the number of days for which interest is payable. The applicable Federal Funds rate is the average of the Federal Funds rate published by the Federal Reserve Bank of New York for each of the days for which interest is payable divided by 360. The Federal Funds rate for any day on which a published rate is not available is the same as the published rate for the next preceding day for which there is a published rate. If a receiving bank that accepted a payment order is required to refund payment to the sender of the order because the funds transfer was not completed, but the failure to complete was not due to any fault by the bank, the interest payable is reduced by a percentage equal to the reserve requirement on deposits of the receiving bank.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

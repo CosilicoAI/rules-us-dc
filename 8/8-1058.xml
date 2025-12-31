@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1058"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1058/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1058">
+        <akn:num>8-1058</akn:num>
+        <akn:heading>Rulemaking.</akn:heading>
+<akn:subsection eId="subsec_8-1058_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor is authorized, in accordance with § 2-501 et seq., to adopt rules and regulations to implement the provisions of this chapter, including the establishment of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1058_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor is further authorized to amend or repeal any provision of Chapter 3 of Title 8 of the District of Columbia Health Regulations, issued June 29, 1971 (Reg. 71-21; 21 DCMR 700 et seq.), to conform the chapter with, or to further the purposes of, this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

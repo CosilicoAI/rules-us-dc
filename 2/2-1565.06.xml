@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1565.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1565.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1565_06">
+        <akn:num>2-1565.06</akn:num>
+        <akn:heading>Funding.</akn:heading>
+<akn:subsection eId="subsec_2-1565_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Gifts, grants, and donations from private or public sources may be used to fund the costs of the Youth Council. Contributions to support the work of the Youth Council may not be accepted from any party having a pecuniary or other vested interest in the outcome of the matters being studied by the Youth Council or who would in any way compromise the work of the Youth Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1565_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person, other than a District of Columbia agency, desiring to make a financial or in-kind contribution must certify to the Council, or its designee, in the manner prescribed by the Council, that the person has no pecuniary or other vested interest in the outcome of the work of the Youth Council. All contributions are subject to approval by the Council, or its designee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1565_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Secretary to the Council shall administer any funds received by the Youth Council. Prior to the beginning of each fiscal year, the Secretary shall notify the Youth Planner and Chair of the Youth Council of the status of funding.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

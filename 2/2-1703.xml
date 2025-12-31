@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1703"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1703/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1703">
+        <akn:num>2-1703</akn:num>
+        <akn:heading>Responsibilities and duties of Public Records Administrator.</akn:heading>
+<akn:subsection eId="subsec_2-1703_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1703_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Administrator shall establish and maintain the official archives of the District of Columbia, implement regulations for the preservation and use of archival records, and perform other functions to implement this chapter or the regulations issued pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1703_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Administrator shall establish and maintain a Library of Governmental Information of the District of Columbia which shall serve as an effective source of reference and research information with respect to the business of the District; develop programs and establish standards for the management of services provided under this section; and perform the other functions to implement this chapter or the regulations issued pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1703_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

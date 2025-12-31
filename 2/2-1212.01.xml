@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1212.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1212.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1212_01">
+        <akn:num>2-1212.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_2-1212_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Corner store” means a retail establishment that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1212_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Eligible area” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1212_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Farmers market” means a public market, as defined by § 37-131.01(2), at which farmers and other producers sell fresh produce and healthy foods.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1212_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“First source agreement” means the agreement required by § 2-219.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1212_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Grocery store” means a retail establishment that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1212_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Healthy food” means fresh fruit and vegetables and other foods qualifying as healthy pursuant to 21 C.F.R. § 101.65(d)(2).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1212_01_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1212_01_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“SNAP benefits” means benefits provided by the Supplemental Nutrition Assistance Program, established by the Food Stamp Act of 1964, approved August 31, 1964 (78 Stat. 703; 7 U.S.C. § 2011 et seq.).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1212_01_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“WIC benefits” means benefits provided by the Special Supplemental Nutrition Program for Women, Infants, and Children, established by section 17 of the Child Nutrition Act of 1966, approved September 26, 1972 (86 Stat. 729; 42 U.S.C. § 1786).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

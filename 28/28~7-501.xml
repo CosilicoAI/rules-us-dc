@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:7_501">
+        <akn:num>28:7-501</akn:num>
+        <akn:heading>Form of negotiation and requirements of due negotiation.</akn:heading>
+<akn:subsection eId="subsec_28:7-501_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The following rules apply to a negotiable tangible document of title:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-501_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The following rules apply to a negotiable electronic document of title:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-501_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Indorsement of a nonnegotiable document of title neither makes it negotiable nor adds to the transferee’s rights.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-501_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The naming in a negotiable bill of lading of a person to be notified of the arrival of the goods does not limit the negotiability of the bill or constitute notice to a purchaser of the bill of any interest of that person in the goods.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

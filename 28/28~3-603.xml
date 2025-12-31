@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-603"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-603/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_603">
+        <akn:num>28:3-603</akn:num>
+        <akn:heading>Tender of payment.</akn:heading>
+<akn:subsection eId="subsec_28:3-603_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If tender of payment of an obligation to pay an instrument is made to a person entitled to enforce the instrument, the effect of tender is governed by principles of law applicable to tender of payment under a simple contract.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-603_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If tender of payment of an obligation to pay an instrument is made to a person entitled to enforce the instrument and the tender is refused, there is discharge, to the extent of the amount of the tender, of the obligation of an indorser or accommodation party having a right of recourse with respect to the obligation to which the tender relates.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-603_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If tender of payment of an amount due on an instrument is made to a person entitled to enforce the instrument, the obligation of the obligor to pay interest after the due date on the amount tendered is discharged. If presentment is required with respect to an instrument and the obligor is able and ready to pay on the due date at every place of payment stated in the instrument, the obligor is deemed to have made tender of payment on the due date to the person entitled to enforce the instrument.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

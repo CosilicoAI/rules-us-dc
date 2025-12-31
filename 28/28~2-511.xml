@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-511"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-511/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_511">
+        <akn:num>28:2-511</akn:num>
+        <akn:heading>Tender of payment by buyer; payment by check.</akn:heading>
+<akn:subsection eId="subsec_28:2-511_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Unless otherwise agreed tender of payment is a condition to the seller’s duty to tender and complete any delivery.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-511_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Tender of payment is sufficient when made by any means or in any manner current in the ordinary course of business unless the seller demands payment in legal tender and gives any extension of time reasonably necessary to procure it.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-511_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Subject to the provisions of this subtitle on the effect of an instrument on an obligation (section 28:3-310), payment by check is conditional and is defeated as between the parties by dishonor of the check on due presentment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

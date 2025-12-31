@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-129"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-129/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_129">
+        <akn:num>41-129</akn:num>
+        <akn:heading>Periods of limitation.</akn:heading>
+<akn:subsection eId="subsec_41-129_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The expiration of any period of time specified by contract, statute, or court order, during which a claim for recovery of money or property can be made, or during which an action or proceeding may be commenced or enforced to obtain payment of a claim for money or recovery of property, does not prevent the money or property from being presumed abandoned property, or affect any duty to file a report required by this chapter or to pay or deliver abandoned property to the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-129_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No action or proceeding may be commenced by the Mayor to enforce any provision of this chapter in regard to the reporting, delivery, or payment of property more than 10 years after the holder specifically identified the property in a report filed with the Mayor or gave express notice to the Mayor of a dispute regarding the property. In the absence of such a report or other express notice, the period of limitation is tolled. The period of limitation is also tolled by the filing of a report that is fraudulent.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

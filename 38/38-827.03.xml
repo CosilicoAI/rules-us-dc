@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-827.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-827.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_827_03">
+        <akn:num>38-827.03</akn:num>
+        <akn:heading>Rules of procedure.</akn:heading>
+<akn:subsection eId="subsec_38-827_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Chairperson of the Commission, or his or her designated representative, who shall be a member of the Commission, shall convene all meetings of the Commission. Seven members of the Commission shall constitute a quorum. Voting by proxy shall not be permitted.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-827_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All meetings, reports, and recommendations shall be a matter of public record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-827_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commission shall establish its meeting schedule; provided, that the Commission shall meet at least 4 times during each calendar year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-827_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Commission may establish subcommittees as needed. Subcommittees may include persons who are not members of the Commission; provided, that each subcommittee shall be chaired by a Commission member.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

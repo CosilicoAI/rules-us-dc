@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1001"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1001/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1001">
+        <akn:num>4-1001</akn:num>
+        <akn:heading>Burial assistance program.</akn:heading>
+<akn:subsection eId="subsec_4-1001_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Emergency assistance up to a maximum of $800 is available for burial and cremation services if the liquid assets of the deceased person at the time of death do not exceed $800.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1001_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Burial assistance shall be subject to the availability of appropriations. Notwithstanding any other provision of law, nothing in this subchapter shall be construed to create an entitlement to burial assistance for any person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1001_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall implement this chapter within 30 days of April 20, 1999, and shall make quarterly reports to the Council Committee on Human Services on the assistance granted under this program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1001_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Subsections (a) and (b) shall apply as of April 20, 1999.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

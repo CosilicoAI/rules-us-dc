@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2303.02a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2303.02a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2303_02a">
+        <akn:num>50-2303.02a</akn:num>
+        <akn:heading>Automated parking enforcement system.</akn:heading>
+<akn:subsection eId="subsec_50-2303_02a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this subchapter, the term “automated parking enforcement system” means equipment that takes a film or digital camera-based photograph which is linked with a violation detection system that synchronizes the taking of a photograph with the occurrence of a parking infraction. Recorded images taken by an automated parking enforcement system are prima facie evidence of an infraction and may be submitted without authentication.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2303_02a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor is authorized to use an automated parking enforcement system to detect parking infractions. Violations detected by an automated parking enforcement system shall constitute parking violations. Proof of an infraction may be evidenced by information obtained through the use of an automated parking enforcement system.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2303_02a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding other provisions of law or regulation, citations resulting from an automated parking enforcement system shall be limited to warning citations during the first 45 days that automated parking enforcement is used on any given street sweeper route. The automated parking enforcement system program shall not be implemented until a warning citation is developed and a warning citation process is put in place.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

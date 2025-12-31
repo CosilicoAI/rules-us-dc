@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-632.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-632.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_632_03">
+        <akn:num>1-632.03</akn:num>
+        <akn:heading>Police officers and fire fighters appointed after the date this chapter becomes effective.</akn:heading>
+<akn:subsection eId="subsec_1-632_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The following provisions shall not apply to police officers and fire fighters appointed after the date that this chapter becomes effective as provided in § 1-636.02:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-632_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsections (a) or (c) of this section, no provision of law affecting the United States Park Police, United States Secret Service Uniformed Division or Secret Service shall be deemed to be affected.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-632_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of subsection (a)(1)(B) of this section, or of any other law or regulation, for members of the Metropolitan Police Department, the Assistant Chiefs of Police, Deputy Chiefs of Police, and inspectors shall be selected from among the lieutenants and captains of the force and shall be returned to the same civil service rank when the Mayor so determines as provided in § 5-105.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

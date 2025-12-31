@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2041"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2041/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2041">
+        <akn:num>7-2041</akn:num>
+        <akn:heading>Summary suspension.</akn:heading>
+<akn:subsection eId="subsec_7-2041_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If, after an investigation, the Mayor determines that a licensee has failed to comply with the provisions of this subchapter or any rules promulgated pursuant to this subchapter in such a manner as to present an imminent danger to the health, safety, and welfare of children, infants, toddlers, or the general public, the Mayor may summarily suspend or restrict the license prior to a hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2041_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor must provide the licensee with written notice of the summary suspension initiated pursuant to subsection (a) of this section, the reason for the suspension, and the right to request a hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2041_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The licensee shall have 5 days after service of the notice of the summary suspension in which to request a hearing to challenge the summary suspension. A hearing shall be held within 5 business days of a timely request and the Mayor shall issue a decision within 5 business days after closing the record.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

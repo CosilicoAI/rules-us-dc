@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2361.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2361.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2361_08">
+        <akn:num>7-2361.08</akn:num>
+        <akn:heading>Relation to other laws.</akn:heading>
+<akn:subsection eId="subsec_7-2361_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This chapter does not limit rights, privileges, or immunities provided to volunteer health practitioners by laws other than this chapter. Except as otherwise provided in subsection (b) of this section, this chapter does not affect requirements for the use of health practitioners pursuant to the Emergency Management Assistance Compact.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2361_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor, pursuant to the Emergency Management Assistance Compact, may incorporate into the emergency forces of the District volunteer health practitioners who are not officers or employees of the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1114"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1114/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1114">
+        <akn:num>26-1114</akn:num>
+        <akn:heading>Prohibited practices.</akn:heading>
+<akn:subsection eId="subsec_26-1114_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No mortgage broker, mortgage lender, mortgage loan originator, or loan officer required to be licensed under this chapter, or person required to be licensed under this chapter, shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1114_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No mortgage broker required to be licensed under this chapter shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1114_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of subsection (b) of this section, no person shall act as a mortgage broker in connection with any real estate sales transaction entered into prior to September 9, 1996 in which such person, or any person affiliated with such person, has acted as a real estate broker, agent, or salesperson and has received or will receive compensation in connection with such transaction, unless such person was regularly engaged in acting as a mortgage broker in connection with such transaction as of September 9, 1996.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1114_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A licensee or any person required to be licensed under this chapter shall not:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

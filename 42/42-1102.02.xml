@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1102.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1102.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1102_02">
+        <akn:num>42-1102.02</akn:num>
+        <akn:heading>Transfer of economic interest defined.</akn:heading>
+<akn:subsection eId="subsec_42-1102_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A transfer of an economic interest in real property occurs upon the conveyance, vesting, granting, bargaining, sale, or assignment, directly or indirectly, of a controlling interest by 1 or more persons or by 1 or more transactions, within any 12-month period, in any corporation, partnership, association, trust, or other entity that, during the 12-month period immediately preceding the transfer of an economic interest in real property:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1102_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of subsection (a) of this section, a transfer of a controlling interest includes the aggregate of the transfer of any legal, equitable, beneficial, or other ownership interest in:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1102_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this section, as of October 1, 2009, every transfer of an interest in a cooperative housing association in connection with the grant, transfer, or assignment of a proprietary leasehold or other proprietary interest, in whole or in part, shall be a transfer of an economic interest.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

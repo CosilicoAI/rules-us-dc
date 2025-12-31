@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-219"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-219/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_219">
+        <akn:num>7-219</akn:num>
+        <akn:heading>Confidentiality.</akn:heading>
+<akn:subsection eId="subsec_7-219_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person may permit inspection of, disclose information contained in, or copy or issue a copy of any part of a vital record except as authorized by this chapter, regulations issued under and consistent with this chapter, or by order of the Court. Regulations issued under this section shall provide for adequate standards of security and confidentiality of vital records.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-219_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Registrar may authorize the disclosure of information contained in vital records for research purposes, and shall issue regulations governing such use of the records.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-219_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except for certificates, reports, or other documents which are sealed or confidential by statute, 100 years after the date of birth, and 50 years after the date of death, marriage, divorce or annulment, records in the custody of the Registrar become public records. The Registrar shall issue regulations to provide for continued safekeeping of these records and to allow information in these records to be made available to the public.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-219_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of this section, the Registrar shall provide reports of deaths of children 18 years of age or younger who either received or were eligible to receive certificates of live birth, as defined by § 7-201(9), to the Child Fatality Review Committee pursuant to § 4-1317.12.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

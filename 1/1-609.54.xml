@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-609.54"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-609.54/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_609_54">
+        <akn:num>1-609.54</akn:num>
+        <akn:heading>Employment-at-will.</akn:heading>
+<akn:subsection eId="subsec_1-609_54_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An appointment to a position in the Management Supervisory Service shall be an at-will appointment.  Management Supervisory Service employees shall be given a 15-day notice prior to termination. Upon termination, a person with Career or Educational Service status, or with Excepted Service status due to appointment as an attorney pursuant to § 1-609.09, may retreat, at the discretion of the personnel authority, within 3 months of the effective date of the termination, to a vacant position within the agency to which he or she was promoted for which he or she is qualified.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-609_54_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An individual appointed to the Management Supervisory Service pursuant to this section may be paid severance pay upon separation for non-disciplinary reasons according to the length of the individual’s employment with the District government as follows:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

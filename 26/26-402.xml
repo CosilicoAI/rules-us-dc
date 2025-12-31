@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-402"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-402/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_402">
+        <akn:num>26-402</akn:num>
+        <akn:heading>Taxability.</akn:heading>
+<akn:subsection eId="subsec_26-402_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A common trust fund, as herein defined, shall not be subject to any tax imposed by Chapter 18 of Title 47, and for the purpose of said subchapter shall not be deemed to be a corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-402_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The net income of a common trust fund shall be computed in the same manner and on the same basis as in the case of an individual. Each participant in a common trust fund shall include, in computing its net income, its proportionate share of the net income of such fund, whether or not distributed to it, and the amount so included in the net income of a participant shall be taxable to such participant, or its beneficiaries, in the manner and to the extent provided in subchapter IX of Chapter 18 of Title 47, as if any amount not distributed to the participant during its taxable year actually had been so distributed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-402_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No gain or loss shall be realized by a common trust fund upon the admission or withdrawal of a participant, or upon the admission or withdrawal of any interest of a participant. The withdrawal of any participating interest by a participant shall be treated as a sale or exchange of such interest by such participant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-402_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Every bank or trust company maintaining a common trust fund shall make a return under oath for the taxable year of such fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-402_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the taxable year of a common trust fund is different from that of a participant therein, the proportionate share of the net income of such fund to be included in computing the net income of such participant for its taxable year shall be based upon the net income of such fund for its taxable year ending within the taxable year of such participant.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

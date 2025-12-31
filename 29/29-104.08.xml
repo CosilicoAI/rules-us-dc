@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-104.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-104.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_104_08">
+        <akn:num>29-104.08</akn:num>
+        <akn:heading>Change of name, address, type of entity, or jurisdiction of formation by noncommercial registered agent.</akn:heading>
+<akn:subsection eId="subsec_29-104_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a noncommercial registered agent changes its name, its address in effect with respect to a represented entity under § 29-104.04(a), its type of entity, or its jurisdiction of formation, the agent shall deliver to the Mayor for filing, with respect to each entity represented by the agent, a statement of change signed by the agent which states:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-104_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A noncommercial registered agent promptly shall furnish the represented entity with notice in a record of the delivery to the Mayor for filing of a statement of change and the changes made in the statement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

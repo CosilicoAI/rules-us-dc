@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-103.13a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-103.13a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_103_13a">
+        <akn:num>8-103.13a</akn:num>
+        <akn:heading>Well construction, maintenance, and abandonment.</akn:heading>
+<akn:subsection eId="subsec_8-103_13a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (d) of this section, no person may construct a well without first obtaining a permit subject to the terms, conditions, or restrictions the Mayor deems necessary including the right to inspect the permittee’s property during reasonable times and in a reasonable manner, to ensure compliance with this subchapter or any rules promulgated thereunder. A permit issued pursuant to this subsection shall be valid for a period of 2 years after the date of issue. The Mayor may issue rules for modifying, revoking, reissuing, or terminating permits.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-103_13a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The owner of a well shall maintain the well in accordance with the rules promulgated by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-103_13a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person shall provide at least 30 days written notice to the Mayor before abandoning the well. Within 30 days of the date of this notice, the person shall seal and fill the well pursuant to rules issued by the Mayor. A person who fails to renew a permit within 90 days after the expiration date of the permit shall be deemed to have provided notice of abandoning the well and shall seal and fill the well within 120 days of the permit’s expiration date.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-103_13a_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor may create categories of wells and exempt certain categories of wells from the requirements of this section and § 8-103.13b.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

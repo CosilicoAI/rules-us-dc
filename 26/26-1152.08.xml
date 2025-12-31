@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1152.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1152.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1152_08">
+        <akn:num>26-1152.08</akn:num>
+        <akn:heading>Home improvement contracts.</akn:heading>
+<akn:subsection eId="subsec_26-1152_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A lender shall not pay a contractor under a home improvement contract from the proceeds of a covered loan other than by an instrument payable to the borrower or jointly payable to the borrower and the contractor or, at the election of the borrower, through a third-party escrow agent that is independent from the contractor in accordance with the terms established in a written agreement signed by the borrower, the mortgage lender, and the contractor prior to the disbursement of funds to the contractor. The borrower shall be responsible for any reasonable fees or costs associated with the election. A lender may conclusively rely on a certified written statement from either the contractor or the third-party escrow agent that states that the escrow agent and contractor are independent from each other.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1152_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A lender shall not purchase a home improvement contract in connection with, or make an instrument payable to, a home improvement contractor that is not bonded with the District pursuant to subchapter IV of Chapter 28 of Title 47. The Mayor shall maintain a list of home improvement contractors that are bonded and in good standing. Unless the lender has notice that the contractor is not licensed or authorized to do business in the District, a lender who relies on the list within 60 days of the closing shall be considered in compliance with this section; provided, that the lender has provided the Mayor with a name, telephone number, mailing address, and electronic mail address of a contact person to whom the Mayor can provide updates or amendments to the list required by this subsection.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

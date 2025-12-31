@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3302.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3302.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3302_01">
+        <akn:num>31-3302.01</akn:num>
+        <akn:heading>Guaranteed availability of individual health insurance coverage to certain individuals with prior group coverage.</akn:heading>
+<akn:subsection eId="subsec_31-3302_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This subchapter applies only to those health insurers that offer individual health insurance coverage in the District of Columbia. Nothing in this subchapter shall require health insurers participating only in the group health insurance market to offer individual health insurance coverage.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3302_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A health insurer may not offer any individual health benefit plans in the District of Columbia unless the health insurer offers, and actively markets, the policies required by this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3302_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Unless a health insurer makes an election under subsection (d)(2) of this section, the health insurer may not:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3302_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

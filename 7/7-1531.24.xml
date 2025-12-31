@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1531.24"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1531.24/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1531_24">
+        <akn:num>7-1531.24</akn:num>
+        <akn:heading>Duties of hospitals and hospices.</akn:heading>
+<akn:subsection eId="subsec_7-1531_24_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever a patient of a hospital or hospice dies, is determined to be a suitable candidate for organ or tissue donation, and has not made an anatomical gift by will or document of gift, a representative of the hospital or hospice shall, in accordance with § 7-1531.08, request a person authorized by that section to consent to an anatomical gift of all or part of the decedent’s body.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1531_24_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The request required by subsection (a) of this section shall be made only if a procurement organization has notified the hospital or hospice that a donation can be properly obtained and used in a manner consistent with accepted medical standards.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1531_24_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Upon the discovery of a properly executed document of gift or the receipt of a consent under subsection (a) of this section, a hospital or hospice shall immediately notify a procurement organization and shall cooperate in procuring the anatomical gift.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-115.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-115.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_115_04">
+        <akn:num>5-115.04</akn:num>
+        <akn:heading>Legal assistance for police in wrongful arrest cases.</akn:heading>
+<akn:subsection eId="subsec_5-115_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In accordance with regulations prescribed by the Council of the District of Columbia, the Corporation Counsel of the District of Columbia shall represent any officer or member of the Metropolitan Police Department, if he so requests, in any civil action for damages resulting from an alleged wrongful arrest by such officer or member.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-115_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Corporation Counsel fails or is unable to represent such officer or member when requested to do so, the Mayor of the District of Columbia shall compensate such officer or member for reasonable attorney’s fees (as determined by the court) incurred by him in his defense of the action against him.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

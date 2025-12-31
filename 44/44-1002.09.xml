@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1002.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1002.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1002_09">
+        <akn:num>44-1002.09</akn:num>
+        <akn:heading>Special fund or account.</akn:heading>
+<akn:subsection eId="subsec_44-1002_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor may establish a special revolving fund or a separate allocable revenue account in the General Fund to provide financial support in the form of loans to a receiver of a facility. If established, this fund or account may be supported in accordance with subsection (f) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “fund” means the special revolving fund or separate allocable revenue account referred to in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If expenses remain unpaid after a receiver uses all private and third-party payments, the receiver may petition the court for money from the fund. Before the court authorizes use of money from the fund, it shall hold a hearing at which the Mayor, the receiver, the licensee, the owner, and the administrator of the facility may offer evidence on whether the court should approve the loan. Notice of the hearing shall be given to the Mayor, the receiver, the licensee, the owner, and the administrator of the facility at least 7 days (excluding Saturdays, Sundays, and legal holidays) before the hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_09_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>In addition to receivership loans, the Mayor may use money from the fund for low-interest loans or grants to facilities to help improve resident care, address the personal needs of residents, and enhance resident safety.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_09_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The Mayor may support the fund with money received from:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1002_09_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>Any money in the fund in excess of $500,000 shall revert to the General Fund.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

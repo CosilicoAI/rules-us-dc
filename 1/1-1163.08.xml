@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1163_08">
+        <akn:num>1-1163.08</akn:num>
+        <akn:heading>Designation of campaign depositories; petty cash fund.</akn:heading>
+<akn:subsection eId="subsec_1-1163_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each committee and each candidate accepting contributions or making expenditures, shall designate in the registration statement required under § 1-1163.07 or § 1-1163.12, one or more national banks located in the District of Columbia as the depository or depositories of that committee or candidate. Each committee or candidate shall maintain a checking account or accounts at such depository or depositories and shall deposit any contributions received by the committee or candidate into that account or accounts. No expenditures may be made by a committee or candidate except by check drawn payable to the person to whom the expenditure is being made on that account or accounts, other than petty cash expenditures as provided in subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1163_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A committee or candidate may maintain a petty cash fund out of which may be made expenditures not in excess of $50 to any person in connection with a single purchase or transaction. A record of petty cash receipts and disbursements shall be kept in accordance with requirements established by the Elections Board, and statements and reports of expenditures shall be furnished to the Director of Campaign Finance as it may require.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

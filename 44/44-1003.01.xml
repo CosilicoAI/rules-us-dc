@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1003.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1003.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1003_01">
+        <akn:num>44-1003.01</akn:num>
+        <akn:heading>Grounds for involuntary discharge, transfer, or relocation by facility.</akn:heading>
+<akn:subsection eId="subsec_44-1003_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless a resident and his or her representative consent otherwise, a facility may discharge the resident, transfer the resident to another facility, or relocate the resident from one part or room of the facility to another only:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No facility that is a District Medicaid provider may discharge, transfer, or relocate a resident on account of his or her conversion from private-pay or Medicare to Medicaid status, or on account of a temporary hospitalization if payment or reimbursement for his or her bed continues to be made available.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

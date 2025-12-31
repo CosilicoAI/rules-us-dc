@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-704.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-704.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_704_01">
+        <akn:num>50-704.01</akn:num>
+        <akn:heading>Report by Mayor.</akn:heading>
+<akn:subsection eId="subsec_50-704_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The total number of alternative-fuel vehicles purchased by the District in the previous fiscal year, by agency;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-704_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The total number of alternative-fuel vehicles owned by the District, by agency;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-704_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The total number of vehicles owned by the District, by agency;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-704_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The percentage of alternative-fuel vehicles, by agency;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-704_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A plan to purchase additional alternative-fuel vehicles in the upcoming fiscal year and subsequent fiscal years; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-704_01_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A plan to comply with the purchase requirements mandated by this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-204.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-204.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_204_02">
+        <akn:num>9-204.02</akn:num>
+        <akn:heading>System of designations.</akn:heading>
+<akn:subsection eId="subsec_9-204_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The broad diagonal highways shall be designated as avenues, and shall be named after states and territories of the United States.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Streets running north and south shall be designated with numbers consecutively in each direction from the meridian of the United States Capitol. Any street not in exact alignment with those streets to its north and south shall be given the same designation as the street which is most nearly in line with its alignment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Streets running east and west shall be designated with the letters of the alphabet until these letters are exhausted. Beyond this they shall have names of 1 syllable, then names of 2 and 3 syllables, all arranged in alphabetical order. Any street not in exact alignment with those streets to its east and west shall be given the same designation as the street most nearly in line with its alignment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Streets which do not form an essential part of the rectangular system of streets shall be designated as roads, drives, or places and shall be named after a prominent local feature in their vicinity, or by such other distinguishing designation as the Council may determine to be appropriate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Circles shall be named after distinguished persons who have been prominent in the service of this country.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

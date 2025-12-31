@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4601.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4601.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4601_10">
+        <akn:num>16-4601.10</akn:num>
+        <akn:heading>Taking testimony in another state.</akn:heading>
+<akn:subsection eId="subsec_16-4601_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In addition to other procedures available to a party, a party to a child-custody proceeding may offer testimony of witnesses who are located in another state, including testimony of the parties and the child, by deposition or other means allowable in the District for testimony taken in another state. The court on its own motion may order that the testimony of a person be taken in another state and may prescribe the manner in which and the terms upon which the testimony is taken.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4601_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A court of the District may permit an individual residing in another state to be deposed or to testify by telephone, audiovisual means, or other electronic means before a designated court or at another location in that state. A court of the District shall cooperate with courts of other states in designating an appropriate location for the deposition or testimony.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4601_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Documentary evidence transmitted from another state to a court of the District by technological means that do not produce an original writing may not be excluded from evidence on an objection based on the means of transmission.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

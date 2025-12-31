@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3501.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3501.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3501_02">
+        <akn:num>42-3501.02</akn:num>
+        <akn:heading>Purposes.</akn:heading>
+<akn:subsection eId="subsec_42-3501_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>To protect low- and moderate-income tenants from the erosion of their income from increased housing costs;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3501_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>To provide incentives for the construction of new rental units and the rehabilitation of vacant rental units in the District;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3501_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>To continue to improve the administrative machinery for the resolution of disputes and controversies between housing providers and tenants;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3501_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>To protect the existing supply of rental housing from conversion to other uses; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3501_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>To prevent the erosion of moderately priced rental housing while providing housing providers and developers with a reasonable rate of return on their investments.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

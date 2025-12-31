@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-762"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-762/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_762">
+        <akn:num>5-762</akn:num>
+        <akn:heading>Retired police officer deployment as public school security personnel.</akn:heading>
+<akn:subsection eId="subsec_5-762_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-762_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All costs associated with the hiring of retired police officers as school security guards shall be absorbed within the D.C. Public Schools budget.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-762_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A retired police officer who is rehired pursuant to this section and is vested with the powers of a Special Police Officer would be subject to the requirements of 6A DCMR, Chapter 11, which governs Special Police.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

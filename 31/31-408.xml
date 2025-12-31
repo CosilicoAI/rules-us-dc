@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-408"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-408/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_408">
+        <akn:num>31-408</akn:num>
+        <akn:heading>Penalties.</akn:heading>
+<akn:subsection eId="subsec_31-408_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-408_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an order for liquidation or rehabilitation of the controlled insurer has been entered pursuant to Chapter 13 of this title, and the receiver appointed under that order believes that the controlling producer, or any other person, has not materially complied with this chapter, or any regulation or order promulgated hereunder, and the insurer suffered any loss or damage therefrom, the receiver may maintain a civil action for recovery of damages or other appropriate sanctions for the benefit of the insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-408_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing contained in this section shall affect the right of the Mayor to impose any other penalties provided under the insurance laws of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-408_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing contained in this section shall in any manner alter or affect the rights of policyholders, claimants, creditors, or other third parties.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

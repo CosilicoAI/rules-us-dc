@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.22"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.22/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_304_22">
+        <akn:num>29-304.22</akn:num>
+        <akn:heading>Liability of shareholders.</akn:heading>
+<akn:subsection eId="subsec_29-304_22_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A purchaser from a corporation of its own shares shall not be liable to the corporation or its creditors with respect to the shares except to pay the consideration for which the shares were authorized to be issued or specified in the subscription agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_22_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Unless otherwise provided in the articles of incorporation, a shareholder shall not be personally liable for the acts or debts of the corporation, except that the shareholder may become personally liable by reason of the shareholder’s own acts or conduct.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

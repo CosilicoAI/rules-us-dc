@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1403"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1403/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1403">
+        <akn:num>10-1403</akn:num>
+        <akn:heading>Provisions relating to lands transferred and easements granted.</akn:heading>
+<akn:subsection eId="subsec_10-1403_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Playground. — Operation of the recreation park may only commence simultaneously with or subsequent to improvement and opening of a children’s playground at National Children’s Island that is available to the public free of charge. The playground shall only include those improvements traditionally or ordinarily included in a publicly maintained children’s playground. Operation of the recreation park is at all times dependent on the continued maintenance of the children’s playground.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1403_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Public parking. — Public parking on the Islands is prohibited, except for handicapped parking, emergency and government vehicles, and parking related to constructing, and servicing National Children’s Island.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1403_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Required approvals. — Before construction commences, the final design plans for the recreation park and playground, and all related structures, including bridges and roads, are subject to the review and approval of the National Capital Planning Commission and of the District of Columbia in accordance with subchapter II of this chapter. The District of Columbia shall carry out its review of this project in full compliance with all applicable provisions of the National Environmental Policy Act of 1969.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

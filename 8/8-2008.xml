@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2008"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2008/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_2008">
+        <akn:num>8-2008</akn:num>
+        <akn:heading>Stables.</akn:heading>
+<akn:subsection eId="subsec_8-2008_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The owner, operator, or custodian of a horse engaged in the horse-drawn carriage trade shall house, quarter, or maintain a horse in a lighted, clean, dry, and properly ventilated stable in which the horse shall be able to turn around easily in a stall.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2008_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The owner, operator, or custodian of a horse engaged in the horse-drawn carriage trade shall clean the stall in which a horse is housed, quartered, or maintained daily and shall provide sufficient bedding of straw, shavings, or other suitable hygienic material that shall be changed as often as necessary to maintain it in a clean and dry condition.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2008_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The owner, operator, or custodian of a horse engaged in the horse-drawn carriage trade shall provide the stall in which the horse is housed, quartered, or maintained with clean, fresh water and with an adequate and substantial daily supply of hay and grain that is free from contamination and mold to meet the normal daily feeding requirements for the condition, size, and work schedule of the horse.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2008_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The owner, operator, or custodian of a horse engaged in the horse-drawn carriage trade shall provide each stall with a clean block of salt at all times and with blankets for the horse during cold weather periods as necessary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2008_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The full name, current business address, and business and home telephone numbers of the owner, operator, or custodian of a horse engaged in the horse-drawn carriage trade, and the owner or operator of the stable, shall be legibly stenciled and conspicuously displayed, in at least 2-inch lettering, on the exterior of the stable entrance for emergency purposes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

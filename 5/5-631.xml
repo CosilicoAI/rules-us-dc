@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-631"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-631/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_631">
+        <akn:num>5-631</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_5-631_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Act” means subchapter I of Chapter 7 of Title 5 [§ 5-701 et seq.].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-631_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Chief” means either the Chief of the Metropolitan Police Department or the Chief of the Fire and Emergency Medical Services Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-631_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Department” means the Metropolitan Police Department or the Fire and Emergency Medical Services Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-631_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Director” means either the director of medical services for the Metropolitan Police Department, or the medical services officer for the Fire and Emergency Medical Services Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-631_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Full range of duties” means the ability of a member to perform all of the essential functions of police work or fire suppression as determined by the established policies and procedures of the Metropolitan Police Department or the Fire and Emergency Medical Services Department, and to meet the physical examination and physical agility standards established under §§ 5-107.02a and 5-451.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-631_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Limited duty” means a temporary status for members who, because of injury or other temporary medical disability, are not able to perform the full range of duties, but are certified by a Police and Fire Clinic physician as being capable of effectively performing certain types of work within the department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-631_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Member” means a sworn employee of the Metropolitan Police Department or the Fire and Emergency Medical Services Department.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

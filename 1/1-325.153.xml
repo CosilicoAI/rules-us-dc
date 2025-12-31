@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.153"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.153/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_153">
+        <akn:num>1-325.153</akn:num>
+        <akn:heading>Expenditures from Fund.</akn:heading>
+<akn:subsection eId="subsec_1-325_153_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Funding for an approved capital project may be provided through redirection in an approved budget and financial plan or through a reprogramming, pursuant to Chapter 3 of Title 47.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_153_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 30 days of a request by the Mayor to reprogram the money in the Fund to an approved capital project, the Chief Financial Officer shall certify that the funds are available and the expenditure to support the project is in compliance with this part.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

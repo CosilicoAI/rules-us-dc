@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-604.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-604.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_604_09">
+        <akn:num>29-604.09</akn:num>
+        <akn:heading>Continuation of partnership beyond definite term or particular undertaking.</akn:heading>
+<akn:subsection eId="subsec_29-604_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a partnership for a definite term or particular undertaking is continued, without an express agreement, after the expiration of the term or completion of the undertaking, the rights and duties of the partners shall remain the same as they were at the expiration or completion, so far as is consistent with a partnership at will.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-604_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the partners, or those of them who habitually acted in the business during the term or undertaking, continue the business without any settlement or liquidation of the partnership, they shall be presumed to have agreed that the partnership will continue.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

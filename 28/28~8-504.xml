@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-504"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-504/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_504">
+        <akn:num>28:8-504</akn:num>
+        <akn:heading>Duty of securities intermediary to maintain financial asset.</akn:heading>
+<akn:subsection eId="subsec_28:8-504_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A securities intermediary shall promptly obtain and thereafter maintain a financial asset in a quantity corresponding to the aggregate of all security entitlements it has established in favor of its entitlement holders with respect to that financial asset. The securities intermediary may maintain those financial assets directly or through one or more other securities intermediaries.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-504_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except to the extent otherwise agreed by its entitlement holder, a securities intermediary may not grant any security interests in a financial asset it is obligated to maintain pursuant to subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-504_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A securities intermediary satisfies the duty in subsection (a) of this section if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-504_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This section does not apply to a clearing corporation that is itself the obligor of an option or similar obligation to which its entitlement holders have security entitlements.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

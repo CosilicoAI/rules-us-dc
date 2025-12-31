@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-391.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-391.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_391_07">
+        <akn:num>47-391.07</akn:num>
+        <akn:heading>Suspension of activities.</akn:heading>
+<akn:subsection eId="subsec_47-391_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Suspension upon payment of Authority obligations. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-391_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Reactivation upon initiation of control period. — Upon receiving notice from the Chairs of the Appropriations Committees of the House of Representatives and the Senate that a control period has been initiated (as described in § 47-392.09) at any time after the Authority suspends its activities under subsection (a) of this section, the President shall appoint members of the Authority, and the Authority shall carry out activities under this Act, in the same manner as the President appointed members and the Authority carried out activities prior to such suspension.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

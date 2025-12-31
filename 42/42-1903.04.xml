@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1903_04">
+        <akn:num>42-1903.04</akn:num>
+        <akn:heading>Meetings — Executive board; quorums.</akn:heading>
+<akn:subsection eId="subsec_42-1903_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless the condominium instruments otherwise provide, a quorum shall be deemed to be present throughout any meeting of the unit owners’ association until adjourned if persons entitled to cast more than the thirty-three and one-third percent of the votes are present at the beginning of such meeting. The bylaws may provide for a larger percentage, or for a smaller percentage not less than 25 percent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Unless the condominium instruments specify a larger majority, a quorum shall be deemed to be present throughout any meeting of the executive board if persons entitled to cast one half of the votes in that body are present at the beginning of such meeting.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

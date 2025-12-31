@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1208.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1208.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1208_03">
+        <akn:num>3-1208.03</akn:num>
+        <akn:heading>Licensed independent social worker.</akn:heading>
+<akn:subsection eId="subsec_3-1208_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board of Social Work shall license as an independent social worker a person who, in addition to meeting the requirements of subchapter V of this chapter, has a master’s degree or a doctorate from a social work program accredited by the Council on Social Work Education, has satisfactorily completed the examination process at the independent level, and has at least 3,000 hours post-master’s or postdoctoral experience under the supervision of a licensed independent social worker over a period of not less than 2 or more than 4 years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1208_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A licensed independent social worker (“L.I.S.W.”) may perform any function described as the practice of social work in this chapter, other than the diagnosis or treatment (including psychotherapy) of psychosocial problems, in an autonomous, self-regulated fashion, in an agency setting or independently, and may direct other persons in the performance of these functions.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

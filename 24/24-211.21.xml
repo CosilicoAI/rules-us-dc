@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-211.21"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-211.21/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_211_21">
+        <akn:num>24-211.21</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_24-211_21_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Applicant” means all persons who have filed any written employment application forms to work at the Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_21_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Council” means the Council of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_21_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Department” means the District of Columbia Department of Corrections.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_21_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Director” means the Director of the District of Columbia Department of Corrections.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_21_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“High potential risk employee” (“HPR employee”) means any Department employee who has inmate care and custody responsibilities or who works within a correctional institution, including any employees and managers who are carried in a law enforcement retirement status.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_21_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Law enforcement retirement status” means any employee who contributes to the 7.5% retirement status category.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_21_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Post-accident employee” means any Department employee who, while on duty, is involved in a vehicular or other type of accident resulting in personal injury or property damage, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_21_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Random testing” means drug or alcohol testing taken by Department employees at an unspecified time for the purposes of determining whether any Department employees have used drugs or alcohol and, as a result, are unable to satisfactorily perform their employment duties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_21_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Reasonable suspicion” means a belief by a supervisor that an employee is under the influence of an illegal substance or alcohol to the extent that the employee’s ability to perform his or her job is impaired. Supervisors shall be trained in substance abuse recognition and shall receive a second opinion from another supervisor prior to making a reasonable suspicion referral.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-336"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-336/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_336">
+        <akn:num>47-336</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_47-336_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Capital lease financings” means a lease in which the District is the lessee and which meets 1 or more of the following criteria:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-336_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Committee” means the Capital Review and Debt Affordability Committee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-336_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Multiyear capital improvements plan” means the multiyear capital improvements plan required by § 1-204.44.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-336_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Special real property tax levy” means that portion of the real property tax levy required by District of Columbia general obligation bonds acts to be deposited in the debt service fund so that, when added to the funds already on deposit in the fund, the fund will be sufficient to pay the principal and interest on all outstanding general obligation bonds and additional general obligation bonds coming due in any year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

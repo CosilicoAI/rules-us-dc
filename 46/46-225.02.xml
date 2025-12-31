@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-225.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-225.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_225_02">
+        <akn:num>46-225.02</akn:num>
+        <akn:heading>Criminal contempt remedy for failure to pay child support.</akn:heading>
+<akn:subsection eId="subsec_46-225_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor or a party who has a legal claim to child support may initiate a criminal contempt action for failure to pay the support by filing a motion in the civil action in which the support order was established.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-225_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-225_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Court shall order the obligor to pay the petitioner’s attorney’s fees as well as court costs, unless good cause can be demonstrated on the record against this result.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-225_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For purposes of this section, failure to pay child support, as ordered, shall constitute prima facie evidence of a willful violation. This presumption may be rebutted if the obligor was incarcerated, hospitalized, or had a disability during the period of nonsupport. These circumstances do not constitute an exhaustive list of circumstances that may be used to rebut the presumption of willfulness.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-225_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Court shall not deny a request for relief pursuant to this section unless the facts and circumstances constituting the reasons for its determination are set forth in a written memorandum of decision.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

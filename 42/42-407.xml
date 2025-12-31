@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-407"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-407/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_407">
+        <akn:num>42-407</akn:num>
+        <akn:heading>Instrument not properly executed or acknowledged not recordable.</akn:heading>
+<akn:subsection eId="subsec_42-407_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Accept for recordation any instrument unless the instrument is executed and acknowledged according to law by the person granting or contracting his or her right, title, or interest in the real property;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-407_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Accept for recordation any deed, as defined in § 42-1101(3), concerning real property in connection with which taxes, assessments, or charges are owing under chapter 11 of this title, under chapters 9 and 14 of Title 47, or to a taxing agency as defined in § 47-1330(8); provided, that this paragraph shall not:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-407_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Require liens filed by a taxing agency as defined in § 47-1330(8), or liens filed under § 47-4421, to be acknowledged; provided, that when a lien is delivered to the Recorder of Deeds via an electronic medium or first accessible via the Internet, the lien shall be deemed filed and recorded, notwithstanding any other law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

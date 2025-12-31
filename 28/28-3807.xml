@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3807"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3807/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3807">
+        <akn:num>28-3807</akn:num>
+        <akn:heading>Negotiable instruments prohibited.</akn:heading>
+<akn:subsection eId="subsec_28-3807_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In a consumer credit sale, no seller shall take or otherwise arrange for the consumer to sign an instrument, except a check, payable “to order” or “to bearer” as evidence of the credit obligation of the consumer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3807_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any holder of an instrument prohibited by subsection (a) of this section 28-3807, if he takes it with knowledge of a violation of this section, takes it subject to all claims and defenses of the consumer up to the amount owing on the transaction total at the time of the assignment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

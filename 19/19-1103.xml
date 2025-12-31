@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1103">
+        <akn:num>19-1103</akn:num>
+        <akn:heading>Custodial trustee for future payment or transfer.</akn:heading>
+<akn:subsection eId="subsec_19-1103_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person having the right to designate the recipient of property payable or transferable upon a future event may create a custodial trust upon the occurrence of the future event by designating in writing the recipient, followed in substance by: “as custodial trustee for  (name of beneficiary) under the District of Columbia’s Uniform Custodial Trust Act.”</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1103_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Persons may be designated as substitute or successor custodial trustees to whom the property must be paid or transferred in the order named if the first designated custodial trustee is unable or unwilling to serve.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1103_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A designation under this section may be made in a will, a trust, a deed, a multiple-party account, an insurance policy, an instrument exercising a power of appointment, or a writing designating a beneficiary of contractual rights. If the designation is not made in one of the foregoing ways, the designation must be registered with or delivered to the fiduciary, payor, issuer, or obligor of the future right in order to be effective.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3714"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3714/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_3714">
+        <akn:num>47-3714</akn:num>
+        <akn:heading>Apportionment required.</akn:heading>
+<akn:subsection eId="subsec_47-3714_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as may be otherwise provided in the decedent’s will, whenever it appears upon any settlement of accounts or in any other appropriate action or proceeding that a person acting in a fiduciary capacity has paid an estate tax levied or assessed under the provisions of the estate tax law of the District or the United States upon or with respect to any property required to be included in the gross estate of a decedent under the provisions of either law, the amount of the tax so paid shall be prorated among the persons interested in the estate to whom the property is or may be transferred or to whom any benefit accrues. Apportionment shall be made in the proportion that the value of the property, interest, or benefit of each person bears to the total value of the property, interests, and benefits received by all persons interested in the estate, except that in making proration each person shall have the benefit of any exemptions, deductions, and exclusions allowed by law in respect of the persons or the property passing to him or her.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3714_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsection (a) of this section, in cases in which a trust is created or other provisions made in which any person is given an interest in income, an estate for years, an estate for life, or other temporary interest or estate in any property or fund, the tax on the temporary interest or estate shall be charged against and paid out of the corpus of that property or fund without apportionment between temporary interests or estates and remainders.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

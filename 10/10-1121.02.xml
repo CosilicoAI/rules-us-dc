@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1121.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1121.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1121_02">
+        <akn:num>10-1121.02</akn:num>
+        <akn:heading>Mayor’s authority with respect to use of airspace.</akn:heading>
+<akn:subsection eId="subsec_10-1121_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Enter into leases for the use of airspace in the District to an extent not inconsistent with the use, operation, and maintenance of, any street or alley;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1121_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Use airspace for such public purposes as are authorized by law;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1121_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Enter into agreements with the federal government for the purpose of receiving grants or other financial assistance under the federal programs in connection with the construction, use or operation of any structure in airspace; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1121_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Enter into agreements with the federal government to enable the federal government to construct federal buildings in the space above and below any street or alley, title to which is in the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

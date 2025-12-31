@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-607.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-607.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_607_03">
+        <akn:num>29-607.03</akn:num>
+        <akn:heading>Dissociated partner’s liability to other persons.</akn:heading>
+<akn:subsection eId="subsec_29-607_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A partner’s dissociation shall not of itself discharge the partner’s liability for a partnership debt, obligation, or other liability incurred before dissociation. A dissociated partner shall not be liable for a partnership debt, obligation, or other liability incurred after dissociation, except as otherwise provided in subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-607_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A partner that dissociates without resulting in a dissolution and winding up of the partnership business shall be liable as a partner to the other party in a transaction entered into by the partnership, or a surviving partnership under subchapter IX of this chapter, within 2 years after the partner’s dissociation, only if the partner is liable for the obligation under § 29-603.06 and at the time of entering into the transaction the other party:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-607_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>By agreement with the partnership creditor and the partners continuing the business, a dissociated partner may be released from liability for a partnership debt, obligation, or other liability.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-607_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A dissociated partner shall be released from liability for a partnership debt, obligation, or other liability if a partnership creditor, with notice of the partner’s dissociation but without the partner’s consent, agrees to a material alteration in the nature or time of payment of a partnership debt, obligation, or other liability.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

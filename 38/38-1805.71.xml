@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1805.71"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1805.71/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1805_71">
+        <akn:num>38-1805.71</akn:num>
+        <akn:heading>Gifts, donations, bequests, and devises.</akn:heading>
+<akn:subsection eId="subsec_38-1805_71_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. — A District of Columbia public school or a public charter school may accept directly from any person a gift, donation, bequest, or devise of any property, real or personal, without regard to any law or regulation of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1805_71_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Tax laws. — For the purposes of the income tax, gift tax, and estate tax laws of the Federal Government, any money or other property given, donated, bequeathed, or devised to a District of Columbia public school or a public charter school, shall be deemed to have been given, donated, bequeathed, or devised to or for the use of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

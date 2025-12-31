@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2209"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2209/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2209">
+        <akn:num>7-2209</akn:num>
+        <akn:heading>Interstate civil defense compacts.</akn:heading>
+<akn:subsection eId="subsec_7-2209_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor of the District of Columbia is authorized to enter into and execute on behalf of the District of Columbia interstate civil defense compacts with the states, substantially in the form set forth in this subsection. The form of compact set forth in this subsection may include, in lieu of the 2nd sentence of Article 3 thereof, the following: “Each party state shall extend to the civil defense forces of any other party state, while operating within its state limits under the terms and conditions of this compact, the same powers (except that of arrest unless specifically authorized by the receiving state), duties, rights, privileges, and immunities as are extended to the civil defense forces of such state.”</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2209_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of the Federal Civil Defense Act of 1950 (50 U.S.C. App., § 2251 et seq. [repealed]), the consent of Congress is hereby granted to each compact entered into by the District of Columbia with any state pursuant to the provisions of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2209_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Whenever any such compact becomes operative by ratification of the parties thereto, such compact shall have the force and effect of law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2209_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>As used in this section the word “state” includes the territories and possessions of the United States and the District of Columbia and with respect to the District of Columbia the word “Governor” means the Mayor of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

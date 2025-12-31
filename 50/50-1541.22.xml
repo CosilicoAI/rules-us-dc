@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.22"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.22/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1541_22">
+        <akn:num>50-1541.22</akn:num>
+        <akn:heading>Rights of purchaser other than secured party.</akn:heading>
+<akn:subsection eId="subsec_50-1541_22_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A buyer in ordinary course of business has the protections afforded by §§ 28:2-403(2) and 28:9-320(a) even if an existing certificate of title was not signed and delivered to the buyer or a new certificate of title listing the buyer as owner of record was not created.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_22_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in §§ 50-1541.16 and 50-1541.23, the rights of a purchaser of a vessel that is not a buyer in ordinary course of business or a lien creditor are governed by Subtitle I of Title 28.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

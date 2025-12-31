@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-244"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-244/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_244">
+        <akn:num>32-244</akn:num>
+        <akn:heading>Development of plans for the delivery of workforce development services.</akn:heading>
+<akn:subsection eId="subsec_32-244_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall develop a plan for the delivery of workforce development services for the summer youth jobs program required by § 32-241(a)(1).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-244_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall develop a plan for the delivery of workforce development services for the out-of-school year-round employment program required by § 32-241(a)(3).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-244_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The plans required by this section shall include the following components:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-244_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In the development of the plans required by this section, the Mayor shall consult with youth workforce development stakeholders, experts, and providers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-244_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Within 120 days of September 24, 2010, the Mayor shall submit the plans required by this section to the Council for its approval. Upon approval by the Council, the Mayor shall implement the plans.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

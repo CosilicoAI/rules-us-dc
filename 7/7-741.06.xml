@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-741.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-741.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_741_06">
+        <akn:num>7-741.06</akn:num>
+        <akn:heading>Employee rights and protections.</akn:heading>
+<akn:subsection eId="subsec_7-741_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Places of employment and enclosed public places that permit smoking pursuant to this chapter shall not require employees to work in smoking areas provided that an employee requests to work solely in non-smoking areas.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-741_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An owner, manager, or other person responsible for a place of employment or public place that permits smoking under this subchapter shall not:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-741_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An employee who is aggrieved by a violation of this section shall be entitled to recover damages, including lost or back wages or salary. The court, in its discretion, may allow the prevailing party a reasonable attorney’s fee as part of the costs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

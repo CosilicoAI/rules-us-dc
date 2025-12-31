@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1210.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1210.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1210_05">
+        <akn:num>2-1210.05</akn:num>
+        <akn:heading>Provisions relating to capital access loans.</akn:heading>
+<akn:subsection eId="subsec_2-1210_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided by this subchapter, the Mayor shall not determine the recipient, amount, or interest rate of a capital access loan or the fees or other requirements related to the loan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1210_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A loan shall not be eligible to be enrolled under this subchapter if the loan is for:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1210_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The borrower under an enrolled loan shall apply the loan to working capital or to the purchase, construction, or lease of capital assets, including buildings and equipment, used by the borrower. Working capital uses shall include the cost of exporting, accounts receivable, payroll, inventory, and other financing needs of the business or organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1210_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An enrolled loan may be sold on the secondary market with no recourse to the District of Columbia. Recourse to the reserve account correspondent to the loan may be permitted for loans sold on the secondary market under conditions as may be established, by rule, by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1210_05_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>When enrolling a capital access loan in the program, a financial institution may specify an amount to be covered under the program that is less than the total amount of the loan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

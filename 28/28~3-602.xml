@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-602"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-602/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_602">
+        <akn:num>28:3-602</akn:num>
+        <akn:heading>Payment.</akn:heading>
+<akn:subsection eId="subsec_28:3-602_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to subsection (e) of this section, an instrument is paid to the extent payment is made by or on behalf of a party obliged to pay the instrument to a person entitled to enforce the instrument.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-602_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to subsection (e) of this section, a note is paid to the extent payment is made by or on behalf of a party obliged to pay the note to a person that formerly was entitled to enforce the note only if at the time of the payment the party obliged to pay has not received adequate notification that the note has been transferred and that payment is to be made to the transferee. A notification is adequate only if it is signed by the transferor or the transferee, reasonably identifies the transferred note, and provides an address at which subsequent payments are to be made. Upon request, a transferee shall seasonably furnish reasonable proof that the note has been transferred. Unless the transferee complies with the request, a payment to the person that formerly was entitled to enforce the note is effective for purposes of subsection (c) of this section even if the party obliged to pay the note has received a notification under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-602_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to subsection (e) of this section, to the extent of a payment under subsections (a) or (b) of this section, the obligation of the party obliged to pay the instrument is discharged even though payment is made with knowledge of a claim to the instrument under § 28:3-306 by another person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-602_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Subject to subsection (e) of this section, a transferee, or any party that has acquired rights in the instrument directly or indirectly from a transferee, including any such party that has rights as a holder in due course, is deemed to have notice of any payment that is made under subsection (b) of this section after the date that the note is transferred to the transferee but before the party obliged to pay the note receives adequate notification of the transfer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-602_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The obligation of a party to pay the instrument is not discharged under subsections (a) through (d) of this section if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-602_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>As used in this section, “signed”, with respect to a record that is not a writing, includes the attachment to or logical association with the record of an electronic symbol, sound, or process with the present intent to adopt or accept the record.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

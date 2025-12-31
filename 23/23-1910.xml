@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-1910"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-1910/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_1910">
+        <akn:num>23-1910</akn:num>
+        <akn:heading>Access to information.</akn:heading>
+<akn:subsection eId="subsec_23-1910_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Inform the sexual assault victim of the toxicology results and findings of his or her sexual assault forensic kit examination; provided, that the MPD is not required to disclose to the sexual assault victim the identity of any suspect implicated by DNA or similar testing for cases with an open investigation or active prosecution; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1910_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Make reasonable attempts to notify a sexual assault victim of the MPD’s intent to communicate with the suspect before communicating with the suspect and alerting the suspect of the sexual assault allegation made against the suspect; provided, that if prior notification is not possible, notification shall be made as soon as is reasonably possible after the communication with the suspect has occurred.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-622.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-622.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_622_10">
+        <akn:num>1-622.10</akn:num>
+        <akn:heading>Employee deductions; withholdings; payments.</akn:heading>
+<akn:subsection eId="subsec_1-622_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>During each pay period in which the employee or annuitant is insured under a policy of insurance purchased by the District under § 1-622.05, an amount determined by the Mayor shall be withheld from the compensation of the employee or the annuity of the annuitant as his or her share of the cost of the group life insurance benefits purchased under § 1-622.05. The amount withheld from an employee or annuitant paid on other than a biweekly basis shall be determined at a proportional rate adjusted to the nearest cent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-622_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>During each pay period in which an employee receiving disability compensation benefits pursuant to subchapter XXIII of this chapter is insured under a policy of group life insurance purchased by the District under § 1-622.05, an amount determined by the Mayor shall be withheld from the disability compensation benefits of the individual as his or her share of the cost of the group insurance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-622_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>There shall be paid by each annuitant who received his or her benefits as a lump sum payment an amount equal to the cost of the life insurance plan less the amount of the District contribution to the life insurance plan for the annuitant.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

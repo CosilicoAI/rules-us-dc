@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.89b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.89b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_301_89b">
+        <akn:num>1-301.89b</akn:num>
+        <akn:heading>Report on constitutional challenge or District of Columbia Home Rule Act validity challenge.</akn:heading>
+<akn:subsection eId="subsec_1-301_89b_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Attorney General shall submit a report to the Council of the District of Columbia of any action, suit, or proceeding brought in a court of law in which the Council of the District of Columbia is not a party, and the constitutionality or the validity under Chapter 2 of Title 1 [§ 1-201.01 et seq.], of any District statute, rule, regulation, program, policy, or enactment of any type is questioned, and the Attorney General has been notified pursuant to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_89b_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Attorney General shall submit a report to the Council of the District of Columbia of the establishment or implementation of any formal or informal policy by the Attorney General, or any officer of the Office of the Attorney General, to refrain from:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_89b_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

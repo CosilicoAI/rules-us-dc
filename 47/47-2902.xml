@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2902"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2902/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2902">
+        <akn:num>47-2902</akn:num>
+        <akn:heading>Discrimination because of race or color prohibited in licensed hotels and restaurants; penalty.</akn:heading>
+<akn:subsection eId="subsec_47-2902_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It shall not be lawful for the keeper, proprietor, or proprietors of any licensed hotel, tavern, restaurant, ordinary, sample room, tippling house, saloon, or eating house, to refuse to receive, admit, entertain, and supply any quiet and orderly person or persons, or to exclude any person or persons on account of race or color.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2902_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the keeper, proprietor, or proprietors of any licensed hotel, tavern, restaurant, ordinary, sample room, tippling house, saloon, or eating house, or any agent acting for him or them, shall violate or offend against the provisions of §§ 47-2902 to 47-2904, he or they shall be subject to a fine of not less than $50 for each violation thereof, to be recovered in an action of debt, in the name of the Mayor and Council of the District of Columbia, on information filed before any District of Columbia court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

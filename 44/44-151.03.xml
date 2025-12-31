@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-151.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-151.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_151_03">
+        <akn:num>44-151.03</akn:num>
+        <akn:heading>Revocation of license.</akn:heading>
+<akn:subsection eId="subsec_44-151_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The license of a provider shall remain in effect until revoked after notice and hearing, upon written findings of fact, that the provider has:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commissioner may suspend the license of a provider, after notice and hearing, for any of the violations in subsection (a) of this section and set forth the conditions necessary to correct the violations, including whether a provider can enter into new continuing care service contracts while suspended.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commissioner may, in lieu of suspension or revocation of the license of a provider issued pursuant to this chapter, after notice and hearing, order a provider to take corrective action or levy an administrative penalty in an amount not more than $50,000 per violation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon review of an order of the Commissioner revoking a license, a court may determine whether a factual finding by the Commissioner is clearly erroneous.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If there is good cause to believe that the provider is guilty of a violation for which revocation could be ordered, the Commissioner may first issue a cease and desist order. The cease and desist order shall be subject to notice and hearing within 10 days of the order. If the cease and desist order is not or cannot be effective in remedying the violation, the Commissioner may, after notice and hearing, issue an order that the license be revoked and surrendered. The provider may accept new applicant funds while the revocation order is under appeal provided the funds are escrowed pending results of the appeal.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

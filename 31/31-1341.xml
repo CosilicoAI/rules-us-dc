@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1341"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1341/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1341">
+        <akn:num>31-1341</akn:num>
+        <akn:heading>Liquidator’s recommendations to the court.</akn:heading>
+<akn:subsection eId="subsec_31-1341_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The liquidator shall review all claims duly filed in the liquidation and shall make any further investigation he or she deems necessary. He or she may compound, compromise, or in any other manner negotiate the amount for which claims will be recommended to the court, except where the liquidator is required by law to accept claims as settled by any person or organization, including any guaranty association or foreign guaranty association. Unresolved disputes shall be determined under § 31-1337. As soon as practicable, the liquidator shall present to the court a report of the claims against the insurer with his or her recommendations. The report shall include the name and address of each claimant and the amount of the claim finally recommended, if any. If the insurer has issued annuities or life insurance policies, the liquidator shall report the persons to whom, according to the records of the insurer, amounts are owed as cash surrender values or other investment value and the amounts owed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1341_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The court may approve, disapprove, or modify the report on claims by the liquidator. The reports not modified by the court within a period of 60 days following submission by the liquidator shall be treated by the liquidator as allowed claims, subject to later modification or to rulings made by the court pursuant to § 31-1337. No claim under a policy of insurance shall be allowed for an amount in excess of the applicable policy limits.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

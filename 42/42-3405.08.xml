@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3405.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3405.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3405_08">
+        <akn:num>42-3405.08</akn:num>
+        <akn:heading>Administrative proceedings.</akn:heading>
+<akn:subsection eId="subsec_42-3405_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any proceeding provided in § 42-3405.04, § 42-3405.06, or § 42-3405.07 shall be conducted according to §§ 2-509 and 2-510 and any officer designated to conduct such a proceeding shall not immediately supervise or be subject to supervision by any employee who participates or has participated in the investigation or prosecution of such case.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3405_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>After any hearing pursuant to this section, and within 10 days after the parties have been notified of the initial decision of the officer who conducted the hearing, if no appeal is taken or no determination is made to review the decision, the Mayor shall adopt and render the initial decision as the final decision and shall issue and cause to be served upon each party to the proceeding an order or orders consistent with the provisions of § 42-3405.04, § 42-3405.06, or § 42-3405.07, as appropriate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3405_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In the course of, or in connection with any such proceeding, the Mayor or any officer designated by rule may administer oaths or affirmations, take or cause depositions to be taken, subpoena witnesses and compel their attendance, take evidence, and require the production of any matter which is relevant to the proceeding, including the existence, description, nature, custody, condition, and location of any books, documents, or other tangible things and the identity and location of persons having knowledge of relevant facts or any other matter reasonably calculated to lead to the discovery of material evidence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3405_08_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon failure to obey a subpoena or to answer questions propounded by the presiding officer and upon reasonable notice to all persons affected thereby, the Mayor may apply to the Superior Court of the District of Columbia for an order compelling compliance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3405_08_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any service required or authorized to be made under this section may be made by registered mail or in such other manner reasonably calculated to give actual notice as the Mayor may by regulation or otherwise require.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

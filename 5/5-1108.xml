@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1108"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1108/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_1108">
+        <akn:num>5-1108</akn:num>
+        <akn:heading>Dismissal of complaint.</akn:heading>
+<akn:subsection eId="subsec_5-1108_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The complaint is deemed to lack merit;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1108_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The complainant refuses to cooperate with the investigation; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1108_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>If, after the Executive Director refers a complaint for mediation, the complainant willfully fails to participate in good faith in the mediation process.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

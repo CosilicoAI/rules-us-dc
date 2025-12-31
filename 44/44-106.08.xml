@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-106.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-106.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_106_08">
+        <akn:num>44-106.08</akn:num>
+        <akn:heading>Discharge and transfer.</akn:heading>
+<akn:subsection eId="subsec_44-106_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a resident wishes to be discharged from an ALR, the resident or surrogate shall give 30 days written notice to the ALR.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When a sudden, unexpected, and life-threatening medical emergency arises necessitating the immediate transfer of the resident to an acute care facility, the ALR shall immediately notify the surrogate and the resident’s healthcare provider of the transfer. The ALR shall provide the surrogate and healthcare provider with information concerning cause of the transfer and the name and location of the acute care facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After a resident is transferred pursuant to subsection (b) of this section, his or her return to the ALR shall be determined by the renegotiation of the ISP with the resident or surrogate, the resident’s healthcare provider, and the ALR. If, in renegotiating the ISP, the interested parties determine that the resident can no longer safely reside at the ALR, discharge planning shall take place in consultation with the resident or surrogate, the resident’s healthcare provider, and the ALR. Under these circumstances the ALR shall waive the 30 day notice requirement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_08_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Before a resident may be discharged on an involuntary basis, the ALR shall provide 30 days written notice to the resident and surrogate of the planned discharge, and make arrangements for the discharge in consultation with the resident, the surrogate, and the healthcare provider. Any involuntary discharge shall conform to the notice and process established in subchapter III of Chapter 10 of this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_08_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Although an ALR shall make every effort to avoid discharge, grounds for involuntary discharge may include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-106_08_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>An involuntary discharge shall be canceled upon the occurrence of one of the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

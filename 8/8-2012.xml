@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2012"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2012/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_2012">
+        <akn:num>8-2012</akn:num>
+        <akn:heading>Penalties.</akn:heading>
+<akn:subsection eId="subsec_8-2012_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person who violates any provision of this chapter shall be fined up to $300 for the 1st offense and up to $500 for each subsequent offense.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2012_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any owner, operator, or custodian of a horse engaged in the horse-drawn carriage trade who causes serious intentional injury to the horse by neglect or inhumane treatment shall be fined up to $2,500.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2012_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A violation of this chapter shall be a civil infraction for purposes of Chapter 18 of Title 2. Civil fines, penalties, and fees may be imposed as sanctions for any infraction of the provisions of this chapter, or the rules issued under authority of this chapter, pursuant to Chapter 18 of Title 2. Adjudication of any infraction shall be pursuant to Chapter 18 of Title 2.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

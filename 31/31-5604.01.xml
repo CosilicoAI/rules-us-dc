@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5604.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5604.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5604_01">
+        <akn:num>31-5604.01</akn:num>
+        <akn:heading>Exempt securities.</akn:heading>
+<akn:subsection eId="subsec_31-5604_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>A security, including a revenue obligation, issued or guaranteed by the United States; an international agency or corporate or other instrumentality of which the United States and one or more foreign governments are members; a state; a political subdivision of a state; or any agency or corporate or other instrumentality of one or more of the foregoing; or a certificate of deposit for any of the foregoing;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5604_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A security issued, insured, or guaranteed by Canada; a Canadian province; a political subdivision of an agency or other instrumentality of one or more of the foregoing; or an foreign government with which the United States currently maintains diplomatic relations, if the security is recognized as a valid obligation by the issuer, insurer, or guarantor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5604_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>A security issued by and representing an interest in, or a direct obligation of, or guaranteed by, a depository institution or credit union organized under the laws of the United States or a depository institution or credit union organized and supervised under the laws of any state if the deposit or share accounts of the depository institution or credit union are insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, the National Credit Union Share Insurance Fund, or a successor to one of the foregoing;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5604_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>A security issued by and representing an interest in, or a direct obligation of, or insured or guaranteed by, an insurance company organized under the laws of any state or the District and authorized to do business in the District; provided, that this exemption shall not apply to an annuity contract, investment contract, or similar security under which the promised payments or rate of return are not fixed in dollars but are substantially dependent upon the investment results of a segregated fund or account invested in securities;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5604_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>A security issued or guaranteed by a railroad, other common carrier, public utility, or holding company that is:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5604_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5604_01_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>An option issued by a clearing agency registered under the Securities Exchange Act of 1934, other than an off-exchange futures contract or substantially similar arrangement, if the security, currency, commodity, or other interest underlying the option:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5604_01_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>A security issued by a person organized and operated not for private profit but exclusively for a religious, educational, benevolent, charitable, fraternal, social, athletic, or reformatory purpose or as a chamber of commerce or trade or professional association, and no part of the net earnings of the issuer inures to the benefit of any private shareholder or individual; provided, that at least 10 calendar days before a sale of the security, the person has filed with the Commissioner a notice setting forth the material terms of the proposed sale and copies of any sales and advertising literature to be used and the Commissioner, by order, does not disallow the exemption within the next 5 calendar days;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5604_01_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5604_01_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>A security issued in connection with:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5604_01_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>Equipment trust certificates for equipment leased or conditionally sold to a person if securities issued by the person would be exempt under this section; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5604_01_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>A membership or equity interest in, or a retention certificate or like security given in lieu of a cash patronage dividend issued by, a cooperative organized and operated as a nonprofit membership cooperative under the cooperative laws of the District or any state if not traded to the public.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5604_01_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

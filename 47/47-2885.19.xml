@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2885.19"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2885.19/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2885_19">
+        <akn:num>47-2885.19</akn:num>
+        <akn:heading>Fees.</akn:heading>
+<akn:subsection eId="subsec_47-2885_19_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The initial fees shall be as follows: (1) Repealed; (2) pharmacy license, $85; (3) every person who sells over-the-counter preparations shall pay an annual license fee of $52. The fees referred to in this subsection shall be established in such amounts as will, in the judgment of the Mayor, approximate the costs to the District of Columbia government for administering this part. The Mayor is authorized to change the fees from time to time for any services rendered under this part; provided, that, the Mayor gives 30 days notice prior to changing such fees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2885_19_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor is authorized after 30 days notice to establish and to change, as may be necessary, the expiration dates of licenses and registrations provided for in this part. Upon the change of an expiration date, the renewal fee for the licenses, or registrations, shall be prorated on the basis of the time covered.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

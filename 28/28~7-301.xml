@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:7_301">
+        <akn:num>28:7-301</akn:num>
+        <akn:heading>Liability for nonreceipt or misdescription; “Said to contain”; “Shipper’s weight, load, and count”; improper handling.</akn:heading>
+<akn:subsection eId="subsec_28:7-301_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A consignee of a nonnegotiable bill of lading which has given value in good faith, or a holder to which a negotiable bill has been duly negotiated, relying upon the description of the goods in the bill or upon the date shown in the bill, may recover from the issuer damages caused by the misdating of the bill or the nonreceipt or misdescription of the goods, except to the extent that the bill indicates that the issuer does not know whether any part or all of the goods in fact were received or conform to the description, such as in a case in which the description is in terms of marks or labels or kind, quantity, or condition or the receipt or description is qualified by the phrase “contents or condition of contents of packages unknown”, “said to contain”, “shipper’s weight, load, and count”, or words of similar import, if that indication is true.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-301_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If goods are loaded by the issuer of a bill of lading;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-301_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If bulk goods are loaded by a shipper that makes available to the issuer of a bill of lading adequate facilities for weighing those goods, the issuer shall ascertain the kind and quantity within a reasonable time after receiving the shipper’s request in a record to do so. In that case, “shipper’s weight” or words of similar import are ineffective.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-301_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The issuer of a bill of lading, by including in the bill the words “shipper’s weight, load, and count”, or words of similar import, may indicate that the goods were loaded by the shipper, and, if that statement is true, the issuer is not liable for damages caused by the improper loading. However, omission of such words does not imply liability for damages caused by improper loading.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-301_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A shipper guarantees to an issuer the accuracy at the time of shipment of the description, marks, labels, number, kind, quantity, condition, and weight, as furnished by the shipper, and the shipper shall indemnify the issuer against damage caused by inaccuracies in those particulars. This right of indemnity does not limit the issuer’s responsibility or liability under the contract of carriage to any person other than the shipper.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

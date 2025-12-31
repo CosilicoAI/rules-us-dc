@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1501">
+        <akn:num>38-1501</akn:num>
+        <akn:heading>Establishment; financial aid.</akn:heading>
+<akn:subsection eId="subsec_38-1501_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There shall be established in the District of Columbia (“District”) a Nurses Training Corps (“Corps”), which shall provide financial aid to District residents desiring to obtain a Licensed Practical Nurse (“LPN”) certificate or an Associate of Arts degree or a Bachelor of Science degree in nursing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1501_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The financial aid provided by the Corps shall include tuition and may include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1501_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In exchange for financial aid, the student shall contract to work for D.C. General Hospital, the Department of Human Services, the Office on Aging, or other District agencies or facilities as designated by the Mayor for a specified number of years after completion of the agreed nursing education.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1501_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The basic criteria for selection to the Corps shall include the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

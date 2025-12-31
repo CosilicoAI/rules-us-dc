@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-126"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-126/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_126">
+        <akn:num>25-126</akn:num>
+        <akn:heading>On-site sales consumption permit.</akn:heading>
+<akn:subsection eId="subsec_25-126_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The holder of a manufacturer’s license, class A or B, may apply for an onsite sales and consumption permit to use a portion of the licensed premises for the on-premises sale, service, and consumption of beer brewed by the brewery, wine manufactured by the winery, and beverages with spirits distilled by the distillery.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-126_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The holder of an on-site sales and consumption permit shall only sell, serve, and permit the consumption of beer brewed by the brewery, wine manufactured by the winery, and beverages with spirits distilled by the distillery and purchased by the customer between the hours of 8:00 a.m. and 12:00 a.m., 7 days a week.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-126_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The on-premises sales and consumption permit shall not obviate the requirement of the holder of a manufacturer’s license, class A or B, to obtain a tasting permit pursuant to § 25-118, to be authorized to provide samples of beer, wine, or spirits.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-126_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A violation of this section shall constitute a primary tier violation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-126_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any additional spirits that are added to beverages primarily containing spirits distilled by the distillery shall be purchased from a wholesaler or manufacturer licensed under this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-126_e_1">
+      <akn:num>(e-1)</akn:num>
+      <akn:content><akn:p>The holder of a manufacturer’s license class A or B that holds an on-site sales and consumption permit may sell or serve beer, wine, and spirits purchased from a licensed wholesaler or licensed manufacturer at private events not open to the public for on-premises consumption.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-126_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “beverages” means brandy, cordials, fortified wines, liqueur, and non-alcoholic beverages.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

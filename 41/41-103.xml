@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_103">
+        <akn:num>41-103</akn:num>
+        <akn:heading>Property presumed abandoned.</akn:heading>
+<akn:subsection eId="subsec_41-103_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All intangible personal property, not otherwise covered by this chapter, including any income or increment thereon and deducting any lawful charges, that is held or owing in the ordinary course of the holder’s business and has remained unclaimed by the owner for more than 3 years after it became payable or distributable is presumed abandoned.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-103_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Property presumed abandoned shall include, but is not limited to: Drafts, credit balances, credit checks, uncashed vendor checks, and any other outstanding checks.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-103_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Property subject to this chapter shall be deemed payable or distributable notwithstanding the owner’s failure to present any instrument or document evidencing the owner’s right to receive the payment provided therein.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-103_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A record of the issuance of a check, draft, or similar instrument is prima facie evidence of an obligation. In claiming property from a holder who is also the issuer, the administrator’s burden of proof as to the existence and amount of the property and its abandonment is satisfied by showing issuance of the instrument and passage of the requisite period of abandonment. Defenses of payment, satisfaction, discharge, and want of consideration are affirmative defenses that must be established by the holder.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

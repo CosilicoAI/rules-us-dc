@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-313.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-313.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_313_05">
+        <akn:num>29-313.05</akn:num>
+        <akn:heading>Inspection of records by directors.</akn:heading>
+<akn:subsection eId="subsec_29-313_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A director of a corporation shall be entitled to inspect and copy the books, records and documents of the corporation at any reasonable time to the extent reasonably related to the performance of the director’s duties as a director, including duties as a member of a committee, but not for any other purpose or in any manner that would violate any duty to the corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-313_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Superior Court may order inspection and copying of the books, records, and documents at the corporation’s expense, upon application of a director who has been refused such inspection rights, unless the corporation establishes that the director is not entitled to such inspection rights. The court shall dispose of an application under this subsection on an expedited basis.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-313_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an order is issued, the Superior Court may include provisions protecting the corporation from undue burden or expense, and prohibiting the director from using information obtained upon exercise of the inspection rights in a manner that would violate a duty to the corporation, and may also order the corporation to reimburse the director for the director’s expenses incurred in connection with the application.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

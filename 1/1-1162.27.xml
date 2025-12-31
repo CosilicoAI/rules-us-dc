@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.27"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.27/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1162_27">
+        <akn:num>1-1162.27</akn:num>
+        <akn:heading>Persons required to register.</akn:heading>
+<akn:subsection eId="subsec_1-1162_27_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in § 1-1162.28, a person shall register with the Director of Government Ethics pursuant to § 1-1162.29 and pay the required registration fee if the person receives compensation or expends funds in an amount of $250 or more in any 3-consecutive-calendar-month period for lobbying. A person who receives compensation from more than one source shall register under this section if the person receives an aggregate amount of $250 or more in any 3-consecutive-calendar-month period for lobbying. Failure to register as required by this section shall result in a civil penalty.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_27_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_27_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

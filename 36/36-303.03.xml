@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/36-303.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/36-303.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_36_303_03">
+        <akn:num>36-303.03</akn:num>
+        <akn:heading>Termination, cancellation, and failure to renew.</akn:heading>
+<akn:subsection eId="subsec_36-303_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_36-303_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_36-303_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No distributor shall terminate or cancel any marketing agreement with a retail dealer, either directly or indirectly, unless such termination or cancellation is based upon 1 or more of the grounds specified in this subsection. No distributor shall terminate or cancel any marketing agreement with a retail dealer unless the grounds for such termination or cancellation are expressly set forth in the marketing agreement:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_36-303_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No distributor shall fail to renew a marketing agreement with a retail dealer, either directly or indirectly, unless such failure to renew is based upon 1 or more of the grounds specified in this subsection. No distributor shall fail to renew a marketing agreement unless the grounds for such failure to renew are expressly set forth in the marketing agreement:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_36-303_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

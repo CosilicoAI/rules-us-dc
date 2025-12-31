@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2888.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2888.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2888_01">
+        <akn:num>47-2888.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_47-2888_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Animal shelter” means a private or government-owned facility established for the impoundment of stray, diseased, dangerous, sick, injured, abused, neglected, unwanted, abandoned, orphaned, lost, or otherwise displaced animals, with the intent to care for, quarantine, return to an owner, adopt out, or euthanize the animals.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2888_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Veterinary facility” means a fixed or mobile establishment where the practice of veterinary medicine is conducted. The term “veterinary facility” shall not include an establishment that is an animal shelter or a wildlife rehabilitation facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2888_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Wildlife rehabilitation facility” means a location where a licensed wildlife rehabilitator treats and provides temporary care of injured, diseased, orphaned, or displaced indigenous wild animals and provides for their subsequent release into appropriate habitats. A wildlife rehabilitation facility may be an individual’s home, a triage location, or a facility dedicated to wildlife rehabilitation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1256.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1256.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1256_02">
+        <akn:num>34-1256.02</akn:num>
+        <akn:heading>Security fund.</akn:heading>
+<akn:subsection eId="subsec_34-1256_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 30 days after the approval of a franchise, a cable operator shall deposit with a bank located in the District, in an interest bearing escrow account established in the name of the District, a sum to be determined by the Office or set forth in a franchise agreement, as a security fund for the cable operator’s faithful performance of all the provisions of the franchise agreement; its compliance with all orders, permits, and directions of any District agency having jurisdiction over the cable operator’s acts or defaults under the franchise agreement; payment of any claims and liens due to the District by reason of the construction, operation, or maintenance of the cable system.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1256_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Of the security fund, no less than 20% shall be in cash, with the balance in the form of an irrevocable, unconditional letter of credit or other instrument in a form acceptable to the Director of the Mayor’s Office of Legal Counsel. The letter of credit or other instrument shall in no event require the consent of the cable operator prior to the collection by the District of any amount covered by such letter of credit or other instrument. The cable operator shall be entitled to interest on the cash portion of the security fund at a rate equal to whatever rate the District is actually earning on the cash.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1256_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The security fund, including any interest, shall become the property of the District to the extent necessary to cure outstanding violations, including outstanding liquidated damages that may be provided for in the franchise agreement, in the event that the franchise is terminated or revoked.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1256_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The bond shall require 30 calendar days written notice of any cancellation to both the Office and the cable operator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1256_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any failure by a cable operator to make deposits into or maintain the security fund as provided in this section shall be a material breach of the franchise and shall be grounds for the termination or revocation of the franchise. The procedures to follow in the event of a material breach may be set forth in the franchise agreement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

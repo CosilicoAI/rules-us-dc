@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-413.20"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-413.20/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_413_20">
+        <akn:num>29-413.20</akn:num>
+        <akn:heading>Financial statements for members.</akn:heading>
+<akn:subsection eId="subsec_29-413_20_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon a demand in the form of a record from a member, a nonprofit corporation shall furnish that member with its latest annual financial statements, which may be consolidated or combined statements of the nonprofit corporation and one or more of its subsidiaries, as appropriate, that include a balance sheet as of the end of the fiscal year and a statement of operations for the year. If financial statements are prepared for the nonprofit corporation on the basis of generally accepted accounting principles, the annual financial statements shall also be prepared on that basis. A nonprofit corporation may impose a reasonable charge for copying the report.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-413_20_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the annual financial statements are reported upon by a certified public accountant, the accountant’s report must accompany them. If not, the statements shall be accompanied by a statement of the president or the person responsible for the nonprofit corporation’s accounting records:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-413_20_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The rights of a member under this section are in addition to the rights under § 29-413.02.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

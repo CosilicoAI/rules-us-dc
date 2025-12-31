@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-604"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-604/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_604">
+        <akn:num>28:3-604</akn:num>
+        <akn:heading>Discharge by cancellation or renunciation.</akn:heading>
+<akn:subsection eId="subsec_28:3-604_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person entitled to enforce an instrument, with or without consideration, may discharge the obligation of a party to pay the instrument (i) by an intentional voluntary act, such as surrender of the instrument to the party, destruction, mutilation, or cancellation of the instrument, cancellation or striking out of the party’s signature, or the addition of words to the instrument indicating discharge, or (ii) by agreeing not to sue or otherwise renouncing rights against the party by a signed record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-604_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Cancellation or striking out of an indorsement pursuant to subsection (a) of this section does not affect the status and rights of a party derived from the indorsement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-604_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In this section, “signed”, with respect to a record that is not a writing, includes the attachment to or logical association with the record of an electronic symbol, sound, or process with the present intent to adopt or accept the record.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

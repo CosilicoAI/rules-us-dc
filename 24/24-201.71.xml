@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-201.71"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-201.71/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_201_71">
+        <akn:num>24-201.71</akn:num>
+        <akn:heading>Central Detention Facility requirements.</akn:heading>
+<akn:subsection eId="subsec_24-201_71_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The number of inmates housed at any one time in the Central Detention Facility shall not exceed the number of persons established by an independent consultant pursuant to subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-201_71_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 90 days of January 30, 2004, the Mayor shall develop and submit to the Council for a 30-day period of review, excluding days of Council recess, a plan for establishing the maximum number of inmates that can be housed at any one time within the Central Detention Facility.  The plan shall consist of a contract with an independent consultant, who, upon approval of the plan by the Council, will determine the maximum number of inmates that can be housed at any one time within the Central Detention Facility based upon physical capacity, programming, classification system, and housing plan of the Central Detention Facility.  If the Council does not approve or disapprove the plan, by resolution, within the 30-day period, the plan shall be deemed disapproved.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-201_71_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall establish, by rule, the maximum number of inmates to be housed at any one time in the Central Detention Facility.  The maximum number shall be determined by an independent consultant contracted with by the Mayor pursuant to the plan approved under subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-201_71_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>One year following implementation of the population ceiling pursuant to subsection (a) of this section, the Mayor shall evaluate the results of the Central Detention Facility classification system, housing plan, and population ceiling, and shall propose modifications, if necessary.  A copy of the evaluation shall be forwarded to the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-201_71_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

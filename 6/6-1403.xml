@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1403"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1403/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_1403">
+        <akn:num>6-1403</akn:num>
+        <akn:heading>Scope.</akn:heading>
+<akn:subsection eId="subsec_6-1403_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Construction Codes shall control:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1403_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Construction Codes shall apply to those buildings occupied by or for any foreign government as an embassy or chancery to the extent provided for in § 6-1306(g).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1403_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except for permit requirements for land disturbing activities, the Construction Codes shall not apply to public buildings or premises owned by the United States government, including appurtenant structures and portions of buildings, premises, or structures, that are under the exclusive control of an officer of the United States government in his or her official capacity. If a lessor is responsible for the maintenance and repairs to property leased to the United States government, the property shall not be deemed to be under the exclusive control of an officer of the United States government.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1403_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5602.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5602.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5602_05">
+        <akn:num>31-5602.05</akn:num>
+        <akn:heading>Licensing of successor firms.</akn:heading>
+<akn:subsection eId="subsec_31-5602_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A licensed broker-dealer or investment adviser or federal covered adviser shall file an application for the license or a notice filing, as applicable, of a successor, whether or not the successor is then in existence. There shall be no fee for the license or notice filing of the successor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5602_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a broker-dealer or investment adviser succeeds to, and continues the business of, a licensed broker-dealer or investment adviser, or a federal covered adviser succeeds to and continues the business of, a federal covered adviser who has made a notice filing, and the successor files an application for a license or a notice filing, as applicable, within 30 days after the succession, the license or notice filing of the predecessor remains effective as the license or notice filing of the successor for 60 days after the succession.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5602_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The licensing of a licensed agent of the broker-dealer filing an application under subsections (a) or (b) of this section continues without a separate filing or fee upon the licensing of the successor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

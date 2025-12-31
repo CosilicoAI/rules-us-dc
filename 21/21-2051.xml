@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2051"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2051/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2051">
+        <akn:num>21-2051</akn:num>
+        <akn:heading>Protective proceedings.</akn:heading>
+<akn:subsection eId="subsec_21-2051_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon petition and after notice and hearing in accordance with the provisions of this subchapter, the court may appoint a conservator or make any other protective order for cause as provided in this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2051_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Appointment of a conservator or other protective order may be made in relation to the estate and affairs of an individual, if the court determines that either the individual is an incapacitated individual according to section 21-2011(11), has disappeared, is being detained by a foreign power, or is being held hostage by someone other than a foreign power and:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/13-341"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/13-341/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_13_341">
+        <akn:num>13-341</akn:num>
+        <akn:heading>Service by publication on persons unknown to be living or dead and on unknown heirs and devisees.</akn:heading>
+<akn:subsection eId="subsec_13-341_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a person would be a proper party to a judicial proceeding if living, and upon allegation under oath and proof satisfactory to the court that it is unknown whether he is living or dead, he may be proceeded against as if he were living, and with like effect, if a representative of or claimant under him does not intervene in the action before final determination thereof, after notice by publication as in the case of nonresident parties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_13-341_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When a person who would have been a proper party to a judicial proceeding is dead, and it is unknown whether he died testate or left heirs, or his heirs and devisees are unknown, the unknown persons may be described as the heirs or devisees of the person who, if living, would be the proper party. Notice shall be given by publication to them according to that description, and the same proceedings shall be had against them as are had against nonresident defendants, except that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

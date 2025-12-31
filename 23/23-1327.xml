@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-1327"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-1327/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_1327">
+        <akn:num>23-1327</akn:num>
+        <akn:heading>Penalties for failure to appear.</akn:heading>
+<akn:subsection eId="subsec_23-1327_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whoever, having been released under this title prior to the commencement of his sentence, willfully fails to appear before any court or judicial officer as required, shall, subject to the provisions of the Federal Rules of Criminal Procedure, incur a forfeiture of any security which was given or pledged for his release, and, in addition, shall, (1) if he was released in connection with a charge of felony, or while awaiting sentence or pending appeal or certiorari prior to commencement of his sentence after conviction of any offense, be fined not more than the amount set forth in [§ 22-3571.01] and imprisoned not less than one year and not more than five years, (2) if he was released in connection with a charge of misdemeanor, be fined not more than the amount set forth in [§ 22-3571.01] and imprisoned for not less than ninety days and not more than 180 days, or (3) if he was released for appearance as a material witness, be fined not more than the amount set forth in [§ 22-3571.01] or imprisoned for not more than 180 days, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1327_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any failure to appear after notice of the appearance date shall be prima facie evidence that such failure to appear is wilful. Whether the person was warned when released of the penalties for failure to appear shall be a factor in determining whether such failure to appear was wilful, but the giving of such warning shall not be a prerequisite to conviction under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1327_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The trier of facts may convict under this section even if the defendant has not received actual notice of the appearance date if (1) reasonable efforts to notify the defendant have been made, and (2) the defendant, by his own actions, has frustrated the receipt of actual notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-1327_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any term of imprisonment imposed pursuant to this section shall be consecutive to any other sentence of imprisonment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1203.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1203.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1203_01">
+        <akn:num>44-1203.01</akn:num>
+        <akn:heading>Privatization of residential substance abuse treatment.</akn:heading>
+<akn:subsection eId="subsec_44-1203_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any provision of § 44-1203, the Mayor shall contract out the operation of the substance abuse Residential Short Stay and Detoxification Facilities programs that are currently operated by the Addiction, Prevention, and Recovery Administration (“APRA”) and, when appropriate, priority shall be given to locating such facilities on the campus of the D.C. General Hospital. The affected employees of APRA shall be given the opportunity to compete in this privatization, which shall be carried out in accordance with § 2-352.05.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1203_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any amount of funding necessary for costs of severance pay related to the contracting out of the operation of the substance abuse Residential Short Stay and Detoxification Facilities program shall be paid from the administrative costs of the Addiction, Prevention, and Recovery Administration. No money for severance pay related to the contracting out shall be taken from any program funding allocated for substance abuse treatment services, including the $3 million increase allocated by the Council for community based substance abuse treatment services.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

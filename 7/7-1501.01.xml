@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1501.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1501.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1501_01">
+        <akn:num>7-1501.01</akn:num>
+        <akn:heading>“Human body parts” defined; prohibited acts.</akn:heading>
+<akn:subsection eId="subsec_7-1501_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this subchapter, the term “human body parts” means any portion of a living human body, including, but not limited to, organs, tissues, eyes, bones, veins, and arteries, except that the term shall not mean hair and blood.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1501_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It is unlawful for any person in the District of Columbia to buy, to offer to buy, to sell, to offer to sell, or to procure through purchase any human body part for any reason, including, but not limited to, medical and specific uses, such as transplantation, implantation, infusion, or injection.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

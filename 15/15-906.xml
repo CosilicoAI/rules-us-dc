@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/15-906"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/15-906/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_15_906">
+        <akn:num>15-906</akn:num>
+        <akn:heading>Judgments and awards on foreign-money claims; times of money conversion; form of judgment.</akn:heading>
+<akn:subsection eId="subsec_15-906_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (c) of this section, a judgment or award on a foreign-money claim must be stated in an amount of the money of the claim.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-906_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A judgment or award on a foreign-money claim is payable in that foreign money or, at the option of the debtor, in the amount of United States dollars which will purchase that foreign money on the conversion date at a bank-offered spot rate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-906_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Assessed costs must be entered in United States dollars.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-906_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Each payment in United States dollars must be accepted and credited on a judgment or award on a foreign-money claim in the amount of the foreign money that could be purchased by the dollars at a bank-offered spot rate of exchange at or near the close of business on the conversion date for the payment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-906_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A judgment or award made in an action or distribution proceeding on both a defense, set-off, recoupment, or counterclaim and the adverse party’s claim, must be netted by converting the money of the smaller into the money of the larger, and by subtracting the smaller from the larger, and specifying the rates of exchange used.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-906_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A judgment substantially in the following from [form] complies with subsection (a) of this section:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-906_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>If a contract claim is of the type covered by section 15-904(a) or (b), the judgment or award must be entered for the amount of money stated to measure the obligation to be paid in the money specified for payment or, at the option of the debtor, the number of United States dollars which will purchase the computed amount of the money of payment on the conversion date at a bank-offered spot rate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-906_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>A judgment must be filed and indexed in foreign money in the same manner as other judgments and has the same effect as a lien. It may be discharged by payment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

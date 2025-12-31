@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1001.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1001.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1001_09">
+        <akn:num>29-1001.09</akn:num>
+        <akn:heading>Effect of organic rules.</akn:heading>
+<akn:subsection eId="subsec_29-1001_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The relations between a limited cooperative association and its members shall be consensual. Unless required, limited, or prohibited by this chapter, the organic rules may provide for any matter concerning the relations among the members of the association and between the members and the association, the activities of the association, and the conduct of its activities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1001_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The matters referred to in paragraphs (1) through (11) of this subsection shall be varied only in the articles of organization. The articles may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1001_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The matters referred to in this subsection shall be varied only in the organic rules. The organic rules may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1001_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The organic rules shall address members’ contributions pursuant to § 29-1010.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

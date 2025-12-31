@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2359"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2359/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2359">
+        <akn:num>16-2359</akn:num>
+        <akn:heading>Adjudicatory hearing.</akn:heading>
+<akn:subsection eId="subsec_16-2359_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A judge shall begin the adjudicatory hearing by determining whether all parties are present and whether proper notice of the hearing has been given. If the parent has been given proper notice but has failed to appear the judge may proceed in his or her absence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2359_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A judge shall hear evidence presented by the moving party and the burden of proof shall rest upon the moving party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2359_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Every party shall have the right to present evidence, to be heard in his or her own behalf and to cross-examine witnesses called by another party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2359_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>All evidence which is relevant, material, and competent to the issues before the judge shall be admitted.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2359_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of D.C. Official Code, sections 14-306 and 14-307, neither the spouse or domestic partner privilege nor the physician/client or mental health professional/client privilege shall be a ground for excluding evidence in any proceeding brought under this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2359_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A judge may enter an order permanently terminating the parent and child relationship after considering all of the evidence presented and after making a determination based upon clear and convincing evidence that termination of the parent and child relationship is in the best interest of the child. If a judge does not find that sufficient grounds exist for termination, the motion for termination of the parent and child relationship may be dismissed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

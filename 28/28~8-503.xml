@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-503"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-503/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_503">
+        <akn:num>28:8-503</akn:num>
+        <akn:heading>Property interest of entitlement holder in financial asset held by securities intermediary.</akn:heading>
+<akn:subsection eId="subsec_28:8-503_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To the extent necessary for a securities intermediary to satisfy all security entitlements with respect to a particular financial asset, all interests in that financial asset held by the securities intermediary are held by the securities intermediary for the entitlement holders, are not property of the securities intermediary, and are not subject to claims of creditors of the securities intermediary, except as otherwise provided in § 28:8-511.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-503_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An entitlement holder’s property interest with respect to a particular financial asset under subsection (a) of this section is a pro rata property interest in all interests in that financial asset held by the securities intermediary, without regard to the time the entitlement holder acquired the security entitlement or the time the securities intermediary acquired the interest in that financial asset.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-503_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An entitlement holder’s property interest with respect to a particular financial asset under subsection (a) of this section may be enforced against the securities intermediary only by exercise of the entitlement holder’s rights under §§ 28:8-505 through 28:8-508.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-503_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An entitlement holder’s property interest with respect to a particular financial asset under subsection (a) of this section may be enforced against a purchaser of the financial asset or interest therein only if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-503_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The trustee or other liquidator, acting on behalf of all entitlement holders having security entitlements with respect to a particular financial asset, may recover the financial asset, or interest therein, from the purchaser. If the trustee or other liquidator elects not to pursue that right, an entitlement holder whose security entitlement remains unsatisfied has the right to recover its interest in the financial asset from the purchaser.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-503_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>An action based on the entitlement holder’s property interest with respect to a particular financial asset under subsection (a) of this section, whether framed in conversion, replevin, constructive trust, equitable lien, or other theory, may not be asserted against any purchaser of a financial asset or interest therein who gives value, obtains control, and does not act in collusion with the securities intermediary in violating the securities intermediary’s obligations under § 28:8-504.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

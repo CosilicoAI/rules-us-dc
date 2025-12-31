@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-313"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-313/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_313">
+        <akn:num>41-313</akn:num>
+        <akn:heading>Remission or mitigation.</akn:heading>
+<akn:subsection eId="subsec_41-313_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever an owner files with the Mayor, either before or after the sale or disposition of property pursuant to §  41-310, a petition for remission or mitigation of the forfeiture, the Mayor shall consider the petition and, if the Mayor finds that mitigating circumstances so justify, shall remit or mitigate the forfeiture upon the terms and conditions as the Mayor deems reasonable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-313_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall consider as a mitigating circumstance whether the forfeiture of property was proportional to the seriousness of the asserted violation of District law that gave rise to forfeiture, considering the factors set forth in §  41-308(e)(2).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

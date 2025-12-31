@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4003"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4003/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_4003">
+        <akn:num>22-4003</akn:num>
+        <akn:heading>Certification duties of the Superior Court.</akn:heading>
+<akn:subsection eId="subsec_22-4003_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon a finding that a defendant committed a registration offense, the Court shall enter an order certifying that the defendant is a sex offender and that the defendant will be subject to registration for the period set forth in § 22-4002(a) or (b). The Court shall advise the sex offender of that person’s duties under this chapter, shall order the sex offender to report to the Agency to register as required by the Agency and to comply with the requirements of this chapter, and shall require the sex offender to read and sign the order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4003_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Court shall provide to the Agency a copy of the certification and order and such other records and information as will assist in the registration of the sex offender.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4003_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In any case where the Court orders the release of a sex offender into the community following a period of detention, incarceration, confinement, civil commitment, or hospitalization, the Court shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4003_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The applicability of the requirements of this chapter to a person otherwise subject to this chapter does not depend on the Court’s making a certification under subsection (a) of this section. The Court is required to enter an order certifying that a person is a sex offender only when —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

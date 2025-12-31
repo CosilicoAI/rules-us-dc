@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-146"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-146/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_146">
+        <akn:num>42-146</akn:num>
+        <akn:heading>Foreign notarial acts.</akn:heading>
+<akn:subsection eId="subsec_42-146_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A notarial act shall have the same effect under the law of the District as if the notarial act had been performed by a notarial officer of the District if the notarial act is performed within the jurisdiction of and under authority of a foreign country or its constituent units or a multi-national or international organization by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-146_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An “Apostille” in the form prescribed by the Convention Abolishing the Requirement of Legalization for Foreign Documents done at the Hague on October 5, 1961 (T.I.A.S. 10073; 527 U.N.T.S. 189), shall conclusively establish that the signature of the notarial officer is genuine and that the officer holds the indicated office.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-146_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A certificate by a foreign service or consular officer of the United States stationed in the country under the jurisdiction of which the notarial act was performed, or a certificate by a foreign service or consular officer of a country who is stationed in the United States, shall establish conclusively any matter relating to the authenticity or validity of the notarial act set forth in the certificate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-146_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An official stamp or seal of the person who performs the notarial act shall be prima facie evidence that the signature is genuine and that the person holds the indicated title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-146_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An official stamp or seal of an officer listed in subsection (a)(1) or (2) of this section shall be prima facie evidence that a person with the indicated title has the authority to perform a notarial act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-146_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>If the title of office and indication of authority to perform a notarial act appears in a digest of foreign law or in a list customarily used as a source for information for foreign law, the authority of an officer with the title to perform a notarial act shall be established conclusively.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-146_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>For purposes of this section, the term “multi-national or international organization” means an organization defined in 22 U.S.C. § 288.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

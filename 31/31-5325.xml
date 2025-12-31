@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5325"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5325/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5325">
+        <akn:num>31-5325</akn:num>
+        <akn:heading>Examination of societies; no adverse publications.</akn:heading>
+<akn:subsection eId="subsec_31-5325_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commissioner, or any person he or she may appoint, may examine any domestic, foreign, or alien society transacting or applying for admission to transact business in the District in the same manner as authorized for examination of domestic, foreign, or alien insurers. Requirements of notice and an opportunity to respond before findings are made public as provided in the laws regulating insurers shall also be applicable to the examination of societies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5325_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The expense of each examination and of each valuation, including compensation and actual expense of examiners, shall be paid by the society examined or whose certificates are valued, upon statements furnished by the Commissioner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

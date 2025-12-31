@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-511"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-511/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_511">
+        <akn:num>16-511</akn:num>
+        <akn:heading>Attachment of credits or partnership interest; retention of property or credits by garnishee.</akn:heading>
+<akn:subsection eId="subsec_16-511_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An attachment shall be levied upon credits of the defendant, in the hands of a garnishee, by serving the garnishee with a copy of the writ of attachment and of the interrogatories accompanying the writ, and a notice that any property or credits of the defendant in his hands are seized by virtue of the attachment, besides the notice required by section 16-502. The undivided interest of the defendant in a partnership business may be levied upon by a similar service on the defendant’s partner or partners.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-511_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Where the property or credits attached or sought to be attached are held by the garnishee in the name of or for the account of a person other than the defendant, the garnishee shall retain the property or credits during the period pending determination by the court of the propriety of the attachment or the rightful owner of the property or credits. During that period, the garnishee shall incur no liability for the retention.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

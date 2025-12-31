@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2802"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2802/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2802">
+        <akn:num>16-2802</akn:num>
+        <akn:heading>Notice of intention to file suit.</akn:heading>
+<akn:subsection eId="subsec_16-2802_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person who intends to file an action in the court alleging medical malpractice against a healthcare provider shall notify the intended defendant of his or her action not less than 90 days prior to filing the action. Notice may be given by service on an intended defendant at his or her last known address registered with the appropriate licensing authority. Upon a showing of a good faith effort to give the required notice, the court may excuse the failure to give notice within the time prescribed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2802_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The notice required in subsection (a) of this section shall include sufficient information to put the defendant on notice of the legal basis for the claim and the type and extent of the loss sustained, including information regarding the injuries suffered. Nothing herein shall preclude the person giving notice from adding additional theories of liability based upon information obtained in court-conducted discovery or adding injuries or loss which become known at a later time.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2802_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A legal action alleging medical malpractice shall not be commenced in the court unless the requirements of this section have been satisfied.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

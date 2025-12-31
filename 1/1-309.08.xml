@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-309.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-309.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_309_08">
+        <akn:num>1-309.08</akn:num>
+        <akn:heading>Boundary changes.</akn:heading>
+<akn:subsection eId="subsec_1-309_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Petitions for changes in the boundaries of an Advisory Neighborhood Commission area or single-member district within any such area may be filed with the Council of the District of Columbia during the month of January of the year in which elections for Advisory Neighborhood Commissions are to be held. Such petitions must be signed by at least 5 percent of the registered qualified electors of such Advisory Neighborhood Commission area.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-309_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon certification by the Board to the Chairman of the Council that 5 percent of the registered qualified electors of an Advisory Neighborhood Commission have signed such a petition, the Council shall, after public hearing, accept or reject such petition.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-309_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Council shall accept or reject such a petition within 3 months after its receipt.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

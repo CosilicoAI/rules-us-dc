@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3302">
+        <akn:num>28-3302</akn:num>
+        <akn:heading>Rate of interest not expressed and on judgments.</akn:heading>
+<akn:subsection eId="subsec_28-3302_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The rate of interest in the District upon the loan or forbearance of money, goods, or things in action in the absence of expressed contract, is 6% per annum.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3302_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Interest, when authorized by law, on judgments or decrees against the District of Columbia, or its officers, or its employees acting within the scope of their employment, is at the rate of not exceeding 4% per annum.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3302_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The rate of interest on judgments and decrees, where the judgment or decree is not against the District of Columbia, or its officers, or its employees acting within the scope of their employment or where the rate of interest is not fixed by contract, shall be 70% of the rate of interest set by the Secretary of the Treasury pursuant to section 6621 of the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2744; 26 U.S.C. § 6621), for underpayments of tax to the Internal Revenue Service, rounded to the nearest full percent, or if exactly 1/2 of 1%, increased to the next highest full percent; provided, that a court of competent jurisdiction may lower the rate of interest under this subsection for good cause shown or upon a showing that the judgment debtor in good faith is unable to pay the judgment. In the case of the judgments entered prior to the effective date of the Consumer Credit Interest Rate Amendment Act of 1981, that are not satisfied until after the effective date of the Consumer Credit Interest Rate Amendment Act of 1981, the rate of interest thereon shall be the rate of interest prescribed in this subsection from the effective date of the Consumer Credit Interest Rate Amendment Act of 1981, until the date of satisfaction.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

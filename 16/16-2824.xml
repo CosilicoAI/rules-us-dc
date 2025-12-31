@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2824"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2824/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2824">
+        <akn:num>16-2824</akn:num>
+        <akn:heading>Attendance at mediation session.</akn:heading>
+<akn:subsection eId="subsec_16-2824_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “a representative with settlement authority” means an individual with control of the financial settlement resources for the case and the authority to pledge those resources to settle the case on behalf of a party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2824_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All parties shall personally attend mediation sessions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2824_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a party is not an individual, a representative with settlement authority for the party shall attend the mediation session.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2824_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In cases involving an insurance company, a representative of the company with settlement authority shall attend the mediation session.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2824_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Attorneys representing each party with primary responsibility for the case shall attend the mediation session.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

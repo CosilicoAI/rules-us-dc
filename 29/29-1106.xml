@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1106"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1106/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1106">
+        <akn:num>29-1106</akn:num>
+        <akn:heading>Ownership and transfer of property.</akn:heading>
+<akn:subsection eId="subsec_29-1106_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An unincorporated nonprofit association may acquire, hold, encumber, or transfer in its name an interest in property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1106_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An unincorporated nonprofit association may be a beneficiary of a trust or contract, a legatee, or a devisee.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

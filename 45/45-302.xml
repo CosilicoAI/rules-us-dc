@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/45-302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/45-302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_45_302">
+        <akn:num>45-302</akn:num>
+        <akn:heading>Duties.</akn:heading>
+<akn:subsection eId="subsec_45-302_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Examine the common law and statutes relating to the District of Columbia, the ordinances, regulations, resolutions, and acts of the Council, and all relevant judicial decisions for the purpose of discovering defects and anachronisms in the law relating to the District of Columbia and recommending needed reforms;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_45-302_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Receive and consider proposed changes in the law recommended by the American Law Institute, the Conference of Commissioners on Uniform State Laws, any bar association, or other learned bodies;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_45-302_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Receive and consider suggestions from judges, public officials, lawyers, and the public generally as to defects and anachronisms in the law relating to the District of Columbia;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_45-302_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Recommend, from time to time, to the Council of the District of Columbia such changes in the law relating to the District of Columbia as it deems necessary to modify or eliminate antiquated or inequitable rules of law, and to bring the civil, criminal, and administrative law relating to the District of Columbia into harmony with modern conditions;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_45-302_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Upon request of the Council of the District of Columbia or the Chairman of the Council of the District of Columbia, study the legislative and rulemaking methods, practices, and procedures used by the District of Columbia government and make recommendations for improvement and modernization.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

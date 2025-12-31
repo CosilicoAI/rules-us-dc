@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-610.64"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-610.64/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_610_64">
+        <akn:num>1-610.64</akn:num>
+        <akn:heading>Employment contracts with subordinate agency heads.</akn:heading>
+<akn:subsection eId="subsec_1-610_64_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall not enter into an employment contract with a subordinate agency head that contains terms and conditions of employment that are inconsistent with existing law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-610_64_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Mayor executes an employment contract with a subordinate agency head in the Executive Service, the contract shall be posted to the website of the District of Columbia Department of Human Resources within 30 days of signing. The requirement to post the contract shall be subject to relevant exemptions pursuant to § 2-534 and required disclosures pursuant to § 2-536.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-610_64_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An employment contract, if any, with a subordinate agency head shall be transmitted to the Council simultaneously with the transmittal of the nomination of the subordinate agency head.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

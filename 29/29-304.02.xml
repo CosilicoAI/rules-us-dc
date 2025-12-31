@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_304_02">
+        <akn:num>29-304.02</akn:num>
+        <akn:heading>Terms of class or series determined by board of directors.</akn:heading>
+<akn:subsection eId="subsec_29-304_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the articles of incorporation so provide, the board of directors may, without shareholder approval:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the board of directors acts pursuant to subsection (a) of this section, it shall determine the terms, including the preferences, rights, and limitations, to the same extent permitted under § 29-304.01, of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Before issuing any shares of a class or series created under this section, the corporation shall deliver to the Mayor for filing articles of amendment setting forth the terms determined under subsection (a) and (b) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-311"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-311/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_311">
+        <akn:num>28:2-311</akn:num>
+        <akn:heading>Options and cooperation respecting performance.</akn:heading>
+<akn:subsection eId="subsec_28:2-311_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>An agreement for sale which is otherwise sufficiently definite (subsection (3) of section 28:2-204) to be a contract is not made invalid by the fact that it leaves particulars of performance to be specified by one of the parties. Any such specification must be made in good faith and within limits set by commercial reasonableness.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-311_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Unless otherwise agreed specifications relating to assortment of the goods are at the buyer’s option and except as otherwise provided in subsections (1) (c) and (3) of section 28:2-319 specifications or arrangements relating to shipment are at the seller’s option.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-311_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Where such specification would materially affect the other party’s performance but is not seasonably made or where one party’s cooperation is necessary to the agreed performance of the other but is not seasonably forthcoming, the other party in addition to all other remedies:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

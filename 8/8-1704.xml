@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1704"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1704/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1704">
+        <akn:num>8-1704</akn:num>
+        <akn:heading>Composition.</akn:heading>
+<akn:subsection eId="subsec_8-1704_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Soil and Water Conservation District, reestablished by § 8-1721, shall be governed by 7 members.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1704_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Five members, at least 4 of whom shall be directors of appropriate agencies or departments of the District of Columbia government, shall be appointed by and serve at the pleasure of the Mayor. Two members shall be appointed by the Council of the District of Columbia upon the recommendation of the Chairman of the Council of the District of Columbia from among its members.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1704_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each member of the Water and Soil Conservation District may designate a person to serve and act in the absence of the appointed member.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1704_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The members shall serve without compensation. Members shall be reimbursed for reasonable and necessary expenses incurred in the performance of their duties in implementing the provisions of this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

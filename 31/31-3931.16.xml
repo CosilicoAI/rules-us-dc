@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3931.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3931.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3931_16">
+        <akn:num>31-3931.16</akn:num>
+        <akn:heading>Insolvency.</akn:heading>
+<akn:subsection eId="subsec_31-3931_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A captive insurer shall not join or contribute financially to any risk-sharing plan, risk pool, or insurance insolvency guaranty fund in the District. A captive insurer or its insured, its parent or an affiliated company, or any member organization of its association shall not receive any benefit from the plan, pool, or fund for claims arising out of the operations of the captive insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The terms and conditions set forth in Chapter 13 of this title [§ 31-1301 et seq.] (“1993 Act”), pertaining to insurer rehabilitation, insolvency, and receiverships shall apply in full to captive insurers licensed under this chapter and shall apply to the protected cells of a captive insurer on a cell basis. If there is a conflict between the provisions of this chapter and the 1993 Act, the provisions of this chapter shall prevail, including the provisions of § 31-3931.05 for liquidation and rehabilitation of protected cells.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

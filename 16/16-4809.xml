@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4809"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4809/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4809">
+        <akn:num>16-4809</akn:num>
+        <akn:heading>Challenging a standby guardianship designation.</akn:heading>
+<akn:subsection eId="subsec_16-4809_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An individual entitled to notice under §§ 16-4501 through 16-4524 (the Uniform Child Custody Jurisdiction Act) [repealed] may challenge a standby guardianship designation order by initiating a child custody proceeding in the Superior Court of the District of Columbia or in any court that could exercise jurisdiction in accordance with §§ 16-4501 through 16-4524.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4809_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An order of custody issued by a court of competent jurisdiction supersedes any designation of standby guardianship.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

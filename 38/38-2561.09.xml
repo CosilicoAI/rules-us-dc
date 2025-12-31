@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2561.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2561.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2561_09">
+        <akn:num>38-2561.09</akn:num>
+        <akn:heading>Certificate of Approval — Inspection.</akn:heading>
+<akn:subsection eId="subsec_38-2561_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The SEA shall schedule periodic monitoring visits to each nonpublic special education school or program at least once every 3 years. The employees of the SEA may make unannounced visits to a school or program during the 3-year period.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2561_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A nonpublic special education school or program approved by the SEA shall be subject to inspection by the SEA or its designee for the following reasons:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

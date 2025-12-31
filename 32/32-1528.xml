@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1528"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1528/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1528">
+        <akn:num>32-1528</akn:num>
+        <akn:heading>Costs in proceedings brought without reasonable grounds; penalty for unreasonable delay in payment of compensation.</akn:heading>
+<akn:subsection eId="subsec_32-1528_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the trier of fact or court having jurisdiction of proceedings in respect of any claim or compensation order determines that the proceedings in respect of such claim or order have been instituted or continued without reasonable ground, the costs of such proceedings shall be assessed against the party who has so instituted or continued such proceedings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1528_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Mayor or court determines that an employer or carrier has delayed the payment of any installment of compensation to an employee in bad faith, the employer shall pay to the injured employee, for the duration of the delay, the actual weekly wage of the employee for the period that the employee is eligible to receive workers’ compensation benefits under this chapter. The penalty shall be in addition to any amount paid pursuant to § 32-1515.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

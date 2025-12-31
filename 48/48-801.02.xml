@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-801.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-801.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_801_02">
+        <akn:num>48-801.02</akn:num>
+        <akn:heading>Posters to be furnished pharmacies; contents.</akn:heading>
+<akn:subsection eId="subsec_48-801_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Lists the 100 most commonly used prescription drugs in 2 commonly prescribed quantities, with space for the current selling price of each quantity;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-801_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Lists professional and convenience services, with space for each pharmacy to indicate:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-801_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Contains a heading stating “OUR CURRENT PRESCRIPTION PRICES” and containing spaces for the insertion of the name and address of each pharmacy;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-801_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Indicates in simple language that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-801_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Provides space for each pharmacy to indicate the eligibility and terms of any discount it offers on legend drugs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

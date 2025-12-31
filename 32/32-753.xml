@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-753"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-753/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_753">
+        <akn:num>32-753</akn:num>
+        <akn:heading>Eligibility for grants.</akn:heading>
+<akn:subsection eId="subsec_32-753_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Low-income District residents;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-753_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Job skills-deficient residents;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-753_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>District businesses, business coalitions, or nonprofit organizations partnered with District businesses or business coalitions seeking to hire low-income District residents or job skills-deficient residents and develop a workforce from those individuals; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-753_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>District businesses, business coalitions, or nonprofit organizations partnered with District businesses or business coalitions seeking to upgrade the skills of their current workforce, composed of at least 51% District residents, in order to maintain the employment of the current workforce.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

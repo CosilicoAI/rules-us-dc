@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2021"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2021/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2021">
+        <akn:num>42-2021</akn:num>
+        <akn:heading>Application of insurance proceeds to reconstruction; pro rata distribution in certain cases according to bylaws or decision of council.</akn:heading>
+<akn:subsection eId="subsec_42-2021_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In case of fire or other disaster the insurance indemnity shall, except as provided in the next succeeding subsection of this section, be applied to reconstruct the project.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2021_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Reconstruction shall not be compulsory where destruction comprises the whole or more than two-thirds of the project and other improvements in a condominium project. In such cases, and unless otherwise unanimously agreed upon by the co-owners, the indemnity shall be delivered pro rata to the co-owners entitled to it in accordance with provisions made by the bylaws or in accordance with a decision of three-fourths of the co-owners, if there be no bylaw provision, after first paying off, out of the respective shares of the unit owners, to the extent sufficient for the purpose, all liens on the unit of each co-owner. Should it be proper to proceed with the reconstruction, the provision for such eventuality made in the bylaws shall be observed, or in lieu thereof, the decision of the council of co-owners shall prevail, subject to all provisions of law and regulations of the District of Columbia then in effect.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

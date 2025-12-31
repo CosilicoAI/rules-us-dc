@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1452"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1452/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1452">
+        <akn:num>32-1452</akn:num>
+        <akn:heading>Prohibited actions of employer.</akn:heading>
+<akn:subsection eId="subsec_32-1452_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Require, as a condition of employment, that an employee refrain from inquiring about, disclosing, comparing, or otherwise discussing the employees wages or the wages of another employee;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1452_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Discharge, discipline, interfere with, or otherwise retaliate against an employee who inquires about, discloses, compares, or otherwise discusses the employee’s wages or the wages of another employee or is believed by the employer to have done so; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1452_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Prohibit or attempt to prohibit an employee from lodging a complaint, or testifying, assisting, or participating in an investigation or proceeding, related to a violation of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

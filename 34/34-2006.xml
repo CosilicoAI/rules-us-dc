@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2006"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2006/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2006">
+        <akn:num>34-2006</akn:num>
+        <akn:heading>Exemptions.</akn:heading>
+<akn:subsection eId="subsec_34-2006_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This chapter shall not apply to cable television services performed pursuant to an existing cable television franchise agreement with the District of Columbia which is in effect on September 9, 1996. To the extent that a cable television company seeks to provide local exchange services within the District of Columbia, such company shall be regulated under the provisions of this chapter for their local exchange services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2006_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Pursuant to the federal Telecommunications Act of 1996, this chapter shall not apply to licensed or unlicensed wireless services authorized by the Federal Communications Commission operating in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2006_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This chapter shall not:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

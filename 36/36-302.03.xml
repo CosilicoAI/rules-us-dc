@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/36-302.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/36-302.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_36_302_03">
+        <akn:num>36-302.03</akn:num>
+        <akn:heading>Nondiscrimination required of wholesalers.</akn:heading>
+<akn:subsection eId="subsec_36-302_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every wholesaler shall extend all voluntary allowances, including, but not limited to, any temporary or permanent price reduction, price allowance, price adjustment, special sale, deal, discount, inducement, incentive, rent rebate, rent abatement, rent relief, premium or other allowance, uniformly, on an equitable basis, to every retail service station served. In the event that an exceptional or undue hardship has been imposed on a specific retail service station by the occurrence or existence of special or unusual circumstances, including, but not limited to, loss by fire or a temporary road closing, a nonuniformly extended voluntary allowance may be extended to such retail service station.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_36-302_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Every wholesaler shall apply all equipment rental charges for equipment of a comparable age, condition, grade, or quality uniformly, on an equitable basis, to every retail service station served.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_36-302_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Every wholesaler shall, during periods of shortage affecting such wholesaler, apportion uniformly all motor fuels, including all grades of motor fuel, and all petroleum products affected by such shortage, on an equitable basis, to every retail service station served. No wholesaler shall unreasonably discriminate between retail service stations in their allotments. For the purpose of this subsection, a shortage shall exist when any wholesaler is unable or unwilling for any reason, on either a permanent or temporary basis, to sell, distribute, or supply any specific motor fuels or petroleum products to all retail service stations previously served in a quantity equivalent to that previously sold, distributed, or supplied to such retail service stations.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1331.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1331.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1331_04">
+        <akn:num>50-1331.04</akn:num>
+        <akn:heading>Department authority to designate vehicles salvage, non-repairable, and flood and to include certain information on a title.</akn:heading>
+<akn:subsection eId="subsec_50-1331_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon application by the owner or lessor, or upon an inspection and determination by the Department that a motor vehicle is a Salvage Vehicle or Non-repairable Vehicle, the Department shall issue a Salvage Title or Non-repairable Vehicle Certificate, whichever is applicable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1331_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon notification by the owner or lessor, or upon an inspection and determination by the Department that a motor vehicle is a Flood Vehicle, the Department shall indicate on the vehicle’s title that the vehicle is a Flood Vehicle.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1331_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a title from another jurisdiction indicates that a vehicle is damaged or that its use is restricted in any way, the Director may include this information on any new title issued by the Department for the vehicle, including the jurisdiction previously recording the information.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1331_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon notification by an insurance company pursuant to § 50-1331.02(d)(2)(B), or upon notification by the District of Columbia government of the government’s satisfaction of a total loss claim for a vehicle titled in the District of Columbia, the Department may, 10 days after mailing notice to the address on record, revoke the existing title and reissue a salvage or non-repairable vehicle title, as applicable.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

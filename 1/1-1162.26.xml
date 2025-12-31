@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.26"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.26/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1162_26">
+        <akn:num>1-1162.26</akn:num>
+        <akn:heading>Limitations on honoraria and royalties.</akn:heading>
+<akn:subsection eId="subsec_1-1162_26_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsections (b) and (c) of this section, neither the Mayor, the Attorney General, the Chairman of the Council, nor any member of the Council or of the State Board of Education, nor any member of his or her immediate family, shall receive honoraria exceeding $10,000 in the aggregate during any calendar year. For the purposes of this subsection, the term “honorarium” means payment of money or anything of value for an appearance, speech, or article; provided, that a reimbursement for or payment of actual and necessary travel expenses incurred shall not be considered honoraria. For the purposes of computing the $10,000 limit on honoraria established under this subsection, an honorarium shall be considered received in the year in which the right to receive the honorarium accrues.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_26_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (c) of this section, neither the Chairman of the Council, the Mayor, the Attorney General, nor any member of the Chairman of the Council’s, the Mayor’s, or the Attorney General’s immediate family shall accept royalties for works of the Chairman of the Council, the Mayor, or the Attorney General that exceed $10,000 in the aggregate during any calendar year. For the purposes of computing the limit on royalties established under this subsection, a royalty shall be considered received during the calendar year in which the right to receive the royalty accrues.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_26_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, any royalty or part of a royalty, or any honorarium or part of an honorarium paid to a charitable organization by or on behalf of a public official shall not be calculated as part of an aggregate total.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

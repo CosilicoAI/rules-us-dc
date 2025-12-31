@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-608.51"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-608.51/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_608_51">
+        <akn:num>1-608.51</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_1-608_51_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Agency” means any subordinate or independent agency of the District government, but does not include the following entities:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-608_51_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Attorney” means any position which is classified as part of Series 905, except for any position that is occupied by a person whose duties, in whole or in substantial part, consist of hearing cases as an administrative law judge or as an administrative hearing officer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-608_51_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Senior Executive Attorney Service position” means:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-751.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-751.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_751_03">
+        <akn:num>6-751.03</akn:num>
+        <akn:heading>Locations.</akn:heading>
+<akn:subsection eId="subsec_6-751_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The owner of each dwelling unit shall install at least 1 smoke detector to protect each sleeping area. In an efficiency, the owner shall install the smoke detector in the room used for sleeping. In all other dwelling units, the owner shall install the smoke detector outside the bedrooms but in the immediate vicinity of the sleeping area.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The owner of each hotel and motel shall install at least 1 smoke detector to protect each guest room or guest suite. The owner of each dormitory shall install at least 1 smoke detector to protect each resident room or resident suite. For the purpose of this subsection, “guest suite” or “resident suite” means a combination of rooms that are always occupied as a single unit. The owner of the hotel, motel or dormitory shall install the smoke detectors as directed by the Mayor of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The owner of each hospital, nursing home, jail, prison, and residential-custodial care facility shall install smoke detectors as directed by the Mayor of the District of Columbia and as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An owner subject to this subchapter shall install each smoke detector on the ceiling at a minimum of 6 inches from the wall, or on a wall at a minimum of 6 inches from the ceiling.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An owner subject to this subchapter may not install a smoke detector in a dead air space, such as where the ceiling meets the wall.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

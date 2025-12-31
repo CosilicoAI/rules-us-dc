@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1804"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1804/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1804">
+        <akn:num>10-1804</akn:num>
+        <akn:heading>Allocation of sales tax revenue attributable to the Waterfront Park Retail Area.</akn:heading>
+<akn:subsection eId="subsec_10-1804_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>During the contribution period, the sales and use tax revenue attributable to the Waterfront Park Retail Area shall be allocated and deposited into the Waterfront Park Maintenance Fund in the following amounts:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1804_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All sales and use tax revenue and revenue from the Waterfront Park Special Assessment received by the Chief Financial Officer by the 20th day of a month shall be deposited into the Fund by the Chief Financial Officer by the last business day of the following month.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

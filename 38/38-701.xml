@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-701"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-701/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_701">
+        <akn:num>38-701</akn:num>
+        <akn:heading>Textbooks and supplies furnished without charge.</akn:heading>
+<akn:subsection eId="subsec_38-701_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board of Education shall issue to each student of the public elementary schools, public junior high schools, and public senior high schools textbooks, workbooks, and adequate instructional materials for each core curriculum subject, free of charge, by the second week of each new semester. The Superintendent shall certify to the Board of Education, within 30 days of each new semester, that each student has been issued textbooks, workbooks, and adequate instructional materials for each core curriculum subject, free of charge.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-701_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board of Education shall evaluate and certify every 5 years that all textbooks used in the public school system meet the Board of Education’s goals and objectives and the curriculum framework established for District of Columbia public schools.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-701_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Board of Education may require a refundable deposit for textbooks issued to students in grades 7 through 12, to offset costs associated with lost or damaged textbooks. If the Board of Education requires a textbook deposit pursuant to this subsection, the Board of Education shall provide for a refund of the deposit at the conclusion of the relevant semester or school year for which the textbook was issued.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-701_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Board of Education shall adopt regulations to implement the provisions of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

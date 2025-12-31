@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1902"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1902/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1902">
+        <akn:num>31-1902</akn:num>
+        <akn:heading>Immunity.</akn:heading>
+<akn:subsection eId="subsec_31-1902_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In the absence of fraud, actual malice, or bad faith, members of the NAIC, their duly authorized committees, subcommittees, and task forces, their delegates, NAIC employees, and all others, including District employees, charged with the responsibility of collecting, reviewing, analyzing, and disseminating the information developed from the filing of the annual statement convention blanks shall be acting as agents of the Mayor under the authority of this chapter, and shall not be subject to civil liability for libel, slander, or any other cause of action by virtue of their collection, review, and analysis or dissemination of the data and information collected from the filings required by this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1902_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this section is intended to abrogate or modify in any way any common law or statutory privilege or immunity enjoyed by any person prior to this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

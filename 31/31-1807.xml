@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1807"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1807/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1807">
+        <akn:num>31-1807</akn:num>
+        <akn:heading>Prohibited acts.</akn:heading>
+<akn:subsection eId="subsec_31-1807_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Cede retrocessions on behalf of the reinsurer, except that the reinsurance manager may cede facultative retrocessions pursuant to obligatory facultative agreements if the contract with the reinsurer contains reinsurance underwriting guidelines for retrocessions. These guidelines shall include a list of reinsurers with which the automatic agreements are in effect, and for each reinsurer, the coverages and amounts or percentages that may be reinsured, and commission schedules;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1807_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Commit the reinsurer to participate in reinsurance syndicates;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1807_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Appoint any broker without assuring that the broker is lawfully licensed to transact the type of reinsurance for which he or she is appointed;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1807_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Without prior approval of the reinsurer, pay or commit the reinsurer to pay a claim, net of retrocessions, that exceeds the lesser of an amount specified by the reinsurer or 1% of the reinsurer’s policyholder’s surplus as of December 31 of the last complete calendar year;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1807_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Collect any payment from a retrocessionaire, or commit the reinsurer to any claim settlement with a retrocessionaire, without prior approval of the reinsurer. If prior approval is given, a report must be promptly forwarded to the reinsurer;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1807_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Jointly employ an individual who is employed by the reinsurer unless the reinsurance manager is under common control with the reinsurer subject to Chapter 7 of this title; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1807_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Appoint a sub-reinsurance manager.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

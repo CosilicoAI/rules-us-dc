@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3705"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3705/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_3705">
+        <akn:num>47-3705</akn:num>
+        <akn:heading>Filing returns; payment of tax due.</akn:heading>
+<akn:subsection eId="subsec_47-3705_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3705_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the personal representative has obtained an extension of time for filing the federal estate tax return, the filing required by subsection (a) of this section shall be similarly extended until 30 days after the end of the time period granted in the extension of time for the federal estate tax return. Upon obtaining an extension of time for filing the federal estate tax return, the personal representative shall provide the Mayor with a copy of the extension of time.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3705_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The tax due under this chapter shall be paid by the personal representative to the Mayor no later than the date when the return covering this tax is required to be filed under subsection (a) or (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3705_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Whenever the Mayor determines that the tax due under this chapter has been overpaid, the estate shall be entitled to a refund of the amount of the overpayment. An application for the refund shall be made to the Mayor within 3 years from the date of payment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

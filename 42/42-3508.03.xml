@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3508.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3508.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3508_03">
+        <akn:num>42-3508.03</akn:num>
+        <akn:heading>Deferral or forgiveness of water and sewer fees for rehabilitated vacant rental housing.</akn:heading>
+<akn:subsection eId="subsec_42-3508_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Where vacant rental accommodations are being rehabilitated under this subchapter, the Mayor may defer or forgive any outstanding water and sewer fees owed by the property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3508_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A project under this section shall be subject to certification by the Mayor that it is in the best interest of the District, and is consistent with the District’s rental property needs in terms of its location, type, and variety of sizes of rental units.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

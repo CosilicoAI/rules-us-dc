@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-551"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-551/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_551">
+        <akn:num>2-551</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_2-551_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The terms “Mayor,” “Council,” “District,” “agency,” “rule,” “rulemaking,” “person,” “licensing”, “publish,” and “regulation” (except when used in the term “District of Columbia Municipal Regulation”) shall have the meaning provided in § 2-502.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-551_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The terms “Commissioner,” “District of Columbia Council,” “Chairman,” “act,” and “District of Columbia courts” shall have the meaning provided in § 1-203.01.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-551_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The term “Administrator” means the person appointed by the Mayor to supervise and control the District of Columbia Office of Documents in accordance with § 2-611.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-551_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The phrase “D.C. Official Code” means the Code of the District of Columbia laws as provided for in Chapter 3 of Act of July 30, 1947 (61 Stat. 636) and any continuations, supplements, or revisions thereof authorized by act, congressional resolution, or act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-551_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

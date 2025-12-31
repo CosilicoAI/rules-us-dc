@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4431"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4431/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4431">
+        <akn:num>16-4431</akn:num>
+        <akn:heading>Disclosure of arbitration costs.</akn:heading>
+<akn:subsection eId="subsec_16-4431_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A party drafting a consumer arbitration agreement shall clearly and conspicuously disclose in regard to any arbitration:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4431_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The costs specified in subsection (a) of this section need not include attorney fees, and, to the extent that, with regard to the disclosures required by subsection (a) of this section, a precise amount is not known, the disclosures may be based on reasonable, good-faith estimates. A party providing a reasonable, good-faith cost estimate shall not be liable in any manner for the fact that the actual cost of a particular arbitration varies from the estimate provided.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4431_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4431_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Where this section is violated, any person or entity, including the Attorney General of the District of Columbia, can request a court to enjoin the drafting party from violating this section as to agreements it enters into in the future. The drafting party shall be liable to the person or entity bringing such an action for that person or entity’s reasonable attorney fees and costs where the court issues an injunction or where, after the action is commenced, the drafting party voluntarily complies with the section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

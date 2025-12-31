@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1531.17"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1531.17/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1531_17">
+        <akn:num>7-1531.17</akn:num>
+        <akn:heading>Immunity.</akn:heading>
+<akn:subsection eId="subsec_7-1531_17_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person that acts in accordance with this subchapter or with the applicable anatomical gift law of another state, or attempts in good faith to do so, is not liable for the act in a civil action, criminal prosecution, or administrative proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1531_17_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Neither the person making an anatomical gift nor the donor’s estate is liable for any injury or damage that results from the making or use of the gift.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1531_17_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In determining whether an anatomical gift has been made, amended, or revoked under this subchapter, a person may rely upon representations of an individual listed in § 7-1531.08(a)(2), (3), (4), (5), (6), (7), or (8) relating to the individual’s relationship to the donor or prospective donor unless the person knows that the representation is untrue.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

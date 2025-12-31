@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_103">
+        <akn:num>20-103</akn:num>
+        <akn:heading>Notice.</akn:heading>
+<akn:subsection eId="subsec_20-103_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>First notice. — Unless personal service or notice by publication is expressly required by this title or by the Rules, the first notice required or permitted to be given to any person under this title shall be sufficient if deposited as registered or certified mail, postage prepaid, return receipt requested, addressed to the addressee at the address last known to the sender, with delivery restricted to the addressee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-103_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subsequent notice. — Any subsequent notice to such person in accordance with this title shall be sufficient if deposited as ordinary mail, postage prepaid, addressed either to the same address at which the first notice was received, as evidence by return receipt from the post office or, if the sender has received written notice from the addressee of a change of address, to the new address.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-103_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Failure of notice. — If no return receipt is received apparently signed by the addressee, and there is no proof of actual notice, no action taken in any proceeding under this title shall prejudice the rights of the person entitled to notice unless the sender verifies, to the satisfaction of the Court, that reasonable efforts to locate and warn the addressee of the pendency of the action have been made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-103_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notice to personal representative. — A personal representative or special administrator is not required to give self notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-103_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Notice for contingent interests. — If the interest of an heir or legatee is solely contingent on whether some other heir or legatee survives the decedent or some other event or period, any notice given before the contingent interest vests shall conclusively be deemed to have been given to the heir or legatee whose interest has been contingent.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

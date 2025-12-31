@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1916"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1916/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1916">
+        <akn:num>11-1916</akn:num>
+        <akn:heading>Grand jury; additional grand jury.</akn:heading>
+<akn:subsection eId="subsec_11-1916_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A grand jury serving in the District of Columbia may take cognizance of all matters brought before it regardless of whether an indictment is returnable in the Federal or District of Columbia courts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1916_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the United States Attorney for the District of Columbia certifies in writing to the chief judge that an additional grand jury is required, the judge may in his or her discretion order an additional grand jury summoned which shall be drawn at such time as he or she designates. Unless discharged by order of the judge, the additional grand jury shall serve until the end of the term for which it is drawn.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

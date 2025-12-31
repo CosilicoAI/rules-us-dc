@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1704.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1704.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1704_04">
+        <akn:num>4-1704.04</akn:num>
+        <akn:heading>LRAP; award of loans.</akn:heading>
+<akn:subsection eId="subsec_4-1704_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Administrator shall award loans to participants during the period of service obligation in accordance with § 4-1704.06. Subject to the availability of funds and within the limits established by subsection (c) of this section, participants shall be granted loans sufficient to repay all eligible debt.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1704_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the needs of all participants exceed the financing available in any fiscal year, preference shall be given to participants who:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1704_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Participants in the LRAP shall not receive loan repayment assistance under the LRAP in excess of $60,000, or in excess of $1,000 for a single month; except, that the Deputy Mayor may by rulemaking increase the award limits in this subsection to reflect changes in reasonable education expenses.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

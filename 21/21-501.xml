@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_501">
+        <akn:num>21-501</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_21-501_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Administrator” means a person in charge of a public or private hospital or his delegate;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>“Chief clinical officer” means the psychiatrist or qualified psychologist for the Department who is responsible for coordinating the treatment of persons receiving mental health supports or mental health services from the Department;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Chief of service” means the physician or qualified psychologist charged with overall responsibility for the professional program of care and treatment in the particular administrative unit of the hospital to which the patient has been admitted or such other member of the medical staff as the chief of service designates;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Commission” means the Commission on Mental Health;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_3A">
+      <akn:num>(3A)</akn:num>
+      <akn:content><akn:p>“Core services agency” means a community-based provider of mental health services and mental health supports that is certified by the Department and that acts as a clinical home for consumers of mental health services by providing a single point of access and accountability for diagnostic assessment, medication-somatic treatment, counseling and psychotherapy, community support services, and access to other needed services;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Court” means the Superior Court of the District of Columbia;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_4A">
+      <akn:num>(4A)</akn:num>
+      <akn:content><akn:p>“Department” means the Department of Mental Health;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_4A_i">
+      <akn:num>(4A-i)</akn:num>
+      <akn:content><akn:p>“Domestic partner” shall have the same meaning as provided in § 32-701(3).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_4B">
+      <akn:num>(4B)</akn:num>
+      <akn:content><akn:p>“Mental health services” means the services funded or regulated by the Department for the purpose of addressing mental illness or mental health problems;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_4C">
+      <akn:num>(4C)</akn:num>
+      <akn:content><akn:p>“Mental health supports” means the supports funded or regulated by the Department for the purpose of addressing mental illness or mental health problems;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Mental illness” means a psychosis or other disease which substantially impairs the mental health of a person;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Physician” means a person licensed under the laws of the District of Columbia to practice medicine, or a person who practices medicine in the employment of the Government of the United States or of the District of Columbia;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Private hospital” means a nongovernmental hospital or institution, or part thereof, in the District of Columbia, equipped and qualified to provide inpatient care and treatment for a person with a physical or mental illness;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_8A">
+      <akn:num>(8A)</akn:num>
+      <akn:content><akn:p>“Provider” means an individual or entity that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_8B">
+      <akn:num>(8B)</akn:num>
+      <akn:content><akn:p>“Psychiatrist” means a physician who is licensed to practice medicine in the District of Columbia, or is employed by the federal government, and has completed a residency in psychiatry;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Public hospital” means a hospital or institution, or part thereof, in the District of Columbia, owned and operated by the Government of the United States or of the District of Columbia, equipped and qualified to provide inpatient care and treatment for persons with from physical or mental illness;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_9A">
+      <akn:num>(9A)</akn:num>
+      <akn:content><akn:p>“Qualified physician” means a person licensed under the laws of the District of Columbia to practice medicine who is board-certified in emergency medicine and certified by the Department to examine persons and prepare admission certificates pursuant to section 21-522; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-501_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Qualified psychologist” means a person who is licensed pursuant to section 501 of the District of Columbia Health Occupations Revision Act of 1985, effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1205.01), and has (1) one year of formal training within a hospital setting; or (2) two years of supervised clinical experience in an organized health care setting, one of which must be post-doctoral.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

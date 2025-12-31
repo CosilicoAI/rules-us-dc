@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2002.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2002.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2002_06">
+        <akn:num>47-2002.06</akn:num>
+        <akn:heading>Verizon Center sales taxes.</akn:heading>
+<akn:subsection eId="subsec_47-2002_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2002_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2002_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer shall promulgate regulations as may be necessary or appropriate to carry out the provisions of this section, including regulations relating to the determination of District gross receipts and electronic filing and payment of sales taxes and fees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2002_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This section shall apply on the 1st day of the month that is at least 30 days (excluding Saturdays, Sundays, and holidays) after the issuance of the bonds authorized by the Bond Act [see §§ 2-1233 and 2-1234] and shall expire on the 1st day of the month after the date that the bonds authorized by the Bond Act have been paid in full [see § 2-1237].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

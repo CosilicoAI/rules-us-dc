@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2206.55"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2206.55/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2206_55">
+        <akn:num>50-2206.55</akn:num>
+        <akn:heading>Revocation of permit or privilege to drive.</akn:heading>
+<akn:subsection eId="subsec_50-2206_55_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor or his or her designated agent shall revoke the operator’s permit or the privilege to drive a motor vehicle in the District of Columbia, or revoke both such permit and privilege, of any person who is convicted or adjudicated a juvenile delinquent as a result of the commission in the District of any of the following offenses:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2206_55_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Whenever a judgment of conviction of any offense set forth in subsection (a) of this section has become final, the clerk of the court in which the judgment was entered shall certify such conviction to the Mayor or his or her designated agent, who shall thereupon take the action required by subsection (a) of this section. A judgment of conviction shall be deemed to have become final for the purposes of this subsection if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

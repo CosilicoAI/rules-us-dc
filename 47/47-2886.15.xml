@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2886.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2886.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2886_15">
+        <akn:num>47-2886.15</akn:num>
+        <akn:heading>Prosecutions; legal services to Board; investigations; injunctions.</akn:heading>
+<akn:subsection eId="subsec_47-2886_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All violations of laws relating to the practice of engineering in the District of Columbia shall be prosecuted in the Superior Court of the District of Columbia by the Attorney General for the District of Columbia. The Attorney General for the District of Columbia shall render such other legal services as may from time to time be required by the Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2886_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Chief of Police of the Metropolitan Police Department shall detail such members of his force as may be necessary to assist the Board in the investigations and prosecutions incident to the enforcement of this part.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2886_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Attorney General for the District of Columbia is hereby authorized to apply for relief by injunction to restrain a person from the commission of any act which is prohibited by this part. In such proceedings it shall not be necessary for the Attorney General for the District of Columbia to allege or prove either that an adequate remedy at law does not exist, or that substantial and irreparable damage would result, from the continued violation thereof.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/14-502"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/14-502/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_14_502">
+        <akn:num>14-502</akn:num>
+        <akn:heading>Records of deeds, instruments, and wills.</akn:heading>
+<akn:subsection eId="subsec_14-502_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>a copy of the record of a deed, or other written instrument not of a testamentary character, where the laws of the State, territory, commonwealth, possession or country where it was recorded require such a record, and that has been recorded agreeably to those laws; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_14-502_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>a copy of a will that the laws require to be admitted to probate and record by judicial decree, and of the decree of the court admitting the will to probate and record —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

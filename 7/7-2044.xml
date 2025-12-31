@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2044"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2044/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2044">
+        <akn:num>7-2044</akn:num>
+        <akn:heading>Hearings.</akn:heading>
+<akn:subsection eId="subsec_7-2044_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Exception as provided in § 7-2041, before the Mayor denies an application, suspends, revokes, or restricts a license, or imposes a civil fine, the Mayor shall give the person notice of the contemplated action and an opportunity for a hearing. The Mayor shall send all notices by certified mail. Notice of a scheduled hearing shall be sent by certified mail at least 20 days before the hearing date except when an expedited hearing has been requested. The Mayor may request all parties to participate in a settlement conference prior to a hearing and may enter into a negotiated settlement agreement or consent decree in lieu of a hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2044_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may delegate the authority to conduct a hearing and issue a final decision to an administrative law judge or an attorney examiner in accordance with rules issued pursuant to this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

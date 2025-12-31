@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2103.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2103.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_2103_04">
+        <akn:num>8-2103.04</akn:num>
+        <akn:heading>Corrective actions.</akn:heading>
+<akn:subsection eId="subsec_8-2103_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to the availability of appropriations, the Bureau may undertake actions to correct certain health hazards that have resulted from the harborage of rodents, including cleanup, abatement, and preventive measures, if the following conditions exist:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2103_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the District incurs costs for undertaking any corrective or enforcement action to abate rodent infestation, rodent harborage, or rodent food sources, all parties found to be liable by the Mayor shall be jointly and severally liable to the District government for the costs incurred by the District. In addition to any other enforcement action, the Mayor may assess any reasonable costs for correcting the condition and any related expenses as a tax against the property, carry the tax on the regular tax rolls, and collect the tax in the same manner as real estate taxes are collected.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

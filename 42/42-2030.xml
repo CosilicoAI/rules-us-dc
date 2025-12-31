@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2030"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2030/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2030">
+        <akn:num>42-2030</akn:num>
+        <akn:heading>Right to individual water meters; common water service authorized; billing and collection.</akn:heading>
+<akn:subsection eId="subsec_42-2030_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any provision of this subchapter, the developer or co-owners of any horizontal property regime shall have the right to have installed for each and every individual unit a separately metered water service. Such installations shall be subject to all laws and regulations then or thereafter in effect in the District of Columbia. Upon the establishment of such separate water services each unit owner and his successor in title and persons occupying such units shall be responsible for the payment to the District of Columbia of all water and sewer charges rendered and the Mayor of the District of Columbia is authorized to enforce any and all of the remedies for collection of such charges as are authorized by law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2030_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A common water service is hereby expressly authorized for any horizontal property regime and in the event that a horizontal property regime is provided with a common water service to the charges for sewer and water service shall be billed to the person designated by the co-owners, pursuant to the bylaws, to manage the regime. In the event that the entire sewer and water charges are not paid within the time specified by law for the payment of sewer and water charges, the Mayor shall be authorized to enforce payment in any manner authorized by law, including, but not limited to, the assessment of an additional charge for late payment, the shutting off of water to the regime and the enforcement of the liens for nonpayment of such charges against the individual units in conformity with the percentage of co-ownership established by § 42-2006.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-701"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-701/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_701">
+        <akn:num>19-701</akn:num>
+        <akn:heading>Escheatment generally.</akn:heading>
+<akn:subsection eId="subsec_19-701_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Where there is no surviving spouse, surviving domestic partner, or relations of the intestate within the fifth degree, reckoned by counting down from the common ancestor to the more remote, the surplus of real and personal property escheats to the District of Columbia to be used by the Mayor of the District of Columbia for the benefit of the poor. All cash, including real or personal property reduced to cash, received or obtained by the District pursuant to this section shall be transferred at regular intervals to the Department of Human Services for uses consistent with the emergency assistance grants described in § 4-753.01(e).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-701_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “domestic partner” shall have the same meaning as provided in § 32-701(3).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

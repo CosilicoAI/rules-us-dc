@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-704"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-704/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_704">
+        <akn:num>48-704</akn:num>
+        <akn:heading>Licensure of a drug manufacturer, distributor, or wholesaler.</akn:heading>
+<akn:subsection eId="subsec_48-704_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The name of the applicant and the address of the place of business for which the applicant seeks a license;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-704_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>If the applicant is a corporation, the name and address of each officer or director of the corporation and each stockholder who owns 10% or more of any one class of stock in the corporation or who owns 10% or more of the total stock of the corporation;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-704_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>If the applicant is a partnership or joint venture, the name and address of each partner or joint venturer. If a partner or joint venturer is a corporation, any information required pursuant to paragraphs (2) and (9) of this section shall be provided by the partner or joint venturer;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-704_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>A description of the activity for which the applicant seeks a license;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-704_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>A list of any drugs that the applicant proposes to manufacture, distribute, or wholesale in the District;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-704_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Proof of current approval by the United States Food and Drug Administration for registration of producers of drugs and medical devices pursuant to § 510 of the Federal Food, Drug and Cosmetic Act (“Food, Drug and Cosmetic Act”), approved June 25, 1938 (52 Stat. 1040; 21 U.S.C. 360);</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-704_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>If the applicant proposes to manufacture, distribute, or wholesale a controlled substance as defined in § 102 of the Drug Abuse Prevention and Control Act, approved October 27, 1970 (84 Stat. 1242; 21 U.S.C. 802), proof of current registration with the Mayor and the United States Drug Enforcement Administration;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-704_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>A valid certificate of occupancy; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-704_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>A certificate of good standing from the Mayor if the applicant is a corporation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

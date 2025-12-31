@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-105.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-105.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_105_09">
+        <akn:num>44-105.09</akn:num>
+        <akn:heading>Abuse, neglect, and exploitation.</akn:heading>
+<akn:subsection eId="subsec_44-105_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An ALR shall develop and implement policies and procedures prohibiting abuse, neglect, and exploitation of residents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-105_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-105_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An ALR shall post signs that set forth the reporting requirement of this section conspicuously in the employee and public areas of the ALR.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

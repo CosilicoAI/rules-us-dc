@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1303.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1303.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1303_03">
+        <akn:num>19-1303.03</akn:num>
+        <akn:heading>Representation by fiduciaries and parents.</akn:heading>
+<akn:subsection eId="subsec_19-1303_03_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>A conservator may represent and bind the estate that the conservator controls;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1303_03_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A guardian may represent and bind the ward if a conservator of the ward’s estate has not been appointed;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1303_03_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>An agent having authority to act with respect to the particular question or dispute may represent and bind the principal;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1303_03_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>A trustee may represent and bind the beneficiaries of the trust;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1303_03_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>A personal representative of a decedent’s estate may represent and bind persons interested in the estate;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1303_03_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>A parent may represent and bind the parent’s minor or unborn child if a conservator or guardian for the child has not been appointed;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1303_03_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>An individual may represent a grandchild or a more remote descendent, whether born or unborn, whom a parent may not represent and bind under paragraph (6) of this subsection; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1303_03_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>A qualified beneficiary may represent and bind any beneficiary who may succeed to the qualified beneficiary’s interest under the terms of the trust or pursuant to the exercise of a power of appointment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

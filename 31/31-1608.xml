@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1608"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1608/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1608">
+        <akn:num>31-1608</akn:num>
+        <akn:heading>Special enforcement provisions.</akn:heading>
+<akn:subsection eId="subsec_31-1608_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An insurer, or an agent, broker or employee of the insurer who violates any provision of this chapter or rule issued pursuant to this chapter shall be subject to the suspension or revocation of its license or certificate of authority to transact business in the District, as appropriate, in accordance with the provisions of §§ 31-2502.03, 31-2502.36 [repealed], 31-4305, and 31-4326 [repealed], or other applicable District laws.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1608_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person who violates the restrictions on disclosure in § 31-1606(d) shall be fined not less than $500 or more than $5,000 for each disclosure. In the case of an insurer or an agent, broker or employee of an insurer, the fine shall be in addition to the penalties provided in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1608_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any person injured as the result of a violation of this chapter, or a rule issued pursuant to this chapter, may bring an action for civil damages and other appropriate relief in the Superior Court of the District of Columbia without first pursuing administrative remedies.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

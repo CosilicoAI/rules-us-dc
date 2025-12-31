@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-213.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-213.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_213_01">
+        <akn:num>4-213.01</akn:num>
+        <akn:heading>Action for support.</akn:heading>
+<akn:subsection eId="subsec_4-213_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Responsible relatives for any applicant or recipient of public assistance shall be limited to spouse for spouse, and parent for a child under the age of 21, and their financial responsibility shall be based upon their ability to pay. Any such applicant or recipient of public assistance or person in need thereof, or the Mayor, may bring an action to require such financially responsible spouse or parent to provide such support, and the Court shall have the power to make orders requiring such spouse or parent to pay such eligible applicant or recipient of public assistance such sums or sums of money in such installments as the Court in its discretion may direct, and such orders may be enforced in the same manner as orders for alimony.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-213_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may, on behalf of the District, sue such spouse or parent for the amount of public assistance granted to such recipient under this chapter or under any act repealed by this chapter, or for so much thereof as such spouse or parent is reasonably able to pay.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-213_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All suits, actions, and court proceedings under this section shall be brought in the Family Division of the Superior Court of the District of Columbia, or in that Court division which may subsequently exercise the jurisdiction exercised by the Family Division on April 6, 1982. To the extent applicable, suits, actions, and proceedings brought pursuant to this section shall be governed by the provisions of Chapter 11 of Title 11 and Chapter 23 of Title 16.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

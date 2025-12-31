@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-603.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-603.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_603_02">
+        <akn:num>29-603.02</akn:num>
+        <akn:heading>Transfer of partnership property.</akn:heading>
+<akn:subsection eId="subsec_29-603_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Partnership property may be transferred as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-603_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A partnership may recover partnership property from a transferee only if it proves that execution of the instrument of initial transfer did not bind the partnership under § 29-603.01 and:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-603_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A partnership shall not recover partnership property from a subsequent transferee if the partnership would not have been entitled to recover the property, under subsection (b) of this section, from any earlier transferee of the property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-603_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a person holds all of the partners’ interests in the partnership, all of the partnership property shall vest in that person. The person may execute a document in the name of the partnership to evidence vesting of the property in that person and may file or record the document.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

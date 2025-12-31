@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3708"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3708/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_3708">
+        <akn:num>16-3708</akn:num>
+        <akn:heading>Motion for return of property; procedure; objection to sufficiency of security.</akn:heading>
+<akn:subsection eId="subsec_16-3708_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>On the taking possession of the goods and chattels by the marshal by virtue of a writ of replevin, the defendant may, on one day’s notice to the plaintiff or his attorney, move for a return of the property to his possession. Thereupon, the court may inquire into the circumstances and manner of the defendant’s obtaining possession of the property, and, if it seems just, may order the property to be returned to the possession of the defendant, to abide the final judgment in the action. The court may require the defendant to enter into an undertaking with surety or sureties, similar to that required of the plaintiff upon the commencement of the action. In such case, the court shall render judgment against the surety or sureties, as well as against the defendant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-3708_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When it appears that the possession of the property was forcibly or fraudulently obtained by the defendant, or that the possession, being first in the plaintiff, was procured or retained by the defendant without authority from the plaintiff, the court may refuse to order the return of the property to the possession of the defendant. The defendant may also, on similar notice, object to the sufficiency of the security in the undertaking of the plaintiff, and the court may require additional security, in default of which the property shall be returned to the defendant, but the action may proceed as if the property had not been taken.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

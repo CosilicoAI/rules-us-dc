@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4805.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4805.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4805_02">
+        <akn:num>28-4805.02</akn:num>
+        <akn:heading>Disbursements from principal.</akn:heading>
+<akn:subsection eId="subsec_28-4805_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A trustee shall make the following disbursements from principal:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4805_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a principal asset is encumbered with an obligation that requires income from that asset to be paid directly to the creditor, the trustee shall transfer from principal to income an amount equal to the income paid to the creditor in reduction of the principal balance of the obligation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

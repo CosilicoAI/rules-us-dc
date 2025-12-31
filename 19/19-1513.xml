@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1513"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1513/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1513">
+        <akn:num>19-1513</akn:num>
+        <akn:heading>When disclaimer barred or limited.</akn:heading>
+<akn:subsection eId="subsec_19-1513_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A disclaimer is barred by a written waiver of the right to disclaim.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1513_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A disclaimer of an interest in property is barred if any of the following events occur before the disclaimer becomes effective:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1513_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A disclaimer, in whole or part, of the future exercise of a power held in a fiduciary capacity is not barred by its previous exercise.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1513_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A disclaimer, in whole or part, of the future exercise of a power not held in a fiduciary capacity is not barred by its previous exercise unless the power is exercisable in favor of the disclaimant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1513_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A disclaimer is barred or limited if so provided by law other than this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1513_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A disclaimer of a power over property which is barred by this section is ineffective. A disclaimer of an interest in property which is barred by this section takes effect as a transfer of the interest disclaimed to the persons who would have taken the interest under this chapter had the disclaimer not been barred.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2201.32"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2201.32/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2201_32">
+        <akn:num>50-2201.32</akn:num>
+        <akn:heading>Speed limit assessment.</akn:heading>
+<akn:subsection eId="subsec_50-2201_32_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>By November 1, 2013, the Mayor shall complete a District-wide assessment that evaluates the speed limits on the District’s arterials and other streets. The report of the assessment shall include the criteria used for assessing the speed limits. Upon its completion, the assessment shall be posted to the District Department of Transportation’s website. The assessment shall identify a list of recommended speed limits for all District streets based on each of the following independent approaches:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2201_32_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>By January 1, 2014, the Mayor shall revise, through rulemaking, existing speed limits throughout the District, as appropriate. Notwithstanding this requirement, the Mayor shall not cause an anti-deficiency as determined by a fiscal impact statement obtained by the Mayor from the Chief Financial Officer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

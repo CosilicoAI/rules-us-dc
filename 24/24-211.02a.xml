@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-211.02a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-211.02a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_211_02a">
+        <akn:num>24-211.02a</akn:num>
+        <akn:heading>Processing and release of inmates from the Central Detention Facility.</akn:heading>
+<akn:subsection eId="subsec_24-211_02a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Department of Corrections shall process and release inmates from the Central Detention Facility as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_02a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Department of Corrections shall establish, in coordination with the courts and the United States Marshals Service, procedures to ensure that inmates who have been ordered released by the court are returned to the Central Detention Facility as promptly as possible.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_02a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For all inmates released between 10 p.m. and 7 a.m., the Department of Corrections shall ensure, before release, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_02a_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_02a_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

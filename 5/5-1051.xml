@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1051"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1051/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_1051">
+        <akn:num>5-1051</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_5-1051_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Chief” means the Chief of the Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1051_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Conditional retirement” means that a member has retired or resigned from the Department while under disciplinary investigation for serious misconduct.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1051_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Department” means the Fire and Emergency Medical Services Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1051_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Disciplinary investigation” means an official investigation by the Department, including the Office of Internal Affairs, of allegations of serious misconduct by a member of the Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1051_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Resign” means the voluntary separation of a member from the Department before the member’s pension rights have accrued and vested.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1051_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Retire” means the voluntary separation of a member from the Department after the member’s pension rights, retirement pay, or other benefits have accrued and vested as provided by federal or District of Columbia law or regulation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1051_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Serious misconduct” means any felony violation of federal, local, or District of Columbia law, making a false statement under oath, falsifying official records or reports, using unnecessary force, gross dereliction of duty, perpetrating a felony or assisting a person to escape investigation or prosecution, using illegal controlled substances, or other violations as determined by the Chief by general order.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

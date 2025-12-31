@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-731"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-731/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_731">
+        <akn:num>44-731</akn:num>
+        <akn:heading>Fees for clinical services.</akn:heading>
+<akn:subsection eId="subsec_44-731_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A fee, based on rates to be established by the Mayor, shall be charged to each person who is not indigent for all clinical services provided at District of Columbia health clinics. The Mayor’s authority to set such fees at D.C. General Hospital and for those services provided at the Ambulatory Health Care Administration community health clinics shall terminate on the date that the Board of Directors of the District of Columbia Health and Hospitals Public Benefit Corporation has its first meeting in accordance with § 44-1102.04(h) [repealed].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-731_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The following clinical health services shall be provided by the Mayor at District of Columbia health clinics, including the outpatient clinic at the D.C. General Hospital, through contractual arrangements with private agencies or providers, or through other alternative arrangements:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-731_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-731_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>At the beginning of each fiscal year, the Mayor shall cause to be published in the District of Columbia Register a list of those services, if any, rendered free of charge by city clinics and by the D.C. General Hospital in the public interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-731_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For purposes of this subchapter, the term “clinical services” shall include all health services rendered by the District in an ambulatory setting, including mental health, alcoholism, and drug treatment services.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

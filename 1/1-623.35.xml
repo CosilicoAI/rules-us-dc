@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.35"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.35/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_623_35">
+        <akn:num>1-623.35</akn:num>
+        <akn:heading>Lump-sum settlements.</akn:heading>
+<akn:subsection eId="subsec_1-623_35_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The claimant may enter into an agreement with the Mayor or his or her designee for a lump-sum settlement.  Such settlements must be in writing and signed by the Mayor or his or her designee and the claimant.  If the claimant is represented by counsel, the settlement documents must also be signed by the attorney for the claimant.  Such settlements are to be the complete and final dispositions of a case and once approved require no further action by the Mayor or his or her designee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_35_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In reaching an agreement for a lump-sum settlement pursuant to this section, the probability of the death of the beneficiary before the expiration of the period during which he or she is entitled to compensation shall be determined according to the most current available United States Life Tables, as developed by the United States Department of Health and Human Services, but the lump-sum payment to a surviving spouse or domestic partner of the deceased employee may not exceed 60 months’ compensation.  The probability of the occurrence of any other contingency affecting the amount or duration of compensation shall be disregarded.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_35_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>On remarriage or entry into a domestic partnership before reaching age 60, a surviving spouse or domestic partner entitled to compensation under § 1-623.33 shall be paid a lump-sum equal to 24 times the monthly compensation payment (excluding compensation on account of another individual) to which he or she was entitled immediately before the remarriage or entry into a domestic partnership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_35_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Lump-sum settlements may not be reviewed or modified under § 1-623.24 or § 1-623.28, except in case of fraud or misrepresentation by any party.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3507.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3507.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3507_05">
+        <akn:num>42-3507.05</akn:num>
+        <akn:heading>Tenant hot line.</akn:heading>
+<akn:subsection eId="subsec_42-3507_05_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Answering rent control procedural questions, and directing tenants toward possible courses of action in resolving problems;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3507_05_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Providing advice on housing regulation violations;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3507_05_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Explaining rent increases;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3507_05_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Providing guidance on emergency shelter;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3507_05_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Providing guidance on the Tenant Assistance Program;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3507_05_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Providing guidance in resolving problems involving water, heating, repairs, and other matters;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3507_05_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Providing advice on possible action in response to allegations of discrimination, harassment, or neglect by housing providers;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3507_05_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>Answering preliminary questions about remedies through the courts;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3507_05_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>Providing guidance when tenants are faced with eviction; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3507_05_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>Providing guidance on other tenant problems.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

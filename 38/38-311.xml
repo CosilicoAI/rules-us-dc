@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-311"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-311/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_311">
+        <akn:num>38-311</akn:num>
+        <akn:heading>Authorities to establish procedures if unable to confirm residency and other primary caregiver status at the attending school.</akn:heading>
+<akn:subsection eId="subsec_38-311_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board of Education and the chartering authorities shall establish such procedures as they deem appropriate to establish residency and other primary caregiver status in cases where persons seeking to enroll students in schools under their supervision are unable to prove residency or other primary caregiver status at the local school level under § 38-309 and 38-310. The established procedures shall be provided to the State Education Office by the aforementioned agencies no later than 30 calendar days before the first day of school.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-311_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The procedures established pursuant to subsection (a) of this section shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-311_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The procedures promulgated pursuant to this section shall be subject to approval by the State Education Office, which shall act to approve or disapprove the procedures within 30 calendar days of receipt of the proposed procedures.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

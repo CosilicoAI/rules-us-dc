@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-1004"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-1004/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_1004">
+        <akn:num>22-1004</akn:num>
+        <akn:heading>Arrests without warrant authorized; notice to owner.</akn:heading>
+<akn:subsection eId="subsec_22-1004_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person found violating the laws in relation to cruelty to animals may be arrested and held without a warrant, in the manner provided by § 44-1505 and the person making an arrest, with or without a warrant, shall use reasonable diligence to give notice thereof to the owner of animals found in the charge or custody of the person arrested, and shall properly care and provide for such animals until the owner thereof shall take charge of the same; provided, the owner shall take charge of the same within 20 days from the date of said notice. The person making the arrest or the humane officer taking possession of an animal shall have a lien on said animals for the expense of such care and provisions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-1004_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-1004_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

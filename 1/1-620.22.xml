@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-620.22"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-620.22/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_620_22">
+        <akn:num>1-620.22</akn:num>
+        <akn:heading>Employee testing.</akn:heading>
+<akn:subsection eId="subsec_1-620_22_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The following Department of Mental Health and Department of Human Services employees and prospective employees shall be tested for drug and alcohol use:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_22_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Only high potential risk employees shall be subject to random testing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_22_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All employees of the Department of Mental Health and Department of Human Services shall be given written notice, issued at least 30 days before the implementation of a drug and alcohol testing program, that the Department of Mental Health and Department of Human Services will implement a drug and alcohol testing program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_22_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No employee may be tested for drug or alcohol use prior to receiving the notice required by subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_22_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Conditions giving rise to probable cause must be observed and documented. Supervisors shall be trained in substance abuse recognition and shall receive a second opinion from another supervisor prior to making a probable cause referral.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_22_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>An employee shall be given one opportunity to seek treatment following a positive test result.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_22_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>The Department of Mental Health and the Department of Human Services shall procure the services of a contractor to perform the tests required by this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_22_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>All testing conducted by a vendor shall be implemented pursuant to this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

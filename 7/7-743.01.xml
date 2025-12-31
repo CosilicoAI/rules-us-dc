@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-743.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-743.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_743_01">
+        <akn:num>7-743.01</akn:num>
+        <akn:heading>Generally.</akn:heading>
+<akn:subsection eId="subsec_7-743_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Department of Health shall oversee the Health Occupation Advisory Committees established under this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-743_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All appointments to the Health Occupation Advisory Committees shall be made by the Director of the Department of Health.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-743_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Department of Health shall provide facilities and other administrative support for the Health Occupation Advisory Committees, as determined by the Director.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-743_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Health Occupation Advisory Committees shall review applications for licensure to practice upon request of the Board of Medicine. The Health Occupation Advisory Committees shall submit their respective recommendations to the Board of Medicine for action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-743_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For the purposes of this subchapter, the term:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

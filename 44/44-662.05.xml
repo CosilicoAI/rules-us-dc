@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-662.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-662.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_662_05">
+        <akn:num>44-662.05</akn:num>
+        <akn:heading>Multi-hospital systems, closure, merger, and new hospitals.</akn:heading>
+<akn:subsection eId="subsec_44-662_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a hospital system conducts, operates, or maintains more than one hospital licensed by the Department of Health, the hospital system shall pay the fee for each hospital separately.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-662_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-662_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this chapter, a hospital system or person who conducts, operates, or maintains a hospital, upon notice by the Department, shall pay the fee required under §  44-662.03 in accordance with subsection (a) of this section on the due date stated in the notice and on the regular installment due dates for the DFY occurring after the due date of the initial notice.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

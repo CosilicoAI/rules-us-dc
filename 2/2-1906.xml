@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1906"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1906/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1906">
+        <akn:num>2-1906</akn:num>
+        <akn:heading>Waiver.</akn:heading>
+<akn:subsection eId="subsec_2-1906_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A communication-impaired person entitled to the services of an interpreter under this chapter may waive the services of a qualified interpreter in whole or in part. The waiver must be made in writing, or orally on the record, by the communication-impaired person following consultation with that person’s attorney. If the person does not have an attorney, the waiver must be made in writing by the communication-impaired person in that person’s written language and the waiver must be approved in writing, by the appointing authority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1906_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A communication-impaired person who has waived an interpreter under this section may provide his or her own interpreter at his or her own expense, without regard to whether the interpreter is qualified under this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

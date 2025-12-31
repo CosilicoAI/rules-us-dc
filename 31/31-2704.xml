@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2704"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2704/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2704">
+        <akn:num>31-2704</akn:num>
+        <akn:heading>Filing requirements of individual companies; adjustment of rates; removal of discriminations.</akn:heading>
+<akn:subsection eId="subsec_31-2704_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>On and after July 1, 1948, every company shall file with the Commissioner, either directly or through a licensed rating organization of which it is a member or subscriber, except as to rates on inland marine risks which are not made by a rating organization and which by general custom of the business are not written according to manual rates or rating plans, all rates and rating plans, rules, and classifications which it uses or proposes to use in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2704_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Whenever it shall be made to appear to the Commissioner, either from his own information or from complaint of any party alleging to be aggrieved thereby, that there are reasonable grounds to believe that the rates on any or on all risks or classes of risks or kinds of insurance within the scope of this chapter are not in accordance with the terms of this chapter, it shall be his duty, and he shall have the full power and authority, to investigate the necessity for an adjustment of any or all such rates.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2704_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2704_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In determining the necessity for an adjustment of rates, the Commissioner shall be bound by all of the provisions of § 31-2703.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2704_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Commissioner is further empowered to investigate and to order removed at such time and in such manner as he shall specify any unfair discrimination existing between individual risks or classes of risks.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

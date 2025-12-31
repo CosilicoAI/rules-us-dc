@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-502"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-502/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_502">
+        <akn:num>6-502</akn:num>
+        <akn:heading>Review of subdivision and other new development proposals.</akn:heading>
+<akn:subsection eId="subsec_6-502_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>All such proposals are consistent with the need to minimize flood damage;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-502_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>All public utilities and facilities, such as sewer, gas, electrical, and water systems are located, elevated, and constructed to minimize or eliminate flood damage; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-502_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Adequate drainage is provided so as to reduce exposure to flood hazards.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

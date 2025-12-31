@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/37-108"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/37-108/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_37_108">
+        <akn:num>37-108</akn:num>
+        <akn:heading>Right of first refusal for existing sidewalk operations.</akn:heading>
+<akn:subsection eId="subsec_37-108_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any farmer or other market vendor of agricultural products who has operated one or more stalls on the sidewalk at any time within the last 2 years shall be offered a right of first refusal to continue such operations under substantially similar terms, except that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-108_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any non-food market vendor who, as of August 1, 1997, was a party to any arrangement to operate one or more stalls on the sidewalk shall have the right-of-first refusal to continue such operations under substantially similar terms, except that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

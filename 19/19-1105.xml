@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1105"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1105/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1105">
+        <akn:num>19-1105</akn:num>
+        <akn:heading>Transfer to custodial trustee by fiduciary or obligor; facility of payment.</akn:heading>
+<akn:subsection eId="subsec_19-1105_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless otherwise directed by an instrument designating a custodial trustee pursuant to section 19-1103, a person, including a fiduciary other than a custodial trustee, who holds property of or owes a debt to an incapacitated individual not having a conservator may make a transfer to an adult member of the beneficiary’s family or to a trust company as custodial trustee for the use and benefit of the incapacitated individual. If the value of the property or the debt exceeds $20,000, the transfer is not effective unless authorized by the court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1105_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A written acknowledgment of delivery, signed by a custodial trustee, is a sufficient receipt and discharge for property transferred to the custodial trustee pursuant to this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

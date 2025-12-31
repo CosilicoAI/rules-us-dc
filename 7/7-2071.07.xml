@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2071.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2071.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2071_07">
+        <akn:num>7-2071.07</akn:num>
+        <akn:heading>Access to records; confidentiality.</akn:heading>
+<akn:subsection eId="subsec_7-2071_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Health Care Ombudsman may review the records of a health benefits plan, the HealthCare Alliance, or other provider, pertaining to a consumer or the consumer’s medical records if the consumer or the consumer’s legal representative has provided written consent. The confidentiality of the records shall be maintained by the Ombudsman Program in accordance with all federal and state confidentiality and disclosure laws.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2071_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No information or records maintained by the program shall be disclosed to the public unless the consumer or the consumer’s legal representative has consented in writing to the release of the information or records.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2071_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each District agency shall provide cooperation, assistance, and data to the Health Care Ombudsman, as requested and upon reasonable notice, necessary to enable the Ombudsman Program to investigate a consumer’s complaint under applicable District or federal law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2071_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Department shall enter into a “business associate” agreement with the Ombudsman Program that gives the program access to information about the Medicaid eligibility status of consumers whom it serves and requires the program to safeguard that information pursuant to the Health Insurance Portability and Accountability Act Privacy Regulation (45 C.F.R. Parts 160 and 164).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-404.43"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-404.43/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_404_43">
+        <akn:num>29-404.43</akn:num>
+        <akn:heading>Private foundations.</akn:heading>
+<akn:subsection eId="subsec_29-404_43_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (b) of this section, a nonprofit corporation that is a private foundation as defined in section 509(a) of the Internal Revenue Code of 1986, approved December 30, 1969 (83 Stat. 496; 26 U.S.C. § 509(a)) (“Internal Revenue Code”), shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-404_43_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subsection (a) of this section shall not apply to a nonprofit corporation incorporated before January 1, 1970 that has been properly relieved from the requirements of section 508(e)(1) of the Internal Revenue Code by a timely judicial proceeding.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

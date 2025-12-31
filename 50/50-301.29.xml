@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-301.29"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-301.29/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_301_29">
+        <akn:num>50-301.29</akn:num>
+        <akn:heading>Public vehicles-for-hire, exclusive of taxicabs and limousines.</akn:heading>
+<akn:subsection eId="subsec_50-301_29_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commission may create and regulate classes of public vehicles-for-hire independent of taxicabs and limousines, including sedan-class vehicles. The Commission may issue rules and regulations governing the conduct of such vehicles, including the type of vehicles, number of inspections, licensing of drivers, advertising, safety of the driver and of the public, financial obligations, and any other provisions necessary; provided, that the rules and regulations are necessary for the safety of customers and drivers, consumer protection, or the collection of non-personal trip data information. Any rules and regulations shall protect personal privacy rights of customers and drivers and shall not result in the disclosure of confidential business information.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_29_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>The Commission shall not require a company that provides digital dispatch to sedan-class vehicles to produce to the Commission a list or inventory of vehicles or operators affiliated with the service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_29_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Sedan-class vehicles shall operate exclusively through digital dispatch as defined by and meeting the requirements of § 50-301.31 and shall not solicit or accept street hails. Sedan-class vehicles shall calculate fares on the basis of time and distance, except trips to airports and other point-to-point trips based on well-traveled routes or event-related trips such as sporting events, which may be charged on a flat-fee basis.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_29_b_1">
+      <akn:num>(b-1)</akn:num>
+      <akn:content><akn:p>A vehicle shall be permitted to operate as a sedan-class vehicle if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_29_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An owner of a licensed taxicab or limousine may convert a vehicle from a taxicab or limousine to a sedan-class vehicle; provided, that the vehicle complies with the requirements of sedan-class vehicles. Additionally, if a vehicle meets the requirements of more than one class, and the driver is properly licensed for each class, the vehicle may operate as either class of vehicle.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-301_29_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1305"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1305/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1305">
+        <akn:num>31-1305</akn:num>
+        <akn:heading>Cooperation of officers, owners, and employees.</akn:heading>
+<akn:subsection eId="subsec_31-1305_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any officer, manager, director, trustee, owner, employee, or agent of any insurer, or any other persons with authority over or in charge of any segment of the insurer’s affairs, shall cooperate with the Commissioner in any proceeding under this chapter or any investigation preliminary to the proceeding. For the purposes of this section, the term “person” shall include any person who exercises control directly or indirectly over activities of the insurer through any holding company or other affiliate of the insurer. The term “to cooperate” shall include, but shall not be limited to, the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1305_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person shall obstruct or interfere with the Commissioner in the conduct of any delinquency proceeding or any investigation preliminary or incidental thereto.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1305_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section shall not be construed to abridge otherwise existing legal rights, including the right to resist a petition for liquidation, other delinquency proceedings, or other orders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1305_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any person included within subsection (a) of this section who fails to cooperate with the Commissioner, or any person who obstructs or interferes with the Commissioner in the conduct of any delinquency proceeding or any investigation preliminary or incidental thereto, or who violates any order of the Commissioner issued validly under this chapter may:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

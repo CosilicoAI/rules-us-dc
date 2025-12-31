@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1401.25"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1401.25/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1401_25">
+        <akn:num>26-1401.25</akn:num>
+        <akn:heading>Deposits received while universal bank in conservatorship.</akn:heading>
+<akn:subsection eId="subsec_26-1401_25_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>While a universal bank is in conservatorship, the Commissioner may require the conservator to set aside and make available for withdrawal by depositors or investors and payment to other creditors, ratably, amounts that the Commissioner determines may be used safely and soundly for such withdrawals and payments.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1401_25_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commissioner may permit the conservator to receive deposits.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1401_25_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Deposits received while the universal bank is in conservatorship shall not be subject to any limitation on payment or withdrawal. The deposits, and any new assets acquired on account of the deposits, shall be segregated and held for the new deposits and shall not be used to liquidate any indebtedness of the universal bank:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1401_25_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Deposits received while the universal bank is in conservatorship shall be kept in cash, invested in direct obligations of the United States, or deposited in depository institutions designated by the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1401_25_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The requirements of subsections (c) and (d) of this section shall remain in effect for 15 days following the date that the conservator returns control of the universal bank to its board of directors, or for such shorter period as the Commissioner may designate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1401_25_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Before returning control of the universal bank to its board of directors, the conservator shall publish a notice in a paper of general circulation in the District of Columbia in a form approved by the Commissioner, stating the date on which the affairs of the universal bank will be returned to its board of directors and that the provisions of subsection (c) or (d) of this section will not be in effect after 15 days from that date. The conservator shall send a copy of the notice described in the previous sentence to each person who deposited money in the universal bank after the appointment of the conservator and before the time when control of the universal bank is returned to the board of directors.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

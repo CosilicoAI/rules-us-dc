@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-301.22"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-301.22/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_301_22">
+        <akn:num>29-301.22</akn:num>
+        <akn:heading>Householding.</akn:heading>
+<akn:subsection eId="subsec_29-301_22_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A corporation shall have delivered written notice or any other report or statement under this chapter, the articles of incorporation, or the bylaws to all shareholders who share a common address if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-301_22_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any consent under subsection (a)(3) of this section shall be revocable by any of such shareholders that delivers written notice of revocation to the corporation. If the written notice of revocation is delivered, the corporation shall begin providing individual notices, reports, or other statements to the revoking shareholder no later than 30 days after delivery of the written notice of revocation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-301_22_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any shareholder that fails to object by written notice to the corporation, within 60 days of written notice by the corporation of its intention to send single copies of notices, reports, or statements to shareholders that share a common address as permitted by subsection (a) of this section, shall be deemed to have consented to receiving such single copy at the common address.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

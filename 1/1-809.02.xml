@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-809.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-809.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_809_02">
+        <akn:num>1-809.02</akn:num>
+        <akn:heading>Replacement plan.</akn:heading>
+<akn:subsection eId="subsec_1-809_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Adoption by District Government. — Not later than one year after August 5, 1997, the District Government shall adopt a replacement plan for pension benefits for covered District employees, effective as of the freeze date.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-809_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Replacement plan imposed if District Government fails to adopt plan. — If the District Government fails to adopt a replacement plan within the period prescribed in subsection (a) of this section, the retirement program applicable to police, firefighters, and teachers under the laws of the District of Columbia in effect as of June 1, 1997 (except as otherwise amended by this act), including all requirements of the program regarding benefits, contributions, and cost-of-living adjustments, shall be treated as the replacement plan for purposes of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-809_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No payment of amounts paid as Federal benefit payment. — Notwithstanding any provision of the Reform Act or any other law, rule, or regulation, the District Government is not required to pay any amount under any replacement plan under this chapter if the amount is paid as a Federal benefit payment under this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

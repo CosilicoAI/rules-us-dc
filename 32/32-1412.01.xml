@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1412.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1412.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1412_01">
+        <akn:num>32-1412.01</akn:num>
+        <akn:heading>Youth Apprenticeship Advisory Committee.</akn:heading>
+<akn:subsection eId="subsec_32-1412_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established within the Department of Employment Services a Youth Apprenticeship Advisory Committee.  The members of the Committee shall be appointed by the Mayor in accordance with §  1-523.01(f).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1412_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Committee shall be composed of 11 members, as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1412_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1412_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Committee shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1412_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term &quot;Committee&quot; means the Youth Apprenticeship Advisory Committee established by this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

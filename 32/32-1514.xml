@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1514"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1514/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1514">
+        <akn:num>32-1514</akn:num>
+        <akn:heading>Time for filing claims.</akn:heading>
+<akn:subsection eId="subsec_32-1514_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this section, the right to compensation for disability or death under this chapter shall be barred unless a claim therefor is filed within 1 year after the injury or death. If payment of compensation has been made without an award on account of such injury or death, a claim may be filed within 1 year after the date of the last payment. Such claim shall be filed with the Mayor. The time for filing a claim shall not begin to run until the employee or beneficiary is aware, or by the exercise of reasonable diligence should have been aware, of the relationship between the injury or death and the employment. Once a claim has been filed with the Mayor, no further written claims are necessary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1514_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of subsection (a) of this section, failure to file a claim within the period prescribed in such subsection shall not be a bar to such right unless objection to such failure is made at the 1st hearing of such claim in which all parties in interest are given reasonable notice and opportunity to be heard.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1514_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a person who is entitled to compensation under this chapter is mentally incompetent or a minor, the provisions of subsection (a) of this section shall not be applicable so long as such person has no guardian or other authorized representative, but shall be applicable in the case of a person who is mentally incompetent or a minor from the date of appointment of such guardian or other representative, or in the case of a minor, if no guardian is appointed before he becomes of age, from the date he becomes of age.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1514_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Where recovery is denied to any person, in a suit brought at law to recover damages in respect of injury or death, on the ground that such a person was an employee and that the defendant was an employer within the meaning of this chapter and that such employer had secured compensation to such employee under this chapter, the limitation of time prescribed in subsection (a) of this section shall begin to run only from the date of termination of such suit.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

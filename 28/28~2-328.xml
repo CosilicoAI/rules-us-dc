@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-328"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-328/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_328">
+        <akn:num>28:2-328</akn:num>
+        <akn:heading>Sale by auction.</akn:heading>
+<akn:subsection eId="subsec_28:2-328_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>In a sale by auction if goods are put up in lots each lot is the subject of a separate sale.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-328_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A sale by auction is complete when the auctioneer so announces by the fall of the hammer or in other customary manner. Where a bid is made while the hammer is falling in acceptance of a prior bid the auctioneer may in his discretion reopen the bidding or declare the goods sold under the bid on which the hammer was falling.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-328_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Such a sale is with reserve unless the goods are in explicit terms put up without reserve. In an auction with reserve the auctioneer may withdraw the goods at any time until he announces completion of the sale. In an auction without reserve, after the auctioneer calls for bids on an article or lot, that article or lot cannot be withdrawn unless no bid is made within a reasonable time. In either case a bidder may retract his bid until the auctioneer’s announcement of completion of the sale, but a bidder’s retraction does not revive any previous bid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-328_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>If the auctioneer knowingly receives a bid on the seller’s behalf or the seller makes or procures such a bid, and notice has not been given that liberty for such bidding is reserved, the buyer may at his option avoid the sale or take the goods at the price of the last good faith bid prior to the completion of the sale. This subsection shall not apply to any bid at a forced sale.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

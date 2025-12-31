@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.06b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.06b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_623_06b">
+        <akn:num>1-623.06b</akn:num>
+        <akn:heading>Report of earnings.</akn:heading>
+<akn:subsection eId="subsec_1-623_06b_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall  require each employee receiving benefits under this subchapter to  report his or her earnings from employment or self-employment by affidavit,  including by providing copies of tax returns and authorizing the Mayor  to obtain copies of tax documents, within 30 days of a written request  for a report of earnings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_06b_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An employee shall  forfeit his or her right to workers’ compensation with respect  to any period for which the report of earnings was required if the  employee:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_06b_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Workers’  compensation forfeited under this section, if already paid, may be  recovered by a deduction from future workers’ compensation  payments owed to the employee or otherwise recovered under §  1-623.29.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_06b_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall  notify any employee receiving workers’ compensation benefits,  on forms prescribed by the Mayor, of that employee’s affirmative  duty to report earnings and shall specifically notify the employee  that a failure to report earnings may subject him or her to termination  from the program and civil or criminal liability. The notice by the  Mayor may be satisfied by printing the notice on the employee payee  statement portion of the indemnity check sent to the employee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_06b_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For the purposes  of this section, the term “earnings” includes any cash,  wages, or salary received from self-employment or from any other employment  aside from the employment in which the worker was injured. The term  “earnings” also includes commissions, bonuses, and the  cash value of all payments and benefits received in any form other  than cash. Commissions and bonuses earned before disability but received  during the time the employee is receiving workers’ compensation  benefits do not constitute earnings that must be reported.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

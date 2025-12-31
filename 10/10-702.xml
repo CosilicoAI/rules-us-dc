@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-702"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-702/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_702">
+        <akn:num>10-702</akn:num>
+        <akn:heading>Inspection of public buildings for lead paint — Required.</akn:heading>
+<akn:subsection eId="subsec_10-702_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor of the District of Columbia is hereby authorized and directed to inspect for the presence of lead paint in all public buildings and publicly-operated residences belonging to or in the possession of the District of Columbia and regularly frequented by children under 8 years of age. Where there are reasonable grounds to believe that a lead-based paint hazard exists to the health of such children, because of the presence of lead or lead compounds in the paint, plaster, or structural materials of any such interior surface, the Mayor shall cause an analysis to be made of the paint, plaster, or structural materials of the interior structure to determine the quantity of lead or lead compounds contained in the material. If the analysis reveals the presence of lead-based paint hazards, as identified by the United States Environmental Protection Agency in 40 C.F.R. § 745.65(a) through (c), the Mayor shall cause the lead condition to be repaired or controlled; provided, that the repairs and controls shall be of a sufficient quality to equal or exceed that required of private housing located in the District of Columbia pursuant to regulations promulgated with respect to housing in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-702_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When an inspection mandated by subsection (a) of this section indicates the necessity for a repair, the repair shall begin not later than 10 days after the inspection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-702_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All inspections mandated by subsection (a) of this section shall be commenced within 180 days after October 26, 1977.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

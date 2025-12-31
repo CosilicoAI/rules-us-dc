@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1606"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1606/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1606">
+        <akn:num>31-1606</akn:num>
+        <akn:heading>Informed consent requirements; restrictions on disclosure.</akn:heading>
+<akn:subsection eId="subsec_31-1606_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No insurer shall request or require a proposed insured to take the testing protocol certified pursuant to § 31-1604 without first obtaining the signature of the proposed insured or the legal guardian of the named insured on a standard informed consent statement prepared and furnished by the Commissioner of Insurance and Securities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1606_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An insurer shall provide information about the availability of counseling at public and private health facilities to each proposed insured who the insurer requests or requires to take the testing protocol.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1606_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Before any proposed insured or his or her legal guardian is requested to sign an informed consent statement, the insurer shall provide the proposed insured, or his or her legal guardian an explanation of the nature of AIDS, ARC, and the HIV infection, an explanation of the testing protocol, including its purpose, potential uses, limitations, and an updated percentage of false positives, and notice of the right of the proposed insured to appeal to the Commissioner of Insurance and Securities, an explanation of the meaning of test results, and a description of the disclosure restrictions established by this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1606_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Once an insurer has requested a signature on an informed consent statement pursuant to subsection (a) of this section, and has complied with subsections (b) and (c) of this section, the proposed insured or legal guardian of the proposed insured may wait 14 days before signing the informed consent statement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-321.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-321.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_321_01">
+        <akn:num>1-321.01</akn:num>
+        <akn:heading>Mayor’s authority to determine honorariums; deposit of funds in Treasury; receipt of honorarium without prejudice to retirement compensation; “honorarium” defined.</akn:heading>
+<akn:subsection eId="subsec_1-321_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions set forth in the sections mentioned in § 1-321.02, the Mayor of the District of Columbia is authorized and empowered to determine from time to time the honorariums to be paid to the members of the boards, commissions, and committees appointed and established by authority of such sections, such authority to include the power to determine the total amount per annum of any such honorarium.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-321_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The funds derived from fees and charges for examinations, licenses, certificates, registrations, or for any other service rendered by any such board, commission, or committee, remaining after the payment, or provision made for payment of all obligations of the respective boards, commissions, and committees outstanding as of June 30, 1954, shall be deposited in the Treasury to the credit of the District of Columbia and on and after July 14, 1956, all moneys collected for such fees and charges shall be paid into the Treasury to the credit of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-321_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding the limitation of any other law or regulation to the contrary, any person heretofore or hereafter appointed as a member of any such board, commission or committee may receive his honorarium as well as any retired pay, retirement compensation, or annuity to which such member may be entitled on account of previous service rendered to the United States or District of Columbia government.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-321_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>As used in §§ 1-321.01 to 1-321.06, “honorarium” means the fee, per diem, compensation, or any amount paid to any member of any such board, commission, or committee for service as such member. Payments made under §§ 1-321.01 to 1-321.06 shall be governed by the provisions of § 1-611.08.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

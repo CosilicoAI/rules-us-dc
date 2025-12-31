@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4451"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4451/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4451">
+        <akn:num>47-4451</akn:num>
+        <akn:heading>Jeopardy and termination.</akn:heading>
+<akn:subsection eId="subsec_47-4451_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the Mayor believes that the assessment or collection of a deficiency of a tax imposed under this title (except real property taxes) will be jeopardized by delay, or if the Mayor finds that a taxpayer designs quickly to depart from the United States or to remove his property therefrom, to conceal himself or his property therein, or to perform any other act (including, in the case of a corporation, distributing all or a part of its assets in liquidation or otherwise) tending to prejudice or to render wholly or partially ineffectual proceedings to collect a tax, the Mayor may immediately make a determination of tax due and shall, notwithstanding any other law, immediately assess the tax, together with all interest and additions to the tax, and notice and demand shall be made for the payment thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4451_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a jeopardy assessment has been made, the taxpayer shall have the right to file, within 5 business days, a protest of the assessment of tax, the seizure of property, or both. The protest shall be governed by the procedures set forth in § 47-4312, except that the 30-day filing deadline established in § 47-4312(a) shall not apply. If a timely protest is filed, the property seized for the collection of the tax shall not be sold until completion of the proceedings in the Office of Administrative Hearings.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

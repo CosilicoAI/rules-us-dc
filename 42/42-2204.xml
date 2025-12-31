@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2204"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2204/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2204">
+        <akn:num>42-2204</akn:num>
+        <akn:heading>Eligibility for loans.</akn:heading>
+<akn:subsection eId="subsec_42-2204_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An applicant is eligible for a loan if he or she is a senior citizen homeowner, is a resident of the District, and has resided in his or her principal place of residence for at least 3 years preceding the date of the application for assistance under this chapter. Lower income applicants shall be given priority consideration by the Mayor with respect to the issuance of loans.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2204_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>To determine the eligibility of an applicant, the Mayor shall develop an application form.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2204_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In order to apply for a loan under this chapter, an applicant shall complete the application form and return it to the Mayor at the time and in the manner in which the Mayor shall prescribe.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2204_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor shall verify the contents of the application form and determine whether the applicant meets the requirements for age, residency, and principal place of residence.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-951.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-951.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_951_01">
+        <akn:num>44-951.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_44-951_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Board” means the Board of Directors of the Not-for-Profit Hospital Corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-951_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Corporation” means the Not-for-Profit Hospital Corporation established by § 44-951.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-951_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Fund” means the Not-for-Profit Hospital Corporation Fund established by § 44-951.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-951_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Hospital” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-951_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Site” means the land comprised of approximately 17 acres at 1310 and 1350 Southern Avenue, S.E.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

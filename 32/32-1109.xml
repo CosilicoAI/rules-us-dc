@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1109"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1109/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1109">
+        <akn:num>32-1109</akn:num>
+        <akn:heading>Emergency temporary rules.</akn:heading>
+<akn:subsection eId="subsec_32-1109_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board may adopt an emergency temporary rule pursuant to § 2-505(c) whenever an emergency temporary rule is issued pursuant to the Federal Act or whenever the Board determines:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1109_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When an emergency temporary rule promulgated under the Federal Act has been adopted as an emergency temporary rule by the Board, the rule shall be effective until both the Secretary and the Board have either withdrawn the emergency temporary rule or promulgated a permanent rule superceding the temporary rule, but in no instance shall the rule remain in effect for longer than 120 calendar days.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1109_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When the Board has provided for an emergency temporary rule not promulgated under the Federal Act, the rule shall be effective until superceded by a rule promulgated in accordance with § 32-1108(b) or until a determination is made that no rule shall be promulgated, but in no instance shall the rule remain in effect for longer than 120 calendar days.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1109_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notice shall not be a prerequisite to the enforcement of an emergency temporary rule by the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

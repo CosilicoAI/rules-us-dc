@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-216"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-216/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_216">
+        <akn:num>6-216</akn:num>
+        <akn:heading>Authority employees’ benefits.</akn:heading>
+<akn:subsection eId="subsec_6-216_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Authority is authorized to establish and administer its own employment benefits programs for individuals who become employed by the Authority other than individuals who make an election under subsection (b) of this section, except that any newly-established benefits for bargaining unit employees must be at least equal to those currently set out in subchapters XXI, XXII, and XXVI of Chapter 6 of Title 1. With regard to employees who are covered by a collective bargaining agreement, no such benefit programs shall be made available or required of such employees except by agreement between the collective bargaining representative and the Authority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-216_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Authority employees shall continue to be covered under the health, life, and retirement benefit plans of the District government pursuant to subchapters XXI, XXII, and XXVI of Chapter 6 of Title 1 until the Authority adopts its own employment benefit programs. Authority employees hired before the Authority establishes its own health, life, or retirement benefits plans, who remain continuously employed by the Authority, may elect to be treated for purposes of District benefit plans as if the employee remained continuously in the employment of the District government with all rights, benefits, and privileges that have accrued to, and vested in, the employees. Employees hired by the Authority after the date that the Authority establishes its own health, life, or retirement plans may not elect to continue coverage under the health, life, or retirement benefit plans of the District government.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-216_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an employee makes an election under subsection (b) of this section, the Authority shall make the same deductions from pay and the same employer contributions for the corresponding programs as would be made if the Authority were a District agency that is subject to subchapters XXI, XXII, and XXVI of Chapter 6 of Title 1.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-216_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For a negotiated fee, the Mayor shall administer the benefits program and allow Authority employees to participate in the District’s benefits plans and programs, which fee shall be on terms reasonable to both the District and the Authority. The Mayor shall provide assistance to the Authority to meet the requirements of subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

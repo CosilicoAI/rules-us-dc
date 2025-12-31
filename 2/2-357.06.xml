@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-357.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-357.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_357_06">
+        <akn:num>2-357.06</akn:num>
+        <akn:heading>Fiscal responsibility.</akn:heading>
+<akn:subsection eId="subsec_2-357_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every contract modification, change order, or contract price adjustment under a contract with the District shall be subject to prior written certification by the fiscal officer of the entity responsible for funding the project or the contract, or other official responsible for monitoring and reporting upon the status of the costs of the total project budget or contract budget, as to the effect of the contract modification, change order, or adjustment in contract price on the total project budget or the total contract budget.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-357_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the certification of the fiscal officer or other responsible official discloses a resulting increase in the total project budget or the total contract budget, the contracting officer shall not execute or make the contract modification, change order, or adjustment in contract price unless:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

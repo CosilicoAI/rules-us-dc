@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-505"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-505/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_505">
+        <akn:num>28:3-505</akn:num>
+        <akn:heading>Evidence of dishonor.</akn:heading>
+<akn:subsection eId="subsec_28:3-505_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The following are admissible as evidence and create a presumption of dishonor and of any notice of dishonor stated:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-505_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A protest is a certificate of dishonor made by a United States consul or vice consul, or a notary public or other person authorized to administer oaths by the law of the place where dishonor occurs. It may be made upon information satisfactory to that person. The protest must identify the instrument and certify either that presentment has been made or, if not made, the reason why it was not made, and that the instrument has been dishonored by nonacceptance or nonpayment. The protest may also certify that notice of dishonor has been given to some or all parties.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

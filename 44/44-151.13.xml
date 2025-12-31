@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-151.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-151.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_151_13">
+        <akn:num>44-151.13</akn:num>
+        <akn:heading>Examinations; financial statements.</akn:heading>
+<akn:subsection eId="subsec_44-151_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each provider shall keep and make available to the Commissioner at the provider’s place of business any books and records that the Commissioner, by rule or regulation, requires to enable the Commissioner to enforce this chapter and any rule or regulation adopted under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each provider shall retain for at least 3 years after final payment is made by a resident copies of any contract or agreement, records of payments received by the provider from a resident or a person on behalf of a resident, and such other papers or records relating to the loan as may be required by rule or regulation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>On approval of the Commissioner, a provider shall not be required to maintain at the provider’s place of business any books and records otherwise required by the Commissioner under subsection (a) of this section if the licensee:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_13_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Commissioner or his designee may, in the Commissioner’s discretion, visit a provider or continuing care facility offering continuing care in the District to examine its books and records. The provider examined shall pay expenses incurred in conducting examinations under this section. These expenses may include the salary of the government employee based on the time spent conducting or supervising the examination, the fees of a third-party auditor, and reasonable and necessary out-of-pocket expenses incurred by the Department or third-party auditor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

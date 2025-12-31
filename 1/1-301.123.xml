@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.123"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.123/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_301_123">
+        <akn:num>1-301.123</akn:num>
+        <akn:heading>Authority to enter into agreement.</akn:heading>
+<akn:subsection eId="subsec_1-301_123_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer may enter into the Agreement with one or more states to simplify and modernize sales and use tax administration in order to substantially reduce the burden of tax compliance for all sellers and for all types of commerce. In furtherance of the Agreement, the Chief Financial Officer may act jointly with other states that are members of the Agreement to establish standards for certification of a Certified Service Provider and Certified Automated System and establish performance standards for multistate sellers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_123_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer may take other actions reasonably required to implement the provisions set forth in this part. Other actions authorized by this section include the adoption of rules and regulations and the joint procurement, with other member states, of goods and services in furtherance of the cooperative agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_123_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer, or his or her designee, may represent the District of Columbia before the other states that are signatories to the Agreement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

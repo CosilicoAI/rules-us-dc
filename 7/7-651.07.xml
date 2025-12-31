@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-651.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-651.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_651_07">
+        <akn:num>7-651.07</akn:num>
+        <akn:heading>Decision to resuscitate.</akn:heading>
+<akn:subsection eId="subsec_7-651_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If EMS personnel encounter a patient who is in cardiac or respiratory arrest and the patient is wearing a comfort care bracelet or necklace that is intact or has not been defaced, but the patient, or the patient’s authorized decision-maker or surrogate, orally requests that EMS personnel resuscitate the patient, EMS personnel shall resuscitate and the patient, or the patient’s authorized decision-maker or surrogate, shall remove the comfort care bracelet or necklace from the patient to ensure that the revocation of the comfort care order is honored at the hospital.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-651_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If EMS personnel encounter a patient who is in cardiac or respiratory arrest and the patient is wearing a comfort care bracelet or necklace that is not intact or has been defaced, EMS personnel shall resuscitate. If there is a reason to question whether the comfort care bracelet or necklace is intact or has been defaced, EMS personnel shall resuscitate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.341"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.341/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_341">
+        <akn:num>1-325.341</akn:num>
+        <akn:heading>BID Parking Abatement Fund</akn:heading>
+<akn:subsection eId="subsec_1-325_341_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a special fund the BID Parking Abatement Fund (“Fund”), which shall be administered by the Mayor in accordance with subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_341_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An allocation in the amount of $120,000 from the Fiscal Year 2016 approved budget and financial plan shall be deposited in the Fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_341_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Money in the Fund shall be used to abate parking fees for a Business Improvement District (“BID”), as that term is defined in § 2-1215.02(7), that applies and is approved to reserve a public parking space within the BID for use by pedestrians; provided, that no more than 70% of the money available in a fiscal year shall be distributed to a single BID.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_341_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

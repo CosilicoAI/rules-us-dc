@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3103">
+        <akn:num>42-3103</akn:num>
+        <akn:heading>Complaint.</akn:heading>
+<akn:subsection eId="subsec_42-3103_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The complaint or an affidavit attached thereto shall describe the adverse impact of the drug-, firearm-, or prostitution-related nuisance upon the surrounding community.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3103_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The complaint shall contain a description of attempts made by the plaintiff to notify the owner of the property on which the drug-, firearm-, or prostitution-related nuisance is situated about the drug-, firearm-, or prostitution-related nuisance and the resulting adverse impact. No complaint shall be filed unless a reasonable attempt at notice to the owner of the property on which the alleged drug-, firearm-, or prostitution-related nuisance is situated is made no later than 14 days prior to the filing of the complaint. This notice requirement may be satisfied either by a mailing to the last known mailing address of the owner or by posting a conspicuous notice at the property stating the general nature of the drug-, firearm-, or prostitution-related nuisance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3103_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When an action is brought pursuant to this chapter by a community-based organization, the complaint shall be supported by at least 1 person residing, either as a tenant or otherwise, or owning real property within 3000 feet of the property alleged to be a drug-, firearm-, or prostitution-related nuisance. Said support shall be in the form of an affidavit testifying to the fact that the affiant’s residence is within 3000 feet of the alleged drug-, firearm-, or prostitution-related nuisance, that the affiant has witnessed the activities alleged to constitute a drug-, firearm-, or prostitution-related nuisance, and that the affiant is aware of an adverse impact on the community stemming from the alleged drug-, firearm-, or prostitution-related nuisance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3103_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A copy of the summons and complaint shall be served upon the defendant at least 5 business days prior to the first hearing on the action. Service shall be made in accordance with the Rules of the Superior Court of the District of Columbia or by posting a conspicuous notice at the property indicating the nature of the proceedings, a copy of the summons, and the time and place of the hearing. If service is made by posting at the property, a copy of the summons and complaint shall be sent, by first class mail, postage prepaid, to the last known mailing address, if any, of the defendant. If the defendant is not the owner of the property, a copy of the summons and complaint shall be mailed to the last known mailing address of the owner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

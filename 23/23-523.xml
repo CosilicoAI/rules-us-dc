@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-523"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-523/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_523">
+        <akn:num>23-523</akn:num>
+        <akn:heading>Time of execution of search warrants.</akn:heading>
+<akn:subsection eId="subsec_23-523_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A search warrant shall not be executed more than ten days after the date of issuance and shall be returned to the court after its execution or expiration in accordance with section 23-521(f)(6).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-523_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A search warrant may be executed on any day of the week and, in the absence of express authorization in the warrant pursuant to section 23-521(f)(5), shall be executed only during the hours of daylight. For the purposes of this subsection, the term “hours of daylight” means between 6:00 a.m. and 9:00 p.m.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

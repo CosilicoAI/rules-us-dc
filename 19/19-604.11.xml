@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-604.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-604.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_604_11">
+        <akn:num>19-604.11</akn:num>
+        <akn:heading>Revocation by instrument authorized; revocation by act not permitted.</akn:heading>
+<akn:subsection eId="subsec_19-604_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to subsection (b) of this section, an instrument is effective to revoke a recorded transfer on death deed, or any part of it, only if the instrument:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-604_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a transfer on death deed is made by more than one transferor:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-604_11_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After a transfer on death deed is recorded, it may not be revoked by a revocatory act on the deed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-604_11_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This section does not limit the effect of an inter vivos transfer of the property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

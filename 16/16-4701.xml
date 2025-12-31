@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4701"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4701/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4701">
+        <akn:num>16-4701</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_16-4701_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Newspapers;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4701_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Magazines;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4701_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Journals;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4701_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Press associations;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4701_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>News agencies;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4701_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Wire services;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4701_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Radio;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4701_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>Television; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4701_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>Any printed, photographic, mechanical, or electronic means of disseminating news and information to the public.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

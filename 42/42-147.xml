@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-147"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-147/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_147">
+        <akn:num>42-147</akn:num>
+        <akn:heading>Certificate of notarial acts.</akn:heading>
+<akn:subsection eId="subsec_42-147_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A notarial act shall be evidenced by a certificate signed and dated by a notarial officer. The certificate shall include identification of the jurisdiction in which the notarial act is performed and the title of the office of the notarial officer and shall include the official stamp or seal of office. If the officer is a notary public, the certificate shall indicate the expiration date, if any, of the commission of office. Omission of the expiration date information may subsequently be corrected. If the officer is a commissioned officer on active duty in the military service of the United States, as provided in 10 U.S.C. § 936, the certificate shall include the officer’s rank and title of office.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-147_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A certificate of a notarial act shall be sufficient if the certificate meets the requirements of subsection (a) of this section and:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-147_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>By executing a certificate of a notarial act, the notarial officer certifies that the officer has made the determinations required by § 42-142.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

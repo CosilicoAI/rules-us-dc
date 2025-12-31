@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-723"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-723/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_723">
+        <akn:num>20-723</akn:num>
+        <akn:heading>Subsequent account; supervised administration.</akn:heading>
+<akn:subsection eId="subsec_20-723_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>the value of any assets in the possession or control of the personal representative as shown in the previous account;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-723_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>the value of assets as shown in any inventory made since the previous account;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-723_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>all receipts of the estate since the date of the previous account;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-723_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>each purchase, sale, lease, transfer, compromise, settlement, disbursement and distribution of assets since the previous account, a description of each such transaction, and a statement of the amount by which it affects the amounts referred to in paragraphs (a), (b), and (c); and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-723_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>the value of any remaining assets in the possession or control of the personal representative.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

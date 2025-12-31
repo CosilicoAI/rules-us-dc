@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-151.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-151.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_151_05">
+        <akn:num>44-151.05</akn:num>
+        <akn:heading>Disclosure statement.</akn:heading>
+<akn:subsection eId="subsec_44-151_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>At least 30 days prior to the execution of a contract to provide continuing care, or 30 days prior to the transfer of any money or other property to a provider by or on behalf of a prospective resident, whichever occurs first, the provider shall deliver a current disclosure statement to the person with whom the contract is to be entered into. This 30-day period may be waived at the sole request of the prospective resident. The text of the disclosure statement shall contain at least:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The cover page of the disclosure statement shall state, in a prominent location and in boldface type, the date of the disclosure statement, the last date through which that disclosure statement may be delivered if not earlier revised, and that the delivery of the disclosure statement to a contracting party before the execution of a contract for the provision of continuing care is required by this chapter but that the disclosure statement has not been reviewed or approved by any government agency or representative to ensure accuracy or completeness of the information set forth.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A copy of the standard form of contract for continuing care used by the provider shall be attached to each disclosure statement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Rules adopted under this chapter may prescribe a standardized format for the required disclosure statement. The Mayor shall, when promulgating rules for standardized forms under this chapter, attempt to seek clarity and require that disclosure statements be written in language reasonably designed to be understandable to potential residents.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

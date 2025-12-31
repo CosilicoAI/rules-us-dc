@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-219.34"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-219.34/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_219_34">
+        <akn:num>2-219.34</akn:num>
+        <akn:heading>Functions and duties.</akn:heading>
+<akn:subsection eId="subsec_2-219_34_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Office shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-219_34_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Department of Employment Services shall meet with the Council’s Committee on Workforce Development and Government Operations and the members of the affected business community. Based on such meetings, the Department of Employment Services shall prepare recommendations regarding additional proposed functions and duties of the Office and shall submit the recommendations to the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-219_34_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Based upon the recommendations submitted to the Mayor pursuant to subsection (b) of this section, on or before October 31, 2008, the Mayor shall submit an act to the Council:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

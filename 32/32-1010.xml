@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1010"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1010/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1010">
+        <akn:num>32-1010</akn:num>
+        <akn:heading>Violations.</akn:heading>
+<akn:subsection eId="subsec_32-1010_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It shall be unlawful for any employer to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1010_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An employee complaint or other communication need not make explicit reference to any section or provision of this subchapter to trigger the protections of this section. The employer, or any person acting on behalf of the employer, taking adverse action against an employee within 90 days of an employee or other person’s engagement in the activities set forth in subsection (a) of this section shall raise a presumption that the action is retaliation. The presumption may be rebutted by clear and convincing evidence that the action was taken for other permissible reasons.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

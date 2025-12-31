@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2838"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2838/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2838">
+        <akn:num>47-2838</akn:num>
+        <akn:heading>Dealers in dangerous weapons.</akn:heading>
+<akn:subsection eId="subsec_47-2838_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Dealers in dangerous or deadly weapons shall pay a license tax of $300 per annum. No license shall issue hereunder without the approval of the Chief of Police, and the Council of the District of Columbia is authorized and empowered to make and promulgate regulations for the conduct of the business of persons licensed hereunder, including the power to require a record to be kept of all sales of deadly or dangerous weapons, to prescribe a form therefor, and to require reports of all such sales to the Chief of Police at such time as the Council may deem advisable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2838_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any license issued pursuant to this section shall be issued by the Metropolitan Police Department as a Public Safety endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

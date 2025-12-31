@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_501">
+        <akn:num>28:3-501</akn:num>
+        <akn:heading>Presentment.</akn:heading>
+<akn:subsection eId="subsec_28:3-501_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>“Presentment” means a demand made by or on behalf of a person entitled to enforce an instrument (i) to pay the instrument made to the drawee or a party obliged to pay the instrument or, in the case of a note or accepted draft payable at a bank, to the bank, or (ii) to accept a draft made to the drawee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-501_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The following rules are subject to Article 4, agreement of the parties, and clearing-house rules and the like:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

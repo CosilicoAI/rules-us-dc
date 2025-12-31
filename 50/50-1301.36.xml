@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1301.36"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1301.36/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1301_36">
+        <akn:num>50-1301.36</akn:num>
+        <akn:heading>“Judgment” and “state” defined.</akn:heading>
+<akn:subsection eId="subsec_50-1301_36_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The term “judgment” shall mean any judgment which shall have become final by expiration without appeal of the time within which an appeal might have been perfected, or by final affirmation on appeal, rendered by a court of competent jurisdiction of any state, the District of Columbia, or of the United States, upon a cause of action arising out of the ownership, maintenance, or use of any vehicle of a type subject to registration under the laws of the District of Columbia, for damages, including damages for care and loss of services, because of bodily injury to or death of any person, or for damages because of injury to or destruction of property including the loss of use thereof, or upon a cause of action on an agreement of settlement for such damages.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1301_36_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The term “state” shall mean any state, territory, or possession of the United States, or any province of the Dominion of Canada.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

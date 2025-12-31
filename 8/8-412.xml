@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-412"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-412/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_412">
+        <akn:num>8-412</akn:num>
+        <akn:heading>Enforcement.</akn:heading>
+<akn:subsection eId="subsec_8-412_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purpose of carrying out the provisions of this chapter, the Mayor may enter upon any public or private land in a reasonable and lawful manner during normal business hours for purposes of sampling, inspection, and observation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-412_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If denied access to any land, the Mayor may apply to a court of competent jurisdiction for a search warrant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-412_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor, or any person, may bring an action in the Superior Court of the District of Columbia to enjoin the violation or threatened violation of any provision of this chapter or of any rules or regulation promulgated thereto.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

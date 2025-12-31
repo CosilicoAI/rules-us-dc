@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-209.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-209.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_209_02">
+        <akn:num>2-209.02</akn:num>
+        <akn:heading>Reciprocal police mutual aid agreements — Required provisions.</akn:heading>
+<akn:subsection eId="subsec_2-209_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Waive any and all claims against all the other parties thereto which may arise out of their activities outside their respective jurisdictions under such agreement;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-209_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Indemnify and save harmless the other parties to such agreement from all claims by third parties for property damage or personal injury which may arise out of the activities of the other parties to such agreement outside their respective jurisdictions under such agreement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.19"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.19/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1903_19">
+        <akn:num>42-1903.19</akn:num>
+        <akn:heading>Merger or consolidation of condominiums.</akn:heading>
+<akn:subsection eId="subsec_42-1903_19_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any 2 or more condominiums, by agreement of the unit owners as provided in subsection (b) of this section, may be merged or consolidated into a single condominium. Unless the agreement otherwise provides, if 2 or more condominiums merge or consolidate the resultant condominium shall be, for all purposes, the legal successor of all of the preexisting condominiums, and the operations or activities of all unit owners’ associations of the preexisting condominiums shall be merged or consolidated into a single unit owners’ association. The single unit owners’ association shall hold any power, right, obligation, asset, or liability of all preexisting unit owners’ associations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_19_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An agreement of 2 or more condominiums to merge or consolidate pursuant to subsection (a) of this section shall be evidenced by an agreement prepared, executed, recorded, and certified by the president of the unit owners’ association of each of the preexisting condominiums following approval by owners of units to which are allocated the percentage of votes in each condominium required to terminate the condominium.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_19_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

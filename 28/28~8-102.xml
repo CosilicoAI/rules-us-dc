@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_102">
+        <akn:num>28:8-102</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_28:8-102_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this article, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-102_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Other definitions applying to this article and the sections in which they appear are:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-102_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition, Article 1 contains general definitions and principles of construction and interpretation applicable throughout this article.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-102_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The characterization of a person, business, or transaction for purposes of this article does not determine the characterization of the person, business, or transaction for purposes of any other law, regulation, or rule.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

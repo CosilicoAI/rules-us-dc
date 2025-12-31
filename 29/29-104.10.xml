@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-104.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-104.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_104_10">
+        <akn:num>29-104.10</akn:num>
+        <akn:heading>Resignation of registered agent.</akn:heading>
+<akn:subsection eId="subsec_29-104_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A registered agent may resign as agent for a represented entity by delivering to the Mayor for filing a statement of resignation signed by the agent which states:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-104_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A statement of resignation shall be effective on the earlier of the 31st day after the day on which it is filed by the Mayor or the designation of a new registered agent for the represented entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-104_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A registered agent promptly shall furnish the represented entity notice in a record of the date on which a statement of resignation was filed by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-104_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When a statement of resignation takes effect, the registered agent shall cease to have responsibility under this subchapter for any matter thereafter tendered to it as agent for the represented entity. The resignation shall not affect any contractual rights the entity has against the agent or that the agent has against the entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-104_10_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A registered agent may resign with respect to a represented entity whether or not the entity is in good standing.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

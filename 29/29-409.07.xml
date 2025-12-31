@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-409.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-409.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_409_07">
+        <akn:num>29-409.07</akn:num>
+        <akn:heading>Effect of merger or membership exchange.</akn:heading>
+<akn:subsection eId="subsec_29-409_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to § 29-409.01(b), (c), and (d), when a merger becomes effective:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-409_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to § 29-409.01(b), (c), and (d), when a membership exchange becomes effective:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-409_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person that becomes subject to owner liability for some or all of the debts, obligations, or liabilities of any entity as a result of a merger or membership exchange has owner liability only to the extent provided in the organic law of the entity and only for those debts, obligations, and liabilities that arise after the effective time of the articles of merger or membership exchange.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-409_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The effect of a merger or membership exchange on the owner liability of a person that had owner liability for some or all of the debts, obligations, or liabilities of a party to the merger or membership exchange shall be as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-409_07_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A devise, bequest, gift, grant, or promise contained in a will or other instrument, in trust or otherwise, made before or after a merger, to or for any of the parties to the merger, shall inure to the survivor, subject to the express terms of the will or other instrument.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

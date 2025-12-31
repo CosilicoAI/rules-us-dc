@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1151"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1151/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_1151">
+        <akn:num>16-1151</akn:num>
+        <akn:heading>Petition by person entitled to claim; form and contents.</akn:heading>
+<akn:subsection eId="subsec_16-1151_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person entitled to claim real property, after the death of another person who has a prior estate therein, may, not oftener than once a year, petition the court for an order directing the production of the tenant for life, as prescribed by this subchapter, by a person, named in the petition, against whom a civil action in ejectment to recover the real property can be maintained if the tenant for life is dead, or, if there is no such person, by the guardian, trustee, or other person who has, or is entitled to, the custody of the person of the tenant for life, or the care of his estate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1151_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A petition prescribed by subsection (a) of this section shall be verified by the affidavit of the petitioner, and shall contain an averment that the petitioner has cause to believe that the person, upon whose life the prior estate depends, is dead, and that his or her death is being concealed by the person named in the petition.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1603"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1603/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1603">
+        <akn:num>2-1603</akn:num>
+        <akn:heading>Board of Trustees.</akn:heading>
+<akn:subsection eId="subsec_2-1603_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The powers of the Service shall be vested in a Board of Trustees composed of 11 members. The Board of Trustees shall establish general policy for the Service but shall not direct the conduct of particular cases.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1603_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1603_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The trustees of the Legal Aid Agency for the District of Columbia in office on the date of enactment of this chapter shall serve the unexpired portions of their terms as trustees of the Service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1603_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For the purposes of any action brought against the trustees of the Service, they shall be deemed to be employees of the Service.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

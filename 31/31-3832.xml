@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3832"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3832/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3832">
+        <akn:num>31-3832</akn:num>
+        <akn:heading>Coverage for reconstructive surgery following mastectomies.</akn:heading>
+<akn:subsection eId="subsec_31-3832_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An individual or group health plan which is a health benefit plan, and a health insurer providing health insurance coverage, that provides medical and surgical benefits with respect to a mastectomy shall, in a manner determined in consultation with the attending physician and the patient, provide the following coverage in the case of a participant or beneficiary who is receiving benefits in connection with a mastectomy and who elects breast reconstruction in connection with such mastectomy:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3832_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Coverage for the procedures in subsection (a) of this section may be subject to annual deductibles and coinsurance provisions as may be considered appropriate and as are consistent with those established for other benefits under the health benefit plan or coverage.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-551.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-551.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_551_07">
+        <akn:num>10-551.07</akn:num>
+        <akn:heading>Representative program.</akn:heading>
+<akn:subsection eId="subsec_10-551_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Director may contract for the services of a representative to provide real estate brokerage or real estate consulting services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-551_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each contract for the services of a representative shall be awarded on a competitive basis to a qualified real estate professional in accordance with applicable procurement regulations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-551_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The representative shall perform an analysis of all aspects of the proposed contract or real estate transaction, including the costs and benefits, and shall negotiate on behalf of the District; provided, that the representative shall not bind the District, and the terms of the contract shall be approved by the Director and, if applicable, by the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-551_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Fees paid for the services of a representative may be paid by either party in a transaction, either as a percentage of the total contract value or a fixed dollar amount, according to the terms of the contract as negotiated between the District and the representative.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

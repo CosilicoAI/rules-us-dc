@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3225.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3225.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3225_05">
+        <akn:num>22-3225.05</akn:num>
+        <akn:heading>Restitution.</akn:heading>
+<akn:subsection eId="subsec_22-3225_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In addition to the penalties provided under § 22-3225.04, a person convicted under this subchapter shall make monetary restitution for any loss caused by the offense. The court shall determine the form and method of payment which, if by installment, shall not exceed 5 years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3225_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person, including the District, injured as the result of an insurance fraud in the first degree may bring suit in the appropriate court to recover ordinary damages including attorney’s fees and other costs and punitive damages which shall not be less than $500 nor more than $50,000. Except where punitive damages are sought, the court shall award treble damages where the offense is proven by clear and convincing evidence to be in accordance with an established pattern or practice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3225_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding any action that may be brought by the United States Attorney’s office to recoup its costs in prosecuting these cases, the Corporation Counsel may bring a civil suit against any person convicted under this subchapter in order to recover investigation and prosecution-related costs incurred by the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3225_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A suit under subsection (b) of this section must be filed within 3 years of the act constituting the offense or within 3 years of the time the plaintiff discovered or with reasonable diligence could have discovered the act, whichever is later. This 3 year statute of limitations shall not apply to the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3225_05_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Remedies provided in this section shall be exclusive and may not be claimed in conjunction with any other remedies available under the law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

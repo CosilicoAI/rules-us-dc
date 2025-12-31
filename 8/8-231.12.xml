@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-231.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-231.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_231_12">
+        <akn:num>8-231.12</akn:num>
+        <akn:heading>Accreditation of training providers.</akn:heading>
+<akn:subsection eId="subsec_8-231_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An individual or business entity may not provide training on performing lead-based paint activities under this subchapter unless accredited by the Mayor in accordance with this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-231_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-231_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Where appropriate, the Mayor shall accredit an educational services provider that already has been accredited by another state, EPA, or HUD, on a reciprocity basis, without a complete application; provided, that the educational services provider:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-231_12_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Accreditation by the Mayor shall expire 3 years from the date of issuance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

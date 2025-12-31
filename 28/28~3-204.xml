@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-204"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-204/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_204">
+        <akn:num>28:3-204</akn:num>
+        <akn:heading>Indorsement.</akn:heading>
+<akn:subsection eId="subsec_28:3-204_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>“Indorsement” means a signature, other than that of a signer as maker, drawer, or acceptor, that alone or accompanied by other words is made on an instrument for the purpose of (i) negotiating the instrument, (ii) restricting payment of the instrument, or (iii) incurring indorser’s liability on the instrument, but regardless of the intent of the signer, a signature and its accompanying words is an indorsement unless the accompanying words, terms of the instrument, place of the signature, or other circumstances unambiguously indicate that the signature was made for a purpose other than indorsement. For the purpose of determining whether a signature is made on an instrument, a paper affixed to the instrument is a part of the instrument.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-204_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>“Indorser” means a person who makes an indorsement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-204_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purpose of determining whether the transferee of an instrument is a holder, an indorsement that transfers a security interest in the instrument is effective as an unqualified indorsement of the instrument.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-204_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If an instrument is payable to a holder under a name that is not the name of the holder, indorsement may be made by the holder in the name stated in the instrument or in the holder’s name or both, but signature in both names may be required by a person paying or taking the instrument for value or collection.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1254.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1254.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1254_04">
+        <akn:num>34-1254.04</akn:num>
+        <akn:heading>Negotiation of an initial franchise agreement.</akn:heading>
+<akn:subsection eId="subsec_34-1254_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the Office determines under § 34-1254.03 that an applicant has the ability and commitment to adequately provide cable service in the District and to meet the cable-related needs and interests of the District and of District residents, the Office shall commence the negotiation of the terms of a franchise agreement between the District and the applicant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1254_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Office and the applicant shall agree on the terms of a proposed franchise agreement within one year after the commencement of the negotiations under subsection (a) of this section. The Office may extend the one-year period of negotiations for up to 180 additional days, if additional time is necessary to finalize the terms of the proposed franchise agreement and there is good cause for not having finalized the agreement within the one-year period.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

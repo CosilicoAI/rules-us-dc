@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1217.76"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1217.76/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1217_76">
+        <akn:num>2-1217.76</akn:num>
+        <akn:heading>Allocation of Tax Increment Revenues.</akn:heading>
+<akn:subsection eId="subsec_2-1217_76_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 60 days after the certification of a TIF Area by the Mayor, the CFO shall provide for the allocation of Tax Increment Revenues within each TIF Area. The CFO shall establish one or more separate tax increment allocation accounts within the General Fund of the District of Columbia for the deposit and application of Available Sales Tax Revenues and Available Real Property Tax Revenues from each TIF Area. Monies shall be transferred from such accounts at the times and in the amounts required pursuant to financing documents relating to any Bonds. Monies held or to be held in a tax allocation account may be used to (1) pay debt service on Bonds, (2) pay other costs due and payable under the applicable financing documents, and (3) to pay any other costs or expenses permitted by this subchapter. Monies in a tax allocation account or in any fund or account established under any financing documents may be pledged as security for the payment of debt service on Bonds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1217_76_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other law, after a TIF Area has been certified by the Mayor, the portion of Tax Increment Revenues that results from the real property and sales tax levied within the TIF Area each year beginning from the date of the certification of the TIF Area shall be paid to the CFO for deposit into one or more of the tax increment accounts established by the CFO pursuant to subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1217_76_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If Bonds have been issued and are outstanding, the amounts, if any, remaining in the tax increment accounts for a TIF Area at the end of each tax year, after provision for the payment of debt service on any Bonds, any costs of credit or liquidity enhancement, other costs, fees, and expenses of administering, carrying, and paying the Bonds and the funds, trusts, and escrows pertaining to them, and providing for reasonably required reserves, all as provided in the financing documents, and after payment of any other costs or expenses permitted by this subchapter, shall revert to the General Fund of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

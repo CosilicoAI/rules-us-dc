@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2202.06e"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2202.06e/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2202_06e">
+        <akn:num>34-2202.06e</akn:num>
+        <akn:heading>Water Quality Assurance Advisory Panel.</akn:heading>
+<akn:subsection eId="subsec_34-2202_06e_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established the Water Quality Assurance Advisory Panel (“Panel”) for the purpose of providing information to the public and guidance to the Mayor and the General Manager of the District of Columbia Water and Sewer Authority (“General Manager”) on levels of unregulated contaminants in District drinking water and the presence and effects of endocrine disruptor compounds in wastewater effluent. The Panel shall make recommendations regarding the testing and treatment of the District’s drinking water and wastewater.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2202_06e_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 90 days of the completion of one year of unregulated contaminant testing of drinking water and a study on the presence and effects of endocrine disruptor compounds in wastewater effluent, the Panel shall convene a public meeting to discuss the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2202_06e_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Pursuant to Revisions to the Unregulated Contaminant Monitoring Regulation for Public Water Systems set forth in 40 C.F.R. § 141.40, 120 days after the Panel convenes, it shall issue a report to the Mayor and the General Manager summarizing the discussion set forth in subsection (b) of this section and any resulting water quality recommendations. The Panel may convene thereafter to provide the Mayor, the General Manager, and the public with additional recommendations regarding the monitoring and treatment of unregulated contaminants in the District’s drinking water.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2202_06e_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The report shall be made public on the Authority’s website upon submission to the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

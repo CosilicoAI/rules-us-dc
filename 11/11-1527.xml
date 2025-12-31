@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1527"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1527/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1527">
+        <akn:num>11-1527</akn:num>
+        <akn:heading>Procedures.</akn:heading>
+<akn:subsection eId="subsec_11-1527_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1527_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commission shall keep a record of any hearing on the conduct or health of a judge and one copy of such record shall be provided to the judge at the expense of the Commission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1527_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1527_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>It shall be the duty of the United States marshals upon the request of the Commission to serve process and to execute all lawful orders of the Commission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1527_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Each witness, other than an officer or employee of the United States or the District of Columbia, shall receive for attendance the same fees, and all witnesses shall receive the allowances, prescribed by section 15-714 for witnesses in civil cases. The amount shall be paid by the Commission from funds appropriated to it.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

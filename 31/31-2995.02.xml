@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2995.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2995.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2995_02">
+        <akn:num>31-2995.02</akn:num>
+        <akn:heading>Chemotherapy pill coverage.</akn:heading>
+<akn:subsection eId="subsec_31-2995_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An individual health plan or group health plan, and a health insurer offering health insurance coverage that provides coverage for prescription drugs, shall provide health insurance coverage for prescribed, orally administered anticancer medication used to kill or slow the growth of cancerous cells and the person receiving such prescribed medication shall have the option of having it dispensed at any appropriately licensed pharmacy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2995_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The health insurance coverage provided under this section shall be on a basis no less favorable than coverage provided for intravenously administered or injected cancer medications, for purposes of determining deductibles, benefit year or lifetime durational limits, benefit year or lifetime dollar limits, lifetime episodes or treatment limits, copayment and coinsurance factors, and benefit year maximum for deductibles and copayments and coinsurance factors.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

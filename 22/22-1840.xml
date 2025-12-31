@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-1840"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-1840/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_1840">
+        <akn:num>22-1840</akn:num>
+        <akn:heading>Civil action.</akn:heading>
+<akn:subsection eId="subsec_22-1840_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An individual who is a victim of an offense prohibited by § 22-1832, § 22-1833, § 22-1834, § 22-1835 or § 22-1836 may bring a civil action in the Superior Court of the District of Columbia. The court may award actual damages, compensatory damages, punitive damages, injunctive relief, and any other appropriate relief. A prevailing plaintiff shall also be awarded attorney’s fees and costs. Treble damages shall be awarded on proof of actual damages where a defendant’s acts were willful and malicious.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-1840_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any statute of limitation imposed for the filing of a civil suit under this section shall not begin to run until the plaintiff knew, or reasonably should have known, of any act constituting a violation of § 22-1832, § 22-1833, § 22-1834, § 22-1835 or § 22-1836, or until a minor plaintiff has reached the age of majority, whichever is later.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-1840_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a person entitled to sue is imprisoned, insane, or similarly incapacitated at the time the cause of action accrues, so that it is impossible or impracticable for him or her to bring an action, then the time of the incapacity is not part of the time limited for the commencement of the action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-1840_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A defendant is estopped to assert a defense of the statute of limitations when the expiration of the statute is due to conduct by the defendant inducing the plaintiff to delay the filing of the action.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

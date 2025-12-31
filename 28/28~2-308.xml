@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-308"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-308/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_308">
+        <akn:num>28:2-308</akn:num>
+        <akn:heading>Absence of specified place for delivery.</akn:heading>
+<akn:subsection eId="subsec_28:2-308_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>the place for delivery of goods is the seller’s place of business or if he has none his residence; but</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-308_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>in a contract for sale of identified goods which to the knowledge of the parties at the time of contracting are in some other place, that place is the place for their delivery; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-308_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>documents of title may be delivered through customary banking channels.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

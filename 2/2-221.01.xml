@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-221.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-221.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_221_01">
+        <akn:num>2-221.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_2-221_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Business concern” means any person engaged in a trade or business and nonprofit entities operating as contractors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-221_01_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>“Contractor” means any entity that has a direct contract with a District agency, as that term is defined in paragraph (3) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-221_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Designated payment office” means the place named in the contract for forwarding the invoice for payment or, in certain instances, for approval.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-221_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“District agency” means any office, department, division, board, commission, or other agency of the District government, including, unless otherwise provided, an independent agency, required by law or by the Mayor or the Council to administer any law or any rule adopted under the authority of a law. For the purposes of this definition, the term “independent agency” means any agency of government not subject to the administrative control of the Mayor and includes, but is not limited to, the Superior Court of the District of Columbia, District of Columbia Court of Appeals, Council of the District of Columbia, Board of Elections and Ethics, Armory Board, Zoning Commission, Convention Center Board of Directors, District of Columbia Board of Education, and Public Service Commission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-221_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Proper invoice” means an invoice which contains or is accompanied by substantiating documentation required by regulation or contract.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-221_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Subcontractor” means any entity that furnishes labor, material, equipment, or services to a contractor in performance of the contractor’s contract with a District agency.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

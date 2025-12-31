@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-551.07a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-551.07a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_551_07a">
+        <akn:num>10-551.07a</akn:num>
+        <akn:heading>Establishment of the Facilities Service Request Fund.</akn:heading>
+<akn:subsection eId="subsec_10-551_07a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established within the General Fund of the District of Columbia a lapsing account to be known as the Facilities Service Request Fund (“Fund”). All funds received by the Department from non-District government tenants in District government facilities for facility- related services, including maintenance, janitorial, security, construction, or other services, provided by the Department in accordance with this chapter shall be deposited into the Fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-551_07a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All funds deposited into the Fund, and any interest earned on those funds, shall revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of each fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-551_07a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Fund shall be administered by the Department, and shall be used for facility-related services at real property owned or leased by the District of Columbia and under the control of the Department.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

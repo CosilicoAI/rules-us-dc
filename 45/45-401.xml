@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/45-401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/45-401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_45_401">
+        <akn:num>45-401</akn:num>
+        <akn:heading>Common law, principles of equity and admiralty, and acts of Congress.</akn:heading>
+<akn:subsection eId="subsec_45-401_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The common law, all British statutes in force in Maryland on February 27, 1801, the principles of equity and admiralty, all general acts of Congress not locally inapplicable in the District of Columbia, and all acts of Congress by their terms applicable to the District of Columbia and to other places under the jurisdiction of the United States, in force in the District of Columbia on March 3, 1901, shall remain in force except in so far as the same are inconsistent with, or are replaced by, some provision of the 1901 Code.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_45-401_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The repeal of a criminal statute in the District of Columbia that is declaratory of or in abrogation of a common law crime shall not reinstate the common law crime.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1504"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1504/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1504">
+        <akn:num>10-1504</akn:num>
+        <akn:heading>Establishment of special taxing district.</akn:heading>
+<akn:subsection eId="subsec_10-1504_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The R13BA shall be a special taxing district.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1504_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All sales tax revenues generated from commercial enterprises within the R13BA, all taxes on any real property, except for the real property special tax set aside to pay debt service on general obligation bonds issued by the District of Columbia, and all payments made in lieu of taxes on any real property, which is exempt or immune from real property taxation that is leased, loaned, or otherwise made available to any person in connection with a commercial enterprise or as a residence in an amount equivalent to the tax that would be lawfully assessed if the real property were not exempt or immune from real property taxation, that are collected within the R13BA shall be applied in the following order:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1504_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

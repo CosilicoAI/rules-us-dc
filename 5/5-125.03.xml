@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-125.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-125.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_125_03">
+        <akn:num>5-125.03</akn:num>
+        <akn:heading>Trachea hold prohibited; carotid artery hold restricted.</akn:heading>
+<akn:subsection eId="subsec_5-125_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The use of the trachea hold by any police officer shall be prohibited under any circumstances and the carotid artery hold shall be prohibited except under those circumstances and conditions under which the use of lethal force is necessary to protect the life of a civilian or a law enforcement officer, and has been effected to control or subdue an individual, and the Metropolitan Police Department has issued procedures and policies which require, at a minimum, all the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-125_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The failure to provide immediately appropriate medical aid as required in subsection (a)(3) and (4) of this section to a person who has been rendered unconscious or subdued by the use of a hold shall for purposes of civil liability create a presumption, affecting the burden of proof, of willful negligence and reckless disregard for the safety and well-being of that person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-125_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-125_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The trachea hold is prohibited and the carotid artery hold shall be classified as a service weapon and all relevant Metropolitan Police Department general orders, special orders, and circulars shall be applicable.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

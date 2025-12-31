@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-708.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-708.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_708_01">
+        <akn:num>5-708.01</akn:num>
+        <akn:heading>Processing claims of injuries allegedly sustained within the performance of duty.</akn:heading>
+<akn:subsection eId="subsec_5-708_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-708_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Director shall determine, based on a review of the unit commander’s report on the cause of the injury or illness and after consultation with the Police and Fire Clinic physicians on the nature of the injury or illness, whether a member’s injury or illness was sustained by the member in the performance of duty within 30 calendar days of a claim being reported to the Department. If the Director fails to meet the 30-day deadline, there shall be a rebuttable presumption that the member’s injury or illness was sustained in the performance of duty. Until the presumption is rebutted by a finding by the Director that the injury or illness was not sustained in the performance of duty, the member’s Department shall be responsible for all treatment costs and disability compensation pay.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

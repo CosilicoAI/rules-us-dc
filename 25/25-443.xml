@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-443"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-443/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_443">
+        <akn:num>25-443</akn:num>
+        <akn:heading>Subpoena of witnesses.</akn:heading>
+<akn:subsection eId="subsec_25-443_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subpoenas issued by the Board shall be served:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-443_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Witnesses, other than those employed by the District or by the United States, shall be entitled to the same fees as are paid witnesses for attendance before the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-443_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In the case of contumacy or refusal to obey a subpoena, the Superior Court of the District of Columbia, upon written request by the Board, shall issue an order requiring the contumacious person to appear and testify before the Board or to produce evidence if so ordered.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

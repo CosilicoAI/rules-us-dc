@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2851.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2851.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2851_10">
+        <akn:num>47-2851.10</akn:num>
+        <akn:heading>Lapsed and reinstated licenses.</akn:heading>
+<akn:subsection eId="subsec_47-2851_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Department may, by electronic mail or other methods of communication, send notice of impending license expiration, an application for renewal, and a statement of the applicable renewal fee to each licensee within 60 days prior to the expiration date at the mailing address or electronic mail address shown on the Department’s records for the licensee. It shall be the responsibility of the licensee to update the address information maintained by the Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2851_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2851_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2851_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any person who has obtained a license or renewed a license under false pretenses, including paying fees with a bad check, stating falsely that corporate status is current, or stating falsely that all taxes owed the District have been paid, shall be notified immediately of the problem and given 30 days from the date of notice to provide proof of having cured the problem.  If the problem has not been corrected 30 days from the date of notification, the license shall be revoked and may only be reinstated upon proof of correction and payment of a $500 fine in addition to any other fees and fines required by this subchapter and all other relevant District laws and regulations.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

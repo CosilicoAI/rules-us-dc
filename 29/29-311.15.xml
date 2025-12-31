@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-311.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-311.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_311_15">
+        <akn:num>29-311.15</akn:num>
+        <akn:heading>After-acquired shares.</akn:heading>
+<akn:subsection eId="subsec_29-311_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A corporation may elect to withhold payment required by § 29-311.14 from any shareholder that was required to, but did not, certify that beneficial ownership of all of the shareholder’s shares for which appraisal rights are asserted was acquired before the date set forth in the appraisal notice sent pursuant to § 29-311.12(b)(1).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-311_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the corporation elected to withhold payment under subsection (a) of this section, it shall, within 30 days after the form required by § 29-311.12(b)(2)(B) is due, notify all shareholders described in subsection (a) of this section:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-311_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Within 10 days after receiving the shareholder’s acceptance pursuant to subsection (b) of this section, the corporation shall pay in cash the amount it offered under subsection (b)(2) of this section to each shareholder that agreed to accept the corporation’s offer in full satisfaction of the shareholder’s demand.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-311_15_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Within 40 days after sending the notice described in subsection (b) of this section, the corporation shall pay in cash the amount it offered to pay under subsection (b)(2) of this section to each shareholder described in subsection (b)(5) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1401">
+        <akn:num>38-1401</akn:num>
+        <akn:heading>Registration of medical and dental colleges — Required; permit.</akn:heading>
+<akn:subsection eId="subsec_38-1401_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It shall be unlawful for any medical or dental college claiming the authority to confer, or actually conferring, the degree of doctor of medicine, or doctor of dental surgery, not incorporated by a special act of Congress, to conduct its business in the District of Columbia, unless such college shall be registered by the Mayor of the District of Columbia and granted by him a written permit to commence or continue business in said District in compliance with the requirements of this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1401_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The permit issued pursuant to this section shall be issued as an Educational Services endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of Chapter 28 of Title 47.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

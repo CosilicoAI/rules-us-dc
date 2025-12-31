@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1522"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1522/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1522">
+        <akn:num>32-1522</akn:num>
+        <akn:heading>Review of compensation orders.</akn:heading>
+<akn:subsection eId="subsec_32-1522_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A compensation order shall become effective when filed with the Mayor as provided in § 32-1520, and, unless an application for review has been filed with the Board as provided in subsection (b) of this section, shall become final at the expiration of the 30th day thereafter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1522_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1522_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If any employer or his officers or agents fail to comply with a compensation order making an award that has become final, any beneficiary of such award, or the Mayor, may apply for the enforcement of the order to the Superior Court of the District of Columbia for enforcement of such order and upon showing that such employer or his officers or agents have failed to comply therewith, the Court shall enforce obedience to the order by writ of injunction or by other proper process, mandatory or otherwise, to enjoin upon such person and his officers and agents compliance with the order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1522_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Proceedings for suspending, setting aside, or enforcing a compensation order, whether rejecting a claim or making an award, shall not be instituted otherwise than as provided in this section and § 32-1520.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

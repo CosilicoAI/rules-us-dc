@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1731.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1731.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1731_02">
+        <akn:num>34-1731.02</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_34-1731_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Backhaul” means the transmission of voice and data traffic from the wireless network to a wireline network infrastructure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Census tracts” means geographical areas defined by median household income according to the most recent census for the District of Columbia published by the United States Bureau of the Census.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Connectivity” means connection from a home to a telecommunications provider’s network.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“DC-Net” means the District government’s telecommunications service network and information technology infrastructure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Digitally-disadvantaged areas” means census tracts in the District of Columbia with median income below the median income in the District as a whole.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Digitally-disadvantaged population” means low-income residents of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Digitally-disadvantaged residents” means residents of digitally-disadvantaged areas.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Digitally-disadvantaged resident household” means all digitally-disadvantaged residents residing at a fixed single-family address in the District of Columbia that define themselves as a family unit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“District telecommunications assets” means nonexclusive access to District-owned pole-mounted street light fixtures and buildings and backhaul on DC-Net from selected District locations to carrier hotel at 1275 K Street N.W., Washington, D.C., for Internet-related services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Franchisee” means a person or entity that enters into a franchise agreement pursuant to a successful bid and award.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Low-income resident” means any District of Columbia resident whose income meets the eligibility standards for reduced price meals according to the Eligibility Guidelines for Free and Reduced Price Meals for the National School Lunch Program, as established annually pursuant to sections 9(b)(1) and 17(c)(4) of AN ACT To provide assistance to the States in the establishment, maintenance, operation, and expansion of school lunch programs, and for other purposes, approved June 4, 1946 (60 Stat. 233; 42 U.S.C. §§ 1758(b)(1) and 1766(c)(4)), and sections 3(a)(6) and 4(e)(1)(A) of the Child Nutrition Act of 1966, approved October 11, 1966 (80 Stat. 885; 42 U.S.C. §§ 1772 (a)(6) and 1773(e)(1)(A)).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“OCTO” means Office of the Chief Technology Officer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“Package of services for digitally-disadvantaged residents” means some combination of connectivity, computers, software, computer training, support, and Internet service provider services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“RFI” means a request for information.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1731_02_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“RFP” means a request for proposals.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

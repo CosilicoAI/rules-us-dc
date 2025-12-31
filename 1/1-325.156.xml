@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.156"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.156/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_156">
+        <akn:num>1-325.156</akn:num>
+        <akn:heading>Alley Rehabilitation Project.</akn:heading>
+<akn:subsection eId="subsec_1-325_156_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this part, the Chief Financial Officer shall transfer to and retain in the Alley Rehabilitation Project the first $6 million of surplus capital funds identified pursuant to § 1-325.153a or § 1-325.153b, to be made available for purposes of the Alley Rehabilitation Project through a reprograming pursuant to Chapter 3 of Title 47 [§ 47-301 et seq.].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_156_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This section shall expire on September 30, 2016.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

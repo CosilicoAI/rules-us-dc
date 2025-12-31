@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-671.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-671.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_671_02">
+        <akn:num>8-671.02</akn:num>
+        <akn:heading>Nature of rights; subordination of interests.</akn:heading>
+<akn:subsection eId="subsec_8-671_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person, including a person that owns an interest in the real property, the environmental agency, or a municipality or any other unit of local government, may be a holder. An environmental covenant may identify more than one holder. The interest of a holder is an interest in real property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-671_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A right of an environmental agency under this chapter or under an environmental covenant, other than a right as a holder, is not an interest in real property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-671_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An environmental agency is bound by any obligation it assumes in an environmental covenant, but an environmental agency does not assume obligations merely by signing an environmental covenant. Any other person that signs an environmental covenant is bound by the obligations the person assumes in the covenant, but signing the covenant does not change obligations, rights, or protections granted or imposed under law other than this chapter except as provided in the covenant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-671_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The following rules apply to interests in real property in existence at the time an environmental covenant is created or amended:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-671_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Environmental Health Administration, or it successor, shall have regulatory authority over real property transfers from the federal government or a federal agency to a non-federal owner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

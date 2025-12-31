@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2871.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2871.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2871_03">
+        <akn:num>7-2871.03</akn:num>
+        <akn:heading>Training program.</akn:heading>
+<akn:subsection eId="subsec_7-2871_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall establish, through rulemaking, a training program on:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2871_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall determine, through rulemaking, which individuals shall be required to complete the training program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2871_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to those individuals required to complete the training program, the Department of Health may make the program available to any interested individual, including school personnel, parents, students, and athletes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

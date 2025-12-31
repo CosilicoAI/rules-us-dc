@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-202.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-202.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_202_01">
+        <akn:num>46-202.01</akn:num>
+        <akn:heading>Collection and Disbursement Unit.</akn:heading>
+<akn:subsection eId="subsec_46-202_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The IV-D agency is established as the centralized Collection and Disbursement Unit for the collection and disbursement of support payments and shall operate the CDU either directly or through a contract or cooperative agreement with another entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-202_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Collection and Disbursement Unit shall collect and disburse support payments under the following support orders, and obligors and holders required to pay support pursuant to these orders shall submit payments to the CDU for disbursement to the obligee:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-202_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The IV-D agency shall operate the Collection and Disbursement Unit in coordination with the automated system the IV-D agency maintains pursuant to § 46-226.10.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-202_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-202_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Collection and Disbursement Unit shall disburse all amounts payable within 2 business days after receipt from the employer or other holder if sufficient information identifying the payee is provided. The Collection and Disbursement Unit may delay the disbursement of collections toward arrearages until any appeal with respect to such arrearages has been resolved.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

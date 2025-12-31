@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-127.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-127.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_127_04">
+        <akn:num>5-127.04</akn:num>
+        <akn:heading>Police to have power of constables; authorization to execute certain Superior Court orders.</akn:heading>
+<akn:subsection eId="subsec_5-127_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor of the District of Columbia, and the members of the police force, shall possess in every part of the District all the common-law powers of constables, except for the service of civil process and for the collection of strictly private debts, in which designation fines imposed for the breach of the ordinances in force in the District shall not be included.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-127_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In addition to the powers enumerated in subsection (a) of this section, members of the Metropolitan Police Department shall execute orders of the Superior Court of the District of Columbia issued pursuant to § 16-1005.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5608.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5608.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5608_04">
+        <akn:num>31-5608.04</akn:num>
+        <akn:heading>Repeal and transition provisions.</akn:heading>
+<akn:subsection eId="subsec_31-5608_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Chapters 36 and 37 of Title 3 (“prior law”), are repealed, subject to the transition provisions of subsections (b) through (e) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5608_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Prior law shall govern all suits, actions, prosecutions, or proceedings which are pending or may be initiated on the basis of facts or circumstances occurring before October 26, 2000.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5608_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A civil suit or action shall not be maintained to enforce a liability under prior law unless brought within the period of limitation which applied when the cause of action accrued and, in any event, no later than 2 years after October 26, 2000.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5608_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>All effective registrations and notice filings under prior law, all administrative orders relating to such registrations and notice filings, and all conditions imposed upon such registrations shall apply to the extent they would have applied under prior law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5608_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>All no-action and opinion letters, administrative orders, and waivers issued under prior law or regulation shall apply to the extent they would have applied under prior law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

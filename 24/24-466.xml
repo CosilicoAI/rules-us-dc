@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-466"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-466/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_466">
+        <akn:num>24-466</akn:num>
+        <akn:heading>Eligibility for public assistance.</akn:heading>
+<akn:subsection eId="subsec_24-466_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a person has been granted either medical or geriatric parole and applies for public assistance, including medical assistance, the Department shall forward the application for assistance to the Department of Human Services, and advise the Board that an application for assistance has been made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-466_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Department of Human Services shall, within 60 days of receipt of a medical or geriatric parolee’s application for assistance, determine the eligibility of the person for general assistance, public assistance, Medicaid, or any other District or federal medical assistance program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-466_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-466_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other law, when a person is released on medical or geriatric parole and is in need of public assistance, including medical assistance, the Department of Human Services shall be responsible for the administrative costs of the initial and any subsequent eligibility determination and the costs of any public assistance, including medical assistance, following a person’s release on medical or geriatric parole for so long as the person is eligible.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

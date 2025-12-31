@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.23"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.23/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_205_23">
+        <akn:num>4-205.23</akn:num>
+        <akn:heading>Obligations of custodial relatives other than parents.</akn:heading>
+<akn:subsection eId="subsec_4-205_23_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a relative applies for TANF in behalf of a child who is living in such relative’s home and the child’s parents are maintaining a home elsewhere, the Mayor shall determine whether the child is in fact deprived of parental care and support.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_23_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When parents are unwilling to accept the responsibility for the support of their children, a relative with whom a child is living shall be encouraged to cooperate with appropriate law enforcement officials charged with the responsibility for pursuing public remedies against the parents who are not contributing toward the support of their family; provided, that the failure of such relative to so cooperate with law enforcement officials shall have no effect on eligibility for assistance under this program.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

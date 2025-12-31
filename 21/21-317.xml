@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-317"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-317/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_317">
+        <akn:num>21-317</akn:num>
+        <akn:heading>Liability to third persons.</akn:heading>
+<akn:subsection eId="subsec_21-317_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A claim may be asserted against the custodial property by proceeding against the custodian in the custodial capacity, whether or not the custodian or the minor is personally liable, if a claim is based on the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-317_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A custodian is not personally liable in the following circumstances:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-317_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A minor is not personally liable for an obligation arising from ownership of custodial property or for a tort committed during the custodianship unless the minor is personally at fault.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

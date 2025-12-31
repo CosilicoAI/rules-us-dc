@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3303">
+        <akn:num>42-3303</akn:num>
+        <akn:heading>Appointment of receiver; termination.</akn:heading>
+<akn:subsection eId="subsec_42-3303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any receivership established pursuant to subsection (a) of this section shall be terminated by the Court upon its finding that the arrearage which was the subject of the original petition has been satisfied, or that all tenants have agreed to assume liability in their own names for prospective service supplied by the electric company, electricity supplier, gas company, or natural gas supplier, or that the apartment house has been sold and the new owner has assumed liability for prospective service supplied by the electric company, electricity supplier, or gas company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3303_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed to prevent the electric company, electricity supplier, gas company, or natural gas supplier from pursuing any other action or remedy at law or equity that it may have against the owner, agent, lessor or manager.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3303_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any owner, agent, lessor or manager who collects or attempts to collect any rent or payment for use and occupancy from any tenant of an apartment house subject to an order appointing a receiver pursuant to this section shall be found, after due notice and hearing, to be in contempt of court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

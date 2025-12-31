@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1403.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1403.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1403_15">
+        <akn:num>2-1403.15</akn:num>
+        <akn:heading>Enforcement of order.</akn:heading>
+<akn:subsection eId="subsec_2-1403_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The decision and order of the Commission shall be served on the respondent, with notice that, if the Commission determines that the respondent has not, after 30 calendar days following service of its order, corrected the unlawful discriminatory practice and complied with the order, the Commission will certify the matter to the Corporation Counsel, and to such other agencies as may be appropriate for enforcement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1403_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Corporation Counsel shall institute, in the name of the District, civil proceedings including the seeking of such restraining orders and temporary or permanent injunctions, as are necessary to obtain complete compliance with the Commission’s orders. In the event that successful civil proceedings do not result in securing such compliance, the Corporation Counsel shall institute criminal action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1403_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No enforcement action shall be instituted pending review as provided in § 2-1403.14.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1403_15_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed to deprive any person of rights in the criminal justice process.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1412"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1412/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1412">
+        <akn:num>38-1412</akn:num>
+        <akn:heading>Grants from Secretary of Education — Authorized.</akn:heading>
+<akn:subsection eId="subsec_38-1412_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Secretary of Education (hereinafter in this subchapter referred to as the “Secretary”) is authorized to make grants to the Mayor of the District of Columbia (hereinafter in this subchapter referred to as the “Mayor”) in amounts the Secretary determines to be the minimum amounts necessary to carry out the purposes of this subchapter. The total amount of grants under this section for any fiscal year shall not exceed the sum of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1412_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of this section and § 38-1416, in determining eligibility for, and the amount of, grants with respect to private nonprofit medical and dental schools, consideration shall be given to any grants made to such schools pursuant to the portion of the program under § 773 of the Public Health Service Act [42 U.S.C. § 295f-3, repealed] relating to financial assistance to schools which are in serious financial straits to aid them in meeting their costs of operation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1412_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>There are authorized to be appropriated such sums as may be necessary for the fiscal year ending September 30, 1977, to make grants under this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/51-175"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/51-175/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_51_175">
+        <akn:num>51-175</akn:num>
+        <akn:heading>Effective date and expiration of shared work plan.</akn:heading>
+<akn:subsection eId="subsec_51-175_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A shared work plan shall be effective on the date that it is approved by the Director, except that, for good cause shown, a shared work plan may be made effective retroactive to any time within a period of 14 days prior to the date the plan is approved by the Director. The shared work plan shall expire on the last day of the 12th full calendar month after the effective date of the shared work plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-175_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Director may terminate a shared work plan for good cause if the Director determines that the shared work plan is not being executed according to the terms and intent of the shared work unemployment compensation program.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

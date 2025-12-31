@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-632"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-632/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_632">
+        <akn:num>5-632</akn:num>
+        <akn:heading>Limited duty.</akn:heading>
+<akn:subsection eId="subsec_5-632_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the Director, in consultation with Police and Fire Clinic physicians, determines that a member, because of injury or other temporary medical disability is unable to perform the full range of duties, but is capable of effectively performing certain types of work within the department, and the prognosis is that the member will be able to perform a full range of duties after achieving maximum medical improvement, the Director may recommend to the Chief that the member perform work in a limited-duty status.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-632_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Members in a limited-duty status shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-632_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No less than every 30 days, the Director shall evaluate members in a limited-duty status to determine their health status and to ensure that they are complying with their medical treatment plans.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-632_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If at any time the Director, in consultation with the Police and Fire Clinic physicians, determines that a member in a limited-duty status is unable to perform the full range of duties after achieving maximum medical improvement, the Director shall recommend the member for retirement pursuant to § 5-709 or § 5-710, as appropriate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-214"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-214/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4_214">
+        <akn:num>28:4-214</akn:num>
+        <akn:heading>Right of charge-back or refund; liability of collecting bank; return of item.</akn:heading>
+<akn:subsection eId="subsec_28:4-214_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a collecting bank has made provisional settlement with its customer for an item and fails by reason of dishonor, suspension of payments by a bank, or otherwise to receive settlement for the item which is or becomes final, the bank may revoke the settlement given by it, charge back the amount of any credit given for the item to its customer’s account, or obtain refund from its customer, whether or not it is able to return the item, if by its midnight deadline or within a longer reasonable time after it learns the facts it returns the item or sends notification of the facts. If the return or notice is delayed beyond the bank’s midnight deadline or a longer reasonable time after it learns the facts, the bank may revoke the settlement, charge back the credit, or obtain refund from its customer, but it is liable for any loss resulting from the delay. These rights to revoke, charge back, and obtain refund terminate if and when a settlement for the item received by the bank is or becomes final.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-214_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A collecting bank returns an item when it is sent or delivered to the bank’s customer or transferor or pursuant to its instructions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-214_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A depositary bank that is also the payor may charge back the amount of an item to its customer’s account or obtain refund in accordance with the section governing return of an item received by a payor bank for credit on its books (section 28:4-301).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-214_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The right to charge back is not affected by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-214_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A failure to charge back or claim refund does not affect other rights of the bank against the customer or any other party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-214_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>If credit is given in dollars as the equivalent of the value of an item payable in foreign money, the dollar amount of any charge-back or refund must be calculated on the basis of the bank-offered spot rate for the foreign money prevailing on the day when the person entitled to the charge-back or refund learns that it will not receive payment in ordinary course.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

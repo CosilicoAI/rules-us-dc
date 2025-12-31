@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1810.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1810.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1810_04">
+        <akn:num>47-1810.04</akn:num>
+        <akn:heading>Determination of taxable income or loss using combined report; components of income subject to tax in the District, application of tax credits and post-apportionment deductions; determination of taxpayer’s share of the business income of a combine group apportionable to the District.</akn:heading>
+<akn:subsection eId="subsec_47-1810_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The use of a combined report does not disregard the separate identities of the taxpayer members of the combined group. Each taxpayer member is responsible for tax based on its taxable income or loss apportioned or allocated to the District, which shall include, in addition to other types of income, the taxpayer member’s apportioned share of business income of the combined group, where business income of the combined group is calculated as a summation of the individual net business incomes of all members of the combined group. A member’s net business income is determined by removing all but business income, expense, and loss from that member’s total income, as provided in this section and § 47-1810.05.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1810_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1810_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as provided in paragraph (3), the taxpayers share of the business income apportionable to the District of each combined group of which it is a member shall be the product of the:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

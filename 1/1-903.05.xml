@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-903.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-903.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_903_05">
+        <akn:num>1-903.05</akn:num>
+        <akn:heading>Interim federal benefit payments.</akn:heading>
+<akn:subsection eId="subsec_1-903_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Effective October 1, 1997, until the transfer of the assets required by the Retirement Protection Act is implemented, the Retirement Board shall make disbursements to the District government, or other entity as may be directed by the Secretary of the Treasury, from the trust assets of the Funds to make the Federal Benefit Payment obligation created pursuant to § 1-803.01 for benefits accrued by the covered District employees until June 30, 1997.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-903_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No part of the employee contributions of the covered District employees after June 30, 1997, or the $1.275 billion of designated assets provided for pursuant to § 807.03, may be used to make the Federal Benefit Payment obligation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

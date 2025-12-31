@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1371.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1371.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1371_06">
+        <akn:num>4-1371.06</akn:num>
+        <akn:heading>Access to information.</akn:heading>
+<akn:subsection eId="subsec_4-1371_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, immediately upon the request of the Committee and as necessary to carry out the Committee’s purpose and duties, the Committee shall be provided, without cost and without authorization of the persons to whom the information or records relate, access to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1371_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Committee shall have the authority to seek information from entities and agencies outside the District of Columbia by any legal means.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1371_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsection (a)(1) of this section, information and records concerning a current law enforcement investigation may be withheld, at the discretion of the investigating authority, if disclosure of the information would compromise a criminal investigation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1371_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If information or records are withheld under subsection (c) of this section, a report on the status of the investigation shall be submitted to the Committee every 3 months until the earliest of the following events occurs:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1371_06_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>All records and information obtained by the Committee pursuant to subsections (a) and (b) of this section pertaining to the deceased child or any other individual shall be destroyed following the preparation of the final Committee report. All additional information concerning a review, except statistical data, shall be destroyed by the Committee one year after publication of the Committee’s annual report.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

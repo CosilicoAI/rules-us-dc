@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1111"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1111/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1111">
+        <akn:num>32-1111</akn:num>
+        <akn:heading>Permanent variances.</akn:heading>
+<akn:subsection eId="subsec_32-1111_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An affected employer may apply to the Board for a permanent variance from a rule promulgated under this chapter. The employer shall provide to affected employees notice of each application and an opportunity to participate in a hearing. The Board shall issue the requested variance if the Board determines, on the record after there has been an opportunity for an inspection and, where appropriate, a hearing, that the proponent of the variance has demonstrated, by a preponderance of the evidence, that the conditions, practices, means, methods, operations, or processes used or proposed to be used by the employer will provide conditions and places of employment that are as safe and healthful as those that would prevail if the employer complied with the rule.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1111_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The variance issued by the Board shall prescribe the conditions the employer must maintain and the practices, means, methods, operations, and processes that the employer must adopt and utilize to the extent that they differ from the rule in question. The Board may modify or revoke the variance upon application by an employer, employee, or by the Board on its own motion, in the manner prescribed for its issuance under this section at any time after 6 months of its issuance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

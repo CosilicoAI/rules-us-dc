@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-231.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-231.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_231_05">
+        <akn:num>24-231.05</akn:num>
+        <akn:heading>Sales, advertising and marketing of prison industries products and services; tax exemption.</akn:heading>
+<akn:subsection eId="subsec_24-231_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever goods or services scheduled for purchase by an agency of the District government are produced or can be produced by a prison industry, the agency shall purchase the goods or services from the prison industries unless the Director provides written certification that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-231_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In addition to the agencies of the District government, goods and services produced by prison industries may be sold to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-231_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may develop and implement an on-going advertising and marketing plan to sell goods and services produced by prison industries to authorized purchasers. This advertising and marketing plan shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-231_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Subject to the approval of the Council, by act, the Mayor may include in the terms of a prison industry joint venture agreement an exemption from applicable District taxes, or other tax incentives, when the Mayor determines this is necessary to secure a private-sector employer’s participation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

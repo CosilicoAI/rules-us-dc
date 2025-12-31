@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1806.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1806.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1806_07">
+        <akn:num>38-1806.07</akn:num>
+        <akn:heading>Jobs for D.C. Graduates Program.</akn:heading>
+<akn:subsection eId="subsec_38-1806_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. — The nonprofit corporation shall establish a program, to be known as the “Jobs for D.C. Graduates Program”, to assist District of Columbia public schools and public charter schools in organizing and implementing a school-to-work transition system, which system shall give priority to providing assistance to at-risk youths and disadvantaged youths.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1806_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Conduct of program. — In carrying out the program established under subsection (a), the nonprofit corporation, consistent with the policies of the nationally recognized Jobs for America’s Graduates, Inc., shall:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

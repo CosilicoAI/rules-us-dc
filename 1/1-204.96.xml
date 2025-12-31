@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.96"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.96/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_96">
+        <akn:num>1-204.96</akn:num>
+        <akn:heading>Independent financial management, personnel, and procurement authority of District of Columbia Water and Sewer Authority.</akn:heading>
+<akn:subsection eId="subsec_1-204_96_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Financial Management, Personnel, and Procurement Authority. — Notwithstanding any other provision of this chapter or any District of Columbia law, the financial management, personnel, and procurement functions and responsibilities of the District of Columbia Water and Sewer Authority shall be established exclusively pursuant to rules and regulations adopted by its Board of Directors. Nothing in the previous sentence may be construed to affect the application to the District of Columbia Water and Sewer Authority of § 1-204.45a, § 1-204.51(d), § 1-204.53(c), or § 1-204.90(g) [§ 1-204.90(h)].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_96_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Consistency With Existing Authorizing Law. — The rules and regulations adopted by the Board of Directors of the District of Columbia Water and Sewer Authority to establish the financial management, personnel, and procurement functions and responsibilities of the Authority shall be consistent with the Water and Sewer Authority Establishment and Department of Public Works Reorganization Act of 1996, as such Act is in effect as of January 1, 2008.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

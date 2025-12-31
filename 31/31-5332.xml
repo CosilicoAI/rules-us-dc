@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5332"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5332/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5332">
+        <akn:num>31-5332</akn:num>
+        <akn:heading>Penalties.</akn:heading>
+<akn:subsection eId="subsec_31-5332_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person who makes a false or fraudulent statement in or relating to an application for membership or for the purpose of obtaining money from a benefit in any society shall, upon conviction, be fined not less than $100 nor more than $5,000 or be subject to imprisonment not less than 30 days nor more than one year, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5332_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person who solicits membership for, or in any manner assists in procuring membership in, any society not licensed to do business in the District shall, upon conviction thereof, be punished by a fine of not less than $50 nor more than $200, or by imprisonment for not less than 30 days nor more than one year, or both, in the discretion of the court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5332_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any person convicted of a willful violation of, or neglect or refusal to comply with, any provision of this chapter for which a penalty is not otherwise prescribed shall, upon conviction, be punished by a fine not exceeding $5,000.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5332_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any person who willfully makes a false or fraudulent statement in any verified report or declaration under oath required or authorized by this chapter, or of any material fact or thing contained in a sworn statement concerning the death or disability of an insured for the purpose of procuring payment of a benefit named in the certificate, shall be guilty of perjury and shall be subject to the penalties prescribed by law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

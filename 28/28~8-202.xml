@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-202"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-202/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_202">
+        <akn:num>28:8-202</akn:num>
+        <akn:heading>Issuer’s responsibility and defenses; notice of defect or defense.</akn:heading>
+<akn:subsection eId="subsec_28:8-202_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Even against a purchaser for value and without notice, the terms of a certificated security include terms stated on the certificate and terms made part of the security by reference on the certificate to another instrument, indenture, or document or to a constitution, statute, ordinance, rule, regulation, order, or the like, to the extent the terms referred to do not conflict with terms stated on the certificate. A reference under this subsection does not of itself charge a purchaser for value with notice of a defect going to the validity of the security, even if the certificate expressly states that a person accepting it admits notice. The terms of an uncertificated security include those stated in any instrument, indenture, or document or in a constitution, statute, ordinance, rule, regulation, order, or the like, pursuant to which the security is issued.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-202_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The following rules apply if an issuer asserts that a security is not valid:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-202_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 28:8-205, lack of genuineness of a certificated security is a complete defense, even against a purchaser for value and without notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-202_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>All other defenses of the issuer of a security, including nondelivery and conditional delivery of a certificated security, are ineffective against a purchaser for value who has taken the certificated security without notice of the particular defense.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-202_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>This section does not affect the right of a party to cancel a contract for a security “when, as and if issued” or “when distributed” in the event of a material change in the character of the security that is the subject of the contract or in the plan or arrangement pursuant to which the security is to be issued or distributed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-202_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>If a security is held by a securities intermediary against whom an entitlement holder has a security entitlement with respect to the security, the issuer may not assert any defense that the issuer could not assert if the entitlement holder held the security directly.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

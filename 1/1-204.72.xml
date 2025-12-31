@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.72"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.72/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_72">
+        <akn:num>1-204.72</akn:num>
+        <akn:heading>Borrowing in anticipation of revenues.</akn:heading>
+<akn:subsection eId="subsec_1-204_72_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. — In anticipation of the collection or receipt of revenues for a fiscal year, the Council may by act authorize the issuance of general obligation notes for such fiscal year, to be known as revenue anticipation notes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_72_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Limit on aggregate notes outstanding. — The total amount of all revenue anticipation notes issued under subsection (a) of this section outstanding at any time during a fiscal year shall not exceed 20% of the total anticipated revenue of the District for such fiscal year, as certified by the Mayor under this subsection. The Mayor shall certify, as of a date which occurs not more than 15 days before each original issuance of such revenue anticipation notes, the total anticipated revenue of the District for such fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_72_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Permitted outstanding duration. — Any revenue anticipation note issued under subsection (a) of this section may be renewed. Any such note, including any renewal note, shall be due and payable not later than the last day of the fiscal year during which the note was originally issued.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_72_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Effective date of authorization acts; payments not subject to appropriation. —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2341.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2341.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2341_16">
+        <akn:num>7-2341.16</akn:num>
+        <akn:heading>Summary suspension.</akn:heading>
+<akn:subsection eId="subsec_7-2341_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If, after an investigation, the Mayor determines that an agency, vehicle, person, or facility licensed or certified pursuant to this chapter has failed to comply with the provisions of this chapter, or with rules promulgated pursuant to this chapter, in such a manner as to present an imminent danger to the health, safety, or welfare of any person or of the general public, the Mayor may summarily suspend the license or certification prior to a hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2341_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall provide as soon as possible the person, or the owner or operator of the agency, vehicle, or facility, licensed or certified with written notice of the summary suspension. The notice shall inform the affected person or entity of the reason for the suspension and of the right to request a hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2341_16_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The person, or owner or operator of the agency, vehicle, or facility, shall have 5 business days after service of the notice of summary suspension in which to request a hearing to challenge the summary suspension. If requested, the hearing shall be conducted by the Office of Administrative Hearings. A hearing shall be held within 5 business days of a timely request, and a decision shall be issued within 5 business days after the record is closed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

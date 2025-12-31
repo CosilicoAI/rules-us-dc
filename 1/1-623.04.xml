@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_623_04">
+        <akn:num>1-623.04</akn:num>
+        <akn:heading>Vocational rehabilitation.</akn:heading>
+<akn:subsection eId="subsec_1-623_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall direct an individual with a permanent or temporary disability whose disability is compensable under this subchapter to undergo vocational rehabilitation. The Mayor shall provide for furnishing the vocational rehabilitation services. In providing for these services, the Mayor, insofar as practicable, shall use the services or facilities of the District of Columbia government. The cost of providing these services to individuals undergoing vocational rehabilitation under this section shall be paid from the Employees’ Compensation Fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding § 1-623.06, individuals directed to undergo vocational rehabilitation by the Mayor, while undergoing such rehabilitation, shall receive compensation at the rate provided in §§ 1-623.05 and 1-623.10, less the amount of any earnings received from remunerative employment other than employment undertaken pursuant to such rehabilitation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The initial vocational rehabilitation services provided pursuant to this section shall be for a period not to exceed 90 days after the claimant reaches maximum medical improvement and vocational rehabilitation is initiated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>After the initial 90-day period has expired, the vocational rehabilitation services may be extended, at the discretion of the Mayor, for good cause shown, for incremental periods of 90 days, not to exceed one year from the initiation of the initial vocational rehabilitation plan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

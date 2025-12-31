@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-1003"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-1003/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_1003">
+        <akn:num>25-1003</akn:num>
+        <akn:heading>Prohibition on beverage storage containers in the DC Arena.</akn:heading>
+<akn:subsection eId="subsec_25-1003_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person shall bring, or have in his or her possession, anywhere on the premises of the DC Arena, including space referred to in section § 25-114, a container used to hold or store beverages or liquids of any kind, including bottles and cans.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-1003_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This section shall not apply to a person licensed by the Board to possess, sell, give away, transport, or store alcoholic beverages or containers on the premises of the DC Arena; to an employee or agency acting for any such duly authorized or licensed person; or to a container provided on the premises of the DC Arena by the lessee or its concessionaires and tenants.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

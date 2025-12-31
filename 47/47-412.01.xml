@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-412.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-412.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_412_01">
+        <akn:num>47-412.01</akn:num>
+        <akn:heading>Time for performance of acts when last day falls on Saturday, Sunday, or legal holiday.</akn:heading>
+<akn:subsection eId="subsec_47-412_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The last day for the performance of any act shall be determined by including any authorized extension of time.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-412_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The term “legal holiday” means a legal holiday in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1902.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1902.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1902_10">
+        <akn:num>42-1902.10</akn:num>
+        <akn:heading>Contents of declaration; where condominium contains convertible land; expandable, contractable and leasehold condominiums; easements; additionally required descriptions.</akn:heading>
+<akn:subsection eId="subsec_42-1902_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The declaration for every condominium shall contain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1902_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the condominium contains any convertible land the declaration shall also contain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1902_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the condominium is an expandable condominium the declaration shall also contain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1902_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the condominium is a contractable condominium the declaration shall also contain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1902_10_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the condominium is a leasehold condominium, then with respect to any ground lease or other leases the expiration or termination of which will or may terminate or contract the condominium, the declaration shall set forth:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1902_10_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Wherever this section requires a legally sufficient description of land that is submitted to this chapter or that may be added to or withdrawn from the condominium, such requirement shall be deemed to require a legally sufficient description of any easements that are submitted to this chapter or that may be added to or withdrawn from the condominium, as the case may be. In the case of each such easement, the declaration shall contain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1902_10_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>Wherever this section requires a legally sufficient description of land that is submitted to this chapter or that may be added to or withdrawn from the condominium, an added requirement shall be a separate legally sufficient description of all lands in which the unit owners shall or may be tenants in common or joint tenants with any other persons, and a separate legally sufficient description of all lands in which the unit owners shall or may be life tenants. No units shall be situated on any such lands, however, and the declaration shall describe the nature of the unit owners’ estates therein. No such lands shall be shown on the same plat or plats showing other portions of the condominium, but shall be shown instead on separate plats.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

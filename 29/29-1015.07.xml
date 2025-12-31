@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1015.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1015.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1015_07">
+        <akn:num>29-1015.07</akn:num>
+        <akn:heading>Consolidation.</akn:heading>
+<akn:subsection eId="subsec_29-1015_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Constituent limited cooperative associations may agree to call a merger a consolidation under this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1015_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All provisions governing mergers or using the term merger in this chapter shall apply equally to mergers that the constituent associations choose to call consolidations under subsection (a) of his [sic] section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

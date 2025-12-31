@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-515"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-515/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_515">
+        <akn:num>16-515</akn:num>
+        <akn:heading>Attachment of judgments and money or property in hands of marshal.</akn:heading>
+<akn:subsection eId="subsec_16-515_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An attachment may be levied upon debts due to the defendant upon a judgment or decree by a service similar to that directed by section 16-511 upon the debtor owing the debts. Execution may issue for the enforcement of the judgment or decree, notwithstanding the attachment, but the money collected upon the execution shall be paid into court to abide the event of the proceedings in attachment and applied as the court directs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-515_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An attachment may be levied upon money or property of the defendant in the hands of the marshal. It binds the money or property from the time of service, and is a legal excuse to the officer for not paying or delivering the same as he would otherwise be bound to do.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

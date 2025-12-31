@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1041.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1041.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_1041_05">
+        <akn:num>6-1041.05</akn:num>
+        <akn:heading>Certificate of Inclusionary Zoning Compliance.</akn:heading>
+<akn:subsection eId="subsec_6-1041_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No building permit shall be issued for an Inclusionary Development unless:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1041_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A certificate of occupancy shall be required for each inclusionary unit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1041_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No certificate of occupancy for any market rate unit in an Inclusionary Development shall be issued unless the application includes a written statement signed by the Mayor and dated no earlier than 6 months from the date of the application, indicating that the Inclusionary Development is in compliance with the Inclusionary Zoning Program and the Certificate of Inclusionary Zoning Compliance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1041_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor may, by regulation, require the establishment of an escrow account at the time that a certificate of occupancy is issued for a development permitted by the Board of Zoning Adjustment to satisfy its requirements under the Inclusionary Zoning Program with off-site development. The regulations may provide for the payment of the escrow amount into the Housing Production Trust Fund if the off-site development is not constructed after a certain period of time.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-223"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-223/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_223">
+        <akn:num>7-223</akn:num>
+        <akn:heading>Persons required to furnish information.</akn:heading>
+<akn:subsection eId="subsec_7-223_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person with information needed to complete a certificate or report required under this chapter regarding any birth, death, fetal death, marriage, divorce, or annulment shall give such information to the Registrar upon request.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-223_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Not later than the 10th day of the month following the month of occurrence, the administrator of each institution shall send to the vital records section a list showing each birth and death occurring in that institution during the preceding month.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-223_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Not later than the 10th day of the month following the month of occurrence, each funeral director shall send to the Registrar a list showing each dead body embalmed or otherwise prepared for final disposition or finally disposed of by the funeral director during the preceding month.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

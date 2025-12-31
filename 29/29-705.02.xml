@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-705.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-705.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_705_02">
+        <akn:num>29-705.02</akn:num>
+        <akn:heading>Liability for contributions.</akn:heading>
+<akn:subsection eId="subsec_29-705_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A partner’s obligation to contribute money or other property or other benefit to, or to perform services for, a limited partnership shall not be excused by the partner’s death, disability, or other inability to perform personally.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-705_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a partner does not make a promised non-monetary contribution, the partner shall be obligated at the option of the limited partnership to contribute money equal to that portion of the value, as stated in the required information, of the stated contribution which has not been made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-705_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The obligation of a partner to make a contribution or return money or other property paid or distributed in violation of this chapter may be compromised only by consent of all partners. A creditor of a limited partnership which extends credit or otherwise acts in reliance on an obligation described in subsection (a) of this section, without notice of any compromise under this subsection, may enforce the original obligation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

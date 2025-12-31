@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4624"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4624/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4624">
+        <akn:num>47-4624</akn:num>
+        <akn:heading>The Urban Institute tax rebate.</akn:heading>
+<akn:subsection eId="subsec_47-4624_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If The Urban Institute leases and occupies a building or a portion of a building that is subject to real property taxation under Chapter 8 of this title, The Urban Institute shall receive a rebate of its proportionate share of the real property tax paid with respect to the building, if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4624_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The rebate shall be the amount of the portion of the real property tax that was paid, either directly or indirectly, by The Urban Institute under its lease with the lessor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4624_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The application for the rebate shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4624_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a proper application has been made, the Chief Financial Officer shall rebate the tax on or before December 31 of the same calendar year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4624_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The real property tax rebate established by this section shall begin no earlier than January 1, 2015, and shall be effective for a 10-year period. The first year of the 10-year period shall be the year that The Urban Institute occupies a building or a portion of a building that is subject to real property taxation under Chapter 8 of this title pursuant to a signed lease with the lessor of that building or building portion. The amount of the rebate shall not exceed $1 million per tax year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

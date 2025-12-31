@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-111.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-111.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_111_06">
+        <akn:num>8-111.06</akn:num>
+        <akn:heading>Reprimands; suspensions; revocations.</akn:heading>
+<akn:subsection eId="subsec_8-111_06_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Attempts to remove or encapsulate asbestos or material that contains asbestos without a license or permit required under this subchapter;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-111_06_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Fraudulently or deceptively obtains or attempts to obtain a license or permit;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-111_06_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Violates any provision of this subchapter or any rule promulgated pursuant to this subchapter; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-111_06_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Fails to meet any applicable federal or District standard for asbestos abatement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

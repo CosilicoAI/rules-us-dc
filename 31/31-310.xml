@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-310"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-310/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_310">
+        <akn:num>31-310</akn:num>
+        <akn:heading>Accountant’s letter of qualifications.</akn:heading>
+<akn:subsection eId="subsec_31-310_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The accountant is independent with respect to the insurer and conforms to the standards of his or her profession as contained in the Code of Professional Ethics and pronouncements of the American Institute of Certified Public Accountants and the rules of the District of Columbia Board of Accountancy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-310_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The background and experience of the accountant in general is listed, and the experience in audits of insurers of the staff assigned to the engagement and whether each is an independent certified public accountant. Nothing within this chapter shall be construed as prohibiting the accountant from utilizing the staff he or she deems appropriate where use is consistent with the standards prescribed by generally accepted auditing standards.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-310_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The accountant understands the annual audited financial report and his or her opinion thereon will be filed in compliance with this chapter and that the Mayor will be relying on this information in the monitoring and regulation of the financial position of insurers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-310_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The accountant consents to the requirements of § 31-311 and that the accountant consents and agrees to make available for review by the Mayor, his or her designee or his or her appointed agent, the workpapers, as defined in § 31-311.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-310_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The accountant is properly licensed by an appropriate state licensing authority and is a member in good standing in the American Institute of Certified Public Accountants.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-310_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>The accountant is in compliance with the requirements of § 31-305.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

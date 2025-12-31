@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-827"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-827/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_827">
+        <akn:num>25-827</akn:num>
+        <akn:heading>Request for suspension or revocation of license by Chief of Police.</akn:heading>
+<akn:subsection eId="subsec_25-827_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Chief of Police may request the suspension or revocation of a license if the Chief of Police determines that there is a correlation between increased incidents of crime within 1,000 feet of the establishment and the operation of the establishment. The determination shall be based on objective criteria, including incident reports, arrests, and reported crime, occurring within the preceding 18 months and within 1,000 feet of the establishment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-827_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Chief of Police may close an establishment for up to 96 hours, subject to a hearing and disposition by the Board under § 25-826 if he or she finds that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-827_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The order of the Chief of Police to close an establishment under subsection (b) of this section shall terminate upon the disposition by the Board of the matter under § 25-826.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-827_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Chief of Police may, without a hearing, summarily revoke, suspend, or restrict a licensee’s privilege to extended hours of operation under subsection § 25-723(c), (d), and (e) if the licensee’s operation presents a demonstrated danger to the health, safety, or welfare of the public. A licensee may seek review of the summary revocation, suspension, or restriction pursuant to § 25-826(c) and (d).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-827_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Chief of Police may post suspension placards at a closed establishment for up to 96 hours. Any person willfully removing, obliterating, or defacing a suspension placard before the expiration of the 96-hour closure period shall be guilty of a violation of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

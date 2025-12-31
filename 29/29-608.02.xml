@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-608.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-608.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_608_02">
+        <akn:num>29-608.02</akn:num>
+        <akn:heading>Partnership continues after dissolution.</akn:heading>
+<akn:subsection eId="subsec_29-608_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to subsection (b) of this section, a partnership shall continue after dissolution only for the purpose of winding up its activities and affairs. The partnership shall be terminated when the winding up of its activities and affairs is completed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-608_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>At any time after the dissolution of a partnership and before the winding up of its activities and affairs is completed, all of the partners, including any dissociating partner other than a wrongfully dissociating partner, may waive the right to have the partnership’s activities and affairs wound up and the partnership terminated. In that event:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

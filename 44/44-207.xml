@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-207"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-207/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_207">
+        <akn:num>44-207</akn:num>
+        <akn:heading>Inspections.</akn:heading>
+<akn:subsection eId="subsec_44-207_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall conduct inspections of clinical laboratories licensed to perform moderately complex and highly complex tests, including inspections of their methods, procedures, materials, staff, and equipment and may conduct inspections of clinical laboratories licensed to perform only waived tests.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-207_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>To ensure that each clinical laboratory is in compliance with the provisions of this chapter, and the rules issued pursuant to this chapter, the Mayor shall conduct an on-site inspection prior to the laboratory’s initial licensure and before each license renewal. Temporary licenses or renewals may be granted for a period not to exceed 60 days to afford the Mayor sufficient time to conduct the on-site inspection. The Mayor may issue a provisional license for less than one year to a new clinical laboratory, pending satisfactory completion of additional follow-up inspections.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

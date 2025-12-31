@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-209"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-209/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4A_209">
+        <akn:num>28:4A-209</akn:num>
+        <akn:heading>Acceptance of payment order.</akn:heading>
+<akn:subsection eId="subsec_28:4A-209_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to subsection (d) of this section, a receiving bank other than the beneficiary’s bank accepts a payment order when it executes the order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-209_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to subsections (c) and (d) of this section, a beneficiary’s bank accepts a payment order at the earliest of the following times:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-209_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Acceptance of a payment order cannot occur before the order is received by the receiving bank. Acceptance does not occur under subsection (b)(2) or (b)(3) of this section if the beneficiary of the payment order does not have an account with the receiving bank, the account has been closed, or the receiving bank is not permitted by law to receive credits for the beneficiary’s account.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-209_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A payment order issued to the originator’s bank cannot be accepted until the payment date if the bank is the beneficiary’s bank, or the execution date if the bank is not the beneficiary’s bank. If the originator’s bank executes the originator’s payment order before the execution date or pays the beneficiary of the originator’s payment order before the payment date and the payment order is subsequently cancelled pursuant to § 28:4A-211(b), the bank may recover from the beneficiary any payment received to the extent allowed by the law governing mistake and restitution.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

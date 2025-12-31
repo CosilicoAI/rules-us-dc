@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1210"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1210/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1210">
+        <akn:num>26-1210</akn:num>
+        <akn:heading>Continued operations of existing associations and savings and loan holding companies.</akn:heading>
+<akn:subsection eId="subsec_26-1210_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This chapter shall not be construed to require divestiture by an association or a savings and loan holding company that acquired its subsidiary District association or District savings and loan holding company prior to October 12, 1988.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1210_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This chapter shall not require a regional association that, on October 12, 1988, has branch offices in the District and conducts business in the District to divest itself of any branch offices or to cease or otherwise limit its business or branching activities in the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

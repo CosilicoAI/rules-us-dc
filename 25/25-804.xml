@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-804"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-804/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_804">
+        <akn:num>25-804</akn:num>
+        <akn:heading>Notifications from DCRA, Fire Department, and Metropolitan Police Department.</akn:heading>
+<akn:subsection eId="subsec_25-804_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In accordance with procedures that the Mayor shall establish, the Department of Consumer and Regulatory Affairs and the Fire Department shall promptly notify the Board if a licensed establishment is the subject of a citation or other enforcement action for a violation of laws or regulations enforced by these departments.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-804_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a licensed establishment is the subject of an incident report by the Metropolitan Police Department, the Metropolitan Police Department shall file a copy of the incident report with the Board. The Board shall make the report available for public inspection upon request.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

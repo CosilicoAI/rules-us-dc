@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-522"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-522/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_522">
+        <akn:num>23-522</akn:num>
+        <akn:heading>Applications for search warrants.</akn:heading>
+<akn:subsection eId="subsec_23-522_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each application for a search warrant shall be made in writing, or by telephone or other appropriate means, including facsimile transmissions or other electronic communications, upon oath or affirmation to a judicial officer, pursuant to the Superior Court Rules of Criminal Procedure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-522_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each application shall include —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-522_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The application may also contain a request that the search warrant be made executable at any hour of the day or night upon the ground that there is probable cause to believe that (1) it cannot be executed during the hours of daylight, (2) the property sought is likely to be removed or destroyed if not seized forthwith, or (3) the property sought is not likely to be found except at certain times or in certain circumstances. Any request made pursuant to this subsection must be accompanied and supported by allegations of fact supporting such request.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

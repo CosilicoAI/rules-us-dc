@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/37-102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/37-102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_37_102">
+        <akn:num>37-102</akn:num>
+        <akn:heading>Coordinated management.</akn:heading>
+<akn:subsection eId="subsec_37-102_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Department of General Services shall supervise and provide coordinated management over all operations in the Eastern Market Square. On April 16, 1999, the District of Columbia shall notify any extant lessees and sub-assignees with an existing lease, contract, agreement or legally binding understanding with respect to any occupant or occupants of the Eastern Market building of the status of their lease or agreement, including the date of termination or expiration of their lease or sub-assignment or any other change to an agreement or legally binding understanding with the District of Columbia that is required by this chapter. The District of Columbia shall remain responsible for capital expenditures for Eastern Market and the Eastern Market Square.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-102_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The CPMO may promulgate rules to implement this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

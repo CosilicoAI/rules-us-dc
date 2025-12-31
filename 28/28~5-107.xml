@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:5-107"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:5-107/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:5_107">
+        <akn:num>28:5-107</akn:num>
+        <akn:heading>Confirmer, nominated person, and adviser.</akn:heading>
+<akn:subsection eId="subsec_28:5-107_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A confirmer is directly obligated on a letter of credit and has the rights and obligations of an issuer to the extent of its confirmation. The confirmer also has rights against and obligations to the issuer as if the issuer were an applicant and the confirmer had issued the letter of credit at the request and for the account of the issuer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:5-107_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A nominated person who is not a confirmer is not obligated to honor or otherwise give value for a presentation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:5-107_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person requested to advise may decline to act as an adviser. An adviser that is not a confirmer is not obligated to honor or give value for a presentation. An adviser undertakes to the issuer and to the beneficiary accurately to advise the terms of the letter of credit, confirmation, amendment, or advice received by that person and undertakes to the beneficiary to check the apparent authenticity of the request to advise. Even if the advice is inaccurate, the letter of credit, confirmation, or amendment is enforceable as issued.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:5-107_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A person who notifies a transferee beneficiary of the terms of a letter of credit, confirmation, amendment, or advice has the rights and obligations of an adviser under subsection (c) of this section. The terms in the notice to the transferee beneficiary may differ from the terms in any notice to the transferor beneficiary to the extent permitted by the letter of credit, confirmation, amendment, or advice received by the person who so notifies.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1802.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1802.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1802_04">
+        <akn:num>2-1802.04</akn:num>
+        <akn:heading>Final decision.</akn:heading>
+<akn:subsection eId="subsec_2-1802_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in Chapter 18A of this title, the order of the administrative law judge or attorney examiner shall become final 15 calendar days after service of the order upon the respondent, unless within that time the party files an administrative appeal pursuant to subchapter III of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1802_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may prepare a list of delinquent respondents who have not paid or appealed, within 15 days of service, fines, penalties, costs, and interests resulting from final orders, and may periodically publish the list in one or more general circulation newspapers published in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

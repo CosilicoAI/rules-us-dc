@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-316"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-316/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_316">
+        <akn:num>28:2-316</akn:num>
+        <akn:heading>Exclusion or modification of warranties.</akn:heading>
+<akn:subsection eId="subsec_28:2-316_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Words or conduct relevant to the creation of an express warranty and words or conduct tending to negate or limit warranty shall be construed wherever reasonable as consistent with each other; but subject to the provisions of this article on parol or extrinsic evidence (section 28:2-202) negation or limitation is inoperative to the extent that such construction is unreasonable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-316_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous. Language to exclude all implied warranties of fitness is sufficient if it states, for example, that “There are no warranties which extend beyond the description on the face hereof ”.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-316_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsection (2)</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-316_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Remedies for breach of warranty can be limited in accordance with the provisions of this article on liquidation or limitation of damages and on contractual modification of remedy (sections 28:2-718 and 28:2-719).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

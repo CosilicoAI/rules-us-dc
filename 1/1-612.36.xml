@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.36"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.36/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_612_36">
+        <akn:num>1-612.36</akn:num>
+        <akn:heading>Receipt and use of transferred leave.</akn:heading>
+<akn:subsection eId="subsec_1-612_36_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each agency or independent agency shall maintain an accounting of the voluntary leave transfer program and the leave records of the recipient employee and the leave contributor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_36_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A recipient employee may use contributed annual or universal leave transferred under this section in the same manner as if the leave had accrued to the recipient employee; provided, that any annual, universal leave, sick leave, or advanced leave shall be exhausted before any transferred leave may be used.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_36_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>During the period in which transferred leave is being used, no annual, universal, or sick leave shall accrue to the recipient employee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_36_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Use of transferred leave shall terminate when:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_36_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Unused transferred leave shall not be subject to any form of lump-sum leave payment upon the recipient employee’s separation from employment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

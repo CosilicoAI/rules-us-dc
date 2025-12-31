@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-503"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-503/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_503">
+        <akn:num>28:2-503</akn:num>
+        <akn:heading>Manner of seller’s tender of delivery.</akn:heading>
+<akn:subsection eId="subsec_28:2-503_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Tender of delivery requires that the seller put and hold conforming goods at the buyer’s disposition and give the buyer any notification reasonably necessary to enable him to take delivery. The manner, time and place for tender are determined by the agreement and this article, and in particular</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-503_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Where the case is within the next section respecting shipment tender requires that the seller comply with its provisions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-503_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Where the seller is required to deliver at a particular destination tender requires that he comply with subsection (1) and also in any appropriate case tender documents as described in subsections (4) and (5) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-503_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Where goods are in the possession of a bailee and are to be delivered without being moved</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-503_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Where the contract requires the seller to deliver documents</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

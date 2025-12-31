@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-824"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-824/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_824">
+        <akn:num>47-824</akn:num>
+        <akn:heading>Assessments — Notice to taxpayer; contents.</akn:heading>
+<akn:subsection eId="subsec_47-824_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (b) of this section, beginning as soon as possible after January 1, but no later than March 1, each owner of real property shall be notified of the assessment of his or her property for the next real property tax year. The notice, or the statement accompanying the notice, shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-824_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-824_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to the information required in subsections (a) and (b) of this section, beginning with real property assessments for tax year 2013 and for each real property tax year thereafter, each owner of real property with a historic landmark designation and each owner of real property located within a historic district shall be provided, in accordance with [§ 6-1109.04], information on the current law and regulation relating to historic property improvements, including regarding:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

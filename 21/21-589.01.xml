@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-589.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-589.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_589_01">
+        <akn:num>21-589.01</akn:num>
+        <akn:heading>Interim provisions for term of commitment.</akn:heading>
+<akn:subsection eId="subsec_21-589_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The commitment of a person committed under section 21-545 for an indeterminate period of time shall expire 548 days after December 10, 2004, unless the chief clinical officer of the Department, facility, hospital, or mental health provider has petitioned for recommitment of the person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-589_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A petition for recommitment under this section shall be subject to the provisions for a petition for renewal of commitment brought under section 21-545.01 unless the provision is inconsistent with this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-589_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A petition for recommitment may be filed at any time during the 548-day period, but not later than 60 days prior to the expiration of the 548-day period. For good cause shown, a petition for recommitment may be filed within the last 60 days of the 548-day period.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-589_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a petition for recommitment is pending at the expiration of the 548-day period, the period of commitment shall be extended pending resolution of the petition.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-589_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>This section shall apply as of July 20, 2005.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

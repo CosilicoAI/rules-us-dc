@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-661.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-661.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_661_01">
+        <akn:num>6-661.01</akn:num>
+        <akn:heading>Mayor to prescribe fees for permits, certificates, and transcripts by Inspector of Buildings; schedule of fees to be displayed.</akn:heading>
+<akn:subsection eId="subsec_6-661_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (b) of this section, the Mayor of the District of Columbia is hereby authorized and directed, from time to time, to prescribe a schedule of fees to be paid for permits, certificates, and transcripts of records issued by the Inspector of Buildings of the District of Columbia, for the erection, alteration, repair, or removal of buildings and their appurtenances, and for the location of certain establishments for which permits may be required under the building regulations of the District of Columbia, said fees to cover the cost and expense of the issuance of said permits and certificates and of the inspection of the work done under said permits; said schedule shall be printed and conspicuously displayed in the office of said Inspector of Buildings; said fees shall be paid to the Collector of Taxes of the District of Columbia and shall be deposited by him in the Treasury of the United States to the credit of the revenues of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-661_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A child development home, as defined in § 4-401(3), shall be exempt from all fees relating to certificates of occupancy; other than reasonable fees charged for providing copies of a certificate of occupancy beyond the one certified copy of the certificate of occupancy to which the child development home is entitled free of charge.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

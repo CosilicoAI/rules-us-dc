@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1403.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1403.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1403_04">
+        <akn:num>2-1403.04</akn:num>
+        <akn:heading>Filing of complaints and mediation.</akn:heading>
+<akn:subsection eId="subsec_2-1403_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person or organization, whether or not an aggrieved party, may file with the Office a complaint of a violation of the provisions of this chapter, including a complaint of general discrimination, unrelated to a specific person or instance. The complaint shall state the name and address of the person alleged to have committed the violation, hereinafter called the respondent, and shall set forth the substance thereof, and such other information as may be required by the Office. The Director, sua sponte, may investigate individual instances and patterns of conduct prohibited by the provisions of this chapter and may initiate complaints in connection therewith. Any complaint under this chapter shall be filed with the Office within 1 year of the occurrence of the unlawful discriminatory practice, or the discovery thereof, except as may be modified in accordance with § 2-1403.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1403_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Complaints filed with the Office under the provisions of this chapter may be voluntarily withdrawn at the request of the complainant at any time prior to the completion of the Office’s investigation and findings as specified in § 2-1403.05, except that the circumstances accompanying said withdrawal may be fully investigated by the Office.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1403_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A mediation program shall be established and all complaints shall be mediated before the Office commences a full investigation. During the mediation the parties shall discuss the issues of the complaint in an effort to reach an agreement that satisfies the interests of all concerned parties. The Office shall grant the parties up to 45 days within which to mediate a complaint. If an agreement is reached during the mediation process, the terms of the agreement shall control resolution of the complaint. If an agreement is not reached, the Office shall proceed with an investigation of the complaint.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1403_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Complaints filed with the Office alleging unlawful discrimination in residential real estate transactions or violations of FHA, shall be served on the complainant and respondent within 5 days of filing, with a notice identifying the alleged discriminatory practice and advising the parties of their procedural rights and obligations under this chapter and  FHA. The Office shall refer the complaint for mediation, but shall begin investigating the complaint within 30 days of its filing if the parties fail to reach an agreement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4609"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4609/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4609">
+        <akn:num>47-4609</akn:num>
+        <akn:heading>New Convention Center Hotel project-deed and recordation tax exemption.</akn:heading>
+<akn:subsection eId="subsec_47-4609_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4609_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All transfers of real property in the New Convention Center Hotel TIF Area pursuant to the project and through the date that  is 6 months after the effective date of the lease authorized under [part C of subchapter I of Chapter 12 of Title 10] and any  transfer by the District of Lot 45 in Square 374 in connection with the project shall be exempt from the taxes imposed by §§ 42-1103 and 47-903.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

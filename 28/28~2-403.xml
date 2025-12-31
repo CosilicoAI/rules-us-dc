@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-403"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-403/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_403">
+        <akn:num>28:2-403</akn:num>
+        <akn:heading>Power to transfer; good faith purchase of goods; “entrusting”.</akn:heading>
+<akn:subsection eId="subsec_28:2-403_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>A purchaser of goods acquires all title which his transferor had or had power to transfer except that a purchaser of a limited interest acquires rights only to the extent of the interest purchased. A person with voidable title has power to transfer a good title to a good faith purchaser for value. When goods have been delivered under a transaction of purchase the purchaser has such power even though</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-403_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Any entrusting of possession of goods to a merchant who deals in goods of that kind gives him power to transfer all rights of the entruster to a buyer in ordinary course of business.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-403_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Entrusting” includes any delivery and any acquiescence in retention of possession regardless of any condition expressed between the parties to the delivery or acquiescence and regardless of whether the procurement of the entrusting or the possessor’s disposition of the goods have been such as to be larcenous under the criminal law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-403_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The rights of other purchasers of goods and of lien creditors are governed by the articles on secured transactions (Article 9), bulk sales (Article 6) and documents of title (Article 7).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

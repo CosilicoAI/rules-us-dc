@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-204.53"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-204.53/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_204_53">
+        <akn:num>4-204.53</akn:num>
+        <akn:heading>Establishment of the Medicaid and Special Education Reform Fund.</akn:heading>
+<akn:subsection eId="subsec_4-204_53_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a nonlapsing, revolving fund the Medicaid and Special Education Reform Fund into which shall be deposited funds made available for the purposes of Medicaid, Medicare, Foster Care and Adoption Assistance, and Special Education reform described in § 4-204.54. The Fund shall be administered by the Chief Financial Officer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_53_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All amounts deposited in the Fund shall be appropriated without fiscal year limitation pursuant to an act of Congress. All amounts deposited in the Fund shall not revert to the General Fund at the end of any fiscal year or at any other time, but shall be continually available for the purposes of Medicaid, Medicare, Foster Care and Adoption Assistance, and Special Education reform described in § 4-204.54, subject to authorization by Congress in an appropriations act.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

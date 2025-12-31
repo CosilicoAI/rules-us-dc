@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4511"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4511/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4511">
+        <akn:num>28-4511</akn:num>
+        <akn:heading>Limitations on actions.</akn:heading>
+<akn:subsection eId="subsec_28-4511_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An action under section 28-4506 to recover a criminal penalty is barred if the action is not commenced within four (4) years after the commission of an act constituting in whole or in part the offense or wrongful action charged.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4511_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An action under section 28-4507 or 28-4508 to recover damages is barred if the action is not commenced within four (4) years after the cause of action accrues, or within one (1) year after the conclusion of any timely action brought by the District of Columbia under section 28-4506, based in whole or in part on any matter complained of in the action for damages under section 28-4507 or 28-4508, whichever is later.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

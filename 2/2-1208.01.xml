@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1208.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1208.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1208_01">
+        <akn:num>2-1208.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_2-1208_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Chief Financial Officer” means the Office of the Chief Financial Officer established by § 1-204.24a.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1208_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Economic development incentive” or “incentive” means any expenditure of public funds by a granting body for the purpose of stimulating economic development within the District of Columbia, including any bond issuance-including pilot bond, tax increment financing bond, and revenue bond issuances, grant, loan, loan guarantee, fee waiver, land price subsidy, matching fund, tax abatement, tax exemption, tax credit, and any other tax expenditure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1208_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Granting body” means an agency, board, office, instrumentality, or authority of the District government that provides or authorizes an economic development incentive.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1208_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Recipient” means any non-governmental person association, corporation, joint venture, partnership, or other entity that receives an economic development incentive.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1208_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Tax expenditure” shall include any loss of revenue to the Government of the District of Columbia that is attributable to an exemption, abatement, credit, reduction, or other exclusion under District tax law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1208_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Unified Economic Development Budget Report” or “Report” means the document that the Chief Financial Officer is required to create under § 2-1208.02.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

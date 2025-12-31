@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-922"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-922/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_922">
+        <akn:num>9-922</akn:num>
+        <akn:heading>Jurisdiction of courts; liability for contracts and torts.</akn:heading>
+<akn:subsection eId="subsec_9-922_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The courts of the Commonwealth of Virginia shall have original jurisdiction over all actions brought by or against the Authority, which courts shall in all cases apply the law of the Commonwealth of Virginia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-922_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Authority shall be liable for its contracts and for its torts and those of its members, officers, employees, and agents committed in the conduct of any proprietary function, in accordance with the law of the Commonwealth of Virginia but shall not be liable for any torts occurring in the performance of a governmental function. The exclusive remedy for breach of contracts and torts for which the Authority shall be liable, as provided by this chapter, shall be by suit against the Authority. Nothing in this chapter shall be construed as a waiver by the District or the Commonwealth of Virginia or its political subdivisions of any immunity from suit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-922_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Authority shall be responsible for all executory contracts entered into by the United States with respect to the former Metropolitan Washington Airports before the date of acquisition of those airports, except that the procedure for disputes resolution contained in any contract shall continue to govern the performance of the contract unless otherwise agreed to by the parties to the contract.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-922_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Authority shall not be responsible for any tort claims arising before the date of transfer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

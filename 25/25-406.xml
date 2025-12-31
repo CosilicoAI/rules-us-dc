@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-406"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-406/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_406">
+        <akn:num>25-406</akn:num>
+        <akn:heading>Application for a solicitor’s license.</akn:heading>
+<akn:subsection eId="subsec_25-406_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The full name and home address of the applicant, if an individual;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-406_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The business name and address of the applicant;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-406_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The name, business address, and business telephone number for the vendor  that the applicant represents; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-406_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Written statements and evidence establishing to the satisfaction of the  Board that the applicant meets all of the qualifications set forth in § 25-301.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

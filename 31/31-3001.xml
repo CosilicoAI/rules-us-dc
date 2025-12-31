@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3001"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3001/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3001">
+        <akn:num>31-3001</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-3001_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Health benefit plan” means an accident and health insurance policy or  certificate, hospital and medical services corporation contract, health  maintenance organization subscriber contract, plan provided by a multiple  employer welfare arrangement, or plan provided by another benefit arrangement.  The term “health benefit plan” shall not mean accident only, credit, or  disability insurance; coverage of medicare services or federal employee health  plans under contracts with the United States Government; medicare supplement  or long-term care insurance; specified disease insurance; hospital confinement  indemnity coverage; limited benefit health coverage; coverage issued as a  supplement to liability insurance; insurance arising out of a workers’ compensation or similar law; automobile medical payment insurance; medical  expense and loss of income benefits; or insurance under which benefits are  payable with or without regard to fault and which is statutorily required to  be contained in a liability insurance policy or equivalent self-insurance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3001_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Health insurer” means a person that provides one or more health benefit  plans or insurance in the District of Columbia, including an insurer, a  hospital and medical services corporation, a fraternal benefit society, a  health maintenance organization, a multiple employer welfare arrangement, or  any other person providing a plan of health insurance subject to the authority  of the Commissioner of the Department of Insurance, Securities, and Banking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3001_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Insured” means a person covered by a health benefit plan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

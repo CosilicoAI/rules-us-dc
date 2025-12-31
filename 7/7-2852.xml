@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2852"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2852/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2852">
+        <akn:num>7-2852</akn:num>
+        <akn:heading>Prohibition.</akn:heading>
+<akn:subsection eId="subsec_7-2852_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No sharp shall be sold, distributed, used, or possessed within the District of Columbia (“District”) unless its premarket notification for medical devises with engineered sharps injury protections has been approved by the United States Food and Drug Administration, pursuant to section 510(k) of the Federal Food, Drug, and Cosmetic Act, approved October 10, 1962 (76 Stat. 794; 21 U.S.C. § 360(k)).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2852_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Director of the Department of Health (“Director”) may provide a waiver of the prohibition in subsection (a) of this section to any person that can establish through objective data that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2852_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For a period of one year following the implementation of the prohibition pursuant to subsection (a) of this section and § 7-2858, a waiver of the prohibition shall be granted to all persons for use of syringes that are pre-filled with medications by a pharmaceutical company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2852_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This chapter shall not apply to the sale, distribution, use, or possession of sharps used in the practice of dentistry or in the self-administration of drugs, medicines, or other treatments.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

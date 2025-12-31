@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-508"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-508/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_508">
+        <akn:num>44-508</akn:num>
+        <akn:heading>Reporting to licensing authority.</akn:heading>
+<akn:subsection eId="subsec_44-508_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (b) of this section, in the event that a health professional’s: (1) clinical privileges are reduced, suspended, revoked, or not renewed; or (2) employment or staff membership is involuntarily terminated or restricted for reasons of, or voluntarily terminated or restricted while involuntary action is being contemplated for reasons of, professional incompetence, mental or physical impairment, or unprofessional or unethical conduct, a facility or agency shall submit a written report detailing the facts of the case to the duly constituted governmental board, commission, or other authority, if one exists, responsible for licensing that health professional.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-508_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The reporting requirement in subsection (a) of this section shall not apply to a temporary suspension or relinquishment of privileges or responsibilities if a health professional enters and successfully completes a prescribed program of education or rehabilitation. As soon as there exists no reasonable expectation that he or she will enter and successfully complete such a prescribed program, the facility or agency shall submit a report forthwith pursuant to subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

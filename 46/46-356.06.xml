@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-356.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-356.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_356_06">
+        <akn:num>46-356.06</akn:num>
+        <akn:heading>Procedure to contest validity or enforcement of registered support order.</akn:heading>
+<akn:subsection eId="subsec_46-356_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A nonregistering party seeking to contest the validity or enforcement of a registered support order in the District shall request a hearing within the time required by § 46-356.05. The nonregistering party may seek to vacate the registration, to assert any defense to an allegation of noncompliance with the registered order, or to contest the remedies being sought or the amount of any alleged arrearages pursuant to § 46-356.07.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-356_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the nonregistering party fails to contest the validity or enforcement of the registered support order in a timely manner, the order is confirmed by operation of law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-356_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a nonregistering party requests a hearing to contest the validity or enforcement of the registered support order, the registering tribunal shall schedule the matter for hearing and give notice to the parties of the date, time, and place of the hearing.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

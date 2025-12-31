@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-203.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-203.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_203_01">
+        <akn:num>29-203.01</akn:num>
+        <akn:heading>Interest exchange authorized.</akn:heading>
+<akn:subsection eId="subsec_29-203_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this section, by complying with this subchapter:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-203_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this section, by complying with the provisions of this subchapter applicable to foreign entities a foreign entity may be the acquiring or acquired entity in an interest exchange under this subchapter if the interest exchange is authorized by the law of the foreign entity’s jurisdiction of formation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-203_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a protected agreement contains a provision that applies to a merger of a domestic entity, but does not refer to an interest exchange, the provision shall apply to an interest exchange in which the domestic entity is the acquired entity as if the interest exchange were a merger until the provision is amended after the effective date of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-203_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This subchapter shall not apply to a transaction under:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

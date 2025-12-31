@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-226"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-226/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_226">
+        <akn:num>46-226</akn:num>
+        <akn:heading>Limitation of liability.</akn:heading>
+<akn:subsection eId="subsec_46-226_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Neither the District nor its officers or employees shall be responsible for any injury resulting from the improper enforcement of a lien or a notice or order to withhold, except that the District, its officers, and employees shall be liable for damages caused by gross negligence in the enforcement of liens or withholdings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-226_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A holder who complies with a notice or order to withhold that is regular on its face shall not be subject to civil liability to any individual or agency for conduct in compliance with that notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-226_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No public or private entity shall be liable for injury resulting from providing access to records under § 46-226.03(a)(2) through (4).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-154"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-154/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_154">
+        <akn:num>7-154</akn:num>
+        <akn:heading>Establishment of Public Health Coordination Advisory Committee.</akn:heading>
+<akn:subsection eId="subsec_7-154_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established a Public Health Coordination Advisory Committee (“Committee”) which shall be responsible for advising the Director of the Department of Public Health, the Mayor and the Council on policy matters related to the effective and efficient coordination of the delivery of public health care services in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-154_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Committee shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-154_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The duties of the Committee shall include advising the Director of the Department of Public Health on the development, implementation and monitoring of a comprehensive plan to coordinate the delivery of District health care services provided by the public health clinics of the Department of Public Health and the District of Columbia General Hospital to provide a comprehensive continuum of efficient and quality health care services to District residents.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

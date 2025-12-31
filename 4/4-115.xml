@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-115"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-115/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_115">
+        <akn:num>4-115</akn:num>
+        <akn:heading>Limitation in number of dependent children.</akn:heading>
+<akn:subsection eId="subsec_4-115_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The number of children who have been in care pursuant to § 4-114(a)(2) for a period of 2 years or more, should be:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-115_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The following steps will be taken to achieve these goals:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-115_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>During the fiscal years ending September 30, 1992, September 30, 1993, and September 30, 1994, the Director of the Department of Human Services (“Director”) shall report quarterly to the Council of the District of Columbia (“Council”) regarding:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-115_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>On November 1 of each year, the Director shall submit to the Council a summary of the cases terminated during the previous fiscal year and any difficulties encountered in reaching the goal stated in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

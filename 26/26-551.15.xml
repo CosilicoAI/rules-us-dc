@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-551.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-551.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_551_15">
+        <akn:num>26-551.15</akn:num>
+        <akn:heading>Modification or rescission of orders.</akn:heading>
+<akn:subsection eId="subsec_26-551_15_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>It is in the public interest to modify or rescind the final order; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-551_15_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>It is reasonable to believe that the financial institution, the financial institution’s affiliate or subsidiary, or the other party to the investigatory proceeding will engage in safe and sound practices and will comply with the District of Columbia Banking Code.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

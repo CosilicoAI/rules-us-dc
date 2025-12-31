@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2068"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2068/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2068">
+        <akn:num>21-2068</akn:num>
+        <akn:heading>Sale, encumbrance, or transaction involving conflict of interest; voidable; exceptions.</akn:heading>
+<akn:subsection eId="subsec_21-2068_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The incapacitated individual;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2068_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The attorney of record for each party;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2068_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The individual most closely related to the subject of the intervention proceeding by blood, marriage, or domestic partnership, unless that individual’s name or whereabouts is unknown and cannot be reasonably ascertained;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2068_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The individual or facility, if any, having custody of the subject of the intervention proceeding;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2068_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The individual, if any, proposed for appointment by will as a guardian; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2068_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>The individual, if any, appointed or proposed for appointment as guardian ad litem.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

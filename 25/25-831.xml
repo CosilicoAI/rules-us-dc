@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-831"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-831/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_831">
+        <akn:num>25-831</akn:num>
+        <akn:heading>Penalty for violation where no specific penalty provided; additional penalty for failure to perform certain required acts.</akn:heading>
+<akn:subsection eId="subsec_25-831_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person who violates any of the provisions of this title, or regulations under this title, for which no specific penalty is provided shall be guilty of a misdemeanor and, upon conviction, shall be punished by a fine of not more than the amount set forth in [§ 22-3571.01], or imprisoned for not more than one year, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-831_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person required to file a return or report or perform any act under the provisions of this title who wilfully fails or refuses to file the return or report or perform the act within the time required shall be guilty of a misdemeanor and, upon conviction, shall be fined not more than the amount set forth in [§ 22-3571.01], or imprisoned for not more than 3 years, or both. The penalty provided herein shall be in addition to other penalties provided by this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-831_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Violations of this section which are misdemeanors shall be prosecuted on information filed in the Superior Court of the District of Columbia by the Corporation Counsel. Violations of this subsection which are felonies shall be prosecuted by the United States Attorney for the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-831_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A civil fine may be imposed as an alternative sanction for any violation of this title for which no specific penalty is provided, or any rules or regulations issued under the authority of this title, under Chapter 18 of Title 2. Adjudication of an infraction of this chapter shall be under Chapter 18 of Title 2.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

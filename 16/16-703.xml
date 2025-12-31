@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-703"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-703/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_703">
+        <akn:num>16-703</akn:num>
+        <akn:heading>Process of Criminal Division; fees.</akn:heading>
+<akn:subsection eId="subsec_16-703_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Criminal Division of the Superior Court may issue process for the arrest of a person against whom an indictment is returned, an information is filed, or a complaint under oath is made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-703_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Process shall —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-703_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In cases arising out of violations of any of the ordinances of the District of Columbia, process shall be directed to the Chief of Police, who shall execute the process and make return thereof in like manner as in other cases.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-703_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In all other criminal cases, the process issued by the Superior Court may be directed to the United States marshal or to the Chief of Police.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-703_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For services pursuant to subsection (d) of this section the marshal shall receive the fees prescribed by section 15-709(b).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

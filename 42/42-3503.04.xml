@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3503.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3503.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3503_04">
+        <akn:num>42-3503.04</akn:num>
+        <akn:heading>Tenant assistance payments.</akn:heading>
+<akn:subsection eId="subsec_42-3503_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Basic formula. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3503_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Applicable fair market rent. — The Department shall compute the tenant assistance payment for a family entering the Tenant Assistance Program on the most recent published fair market rents on the date of lease approval for the family.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3503_04_b_1">
+      <akn:num>(b-1)</akn:num>
+      <akn:content><akn:p>Payment cap. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3503_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Rent not capped by payment standard. — Under the tenant assistance payment computation described in subsections (a) and (b) of this section, the amount of tenant assistance payment does not increase if the unit rents for more than the applicable fair market rent, but a tenant is not prohibited from renting such a unit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3503_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No reimbursement of amounts family owes housing provider. — The Department shall not reimburse the housing provider for the portion of the rent not covered by the tenant assistance payment, damages, or other amounts due under the lease.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3503_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>No payments for vacancies. — If a family moves out, the housing provider shall promptly notify the Department and the Department shall make no additional tenant assistance payments to the housing provider for any month after that in which the family moves. The housing provider may retain the tenant assistance payment for the month in which the family moves.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3503_04_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3503_04_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>Finders-keepers policy. —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

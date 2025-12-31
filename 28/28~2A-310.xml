@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-310"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-310/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2A_310">
+        <akn:num>28:2A-310</akn:num>
+        <akn:heading>Lessor’s and lessee’s rights when goods become accessions.</akn:heading>
+<akn:subsection eId="subsec_28:2A-310_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Goods are “accessions” when they are installed in or affixed to other goods.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-310_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The interest of a lessor or a lessee under a lease contract entered into before the goods became accessions is superior to all interests in the whole except as stated in subsection (d) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-310_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The interest of a lessor or a lessee under a lease contract entered into at the time or after the goods became accessions is superior to all subsequently acquired interests in the whole except as stated in subsection (d) of this section, but is subordinate to interests in the whole existing at the time the lease contract was made unless the holders of such interests in the whole have in writing consented to the lease or disclaimed an interest in the goods as part of the whole.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-310_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The interest of a lessor or a lessee under a lease contract described in subsection (b) or (c) of this section is subordinate to the interest of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-310_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>When under subsections (b) or (c) and (d) of this section, a lessor or a lessee of accessions holds an interest that is superior to all interests in the whole, the lessor or the lessee may (i) on default, expiration, termination, or cancellation of the lease contract by the other party but subject to the provisions of the lease contract and this article, or (ii) if necessary to enforce his or her other rights and remedies under this article, remove the goods from the whole, free and clear of all interests in the whole, but he or she must reimburse any holder of an interest in the whole who is not the lessee and who has not otherwise agreed for the cost of repair of any physical injury but not for any diminution in value of the whole caused by the absence of the goods removed or by any necessity for replacing them. A person entitled to reimbursement may refuse permission to remove until the party seeking removal gives adequate security for the performance of this obligation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

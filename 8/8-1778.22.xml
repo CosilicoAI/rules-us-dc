@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1778.22"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1778.22/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1778_22">
+        <akn:num>8-1778.22</akn:num>
+        <akn:heading>Bond authorization.</akn:heading>
+<akn:subsection eId="subsec_8-1778_22_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Council approves and authorizes the issuance of one or more series of bonds in an aggregate principal amount not to exceed $250 million. The bonds, which may be issued at any time and from time to time, in one or more series, shall be tax-exempt or taxable as the Mayor shall determine and shall be payable and secured as provided in § 8-1778.23.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1778_22_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor is authorized to pay from the proceeds of a bond’s issuance costs, the cost of funding capitalized interest and required reserves, and other costs authorized by § 1-204.90(f). In the event bonds are sold other than through a public offering, the issuance costs may be paid from the Special Energy Assessment Program Administrative Account.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1778_22_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The remaining proceeds of the bonds shall be paid into the National Capital Energy Fund established by § 8-1778.41 and used to provide funds for the initial installation of Energy Efficiency Improvements that are permanently attached to residential, commercial, industrial, or other real property as authorized under subchapter III of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5330"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5330/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5330">
+        <akn:num>31-5330</akn:num>
+        <akn:heading>Licensing of agents.</akn:heading>
+<akn:subsection eId="subsec_31-5330_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Agents of societies shall be licensed in accordance with the provisions of the laws regulating the licensing, revocation, suspension, or termination of license of resident and nonresident agents. No written or other examination shall be required of a person who is certified by a society as having been its full-time agent prior to April 29, 1998.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5330_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No examination or license shall be required of any regular salaried officer, employee, or member of a licensed society who devotes substantially all of his or her services to activities other than the solicitation of fraternal insurance contracts from the public, and who receives for the solicitation of such contracts no commission or other compensation directly dependent upon the amount of business obtained.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5330_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any agent, representative, or member of a society who devotes, or intends to devote, less than 50% of such person’s time to the solicitation and procurement of insurance contracts for such society shall be exempt from the requirements of subsection (a) of this section. Any person who, in the preceding calendar year, has received or will receive a commission or other compensation for soliciting and procuring the type of contracts listed in paragraphs (1) through (5) of this subsection on behalf of an individual society, shall be presumed to be devoting, or intending to devote, 50% of the person’s time to the solicitation or procurement of insurance contracts for such society:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

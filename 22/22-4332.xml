@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4332"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4332/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_4332">
+        <akn:num>22-4332</akn:num>
+        <akn:heading>Delegation of functions by Secretary of the Interior and Mayor; Council to make regulations; “Mayor” and “Secretary of the Interior” defined.</akn:heading>
+<akn:subsection eId="subsec_22-4332_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Secretary of the Interior and the Mayor, respectively, are authorized to delegate any of the functions to be performed by them under the authority of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4332_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Council of the District of Columbia is authorized to make such regulations as may be necessary to carry out the purpose of this chapter; provided, that any regulations issued pursuant to this chapter shall be subject to the approval of the Secretary of the Interior insofar as they involve any areas or waters of the District of Columbia under the appropriate administrative jurisdiction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4332_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>As used in this chapter the word “Mayor” means the Mayor of the District of Columbia or the appropriate designated agent or agents, and the words “Secretary of the Interior” means the Secretary of the Interior or the appropriate designated agent or agents.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

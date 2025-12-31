@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1634"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1634/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1634">
+        <akn:num>44-1634</akn:num>
+        <akn:heading>Delegation of management and investment functions.</akn:heading>
+<akn:subsection eId="subsec_44-1634_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to any specific limitation set forth in a gift instrument or in law other than this chapter, an institution may delegate to an external agent the management and investment of an institutional fund to the extent that an institution could prudently delegate under the circumstances. An institution shall act in good faith, with the care that an ordinarily prudent person in a like position would exercise under similar circumstances, in:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1634_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In performing a delegated function, an agent owes a duty to the institution to exercise reasonable care to comply with the scope and terms of the delegation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1634_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An institution that complies with subsection (a) of this section is not liable for the decisions or actions of an agent to which the function was delegated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1634_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>By accepting delegation of a management or investment function from an institution that is subject to the laws of the District of Columbia, an agent submits to the jurisdiction of the courts of the District of Columbia in all proceedings arising from or related to the delegation or the performance of the delegated function.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1634_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An institution may delegate management and investment functions to its committees, officers, or employees as authorized by law of the District of Columbia other than this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

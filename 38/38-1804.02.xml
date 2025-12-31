@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1804.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1804.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1804_02">
+        <akn:num>38-1804.02</akn:num>
+        <akn:heading>Calculation of number of students.</akn:heading>
+<akn:subsection eId="subsec_38-1804_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Quarterly reporting requirement. — On June 30, October 15, December 15, and March 30 of each year the District of Columbia public schools and each eligible chartering authority shall submit a report to the Mayor and the Council containing the information described in subsection (b) of this section that is applicable to the schools under their respective authorities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1804_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Calculation of number of students. — Not later than 30 days after April 26, 1996, and not later than October 15 of each year thereafter, the Office of the State Superintendent of Education shall calculate the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1804_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Annual reports. — Not later than October 30 of each year the Mayor shall prepare and submit to the Authority (during a control year), the Council, the Comptroller General of the United States, and the appropriate congressional committees a report containing a summary of the calculations made pursuant to subsection (b) of this subsection, including the 4 immediately prior reporting periods specified in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1804_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Audit of initial calculations. —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

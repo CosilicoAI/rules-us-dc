@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3131"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3131/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3131">
+        <akn:num>31-3131</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-3131_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Clean claim” means a claim that has no material defect or impropriety, including any lack of reasonably required substantiating documentation, which substantially prevents timely payment from being made on the claim or with respect to a health insurer that has failed timely to notify the person submitting the claim of any such defect or impropriety in accordance with § 31-3132. For the purposes of this paragraph, the term “material defect” means an imperfection in the submission of a claim consisting in the omission of information that is essential to process the claim in accordance with the health plan’s published claim filing requirements. The requirements for electronic claim submissions shall be consistent with regulations promulgated by Secretary of Health and Human Services pursuant to section 1173 of the Social Security Act, approved August 14, 1935 (110 Stat. 2024; 42 U.S.C. § 1320d-2).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3131_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Coding guidelines” means those standards or procedures used or applied by a payor to determine the most accurate and appropriate code or codes for payment by the payor for a service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3131_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Commissioner” means the Commissioner of the Department of Insurance and Securities Regulation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3131_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Health benefits plan” means any accident and health insurance policy or certificate, hospital and medical services corporation contract, health maintenance organization subscriber contract, plan provided by a multiple employer welfare arrangement, or plan provided by another benefit arrangement. The term “health benefit plan” does not mean accident only, credit, or disability insurance; coverage of Medicare services or federal employee health plans, pursuant to contracts with the United States government; Medicare supplemental or long-term care insurance; dental only or vision only insurance; specified disease insurance; hospital confinement indemnity coverage; limited benefit health coverage; coverage issued as a supplement to liability insurance, insurance arising out of a workers’ compensation or similar law; automobile medical payment insurance; medical expense and loss of income benefits; or insurance under which benefits are payable with or without regard to fault and that is statutorily required to be contained in any liability insurance policy or equivalent self-insurance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3131_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Health insurer” means any person that provides one or more health benefit plans or insurance in the District of Columbia, including an insurer, a hospital and medical services corporation, a fraternal benefit society, a health maintenance organization, a multiple employer welfare arrangement, or any other person providing a plan of health insurance subject to the authority of the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3131_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Person” means an enrollee or subscriber in a health benefit plan, provider, or physician.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3131_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Provider” means a health care practitioner, group of health care practitioners, or other entity licensed, certified, or otherwise authorized by law to provide hospital, physician, or other heath care services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3131_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Provider panel” means the providers that contract either directly, or through a subcontracting entity, with a health insurer to provide health care services to the health insurer’s enrollees under the health insurer’s health benefit plan. The term “provider panel” shall not include an arrangement in which any provider may participate solely by contracting with the health insurer to provide health care services at a discounted fee-for-service rate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

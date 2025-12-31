@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-137"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-137/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_137">
+        <akn:num>41-137</akn:num>
+        <akn:heading>Agreement to locate property.</akn:heading>
+<akn:subsection eId="subsec_41-137_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No agreement or contract with a person for a fee or compensation to locate, deliver, recover, or assist in the recovery of property reported under § 41-117, entered into within 7 months after the date payment or delivery is required under § 41-119, is valid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-137_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No agreement entered into after 7 months from the date of delivery of the property by the holder to the Mayor is valid if a person thereby undertakes to locate property included in a report for a fee or other compensation exceeding 10 percent of the value of the recoverable property unless the agreement is in writing and signed by the owner and discloses the nature and value of the property and the name and address of the holder of the property as such facts have been reported. Nothing in this section shall be construed to prevent an owner from asserting at any time that an agreement to locate property is based upon an excessive or unjust consideration.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

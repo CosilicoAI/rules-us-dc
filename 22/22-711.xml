@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-711"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-711/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_711">
+        <akn:num>22-711</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_22-711_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Court of the District of Columbia” means the Superior Court of the District of Columbia or the District of Columbia Court of Appeals.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-711_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Juror” means any grand, petit, or other juror, or any person selected or summoned as a prospective juror of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-711_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Official action” means any decision, opinion, recommendation, judgment, vote, or other conduct that involves an exercise of discretion on the part of the public servant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-711_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Official duty” means any required conduct that does not involve an exercise of discretion on the part of the public servant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-711_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Official proceeding” means any trial, hearing, investigation, or other proceeding in a court of the District of Columbia or conducted by the Council of the District of Columbia or an agency or department of the District of Columbia government, or a grand jury proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-711_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Public servant” means any officer, employee, or other person authorized to act for or on behalf of the District of Columbia government. The term “public servant” includes any person who has been elected, nominated, or appointed to be a public servant or a juror. The term “public servant” does not include an independent contractor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

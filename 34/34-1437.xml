@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1437"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1437/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1437">
+        <akn:num>34-1437</akn:num>
+        <akn:heading>Renewable electricity tracking system.</akn:heading>
+<akn:subsection eId="subsec_34-1437_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commission shall select a market-based renewable electricity tracking system to facilitate the creation and transfer of renewable energy credits.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1437_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commission may designate the Energy Office to administer the electricity tracking system. The Commission or the Energy Office may contract with a for-profit or a nonprofit entity to assist in the administration of the electricity tracking system required under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1437_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>To the extent practicable, the tracking system shall be the generation attributes tracking system developed by PJM Interconnection.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

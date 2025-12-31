@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-101.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-101.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_101_05">
+        <akn:num>6-101.05</akn:num>
+        <akn:heading>National Capital Housing Authority — Annual report — Account of operations of preceding fiscal year.</akn:heading>
+<akn:subsection eId="subsec_6-101_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Authority shall make a report to the Mayor of the District of Columbia, which he shall transmit to Congress at the beginning of each regular session, giving a full and detailed account of all operations under the provisions of this subchapter and subchapter II of this chapter, for the preceding fiscal year, including an itemization of all properties purchased during such fiscal year, setting forth the assessed value of such properties, together with the purchase price therefor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-101_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon completion of the work contemplated by this subchapter and subchapter II of this chapter, the Mayor of the District of Columbia shall submit a complete report to Congress giving a full and detailed account of all operations for the entire period of operation. If such work is not completed by July 1, 1944, the Mayor of the District of Columbia shall, on July 1, 1944, or at the opening of the next regular session of Congress after such date, make a report to Congress covering the operations under this subchapter and subchapter II of this chapter, for the entire period to July 1, 1944, including a statement of what further work remains to be done, and recommendation for further legislation if in his opinion such legislation is necessary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-101_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>It is hereby declared to be the purpose and intent of Congress that the objects set forth in § 6-101.01 shall be accomplished, if possible, on or before July 1, 1944, except that loans made under this subchapter and subchapter II of this chapter, may run for periods extending beyond such time.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

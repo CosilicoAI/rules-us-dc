@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2009"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2009/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2009">
+        <akn:num>42-2009</akn:num>
+        <akn:heading>Plat of condominium subdivision — Contents thereof; certification and recordation.</akn:heading>
+<akn:subsection eId="subsec_42-2009_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever the owner or the co-owners of any square or lot duly subdivided in conformity with § 1-1320 or other applicable laws of the District of Columbia shall deem it necessary to subdivide the same into a condominium project of convenient condominium units for sale and occupancy and means of access for their accommodation, he may cause a plat or plats to be made by the surveyor of the District of Columbia, on which said plats, together, shall be expressed:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2009_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>And said owners or co-owners may certify such condominium subdivisions under their hands and seals in the presence of 2 credible witnesses, upon the same plat or on a paper or a parchment attached thereto. And the same shall thereupon be put up, labeled, indexed, and preserved for record and deposit with the office of the surveyor for the District of Columbia in like manner as land subdivisions have been heretofore recorded or in such other books as the said surveyor may prescribe.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

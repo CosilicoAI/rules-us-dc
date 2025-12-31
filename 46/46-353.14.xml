@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-353.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-353.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_353_14">
+        <akn:num>46-353.14</akn:num>
+        <akn:heading>Limited immunity of petitioner.</akn:heading>
+<akn:subsection eId="subsec_46-353_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Participation by a petitioner in a proceeding under this chapter before a responding tribunal, whether in person, by private attorney, or through services provided by the support enforcement agency, does not confer personal jurisdiction over the petitioner in another proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-353_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A petitioner is not amenable to service of civil process while physically present in the District to participate in a proceeding under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-353_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The immunity granted by this section does not extend to civil litigation based on acts unrelated to a proceeding under this chapter committed by a party while physically present in the District to participate in the proceeding.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

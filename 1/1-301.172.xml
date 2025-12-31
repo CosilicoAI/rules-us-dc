@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.172"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.172/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_301_172">
+        <akn:num>1-301.172</akn:num>
+        <akn:heading>Refusal to obey subpoena.</akn:heading>
+<akn:subsection eId="subsec_1-301_172_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In a case of contumacy or refusal to obey a subpoena issued to a person under § 1-301.171, the Auditor may apply to the Superior Court of the District of Columbia for an order requiring the contumacious person to appear relating to the matter under investigation. Failure to obey the Court’s order shall be punishable as contempt of court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_172_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the District of Columbia Auditor prevails, in whole or in part, in an application to the Superior Court of the District of Columbia in a suit to enforce a subpoena issued pursuant to § 1-301.171, the District of Columbia Auditor may be awarded reasonable attorney fees and other costs of litigation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_172_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the District of Columbia Auditor prevails, in whole or in part, in an application to the Superior Court of the District of Columbia in a suit to enforce a subpoena issued pursuant to § 1-301.171 and is not awarded reasonable attorney’s fees, the District government agency or instrumentality challenging the enforcement order shall reimburse the District of Columbia Auditor for any litigation-related expenses or costs incurred.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

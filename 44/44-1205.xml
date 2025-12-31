@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1205"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1205/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1205">
+        <akn:num>44-1205</akn:num>
+        <akn:heading>Financial assistance program.</akn:heading>
+<akn:subsection eId="subsec_44-1205_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established within the District government a program to provide financial assistance to any person or organization that applies for financial assistance to conduct a program of substance abuse prevention in accordance with the applicable provisions of Unit A of Chapter 3 of Title 2.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1205_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person or organization that applies for financial assistance from the District government to conduct a program of substance abuse prevention, education, or counseling, as a condition of receiving assistance, shall demonstrate to the satisfaction of the Mayor that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1205_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The requirements of § 44-1204 and subsection (b) of this section shall not apply to:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

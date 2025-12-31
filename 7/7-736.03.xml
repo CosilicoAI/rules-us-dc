@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-736.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-736.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_736_03">
+        <akn:num>7-736.03</akn:num>
+        <akn:heading>Communicable disease fees.</akn:heading>
+<akn:subsection eId="subsec_7-736_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Director of the Department of Health may establish a schedule of fees for the prevention and treatment of communicable diseases, including HIV/AIDS, hepatitis, sexually transmitted diseases, and tuberculosis to be provided to any individual who presents for prevention or treatment services, regardless of health insurance coverage or ability to pay. The Director may periodically revise the schedule of fees and may establish a sliding fee scale, based on income, for uninsured individuals. The fees, including any sliding fee scale, shall be published in the District of Columbia Register.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-736_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Director may seek reimbursement from any third-party payor for services provided relating to the prevention and treatment of communicable diseases.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

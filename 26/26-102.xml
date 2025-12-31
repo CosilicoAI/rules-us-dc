@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_102">
+        <akn:num>26-102</akn:num>
+        <akn:heading>Supervision by Comptroller of Currency — Examinations; applicable federal provisions; establishment and maintenance of reserves.</akn:heading>
+<akn:subsection eId="subsec_26-102_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Comptroller of the Currency, in addition to the powers now conferred upon him by law for the examination of national banks, is hereby further authorized, whenever he may deem it advisable, to cause examination to be made into the condition of any bank mentioned in § 26-101. The expense of such examination shall be paid in the manner provided by § 482 of Title 12, United States Code, relating to the examination of national banks.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-102_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The provisions of § 84 of Title 12, United States Code, are hereby extended to apply to all banks and trust companies doing business in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-102_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each bank and trust company doing business in the District of Columbia and not a member of the Federal Reserve System shall within 6 months from March 4, 1933, establish and maintain reserves on the same basis and subject to the same conditions as may by law on March 4, 1933, or thereafter be prescribed for national banks located in the District of Columbia, except that such reserves shall be established and maintained at such agency or agencies which shall have the approval of the Comptroller of the Currency; provided, however:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-102_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>After April 11, 1986, subsection (c) of this section shall not apply to banks which are not national banks.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

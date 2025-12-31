@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_301">
+        <akn:num>31-301</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-301_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Accountant” or “independent certified public accountant” means an independent certified public accountant or accounting firm in good standing with the American Institute of Certified Public Accountants and in all states in which they are licensed to practice; for Canadian and British companies, it means a Canadian-chartered or British-chartered accountant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-301_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>“Affiliate” or “affiliated person” means an individual or entity that directly, or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, the individual or entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-301_1B">
+      <akn:num>(1B)</akn:num>
+      <akn:content><akn:p>“Audit committee” means a committee established by the board of directors of an entity for the purpose of overseeing the accounting and financial reporting processes of an insurer or group of insurers and the audits of financial statements of the insurer or group of insurers. The audit committee of any entity that controls a group of insurers may be deemed to be the audit committee for one or more of the controlled insurers for the purposes of this chapter at the election of the controlling person pursuant to § 31-311.01(e). If an audit committee is not designated by the insurer, the insurer’s entire board of directors shall constitute the audit committee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-301_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Audited financial report” means and includes those items specified in § 31-303.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-301_2A">
+      <akn:num>(2A)</akn:num>
+      <akn:content><akn:p>“Indemnification” means an agreement of indemnity or a release from liability if the intent or effect is to shift or limit in any manner the potential liability of the person or firm for failure to adhere to applicable auditing or professional standards, whether or not resulting in part from knowing of other misrepresentations made by the insurer or its representatives.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-301_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Insurer” means a licensed insurer or authorized company which has authority from the Mayor [now Commissioner] to do business in the District of Columbia as provided under §§ 31-2502.02 and 31-4304.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-301_3A">
+      <akn:num>(3A)</akn:num>
+      <akn:content><akn:p>“Group of insurers” means those licensed insurers included in the reporting requirements of subchapter I of Chapter 7 of this title [§ 31-701 et seq.], or a set of insurers as identified by management for the purpose of assessing the effectiveness of internal control over financial reporting.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-301_3B">
+      <akn:num>(3B)</akn:num>
+      <akn:content><akn:p>“Internal control over financial reporting” means a process effected by an entity’s board of directors, management, and other personnel designed to provide reasonable assurance regarding the reliability of the financial statements, including compliance with § 31-303(2) through (7), and includes such other policies and procedures that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-301_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“NAIC” means the National Association of Insurance Commissioners.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-301_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“SEC” means the United States Securities and Exchange Commission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-301_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Section 404” means § 404 of the Sarbanes-Oxley Act of 2002, approved July 30, 2002 (116 Stat. 745; 15 U.S.C. § 7201 et seq.), and the rules and regulations promulgated thereunder.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-301_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Section 404 Report” means management’s report on internal control over financial reporting as defined by the SEC and the related attestation report of the independent certified public accountant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-301_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“SOX Compliant Entity” means an entity that is required to be compliant with or is voluntarily compliant with:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

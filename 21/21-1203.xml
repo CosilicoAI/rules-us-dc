@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-1203"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-1203/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_1203">
+        <akn:num>21-1203</akn:num>
+        <akn:heading>Administration of medication to program participants by trained employees.</akn:heading>
+<akn:subsection eId="subsec_21-1203_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other law, rule, or regulation, a program employee who has been trained in accordance with § 21-1205(b) may administer prescription or nonprescription medication to a program participant in compliance with the signed, written instructions of a licensed practitioner if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-1203_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Program employees who are trained to administer medication in accordance with this chapter shall be immune from civil liability arising from a wrongful act or omission in administering medication, except that they shall not be immune from civil liability if the wrongful act or omission in administering medication is intentional or manifests a willful or wanton disregard for the health or safety of the program participant to whom the medication is administered. Neither the District government nor the program shall be liable in circumstances where program employee is immune under this section, unless the conduct of the employee is gross negligence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-1203_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Registered nurses who authorize or monitor the administration of medication, or provide training in accordance with this chapter, shall be immune from civil liability arising from a wrongful act or omission in authorizing or monitoring the administration of medication or providing training, except that they shall not be immune from civil liability if the wrongful act or omission in authorizing or monitoring the administration of medication or providing training is intentional or manifests a willful or wanton disregard for the health or safety of the program participant to whom the medication is administered. Neither the District government nor the program shall be liable in circumstances where the program employee is immune under this section, unless the conduct of the employee is gross negligence.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

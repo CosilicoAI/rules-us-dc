@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.45"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.45/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_45">
+        <akn:num>1-325.45</akn:num>
+        <akn:heading>Annual report; review of funding priorities.</akn:heading>
+<akn:subsection eId="subsec_1-325_45_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Superintendent shall submit to the Council, the Mayor, and the Board of Education, an annual report containing the following information:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_45_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Superintendent shall review the priorities for use of revenue from the Schools Modernization Fund specified in § 1-325.44 every 5 years and make recommendations to the Mayor, the Council, and the Board of Education on their continued validity or propose new priorities.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

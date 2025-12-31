@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1601.34"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1601.34/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1601_34">
+        <akn:num>10-1601.34</akn:num>
+        <akn:heading>Development rights.</akn:heading>
+<akn:subsection eId="subsec_10-1601_34_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The District government, or one of its instrumentalities, such as the Anacostia Waterfront Corporation, shall control development rights on the north side of the Ballpark Site and all but 210,000 square feet of development rights reserved for the MLB Team purposes on the south side of the Ballpark Site. Development on the east side of the Ballpark Site, on First Street, S.E., shall generate revenue to the District and shall be developed in accordance with a plan approved by the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1601_34_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any excess revenues derived from development rights that are not used for cost overruns for land acquisition and environmental remediation shall be deposited into the Community Benefits Fund established by § 10-1602.02.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

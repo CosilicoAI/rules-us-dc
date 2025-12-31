@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1641.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1641.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1641_06">
+        <akn:num>50-1641.06</akn:num>
+        <akn:heading>Increased bicycle parking spaces for office, retail, and service uses.</akn:heading>
+<akn:subsection eId="subsec_50-1641_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An owner of a building with office, retail, or service use shall provide a minimum number of bicycle parking spaces at least equal to 5% of the number of automobile parking spaces provided for the building.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1641_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the utilization of the minimum number of bicycle parking spaces is reaching 90% or higher during peak usage periods, the owner of a building with office, retail, or service use shall provide bicycle parking spaces at least equal to 10% of the number of automobile parking spaces provided for the building.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1641_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Where it can be demonstrated that providing bicycle parking spaces is not physically practical, that undue economic hardship would result from strict compliance with the regulation, or that the nature of the building use is such that bicycle parking spaces would not be used, the Mayor may grant, upon written application of the owner of the building, an appropriate exemption or reduced level of compliance. In such cases, a certificate documenting the exemption or reduced level of compliance shall be issued to the building owner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

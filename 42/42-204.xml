@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-204"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-204/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_204">
+        <akn:num>42-204</akn:num>
+        <akn:heading>Affected interests.</akn:heading>
+<akn:subsection eId="subsec_42-204_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This chapter applies to any interest created after May 16, 1986, which complies with this chapter, whether designated as a conservation easement or as a covenant, equitable servitude, restriction, easement, or otherwise.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-204_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This chapter applies to any interest created before May 16, 1986, if it would have been enforceable had it been created after May 16, 1986, unless retroactive application contravenes the laws of the District of Columbia or the United States.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-204_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This chapter does not invalidate any interest, whether designated as a conservation or preservation easement, a covenant, equitable servitude, restriction, easement, or otherwise, that is enforceable under other law of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-204_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-204_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

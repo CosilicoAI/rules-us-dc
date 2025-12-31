@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-609.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-609.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_609_03">
+        <akn:num>29-609.03</akn:num>
+        <akn:heading>Effect of merger.</akn:heading>
+<akn:subsection eId="subsec_29-609_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a merger takes effect:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-609_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Service of process in an action or proceeding against a surviving foreign partnership to enforce an obligation of a domestic partnership that is a party to a merger may be served pursuant to § 29-104.12.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-609_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A partner of the surviving partnership shall be liable for:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-609_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 29-603.06, if the obligations incurred before the merger by a party to the merger are not satisfied out of the property of the surviving partnership, the general partners of that party immediately before the effective date of the merger shall contribute the amount necessary to satisfy that party’s obligations to the surviving partnership, in the manner provided in § 29-608.07 as if the merged party were dissolved.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-609_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A partner of a party to a merger who is not a partner of the surviving partnership shall be dissociated from the partnership of which that partner was a partner, as of the date the merger takes effect. A surviving domestic partnership shall be bound under § 29-607.02 by an act of a general partner dissociated under this subsection, and the partner shall be liable under § 29-607.03 for transactions entered into by the surviving partnership after the merger takes effect.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

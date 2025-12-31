@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3302.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3302.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3302_02">
+        <akn:num>31-3302.02</akn:num>
+        <akn:heading>Special rules for network plans.</akn:heading>
+<akn:subsection eId="subsec_31-3302_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A health insurer that offers health insurance coverage in the individual market may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3302_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A health insurer, upon denying health insurance coverage in the District of Columbia in accordance with subsection (a)(2) of this section, may not offer coverage in the individual market within such service area for a period of 180 days after such coverage is denied.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

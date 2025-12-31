@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-315.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-315.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_315_05">
+        <akn:num>1-315.05</akn:num>
+        <akn:heading>Contents and format of reorganization plan.</akn:heading>
+<akn:subsection eId="subsec_1-315_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A reorganization plan transmitted by the Mayor pursuant to § 1-315.04 shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-315_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall include, in his or her transmittal message to accompany the plan, the statutory authority for the exercise of the function(s) affected, and an itemization, to the extent practicable, of the reduction of expenditures as a probable result of the reorganization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-315_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A reorganization plan may provide for appointment with the advice and consent of the Council and the salary of the agency head (including an agency resulting from a consolidation or other type of reorganization) if the Mayor finds, and his or her transmittal message declares, that by reason of a reorganization made pursuant to the plan, such provisions are necessary.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

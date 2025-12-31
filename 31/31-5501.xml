@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5501">
+        <akn:num>31-5501</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-5501_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Account” means any 1 of the 3 accounts created by § 31-5503.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5501_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Affiliate” means a person who, directly or indirectly, through 1 or more intermediaries, controls, is controlled by, or is under common control with an insolvent insurer on December 31st of the year next preceding the date the insurer becomes an insolvent insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5501_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Association” means the District of Columbia Insurance Guaranty Association created pursuant to § 31-5503.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5501_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Claimant” means any insured making a first-party claim or any person instituting a liability claim, provided that no person who is an affiliate of the insolvent insurer may be a claimant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5501_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Control” means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting securities, by contract other than a commercial contract for goods or nonmanagement services, or otherwise, unless the power is the result of an official position with or corporate office held by the person. Control shall be presumed to exist if any person, directly or indirectly, owns, controls, holds with the power to vote, or holds proxies representing, 10% or more of the voting securities of any other person. This presumption may be rebutted by a showing that control does not exist in fact.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5501_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Covered claim” means an unpaid claim, including one for unearned premiums, submitted by a claimant, which arises out of and is within the coverage and is subject to the applicable limits of an insurance policy to which this chapter applies issued by an insurer, if such an insurer becomes an insolvent insurer after October 21, 1993, and:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5501_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5501_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Insolvent insurer” means an insurer licensed to transact insurance in the District of Columbia, either at the time the policy was issued or when the insured event occurred, and against whom an order of liquidation with a finding of insolvency has been entered after October 21, 1993, by a court of competent jurisdiction in the insurer’s state of domicile or of the District under § 31-1316, and which order of liquidation has not been stayed or been the subject of a writ of supersedeas or other comparable order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5501_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Member insurer” means any person who:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5501_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Net direct written premiums” means direct gross premiums written in the District on insurance policies to which this chapter applies, less return premiums and dividends paid or credited to policyholders on the direct business. The term “net direct written premiums” does not include premiums on contracts between insurers or reinsurers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5501_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Person” means any individual, corporation, partnership, association, or voluntary organization.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

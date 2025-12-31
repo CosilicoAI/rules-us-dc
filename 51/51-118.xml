@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/51-118"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/51-118/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_51_118">
+        <akn:num>51-118</akn:num>
+        <akn:heading>Protection of rights and benefits; child support obligations.</akn:heading>
+<akn:subsection eId="subsec_51-118_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No agreement by any individual to waive any of his rights under this subchapter or to pay any part of the contribution payable by his employer with respect to his or any other individual’s employment, shall be valid; nor shall any employer make, require, or permit any deduction from the wages payable to his employees for the purpose of paying any part of the contributions required of the employer under this subchapter, or require or attempt to induce any individual to waive any right he may acquire under this subchapter. Any employer who violates any provision of this subsection shall, for each such offense, be fined not less than $100 nor more than $1,000 or be imprisoned not more than 6 months, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-118_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-118_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No individual seeking to establish a claim for benefits shall be charged any fee whatsoever by the Director or the Director’s representatives, or by the court or any officer thereof. Any individual claiming benefits in any proceeding before the Director or the Director’s representative or the court may be represented by counsel or other duly authorized agent; but no such counsel or agent shall either charge or receive for such services more than an amount approved by the Director. Any person who violates any provision of this subsection shall, for each such offense, be fined not more than $500 or imprisoned not more than 1 year, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-118_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

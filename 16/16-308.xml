@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-308"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-308/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_308">
+        <akn:num>16-308</akn:num>
+        <akn:heading>Investigations when prospective adoptee is adult or petitioner is spouse or domestic partner of natural parent.</akn:heading>
+<akn:subsection eId="subsec_16-308_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The court may dispense with the investigation, report, and interlocutory decree provided for by this chapter when:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-308_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the circumstances specified in subsection (a)(2) of this section, the petition need not contain the information concerning race and religion as specified in § 16-305(4) and (5).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-308_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “domestic partner” shall have the same meaning as provided in § 32-701(3), but shall exclude a domestic partner who is the parent, grandparent, sibling, child, grandchild, niece, nephew, aunt, or uncle of the natural parent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-308_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed to waive the requirements of §§ 4-1305.01 through 4-1305.09, including the requirement of a fingerprint-based criminal records check.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

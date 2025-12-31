@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1207.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1207.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1207_12">
+        <akn:num>3-1207.12</akn:num>
+        <akn:heading>Waiver of licensure requirements.</akn:heading>
+<akn:subsection eId="subsec_3-1207_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board of Professional Counseling shall waive the 60 hours of postgraduate education and examination requirements for any applicant for licensure as a professional counselor who can demonstrate, to the satisfaction of the Board, that he or she holds a bachelor’s degree in counseling or a related subject from an accredited college or university and has been performing the functions of a professional counselor, as defined by this subchapter, on a full-time or substantially full-time basis continually for at least 24 months immediately preceding July 22, 1992, and is qualified to do so on the basis of pertinent education, training, experience, and demonstrated current competence, provided that the application for licensure is made within 24 months of July 22, 1992.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1207_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board of Professional Counseling shall waive the examination requirement for any applicant who meets the educational requirements for licensure as a professional counselor if the person has practiced as a professional counselor or as a professional counselor administrator within a 3-year period immediately preceding July 22, 1992, and is qualified to do so on the basis of pertinent experience and demonstrated current competence, provided that the application for licensure is made within 12 months of July 22, 1992.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1207_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Applicants licensed under the waiver provisions of this section shall be eligible for license renewal on the same terms as all other licensed professional counselors.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

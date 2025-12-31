@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1707"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1707/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1707">
+        <akn:num>44-1707</akn:num>
+        <akn:heading>Representations as to finding by Mayor in regard to registration certificate or solicitor card prohibited.</akn:heading>
+<akn:subsection eId="subsec_44-1707_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>That the statements contained in the registrant’s application are true and accurate;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1707_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>That the application does not omit a material fact; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1707_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>That the Mayor has in any way passed upon the merits or given approval to such solicitation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

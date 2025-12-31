@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/37-131.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/37-131.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_37_131_09">
+        <akn:num>37-131.09</akn:num>
+        <akn:heading>Establishment of the Citywide Vending Task Force.</akn:heading>
+<akn:subsection eId="subsec_37-131_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 30 days after October 22, 2009, the Mayor shall create and convene the Citywide Vending Task Force (“Task Force”), consisting of representatives from the street vendor, small business, downtown business, and other affected communities, including District residents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-131_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Task Force shall evaluate existing vending laws and rules to ensure maximum comprehensiveness, uniformity, and fairness for all stakeholders. Specifically, the Task Force shall consider issues of grandfather clauses, insurance fees, lottery selection, and possible clarification of existing grounds of revocation of a vending license.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-131_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Within 120 days after October 22, 2009, the Task Force shall conclude its work by presenting a report and recommendation to the Council on its specific findings, including a legislative recommendation on whether to establish a permanent vending commission.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

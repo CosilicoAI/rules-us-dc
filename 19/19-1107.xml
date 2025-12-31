@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1107"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1107/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1107">
+        <akn:num>19-1107</akn:num>
+        <akn:heading>General duties of custodial trustee.</akn:heading>
+<akn:subsection eId="subsec_19-1107_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If appropriate, a custodial trustee shall register or record the instrument vesting title to custodial trust property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1107_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the beneficiary is not incapacitated, a custodial trustee shall follow the directions of the beneficiary in the management, control, investment, or retention of the custodial trust property. In the absence of effective contrary direction by the beneficiary while not incapacitated, the custodial trustee shall observe the standard of care that would be observed by a prudent person dealing with property of another and is not limited by any other law restricting investments by fiduciaries. However, a custodial trustee, in the custodial trustee’s discretion, may retain any custodial trust property received from the transferor. If a custodial trustee has a special skill or expertise or is named custodial trustee on the basis of representation of a special skill or expertise, the custodial trustee shall use that skill or expertise.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1107_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to subsection (b) of this section, a custodial trustee shall take control of and collect, hold, manage, invest, and reinvest custodial trust property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1107_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A custodial trustee at all times shall keep custodial trust property of which the custodial trustee has control, separate from all other property in a manner sufficient to identify it clearly as custodial trust property of the beneficiary. Custodial trust property, the title to which is subject to recordation, is so identified if an appropriate instrument so identifying the property is recorded, and custodial trust property subject to registration is so identified if it is registered, or held in an account in the name of the custodial trustee, designated in substance: “as custodial trustee for  (name of beneficiary) under the District of Columbia’s Uniform Custodial Trust Act.”</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1107_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A custodial trustee shall keep records of all transactions with respect to custodial trust property, including information necessary for the preparation of tax returns, and shall make the records and information available at reasonable times to the beneficiary or legal representative of the beneficiary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1107_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The exercise of a durable power of attorney for an incapacitated beneficiary is not effective to terminate or direct the administration or distribution of a custodial trust.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

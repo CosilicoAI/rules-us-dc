@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1001"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1001/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_1001">
+        <akn:num>6-1001</akn:num>
+        <akn:heading>Findings and objectives.</akn:heading>
+<akn:subsection eId="subsec_6-1001_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Council finds and declares that the District of Columbia faces critical social, economic, and environmental problems arising in significant measures from:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1001_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Council further finds and declares that the future welfare of the District of Columbia and the well-being of its citizens depend on the establishment and maintenance of the District of Columbia as a viable physical, social, economic, and political community, and require for the benefit of the communities being directly affected:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1001_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The primary objective of this subchapter is the maintenance and development of the District of Columbia as a viable urban community, by providing decent housing, a suitable living environment and expanding economic opportunities, principally for persons of low and moderate income. Consistent with this primary objective the subchapter provides for the support of community development activities which are directed toward the following specific objectives:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1001_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Following the approval of a Community Development Program in such areas as the Council of the District of Columbia, upon recommendation of the Mayor, shall designate, the Mayor is authorized to prohibit any new construction in any area designated for this purpose as a community development area in a Community Development Program; new construction includes substantial remodeling, conversion, rebuilding, and enlargement or extension of major structural improvements on existing buildings, but does not include ordinary maintenance, remodeling, or changes necessary to continue occupancy.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

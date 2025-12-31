@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1541_15">
+        <akn:num>50-1541.15</akn:num>
+        <akn:heading>Termination statement.</akn:heading>
+<akn:subsection eId="subsec_50-1541_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A secured party indicated in the files of the Harbor Master as having a security interest in a vessel shall deliver a termination statement to the Harbor Master and, on the debtor’s request, to the debtor, by the earlier of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a written certificate of title has been created and delivered to a secured party and a termination statement is required under subsection (a) of this section, the secured party, not later than the date required by subsection (a) of this section, shall deliver the certificate of title to the debtor or to the Harbor Master with the statement. If the certificate of title is lost, stolen, mutilated, destroyed, or is otherwise unavailable or illegible, the secured party shall deliver with the statement, not later than the date required by subsection (a) of this section, an application for a replacement certificate of title meeting the requirements of § 50-1541.21.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>On delivery to the Harbor Master of a termination statement authorized by the secured party, the security interest to which the statement relates shall cease to be perfected. If the security interest to which the statement relates was indicated on the certificate of title, the Harbor Master shall create a new certificate of title and deliver the new certificate of title or a record evidencing an electronic certificate of title. The Harbor Master shall maintain in its files the date and time of delivery to the Harbor Master of the statement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_15_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A secured party that fails to comply with this section is liable for any loss that the secured party had reason to know might result from its failure to comply and that could not reasonably have been prevented and for the cost of an application for a certificate of title under § 50-1541.06 or § 50-1541.21.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

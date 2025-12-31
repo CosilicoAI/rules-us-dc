@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5402"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5402/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5402">
+        <akn:num>31-5402</akn:num>
+        <akn:heading>Coverage and limitations.</akn:heading>
+<akn:subsection eId="subsec_31-5402_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Coverage shall be provided for the policies and contracts issued to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5402_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Any person for whom coverage has been determined, when the application of this chapter could result in coverage by the association of more than one state, whether as an owner, payee, beneficiary, or assignee, and this chapter has been construed in conjunction with the other state’s laws to result in coverage by only one association.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5402_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5402_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The benefits for which the Association may become liable shall in no event exceed the lesser of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5402_c_1">
+      <akn:num>(c-1)</akn:num>
+      <akn:content><akn:p>In performing its obligations to provide coverage under §  31-5405, the Association shall not be required to guarantee, assume, reinsure, or perform, or cause to be guaranteed, assumed, reinsured, or performed, the contractual obligations of the insolvent or impaired insurer under a covered policy or contract that do not materially affect the economic values or economic benefits of the covered policy or contract.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5402_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

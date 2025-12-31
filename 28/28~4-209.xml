@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-209"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-209/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4_209">
+        <akn:num>28:4-209</akn:num>
+        <akn:heading>Encoding and retention warranties.</akn:heading>
+<akn:subsection eId="subsec_28:4-209_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person who encodes information on or with respect to an item after issue warrants to any subsequent collecting bank and to the payor bank or other payor that the information is correctly encoded. If the customer of a depositary bank encodes, that bank also makes the warranty.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-209_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person who undertakes to retain an item pursuant to an agreement for electronic presentment warrants to any subsequent collecting bank and to the payor bank or other payor that retention and presentment of the item comply with the agreement. If a customer of a depositary bank undertakes to retain an item, that bank also makes this warranty.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-209_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person to whom warranties are made under this section and who took the item in good faith may recover from the warrantor as damages for breach of warranty an amount equal to the loss suffered as a result of the breach, plus expenses and loss of interest incurred as a result of the breach.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1831.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1831.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1831_01">
+        <akn:num>38-1831.01</akn:num>
+        <akn:heading>Utilization of space in District of Columbia public schools by public charter schools.</akn:heading>
+<akn:subsection eId="subsec_38-1831_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The District of Columbia Public School (“DCPS”) system shall allow existing public charter schools that are chartered by the District of Columbia Board of Education or the Public Charter School Board prior to September 30, 2002, to utilize space in DCPS facilities, where such facilities are currently or projected to be underutilized because of decreased or stagnant student enrollment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1831_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1831_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Board of Education shall promulgate rules to implement the provision of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1631"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1631/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1631">
+        <akn:num>32-1631</akn:num>
+        <akn:heading>Limits on funding Individual Training Accounts.</akn:heading>
+<akn:subsection eId="subsec_32-1631_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Beginning January 1, 2015, or upon the effective date of [D.C. Law 20-263, effective May 2, 2015], whichever occurs first, no eligible training provider shall be eligible to receive funding for more than 5 individual training accounts in a calendar year unless at least 25% of the students participating in the entity’s training programs are funded by sources other than the individual training accounts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1631_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Beginning January 1, 2016, no eligible training provider shall be eligible to receive funding for more than 5 individual training accounts in a calendar year unless at least 50% of the students participating in the entity’s training programs are funded by sources other than the individual training accounts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1631_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>WIC shall establish a procedure by which eligible training providers shall certify as to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1631_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

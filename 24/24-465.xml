@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-465"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-465/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_465">
+        <akn:num>24-465</akn:num>
+        <akn:heading>Conditions for geriatric release.</akn:heading>
+<akn:subsection eId="subsec_24-465_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A geriatric inmate who is 65 years of age or older, has a chronic infirmity, illness, or disease, and who poses a low risk to the community, may be eligible for parole as determined by the Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-465_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Consideration for geriatric parole shall be initiated by the submission of an application from the Department, the inmate, or the inmate’s representative and the Department’s supporting documentation to the Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-465_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In determining eligibility for geriatric release, the Board shall take into consideration the following factors:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-465_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Department shall submit an application for geriatric release with supporting documentation to the Board within 30 days of receipt of an application.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-465_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Board shall make a determination whether to grant geriatric parole within 30 days of receipt of the application and supporting documentation from the Department.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

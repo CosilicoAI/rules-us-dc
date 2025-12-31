@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-906"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-906/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_906">
+        <akn:num>21-906</akn:num>
+        <akn:heading>Examinations; adjudications; laws applicable; expense of care and treatment.</akn:heading>
+<akn:subsection eId="subsec_21-906_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Superintendent of Saint Elizabeths Hospital shall promptly examine a person committed as provided by sections 21-902 and 21-903, and, if not found to have a mental illness, shall forthwith discharge him, or, if found to have a mental illness, shall return him to the State of his residence or to his relatives, if practicable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-906_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Proceedings for the adjudication of a person referred to by subsection (a) of this section, or of a person admitted to the hospital pursuant to section 21-904, as a person with a mental illness, and for the appointment of a committee of his person or property, may be instituted in the Superior Court of the District of Columbia by the Secretary of Health and Human Services or by a party interest. The laws of the District of Columbia apply to the proceedings. This chapter does not impose upon the District of Columbia the expense of care and treatment of a person apprehended, detained, or committed under this chapter, unless the person is a resident of the District of Columbia as defined by subsection (b) of section 21-551.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2401.18"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2401.18/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2401_18">
+        <akn:num>34-2401.18</akn:num>
+        <akn:heading>“Mayor,” “District of Columbia water system” defined.</akn:heading>
+<akn:subsection eId="subsec_34-2401_18_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Mayor” means the Mayor of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2401_18_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“District of Columbia water system” or “water system” means any and all of the facilities used or to be used for the supply of raw or partly purified water wherever situated and all of the facilities used or to be used for the distribution of purified water situated within the District of Columbia which are operated by the Department of Environmental Services or the Washington Aqueduct Division of the Washington District of the Corps of Engineers, Department of the Army, or both.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

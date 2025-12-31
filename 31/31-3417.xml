@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3417"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3417/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3417">
+        <akn:num>31-3417</akn:num>
+        <akn:heading>Powers of insurance corporations.</akn:heading>
+<akn:subsection eId="subsec_31-3417_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An insurance company authorized to do business in the District may, either directly or through a subsidiary or affiliate, organize and operate a health maintenance organization under the provisions of this chapter. Notwithstanding any other provisions of law, any 2 or more such insurance companies, or subsidiaries or affiliates thereof, may jointly organize and operate a health maintenance organization. The business of insurance is deemed to include the providing of health care by a health maintenance organization owned or operated by an insurer or subsidiary thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3417_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of insurance laws, an insurer may contract with a health maintenance organization to provide insurance or similar protection against the cost of care provided through health maintenance organizations and to provide coverage in the event of the failure of a health maintenance organization to meet its obligations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3417_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The enrollees of a health maintenance organization constitute a permissible group under such laws. Among other things, under such contracts the insurer may make benefit payments to health maintenance organizations for health care services rendered by providers.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

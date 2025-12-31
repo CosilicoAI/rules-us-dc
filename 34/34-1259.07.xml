@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1259.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1259.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1259_07">
+        <akn:num>34-1259.07</akn:num>
+        <akn:heading>Rate and service regulation.</akn:heading>
+<akn:subsection eId="subsec_34-1259_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All proposed rates and service offerings for cable service shall be specified in an appendix to the franchise agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1259_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A cable operator shall provide a notice of any planned change in rates or services to the Office at least 30 days before the change.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1259_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Office may regulate cable services and rates in compliance with federal law and regulations; provided, that regulations promulgated by the Office to carry out this subsection shall be transmitted to the Council for a 60-day period of review.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

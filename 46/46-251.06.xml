@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_251_06">
+        <akn:num>46-251.06</akn:num>
+        <akn:heading>Selection of a health insurance coverage option.</akn:heading>
+<akn:subsection eId="subsec_46-251_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon receipt of notice from a health insurer that more than one health insurance coverage option is available for a child included in a medical support notice, the IV-D agency shall select an available option in consultation with the child’s custodian.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In selecting an option in consultation with the child’s custodian pursuant to subsection (a) of this section, the IV-D agency shall consider, at a minimum, the cost, comprehensiveness, and accessibility of the health insurance coverage. For the purposes of this section, health insurance coverage shall be considered accessible if, based on the work history of the parent providing the coverage, it will be available for at least one year, and if the child lives within the geographic area covered by the plan or within 30 minutes or 30 miles of primary care services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The IV-D agency shall notify the health insurer of its selection promptly after the health insurer provides the IV-D agency with the information required under § 46-251.05(d).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

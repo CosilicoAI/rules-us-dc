@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-221"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-221/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2A_221">
+        <akn:num>28:2A-221</akn:num>
+        <akn:heading>Casualty to identified goods.</akn:heading>
+<akn:subsection eId="subsec_28:2A-221_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>If the loss is total, the lease contract is avoided; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-221_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>If the loss is partial or the goods have so deteriorated as to no longer conform to the lease contract, the lessee may nevertheless demand inspection and at his or her option either treat the lease contract as avoided or, except in a finance lease that is not a consumer lease, accept the goods with due allowance from the rent payable for the balance of the lease term for the deterioration or the deficiency in quantity but without further right against the lessor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

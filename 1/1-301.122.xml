@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.122"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.122/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_301_122">
+        <akn:num>1-301.122</akn:num>
+        <akn:heading>Authority to participate in multistate negotiations.</akn:heading>
+<akn:subsection eId="subsec_1-301_122_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of reviewing or amending the Agreement embodying the simplification requirements as contained in § 1-301.125, the District of Columbia shall enter into multistate discussions. For purposes of the discussions, the District of Columbia shall be represented by 4 delegates.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_122_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall appoint one delegate to serve at the pleasure of the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_122_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Chairman of the Council shall appoint one delegate to serve at the pleasure of the Chairman of the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_122_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer of the District of Columbia (“Chief Financial Officer”) shall appoint one delegate to serve at the pleasure of the Chief Financial Officer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_122_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Council on State Taxation shall appoint one tax counsel to serve as a delegate of the District of Columbia. The Council on State Taxation shall notify the Mayor and the Chairman of the Council of the appointment by registered mail.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

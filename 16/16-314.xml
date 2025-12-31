@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-314"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-314/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_314">
+        <akn:num>16-314</akn:num>
+        <akn:heading>Birth certificates.</akn:heading>
+<akn:subsection eId="subsec_16-314_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon the issuance of a final decree of adoption, an adoption form shall be sent to the Registrar pursuant to the Vital Records Act of 1981. Unless otherwise requested in the petition by the adopters, the Registrar shall cause to be made a new record of the birth in the new name with the names of the adopters and shall then cause the original birth certificate and the order of the Court to be sealed and filed. The sealed package may be opened only by order of the Court or by the Registrar to properly administer the Vital Records Act of 1981.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-314_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the adoption occurred outside the District either before or after August 25, 1937, a new certificate of birth shall be made pursuant to section 11 of the Vital Records Act of 1981. The Registrar shall seal the original birth certificate. The sealed original birth certificate may be opened only by order of a court of competent jurisdiction or by the Registrar to properly administer the Vital Records Act of 1981.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-314_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the birth of the adoptee occurred outside the District the clerk of the court shall, upon petition by the adopter, furnish him with a certified copy of the final decree of adoption.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-314_c_1">
+      <akn:num>(c-1)</akn:num>
+      <akn:content><akn:p>If the birth of the adoptee occurred outside of the United States, a new certificate of birth shall be made pursuant to section 11 of the Vital Records Act of 1981.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-314_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When an adoption in the District occurred prior to August 25, 1937, the court shall, upon presentation of a motion by a party to the proceedings, order the clerk of the court to seal the records in the proceeding. Upon presentation of a certified copy of the order the Mayor shall cause to be made a new record of the birth in the new name and with the names of the adopters and shall then cause to be sealed and filed the original birth certificate with the order of the court. The sealed package may be opened only by order of the court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

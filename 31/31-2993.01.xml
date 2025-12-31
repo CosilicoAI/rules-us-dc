@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2993.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2993.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2993_01">
+        <akn:num>31-2993.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-2993_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Approved clinical trial” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2993_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Health benefit plan” means any accident and health insurance policy or certificate, hospital and medical services corporation contract, health maintenance organization subscriber contract, plan provided by a multiple employer welfare arrangement, or plan provided by another benefit arrangement. The term “health benefit plan” shall not include accident-only, credit, or disability insurance; coverage of Medicare services or federal employee health plans, pursuant to contracts with the United States government; Medicare supplemental or long-term care insurance; dental-only or vision-only insurance; specified disease insurance; hospital confinement indemnity coverage; limited benefit health coverage; coverage issued as a supplement to liability insurance, insurance arising out of a workers’ compensation or similar law; automobile medical payment insurance; medical expense and loss of income benefits; or insurance under which benefits are payable with or without regard to fault and that is statutorily required to be contained in any liability insurance policy or equivalent self-insurance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2993_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Health insurer” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2993_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Qualified individual” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2993_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1344"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1344/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1344">
+        <akn:num>32-1344</akn:num>
+        <akn:heading>Penalties.</akn:heading>
+<akn:subsection eId="subsec_32-1344_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>For employers that employ 11 to 30 employees, a fine of up to $1,000;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1344_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>For employers that employ 31 to 99 employees, a fine of up to $2,500; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1344_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>For employers that employ 100 or more employees, a fine of up to $5,000.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

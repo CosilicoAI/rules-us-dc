@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1231.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1231.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1231_03">
+        <akn:num>32-1231.03</akn:num>
+        <akn:heading>Prohibitions.</akn:heading>
+<akn:subsection eId="subsec_32-1231_03_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Refuse to make reasonable accommodations to the known limitations related to pregnancy, childbirth, related medical conditions, or breastfeeding for an employee, unless the employer can demonstrate that the accommodation would impose an undue hardship;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1231_03_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Take an adverse action against an employee who requests or uses a reasonable accommodation in regard to the employee&#x27;s conditions or privileges of employment, including failing to reinstate the employee when the need for reasonable accommodations ceases to the employee&#x27;s original job or to an equivalent position with equivalent:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1231_03_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Deny employment opportunities to an employee, or a job applicant, if the denial is based on the need of the employer to make reasonable accommodations to the known limitations related to pregnancy, childbirth, related medical conditions, or breastfeeding;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1231_03_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Require an employee affected by pregnancy, childbirth, related medical conditions, or breastfeeding to accept an accommodation that the employee chooses not to accept if the employee does not have a known limitation related to pregnancy, childbirth, related medical conditions, or breastfeeding or the accommodation is not necessary for the employee to perform her duties; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1231_03_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Require an employee to take leave if a reasonable accommodation can be provided.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

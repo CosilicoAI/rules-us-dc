@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1231.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1231.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1231_04">
+        <akn:num>7-1231.04</akn:num>
+        <akn:heading>Conditions of mental health service delivery.</akn:heading>
+<akn:subsection eId="subsec_7-1231_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Department and other providers shall, at all times, treat consumers with consideration and respect for the consumer’s dignity, autonomy, and privacy. Respectful treatment shall also be extended to the consumer’s family members, personal representative, attorney-in-fact, and guardian.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1231_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Consumers shall have access to mental health services and mental health supports free of discrimination on the basis of race, color, religion, national origin, language, culture, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, familial status, family responsibilities, matriculation, political affiliation, disability, source of income, and place of residence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1231_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Consumers shall be free from physical, emotional, sexual, or financial abuse, neglect, harassment, coercion, and exploitation when seeking or receiving mental health services and mental health supports.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1231_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Consumers shall receive their individual mental health services and mental health supports in the least restrictive, most integrated setting appropriate to their individual needs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1231_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Consumers in residential, day, or inpatient treatment programs shall have the following additional rights, consistent with the health and safety of the consumer and others:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

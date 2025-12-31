@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-503"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-503/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_503">
+        <akn:num>28:9-503</akn:num>
+        <akn:heading>Name of debtor and secured party.</akn:heading>
+<akn:subsection eId="subsec_28:9-503_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A financing statement sufficiently provides the name of the debtor:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-503_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A financing statement that provides the name of the debtor in accordance with subsection (a) of this section is not rendered ineffective by the absence of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-503_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A financing statement that provides only the debtor’s trade name does not sufficiently provide the name of the debtor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-503_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Failure to indicate the representative capacity of a secured party or representative of a secured party does not affect the sufficiency of a financing statement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-503_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A financing statement may provide the name of more than one debtor and the name of more than one secured party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-503_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The name of the decedent indicated on the order appointing the personal representative of the decedent issued by the court having jurisdiction over the collateral is sufficient as the “name of the decedent” under subsection (a)(2) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-503_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>If the District has issued to an individual more than one driver’s license, or special identification card, of a kind described in subsection (a)(4) of this section, the one that was issued most recently is the one to which subsection (a)(4) of this section refers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-503_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>In this section, the “name of the settlor or testator” means:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

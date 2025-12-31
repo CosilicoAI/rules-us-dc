@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-838"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-838/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_838">
+        <akn:num>10-838</akn:num>
+        <akn:heading>Quarterly report.</akn:heading>
+<akn:subsection eId="subsec_10-838_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>A list of the properties acquired during the quarter to be disposed of pursuant to this subchapter;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-838_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A list of the properties disposed of pursuant to this subchapter during the quarter;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-838_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>A copy of each RFP issued during the quarter;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-838_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>A copy of each winning proposal selected during the quarter;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-838_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>A copy of each disposition agreement entered into during the quarter;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-838_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>A cumulative list of each property disposed of pursuant to this subchapter including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-838_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Any other relevant information.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

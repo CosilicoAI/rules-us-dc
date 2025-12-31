@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3426"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3426/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3426">
+        <akn:num>31-3426</akn:num>
+        <akn:heading>Confidentiality of medical information and limitation of liability.</akn:heading>
+<akn:subsection eId="subsec_31-3426_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any data or information pertaining to the diagnosis, treatment, or health of any enrollee or applicant obtained from such person or from any provider by any health maintenance organization shall be held in confidence and shall not be disclosed to any person except to the extent that it may be necessary to carry out the purposes of this chapter:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3426_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A health maintenance organization shall be entitled to claim any statutory privileges against such disclosure which the provider who furnished such information to the health maintenance organization is entitled to claim.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3426_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person who, in good faith and without malice or negligence, takes any action or makes any decision or recommendation as a member, agent, or employee of a health care review committee, or who furnishes any records, information, or assistance to such a committee shall not be subject to liability for civil damages or any legal action in consequence of such action, nor shall the health maintenance organization which established such committee or the officers, directors, employees, or agents of such health maintenance organization be liable for the activities of any such person. This section shall not be construed to relieve any person of liability arising from treatment of a patient.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3426_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3426_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>To fulfill its obligations under § 31-3406, a health maintenance organization shall have access to treatment records and other information pertaining to the diagnosis, treatment, or health status of any enrollee.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

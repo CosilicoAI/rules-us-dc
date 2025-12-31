@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1701"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1701/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1701">
+        <akn:num>44-1701</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_44-1701_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The term “Mayor” means the Mayor of the District of Columbia, sitting as a board, or any agent or agency designated by him to perform any function vested in the Mayor by this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1701_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The term “registrant” means the holder of a valid certificate of registration duly issued under the terms of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1701_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1701_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Charitable” means and includes philanthropic, social service, patriotic, welfare, benevolent, or educational (except religious education), either actual or purported.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1701_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Contribution” means and includes alms, food, clothing, money,  subscription, credit, property, financial assistance, or donations under the guise of a loan of money or property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1701_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Person” means any individual, firm, copartnership, corporation, company, association, or joint stock association, church, religious sect, religious denomination, society, organization, or league, and other similar representative thereof.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

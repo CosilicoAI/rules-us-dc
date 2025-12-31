@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2885.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2885.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2885_15">
+        <akn:num>47-2885.15</akn:num>
+        <akn:heading>Records.</akn:heading>
+<akn:subsection eId="subsec_47-2885_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There shall be maintained in every pharmacy, or in the establishment or institution where a pharmacy is located, a suitable book, file, or other easily retrievable record, in which shall be preserved for a period of not less than 2 years every prescription compounded or dispensed at said pharmacy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2885_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2885_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The records required to be maintained by this section shall be available for inspection by the Mayor during regular business hours.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

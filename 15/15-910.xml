@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/15-910"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/15-910/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_15_910">
+        <akn:num>15-910</akn:num>
+        <akn:heading>Determining United States dollar value of foreign-money claims for limited purposes.</akn:heading>
+<akn:subsection eId="subsec_15-910_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Computations under this section are for the limited purposes of this section and do not affect computation of the United States dollar equivalent of the money of the judgment for the purpose of payment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-910_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the limited purpose of facilitating the enforcement of provisional remedies in an action, the value in United States dollars of assets to be seized or restrained pursuant to a writ of attachment, garnishment, execution, or other legal process, the amount of United States dollars at issue for assessing costs, or the amount of United States dollars involved for a surety bond or other court-required undertaking, must be ascertained as provided in subsections (c) and (d) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-910_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A party seeking process, costs, bond, or other undertaking under subsection (b) of this section shall compute in United States dollars the amount of the foreign money claimed from a bank-offered spot rate prevailing at or near the close of business on the banking day next preceding the filing of a request or application for the issuance of process or for the determination of costs, or an application for a bond or other court-required undertaking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-910_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A party seeking the process, costs, bond, or other undertaking under subsection (b) of this section shall file with each request or application an affidavit or certificate executed in good faith by its counsel or a bank officer, stating the market quotation used and how it was obtained, and setting forth the calculation. Affected court officials incur no liability, after a filing of the affidavit or certificate, for acting as if the judgment were in the amount of United States dollars stated in the affidavit or certificate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

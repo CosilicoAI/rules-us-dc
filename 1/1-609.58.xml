@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-609.58"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-609.58/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_609_58">
+        <akn:num>1-609.58</akn:num>
+        <akn:heading>Transition provisions.</akn:heading>
+<akn:subsection eId="subsec_1-609_58_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Persons currently holding appointments to positions in the Career Service who meet the definition of “management employee” as defined in § 1-614.11(5) shall be appointed to the Management Supervisory Service unless the employee declines the appointment. Persons declining appointment shall have priority for appointment to the Career Service if a vacant position for which they qualify is available within the agency and is acceptable to the employee. If no such vacant position is available, a 30-day separation notice shall be issued to the employee, who shall be entitled to severance pay in the manner provided by § 1-624.09.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-609_58_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person currently holding an appointment to a position in the Excepted Service pursuant to § 1-609.03(a) who meets the definition of “management employee” as defined in § 1-614.11(5) may, at the discretion of the personnel authority, be appointed noncompetitively to the Management Supervisory Service unless the employee declines the appointment. A person declining appointment shall be entitled to a written 15-day separation notice and shall be paid separation pay in accordance with section § 1-609.03(f).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

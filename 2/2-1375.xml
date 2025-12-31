@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1375"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1375/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1375">
+        <akn:num>2-1375</akn:num>
+        <akn:heading>Translations of District publications relating to health, safety and welfare in Chinese, Vietnamese and Korean.</akn:heading>
+<akn:subsection eId="subsec_2-1375_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall make available to persons whose primary language of communication is Chinese, Vietnamese, or Korean, a text version translated into these languages of any District of Columbia government published application, informational brochure or pamphlet which is essential to obtain services relating to the health, safety, and welfare of Asian or Pacific Islander residents of the District of Columbia. The Mayor shall by regulation designate, in consultation with the Commission, not later than 60 days after October 3, 2001, the applications, brochures, and pamphlets which shall be translated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1375_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall maintain a statistical record of the distribution and use of the materials that are distributed pursuant to subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1375_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may issue regulations to implement subsection (a) of this section in accordance with the provisions of subchapter I of Chapter 5 of this title.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

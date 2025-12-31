@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_901">
+        <akn:num>50-901</akn:num>
+        <akn:heading>Establishment of the Department of Motor Vehicles.</akn:heading>
+<akn:subsection eId="subsec_50-901_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Pursuant to § 1-204.04(b), there is hereby established in the Executive Branch of the government of the District of Columbia a Department of Motor Vehicles (“DMV”).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-901_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Director of the DMV shall have authority over the department and all functions and personnel assigned thereto, including the power to re-delegate to other employees and officials of the department such powers and authority as, in the judgment of the Director is warranted in the interests of efficiency and sound administration.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3805"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3805/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3805">
+        <akn:num>28-3805</akn:num>
+        <akn:heading>Debts secured by cross-collateral.</akn:heading>
+<akn:subsection eId="subsec_28-3805_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If debts arising from two or more consumer credit sales other than sales pursuant to a revolving charge account (section 28-3701), are secured by cross-collateral, or consolidated into one debt payable on a single schedule of payments, and the debt is secured by security interests taken with respect to one or more of the sales, payments received by the seller after the taking of the cross-collateral or the consolidation are deemed, for the purpose of determining the amount of the debt secured by the various security interests, to have been first applied to the payment of the debts arising from the sales first made. To the extent debts are paid according to this section, security interests in items of property terminate as the debts originally incurred with respect to each item are paid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3805_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Payment received by the seller upon a revolving charge are deemed, for the purpose of determining the amount of the debt secured by the various security interests, to have been applied first to the payment of credit service charges in the order of their entry to the account and then to the payment of debts in the order in which the entries to the account showing the debts were made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3805_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the debts consolidated arose from two or more sales made on the same day, payments received by the seller are deemed, for the purpose of determining the amount of the debt secured by the various security interests, to have been applied first to the payment of the smallest debt.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

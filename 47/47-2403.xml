@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2403"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2403/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2403">
+        <akn:num>47-2403</akn:num>
+        <akn:heading>Exemptions.</akn:heading>
+<akn:subsection eId="subsec_47-2403_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Sale or possession of cigarettes in the District under the following circumstances shall be exempt from the tax levied and imposed by § 47-2402:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2403_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The burden of proof that any cigarettes or other tobacco products are exempt from taxation under this chapter shall be upon the person who sells or possesses such cigarettes or other tobacco products.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

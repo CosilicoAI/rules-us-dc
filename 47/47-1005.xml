@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1005"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1005/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1005">
+        <akn:num>47-1005</akn:num>
+        <akn:heading>Real property tax exemption.</akn:heading>
+<akn:subsection eId="subsec_47-1005_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a building (or a portion thereof) or grounds belonging to and actually used by an institution, organization, or other entity exempt from real property taxation under § 47-1002 is used to secure rent or income for an activity other than that for which the exemption was granted, the building (or portion thereof) or grounds shall be assessed and taxed, unless otherwise prohibited by law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1005_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a building (or a portion thereof) or grounds belonging to and actually used by an institution, organization, or other entity exempt from real property taxation is used to secure a rent or income for any activity, where the exemption was not specifically limited to a particular use, the building (or a portion thereof) or grounds shall be assessed and taxed. This subsection shall not apply to real property exempt under § 47-1002(1) through (3), buildings or grounds subject to taxation under subsection (a) of this section, or real property immune from the levy and collection of tax under the laws of the United States.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1005_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section shall not apply to grounds used by individuals for the purpose of producing food commodities, as defined in § 47-1806.14(f).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

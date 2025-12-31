@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4008"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4008/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_4008">
+        <akn:num>22-4008</akn:num>
+        <akn:heading>Verification functions of the Court Services and Offender Supervision Agency.</akn:heading>
+<akn:subsection eId="subsec_22-4008_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Agency shall have the authority to adopt and implement procedures and requirements for verification of address information and other information required for registration under this chapter. The procedures and requirements may include, but need not be limited to, requirements that the sex offender:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4008_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Agency shall have the authority to immediately notify the Metropolitan Police Department if the Agency is unable to verify the address of or locate a sex offender who is required to register under this chapter or if the sex offender otherwise fails to comply with any requirements of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

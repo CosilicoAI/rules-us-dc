@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2832"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2832/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2832">
+        <akn:num>47-2832</akn:num>
+        <akn:heading>Repairing of motor vehicles.</akn:heading>
+<akn:subsection eId="subsec_47-2832_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Owners or managers of establishments where motor vehicles of any description are washed, cleaned, greased, oiled, or repaired, for profit or gain, shall pay a license fee of $30 per annum.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2832_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any license issued pursuant to this section shall be issued as [a] Motor Vehicles Sales, Services and Repair endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

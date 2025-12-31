@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-335.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-335.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_335_02">
+        <akn:num>47-335.02</akn:num>
+        <akn:heading>Borrowing limitation.</akn:heading>
+<akn:subsection eId="subsec_47-335_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Council shall not approve proposed District Bonds if the applicable annual Debt Service on the proposed District Bonds would cause the Debt Service on all District Bonds in the fiscal year in which the proposed District Bonds are issued, or in any of the 5 succeeding fiscal years, to exceed 12% of Total Expenditures in any applicable fiscal year, as contained in the most recently enacted District Budget and Financial Plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-335_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Obligations incurred pursuant to the authority contained in subchapter II of Chapter 3 of Title 3, obligations incurred by the agencies transferred or established by sections 201 or 202 of the Home Rule Act [§ 1-202.01 or § 1-202.02], whether incurred before or after such transfer or establishment, and obligations incurred pursuant to District Bonds issued prior to October 1, 1996, for the financing of Department of Public Works, Water and Sewer Utility Administration capital projects shall not be included in determining the aggregate amount of Debt Service on all outstanding District Bonds subject to the 12% limitation specified in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-335_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The 12% limitation specified in subsection (a) of this section shall be calculated by the Office of the Chief Financial Officer as follows:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

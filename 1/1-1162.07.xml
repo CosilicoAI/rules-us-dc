@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1162_07">
+        <akn:num>1-1162.07</akn:num>
+        <akn:heading>Budget.</akn:heading>
+<akn:subsection eId="subsec_1-1162_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Director of Government Ethics, with approval by the Ethics Board, shall prepare and submit to the Mayor, for inclusion in the annual budget of the District of Columbia under part D of subchapter IV of Chapter 2 of this title [§ 1-204.41 et seq.] for the year, annual estimates of the expenditures and appropriations necessary for the operation of the Ethics Board for the year. All such estimates shall be forwarded by the Mayor to the Council for its action pursuant to §§ 1-204.46 and 1-206.03(c), in addition to the Mayor’s recommendations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before Fiscal Year 2013, upon the request of any member of the Ethics Board, the Mayor shall provide the Ethics Board with suitable office space in a publicly owned or leased building for the administration and enforcement of this subchapter. Furnishings, information technology services and equipment, and supplies to this office space shall also be provided upon request.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

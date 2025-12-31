@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_612_06">
+        <akn:num>1-612.06</akn:num>
+        <akn:heading>Donations.</akn:heading>
+<akn:subsection eId="subsec_1-612_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A potential leave donor may submit a voluntary written request to the potential leave donor’s personnel authority that a specified number of hours of the employee’s accrued annual leave be donated to the annual leave bank. The donation shall be made to the annual leave bank in accordance with procedures established pursuant to § 1-612.11.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A leave donor may not donate more than a total of one-half of the amount of annual leave that the leave donor would be entitled to accrue during the leave year in which the donation is made, except that a leave donor may donate restored leave without limitation; however, the personnel authority or his or her designee may, in special circumstances, waive the limitation of the amount of annual leave that can be donated by an employee once the employee has donated the minimum of 4 hours of leave.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_06_b_1">
+      <akn:num>(b-1)</akn:num>
+      <akn:content><akn:p>A leave donor may designate the employee who is to receive the donated leave if the employee has applied for and been approved as a leave recipient.  Any remaining donated annual leave, if not used by the designated leave recipient, becomes the property of the annual leave bank program for use by other leave recipients.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The value of the leave donated by the leave donor shall be in an amount equal to the hourly rate of pay of the leave donor multiplied by the number of hours of annual leave donated.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

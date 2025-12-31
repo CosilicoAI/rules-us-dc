@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.70"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.70/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_406_70">
+        <akn:num>29-406.70</akn:num>
+        <akn:heading>Conflicting interest transactions; voidability.</akn:heading>
+<akn:subsection eId="subsec_29-406_70_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A contract or transaction between a nonprofit corporation and one or more of its members, directors, members of a designated body, or officers or between a nonprofit corporation and any other entity in which one or more of its directors, members of a designated body, or officers are directors or officers, hold a similar position, or have a financial interest, shall not be void or voidable solely for that reason, or solely because the member, director, member of a designated body, or officer is present at or participates in the meeting of the board of directors that authorizes the contract or transaction, or solely because his or their votes are counted for that purpose, if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_70_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Common or interested directors may be counted in determining the presence of a quorum at a meeting of the board that authorizes a contract or transaction specified in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_70_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section shall be applicable except as otherwise restricted in the articles of incorporation or bylaws.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-203.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-203.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_203_03">
+        <akn:num>9-203.03</akn:num>
+        <akn:heading>Council acceptance of land dedication.</akn:heading>
+<akn:subsection eId="subsec_9-203_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Where the highway plan shows: (1) a street as 90 feet wide, the Council may accept a dedication of land no less than 60 feet wide; (2) a street as 120 feet or more wide, the Council may accept a dedication of land no less than 90 feet wide; provided, that in both clauses (1) and (2) of this section the persons dedicating the land agree to establish building restriction lines to correspond with the width of the street as shown on the highway plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-203_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An application to dedicate land to establish a minor street that would not meet the requirements of § 9-203.04 shall be accompanied by a document signed by the Mayor, stating that the Mayor has authorized the nonconforming street width or building-line setback.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-203_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When the Council makes street construction a condition for the dedication of land for street purposes, the Surveyor shall not record a dedication plat until DDOT has issued a written statement (“DDOT Statement”) that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

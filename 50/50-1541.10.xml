@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1541_10">
+        <akn:num>50-1541.10</akn:num>
+        <akn:heading>Maintenance of and access to files.</akn:heading>
+<akn:subsection eId="subsec_50-1541_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For each record relating to a certificate of title submitted to the Harbor Master, the Harbor Master shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Harbor Master shall maintain in its files the information contained in all certificates of title created pursuant to this chapter. The information in the files of the Harbor Master must be searchable by the hull identification number of the vessel, the vessel number, the name of the owner of record, and any other method used by the Harbor Master.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Harbor Master shall maintain in its files, for each vessel for which it has created a certificate of title, all title brands known to the Harbor Master, the name of each secured party known to the Harbor Master, the name of each person known to the Harbor Master to be claiming an ownership interest, and all stolen-property reports the Harbor Master has received.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon request, for safety, security, or law-enforcement purposes, the Harbor Master shall provide to federal, state, or local government the information in its files relating to any vessel for which the Harbor Master has issued a certificate of title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_10_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided by the law of the District other than this chapter, the information required under § 50-1541.08 is a public record. The information provided under § 50-1541.06(b)(3) is not a public record.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

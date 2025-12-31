@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1306"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1306/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1306">
+        <akn:num>3-1306</akn:num>
+        <akn:heading>Enforcement; rules and regulations.</akn:heading>
+<akn:subsection eId="subsec_3-1306_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board shall have the power to enforce provisions of this chapter and shall make all necessary rules and regulations for this purpose and for carrying out, enforcing, and preventing any violation of any provision of this chapter; for investigation of potential and existing licensees of the Board; for inspecting licensed premises or enterprises; for insuring proper, safe, and orderly conduct of licensed premises or enterprises; and for protecting the public against fraud, deceit, deception, or overcharge. The Board shall have power generally to do whatever is reasonably necessary for the carrying out of the intent of this chapter and subchapter II of Chapter 17 of Title 22 and is empowered to call upon other administrative departments and agencies of the City government, as well as the Police Department and the Office of the Corporation Counsel, for such information and assistance as it deems necessary to the performance of its duties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1306_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board shall, each year on or before December 31st, publish in convenient pamphlet form all rules and regulations then in effect and shall furnish copies of such pamphlets to every establishment and enterprise engaged in activities authorized pursuant to this chapter and subchapter II of Chapter 17 of Title 22. Amendments, changes, modifications, deletions, or additions to the rules and regulations shall be published and distributed at more frequent intervals as the Board deems necessary.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

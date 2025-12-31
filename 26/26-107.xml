@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-107"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-107/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_107">
+        <akn:num>26-107</akn:num>
+        <akn:heading>Restriction on use of words “bank” and “trust company”; violations.</akn:heading>
+<akn:subsection eId="subsec_26-107_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No corporation, association, partnership, or individual shall carry on any business in the District of Columbia under any name or title containing the word “bank” or the words “trust company” unless:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-107_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any individual who, or corporation, association, or partnership which, violates any of the provisions of this section, and any officer of any such corporation or association and any officer or member of any such partnership, who assents to any such violation, shall, upon conviction thereof, be fined not more than $5,000.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

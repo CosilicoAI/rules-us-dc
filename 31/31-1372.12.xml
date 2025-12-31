@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1372.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1372.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1372_12">
+        <akn:num>31-1372.12</akn:num>
+        <akn:heading>Additional investment authority.</akn:heading>
+<akn:subsection eId="subsec_31-1372_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Solely for the purpose of acquiring investments that exceed the quantitative limitations of §§ 31-1372.02 through 31-1372.09, an insurer may acquire under this subsection an investment, or engage in investment practices, described in § 31-1372.08; provided, that an insurer shall not acquire and investment, or engage in investment practices, described in § 31-1372.08 under this subsection if, as a result of and after giving effect to the transaction:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1372_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1372_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to the investments acquired under subsections (a) and (b) of this section, an insurer may acquire under this subsection an investment of any kind, or engage in investment practices described in § 31-1372.08, that are not specifically prohibited by this chapter without regard to any limitations of §§ 31-1372.02 through 31-1372.09 if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1372_12_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An investment prohibited under § 31-1371.05 or § 31-1372.10 or additional derivative instruments acquired under § 31-1372.10 shall not be acquired under this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

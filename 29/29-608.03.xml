@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-608.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-608.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_608_03">
+        <akn:num>29-608.03</akn:num>
+        <akn:heading>Right to wind up partnership.</akn:heading>
+<akn:subsection eId="subsec_29-608_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After dissolution, a partner that has not wrongfully dissociated may participate in winding up the partnership’s activities and affairs, but on application of any partner, partner’s legal representative, or transferee, the Superior Court, for good cause shown, may order judicial supervision of the winding up.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-608_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The legal representative of the last surviving partner may wind up a partnership’s activities and affairs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-608_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person winding up a partnership’s activities and affairs may preserve the partnership activities or property as a going concern for a reasonable time, prosecute and defend actions and proceedings, whether civil, criminal, or administrative, settle and close the partnership’s activities, dispose of and transfer the partnership’s property, discharge the partnership’s liabilities, distribute the assets of the partnership pursuant to § 29-608.07, settle disputes by mediation or arbitration, and perform other necessary acts.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

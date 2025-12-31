@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1913"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1913/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1913">
+        <akn:num>11-1913</akn:num>
+        <akn:heading>Protection of employment of jurors.</akn:heading>
+<akn:subsection eId="subsec_11-1913_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An employer shall not deprive an employee of employment, threaten, or otherwise coerce an employee with respect to employment because the employee receives a summons, responds to a summons, serves as a juror, or attends Court for prospective jury service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1913_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An employer who violates subsection (a) is guilty of criminal contempt. Upon a finding of criminal contempt an employer may be fined not more than $300, imprisoned for not more than 30 days, or both, for a first offense, and may be fined not more than $5,000, imprisoned for not more than 180 days, or both, for any subsequent offense.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1913_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an employer discharges an employee in violation of subsection (a), the employee within 9 months of such discharge may bring a civil action for recovery of wages lost as a result of the violation, for an order of reinstatement of employment, and for damages. If an employee prevails in an action under this subsection, that employee shall be entitled to reasonable attorney fees fixed by the court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

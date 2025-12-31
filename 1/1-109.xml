@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-109"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-109/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_109">
+        <akn:num>1-109</akn:num>
+        <akn:heading>Liability.</akn:heading>
+<akn:subsection eId="subsec_1-109_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>District of Columbia. — The District of Columbia shall defend any civil action or proceeding pending on August 5, 1997 in any court or other official municipal, state, or federal forum against the District of Columbia or its officers, employees, or agents, and shall assume any liability resulting from such an action or proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-109_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>State Justice Institute. — The State Justice Institute shall not be liable for damages or equitable relief on the basis of the activities or operations of any federal or District of Columbia agency which receives funds through the State Justice Institute pursuant to this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-109_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>United States. — The United States, its officers, employees, and agents, and its  agencies shall not:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-109_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Limitations. — Nothing in this section shall be construed as a waiver of sovereign immunity, or as limiting any other defense or immunity that would otherwise be available to the United States, the District of Columbia, their agencies, officers, employees, or agents.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

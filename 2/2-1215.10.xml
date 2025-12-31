@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1215.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1215.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1215_10">
+        <akn:num>2-1215.10</akn:num>
+        <akn:heading>Meetings of members and the Board.</akn:heading>
+<akn:subsection eId="subsec_2-1215_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided by this subchapter, meetings of the members shall be held in accordance with the provisions of the bylaws but shall occur at least once each year after the formation of the BID. The bylaws shall specify an officer who shall send each member notice of the time, place, and purposes of the meeting. Notice shall be given at least 21 days in advance of any annual or regularly scheduled meeting and at least 7 days in advance of any other meeting, in one of the following ways:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1215_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All meetings of the Board shall be open to members. Minutes shall be recorded and shall be made reasonably available to all members and the Mayor and the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1215_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Meetings may be held by telephone, electronically, or by other means of communication; provided, that all participants can hear or read the proceeding, vote on the matters discussed, and make comments.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

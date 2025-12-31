@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-113.33"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-113.33/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_113_33">
+        <akn:num>5-113.33</akn:num>
+        <akn:heading>Penalties; private right of action.</akn:heading>
+<akn:subsection eId="subsec_5-113_33_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whoever willfully or maliciously destroys, alters, conceals, or tampers with evidence or records that are being preserved and retained in accordance with this part shall be subject to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-113_33_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Whoever willfully or maliciously destroys, alters, conceals, or tampers with evidence or records that are being preserved and retained in accordance with this part may be the subject of a civil action brought in the Superior Court of the District of Columbia by the family of a victim of homicide or by the victim of a crime enumerated in § 5-113.32(b) or (f). The civil action may be brought against the District of Columbia government employee or employees responsible, or against the District of Columbia if a pattern of violations of this section can be established.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-113_33_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subsection (b) of this section shall only apply to the willful or malicious destruction, alteration, concealment, or tampering with evidence or records that occurs on or after July 15, 2004.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

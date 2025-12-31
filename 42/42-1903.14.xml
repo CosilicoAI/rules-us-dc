@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1903_14">
+        <akn:num>42-1903.14</akn:num>
+        <akn:heading>Books, minutes, and records; inspection.</akn:heading>
+<akn:subsection eId="subsec_42-1903_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The unit owners’ association, or the declarant, the managing agent, or other person specified in the bylaws acting on behalf of the unit owners’ association, shall keep detailed records of the receipts and expenditures affecting the operation and administration of the condominium and specifying the association’s expenses related to the common elements and any other expenses incurred by or on behalf of the association.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to the provisions of subsection (c) of this section, books and records kept by or on behalf of the unit owners’ association, including the unit owners’ association membership list, mailing addresses of unit owners, and financial records, including aggregate salary information of the unit owners’ association employees, shall be available in the District of Columbia and within 50 miles of the District of Columbia, for examination and copying by a unit owner in good standing or such unit owner’s authorized agent so long as the request is for a proper purpose related to the unit owner’s membership in the unit owners’ association, and not for pecuniary gain, commercial solicitation, or other purpose unrelated to the unit owner’s membership in the unit owners’ association. This right of examination may be exercised only during reasonable hours on business days. The books shall be subject to an independent audit upon the request of owners of units to which 33 1/3% of the votes in the unit owners’ association pertain or a lower percentage as may be specified.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_14_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Before providing copies of any books or records, the unit owners’ association may impose and collect a fee reflecting the actual costs of materials and labor for providing access to copies of the requests books and records.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

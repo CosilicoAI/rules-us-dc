@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-312.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-312.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_312_01">
+        <akn:num>38-312.01</akn:num>
+        <akn:heading>False information hotline.</akn:heading>
+<akn:subsection eId="subsec_38-312_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Office of the State Superintendent of Education shall establish a hotline to receive tips and information regarding the non-District residence, or other primary caregiver status, of a parent or a primary caregiver of a student in a District of Columbia public school or a public charter school.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-312_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>District of Columbia public schools and public charter schools shall post a sign, which is clearly visible and not smaller than 8.5 inches by 11 inches, at each location where admission procedures take place and in each principal’s office, notifying the public of the hotline and of the penalties set forth in this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-312_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Office of the State Superintendent of Education shall ensure that District of Columbia public schools and public charter schools investigate an allegation received through the hotline or through any other source of information.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-312_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

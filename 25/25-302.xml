@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_302">
+        <akn:num>25-302</akn:num>
+        <akn:heading>Special qualifications for wholesaler’s or retailer’s licenses.</akn:heading>
+<akn:subsection eId="subsec_25-302_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>No manufacturer, wholesaler, or shareholder holding 25% or more of the  common stock of, or equity interest in, a manufacturer or wholesaler, or  officer of a manufacturer or wholesaler corporation, or partner or member of a  partnership or limited liability company owning 25% or more of its equity interest, has such a substantial interest, direct or indirect, in the  applicant’s business or establishment that the applicant would be influenced  to purchase alcoholic beverages from the manufacturer or wholesaler; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-302_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The business for which the license is sought has not been, and will not  be, conducted with money, equipment, furniture, fixtures, or property (A)  rented from, (B) loaned from, (C) given by, or (D) sold for less than fair  market value, upon a conditional sale agreement, or a chattel trust from, a manufacturer, wholesaler, shareholder holding 25% or more of the common stock  of, or equity interest in, a manufacturer or wholesaler, or officer of a  manufacturer or wholesaler corporation, or partner or member of a partnership  or limited liability company owning 25% or more of its equity interest.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

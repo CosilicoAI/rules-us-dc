@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1806.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1806.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1806_09">
+        <akn:num>47-1806.09</akn:num>
+        <akn:heading>Tax on residents and nonresidents; credits; lower income, long-term homeowner credit — Definitions.</akn:heading>
+<akn:subsection eId="subsec_47-1806_09_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1806_09_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Eligible residence” means a real property receiving the homestead deduction under § 47-850 or a unit within a cooperative housing association for which the cooperative housing association is receiving the homestead deduction under § 47-850.01.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1806_09_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Eligible resident” means a resident, as defined in § 47-1801.04(17), who:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1806_09_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Household income” means the total “adjusted gross income”, as defined in § 47-1803.02(b), of every member of the household.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

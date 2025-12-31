@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-5102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-5102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_5102">
+        <akn:num>16-5102</akn:num>
+        <akn:heading>Confidentiality of certain information developed during jury selection.</akn:heading>
+<akn:subsection eId="subsec_16-5102_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>During the jury selection segment of any case pending in the Superior Court of the District of Columbia, the name, home address, business address (if any), and all other identifying information of any citizen who is called for jury service in that case shall not be used by anyone other than for the purpose of selecting a fair and impartial jury. After jury selection has been completed or terminated by the court, no person other than the subject of the identifying information or the court shall divulge or use the name, home address, business address (if any), or any other identifying information of any citizen who participated in that jury selection, whether or not the citizen was selected to serve on the jury, except as provided in subsections (b) and (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-5102_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An officer or employee of the court may divulge the name of any citizen who participated in jury selection pursuant to rules adopted by the court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-5102_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing contained in subsection (a) of this section shall be construed to prohibit a citizen, party, or attorney, or their agents, from divulging, making known, or using the identifying information of any citizen who is called for jury service where the party, attorney, or agent has obtained authorization from the court:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

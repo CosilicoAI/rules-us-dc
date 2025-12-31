@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2002"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2002/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2002">
+        <akn:num>42-2002</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_42-2002_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Unit” or “condominium unit” means an enclosed space, consisting of 1 or more rooms, occupying all or part of 1 or more floors in buildings of 1 or more floors or stories regardless of whether it be designed for residence, for office, for the operation of any industry or business, or for any other type of independent use, and shall include such accessory units as may be appended thereto, such as garage space, storage space, balcony, terrace or patio; provided, that said unit has a direct exit to a thoroughfare or to a given common space leading to a thoroughfare.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Condominium” means the ownership of single units in a multiunit project with common elements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Condominium project” or “project” means a real estate condominium project; a plan or project condominium project; a plan or project whereby 5 or more apartments, rooms, office spaces, buildings, or other units, which may be either contiguous or detached, in existing or proposed buildings or structures are offered or proposed to be offered for sale.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Co-owner” means a person, persons, corporation, trust, or other legal entity, or any combination thereof, that owns a condominium unit within the building.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Council of co-owners” means the co-owners as defined in paragraph (4) of this section, acting as a group in accordance with the provisions of this subchapter and the bylaws and declaration established thereunder; and a majority, as defined in paragraph (8) of this section, shall, except as otherwise provided in this subchapter, constitute a quorum for the adoption of decisions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“General common elements” except as otherwise provided in the plat of condominium subdivision, means and includes:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Limited common elements” means and includes those common elements which are agreed upon by all the co-owners to be reserved for the use of a certain number of condominium units, such as special corridors, stairways, and elevators, sanitary services common to the apartments of a particular floor, and the like.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Majority of co-owners,” “two-thirds of the co-owners,” and “three-fourths of the co-owners” mean, respectively, 51%, 66 2/3%, and 75% or more of the votes of the co-owners computed in accordance with their percentage interests as established under § 42-2006.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Plat of condominium subdivision” means the plat of the surveyor of the District of Columbia establishing the condominium units, accessory units, general common elements, and limited common elements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Person” means a natural individual, corporation, trustee, or other legal entity or any combination thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Developer” means a person that undertakes to develop a real estate condominium project.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“Property” means and includes the lands whether leasehold, if separable as defined in subparagraph (A) of paragraph (6) of this section, or in fee simple, the building, all improvements and structures thereon, and all easements, rights, and appurtenances thereunto belonging.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“To record” means to record in accordance with the provisions of § 42-401.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“Common expenses” means and includes;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“Common profits” means the balance of all income, rents, profits, and revenues from the common areas and facilities remaining after deduction of the common expenses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2002_16">
+      <akn:num>(16)</akn:num>
+      <akn:content><akn:p>All words used herein include the masculine, feminine, and neuter genders and include the singular or plural numbers, as the case may be.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

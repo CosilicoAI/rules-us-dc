@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2008"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2008/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2008">
+        <akn:num>34-2008</akn:num>
+        <akn:heading>Implementation policy.</akn:heading>
+<akn:subsection eId="subsec_34-2008_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In the implementation of this chapter, it shall be the policy of the District government to promote the hiring, education, and training of District residents in every facet of telecommunications endeavor in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2008_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Pursuant to this chapter, it shall be the policy of the District government to promote the utilization of small, disadvantaged, women-owned, and District businesses in the establishment and contracting processes regarding telecommunications in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2008_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall be construed to contravene any provision in the federal Telecommunications Act of 1996 passed by the U.S. Congress in January and signed into law by President Clinton in February or to be inconsistent with the findings of the PSC in a proceeding pursuant to § 34-2002(k).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2008_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Two years after June 5, 2008, the People’s Counsel shall issue a report on the effect of the absence of local regulation of Voice Over Internet Protocol Service telecommunications service in the District of Columbia. The report shall be a general analysis of the impacts and effects of the VOIP act on consumers. The report shall also include an examination of the market availability of Voice Over Internet Protocol Service technology to consumers.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

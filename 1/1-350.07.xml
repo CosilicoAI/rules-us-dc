@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-350.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-350.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_350_07">
+        <akn:num>1-350.07</akn:num>
+        <akn:heading>Suspension of licenses and permits.</akn:heading>
+<akn:subsection eId="subsec_1-350_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each District agency that transfers and refers a delinquent debt of more than $100 to the Central Collection Unit for collection shall, within 5 days of the transfer and referral, suspend the granting or issuance of any District license or permit to the delinquent debtor. The suspension shall remain in effect until the Central Collection Unit notifies the appropriate District agency that the delinquent debt has been satisfied.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-350_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each District agency that suspends the granting or issuance of a District license or permit pursuant to this section shall provide written or electronic notice of the suspension to the Central Collection Unit within 5 days of the suspension.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-350_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Central Collection Unit shall provide to all District agencies, within 10 days of the end of the preceding month, a list of the names of all persons currently subject to suspension of the granting or issuing of a District license or permit due to delinquent debt of more than $100.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

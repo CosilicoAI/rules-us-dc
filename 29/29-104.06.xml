@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-104.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-104.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_104_06">
+        <akn:num>29-104.06</akn:num>
+        <akn:heading>Termination of listing of commercial registered agent.</akn:heading>
+<akn:subsection eId="subsec_29-104_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A commercial registered agent may terminate its listing as a commercial registered agent by delivering to the Mayor for filing a commercial registered agent termination statement signed by the agent which states:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-104_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A commercial registered agent termination statement shall be effective at 12:01 a.m. on the 31st day after the day on which it is delivered to the Mayor for filing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-104_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The commercial registered agent promptly shall furnish each entity represented by the agent notice in a record of the filing of the commercial registered agent termination statement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-104_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When a commercial registered agent termination statement takes effect, the commercial registered agent ceases to be a registered agent for each entity formerly represented by it. Until an entity formerly represented by a terminated commercial registered agent designates a new registered agent, service of process may be made on the entity pursuant to § 29-104.12. Termination of the listing of a commercial registered agent under this section shall not affect any contractual rights a represented entity has against the agent or that the agent has against the entity.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

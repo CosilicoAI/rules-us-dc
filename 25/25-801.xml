@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-801"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-801/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_801">
+        <akn:num>25-801</akn:num>
+        <akn:heading>Authority of the Board to enforce this title; enforcement responsibilities of ABRA investigators and Metropolitan Police Department.</akn:heading>
+<akn:subsection eId="subsec_25-801_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board shall have the authority to enforce the provisions of this title with respect to licensees and with respect to any person not holding a license and selling alcohol in violation of the provisions of this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-801_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to subsection (c) of this section, ABRA investigators and the Metropolitan Police Department shall issue citations for civil violations of this title that are set forth in the schedule of civil penalties established under § 25-830.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-801_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A citation for any violation for which the penalty includes the suspension of a license shall be issued under the direct authority of the Board as a result of an investigation carried out by ABRA investigators.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-801_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Prosecutions for misdemeanors under this title shall be prosecuted and initiated by information filed in the Superior Court of the District of Columbia by the Corporation Counsel. Prosecutions for felonies under this title shall be prosecuted by the United States Attorney for the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-801_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Violations committed by an unlicensed person selling alcohol in violation of the provisions of this title shall be forwarded by the Board to the Corporation Counsel for prosecution.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-801_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>ABRA investigators may request and check the identification of a patron inside of or attempting to enter an establishment with an alcohol license. ABRA investigators may seize evidence that substantiates a violation under this title, which shall include seizing alcoholic beverages sold to minors and fake identification documents used by minors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-801_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>ABRA investigators may seize a liquor license from an establishment if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

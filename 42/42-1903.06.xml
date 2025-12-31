@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1903_06">
+        <akn:num>42-1903.06</akn:num>
+        <akn:heading>Officers; disqualification.</akn:heading>
+<akn:subsection eId="subsec_42-1903_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the condominium instruments provide that any officer or officers must be unit owners, then any such officer who disposes of all of his units in fee or for a term or terms of 6 months or more shall be deemed to have disqualified himself from continuing in office unless the condominium instruments otherwise provide, or unless he acquires or contracts to acquire another unit in the condominium under terms giving him a right of occupancy thereto effective on or before the termination of his right of occupancy under such disposition or dispositions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the condominium instruments provide that any officer or officers must be unit owners, then notwithstanding the provisions of § 42-1902.06(1), the term “unit owner” in such context shall, unless the condominium instruments otherwise provide, be deemed to include, without limitation, any director, officer, partner in, or trustee of any person, which is, either alone or in conjunction with another person or persons, a unit owner. Any officer who would not be eligible to serve as such were he not a director, officer, partner in, or trustee of such a person, shall be deemed to have disqualified himself from continuing in office if he ceases to have any such affiliation with that person, or if that person would itself have been deemed to have disqualified itself from continuing in such office under subsection (a) of this section were it a natural person holding such office.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

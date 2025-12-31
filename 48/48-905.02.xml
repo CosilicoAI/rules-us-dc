@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-905.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-905.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_905_02">
+        <akn:num>48-905.02</akn:num>
+        <akn:heading>Forfeitures.</akn:heading>
+<akn:subsection eId="subsec_48-905_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The following property is subject to forfeiture if determined to be used in furtherance of or as proceeds of the manufacture or distribution of a controlled substance as prohibited by §  48-904.01(a): containers, conveyances, equipment, raw materials, real property, money, currency, securities, negotiable instruments, instrumentalities, books, records, and research products, including formulas and data.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-905_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Contraband is not subject to forfeiture under this section, but may be seized and disposed of in accordance with applicable law; provided, that controlled substances shall be retained until the prosecutorial authority responsible for prosecuting a violation under this chapter certifies that such controlled substances are no longer needed as evidence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-905_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No property shall be subject to forfeiture for conduct involving only a violation of § 48-904.01(d).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-905_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>All seizures and forfeitures under this section shall follow the standards and procedures set forth in D.C. Law 20-278.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-398.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-398.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_398_03">
+        <akn:num>47-398.03</akn:num>
+        <akn:heading>No appropriation necessary for arena preconstruction activities.</akn:heading>
+<akn:subsection eId="subsec_47-398_03_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Borrowing conducted pursuant to § 47-398.01(a);</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-398_03_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The pledging of revenues as security for such borrowing pursuant to § 47-398.02(a);</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-398_03_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The payment of principal, interest, premium, debt servicing, contributions to reserves, or other costs associated with such borrowing; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-398_03_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Other obligations or expenditures made to carry out any arena preconstruction activity described in § 47-398.04.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

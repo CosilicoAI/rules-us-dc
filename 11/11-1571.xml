@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1571"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1571/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1571">
+        <akn:num>11-1571</akn:num>
+        <akn:heading>Periodic increases; existing rights.</akn:heading>
+<akn:subsection eId="subsec_11-1571_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The retirement salary of any judge, or the annuity of any person based upon the service of a judge, who, on the effective date of any increase which, after the effective date of this section, becomes payable under the provisions of section 8340 (b) of title 5, United States Code, is receiving such salary or annuity, or who, before the next such increase first becomes payable under such section, receives such salary or annuity, either (1) under the provisions of this subchapter, or (2) under the provisions of section 11-1701, as in effect prior to the effective date of this section, and its predecessor laws, shall be increased on the effective date of the increase by a percentage equal to the percentage of such increase under section 8340 of title 5, United States Code.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1571_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this subchapter shall defeat or diminish rights acquired under section 11-1701, as in effect prior to the effective date of this section, and its predecessor laws, except on the election and with the consent of the judge, annuitant, or other person affected.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

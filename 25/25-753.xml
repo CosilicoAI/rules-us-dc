@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-753"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-753/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_753">
+        <akn:num>25-753</akn:num>
+        <akn:heading>Keg registration required; procedures specified.</akn:heading>
+<akn:subsection eId="subsec_25-753_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A licensee under an off-premises retailer’s or wholesaler’s license shall not sell any alcoholic beverage in a keg to a consumer without having affixed a registration seal on the keg at the time of sale.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-753_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A keg registration seal is a seal, decal, sticker, or other device approved by the Board which is designed to be affixed to kegs and which displays a registration number, name of the licensee offering the keg for sale to the consumer, and any other information required by the Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-753_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>At the point of sale of an alcoholic beverage in a keg, the licensee shall complete a keg declaration of receipt on a form provided by the Board receipt, which receipt shall contain the following information:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-753_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon return of a registered keg from a consumer, the licensee shall remove or obliterate the keg registration seal and note the removal or obliteration on the keg declaration of receipt form to be retained by the licensee at the licensed establishment. If a keg is made of disposable packaging that does not have to be returned by the consumer to the licensee, the licensee shall indicate on the keg declaration of receipt form that the keg is disposable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-753_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A licensee shall maintain the keg declaration of receipt form on the licensed establishment for 2 years following the date of purchase. These records shall be open at all reasonable times for inspection by the Board, or its authorized representatives, and other law enforcement officers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-753_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>This section shall not apply to the wholesale sale of any keg between a wholesaler and a retailer or to the import of any keg by a retailer under this title or regulations promulgated hereunder.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

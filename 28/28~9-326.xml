@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-326"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-326/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_326">
+        <akn:num>28:9-326</akn:num>
+        <akn:heading>Priority of security interests created by new debtor.</akn:heading>
+<akn:subsection eId="subsec_28:9-326_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to subsection (b) of this section, a security interest that is created by a new debtor in collateral in which the new debtor has or acquires rights and is perfected solely by a filed financing statement that would be ineffective to perfect the security interest but for the application of § 28:9-316(i)(1) or 28:9-508 is subordinate to a security interest in the same collateral which is perfected other than by such a filed financing statement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-326_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The other provisions of this part determine the priority among conflicting security interests in the same collateral perfected by filing financing statements described in subsection (a) of this section. However, if the security agreements to which a new debtor became bound as debtor were not entered into by the same original debtor, the conflicting security interests rank according to priority in time of the new debtor’s having become bound.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

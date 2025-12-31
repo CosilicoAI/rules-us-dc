@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2011"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2011/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2011">
+        <akn:num>21-2011</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_21-2011_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Best interests” means promoting personal well-being by assessing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>“Case reviewer” means a social worker who is licensed in the District of Columbia and appointed by the court under § 21-2045.01(a).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_1B">
+      <akn:num>(1B)</akn:num>
+      <akn:content><akn:p>“Claims” in respect to a protected individual, means liabilities of the protected individual, whether arising in contract, tort, or otherwise, and liabilities of the estate that arise at or after the appointment of a conservator, including expenses of administration.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Court” means the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Conservator” means a person who is appointed by a court to manage the estate of a protected individual and includes a limited conservator described in § 21-2066(a).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Counsel” means an attorney admitted to the practice of law in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“District” means District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_5A">
+      <akn:num>(5A)</akn:num>
+      <akn:content><akn:p>“Domestic partner” shall have the same meaning as provided in § 32-701(3).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_5B">
+      <akn:num>(5B)</akn:num>
+      <akn:content><akn:p>“Domestic partnership” shall have the same meaning as provided in § 32-701(4).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_5C">
+      <akn:num>(5C)</akn:num>
+      <akn:content><akn:p>“Emergency care” means immediate treatment, including diagnostic treatment, provided in response to a sudden and acute medical crisis in order to avoid injury, extreme pain, impairment, or death.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Estate” means the property of the individual whose affairs are subject to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Examiner” means an individual qualified by training or experience in the diagnosis, care, or treatment of the causes and conditions giving rise to the alleged incapacity, such as a gerontologist, psychiatrist, or qualified developmental disability professional.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Guardian” means a person who has qualified as a guardian of an incapacitated individual pursuant to court appointment, not including a guardian ad litem, but including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Guardian ad litem” means an individual appointed by the court to assist the subject of an intervention proceeding to determine his or her interests in regard to the guardianship or protective proceeding or to make that determination if the subject of the intervention proceeding is unconscious or otherwise wholly incapable of determining his or her interest in the proceeding even with assistance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Habilitation” means the process by which an individual is assisted to acquire and maintain those life skills that enable him or her to cope more effectively with the demands of his or her own person and of his or her own environment and to raise the level of his or her physical, intellectual, social, emotional, and economic efficiency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Incapacitated individual” means an adult whose ability to receive and evaluate information effectively or to communicate decisions is impaired to such an extent that he or she lacks the capacity to manage all or some of his or her financial resources or to meet all or some essential requirements for his or her physical health, safety, habilitation, or therapeutic needs without court-ordered assistance or the appointment of a guardian or conservator.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_11A">
+      <akn:num>(11A)</akn:num>
+      <akn:content><akn:p>“Incapacitated individual for health-care decisions” means an adult individual who lacks sufficient mental capacity to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“Intervention proceeding” means any proceeding under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“Lease” means an oil, gas, or other mineral lease.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“Letters” means letters of guardianship and letters of conservatorship.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“Manage financial resources” means those actions necessary to obtain, administer, and dispose of real and personal property, intangible property, business property, benefits, and income.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_16">
+      <akn:num>(16)</akn:num>
+      <akn:content><akn:p>“Meet essential requirements for physical health or safety” means those actions necessary to provide health care, food, shelter, clothing, personal hygiene, and other care without which serious physical injury or illness is more likely than not to occur.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_17">
+      <akn:num>(17)</akn:num>
+      <akn:content><akn:p>“Mortgage” means any conveyance, agreement, or arrangement in which property is used as collateral.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_18">
+      <akn:num>(18)</akn:num>
+      <akn:content><akn:p>“Organization” includes a corporation, business trust, estate, trust, partnership, association, 2 or more persons having a joint or common interest, government, governmental subdivision or agency, or any other legal entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_19">
+      <akn:num>(19)</akn:num>
+      <akn:content><akn:p>“Person” means an individual or an organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_20">
+      <akn:num>(20)</akn:num>
+      <akn:content><akn:p>“Petition” means a written request to the court for an order after notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_21">
+      <akn:num>(21)</akn:num>
+      <akn:content><akn:p>“Property” means anything that may be the subject of ownership, and includes both real and personal property and any interest in real or personal property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_22">
+      <akn:num>(22)</akn:num>
+      <akn:content><akn:p>“Protected individual” means an individual for whom a conservator has been appointed or other protective order has been made as provided in sections 21-2055 and 21-2056.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_23">
+      <akn:num>(23)</akn:num>
+      <akn:content><akn:p>“Protective proceeding” means a proceeding under the provisions of subchapter VI of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_24">
+      <akn:num>(24)</akn:num>
+      <akn:content><akn:p>“Qualified developmental disability professional” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_25">
+      <akn:num>(25)</akn:num>
+      <akn:content><akn:p>“Security” means any:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_25A">
+      <akn:num>(25A)</akn:num>
+      <akn:content><akn:p>“Substituted judgment” means making a decision that conforms as closely as possible with the decision that the individual would have made, based upon the knowledge of the beliefs, values, and preferences of the individual.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_26">
+      <akn:num>(26)</akn:num>
+      <akn:content><akn:p>“Visitor” means a person appointed in a guardianship or protective proceeding who is an officer, employee, or special appointee of the court and who has no personal interest in the proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2011_27">
+      <akn:num>(27)</akn:num>
+      <akn:content><akn:p>“Ward” means an individual for whom a guardian has been appointed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4705.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4705.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4705_04">
+        <akn:num>31-4705.04</akn:num>
+        <akn:heading>Loan provisions in policies.</akn:heading>
+<akn:subsection eId="subsec_31-4705_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In the case of ordinary policies issued prior to the operative date of § 31-4705.02 (the standard nonforfeiture law) the loan value referred to in paragraph (6) of subsection (a) of § 31-4703 shall be the reserve at the end of the current policy year on the policy and on the dividend additions thereto, if any, exclusive of the reserve on account of return premium insurance and of total and permanent disability and additional accidental death benefits, less a sum not more than 2 1/2% of the amount insured by the policy and of any dividend additions thereto (the policy to specify the mortality table and rate of interest adopted for computing such reserve). The policy may provide that such loan may be deferred for not exceeding 6 months after the application therefor is made. A company may, in lieu of the provision hereinabove permitted for the deduction from a loan on the policy of a sum not more than 2 1/2% of the amount insured by the policy and of any dividend additions thereto, insert in the policy a provision that one fifth of the said reserve may be deducted in case of a loan under the policy, or may provide therein that the deduction may be the said 2 1/2% or the one fifth of the said reserve at the option of the company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4705_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the case of ordinary policies issued on or after the operative date of § 31-4705.02 (the standard nonforfeiture law) the loan value referred to in paragraph (6) of subsection (a) of § 31-4703 shall be the cash surrender value at the end of the current policy year as required by § 31-4705.02. The company shall reserve the right to defer such loan, except when made to pay premiums, for 6 months after application therefor is made.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

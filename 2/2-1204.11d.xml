@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1204.11d"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1204.11d/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1204_11d">
+        <akn:num>2-1204.11d</akn:num>
+        <akn:heading>Motion picture and television production permits.</akn:heading>
+<akn:subsection eId="subsec_2-1204_11d_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor may issue a permit for the occupation of the public space for motion picture, television, and other media productions (“film permit”) pursuant to § 10-1141.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1204_11d_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may impose a one-time fee for processing of the film permit application in the amount of $30 per production.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1204_11d_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The film permit fee shall be $150 per day per location to occupy public space or a public right-of-way.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1204_11d_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor may periodically revise the schedule of fees by rulemaking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1204_11d_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The fees received by the Mayor from applications for and issuance of the film permits shall be deposited into the special account established by § 2-1204.11e.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1204_11d_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>No permit may be transferred from one location to another.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

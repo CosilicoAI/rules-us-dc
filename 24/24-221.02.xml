@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-221.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-221.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_221_02">
+        <akn:num>24-221.02</akn:num>
+        <akn:heading>Administration of good time credits.</akn:heading>
+<akn:subsection eId="subsec_24-221_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-221_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall establish an Institutional Appeals Board (“Board”) of 5 persons not employed by the Department of Corrections, to review the granting, withholding, forfeiture, cancellation, and restoration of good time credits. The Department shall provide staff support to the board. An inmate shall be entitled to appeal a decision to the board. The board shall review the record of the inmate and any additional materials submitted by the inmate or the Department. The decision of the board shall be final.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

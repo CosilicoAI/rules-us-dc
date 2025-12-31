@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-439"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-439/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_439">
+        <akn:num>8-439</akn:num>
+        <akn:heading>Penalties.</akn:heading>
+<akn:subsection eId="subsec_8-439_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A violation of this subchapter shall be a civil infraction for purposes of the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective July 16, 1985 (Law 6-42; D.C. Code § 2-1801.01 et seq.) (“Civil Infractions Act”). Civil fines, penalties, and fees may be imposed as sanctions for any infraction of the provisions of this subchapter, or the rules issued under authority of this subchapter, pursuant to the Civil Infractions Act. Adjudication of any infractions shall be pursuant to the Civil Infractions Act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-439_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Department may, as set forth by the Mayor in regulations, suspend or revoke the license of a pesticide operator or applicator who violates § 8-433 more than once in a calendar year in a manner that endangers human health or the environment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

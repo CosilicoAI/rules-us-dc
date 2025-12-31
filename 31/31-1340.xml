@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1340"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1340/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1340">
+        <akn:num>31-1340</akn:num>
+        <akn:heading>Priority of distribution.</akn:heading>
+<akn:subsection eId="subsec_31-1340_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Class 1. The costs and expenses of administration during rehabilitation and liquidation, including, but not limited to the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1340_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Class 2. All claims under policies including the claims of the federal or any state or local government for losses incurred (“loss claims”), including third party claims and all claims of a guaranty association or foreign guaranty association. All claims under life insurance and annuity policies, whether for death proceeds, annuity proceeds, or investment values, shall be treated as loss claims. That portion of any loss, indemnification for which is provided by other benefits or advantages recovered by the claimant, shall not be included in this class, other than benefits or advantages recovered or recoverable in discharge of familial obligation of support, by way of succession at death, as proceeds of life insurance, or as gratuities. No payment by an employer to his or her employee shall be treated as a gratuity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1340_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Class 3. Claims of the federal or any state or local government, except those under Class 2. Claims, including those of any governmental body for a penalty or forfeiture, shall be allowed in this class only to the extent of the pecuniary loss sustained from the act, transaction, or proceeding out of which the penalty or forfeiture arose, with reasonable and actual costs occasioned thereby. The remainder of the claims shall be postponed to the class of claims under paragraph (8) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1340_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Class 4. Reasonable compensation to employees for services performed to the extent that they do not exceed 2 months of monetary compensation and represent payment for services performed within one year before the filing of the petition for liquidation or, if rehabilitation preceded liquidation, within one year before the filing of the petition for rehabilitation. Principal officers and directors shall not be entitled to the benefit of this priority except as otherwise approved by the liquidator and the court. This priority shall be in lieu of any other similar priority that may be authorized by law as to wages or compensation of employees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1340_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Class 5. Claims under nonassessable policies for unearned premium or other premium refunds and claims of general creditors, including claims of ceding and assuming companies in their capacity as general creditors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1340_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Class 6. Claims filed late or any other claims other than claims under paragraphs (7) and (8) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1340_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Class 7. Surplus or contribution notes, or similar obligations, and premium refunds on assessable policies. Payments to members of domestic mutual insurance companies shall be limited in accordance with law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1340_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>Class 8. The claims of shareholders or other owners in their capacity as shareholders.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

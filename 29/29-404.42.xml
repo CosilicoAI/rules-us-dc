@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-404.42"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-404.42/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_404_42">
+        <akn:num>29-404.42</akn:num>
+        <akn:heading>Debt and security interests.</akn:heading>
+<akn:subsection eId="subsec_29-404_42_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A nonprofit corporation shall not issue bonds or other evidences of indebtedness except for money or other property, tangible or intangible, or labor or services actually received by or performed for the corporation or for its benefit or in its formation or reorganization, or a combination thereof. In the absence of fraud, the judgment of the board of directors as to the value of the consideration received by the corporation shall be conclusive.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-404_42_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The board of directors may authorize a mortgage or pledge of, or the creation of a security interest in, all or any part of the property of the nonprofit corporation, or any interest therein. Unless otherwise restricted in the articles of incorporation or bylaws, the vote or consent of the members shall not be required to make effective such action by the board.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

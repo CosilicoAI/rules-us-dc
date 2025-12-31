@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-782"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-782/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_782">
+        <akn:num>25-782</akn:num>
+        <akn:heading>Restrictions on minor’s entrance into licensed premises.</akn:heading>
+<akn:subsection eId="subsec_25-782_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The licensee under an off-premises retailer’s license, class A, shall not permit a person under 18 years of age to enter the licensed establishment between the hours of 8 a.m. and 3 p.m. on any day in which the public schools of the District are in session during the regular school year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-782_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It shall be an affirmative defense to a charge of violating subsection (a) of this section that the licensee or a licensee’s employee was shown a valid identification document indicating that the minor was 18 years of age or older, which document the licensee or the licensee’s employee reasonably believed to be valid, and that the licensee or the licensee’s employee reasonably believed that the person was 18 years of age or older or was not truant or unlawfully absent from school.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-782_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subsection (a) of this section shall not apply to a licensee under a retailer’s license, class A, for a supermarket if its primary business and purpose is the sale of a full range of fresh, canned, and frozen food items, and if the sale of alcoholic beverages is incidental to the primary purpose and constitutes no more than 25% of total volume of gross receipts on an annual basis.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-782_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except as otherwise permitted, a licensee shall not deny admittance to a person displaying a valid identification document displaying proof of legal drinking age.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-782_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The provisions of this section notwithstanding, a licensee not shall discriminate on any basis prohibited by Unit A of Chapter 14 of Title 2.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

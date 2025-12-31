@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1276"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1276/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1276">
+        <akn:num>47-1276</akn:num>
+        <akn:heading>Appeals.</akn:heading>
+<akn:subsection eId="subsec_47-1276_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An ICF-IDD may contest the amount of an assessment, including any interest or administrative penalties, imposed under this chapter, or by rules issued pursuant to § 47-1277, by filing a notice of appeal with the Office of Administrative Hearings within 60 days after the date of the notice of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1276_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Office of Administrative Hearings shall conduct a hearing on the appeal filed under subsection (a) of this section subject to the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; § 2-501 et seq.), and pursuant to the rules of the Office of Administrative Hearings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1276_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Before filing an appeal pursuant to subsection (a) of this section, the ICF-IDD shall pay the assessment, together with any administrative penalties and interest due on the assessment. In no case shall the filing of a notice of appeal act as a stay on the payment of the assessment, interest, or administrative penalties.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

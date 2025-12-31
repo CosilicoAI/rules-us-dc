@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-1303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-1303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_1303">
+        <akn:num>20-1303</akn:num>
+        <akn:heading>Limitations.</akn:heading>
+<akn:subsection eId="subsec_20-1303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Proceedings against personal representative. — Unless otherwise barred, any claim of personal liability against a personal representative, except for fraud, and except as provided in section 20-736, shall be barred one year from the date of distribution of all the assets and satisfaction of all known claims against the estate. Unless shown by the personal representative to be earlier, the date of such distribution and satisfaction in an unsupervised administration shall be deemed to be the date of the filing of the Certificate of Completion or, if none, 3 months after the termination of the appointment of the personal representative.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-1303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Claims against heirs and legatees. —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

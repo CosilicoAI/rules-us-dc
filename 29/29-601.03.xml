@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-601.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-601.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_601_03">
+        <akn:num>29-601.03</akn:num>
+        <akn:heading>Knowledge and notice.</akn:heading>
+<akn:subsection eId="subsec_29-601_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person knows a fact if the person has actual knowledge of it.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-601_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person has notice of a fact if the person:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-601_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person notifies or gives a notification to another by taking steps reasonably required to inform the other person in ordinary course, whether or not the other person learns of it.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-601_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A person receives a notification when the notification:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-601_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (f) of this section, a person other than an individual knows, has notice, or receives a notification of a fact for purposes of a particular transaction when the individual conducting the transaction knows, has notice, or receives a notification of the fact, or in any event when the fact would have been brought to the individual’s attention if the person had exercised reasonable diligence. The person exercises reasonable diligence if it maintains reasonable routines for communicating significant information to the individual conducting the transaction and there is reasonable compliance with the routines. Reasonable diligence shall not require an individual acting for the person to communicate information unless the communication is part of the individual’s regular duties or the individual has reason to know of the transaction and that the transaction would be materially affected by the information.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-601_03_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A partner’s knowledge, notice, or receipt of a notification of a fact relating to the partnership shall be effective immediately as knowledge by notice to, or receipt of a notification by, the partnership, except in the case of a fraud on the partnership committed by or with the consent of that partner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-601_03_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A person that is not a partner is deemed:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

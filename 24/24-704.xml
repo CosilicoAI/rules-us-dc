@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-704"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-704/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_704">
+        <akn:num>24-704</akn:num>
+        <akn:heading>Right to counsel.</akn:heading>
+<akn:subsection eId="subsec_24-704_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A patient shall have the right to the assistance of counsel at every stage of the judicial proceeding under §§ 24-701 to 24-711, and the court shall assign counsel to represent him if the patient is unable to obtain counsel.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-704_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The counsel for a patient may inspect the reports of the examination made pursuant to the authority contained in § 24-705. No such report and no evidence resulting from such personal examination or evidence offered by the patient shall be admissible against him in any judicial proceeding except a proceeding under §§ 24-701 to 24-711.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-704_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The patient may, prior to the examination made pursuant to the provisions of § 24-705 or prior to the hearing provided for by § 24-707, waive his rights to an examination, to counsel, or to such hearing, and voluntarily submit himself to commitment pursuant to the provisions of §§ 24-701 to 24-711.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

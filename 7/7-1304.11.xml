@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1304.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1304.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1304_11">
+        <akn:num>7-1304.11</akn:num>
+        <akn:heading>Periodic review of commitment order.</akn:heading>
+<akn:subsection eId="subsec_7-1304_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any decision of the Court ordering commitment of a person with an intellectual disability to a facility pursuant to § 7-1304.09 shall be reviewed in a Court hearing annually. The individual with an intellectual disability shall be discharged unless there is a finding of the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1304_11_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>Any decision of the Court ordering commitment of an individual found incompetent in a criminal case to DDS pursuant to § 7-1304.06a shall be reviewed in a court hearing annually. The individual shall not be discharged if the Court finds that the individual is likely to cause injury to others as a result of his or her intellectual disability if allowed to regain his or her liberty.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1304_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an individual with an intellectual disability is discharged in accordance with the provisions of subsection (a) or subsection (a-1) of this section but continues to evidence the need for habilitation and care, it shall be the responsibility of the Department on Disability Services to arrange for suitable services for the person.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

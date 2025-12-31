@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2302">
+        <akn:num>31-2302</akn:num>
+        <akn:heading>Domestication permitted.</akn:heading>
+<akn:subsection eId="subsec_31-2302_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2302_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any shares of the acquiring insurer, or voting trust certificates therefor, held among the trusteed assets of the United States branch or held in a trust created by the Non-U.S. insurer of which the Non-U.S. insurer is a beneficiary shall be deemed to be shares held beneficially, but indirectly, by the Non-U.S. insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2302_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The acquiring insurer may be licensed to engage in the insurance business in the District either before entering into the domestication agreement or, if the Commissioner approves, effective with consummation of the domestication agreement in accordance with § 31-2306.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2302_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This chapter shall not be construed to (1) authorize an insurance company to do any kind of insurance business not authorized by its charter, or (2) authorize a foreign or Non-U.S. insurer to do any kind of insurance business in the District not authorized by its license or certificate of authority to do business in the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

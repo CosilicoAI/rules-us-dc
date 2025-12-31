@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-615.54"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-615.54/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_615_54">
+        <akn:num>1-615.54</akn:num>
+        <akn:heading>Enforcement.</akn:heading>
+<akn:subsection eId="subsec_1-615_54_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-615_54_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In a civil action or administrative proceeding, once it has been demonstrated by a preponderance of the evidence that an activity proscribed by § 1-615.53 was a contributing factor in the alleged prohibited personnel action against an employee, the burden of proof shall be on the defendant to prove by clear and convincing evidence that the alleged action would have occurred for legitimate, independent reasons even if the employee had not engaged in activities protected by this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-615_54_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, a violation of § 1-615.53 constitutes a complete affirmative defense for a whistleblower to a prohibited personnel action in an administrative review, challenge, or adjudication of that action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-615_54_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An employee who prevails in a civil action at the trial level, shall be granted the equitable relief provided in the decision effective upon the date of the decision, absent a stay.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-615_54_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

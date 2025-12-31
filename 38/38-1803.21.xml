@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1803.21"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1803.21/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1803_21">
+        <akn:num>38-1803.21</akn:num>
+        <akn:heading>Promotion gates.</akn:heading>
+<akn:subsection eId="subsec_38-1803_21_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Kindergarten through 4th grade. — Not later than one year after the date of adoption in accordance with § 38-1803.11(d) of the assessments described in § 38-1803.11(b)(1)(C), the Superintendent shall establish and implement promotion gates for mathematics, reading, and writing, for not less than one grade level from kindergarten through grade 4, including at least grade 4, and shall establish dates for establishing such other promotion gates for other subject areas.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1803_21_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>5th through 8th grades. — Not later than one year after the adoption in accordance with § 38-1803.11(d) of the assessments described in § 38-1803.11(b)(1)(C), the Superintendent shall establish and implement promotion gates with respect to not less than one grade level from grade 5 through grade 8, including at least grade 8.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1803_21_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>9th through 12th grades. — Not later than one year after the adoption in accordance with § 38-1803.11(d) of the assessments described in § 38-1803.11(b)(1)(C), the Superintendent shall establish and implement promotion gates with respect to not less than one grade level from grade 9 through grade 12, including at least grade 12.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4002"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4002/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4002">
+        <akn:num>31-4002</akn:num>
+        <akn:heading>General provisions.</akn:heading>
+<akn:subsection eId="subsec_31-4002_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An insurer shall offer to any person who is a licensed caregiver pursuant to 29 DCMR 301, optional liability and comprehensive coverage for up to a total of 5 children and infants. The optional protection shall provide liability coverage for a child or infant who is injured while attending the child development home and comprehensive coverage for property damage to the child development home.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4002_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An insurer who offers motor vehicle liability insurance in the District, pursuant to Chapter 24 of this title, may offer to any policyholder who is licensed pursuant to 29 DCMR 301 as a child development home caregiver, optional personal injury protection to cover a child or infant who suffers an injury while a passenger in an automobile operated out of the insured’s activities as a child development home caregiver. The coverage required pursuant to this subsection shall be in an amount approved by the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4002_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall prohibit an insurer from denying a child development home caregiver’s application for optional insurance or denying liability coverage to an insured for an injury that results from abuse or neglect.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

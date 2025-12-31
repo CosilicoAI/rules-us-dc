@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-383"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-383/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_383">
+        <akn:num>47-383</akn:num>
+        <akn:heading>Grant application procedure.</akn:heading>
+<akn:subsection eId="subsec_47-383_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All grant applications shall be prepared in the name of the government of the District of Columbia. Any agency, other than those referred to in subsection (b) of this section, which desires to receive grant funds or submit a state plan shall request approval by the Mayor subject to regulations issued by the Mayor in accordance with the provisions of § 2-505.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-383_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Trustees of the University of the District of Columbia, the Board of Education, and the D.C. General Hospital Commission shall submit to the Mayor two copies of the application and completed approval form, as an advisory notice, concurrent with submitting the application and completed approval form to a grant-making agency in accordance with rules and regulations issued pursuant to subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-383_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Those agencies identified in subsection (b) of this section shall, within 180 days of September 16, 1980, develop rules and regulations for grant applications review and approval consistent with the responsibilities of the governing bodies of those agencies, and such rules and regulations shall be issued in accordance with the provisions of § 2-505.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

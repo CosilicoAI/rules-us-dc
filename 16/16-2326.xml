@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2326"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2326/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2326">
+        <akn:num>16-2326</akn:num>
+        <akn:heading>Court costs and expenses.</akn:heading>
+<akn:subsection eId="subsec_16-2326_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If, at the dispositional hearing or thereafter, the Division finds, after due notice and a hearing, that the parent or other person legally obligated to care for and support a child subject to proceedings under this subchapter is financially able to pay, the Division may order him or her to pay all of or part of the costs of —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2326_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Payment under this section shall be made as prescribed by rules of the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

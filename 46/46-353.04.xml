@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-353.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-353.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_353_04">
+        <akn:num>46-353.04</akn:num>
+        <akn:heading>Duties of initiating tribunal.</akn:heading>
+<akn:subsection eId="subsec_46-353_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon the filing of a petition authorized by this chapter, an initiating tribunal of the District shall forward the petition and its accompanying documents:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-353_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If requested by the responding tribunal, a tribunal of the District shall issue a certificate or other document and make findings required by the law of the responding state. If the responding tribunal is in a foreign country, upon request the tribunal of the District shall specify the amount of support sought, convert that amount into the equivalent amount in the foreign currency under the applicable official or market exchange rate as publicly reported, and provide any other documents necessary to satisfy the requirements of the responding foreign tribunal.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

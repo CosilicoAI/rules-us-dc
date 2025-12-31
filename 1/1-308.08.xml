@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-308.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-308.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_308_08">
+        <akn:num>1-308.08</akn:num>
+        <akn:heading>Default.</akn:heading>
+<akn:subsection eId="subsec_1-308_08_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>By action, writ, or other proceeding, enforce all rights of the holders of the Bonds, including the right to require the District to carry out and perform the terms of any agreement with the holders of the Bonds or its duties under this part;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-308_08_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>By action, require the District to account as if it were the trustee of an express trust;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-308_08_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>By action, petition to enjoin any acts or things that may be unlawful or in violation of the rights of the holders of the Bonds; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-308_08_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Declare all the Bonds due and payable, whether or not in advance of maturity and, if all the defaults be made good, annul the declaration and its consequences.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-614.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-614.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_614_13">
+        <akn:num>1-614.13</akn:num>
+        <akn:heading>Performance report.</akn:heading>
+<akn:subsection eId="subsec_1-614_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Not later than January 1, 1997, and on January 15th in subsequent years, each agency of the District of Columbia government shall develop and submit to the Council of the District of Columbia a performance report covering all major programs of the agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-614_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The performance report shall indicate, for each performance measure stated in the previous fiscal year’s performance plan, the actual level of performance as compared to the stated goal or objective for performance. The performance report shall also state the name and position of the management employee or employees most directly responsible for the achievement of each performance measure, and the immediate supervisor or superior of the management employee or employees.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2605"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2605/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2605">
+        <akn:num>42-2605</akn:num>
+        <akn:heading>Annual audit; report to Congress and Council; appropriations.</akn:heading>
+<akn:subsection eId="subsec_42-2605_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An annual audit of the operations of the Fund shall be conducted by the Office of the Inspector General of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2605_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Not later than 6 months after the end of each fiscal year, the Mayor shall submit to the Congress of the United States and to the Council of the District of Columbia a report of the financial condition of the Fund and the results of the operations for such fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2605_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall include in the budget estimates of the District of Columbia for each fiscal year, and there is authorized to be appropriated annually, such amounts out of the revenues of the District of Columbia as may be required for the Fund.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

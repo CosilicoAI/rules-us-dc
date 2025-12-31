@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3131.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3131.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3131_10">
+        <akn:num>42-3131.10</akn:num>
+        <akn:heading>Penalties for noncompliance.</akn:heading>
+<akn:subsection eId="subsec_42-3131_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The failure of the owner of a vacant building to register and pay all required fees under § 42-3131.06(a) or § 42-3131.09 after notice of the designation of the owner’s building as vacant, the determination of delinquency of registration or fee payment, the denial or revocation of registration, the filing by an owner of any false or misleading registration-related information, or the refusal of the owner of a vacant building to permit the Mayor to inspect the building shall, upon conviction thereof, be punished by a fine not to exceed $1,000. The Director of the Department of Consumer and Regulatory Affairs shall provide the Office of the Attorney General with a list of all owners who fail to register and pay the required fee after notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3131_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the owner of a vacant building fails to maintain the building in compliance with the requirements of § 42-3131.12 or, having obtained a vacant property registration, subsequently fails to comply with the other registration requirements under § 42-3131.07, the Mayor may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3131_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Civil fines, penalties, and fees may be imposed as additional sanctions for any infraction of the provisions of § 42-3131.06, § 42-3131.07, § 42-3131.08, § 42-3131.09, or § 42-3131.12, pursuant to Chapter 18 of Title 2.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3131_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Criminal prosecutions under § 42-3131.05 through § 42-3131.15 shall be brought in the name of the District of Columbia by the Attorney General for the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5233"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5233/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5233">
+        <akn:num>31-5233</akn:num>
+        <akn:heading>Premium Tax Credit.</akn:heading>
+<akn:subsection eId="subsec_31-5233_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any Certified Investor who makes an investment of Certified Capital pursuant to an allocation of Premium Tax Credits under § 31-5234 shall, in the year of investment, earn a Premium Tax Credit in the amount of the Certified Investor’s investment of Certified Capital.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5233_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A Certified Investor may claim an amount not to exceed 25% of the Premium Tax Credits per year (“Annual Amount”) against its District Premium Tax Liability, beginning with the premium tax filing for calendar year 2009. The Annual Amount shall not exceed the District Premium Tax Liability of the Certified Investor for the taxable year. All unused Premium Tax Credits may be carried forward indefinitely until they are utilized.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5233_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5233_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A Certified Investor shall not be required to reduce the amount of premium tax included by the Certified Investor in connection with ratemaking in the District, for any insurance written by the Certified Investor or affiliate thereof, because of a reduction in the Certified Investor’s District Premium Tax Liability from the utilization of the Premium Tax Credits.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-112"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-112/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_112">
+        <akn:num>28:8-112</akn:num>
+        <akn:heading>Creditor’s legal process.</akn:heading>
+<akn:subsection eId="subsec_28:8-112_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The interest of a debtor in a certificated security may be reached by a creditor only by actual seizure of the security certificate by the officer making the attachment or levy, except as otherwise provided in subsection (d) of this section. However, a certificated security for which the certificate has been surrendered to the issuer may be reached by a creditor by legal process upon the issuer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-112_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The interest of a debtor in an uncertificated security may be reached by a creditor only by legal process upon the issuer at its chief executive office in the United States, except as otherwise provided in subsection (d) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-112_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The interest of a debtor in a security entitlement may be reached by a creditor only by legal process upon the securities intermediary with whom the debtor’s securities account is maintained, except as otherwise provided in subsection (d) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-112_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The interest of a debtor in a certificated security for which the certificate is in the possession of a secured party, or in an uncertificated security registered in the name of a secured party, or a security entitlement maintained in the name of a secured party, may be reached by a creditor by legal process upon the secured party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-112_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A creditor whose debtor is the owner of a certificated security, uncertificated security, or security entitlement is entitled to aid from a court of competent jurisdiction, by injunction or otherwise, in reaching the certificated security, uncertificated security, or security entitlement or in satisfying the claim by means allowed at law or in equity in regard to property that cannot readily be reached by other legal process.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4013"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4013/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_4013">
+        <akn:num>22-4013</akn:num>
+        <akn:heading>Immunity.</akn:heading>
+<akn:subsection eId="subsec_22-4013_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The District of Columbia government and its agencies, officials, employees, and agents and the United States government and its agencies, officials, employees, and agents shall be immune from suit for any claim arising from any good faith act of omission under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4013_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsection (a) of this section, the District of Columbia government may be held liable for the negligent disclosure of information to the public in violation of this chapter. A person subjected to such a violation may bring suit in the Court for injunctive or declaratory relief to abate a continuing violation, and for compensatory damages. The action under this subsection shall be the exclusive remedy under the law of the District of Columbia for the negligent disclosure of information in violation of this chapter. Except as provided by this subsection or § 22-4004(a), nothing in this chapter shall be construed to create any private right of action or give rise to any rights enforceable by injunction, mandamus, or otherwise.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4013_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the Court has made a determination under § 22-4003 or § 22-4004 that a person must register or must register for life, or if the Agency has made such a determination and the person has failed to seek review of the determination in conformity with § 22-4004, then the person shall be barred in a suit under this section from contesting the determination or any fact, finding, or issue that was resolved by or necessary to the determination.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4013_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed as limiting any other defense or immunity that would otherwise be available to the District of Columbia government, its agencies, officials, employees, or agents or the United States government, its agencies, officials, employees, or agents, or to obligate the District of Columbia government or the United States government to represent or indemnify any official, employee, or agent where such person acts beyond the scope of his or her authority.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

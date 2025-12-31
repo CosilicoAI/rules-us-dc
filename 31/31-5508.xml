@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5508"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5508/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5508">
+        <akn:num>31-5508</akn:num>
+        <akn:heading>Effect of paid claims.</akn:heading>
+<akn:subsection eId="subsec_31-5508_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person recovering under this chapter shall be deemed to have assigned his or her rights under the policy to the Association to the extent of his or her recovery from the Association. Every insured or claimant seeking the protection of this chapter shall cooperate with the Association to the same extent as that person would have been required to cooperate with the insolvent insurer. The Association shall have no cause of action against the insured of the insolvent insurer for any sums it has paid out except those causes of action as the insolvent insurer would have had if such sums had been paid by the insolvent insurer and except as provided in subsection (b) of this section. In the case of an insolvent insurer operating on a plan with assessment liability, payments of claims of the Association shall not operate to reduce the liability of the insureds to the receiver, liquidator, or statutory successor for unpaid assessments.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5508_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Association shall have the right to recover from the following persons the amount of any covered claim paid on behalf of such a person pursuant to the chapter:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5508_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The receiver, liquidator, or statutory successor of an insolvent insurer shall be bound by settlements of covered claims by the Association or a similar organization in another jurisdiction. The court having jurisdiction shall grant these claims priority equal to that which the claimant would have been entitled in the absence of this chapter against the assets of the insolvent insurer. The expenses of the Association or similar organization in handling claims shall be accorded the same priority as the liquidator’s expenses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5508_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Association shall periodically file, with the receiver or liquidator of the insolvent insurer, statements of the covered claims paid by the Association and estimates of anticipated claims on the Association which shall preserve the rights of the Association against the assets of the insolvent insurer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

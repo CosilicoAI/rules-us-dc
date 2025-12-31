@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3451.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3451.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3451_02">
+        <akn:num>31-3451.02</akn:num>
+        <akn:heading>RBC reports.</akn:heading>
+<akn:subsection eId="subsec_31-3451_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A domestic health organization shall, prior to each March 2 (“filing date”), prepare and submit to the Commissioner a report of its RBC levels as of the end of the previous calendar year, in a form and containing such information as is required by the RBC instructions. In addition, a domestic health organization shall file its RBC report:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A health organization’s RBC level shall be determined in accordance with the RBC instructions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a domestic health organization files an RBC report that, in the judgment of the Commissioner, is inaccurate, the Commissioner shall adjust the RBC report to correct the inaccuracy and shall notify the health organization of the adjustment. The notice shall contain a statement of the reason for the adjustment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

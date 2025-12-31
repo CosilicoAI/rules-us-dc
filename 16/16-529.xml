@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-529"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-529/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_529">
+        <akn:num>16-529</akn:num>
+        <akn:heading>Attachment in actions for fraudulent conveyances.</akn:heading>
+<akn:subsection eId="subsec_16-529_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Where the ground upon which an attachment is applied for is that the defendant has assigned, conveyed, or disposed of his property with intent to hinder, delay, or defraud his creditors, the attachment may be levied upon the property alleged to be so assigned or conveyed in the hands of the alleged fraudulent assignee or transferee, as a garnishee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-529_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The garnishee may have the same benefit of section 16-506 as the defendant in the action. If the court is of the opinion, upon the hearing of the affidavits filed, that the attachment ought not to have issued or to have been levied on the property claimed by the garnishee, the attachment may be quashed as to the garnishee and the levy set aside.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-529_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the levy is not set aside, the garnishee may answer that he was a bona fide purchaser from the defendant for value without notice of any fraud on the part of the defendant, and the answer shall be held to make an issue, without any further pleading in reply thereto; and issue may be tried as directed by section 16-520.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-529_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When the issue is found in favor of the garnishee, judgment shall be rendered in his favor for his costs and a reasonable attorney fee. When the issue is found against the garnishee, but judgment in the action is rendered in favor of the defendant, the attachment shall be dissolved, and garnishee shall recover his costs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-529_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>When the issue is found against the garnishee and judgment in the action is rendered in favor of the plaintiff against the defendant, or the defendant, not being found, has failed to appear in obedience to the order of publication against him, and when it appears upon the verdict of a jury that the claim of the plaintiff against the defendant is well founded, a judgment of condemnation of the property attached shall be rendered, as directed by section 16-524(c).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

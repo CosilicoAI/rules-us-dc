@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-578"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-578/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_578">
+        <akn:num>2-578</akn:num>
+        <akn:heading>Record of meetings.</akn:heading>
+<akn:subsection eId="subsec_2-578_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All meetings of public bodies, whether open or closed, shall be recorded by electronic means; provided, that if a recording is not feasible, detailed minutes of the meeting shall be kept.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-578_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Copies of records shall be made available for public inspection according to the following schedule; provided, that a record, or a portion of a record, may be withheld under the standard established for closed meetings pursuant to § 2-575(b):</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

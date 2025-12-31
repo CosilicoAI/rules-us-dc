@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1031"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1031/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1031">
+        <akn:num>10-1031</akn:num>
+        <akn:heading>District Facilities Planning Advisory Committee.</akn:heading>
+<akn:subsection eId="subsec_10-1031_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established a District Facilities Planning Advisory Committee (“Committee”), whose purpose shall be to provide advice, comments, and recommendations to the Council pursuant to subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1031_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Committee shall be composed of 7 members. Three members shall be appointed by the Chairman of the Council, one of whom the Chairman shall designate to serve as chair; one member shall be appointed by the Chair of the Council committee with jurisdiction over the Department of Real Estate Services; one member shall be appointed by the Chair of the Council committee with jurisdiction over the Deputy Mayor for Planning and Economic Development; and 2 members shall be appointed by the Mayor. The Committee may act with a quorum of 4 appointed members. Each member shall be a resident of the District and have demonstrated experience in facility management or program activities in at least one of the fields of real estate, policy and planning, community development, or other field deemed suitable for the purposes of the work of the Committee. The term of an appointment shall be 3 years from the date of appointment. The Chairman of the Council shall have sole and exclusive authority at his or her discretion to remove members of the Committee. The Committee shall annually provide its conclusions and findings to the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1031_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Committee shall perform the following duties:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1031_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No member of the Advisory Committee shall be compensated for time expended in the performance of duties, except to the extent that the member is a District government employee serving as part of his or her existing responsibilities, but members shall be entitled to reimbursement for actual and necessary expenses incurred in the performance of the Advisory Committee’s duties pursuant to applicable District government rules and regulations.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

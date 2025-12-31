@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3302.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3302.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3302_07">
+        <akn:num>31-3302.07</akn:num>
+        <akn:heading>Regulations establishing standards.</akn:heading>
+<akn:subsection eId="subsec_31-3302_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commissioner may adopt regulations to enable him or her to establish and administer such standards relating to the provisions of this chapter as may be necessary to (i) implement the requirements of this chapter, and (ii) assure that the District of Columbia’s regulation of health insurers is not preempted pursuant to the Health Insurance Portability and Accountability Act of 1996, approved August 21, 1996 (P.L. 104-191; 110 Stat. 1936).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3302_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commissioner may revise or amend such regulations and may increase the scope of the regulations to the extent necessary to maintain federal approval of the District of Columbia’s program for regulation of health insurers pursuant to the requirements established by the United States Department of Health and Human Services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3302_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commissioner shall annually advise the Committee on Consumer and Regulatory Affairs, or such other Council committee or committees having subject matter jurisdiction over health insurance, of revisions and amendments made pursuant to subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

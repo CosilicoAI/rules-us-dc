@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1151.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1151.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1151_02">
+        <akn:num>26-1151.02</akn:num>
+        <akn:heading>Federally regulated, supervised, and insured entities and the Federal National Mortgage Association and Federal Home Loan Corporation.</akn:heading>
+<akn:subsection eId="subsec_26-1151_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in subchapter II of this chapter shall be construed to apply to loans made or purchased by the Federal National Mortgage Association, Federal Home Loan Corporation, or a bank, trust company, savings and loan association, or savings bank, that is regulated and supervised by a supervising federal agency, including the finance and operating subsidiaries of such entities that are so regulated and supervised.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1151_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This section shall not apply to any lender that is not federally regulated and supervised, except the Federal National Mortgage Association, or the Federal Home Loan Corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1151_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (d) of this section, the Home Ownership and Equity Protection Act of 1994, approved September 23, 1994 (108 Stat. 2190; codified in various sections of Chapter 16 of the U.S. Code), and the implementing regulations issued by the Federal Reserve Board, as each may be amended from time to time, are hereby adopted by reference thereto and shall apply to loans made or purchased by the Federal National Mortgage Association, Federal Home Loan Corporation, or a bank, trust company, savings and loan association, or savings bank that is regulated and supervised by a supervising federal agency, including the finance and operating subsidiaries of such entities that are so regulated and supervised, that engage in lending activities in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1151_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The violations, remedies, penalties, and enforcement provisions set forth in subchapter III of this chapter shall apply to loans made or purchased by the Federal National Mortgage Association, Federal Home Loan Corporation, or a bank, trust company, savings and loan association, or savings bank that is regulated and supervised by a supervising federal agency, including the finance and operating subsidiaries of such entities that are so regulated and supervised, that engage in lending activities in the District with regard to violations of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

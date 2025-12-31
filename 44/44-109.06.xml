@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-109.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-109.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_109_06">
+        <akn:num>44-109.06</akn:num>
+        <akn:heading>Medication management training program.</akn:heading>
+<akn:subsection eId="subsec_44-109_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall develop medication management training courses which shall be approved by the Board of Nursing. The medication administration training program shall include instruction in the following areas:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-109_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall maintain a list of approved medication administration courses for the training of persons to be certified by the District of Columbia as TMEs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-109_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In order to maintain certification, every 2 years a TME shall successfully complete a clinical update or refresher course approved by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-109_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The ALA shall document completion of the medication training course in TME’s personnel file.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

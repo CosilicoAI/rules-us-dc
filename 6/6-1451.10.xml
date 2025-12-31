@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1451.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1451.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_1451_10">
+        <akn:num>6-1451.10</akn:num>
+        <akn:heading>Exemptions and extensions.</akn:heading>
+<akn:subsection eId="subsec_6-1451_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1451_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this chapter, construction encompassed by building permits applied for within 6 months of March 8, 2007, shall be exempt from the verification requirements of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1451_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this chapter, construction encompassed by a contract for a disposition agreement with the District or an instrumentality of the District for a property disposition for which a request for proposals was released prior to March 8, 2007, shall be exempt from the relevant current edition of the LEED standard for commercial and institutional buildings verification requirements, unless the disposition agreement is executed more than 12 months after March 8, 2007.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1451_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this chapter, the Mayor, upon a finding of reasonable grounds, may extend the period for green building verifications required in §§ 6-1451.02 and 6-1451.03, for 3 successive 4-month periods.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

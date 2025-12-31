@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1118"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1118/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1118">
+        <akn:num>32-1118</akn:num>
+        <akn:heading>Procedures to counteract imminent danger.</akn:heading>
+<akn:subsection eId="subsec_32-1118_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Superior Court shall, upon petition of the Mayor, restrain or enjoin conditions or practices in any place of employment which are a danger and could reasonably be expected to cause death or serious physical harm either immediately or before the imminence of danger can be eliminated through enforcement procedures otherwise provided for by this chapter. The court may require steps to be taken to avoid, correct, or remove the imminent danger. The court may prohibit the employment or presence of an individual in locations or under conditions where imminent danger exists, except individuals whose presence is necessary to avoid, correct, or remove the imminent danger, or to maintain operation, resume normal operations without a complete cessation of operations, or to permit the cessation of operations to be accomplished in a safe and orderly manner when cessation of operations is necessary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1118_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon the filing of a petition, the Superior Court may grant permanent injunctive relief or a temporary restraining order pending the outcome of an enforcement proceeding instituted pursuant to this chapter. No temporary restraining order issued without notice shall be effective for more than 5 days.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1118_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall, immediately upon concluding that conditions or practices described in subsection (a) of this section exist in a place of employment, inform the affected employees and employers of the danger and that relief is being sought.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1118_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the Mayor arbitrarily or capriciously fails to seek relief under this section, an employee or employee representative who may be injured by reason of the failure may seek a writ of mandamus in the Superior Court to compel the Mayor to seek an order of relief and any further relief that may be appropriate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

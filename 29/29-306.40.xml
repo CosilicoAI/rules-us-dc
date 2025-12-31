@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.40"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.40/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_306_40">
+        <akn:num>29-306.40</akn:num>
+        <akn:heading>Officers.</akn:heading>
+<akn:subsection eId="subsec_29-306_40_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A corporation shall have the officers described in its bylaws or appointed by the board of directors in accordance with the bylaws.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_40_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The board of directors may elect individuals to fill one or more offices of the corporation. An officer may appoint one or more officers if authorized by the bylaws or the board of directors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_40_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The bylaws or the board of directors shall assign to one of the officers responsibility for preparing the minutes of the directors’ and shareholders’ meetings and for maintaining and authenticating the records of the corporation required to be kept under § 29-313.01(a) and (e).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_40_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The same individual may simultaneously hold more than one office in a corporation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

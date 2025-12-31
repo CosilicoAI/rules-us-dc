@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-931"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-931/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_931">
+        <akn:num>29-931</akn:num>
+        <akn:heading>Allocation and distribution of net savings.</akn:heading>
+<akn:subsection eId="subsec_29-931_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Not less than 10% shall be placed in a reserve fund until such time as the fund equals at least 50% of the paid-up capital. The fund may be used in the general conduct of the business. The amounts apportioned to the reserve fund shall be allocated on the books of the association on a patronage basis or, in lieu thereof, the books and records of the association shall afford a means for doing so, in order that upon dissolution or earlier, if deemed advisable, the reserves may be returned to the patrons who have contributed the same, subject to the limitations of § 29-934.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-931_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A return upon capital, within the limitations of § 29-922, may be paid upon share capital, or, if the bylaws so provide, upon the membership capital certificates of a nonshare association, but the return upon capital may be paid only out of the surplus of the aggregate of the assets over the aggregate of the liabilities, including in the latter the amount of the capital stock, after deducting from the aggregate of the assets the amount by which such aggregate was increased by unrealized appreciation in value or revaluation of fixed assets.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-931_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>A portion of the remainder, as determined by the articles or bylaws, shall be allocated to an educational fund to be used in teaching cooperation, and a portion may also be allocated to funds for the general welfare of the members of the association.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-931_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The remainder shall be allocated at the same uniform rate to all patrons of the association in proportion to their individual patronage in accordance with the following rules:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

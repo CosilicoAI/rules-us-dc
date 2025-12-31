@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_901">
+        <akn:num>31-901</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-901_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Converted stock company” means a District of Columbia domiciled stock company that converted from a District of Columbia mutual company pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-901_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>“Commissioner” means the Commissioner of Insurance and Securities [Commissioner of the Department of Insurance, Securities, and Banking].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-901_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-901_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Eligible member” means a member whose policy is in force as of the date the mutual company’s board of directors adopts a plan of conversion.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-901_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Plan of conversion” or “plan” means a plan adopted by a District of Columbia domestic mutual company’s board of directors pursuant to this chapter to convert the mutual company into a District of Columbia domiciled stock company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-901_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Policy” includes an annuity contract.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-901_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

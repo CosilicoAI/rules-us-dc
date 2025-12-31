@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_612_02">
+        <akn:num>1-612.02</akn:num>
+        <akn:heading>Legal public holidays.</akn:heading>
+<akn:subsection eId="subsec_1-612_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Legal public holidays are as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For purposes of pay and leave with respect to a legal public holiday listed in subsection (a) of this section and any other day designated to be a legal holiday by the Mayor, the following rules and regulations shall apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>January 20th of each 4th year starting in 1981, Inauguration Day, is a legal public holiday for the purpose of pay and leave of employees scheduled to work on that day. When January 20th of any 4th year falls on Sunday, the next succeeding day selected for the public observance of the inauguration of the President is a legal public holiday for the purposes of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When an employee, having a regularly scheduled tour of duty is relieved or prevented from working on a day District agencies are closed by order of the Mayor, he or she is entitled to the same pay for that day as for a day on which an ordinary day’s work is performed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Mayor shall prescribe rules and regulations governing the pay and leave of employees in connection with legal public holidays and other designated nonworkdays.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_02_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The Board of Trustees of the University of the District of Columbia shall have authority to establish not more than 3 additional holidays to honor persons or events germane to academic interests.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

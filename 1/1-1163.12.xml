@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1163_12">
+        <akn:num>1-1163.12</akn:num>
+        <akn:heading>Registration statement of candidate; depository information.</akn:heading>
+<akn:subsection eId="subsec_1-1163_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each individual shall, within 5 days of becoming a candidate, or within 5 days of the day on which he or she, or any person authorized by him or her to do so, has received a contribution or made an expenditure in connection with his or her campaign or for the purposes of preparing to undertake his or her campaign, file with the Director of Campaign Finance a registration statement in a form prescribed by the Director of Campaign Finance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1163_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In addition, candidates shall provide the Director of Campaign Finance the name and address of the campaign depository or depositories designated by that candidate, together with the title and number of each account and safety deposit box used by that candidate at the depository or depositories, and the identification of each individual authorized to make withdrawals or payments out of the account or box, and other information as shall be required by the Director of Campaign Finance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

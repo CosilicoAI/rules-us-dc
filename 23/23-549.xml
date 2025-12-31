@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-549"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-549/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_549">
+        <akn:num>23-549</akn:num>
+        <akn:heading>Maintenance and custody of records.</akn:heading>
+<akn:subsection eId="subsec_23-549_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The contents of any wire or oral communication intercepted by any means authorized by this subchapter shall, if possible, be recorded on tape or wire or other comparable device. The recording of the contents of any wire or oral communication under this subchapter shall be done in such way as will protect the recording from editing or other alterations. Immediately upon the expiration of the period of the order, or extensions thereof, the recordings shall be made available to the judge issuing the order and sealed under his directions. Custody of the recordings shall be wherever the judge orders. They shall not be destroyed except upon an order of the issuing or denying judge and in any event shall be kept for ten years. Duplicate recordings may be made for use or disclosure pursuant to the provisions of subsection (a) of section 23-553, for investigations. The presence of the seal provided for by this subsection, or a satisfactory explanation for the absence thereof, shall be a prerequisite for the use or disclosure of the contents of any wire or oral communication or evidence derived therefrom under subsection (b) of section 23-553.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-549_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Applications made and orders granted under this subchapter shall be sealed by the judge. Custody of the applications and orders shall be wherever the judge directs. The applications and orders shall be disclosed only upon a showing of good cause before a judge of competent jurisdiction and shall not be destroyed except on order of the issuing or denying judge, and in any event shall be kept for ten years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-549_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any violation of the provisions of this subsection may be punished as contempt of court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

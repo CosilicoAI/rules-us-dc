@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_301">
+        <akn:num>5-301</akn:num>
+        <akn:heading>Powers and duties of federal law enforcement officers when making arrests for nonfederal offenses.</akn:heading>
+<akn:subsection eId="subsec_5-301_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a federal law enforcement agency has entered into a cooperative agreement with the Metropolitan Police Department of the District of Columbia (“MPD”) to assist MPD in carrying out crime prevention and law enforcement activities pursuant to § 5-133.17, a sworn federal law enforcement officer of a covered federal law enforcement agency as defined in § 5-133.17(d) (“federal officer”), who in his official capacity is authorized to make arrests, shall, when making an arrest in the District of Columbia for a nonfederal offense, have the same legal status and immunity from suit as an MPD officer if the arrest is made under the following circumstances:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-301_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A sworn federal law enforcement officer of a covered federal law enforcement agency as defined in § 5-133.17(d), who in his official capacity is authorized to make arrests, may be authorized by the covered federal law enforcement agency to carry weapons within the boundaries of the District of Columbia while in an off-duty status provided that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

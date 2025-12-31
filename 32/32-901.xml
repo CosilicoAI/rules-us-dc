@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_901">
+        <akn:num>32-901</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_32-901_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Employee” means any natural person who performs any labor for compensation, in whole or in part, in the District of Columbia; but does not include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-901_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Employer” means anyone who employs any natural person and who does business in the District of Columbia, but does not include any agency or authority of the federal government.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-901_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Hiring procedure” means any procedure or action in the District of Columbia used to find, or to select for employment, any person seeking employment, whether the procedure is used by a prospective employer with all persons seeking employment, or is used only selectively with such persons.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-901_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Lie detector test” means any polygraph, lie detector, or other test which by any mechanical, electrical, chemical, or physiological means attempts to determine whether a person is telling the truth, or the truth to the best of the person’s knowledge.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

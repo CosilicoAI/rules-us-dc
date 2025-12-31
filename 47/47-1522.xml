@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1522"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1522/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1522">
+        <akn:num>47-1522</akn:num>
+        <akn:heading>Levy of annual tax on personal property.</akn:heading>
+<akn:subsection eId="subsec_47-1522_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each year the district shall levy a tax against every person on the tangible personal property owned or held in trust in that person’s trade or business in the District. The rate of tax shall be $3.40 for each $100 of value of the taxable personal property, in excess of $225,000 in value.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1522_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Construction equipment, vehicles, trailers, tools, and any other tangible personal property brought into the District on a temporary basis and used in a trade or business shall be taxed for the period that the property was physically located in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1522_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Persons owning leased personal property having a taxable situs in the District shall be subject to the tax and to the filing requirement of § 47-1524(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1522_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Real property improvements that do not become an integral part of the realty shall be subject to the personal property tax imposed by subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1522_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Persons owning or holding in trust any tangible personal property located or having a taxable situs in the District on July 1st of the tax year that is used or available for use in a trade or business, whether or not operated for profit, shall file a return according to § 47-1524(b).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

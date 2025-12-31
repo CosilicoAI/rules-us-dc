@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/35-251"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/35-251/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_35_251">
+        <akn:num>35-251</akn:num>
+        <akn:heading>Unlawful conduct on public passenger vehicles.</akn:heading>
+<akn:subsection eId="subsec_35-251_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “rail transit station” means a regular rail stopping place for the pick-up and discharge of passengers in regular route service, contract service, special or community-type service, including the fare-paid areas and roofed areas of the rail transit stations (not bus terminals or bus stops) owned, operated, or controlled by the Washington Metropolitan Area Transit Authority; provided, that the term “rail transit station” shall not include parking lots, roadways and other areas intended for vehicle traffic.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_35-251_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It is unlawful for any person either while aboard a public passenger vehicle with a capacity for seating 12 or more passengers, including vehicles owned and/or operated by the Washington Metropolitan Area Transit Authority, which is transporting passengers in regular route service within the corporate limits of the District of Columbia; or while aboard a rail transit car owned and/or operated by the Washington Metropolitan Area Transit Authority which is transporting passengers within the corporate limits of the District of Columbia; or while within a rail transit station owned and/or operated by the Washington Metropolitan Area Transit Authority which is located within the corporate limits of the District of Columbia to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_35-251_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>It is unlawful for any person, while aboard a rail transit car which is transporting passengers within the District of Columbia, knowingly to cause the doors of any rail transit car to open by activating a safety device designed to allow emergency evacuation of passengers. It is an affirmative defense to a prosecution under this subsection that the person charged believed, in good faith, that the action was necessary to protect people from injury or death.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_35-251_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>It is unlawful for any person at a rail transit station to stop, impede, interfere with, or tamper with an escalator or elevator or any part of an escalator or elevator apparatus or to use an escalator or elevator emergency stop button, unless this action is taken by a person with the knowledge or the reasonable good faith belief that an emergency makes the action necessary to preserve or protect human life or property, or unless such action is taken by a WMATA employee, other government employees, or WMATA contractor acting pursuant to their official duties.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

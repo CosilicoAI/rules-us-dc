@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_901">
+        <akn:num>26-901</akn:num>
+        <akn:heading>Businesses required to procure license and pay tax; appointment of resident agent; service of process or notice.</akn:heading>
+<akn:subsection eId="subsec_26-901_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It shall be unlawful and illegal to engage in the District of Columbia in the business of loaning money upon which a rate of interest greater than 6% per annum is charged on any security of any kind, direct or collateral, tangible or intangible, without procuring license; and all persons, firms, voluntary associations, joint-stock companies, incorporated societies, and corporations engaged in said business shall pay a license tax of $500 per annum to the District of Columbia. No license shall be granted to any person, firm, or voluntary association unless such person and the members of any such firm or voluntary association shall be bona fide residents of the District of Columbia, and no license shall be granted for a period longer than 1 year, and no license shall be granted to any joint-stock company, incorporated society, or corporation unless and until such company, society, or corporation shall, in writing and in due form, to be first approved by and filed with the Mayor of the District of Columbia, appoint an agent, resident in the District of Columbia, upon whom all judicial and other process or legal notice directed to such company, society, or corporation may be served. And in the case of death, removal from the District, or any legal disability or disqualification of any such agent, service of such process or notice may be made upon the Director of the Department of Licenses, Investigation and Inspections of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-901_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any license issued pursuant to this section shall be issued as a Financial Services endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of Chapter 28 of Title 47 of the District of Columbia Official Code.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

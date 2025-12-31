@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1701"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1701/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1701">
+        <akn:num>7-1701</akn:num>
+        <akn:heading>Findings and purpose.</akn:heading>
+<akn:subsection eId="subsec_7-1701_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Council of the District of Columbia finds that the inhalation of concentrated smoke resulting from the smoking of tobacco in facilities in which the public congregates is a clear danger to health and a cause of inconvenience and discomfort to persons present in such facilities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1701_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The purpose of this subchapter is to protect the public health, comfort, and environment by prohibiting smoking in certain facilities, vehicles, and restaurants open to or used by the general public.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1701_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except to the extent that § 8 of D.C. Law 3-22 modifies the Fire Prevention Code approved pursuant to the Construction Codes Approval and Amendments Act of 1986 [D.C. Law 6-216], this subchapter is intended to complement the provisions of Part 2 of those regulations and the provisions of §§ 35-251 to 35-254, which regulate public conduct on public passenger vehicles. It is not the intent of this subchapter to derogate in any manner from the provisions of the Fire Prevention Code approved pursuant to the Construction Codes Approval and Amendments Act of 1986 [D.C. Law 6-216] or from § 35-251(b)(1).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

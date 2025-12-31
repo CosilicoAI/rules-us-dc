@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1202.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1202.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1202_11">
+        <akn:num>38-1202.11</akn:num>
+        <akn:heading>Transfer of powers of Board of Governors.</akn:heading>
+<akn:subsection eId="subsec_38-1202_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All functions, powers, and duties of the Board of Governors of the District of Columbia School of Law established by § 38-1205.03 [repealed] shall be vested in and exercised by the Trustees. The District of Columbia School of Law shall be merged with and become a component of the University of the District of Columbia, as a single independent agency of the District of Columbia under the authority and jurisdiction of the Trustees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1202_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All employees, property (real and personal), and unexpended balances (available or to be made available) of appropriations, allocations, and all other funds and assets and liabilities of the Board of Governors are transferred to the Trustees. All rules, orders, obligations, determinations, and any other understandings of the Board of Governors shall remain in effect until such time as they may be lawfully amended, modified, or repealed by the Trustees. Thereafter, any reference in any law, rule, regulation, or other document of the United States or the District of Columbia to the Board of Governors shall be deemed to be a reference to the Trustees, and any reference in any law, rule, regulation, or other document of the United States or the District of Columbia to the District of Columbia School of Law shall be deemed to be a reference to the University of the District of Columbia School of Law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1202_11_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Trustees shall be bound by the terms of the Merger Agreement between the University of the District of Columbia and the District of Columbia School of Law, signed November 6, 1995.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

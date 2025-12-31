@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1125"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1125/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1125">
+        <akn:num>29-1125</akn:num>
+        <akn:heading>Winding up and termination.</akn:heading>
+<akn:subsection eId="subsec_29-1125_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>All known debts and liabilities shall be paid or adequately provided for.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1125_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Any property subject to a condition requiring return to the person designated by the donor shall be transferred to that person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1125_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Any property subject to a trust shall be distributed in accordance with the trust agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1125_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Any remaining property shall be distributed as follows:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

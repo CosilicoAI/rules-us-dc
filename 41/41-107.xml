@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-107"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-107/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_107">
+        <akn:num>41-107</akn:num>
+        <akn:heading>Funds owing under life insurance policies.</akn:heading>
+<akn:subsection eId="subsec_41-107_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Funds held or owing under any life or endowment insurance policy or annuity contract that has matured or terminated are presumed abandoned if unclaimed for more than 3 years after the funds became due and payable as established from the records of the insurance company holding or owing the funds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-107_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a person other than the insured or annuitant is entitled to the funds and an address of the person is not known to the company or it is not definite and certain from the records of the company who is entitled to the funds, it is presumed that the last known address of the person entitled to the funds is the same as the last known address of the insured or annuitant according to the records of the company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-107_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For purposes of this section, a life or endowment insurance policy or annuity contract not mature by actual proof of the death of the insured or annuitant according to the records of the company is matured and the proceeds due and payable if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-107_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the application of an automatic premium loan provision or other nonforfeiture provision contained in an insurance policy does not prevent a policy from being mature or terminated under subsection (a) of this section if the insured has died or the insured or the beneficiary of the policy otherwise has become entitled to the proceeds of the policy before the depletion of the cash surrender value of the policy by the application of those provisions.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

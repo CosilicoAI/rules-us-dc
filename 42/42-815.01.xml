@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-815.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-815.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_815_01">
+        <akn:num>42-815.01</akn:num>
+        <akn:heading>Right to cure residential mortgage foreclosure default.</akn:heading>
+<akn:subsection eId="subsec_42-815_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of §§ 42-801 through 42-804 and §§ 42-811 through 42-819, the term “residential mortgage” means a loan secured by a deed of trust or mortgage, used to acquire or refinance real property which is improved by 4 or fewer single-family dwellings, including condominium or cooperative units, but shall not include debts incurred, and currently obligating solely, an entity, as defined by § 29-101.02(10).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-815_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of any other law, after a notice of intention to foreclose a residential mortgage has been given pursuant to § 42-815, at any time up to 5 business days prior to the commencement of bidding at a trustee sale or other judicial sale on a residential mortgage obligation, the residential mortgage debtor or anyone in his behalf, not more than 1 time in any 2 consecutive calendar years, may cure his default and prevent sale or other disposition of the real estate, by tendering the amount or performance specified in subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-815_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>To cure a default under this section, a residential mortgage debtor shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-815_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Cure of a default pursuant to this section restores the residential mortgage debtor to the same position as if the default or the acceleration had not occurred.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

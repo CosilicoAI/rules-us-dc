@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1305.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1305.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1305_14">
+        <akn:num>7-1305.14</akn:num>
+        <akn:heading>Deprivation of civil rights; public or private employment; retention of rights; liability; immunity; exceptions.</akn:heading>
+<akn:subsection eId="subsec_7-1305_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person shall be deprived of any civil right, or public or private employment, solely by reason of his or her having received services, voluntarily or involuntarily, for an intellectual disability.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1305_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person who has been admitted or committed to a facility under the provisions of this chapter retains all rights not specifically denied him or her under this chapter, including rights of habeas corpus.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1305_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any person who violates or abuses any rights or privileges protected by this chapter shall be liable for damages as determined by law, for Court costs and for reasonable attorneys’ fees. Any person who acts in good faith compliance with the provisions of this chapter shall be immune from civil or criminal liability for actions in connection with evaluation, admission, commitment, habilitative programming, education or discharge of a resident. However, this section shall not relieve any person from liability for acts of negligence, misfeasance, nonfeasance, or malfeasance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

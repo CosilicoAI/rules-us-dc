@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_612_01">
+        <akn:num>1-612.01</akn:num>
+        <akn:heading>Hours of work.</akn:heading>
+<akn:subsection eId="subsec_1-612_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A basic administrative workweek of 40 hours is established for each full-time employee and the hours of work within that workweek shall be performed within a period of not more than 6 of any 7 consecutive days; except, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except when the Mayor determines that an organization would be seriously handicapped in carrying out its functions or that costs would be substantially increased, tours of duty shall be established to provide, with respect to each employee in an organization, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Special tours of duty, of not less than 40 hours, may be established to enable employees to take courses in nearby colleges, universities or other educational institutions that will equip them for more effective work in the District government. Premium pay may not be paid to an employee solely because his or her special tour of duty results in his or her working on a day or at a time of day for which premium pay is otherwise authorized.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>To the maximum extent practicable, time to be spent by an employee in a travel status away from his or her official duty station shall be scheduled within the regularly scheduled workweek of the employee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Mayor shall issue rules and regulations governing hours of work. Such rules and regulations shall provide for the use of flexible work schedules within the 40 hour workweek when such schedules are considered both practicable and feasible.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

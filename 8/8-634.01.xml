@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-634.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-634.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_634_01">
+        <akn:num>8-634.01</akn:num>
+        <akn:heading>Response and order authority.</akn:heading>
+<akn:subsection eId="subsec_8-634_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon receipt of information of a threatened or actual release of a hazardous substance, the Mayor may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-634_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This chapter shall not prevent or impede an immediate response by the Mayor to a contamination or threat of contamination that presents imminent and substantial danger to the public.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-634_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A federal, state, local, or District permit shall not be required for the portion of a response action conducted entirely onsite, if the response action is selected and carried out in compliance with this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-634_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any response action taken, ordered, or otherwise agreed to by the Mayor shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-634_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Response actions in which treatment permanently and significantly reduces the volume, toxicity, or mobility of hazardous substances shall be preferred over response actions not involving such treatment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-634_01_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The Mayor may select a remedial action meeting the requirements of subsection (d) of this section that does not attain a level or standard of control at least the level or equivalent to a legally applicable or relevant and appropriate standard requirement if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

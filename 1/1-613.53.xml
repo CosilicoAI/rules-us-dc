@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-613.53"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-613.53/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_613_53">
+        <akn:num>1-613.53</akn:num>
+        <akn:heading>Transition provisions.</akn:heading>
+<akn:subsection eId="subsec_1-613_53_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Until regulations are issued by the Mayor, the Board of Education and the Board of Trustees of the University of the District of Columbia to implement the provisions of this subchapter for their respective employees, the performance evaluation systems in effect on June 10, 1998, shall continue in effect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-613_53_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law or of any collective bargaining agreement, the implementation of the performance management system established in this subchapter is a non-negotiable subject for collective bargaining.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

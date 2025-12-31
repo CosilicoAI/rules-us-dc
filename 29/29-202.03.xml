@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-202.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-202.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_202_03">
+        <akn:num>29-202.03</akn:num>
+        <akn:heading>Approval of merger.</akn:heading>
+<akn:subsection eId="subsec_29-202_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A plan of merger shall not be effective unless it has been approved:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-202_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A merger under this chapter involving a foreign merging is not effective unless it is approved by the foreign entity in accordance with the law of the foreign entity’s jurisdiction of formation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

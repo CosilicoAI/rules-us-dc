@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3218.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3218.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3218_03">
+        <akn:num>22-3218.03</akn:num>
+        <akn:heading>Presumptions and rebuttal evidence.</akn:heading>
+<akn:subsection eId="subsec_22-3218_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The presence of a connection, wire, conductor, meter alteration, or any device which effects the diversion of electric current or gas without the current or gas being measured or registered by or on a meter installed by a company engaged in the generation or distribution of electricity or natural gas, whether on a single property or within a multiple-unit building or complex, shall constitute prima facie evidence of intent to violate § 22-3218.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3218_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a check or test meter installed or employed by a company engaged in the generation or distribution of electricity or natural gas shows that a person is using a larger amount of electricity than is registered on the meter installed by the company on the person’s premises for the purpose of registering the natural gas or electricity used by the person, and the company has verified that the meter is not malfunctioning, it shall constitute prima facie evidence that the unregistered current or gas has been wrongfully diverted by such person and shall constitute prima facie evidence of intent to violate § 22-3218.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3218_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The presumptions created by this section may be rebutted by a preponderance of the evidence to the contrary that the person alleged to have violated § 22-3218a did not do so. If the person in actual possession of the property or unit has not received the direct benefit of the reduction of the cost in electric or gas services, the presumptions created by this section shall apply to the owner of the property or unit; provided, that the owner has received the direct benefit of unregistered services for at least one full billing cycle.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

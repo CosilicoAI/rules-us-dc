@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_901">
+        <akn:num>22-901</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_22-901_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Counterfeit mark” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-901_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Intellectual property” means any trademark, service mark, trade name, label, term, picture, seal, word, or advertisement or any combination of these adopted or used by a person to identify such person’s goods or services and which is lawfully filed for record in the Office of the Secretary of State of any state or which the exclusive right to reproduce is guaranteed under the laws of the United States or the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-901_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Retail value” means the counterfeiter’s regular selling price for the item or service bearing or identified by the counterfeit mark. In the case of items bearing a counterfeit mark which are components of a finished product, the retail value shall be the counterfeiter’s regular selling price of the finished product on or in which the component would be utilized.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

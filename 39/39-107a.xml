@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/39-107a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/39-107a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_39_107a">
+        <akn:num>39-107a</akn:num>
+        <akn:heading>Authority to accept donations and gifts.</akn:heading>
+<akn:subsection eId="subsec_39-107a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board of Library Trustees may accept donations, gifts by devise or bequest, grants, and any other type of asset, except real property as defined in § 10-801.01, from individuals, clubs, groups, corporations, partnerships, and other governmental entities. The Board shall approve any donation, gift, grant, or asset with a value of $10,000 or more, but may delegate the acceptance of any donation, gift, grant, or asset with a value of less than $10,000 to the librarian of the public library.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-107a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board shall manage the property or funds in accordance with the provisions or conditions of the donation, gift, grant, or other type of asset, including the investment of the principal of the property or funds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-107a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All monetary donations permitted under subsection (a) of this section shall be made available to the District of Columbia Public Library through the private grant revenue source included in the District of Columbia Public Library’s annual operating budget.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-107a_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Board shall issue rules to implement this section. The rules shall govern the acceptance and use of donations and gifts, record-keeping requirements, audit procedures, accessibility of records for public inspection, and any other areas that the Board considers appropriate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

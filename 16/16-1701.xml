@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1701"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1701/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_1701">
+        <akn:num>16-1701</akn:num>
+        <akn:heading>Invalidity of gaming contracts.</akn:heading>
+<akn:subsection eId="subsec_16-1701_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A thing in action, judgment, mortgage, or other security or conveyance made and executed by a person in which any part of the consideration is for money or other valuable things won by playing at any game whatsoever, or by betting on the sides or hands of persons who play, or for the reimbursement or payment of any money knowingly lent or advanced for the purpose, or lent or advanced at the time and place of the play or bet, to a person so playing or betting or who, during the play, so plays or bets, is void except as provided by subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1701_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the mortgage, security, or other conveyance affects real property, it shall inure to the sole benefit of, and devolve upon, the persons who might have, or be entitled to, the property, as if the person who executed the instrument had died immediately after its execution, or as if the instrument had been made to the persons so entitled after the death of the person who executed it. A grant or conveyance made for the purpose of preventing the real property from coming to, or devolving upon, the persons intended by this section to enjoy the property as herein provided is fraudulent and void.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1701_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section does not affect the validity of negotiable instruments embraced by subtitle I of Title 28.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

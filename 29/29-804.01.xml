@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-804.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-804.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_804_01">
+        <akn:num>29-804.01</akn:num>
+        <akn:heading>Becoming member.</akn:heading>
+<akn:subsection eId="subsec_29-804_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a limited liability company is to have only one member upon formation, the person shall become a member as agreed by that person and the organizer of the company. That person and the organizer may be, but need not be, different persons. If different, the organizer shall act on behalf of the initial member.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a limited liability company is to have more than one member upon formation, those persons shall become members as agreed by the persons before the formation of the company. The organizer [sic] act on behalf of the persons in forming the company and may be, but need not be, one of the persons.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After formation of a limited liability company, a person becomes a member:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-804_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A person may become a member without acquiring a transferable interest and without making or being obligated to make a contribution to the limited liability company.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

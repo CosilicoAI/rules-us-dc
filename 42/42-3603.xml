@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3603"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3603/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3603">
+        <akn:num>42-3603</akn:num>
+        <akn:heading>Preliminary injunction review.</akn:heading>
+<akn:subsection eId="subsec_42-3603_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After commencement of an action under § 42-3602 and upon request of a party, the Court shall hold a hearing to determine if a preliminary injunction should be granted to prevent a tenant from directly or indirectly maintaining a drug haven or nuisance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3603_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Court may grant a motion for a preliminary injunction if the plaintiff meets the necessary legal requirements for a preliminary injunction. The factors that the Court shall consider in determining whether the plaintiff is entitled to a preliminary injunction are:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3603_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The housing provider and the Mayor shall not be required to give bond to obtain an injunction.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

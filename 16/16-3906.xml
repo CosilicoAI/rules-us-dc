@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3906"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3906/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_3906">
+        <akn:num>16-3906</akn:num>
+        <akn:heading>Pre-trial settlement; trial; procedure; default; dismissal or nonsuit; other disposition.</akn:heading>
+<akn:subsection eId="subsec_16-3906_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>On the return day specified by subsection (g) of section 16-3902, or at such later time as the judge sets, the trial shall be had. Immediately prior to the trial of a case pursuant to this chapter, the judge shall make an earnest effort to settle the controversy by conciliation. If he fails to induce the parties to settle their differences without a trial, he shall proceed with the hearing on the merits pursuant to subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-3906_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The parties and witnesses shall be sworn. The judge shall conduct the trial in such manner as to do substantial justice between the parties according to the rules of substantive law, and is not bound by the statutory provisions or rules of practice, procedure, pleading, or evidence, except provisions relating to privileged communications.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-3906_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the defendant fails to appear, judgment shall be entered for the plaintiff by default as provided by section 16-3902(f), or under rules of court, or on ex-parte proof. If the plaintiff fails to appear, the action may be dismissed for want of prosecution, or a nonsuit may be ordered, or defendant may proceed to a trial on the merits, or the case may be continued or returned to the files for further proceedings on a later date, as the judge directs. If both parties fail to appear, the judge may return the case to the files, or order the action dismissed for want of prosecution, or make any other just and proper disposition thereof, as justice requires.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

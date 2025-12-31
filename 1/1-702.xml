@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-702"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-702/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_702">
+        <akn:num>1-702</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_1-702_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The term “Mayor” means the Mayor of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The term “Council” means the Council of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The term “Speaker” means the Speaker of the House of Representatives.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The term “President pro tempore” means the President pro tempore of the Senate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The term “Board” means the District of Columbia Retirement Board established by § 1-711.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>The term “Custodian of Retirement Funds” means the Board, except that until such time as the members of the Board are first elected and the Board certifies pursuant to § 1-711(h) that it is assuming responsibility for the Funds established by this chapter, the term “Custodian of Retirement Funds” means the Director of the Office of Budget and Financial Management of the District of Columbia (established by Organization Order No. 30, Commissioner’s Order No. 72-80, April 5, 1972).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_6A">
+      <akn:num>(6A)</akn:num>
+      <akn:content><akn:p>The term “good cause” means board members not attending more than half of the scheduled board meetings in a 12 month period.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>The term “retirement program” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>The term “state” means any state of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, and the Canal Zone.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>The term “party in interest” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>The term “Fund” means the District of Columbia Police Officers and Fire Fighters’ Retirement Fund established by § 1-712, the District of Columbia Teachers’ Retirement Fund established by § 1-713, or the District of Columbia Judges’ Retirement Fund established by § 1-714.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>The term “current value” means fair market value where available (as determined in good faith by a fiduciary in accordance with regulations promulgated by the Board), or otherwise the fair value (as determined in good faith by a fiduciary in accordance with regulations promulgated by the Board), assuming an orderly liquidation at the time of such determination.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>The term “future value” means a liability for a given prior fiscal year expressed in terms of the price level expected to prevail in a given future fiscal year, adjusted at the rate of inflation used with regard to determinations made under § 1-722(a)(1).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>The term “qualified public accountant” means a person who is a certified public accountant, certified by a regulatory authority of a state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>The term “enrolled actuary” means an actuary enrolled under subtitle C of Title III of the Employee Retirement Income Security Act of 1974.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>The term “security” means a security as defined in § 2(1) of the Securities Act of 1933 [15 U.S.C. § 77b].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_16">
+      <akn:num>(16)</akn:num>
+      <akn:content><akn:p>The term “employee organization” means any labor union or any organization of any kind, or any agency or employee representation committee, association, group, or plan, in which individuals covered by a retirement program participate and which exists for the purpose, in whole or in part, of dealing with the government of the District of Columbia concerning such retirement program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_17">
+      <akn:num>(17)</akn:num>
+      <akn:content><akn:p>The term “teacher” means a teacher as defined in § 38-2021.13.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_18">
+      <akn:num>(18)</akn:num>
+      <akn:content><akn:p>The term “judge” means a judge as defined in § 11-1561(1).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_19">
+      <akn:num>(19)</akn:num>
+      <akn:content><akn:p>The term “participant” does not include an officer or member of the United States Park Police force, the United States Secret Service Uniformed Division, or the United States Secret Service Division, to whom the Policemen and Firemen’s Retirement and Disability Act (D.C. Official Code, § 5-701 et seq.) applies; and, unless the context requires otherwise, the term “beneficiary” does not include a beneficiary under such Act of any such officer or member.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_20">
+      <akn:num>(20)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_21">
+      <akn:num>(21)</akn:num>
+      <akn:content><akn:p>The term “governing authority” means, without limitation, any statutes, laws, amendments, resolutions, rules, regulations, policies, and procedures that govern the management and administration of the retirement program and management and control of the Funds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_22">
+      <akn:num>(22)</akn:num>
+      <akn:content><akn:p>The term “post employment benefit programs” means health insurance benefit plans applicable under § 1-621.01, health benefits plans authorized under § 1-621.05, life insurance benefits applicable under § 1-622.01, and life insurance benefits authorized under § 1-622.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_23">
+      <akn:num>(23)</akn:num>
+      <akn:content><akn:p>The term “Trust Document” means the document that contains all the current statutes, laws, resolutions, rules, regulations, policies, and procedures by which authority the Board shall administer the retirement program and manage and control the Funds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_24">
+      <akn:num>(24)</akn:num>
+      <akn:content><akn:p>The term “pooled or commingled real estate investment vehicle means any real estate investment structure or conveyance formed for the purpose of combining assets of multiple investors in order to achieve greater diversification than could be achieved by any single investor on a stand-alone basis.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-702_25">
+      <akn:num>(25)</akn:num>
+      <akn:content><akn:p>The term “domestic partner” shall have the same meaning as provided in § 32-701(3).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

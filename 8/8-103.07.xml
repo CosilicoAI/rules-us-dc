@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-103.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-103.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_103_07">
+        <akn:num>8-103.07</akn:num>
+        <akn:heading>Location of discharge; recognition of reduction of pollutants; restrictions on quantity of materials discharged; discharge of used motor oil to sewer prohibited.</akn:heading>
+<akn:subsection eId="subsec_8-103_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>While pollution from point sources into storm sewers shall be considered discharges into District waters, the location of the discharge of the storm sewer wastewater into the waters of the District or other jurisdictions shall be the location of the discharge for any permit issued by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-103_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except for loss of heat, no reduction of pollutants in the discharged wastewater while flowing in the storm sewer will be recognized by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-103_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No person shall discharge to a sanitary or combined sewer any material in a quantity which would interfere with or pass through a municipal treatment facility or a unit process of the facility, cause or contribute to a violation of any permit or water quality standard, or interfere with the potential to use sludge for a beneficial purpose.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-103_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The discharge of oil, gasoline, anti-freeze, acid, or other hazardous substance, pollutant or nuisance material to any street, alley, sidewalk or other public space in quantities sufficient to constitute a hazard or nuisance is prohibited.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-103_07_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The discharge of used motor oil to any sewer is prohibited.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

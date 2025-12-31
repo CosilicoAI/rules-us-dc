@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1801.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1801.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1801_02">
+        <akn:num>2-1801.02</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_2-1801_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1801_02_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>“Final order” means an order of an administrative law judge or attorney examiner that disposes of a case and that has not been appealed within 15 calendar days after the order has been served on the respondent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1801_02_1B">
+      <akn:num>(1B)</akn:num>
+      <akn:content><akn:p>“Health occupation” means any occupation or profession identified in § 3-1201.02, for which a license is required or for which there is an exemption from licensing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1801_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Infraction” means any act or failure to act for which a civil sanction may be imposed under the provisions of this chapter, and with respect to which either the Corporation Counsel or the United States Attorney for the District of Columbia is authorized to commence a criminal proceeding in the Superior Court of the District of Columbia, or for which another civil sanction may be imposed under any District laws or regulations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1801_02_2A">
+      <akn:num>(2A)</akn:num>
+      <akn:content><akn:p>“Licensee” means any person:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1801_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Mayor” means the Mayor of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1801_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Person” means corporations, firms, agencies, companies, associations, organizations, partnerships, societies, and joint stock companies, as well as individuals.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1801_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Respondent” means any person charged with an infraction as defined in paragraph (2) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

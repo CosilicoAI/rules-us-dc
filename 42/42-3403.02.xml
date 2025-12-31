@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3403.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3403.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3403_02">
+        <akn:num>42-3403.02</akn:num>
+        <akn:heading>Relocation payment.</akn:heading>
+<akn:subsection eId="subsec_42-3403_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Required. — If an owner converts a housing accommodation into a condominium or cooperative pursuant to this chapter, the owner shall provide a relocation payment to each tenant who does not purchase a unit or share or enter into a lease or lease option of at least 5 years’ duration.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3403_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Amount. — An owner shall pay the tenant only if the tenant provides a relocation expense receipt or a written estimate from a moving company or other relocation service provider. Regardless of the amount on the receipt or written estimates, the owner shall pay no less than $125, but is not required to pay more than $1,000 to the tenant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3403_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Method. — An owner may pay by check or cash to the tenant or person designated by the tenant, and shall pay within 7 days of receipt of the written estimate or receipt, the amount indicated or an amount required by subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3403_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Entitlement to receive. —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

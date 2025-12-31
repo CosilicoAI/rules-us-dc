@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1131.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1131.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1131_05">
+        <akn:num>31-1131.05</akn:num>
+        <akn:heading>Examination prior to licensure.</akn:heading>
+<akn:subsection eId="subsec_31-1131_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An individual applying for a resident insurance producer license shall pass a written examination unless the individual is:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_05_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>The examination required by subsection (a) of this section shall test the knowledge of the individual concerning the lines of authority for which application is made, the duties and responsibilities of an insurance producer, and the insurance laws and regulations of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commissioner may make arrangements, including contracting with an outside testing service, for administering examinations and collecting a nonrefundable fee for the examination.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each individual applying for an examination shall remit a nonrefundable fee for the examination as prescribed by the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1131_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An individual who fails to appear for the examination as scheduled or fails to pass the examination may reapply for an examination. The individual shall remit all required fees and forms before being rescheduled for another examination.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

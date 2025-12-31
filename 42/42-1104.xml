@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1104">
+        <akn:num>42-1104</akn:num>
+        <akn:heading>Computation of tax where absence of or no consideration; when fair market value to be shown on return; consideration on deeds of trust or mortgages.</akn:heading>
+<akn:subsection eId="subsec_42-1104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Consideration for a deed conveying title to real property or transferring an economic interest in real property, for purposes of the tax imposed by § 42-1103(a) and (b), including any mortgages, liens, or encumbrances thereon, shall be the amount required to be paid or provided in exchange for the execution and delivery of the deed. Where no price or amount is paid or required to be paid for the real property or for the transfer of an economic interest in real property or where the price is nominal, the consideration for the deed shall, for purposes of the tax imposed by § 42-1103(a) and (b), be the fair market value of the real property, and the tax shall be based upon the fair market value.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>On a deed conveying a security interest in real property, the principal amount of debt that the deed secures, for the purposes of the tax imposed by § 42-1103(c), shall be the principal amount of the debt recited on the face of the deed unless, from other information available to the Mayor, the Mayor determines that the principal amount of debt is a higher amount.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1104_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Whenever, in the opinion of the Mayor, a submission for recordation does not contain sufficient information to determine the fair market value of real property conveyed by a deed, an economic interest in real property transferred by a deed, or the principal amount of debt secured by a deed, the Mayor may determine the amount from the information available.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4911"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4911/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4911">
+        <akn:num>28-4911</akn:num>
+        <akn:heading>Retention of electronic records; originals.</akn:heading>
+<akn:subsection eId="subsec_28-4911_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a law requires that a record be retained, the requirement is satisfied by retaining an electronic record of the information in the record which:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4911_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A requirement to retain a record in accordance with subsection (a) of this section does not apply to any information the sole purpose of which is to enable the record to be sent, communicated, or received.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4911_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person may satisfy subsection (a) of this section by using the services of another person if the requirements of that subsection are satisfied.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4911_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a law requires a record to be presented or retained in its original form, or provides consequences if the record is not presented or retained in its original form, that law is satisfied by an electronic record retained in accordance with subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4911_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a law requires retention of a check, that requirement is satisfied by retention of an electronic record of the information on the front and back of the check in accordance with subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4911_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A record retained as an electronic record in accordance with subsection (a) of this section satisfies a law requiring a person to retain a record for evidentiary, audit, or like purposes, unless a law enacted after [October 3, 2001] specifically prohibits the use of an electronic record for the specified purpose.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4911_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>This section does not preclude a governmental agency of the District of Columbia from specifying additional requirements for the retention of a record subject to the agency’s jurisdiction.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

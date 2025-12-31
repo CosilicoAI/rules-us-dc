@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.26"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-304.26/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_304_26">
+        <akn:num>29-304.26</akn:num>
+        <akn:heading>Shares without certificates.</akn:heading>
+<akn:subsection eId="subsec_29-304_26_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless the articles of incorporation or bylaws provide otherwise, the board of directors of a corporation may authorize the issue of some or all of the shares of any or all of its classes or series without certificates. The authorization shall not affect shares already represented by certificates until they are surrendered to the corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-304_26_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within a reasonable time after the issue or transfer of shares without certificates, the corporation shall send the shareholder a written statement of the information required on certificates by § 29-304.25(b) and (c), and, if applicable, § 29-304.27.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

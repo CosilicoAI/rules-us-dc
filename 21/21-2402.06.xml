@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2402.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2402.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2402_06">
+        <akn:num>21-2402.06</akn:num>
+        <akn:heading>Appropriate forum.</akn:heading>
+<akn:subsection eId="subsec_21-2402_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Even if the Superior Court has jurisdiction under § 21-2402.03 to appoint a guardian or issue a protective order, the court may decline to exercise its jurisdiction if it determines at any time that a court of another state is a more appropriate forum.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2402_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Superior Court declines to exercise its jurisdiction under subsection (a) of this section, it shall either dismiss or stay the proceeding. The court may impose any condition the court considers just and proper, including the condition that a petition for the appointment of a guardian or issuance of a protective order be filed promptly in another state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2402_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In determining whether it is an appropriate forum, the Superior Court shall consider all relevant factors, including:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2303">
+        <akn:num>34-2303</akn:num>
+        <akn:heading>Opportunity for a tenant to receive service in own name; payment made by tenant.</akn:heading>
+<akn:subsection eId="subsec_34-2303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If an owner of rental property or his or her agent is billed directly by the District of Columbia Water and Sewer Authority (“Authority”) for water and sanitary sewer services provided to the rental property, and the owner or his or her agent fails to pay a delinquent account for the services, each tenant who resides in the affected property may receive water and sanitary sewer services in his or her own name without liability for the charges accrued while the services were billed directly to the owner of the rental property. A tenant shall receive water and sanitary sewer services in his or her own name only if it is deemed practicable by the Mayor in accordance with rules issued pursuant to § 34-2306.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any payment made by a tenant of rental property pursuant to subsection (a) of this section shall be deemed in lieu of an equal amount of rent and shall be deducted from any rent due and owing or to become due and owing to the owner, agent, lessor, or manager of the rental property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2303_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall prevent the Mayor from pursuing any other appropriate action or remedy at law or equity against an owner, agent, lessor, manager, or tenant of a rental property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

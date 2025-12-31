@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1903_03">
+        <akn:num>42-1903.03</akn:num>
+        <akn:heading>Meetings; electronic notice.</akn:heading>
+<akn:subsection eId="subsec_42-1903_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Meetings of the unit owners’ association shall be held in accordance with the provisions of the condominium instruments at least once each year after the formation of the unit owners’ association and shall be open to all unit owners of record in good standing. The bylaws shall specify an officer who shall, at least 21 days in advance of any annual or regularly scheduled meeting, and at least 7 days in advance of any other meeting, send to each unit owner notice of time, place, and purposes of the meeting. Notice shall be sent by United States mail to all unit owners of record at the address of their respective units and to one other address as any of them may have designated in writing to the officer, or notice may be hand delivered by the officer; provided, that the officer certifies in writing that notice was hand delivered to the unit owner. Alternatively, notice may be sent by electronic means to any unit owner who requests delivery of notice in an electronic manner and who waives notice by mail or hand delivery, pursuant to subsection (e) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to reasonable rules adopted by the executive board, the executive board shall provide a designated period of time during each regularly scheduled meeting to allow unit owners an opportunity to comment on any matter relating to the unit owners’ association. During a meeting at which the agenda is limited to specific topics, or at a special meeting, the executive board may limit the comments of unit owners to the topics listed on the meeting agenda.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The executive board may take action without a meeting by resolution issued with the unanimous written consent of the members of the executive board in support of the action being taken. A copy of the resolution shall be attached to the minutes of the next executive board meeting that occurs following its adoption.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

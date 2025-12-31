@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2633.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2633.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2633_01">
+        <akn:num>50-2633.01</akn:num>
+        <akn:heading>Parking meter fee moratorium; exceptions.</akn:heading>
+<akn:subsection eId="subsec_50-2633_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Director of the District Department of Transportation (“Director”) shall exempt particular neighborhoods from Saturday meter enforcement where the Director determines that Saturday meter enforcement would not be in the public interest. In making such a determination, the Director shall consider whether Saturday meter enforcement is necessary to maintain available curbside parking; provided, that by October 15, 2009, the Director shall submit to the Council for approval, by resolution, the neighborhoods to be exempted from Saturday enforcement and the criteria used to exempt each neighborhood. Nothing in this subsection may be implemented until the Council affirmatively approves the submission of the Director.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2633_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person shall park at a parking meter on a Saturday between 7:00 a.m. and 6:30 p.m. for more than 2 hours, unless current signage permits parking for a longer time. Failure to move the vehicle after 2 hours on a Saturday, between 7:00 a.m. and 6:30 p.m., shall constitute a violation unless current signage permits parking for a longer time.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2633_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may promulgate rules to exempt certain streets from the provisions of this subchapter when necessary to accommodate special needs or situations identified by proximate businesses or District agencies, subject to approval by the Council.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

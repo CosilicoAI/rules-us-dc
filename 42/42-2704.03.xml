@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2704.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2704.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2704_03">
+        <akn:num>42-2704.03</akn:num>
+        <akn:heading>Terms for sale of bonds and notes; effect of resolution authorizing sale; pledge of agency and lien thereon; signature valid after officeholder vacates.</akn:heading>
+<akn:subsection eId="subsec_42-2704_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>General. — The Agency may stipulate by resolution the terms for sale of its bonds and notes in accordance with this chapter, including the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2704_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Public or private sale. — The Agency may sell its bonds or notes at public or private sale and may determine the price for sale.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2704_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Additional provisions part of contract. — If the resolution authorizing the sale of bonds or notes contains any of the provisions listed below, the provisions must also be part of the contract with holders of the bonds or notes. The provisions in the resolution may include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2704_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Pledge of the Agency. — A pledge of the Agency is binding from the time it is made. Any funds or property pledged are subject to the lien of a pledge without physical delivery. The lien of a pledge is binding as against parties having any tort, contract or other claim against the Agency regardless of notice. Neither the resolution nor any other instrument creating a pledge need be recorded.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2704_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Signature. — The signature of any officer of the Agency which appears on a bond or note remains valid if that person ceases to hold that office.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

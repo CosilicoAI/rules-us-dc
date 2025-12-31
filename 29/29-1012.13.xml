@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1012.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1012.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1012_13">
+        <akn:num>29-1012.13</akn:num>
+        <akn:heading>Rescinding dissolution.</akn:heading>
+<akn:subsection eId="subsec_29-1012_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A limited cooperative association may rescind its dissolution, unless a statement of termination applicable to the association is effective, the Superior Court has entered an order under § 29-1012.03 dissolving the association, or the Mayor has dissolved the association under § 29-106.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1012_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Rescinding dissolution under this section requires:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1012_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a limited cooperative association rescinds its dissolution:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

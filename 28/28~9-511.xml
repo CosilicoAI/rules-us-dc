@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-511"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-511/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_511">
+        <akn:num>28:9-511</akn:num>
+        <akn:heading>Secured party of record.</akn:heading>
+<akn:subsection eId="subsec_28:9-511_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A secured party of record with respect to a financing statement is a person whose name is provided as the name of the secured party or a representative of the secured party in an initial financing statement that has been filed. If an initial financing statement is filed under § 28:9-514(a), the assignee named in the initial financing statement is the secured party of record with respect to the financing statement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-511_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an amendment of a financing statement which provides the name of a person as a secured party or a representative of a secured party is filed, the person named in the amendment is a secured party of record. If an amendment is filed under § 28:9-514(b), the assignee named in the amendment is a secured party of record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-511_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person remains a secured party of record until the filing of an amendment of the financing statement which deletes the person.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

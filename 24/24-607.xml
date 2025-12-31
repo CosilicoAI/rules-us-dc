@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-607"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-607/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_607">
+        <akn:num>24-607</akn:num>
+        <akn:heading>Commitment by Court order.</akn:heading>
+<akn:subsection eId="subsec_24-607_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Court may, on a petition of the Corporation Counsel on behalf of the Mayor, filed and heard before the period of detention for detoxification and diagnosis expires, order a person to be committed to the custody of the Mayor for inpatient treatment and care if: (1) the Court determines that the person is a chronic alcoholic and that as a result of chronic or acute intoxication such person is in immediate danger of substantial physical harm; and (2) such person received notice of the filing of such petition within a reasonable time before the hearing held by the Court. The period of such commitment, computed from the date of admission to a detoxification center, shall not exceed: (1) thirty days in the case of the first or second such commitment within any 24-month period; or (2) ninety days in the case of the third or subsequent such commitment within any 24-month period.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-607_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-607_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A committed person may challenge by a petition for a writ of habeas corpus the applicability of such findings, except that no more than 1 such petition may be filed in any 6-month period. The limitation prescribed in the preceding sentence shall not apply in the case of petitions based on newly discovered evidence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-607_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor may transfer a committed person who has been adjudged a continuing danger to the safety of himself or of other persons from inpatient to outpatient status only with permission of the Court. The Mayor may transfer any other committed person from inpatient to outpatient status, and any committed person from outpatient to inpatient status, without permission of the Court, but may not release a committed person without permission of the Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-607_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If any person subject to a commitment proceeding initiated under this section does not have an attorney and cannot afford one, the Court shall appoint one to represent him.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

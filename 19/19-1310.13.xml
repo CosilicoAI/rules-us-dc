@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1310.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1310.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1310_13">
+        <akn:num>19-1310.13</akn:num>
+        <akn:heading>Certification of trust.</akn:heading>
+<akn:subsection eId="subsec_19-1310_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Instead of furnishing a copy of the trust instrument to a person other than a beneficiary, the trustee may furnish to the person a certification of trust containing the following information:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1310_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A certification of trust may be signed or otherwise authenticated by any trustee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1310_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A certification of trust must state that the trust has not been revoked, modified, or amended in any manner that would cause the representations contained in the certification of trust to be incorrect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1310_13_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A certification of trust need not contain the dispositive terms of a trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1310_13_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A recipient of a certification of trust may require the trustee to furnish copies of those excerpts from the original trust instrument and later amendments which designate the trustee and confer upon the trustee the power to act in the pending transaction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1310_13_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A person who acts in reliance upon a certification of trust without knowledge that the representations contained therein are incorrect is not liable to any person for so acting and may assume without inquiry the existence of the facts contained in the certification. Knowledge of the terms of the trust may not be inferred solely from the fact that a copy of all or part of the trust instrument is held by the person relying upon the certification.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1310_13_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A person who in good faith enters into a transaction in reliance upon a certification of trust may enforce the transaction against the trust property as if the representations contained in the certification were correct.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1310_13_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>A person making a demand for the trust instrument in addition to a certification of trust or excerpts is liable for damages if the court determines that the person did not act in good faith in demanding the trust instrument.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1310_13_i">
+      <akn:num>(i)</akn:num>
+      <akn:content><akn:p>This section does not limit the right of a person to obtain a copy of the trust instrument in a judicial proceeding concerning the trust.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

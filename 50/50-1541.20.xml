@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.20"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.20/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1541_20">
+        <akn:num>50-1541.20</akn:num>
+        <akn:heading>Application for transfer of ownership or termination of security interest without certificate of title.</akn:heading>
+<akn:subsection eId="subsec_50-1541_20_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 50-1541.18 or § 50-1541.19, if the Harbor Master receives, unaccompanied by a signed certificate of title, an application for a new certificate of title that includes an indication of a transfer of ownership or a termination statement, the Harbor Master may create a new certificate of title under this section only if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_20_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Harbor Master may indicate in a certificate of title created under subsection (a) of this section that the certificate of title was created without submission of a signed certificate of title or termination statement. Unless credible information indicating theft, fraud, or an undisclosed or unsatisfied security interest, lien, or other claim to an interest in the vessel is delivered to the Harbor Master not later than one year after creation of the certificate of title, on request in a form and manner required by the Harbor Master, the Harbor Master shall remove the indication from the certificate of title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_20_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Unless the Harbor Master determines that the value of a vessel is less than $5,000, before the Harbor Master creates a certificate of title under subsection (a) of this section, the Harbor Master may require the applicant to post a bond or provide an equivalent source of indemnity or security. The bond, indemnity, or other security may not exceed twice the value of the vessel as determined by the Harbor Master. The bond, indemnity, or other security must be in a form required by the Harbor Master and provide for indemnification of any owner, purchaser, or other claimant for any expense, loss, delay, or damage, including reasonable attorney’s fees and costs, but not including incidental or consequential damages, resulting from creation or amendment of the certificate of title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_20_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Unless the Harbor Master receives a claim for indemnity not later than one year after creation of a certificate of title under subsection (a) of this section, on request in a form and manner required by the Harbor Master, the Harbor Master shall release any bond, indemnity, or other security.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

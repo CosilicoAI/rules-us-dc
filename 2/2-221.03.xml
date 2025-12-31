@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-221.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-221.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_221_03">
+        <akn:num>2-221.03</akn:num>
+        <akn:heading>Interest penalty for failure to pay discounted price within specified period.</akn:heading>
+<akn:subsection eId="subsec_2-221_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a business concern offers a District agency a discount from the amount otherwise due under a contract for property or services in exchange for payment within a specified period of time, the District agency may make payment in an amount equal to the discounted price only if payment is made within the specified period of time.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-221_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each District agency which violates subsection (a) of this section shall pay an interest penalty on any amount which remains unpaid in violation of subsection (a) of this section. The interest penalty shall accrue on the unpaid amount in accordance with the regulations issued pursuant to § 2-221.02, except that the required payment date with respect to the unpaid amount shall be the last day of the specified period of time described in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

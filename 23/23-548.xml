@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-548"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-548/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_548">
+        <akn:num>23-548</akn:num>
+        <akn:heading>Additional procedure for approval of interception of wire or oral communications.</akn:heading>
+<akn:subsection eId="subsec_23-548_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this subchapter, any investigative or law enforcement officer, specially designated by the United States attorney for the District of Columbia, who reasonably determines that —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-548_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When an investigative or law enforcement officer, while engaged in intercepting wire or oral communications in the manner authorized by this subchapter, intercepts wire or oral communications relating either to offenses other than those specified in the order of authorization or to offenses other than those offenses for which interception was made pursuant to subsection (a) of this section, he shall make an application to a judge as soon as practicable for approval for disclosure and use, in accordance with section 23-553, of the information intercepted.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

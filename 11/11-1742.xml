@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1742"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1742/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1742">
+        <akn:num>11-1742</akn:num>
+        <akn:heading>Property and disbursement.</akn:heading>
+<akn:subsection eId="subsec_11-1742_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Executive Officer shall be responsible, subject to the supervision of the Joint Committee, for the management of such buildings and space as may be assigned to the courts and shall maintain liaison with the appropriate Federal and District of Columbia officials with respect thereto.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1742_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Executive Officer shall be responsible for the procurement of necessary equipment, supplies, and services for the courts and shall have power, subject to applicable law, to reimburse the District of Columbia government for services provided and to contract for such equipment, supplies, and services as may be necessary. In carrying out the authority under the preceding sentence, the Executive Officer may purchase uniforms to be worn by nonjudicial employees of the District of Columbia Courts whose responsibilities warrant the wearing of uniforms if the cost of furnishing a uniform to an employee during a year does not exceed the amount applicable for the year under section 5901(a)(1) of title 5, United States Code (relating to the uniform allowance for employees of the Government of the United States).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1742_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Executive Officer shall serve as disbursing officer and payroll officer of the District of Columbia courts and shall assign and distribute necessary equipment and supplies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1742_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>To prevent duplication and to promote efficiency and economy, the Executive Officer may enter into agreements to provide the Mayor of the District of Columbia with equipment, supplies, and services and credit reimbursements received from the Mayor for such equipment, supplies, and services to the appropriation of the District of Columbia Courts against which they were charged.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

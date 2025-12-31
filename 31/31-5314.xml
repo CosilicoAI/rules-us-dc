@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5314"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5314/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5314">
+        <akn:num>31-5314</akn:num>
+        <akn:heading>Beneficiaries.</akn:heading>
+<akn:subsection eId="subsec_31-5314_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The owner of a benefit contract shall have the right at all times to change the beneficiary or beneficiaries in accordance with the laws or rules of the society unless the owner waives this right by specifically requesting in writing that the beneficiary designation be irrevocable. A society may, through its laws or rules, limit the scope of beneficiary designations and shall provide that no revocable beneficiary shall have or obtain any vested interest in the proceeds of any certificate until the certificate has become due and payable in conformity with the provisions of the benefit contract.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5314_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A society may make provision for the payment of funeral benefits to the extent the portion of any payment under a certificate as might reasonably appear to be due to any person equitably entitled thereto by reason of having incurred expense occasioned by the burial of the member.  The portion so paid shall not exceed $2,000.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5314_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If, at the death of any person insured under a benefit contract, there is no lawful beneficiary to whom the proceeds shall be payable, the amount of the benefit, except to the extent that funeral benefits may be paid as provided in subsection (b) of this section, shall be payable to the estate of the deceased insured in the same manner as other property not exempt.  If the owner of the certificate is other than the insured, the proceeds shall be payable to the owner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

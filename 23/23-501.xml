@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_501">
+        <akn:num>23-501</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_23-501_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The term “judicial officer” means a judge of the Superior Court of the District of Columbia or of the United States District Court for the District of Columbia, or a United States commissioner or magistrate for the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-501_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The term “law enforcement officer” means an officer or member of the Metropolitan Police Department of the District of Columbia, or of any other police force operating in the District of Columbia; an investigative officer or agent of the United States; animal control officer employed by the District of Columbia; or the Fire Marshal and any member of the Fire and Arson Investigation Unit of the Fire Prevention Bureau of the Fire Department of the District of Columbia, for the purpose of enforcing arson and the fire safety laws of the District of Columbia, who is so designated in writing by the Fire Chief.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-501_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The term “prosecutor” means the United States Attorney for the District of Columbia or his assistant, the Corporation Counsel of the District of Columbia [Attorney General for the District of Columbia] or his assistant, or an attorney employed by, and who has entered an appearance on behalf of, the United States or the District of Columbia in a criminal case or in an investigation being conducted by a grand jury.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-501_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Field arrest” means a non-custodial arrest made pursuant to § 23-584 that requires the person to appear within 15 days before an official of the relevant law enforcement agency to complete the arrest process.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-501_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Release on citation” means the process by which a person arrested for eligible misdemeanors may be released on his or her promise to appear at a future date in court, or at some other designated place.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-501_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Releasing official” shall have the same meaning as provided in § 23-1110(a)(1).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

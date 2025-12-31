@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-113"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-113/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_113">
+        <akn:num>28:3-113</akn:num>
+        <akn:heading>Date of instrument.</akn:heading>
+<akn:subsection eId="subsec_28:3-113_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An instrument may be antedated or postdated. The date stated determines the time of payment if the instrument is payable at a fixed period after date. Except as provided in section 28:4-401(c), an instrument payable on demand is not payable before the date of the instrument.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-113_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an instrument is undated, its date is the date of its issue or, in the case of an unissued instrument, the date it first comes into possession of a holder.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

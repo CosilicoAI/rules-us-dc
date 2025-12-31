@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3451.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3451.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3451_06">
+        <akn:num>31-3451.06</akn:num>
+        <akn:heading>Mandatory Control Level Event.</akn:heading>
+<akn:subsection eId="subsec_31-3451_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a Mandatory Control Level Event occurs, the Commissioner shall take such action as is necessary to place the health organization under regulatory control under Chapter 34 of this title or Chapter 13 of this title. In such event, the Mandatory Control Level Event shall be sufficient reason for the Commissioner to take action under Chapter 34 of this title or Chapter 13 of this title. In such event, the Commissioner shall have the rights, powers, and duties with respect to the health organization as are set forth in Chapter 34 of this title and Chapter 13 of this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Commissioner takes action under subsection (a) of this section pursuant to an adjusted RBC report, the health organization shall be entitled to the protections of Chapter 34 of this title and Chapter 13 of this title pertaining to summary proceedings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of subsections (a) or (b) of this section, the Commissioner may forego action for up to 90 days after the Mandatory Control Level Event if the Commissioner finds there is a reasonable expectation that the Mandatory Control Level Event may be eliminated within the 90-day period.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

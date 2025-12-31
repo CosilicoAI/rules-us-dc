@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1722"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1722/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1722">
+        <akn:num>11-1722</akn:num>
+        <akn:heading>Director of Social Services.</akn:heading>
+<akn:subsection eId="subsec_11-1722_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There shall be a Director of Social Services in the Superior Court who shall have charge of all juvenile social services for the Superior Court. The Director shall have no jurisdiction over any adult under supervision. With respect to juveniles, the Director shall provide intake procedures, counseling, education and training programs, probation services, and such other services as the court shall prescribe.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1722_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>To the maximum extent feasible, the Director shall coordinate with and utilize the services of appropriate public and private agencies within the District of Columbia, including the agency established by section 11233(a) of the National Capital Revitalization and self-government [Self-Government] Improvement Act of 1997 [D.C. Official Code § 24-133(a)], and shall coordinate and provide administrative services to volunteers utilized by the Superior Court or any divisions thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1722_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>As directed by the Executive Officer, the Director shall conduct studies and make reports relating to the utilization of juvenile social services as an adjunct to the Superior Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1722_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Director shall make recommendations with respect to the consolidation or disposition of causes before the court relating to members of the same family or household.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

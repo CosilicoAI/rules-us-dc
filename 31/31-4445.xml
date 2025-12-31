@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4445"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4445/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4445">
+        <akn:num>31-4445</akn:num>
+        <akn:heading>Procedure for consolidating domestic companies.</akn:heading>
+<akn:subsection eId="subsec_31-4445_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Two or more domestic life companies may consolidate into a new company.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4445_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>To consolidate, the board of directors of each consolidating company, by resolution adopted by majority vote of the members of the boards, shall approve a plan of consolidation listing the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

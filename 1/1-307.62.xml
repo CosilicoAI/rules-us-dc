@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.62"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.62/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_307_62">
+        <akn:num>1-307.62</akn:num>
+        <akn:heading>Establishment of Opportunity Account Office.</akn:heading>
+<akn:subsection eId="subsec_1-307_62_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Provide eligible families and individuals with an opportunity to establish opportunity accounts;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_62_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Provide that the opportunity account shall be established by an approved financial institution and administered by an approved organization;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_62_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Provide incentives to encourage participation in the program; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_62_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Require that money deposited into an opportunity account shall be used only for approved purposes.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

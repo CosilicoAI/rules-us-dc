@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-403"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-403/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4A_403">
+        <akn:num>28:4A-403</akn:num>
+        <akn:heading>Payment by sender to receiving bank.</akn:heading>
+<akn:subsection eId="subsec_28:4A-403_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Payment of the sender’s obligation under § 28:4A-402 to pay the receiving bank occurs as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-403_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the sender and receiving bank are members of a funds-transfer system that nets obligations multilaterally among participants, the receiving bank receives final settlement when settlement is complete in accordance with the rules of the system. The obligation of the sender to pay the amount of a payment order transmitted through the funds-transfer system may be satisfied, to the extent permitted by the rules of the system, by setting off and applying against the sender’s obligation the right of the sender to receive payment from the receiving bank of the amount of any other payment order transmitted to the sender by the receiving bank through the funds-transfer system. The aggregate balance of obligations owed by each sender to each receiving bank in the funds-transfer system may be satisfied, to the extent permitted by the rules of the system, by setting off and applying against that balance the aggregate balance of obligations owed to the sender by other members of the system. The aggregate balance is determined after the right of setoff stated in the second sentence of this subsection has been exercised.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-403_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If two banks transmit payment orders to each other under an agreement that settlement of the obligations of each bank to the other under § 28:4A-402 will be made at the end of the day or other period, the total amount owed with respect to all orders transmitted by one bank shall be set off against the total amount owed with respect to all orders transmitted by the other bank. To the extent of the setoff, each bank has made payment to the other.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-403_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In a case not covered by subsection (a) of this section, the time when payment of the sender’s obligation under §§ 28:4A-402(b) or 28:4A-402(c) occurs is governed by applicable principles of law that determine when an obligation is satisfied.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

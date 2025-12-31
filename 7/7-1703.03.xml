@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1703.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1703.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1703_03">
+        <akn:num>7-1703.03</akn:num>
+        <akn:heading>Prohibition of employment discrimination on the basis of tobacco use.</akn:heading>
+<akn:subsection eId="subsec_7-1703_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person shall refuse to hire or employ any applicant for employment, or discharge or otherwise discriminate against any employee with respect to compensation or any other term, condition, or privilege of employment, on the basis of the use by the applicant or employee of tobacco or tobacco products. Nothing in this section shall be construed as limiting a person from establishing or enforcing workplace smoking restrictions that are required or permitted by this subchapter or other District or federal laws, or in establishing tobacco-use restrictions or prohibitions that constitute bona fide occupational qualifications.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1703_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any employee or applicant for employment who is aggrieved by a violation of subsection (a) of this section shall have a private cause of action against the person. An employee or applicant for employment shall pursue and exhaust all remedies available pursuant to any collective bargaining agreement, grievance procedure, or other established means of resolving employer-employee disputes, to resolve a violation of subsection (a) of this section, prior to commencing a civil action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1703_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any employee or applicant for employment who is aggrieved by a violation of subsection (a) of this section shall be entitled to recover any damages, including lost or back wages or salary. The court, in its discretion, may allow the prevailing party a reasonable attorney’s fee as part of the costs.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

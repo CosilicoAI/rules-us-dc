@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-603.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-603.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_603_07">
+        <akn:num>29-603.07</akn:num>
+        <akn:heading>Actions by and against partnership and partners.</akn:heading>
+<akn:subsection eId="subsec_29-603_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A partnership may sue and be sued in the name of the partnership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-603_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (f) of this section, action may be brought against the partnership and, to the extent not inconsistent with § 29-603.06, any or all of the partners in the same action or in separate actions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-603_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A judgment against a partnership shall not by itself be a judgment against a partner. A judgment against a partnership shall not be satisfied from a partner’s assets unless there is also a judgment against the partner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-603_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A judgment creditor of a partner may not levy execution against the assets of the partner to satisfy a judgment based on a claim against the partnership unless the partner is personally liable for the claim under § 29-603.06 and:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-603_07_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>This section shall apply to any partnership debt, obligation, or other liability resulting from a representation by a partner or purported partner under § 29-603.08.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-603_07_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A partner is not a proper party to an action against a partnership if that partner is not personally liable for the claim under § 29-603.06.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

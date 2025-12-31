@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-815"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-815/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_815">
+        <akn:num>42-815</akn:num>
+        <akn:heading>Application to court to fix terms and determine notice of sale; notice under power of sale provision.</akn:heading>
+<akn:subsection eId="subsec_42-815_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the length of notice and terms of sale are not prescribed by the mortgage or deed of trust, or be not left therein to the judgment or discretion of the mortgagee or trustee, any person interested in such sale may apply to the court, before such sale is advertised, to fix the terms of sale and determine what notice of sale shall be given.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-815_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the case of a residential mortgage, as a condition of issuance of the notice to foreclose under subsection (c) of this section, a foreclosure sale under a power of sale provision contained in any deed of trust, mortgage, or other security instrument, shall not take place unless the holder of the note secured by the deed of trust, mortgage, or security instrument, or its agent, shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-815_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-815_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The mediation certificate required by subsection (b)(2) of this section, and the notice required under subsection (c) of this section, shall be recorded in the land records of the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

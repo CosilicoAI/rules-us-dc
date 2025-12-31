@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-310"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-310/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_310">
+        <akn:num>41-310</akn:num>
+        <akn:heading>Disposal of forfeited property.</akn:heading>
+<akn:subsection eId="subsec_41-310_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When property is declared forfeited pursuant to §  41-305(c) or §  41-308, the District shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-310_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The law enforcement agency that seized property forfeited under this chapter may not retain the property for its own use or sell it directly or indirectly to an employee of the agency, to a relative of an employee, or to another law enforcement agency; provided, that nothing in this section shall prohibit an employee of the law enforcement agency or relative of an employee of the law enforcement agency from purchasing property offered for sale at a public auction.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

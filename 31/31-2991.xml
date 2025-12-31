@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2991"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2991/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2991">
+        <akn:num>31-2991</akn:num>
+        <akn:heading>Closed claim analysis.</akn:heading>
+<akn:subsection eId="subsec_31-2991_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 180 days of march 14, 2007, the Mayor shall submit legislation to the Council for the establishment of a database of closed obstetrician/gynecologist malpractice claims reports to be submitted by providers of medical malpractice insurance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2991_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The legislation shall include a plan which shall:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

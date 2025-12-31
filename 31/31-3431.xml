@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3431"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3431/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3431">
+        <akn:num>31-3431</akn:num>
+        <akn:heading>Principal office, books, records, and files of the health maintenance organization to be in the District.</akn:heading>
+<akn:subsection eId="subsec_31-3431_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any health maintenance organization domiciled in the District or hereafter formed or organized in the District to engage in the health care business as a health maintenance organization shall maintain its principal office within the District, shall keep its books, records, and files in the District, and shall not remove from the District its principal office or its books, records, or files without first obtaining the written permission of the Commissioner; provided, that this section shall not apply to the books, records, and files of any branch office of a health maintenance organization, which books, records, and files relate solely to the business transacted by the branch office agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3431_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A health maintenance organization domiciled in the District which violates this section shall immediately forfeit its certificate of authority to do business in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3431_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An officer, agent, or employee of a health maintenance organization which violates this section shall be guilty of a misdemeanor and, upon conviction, shall pay a fine of not less than $100 for each offense.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

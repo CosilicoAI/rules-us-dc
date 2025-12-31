@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-108"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-108/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_108">
+        <akn:num>23-108</akn:num>
+        <akn:heading>Depositions.</akn:heading>
+<akn:subsection eId="subsec_23-108_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a material witness for either the prosecution or the defendant resides more than twenty-five miles from the place of holding court, is sick or infirm, or is about to leave the District of Columbia, and the prosecution or the defendant applies in writing to the court for a commission to examine such witness, the court may grant the commission, and enter an order stating for what length of time notice shall be given to the other party before such witness shall be examined. At or before the time fixed in the notice, when the examination is upon written interrogatories, the other party may file cross-interrogatories. When the examination is conducted orally, the other party may cross-examine the deponent. If the other party fails to file written interrogatories or fails to attend an oral examination, the clerk shall file the following interrogatories:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-108_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The court may order in any case that the examination be conducted orally.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-108_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The commission shall issue from the clerk’s office, the examination of the witnesses shall be made and certified, and the return thereof made in the same manner as in civil cases, and unimportant irregularities or errors in the proceedings under the commission shall not cause the deposition to be excluded where no substantial prejudice can be wrought to the prosecution or the defendant by such irregularities or errors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-108_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Copies of the depositions or answers to interrogatories shall be made available to all of the parties upon the completion of the examination.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-802"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-802/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_802">
+        <akn:num>16-802</akn:num>
+        <akn:heading>Sealing of criminal records on grounds of actual innocence.</akn:heading>
+<akn:subsection eId="subsec_16-802_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person arrested for or charged with the commission of a criminal offense pursuant to the District of Columbia Official Code or the District of Columbia Municipal Regulations whose prosecution has been terminated without conviction may file a motion with the Clerk at any time to seal all of the records of the arrest and related court proceedings on grounds of actual innocence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-802_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The burden is on the movant to establish that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-802_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the motion is filed within 4 years after the prosecution has been terminated, the movant must satisfy the burden described in subsection (b) of this section by a preponderance of the evidence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-802_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the motion is filed more than 4 years after the prosecution has been terminated, the movant must satisfy the burden described in subsection (b) of this section by clear and convincing evidence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-802_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>In determining such motions, the court may, but is not required to, employ a rebuttable presumption that the movant is not entitled to relief if the court finds that the government has been substantially prejudiced in its ability to respond to the motion by the delay in its filing, unless the movant shows that the motion is based on grounds which the person could not have raised by the exercise of reasonable diligence before the circumstances prejudicial to the government occurred.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-802_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>An acquittal does not establish a presumption that the movant is innocent or entitled to relief pursuant to this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-802_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A person whose conviction has been vacated pursuant to § 22-4135(g)(2), and whose subsequent prosecution is terminated without conviction, may file a motion with the Clerk pursuant to subsection (a) of this section or any other provision of law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-802_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>A person who is found to be actually innocent pursuant to this section or § 22-4135(g)(3) shall be entitled to the following relief with respect to such count or counts:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-802_i">
+      <akn:num>(i)</akn:num>
+      <akn:content><akn:p>The effect of relief pursuant to this section shall be to restore the movant, in the contemplation of the law, to the status he or she occupied before being arrested or charged. No person as to whom such relief has been granted shall be held thereafter under any provision of law to be guilty of perjury or otherwise giving a false statement by reason of failure to recite or acknowledge his or her arrest, or charge, or trial in response to any inquiry made of him or her for any purpose.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

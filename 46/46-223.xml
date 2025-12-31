@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-223"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-223/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_223">
+        <akn:num>46-223</akn:num>
+        <akn:heading>Initiation of withholding in other jurisdictions.</akn:heading>
+<akn:subsection eId="subsec_46-223_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When an obligor under a support order derives income in another jurisdiction, the IV-D agency, the Court, or any other appropriate person or entity may serve a notice or order to withhold on a holder in the jurisdiction where the obligor receives income.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-223_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In any case being enforced by the IV-D agency pursuant to title IV, part D of the Social Security Act, approved January 4, 1975 (88 Stat. 2351; 42 U.S.C. § 651 et seq.), where the IV-D agency determines that the obligor derives income in another jurisdiction and that interstate withholding is necessary to enforce the support order, the IV-D agency shall, within 20 days of this determination, notify the IV-D agency in the jurisdiction in which the obligor derives income to implement interstate withholding. The notice shall include all information necessary to carry out the withholding, including:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

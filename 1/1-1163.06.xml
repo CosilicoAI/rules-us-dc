@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1163_06">
+        <akn:num>1-1163.06</akn:num>
+        <akn:heading>Advisory opinions.</akn:heading>
+<akn:subsection eId="subsec_1-1163_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon application made by any individual holding public office, any candidate, any person required to submit filings to the Elections Board under this subchapter, any person who reasonably anticipates being required to submit filings to the Elections Board under this subchapter in connection with a pending election or any subsequent election, or any political committee, political action committee, or other person under the jurisdiction of the Elections Board, the Elections Board shall provide within a reasonable period of time an advisory opinion, with respect to any specific transaction or activity inquired of, as to whether such transaction or activity would constitute a violation of any provision of this subchapter or of any provision of subchapter I of Chapter 10 of this title [§ 1-1001.01 et seq.] over which the Elections Board has primary jurisdiction. The Elections Board shall publish a concise statement of each request for an advisory opinion, without identifying the person seeking the opinion, in the District of Columbia Register within 20 days of its receipt by the Elections Board. Comments upon the requested opinions shall be received by the Elections Board for a period of at least 15 days following publication in the District of Columbia Register. The Elections Board may waive the advance notice and public comment provisions, following a finding that the issuance of the advisory opinion constitutes an emergency necessary for the immediate preservation of the public peace, health, safety, welfare, or morals.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1163_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Advisory opinions shall be published in the District of Columbia Register within 30 days of their issuance; provided, that the identity of any person requesting an advisory opinion shall not be disclosed in the District of Columbia Register without his or her prior consent in writing. When issued according to rules of the Elections Board, an advisory opinion shall be deemed to be an order of the Elections Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1163_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>There shall be a rebuttable presumption that a transaction or activity undertaken by a person in reliance on an advisory opinion from the Elections Board is lawful if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

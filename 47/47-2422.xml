@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2422"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2422/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2422">
+        <akn:num>47-2422</akn:num>
+        <akn:heading>Civil penalties and administrative sanctions.</akn:heading>
+<akn:subsection eId="subsec_47-2422_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor may revoke, suspend, or deny under § 47-2405 the general sales license endorsement on the master business license of any cigarette or other tobacco product dealer for a violation of this chapter or any implementing rule promulgated by the Mayor as provided under § 47-2415.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2422_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of § 47-2404, or any rules or regulations issued under the authority of that section, pursuant to Chapter 18 of Title 2. Adjudication of any infraction of § 47-2404, or any rules or regulations issued under the authority of that section, shall be pursuant to Chapter 18 of Title 2.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2422_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may (1) impose a civil penalty in an amount not to exceed the greater of 500% of the retail value of the cigarettes or other tobacco product involved or $5,000 for a violation of this chapter, or (2) assess tax due and interest on any product acquired, possessed, sold, or offered for sale in violation of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2422_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The license or authorization to affix stamps of an agent, distributor, dealer, or person found liable for a civil penalty under subsection (b)(1) of this section on 2 or more occasions shall be revoked and the agent, distributor, dealer, or person shall not be eligible for a license or authorized by the District to affix tax stamps under this chapter for one year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

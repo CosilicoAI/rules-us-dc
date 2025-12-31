@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1121"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1121/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1121">
+        <akn:num>29-1121</akn:num>
+        <akn:heading>Right of members and managers to information.</akn:heading>
+<akn:subsection eId="subsec_29-1121_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>On reasonable notice, a member or manager of an unincorporated nonprofit association may inspect and copy during the unincorporated nonprofit association’s regular operating hours, at a reasonable location specified by the association, any record maintained by the association regarding its activities, financial condition, and other circumstances, to the extent the information is material to the member’s or manager’s rights and duties under the governing principles.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1121_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An unincorporated nonprofit association may impose reasonable restrictions on access to, and use of, information to be furnished under this section, including designating the information confidential and imposing the obligations of nondisclosure and safeguarding on the recipient.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1121_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An unincorporated nonprofit association may charge a person that makes a demand under this section reasonable copying costs, limited to the costs of labor and materials.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1121_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A former member or manager shall be entitled to information to which the member or manager was entitled while a member or manager if the information pertains to the period during which the person was a member or manager, the former member or manager seeks the information in good faith, and the former member or manager satisfies subsections (a) through (c) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

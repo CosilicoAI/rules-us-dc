@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-831.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-831.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_831_14">
+        <akn:num>26-831.14</akn:num>
+        <akn:heading>Appointment of a receiver for a merchant bank.</akn:heading>
+<akn:subsection eId="subsec_26-831_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commissioner may petition the Superior Court to appoint a receiver for a merchant bank if there is a reasonable basis to believe that the merchant bank:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-831_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Superior Court may act upon a petition by the Commissioner for the appointment of a receiver immediately and without notice to any person. The Superior Court may appoint a receiver if the Superior Court determines that a condition set forth in subsection (a) of this section exists and that the bank is operating, or may operate, in an unsafe or unsound manner. The Superior Court may also issue an injunction to require a universal bank to correct any condition set forth in subsection (a) of this section, whether or not the bank is operating, or may operate, in an unsafe or unsound manner. If the Superior Court appoints a receiver and, after the appointment of the receiver, it appears to the court that reasons for receivership do not, or no longer, exist, the Superior Court shall dissolve the receivership and terminate any pending proceedings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-831_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Unless otherwise provided by law, a receiver, other than a receiver who is an employee of the Department and acting in his or her official capacity, shall post a bond in an amount to be determined by the Superior Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-831_14_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The receiver shall, on a regular basis, report to the Commissioner regarding all matters involving the receivership.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

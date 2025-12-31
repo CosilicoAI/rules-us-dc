@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/18-306"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/18-306/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_18_306">
+        <akn:num>18-306</akn:num>
+        <akn:heading>“Pour over” trusts.</akn:heading>
+<akn:subsection eId="subsec_18-306_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Bequests or Devises to Trustee Under, or in Accordance With Terms of, Existing Trusts. — A devise or bequest may be made in a will or codicil, otherwise valid, in form or substance to the trustees under, or in accordance with the terms of, a written inter vivos trust, including an unfunded life insurance trust, although the settlor has reserved rights of ownership in the insurance contracts, which has been executed and is in existence prior to or contemporaneously with the execution of the will or codicil and is identified in the will or codicil, without regard to the size or character of the corpus of the trust, or whether the settlor is the testator or a third person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_18-306_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Bequests or Devises to Trustee Under, or in Accordance With Terms of, Testamentary Trusts. — A devise or bequest may be made in a will or codicil, otherwise valid, in form of substance to the trustees under, or in accordance with the terms of, a testamentary trust established under another valid will or codicil. The devise or bequest is not invalid because the testamentary trust or the will or codicil establishing the testamentary trust was not in existence when the will or codicil containing the devise or bequest was executed, if the testator of the will or codicil establishing the testamentary trust predeceases the testator of the will or codicil containing the devise or bequest, and the will or codicil establishing the testamentary trust is admitted to probate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_18-306_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section applies to a devise or bequest made by a testator living on December 5, 1963, or born subsequent thereto, without regard to the date of execution of the will or codicil containing the devise or bequest or of the trust instrument, or an amendment thereto.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_18-306_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This section does not affect the validity, as existing before December 5, 1963, of:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

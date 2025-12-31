@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2002"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2002/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2002">
+        <akn:num>31-2002</akn:num>
+        <akn:heading>RBC Reports.</akn:heading>
+<akn:subsection eId="subsec_31-2002_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every domestic insurer shall, on or prior to each March 1 (“filing date”), prepare and submit to the Commissioner a report of its RBC Levels as of the end of the calendar year just ended, in a form and containing such information as is required by the RBC Instructions. In addition, every domestic insurer shall file its RBC Report:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2002_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A life and health insurer’s RBC shall be determined in accordance with the formula set forth in the RBC Instructions. The formula shall take into account, and may be adjusted for the covariance between:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2002_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Factors set forth in subsection (b)(1) through (4) of this section shall be determined in each case by applying the factors in the manner set forth in the RBC Instructions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2002_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A property and casualty insurer’s RBC shall be determined in accordance with the formula set forth in the RBC Instructions. The formula shall take into account and may adjust for the covariance between:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2002_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The factors set forth in subsection (d)(1) through (4) of this section shall be determined in each case by applying the factors in the manner set forth in the RBC Instructions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2002_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>An excess of capital over the amount produced by the risk-based capital requirements contained in this chapter and the formulas, schedules, and instructions referenced in this chapter is desirable in the business of insurance. Insurers should maintain capital above the RBC Levels required by this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2002_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>If a domestic insurer files an RBC Report which in the judgment of the Commissioner is inaccurate, then the Commissioner shall adjust the RBC Report to correct the inaccuracy and shall notify the insurer of the adjustment. The notice shall contain a statement of the reason for the adjustment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

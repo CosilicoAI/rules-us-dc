@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-309.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-309.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_309_03">
+        <akn:num>1-309.03</akn:num>
+        <akn:heading>Single-member districts.</akn:heading>
+<akn:subsection eId="subsec_1-309_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Council shall, by act, establish single-member districts for each of the neighborhood commission areas in § 1-309.02. Such districts shall be established in a timely manner following the receipt of alternate plans from the ward task forces on Advisory Neighborhood Commissions, established by § 1-1041.01. Each single-member district shall have a population of approximately 2,000 people, and shall be as nearly equal as possible. The boundaries of the single-member districts shall conform to the greatest extent possible with the boundaries of the census blocks which are established by the United States Bureau of the Census. Each advisory neighborhood commission area shall be located to the greatest extent possible within the boundaries of 1 election ward. An advisory neighborhood commission area may be located within 2 election wards if the location results from the limitations of census geography or if the location promotes a rational public policy, including, but not limited to, respect for the natural geography of the District, neighborhood cohesiveness, or the development of compact and contiguous areas. Upon adoption of the act establishing such districts, the Council shall cause a description of the boundaries of each such district to be published in the District of Columbia Register.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-309_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Council shall, by act after public hearing by the Council’s Committee of the Whole, make such adjustments in the boundaries of the Advisory Neighborhood Commission single-member districts and the Advisory Neighborhood Commission areas as are necessary as a result of population shifts and changes. Such adjustments shall be made in a timely manner following the receipt of alternative plans from the ward task forces on Advisory Neighborhood Commissions, established by § 1-1041.01. Any adjustments made less than 180 days prior to a regularly scheduled election shall not be effective for that election.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

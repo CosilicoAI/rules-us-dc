@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2502.26b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2502.26b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2502_26b">
+        <akn:num>31-2502.26b</akn:num>
+        <akn:heading>Confidentiality of actuarial opinions, summaries, reports, and workpapers.</akn:heading>
+<akn:subsection eId="subsec_31-2502_26b_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Statement of Actuarial Opinion shall be provided with the annual financial statement required by § 31-1901, in accordance with the appropriate National Association of Insurance Commissioners Property and Casualty Annual Statement Instructions and shall be a public document.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2502_26b_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2502_26b_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commissioner or any person who received documents, materials, or other information while acting under the authority of the Commissioner shall not be permitted or required to testify in any private civil action concerning any confidential documents, materials, or information subject to subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2502_26b_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>To assist in the performance of the Commissioner’s duties, the Commissioner may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2502_26b_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>No waiver of any applicable privilege or claim of confidentiality in the documents, materials, or information shall occur as a result of disclosure to the Commissioner under this section or as a result of sharing as authorized in subsection (d) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

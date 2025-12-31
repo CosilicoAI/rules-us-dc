@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2206.56"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2206.56/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2206_56">
+        <akn:num>50-2206.56</akn:num>
+        <akn:heading>Impounding of vehicle; release of vehicle; liability.</akn:heading>
+<akn:subsection eId="subsec_50-2206_56_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2206_56_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2206_56_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any motor vehicle that is impounded shall be subject to an impoundment charge of $50, which shall be paid before the release of the motor vehicle. Any motor vehicle that remains impounded and unclaimed for more than 72 hours shall be processed and handled as an abandoned vehicle, and shall be subject to any other charges and costs, including storage fees and relocation costs, as provided and assessed by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2206_56_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

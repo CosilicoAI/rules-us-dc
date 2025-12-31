@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4803.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4803.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4803_02">
+        <akn:num>28-4803.02</akn:num>
+        <akn:heading>Apportionment of receipts and disbursements when decedent dies or income interest begins.</akn:heading>
+<akn:subsection eId="subsec_28-4803_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A trustee shall allocate an income receipt or disbursement other than one to which § 28-4802.01(1) applies to principal if its due date occurs before a decedent dies in the case of an estate or before an income interest begins in the case of a trust or successive income interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4803_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A trustee shall allocate an income receipt or disbursement to income if its due date occurs on or after the date on which a decedent dies or an income interest begins and it is a periodic due date. An income receipt or disbursement shall be treated as accruing from day to day if its due date is not periodic or it has no due date. The portion of the receipt or disbursement accruing before the date on which a decedent dies or an income interest begins shall be allocated to principal and the balance must be allocated to income.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4803_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An item of income or an obligation is due on the date the payer is required to make a payment. If a payment date is not stated, there is no due date for the purposes of this chapter. Distributions to shareholders or other owners from an entity to which § 28-4804.01 applies are deemed to be due on the date fixed by the entity for determining who is entitled to receive the distribution or, if no date is fixed, on the declaration date for the distribution. A due date is periodic for receipts or disbursements that must be paid at regular intervals under a lease or an obligation to pay interest or if an entity customarily makes distributions at regular intervals.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

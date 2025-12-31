@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2303">
+        <akn:num>42-2303</akn:num>
+        <akn:heading>Priority of credit line deed of trust.</akn:heading>
+<akn:subsection eId="subsec_42-2303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>From the date of the recording of a credit line deed of trust, the credit line deed of trust shall have priority:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Mechanic’s liens established pursuant to § 40-301.01, shall have priority over all advances made under a credit line deed of trust subsequent to the filing of a notice of mechanic’s lien, but shall not have priority over advances made prior to the filing of a notice of mechanic’s lien.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2303_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as provided in subsections (a)(2) and (b) of this section, the priority of a credit line deed of trust shall extend to all advances made following the recordation of the credit line deed of trust. Amounts outstanding, together with interest, shall continue to have priority until paid or otherwise settled.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2303_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall apply to the priority of purchase money security interests in goods and fixtures.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

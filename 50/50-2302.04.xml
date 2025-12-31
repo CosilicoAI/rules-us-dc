@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2302.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2302.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2302_04">
+        <akn:num>50-2302.04</akn:num>
+        <akn:heading>Notice of infraction.</akn:heading>
+<akn:subsection eId="subsec_50-2302_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The notice of infraction shall be the summons and complaint for the purposes of this subchapter. The Director shall prescribe the form of the notice of infraction and shall establish procedures for the proper administrative controls over the dispersal thereof. The notice of infraction may be the same as the uniform traffic violation notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2302_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The notice of infraction shall contain information advising the person to whom it is issued of the manner in which and the time within which he may answer the infraction alleged in the notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2302_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The notice of infraction shall advise the person to whom it is issued that his failure to answer the notice of infraction within 60 calendar days from the date of issuance or greater period established by the Director by regulation shall by operation of law result in a suspension of his District operator’s permit or, in the case of a person who is not a resident of the District, his privilege to drive within the District, pending his compliance with § 50-2302.05.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2302_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a hearing examiner determines that a notice of infraction is defective on its face, he shall enter an order dismissing the notice of infraction and promptly notify the person to whom it was issued.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

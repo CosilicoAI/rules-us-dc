@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-819.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-819.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_819_04">
+        <akn:num>1-819.04</akn:num>
+        <akn:heading>Effect on Reform Act and other laws.</akn:heading>
+<akn:subsection eId="subsec_1-819_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Reform Act. — This chapter supersedes any provision of the Reform Act inconsistent with this chapter and the regulations thereunder.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-819_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No effect on tax treatment of benefits. — Except as otherwise specifically provided, nothing in this chapter may be construed to affect the application of any provision of the Internal Revenue Code of 1986 to any annuity or other benefit provided to or on behalf of any individual, including any disability benefit or any portion of a retirement benefit attributable to an individual’s disability status.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-819_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No effect on benefits for Park Police and Secret Service. — Nothing in this chapter shall be deemed to alter or amend in any way the provisions of existing law (including the Reform Act) relating to the program of annuities, other retirement benefits, or medical benefits for members and officers, retired members and officers, and survivors thereof, of the United States Park Police force, the United States Secret Service, or the United States Secret Service Uniformed Division.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

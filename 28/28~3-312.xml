@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-312"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-312/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_312">
+        <akn:num>28:3-312</akn:num>
+        <akn:heading>Lost, destroyed, or stolen cashier’s check, teller’s check, or certified check.</akn:heading>
+<akn:subsection eId="subsec_28:3-312_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-312_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A claimant may assert a claim to the amount of a check by a communication to the obligated bank describing the check with reasonable certainty and requesting payment of the amount of the check, if (i) the claimant is the drawer or payee of a certified check or the remitter or payee of a cashier’s check or teller’s check, (ii) the communication contains or is accompanied by a declaration of loss of the claimant with respect to the check, (iii) the communication is received at a time and in a manner affording the bank a reasonable time to act on it before the check is paid, and (iv) the claimant provides reasonable identification if requested by the obligated bank. Delivery of a declaration of loss is a warranty of the truth of the statements made in the declaration. If a claim is asserted in compliance with this subsection, the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-312_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the obligated bank pays the amount of a check to a claimant under subsection (b)(4) of this section and the check is presented for payment by a person having rights of a holder in due course, the claimant is obliged to (i) refund the payment to the obligated bank if the check is paid, or (ii) pay the amount of the check to the person having rights of a holder in due course if the check is dishonored.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-312_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a claimant has the right to assert a claim under subsection (b) of this section and is also a person entitled to enforce a cashier’s check, teller’s check, or certified check which is lost, destroyed, or stolen, the claimant may assert rights with respect to the check either under this section or § 28:3-309.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

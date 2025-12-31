@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.54"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.54/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_406_54">
+        <akn:num>29-406.54</akn:num>
+        <akn:heading>Court-ordered indemnification and advance for expenses.</akn:heading>
+<akn:subsection eId="subsec_29-406_54_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A director who is a party to a proceeding because he or she is or was a director may apply for indemnification or an advance for expenses to the Superior Court. After receipt of an application and after giving any notice it considers necessary, the court shall order:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_54_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Superior Court determines that the director is entitled to indemnification under subsection (a)(1) of this section or to indemnification or advance for expenses under subsection (a)(2) of this section, it shall also order the nonprofit corporation to pay the director’s reasonable expenses incurred in connection with obtaining court-ordered indemnification or advance for expenses. If the court determines that the director is entitled to indemnification or advance for expenses under subsection (a)(3) of this section, it may also order the corporation to pay the director’s reasonable expenses to obtain court-ordered indemnification or advance for expenses.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

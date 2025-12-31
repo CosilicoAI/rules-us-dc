@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1602"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1602/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1602">
+        <akn:num>32-1602</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_32-1602_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1602_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>“Eligible training provider” means an organization that is approved to receive funds for individual training accounts for employment and training services, in accordance with criteria and procedures established by the Workforce Investment Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1602_1B">
+      <akn:num>(1B)</akn:num>
+      <akn:content><akn:p>“Individual training account” or “ITA” means the primary way individuals receive funds for training pursuant to the Federal Act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1602_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Federal Act” or “WIA” means the federal Workforce Investment Act of 1998,  approved August 7, 1998 (112 Stat. 936; 29 U.S.C. § 2822 [repealed]), or the Workforce Innovation and Opportunity Act, approved July 22, 2014 (Pub. L. No. 113-128; 128 Stat. 1425), in accordance with § 32-1612.01.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1602_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Self-sufficiency” means the self-sufficiency level as established annually by the Workforce Investment Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1602_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1602_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“WIC” means the Workforce Investment Council established by § 32-1603.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

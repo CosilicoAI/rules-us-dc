@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1104.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1104.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1104_04">
+        <akn:num>10-1104.04</akn:num>
+        <akn:heading>Enforcement; penalties.</akn:heading>
+<akn:subsection eId="subsec_10-1104_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A violation of this subchapter or a rule issued in accordance with this subchapter shall be enforced and adjudicated pursuant to Chapter 18 of Title 2 [§ 2-1801.01 et seq.] (“Civil Infractions Act”). The Mayor may also enforce a violation of this subchapter or a rule issued in accordance with this subchapter pursuant to §  50-921.19(a), (c), (d), (e), and (f).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1104_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person who violates a provision of this subchapter may be punished by a fine not exceeding $100 or imprisonment for not more than 10 days.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

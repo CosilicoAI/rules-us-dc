@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-941"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-941/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_941">
+        <akn:num>24-941</akn:num>
+        <akn:heading>Closure of Oak Hill Youth Center; transfer of operations to new facilities.</akn:heading>
+<akn:subsection eId="subsec_24-941_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>No new facility for committed youth shall house more than 40 committed children within the same building, but a facility may contain more than one building;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-941_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Plans for the operation of facilities shall incorporate best practices for the provision of rehabilitative and other services and the safety of children, and shall be consistent with the applicable standards of accreditation of the American Correctional Association;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-941_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Individuals appointed by the Mayor shall provide on-site monitoring of the safety of children housed in any secure detention or commitment facility operated by the District of Columbia during all hours of operation; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-941_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Individuals responsible for monitoring the safety of children under paragraph (3) of this subsection shall notify the child’s parent or guardian and the child’s legal representative whenever a child is injured.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

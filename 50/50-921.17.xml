@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-921.17"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-921.17/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_921_17">
+        <akn:num>50-921.17</akn:num>
+        <akn:heading>Transportation Infrastructure Project Review Fund.</akn:heading>
+<akn:subsection eId="subsec_50-921_17_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a special fund the Transportation Infrastructure Project Review Fund (“Fund”), which shall be administered by the Director of the DDOT in accordance with subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_17_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Fund shall consist of the revenue collected from the following sources pursuant to § 50-921.02(f):</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_17_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Fund shall be used for the following purposes:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_17_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The fees deposited into the Fund shall be separate from any funds paid for the temporary use of public space or the use of the public right of way, pursuant to Chapter 11 of Title 10 [§ 10-1101.01 et seq.].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-921_17_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3931.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3931.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3931_02">
+        <akn:num>31-3931.02</akn:num>
+        <akn:heading>Authority to do business; prohibited activities.</akn:heading>
+<akn:subsection eId="subsec_31-3931_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A captive insurer may be organized and operated in any form of business organization authorized by the Commissioner and may, pursuant to this chapter, transact any insurance or annuity business.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsection (a) of this section, a captive insurer shall not:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsections (a) and (b) of this section, the Commissioner may authorize a captive insurer that is otherwise qualified to conduct business in the District to engage in any activity in any form permitted by a captive insurer in any other jurisdiction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A captive insurer shall file with the Commissioner a written request to engage in any activity under subsection (c) of this section. The Commissioner shall approve the request within 30 days after receiving the request, unless the Commissioner determines that the activity will be harmful to the captive insurer’s policyholders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>For the purposes of this chapter, a branch captive insurer shall be deemed to be a pure captive insurer with respect to operations in the District, unless otherwise permitted by the Commissioner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-713"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-713/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_713">
+        <akn:num>20-713</akn:num>
+        <akn:heading>Supervised administration; supplemental inventory; reappraisal.</akn:heading>
+<akn:subsection eId="subsec_20-713_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in section 20-731, the supervised personal representative shall report to the Court any property discovered after the filing of the original inventory by filing a supplemental inventory. For each item of after-discovered property, the supplemental inventory shall satisfy the requirements of section 20-711(a) and shall be certified in accordance with subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-713_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A supervised personal representative shall have any item reappraised upon discovering that the original appraisal was erroneous or misleading. The supervised personal representative shall file the reappraisal and certification required by subsection (c) with the Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-713_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A supplemental inventory or reappraisal filed with the Court shall be accompanied by a certification by the supervised personal representative that there has been mailed or delivered to all interested persons within the previous 15 days a copy of the supplemental inventory or reappraisal.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

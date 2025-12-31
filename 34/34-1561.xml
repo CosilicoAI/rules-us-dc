@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1561"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1561/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1561">
+        <akn:num>34-1561</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_34-1561_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Advanced Metering Infrastructure” or “AMI” means a system capable of providing 2-way communication with metering equipment to gather at least hourly energy consumption data on a daily basis for all customers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1561_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“ARRA” means the American Recovery and Reinvestment Act of 2009, approved February 17, 2009 (123 Stat. 115; 26 U.S.C. § 1, note).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1561_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Commission” means the Public Service Commission.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1561_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Customer” shall have the same meaning as set forth in § 34-1501(12).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1561_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Electric company” shall have the same meaning as set forth in § 34-207.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1561_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Meter Data Management System” means a system that provides a single data repository which can gather data from multiple metering systems and then supply that data to multiple applications such as billing, forecasting, customer service, system operation and maintenance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1561_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Regulatory asset” means specific costs that a public utility may defer to its balance sheet and accrue earnings thereon at its authorized rate of return.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1561_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Smart Grid” means the installation of advanced technology to enhance the operation of the electric distribution and transmission system.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

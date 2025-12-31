@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1510"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1510/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1510">
+        <akn:num>34-1510</akn:num>
+        <akn:heading>Transition costs, transition benefits.</akn:heading>
+<akn:subsection eId="subsec_34-1510_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The electric company shall be provided an opportunity to recover all of its prudently incurred and verifiable net transition costs, subject to full mitigation, following the Commission’s determination under subsection (b) of this section. In connection with the foregoing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1510_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1510_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commission shall establish procedures for an annual review of actual market conditions to determine if the authorized competitive transition charge is overcompensating or undercompensating the electric company for the transition costs established under subsection (b)(3) of this section. If an annual review demonstrates that the authorized competitive transition charge is overcompensating or undercompensating the electric company for the transition costs established under subsection (b)(3) of this section, the Commission shall adjust the competitive transition charge accordingly.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

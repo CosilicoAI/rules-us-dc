@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-113.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-113.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_113_05">
+        <akn:num>5-113.05</akn:num>
+        <akn:heading>Notice of release of prisoners.</akn:heading>
+<akn:subsection eId="subsec_5-113_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever the Board of Parole of the District of Columbia has authorized the release of a prisoner under § 24-404, or the United States Board of Parole has authorized the release of a prisoner under § 24-406, it shall notify the Chief of Police of that fact as far in advance of the prisoner’s release as possible.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-113_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except in cases covered by subsection (a) of this section, notice that a prisoner under sentence of 6 months or more is to be released from an institution under the management and regulation of the Director of the Department of Corrections shall be given to the Chief of Police as far in advance of the prisoner’s release as possible.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

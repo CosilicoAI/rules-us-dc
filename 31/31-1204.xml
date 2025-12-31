@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1204"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1204/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1204">
+        <akn:num>31-1204</akn:num>
+        <akn:heading>Failure to pay share of assessment.</akn:heading>
+<akn:subsection eId="subsec_31-1204_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any insurer or health maintenance organization that fails to pay an assessment on or before the date set forth in § 31-1203 shall be subject to a penalty imposed by the Mayor, which shall be 10% of the assessment plus interest at one-half of 1% per month for the period between the due date and the date of full payment. If a payment is made in an amount later found to be in error, the Mayor shall do one of the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1204_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an insurer or health maintenance organization fails to pay the amount of the assessment in a timely manner, the Mayor shall send the insurer or health maintenance organization a notice of deficiency, and 10 days after serving the deficiency notice may take whatever action, in the Mayor’s discretion, the Mayor deems appropriate, including suspending or revoking the insurer’s or health maintenance organization’s certificate of authority or license to transact business, or any other appropriate action or sanction authorized under the insurance laws for failure to comply with District laws, including referring the matter to the Corporation Counsel for legal action to collect the assessment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1204_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In the event that any insurer or health maintenance organization fails, by reason of insolvency, impairment of capital and surplus, or other reason approved by the Mayor, to pay its assessment in full, the unpaid amounts shall be assessed against the remaining insurers or health maintenance organizations respectively, on a proportionate basis in comparison to their direct gross receipts. Any insurer or health maintenance organization paying this additional assessment shall have a claim against the defaulting insurer or health maintenance organization for the amount paid.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

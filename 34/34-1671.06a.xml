@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1671.06a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1671.06a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1671_06a">
+        <akn:num>34-1671.06a</akn:num>
+        <akn:heading>Disconnection of service in extreme temperature prohibited.</akn:heading>
+<akn:subsection eId="subsec_34-1671_06a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “forecast of extreme temperature” means a National Weather Service forecast for the District of Columbia of 32 degrees Fahrenheit or below during any time of a day.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1671_06a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A gas company shall not disconnect residential gas service during the day preceding and the day of a forecast of extreme temperature or if the forecast of extreme temperature precedes a holiday or weekend day, on any day during the holiday or weekend.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

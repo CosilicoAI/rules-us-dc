@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3404.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3404.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3404_05">
+        <akn:num>42-3404.05</akn:num>
+        <akn:heading>Contract negotiation.</akn:heading>
+<akn:subsection eId="subsec_42-3404_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Bargaining in good faith. — The tenant and owner shall bargain in good faith. The following constitute prima facie evidence of bargaining without good faith:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_05_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>Reduced price. — If the owner sells or contracts to sell the accommodation to a third party for a price more than 10% less than the price offered to the tenant or for other terms which would constitute bargaining without good faith, the owner shall comply anew with all requirements of §§ 42-3404.09, 42-3404.10, and 42-3404.11, as applicable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_05_a_2">
+      <akn:num>(a-2)</akn:num>
+      <akn:content><akn:p>Financial assurances. — The owner may not require the tenant to prove financial ability to perform as a prerequisite to entering into a contract. The owner may not require the tenant to pay the purchase price in installments unless the owner provides deferred purchase money financing on terms reasonably acceptable to the tenant. The owner may require the tenant to prove that the tenant, either alone or in conjunction with a third party, has comparable financial ability to the third-party contractor before the owner will be required to grant deferred purchase money financing to the tenant on the same terms and conditions agreed between the owner and the third-party contractor. If the tenant can prove comparable financial ability alone, the owner may not require the tenant to secure a third-party guarantor. This proof cannot be required as a prerequisite to contracting. It may be required only as a prerequisite to the owner granting deferred purchase money financing at settlement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_05_a_3">
+      <akn:num>(a-3)</akn:num>
+      <akn:content><akn:p>Transfers of interest in a partnership or corporation and master leases. — In the event of a transfer of interest in a partnership or corporation or in the event of a master lease or agreement that is considered a sale within the meaning of § 42-3404.02, but which does not involve a transfer of record title to the real property, the owner shall be bargaining in good faith if the owner offers the tenant the opportunity to acquire record title to the real property or offers the tenant the opportunity to match the type of transfer or agreement entered into with the third party. With respect to either type of offer, all provisions of this subchapter apply.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Deposit. — The owner shall not require the tenant to pay a deposit of more than 5% of the contract sales price in order to make a contract. The deposit is refundable in the event of a good faith failure of the tenant to perform under the contract.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

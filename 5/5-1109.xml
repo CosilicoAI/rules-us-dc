@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1109"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1109/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_1109">
+        <akn:num>5-1109</akn:num>
+        <akn:heading>Referral of complaint to the United States Attorney.</akn:heading>
+<akn:subsection eId="subsec_5-1109_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When, in the determination of the Executive Director, there is reason to believe that the misconduct alleged in a complaint or disclosed by an investigation of the complaint may be criminal in nature, the Executive Director shall refer the matter to the United States Attorney for the District of Columbia for possible criminal prosecution. The referral shall be accompanied by a copy of all of the Office’s files relevant to the matter being referred.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1109_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Executive Director shall give written notification of such referral to the Police Chief, the complainant, and the subject officer or officers. The receipt of notification by the Police Chief that a matter has been referred to the United States Attorney for the District of Columbia shall not constitute knowledge or cause to know of acts, occurrences, or allegations contained in such referral for purposes of § 1-616.01 [repealed].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1109_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Executive Director shall maintain a record of each referral, and ascertain and record the disposition of each matter referred to the United States Attorney.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1109_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the United States Attorney declines in writing to prosecute, the Office shall resume its processing of the complaint, and thereafter the Executive Director may dismiss the complaint in accordance with §§ 5-1107 and 5-1108, conciliate the complaint, refer the complaint to mediation, or refer the complaint for investigation, as appropriate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

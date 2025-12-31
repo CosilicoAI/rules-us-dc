@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4804.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4804.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4804_14">
+        <akn:num>28-4804.14</akn:num>
+        <akn:heading>Derivatives and options.</akn:heading>
+<akn:subsection eId="subsec_28-4804_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “derivative” means a contract or financial instrument or a combination of contracts and financial instruments which gives a trust the right or obligation to participate in some or all changes in the price of a tangible or intangible asset or group of assets, or changes in a rate, an index of prices or rates, or other market indicator for an asset or a group of assets.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>To the extent that a trustee does not account under § 28-4804.03 for transactions in derivatives, the trustee shall allocate to principal receipts from and disbursements made in connection with those transactions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a trustee grants an option to buy property from the trust, whether or not the trust owns the property when the option is granted, grants an option that permits another person to sell property to the trust, or acquires an option to buy property for the trust or an option to sell an asset owned by the trust, and the trustee or other owner of the asset is required to deliver the asset if the option is exercised, an amount received for granting the option must be allocated to principal. An amount paid to acquire the option shall be paid from principal. A gain or loss realized upon the exercise of an option, including an option granted to a settlor of the trust for services rendered, shall be allocated to principal.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

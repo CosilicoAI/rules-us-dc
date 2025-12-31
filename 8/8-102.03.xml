@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-102.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-102.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_102_03">
+        <akn:num>8-102.03</akn:num>
+        <akn:heading>Establishment of fee.</akn:heading>
+<akn:subsection eId="subsec_8-102_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-102_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-102_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Office of Tax and Revenue shall develop rules for frequency and method for reporting and transmitting the fees, as set forth in subsection (a) of this section, to the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-102_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except to the extent of any inconsistency with this subchapter, the same provisions to Title 47 that are applicable to the gross sales tax shall govern the administration, collection, and enforcement of the fee set forth in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-102_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other law, the Office of Tax and Revenue shall furnish to the District Department of the Environment, upon request, the names, addresses, and whether any fees were collected pursuant to subsection (a) of this section of retail establishments subject to the provisions of this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

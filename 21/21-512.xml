@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-512"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-512/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_512">
+        <akn:num>21-512</akn:num>
+        <akn:heading>Release of voluntary patients.</akn:heading>
+<akn:subsection eId="subsec_21-512_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person accepted for voluntary treatment by a hospital, the Department, or a mental health provider, pursuant to section 21-511 may, at any time, if the person is 18 years of age or over, obtain his or her release from the hospital or other treatment by filing a written request with the chief of service or, in the case of the Department, the chief clinical officer. Within a period of 48 hours after the receipt of the request, the chief of service or the chief clinical officer shall ensure that discharge planning is completed and release the person making the request. A person admitted into treatment pursuant to section 21-511 who is under 18 years of age may, at any time, obtain his or her release from the hospital or other treatment in the same manner, upon the written request of the person’s spouse or domestic partner, parent, or legal guardian. A person under 18 years of age who has sought voluntary outpatient treatment without the consent of a parent or legal guardian may obtain his or her release from that treatment by filing a written request with the chief of service or chief clinical officer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-512_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When the chief of service or chief clinical officer determines that the person voluntarily receiving treatment pursuant to section 21-511 has recovered or that continued treatment of the person is no longer beneficial to the person, or advisable, the chief of service or chief clinical officer may discharge the person from the hospital or from other treatment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-1303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_1303">
+        <akn:num>6-1303</akn:num>
+        <akn:heading>Office of Foreign Missions.</akn:heading>
+<akn:subsection eId="subsec_6-1303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Secretary shall establish an Office of Foreign Missions as an office within the Department of State. The Office shall be headed by a Director, appointed by the President by and with the advice and consent of the Senate, who shall perform his or her functions under the supervision and direction of the Secretary. The Secretary may delegate this authority for supervision and direction of the Director only to the Deputy Secretary of State or an Under Secretary of State. The Director shall have the rank of ambassador. The Director shall be an individual who is a member of the Foreign Service, who has been a member of the Foreign Service for at least 10 years, who has significant administrative experience, and who has served in countries in which the United States has had significant problems in assuring the secure and efficient operations of its missions as the result of the actions of other countries.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>There shall also be a Deputy Director of the Office of Foreign Missions who shall be an individual who has served in the United States intelligence community.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-1303_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Secretary may authorize the Director to:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-502"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-502/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4A_502">
+        <akn:num>28:4A-502</akn:num>
+        <akn:heading>Creditor process served on receiving bank; setoff by beneficiary’s bank.</akn:heading>
+<akn:subsection eId="subsec_28:4A-502_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>As used in this section, “creditor process” means levy, attachment, garnishment, notice of lien, sequestration, or similar process issued by or on behalf of a creditor or other claimant with respect to an account.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-502_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This subsection applies to creditor process with respect to an authorized account of the sender of a payment order if the creditor process is served on the receiving bank. For the purpose of determining rights with respect to the creditor process, if the receiving bank accepts the payment order the balance in the authorized account is deemed to be reduced by the amount of the payment order to the extent the bank did not otherwise receive payment of the order, unless the creditor process is served at a time and in a manner affording the bank a reasonable opportunity to act on it before the bank accepts the payment order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-502_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a beneficiary’s bank has received a payment order for payment to the beneficiary’s account in the bank, the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-502_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Creditor process with respect to a payment by the originator to the beneficiary pursuant to a funds transfer may be served only on the beneficiary’s bank with respect to the debt owed by that bank to the beneficiary. Any other bank served with the creditor process is not obliged to act with respect to the process.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

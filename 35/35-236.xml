@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/35-236"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/35-236/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_35_236">
+        <akn:num>35-236</akn:num>
+        <akn:heading>Subsidy payments authorized; audit; interest credit for advance payment.</akn:heading>
+<akn:subsection eId="subsec_35-236_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Washington Metropolitan Area Transit Authority shall certify to the Mayor, as soon as practicable, following the end of each calendar month:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_35-236_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor, upon receiving any such certification, shall pay the Washington Metropolitan Area Transit Authority, subject to an audit acceptable to the Mayor, the amounts contained therein. The Mayor is authorized to make advance subsidy payments to the Washington Metropolitan Area Transit Authority; provided, that the District of Columbia shall receive an appropriate interest credit from the Washington Metropolitan Area Transit Authority for each such advance payment; and provided further, that the exercise of such authority shall not affect the certification and audit requirements.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

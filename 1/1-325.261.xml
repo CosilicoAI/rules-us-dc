@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.261"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.261/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_261">
+        <akn:num>1-325.261</akn:num>
+        <akn:heading>End Homelessness Fund.</akn:heading>
+<akn:subsection eId="subsec_1-325_261_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a special fund the End Homelessness Fund (“Fund”), which shall be administered by the Department of Human Services in accordance with subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_261_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Fund shall consist of 50% of the revenue from the automated traffic enforcement program, to the extent that the revenue is offset by revenue from a tax imposed by Chapter 39A of Title 47 [§ 47-3931 et seq.] on sales made via the Internet, and interest earned on that revenue, but not to exceed $50 million in a fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_261_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Fund shall be used to end homelessness in the District, as set forth in a plan and legislation prepared by the Director to End Homelessness and the Interagency Council on Homelessness and transmitted to the Council for enactment. No moneys may be used from the Fund to supplant existing funding for programs already in existence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_261_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

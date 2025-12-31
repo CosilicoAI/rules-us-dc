@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:7_302">
+        <akn:num>28:7-302</akn:num>
+        <akn:heading>Through bills of lading and similar documents of title.</akn:heading>
+<akn:subsection eId="subsec_28:7-302_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The issuer of a through bill of lading, or other document of title embodying an undertaking to be performed in part by a person acting as its agent or by a performing carrier, is liable to any person entitled to recover on the bill or other document for any breach by the other person or the performing carrier of its obligation under the bill or other document. However, to the extent that the bill or other document covers an undertaking to be performed overseas or in territory not contiguous to the continental United States or an undertaking including matters other than transportation, this liability for breach by the other person or the performing carrier may be varied by agreement of the parties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-302_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If goods covered by a through bill of lading or other document of title embodying an undertaking to be performed in part by a person other than the issuer are received by that person, the person is subject, with respect to its own performance while the goods are in its possession, to the obligation of the issuer. The person’s obligation is discharged by delivery of the goods to another person pursuant to the bill or other document and does not include liability for breach by any other person or by the issuer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-302_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The issuer of a through bill of lading or other document of title described in subsection (a) of this section is entitled to recover from the performing carrier, or other person in possession of the goods when the breach of the obligation under the bill or other document occurred:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

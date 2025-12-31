@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-751.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-751.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_751_05">
+        <akn:num>6-751.05</akn:num>
+        <akn:heading>Installation.</akn:heading>
+<akn:subsection eId="subsec_6-751_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsections (b) and (c) of this section, the owner of each dwelling unit, hotel, motel, hospital, nursing home, jail, prison, and residential-custodial care facility shall directly wire the smoke detector to the power supply of the building.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In each dwelling unit, hotel, motel, hospital, nursing home, jail, prison, and residential-custodial care facility which is in existence on September 30, 1978, or which is constructed under a building permit issued before October 1, 1978, or which is substantially rehabilitated, the owner may install a smoke detector which operates from a plug-in outlet fitted with a plug restrainer device if the outlet is not controlled by an on-off switch and if the cord connecting the smoke detector with the outlet is not controlled by an on-off switch.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-751_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In each dwelling unit in a structure with only 1 dwelling unit which is in existence on September 30, 1978, or which is constructed under a building permit issued before October 1, 1978, or which is substantially rehabilitated, the owner may install a monitored battery-powered smoke detector.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_623_13">
+        <akn:num>1-623.13</akn:num>
+        <akn:heading>Increase, decrease, or suspension of compensation.</akn:heading>
+<akn:subsection eId="subsec_1-623_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If an individual: (1) Was a minor or employed in a learner’s capacity at the time of injury, and (2) did not have a physical or mental disability before the injury, the Mayor, on review under § 1-623.28 after the time the wage-earning capacity of the individual would probably have increased but for the injury, shall recompute prospectively the monetary compensation payable for disability on the basis of an assumed monthly pay corresponding to the probable increased wage-earning capacity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an individual, without good cause fails to apply for and undergo vocational rehabilitation when so directed under § 1-623.04, the Mayor may review such failure under § 1-623.28. If the Mayor, upon review, finds that in the absence of such failure the wage-earning capacity of the individual would probably have substantially increased, the Mayor may reduce prospectively the monetary compensation of the individual in accordance with what would probably have been his or her wage-earning capacity in the absence of the failure, until such time as the individual in good faith complies with the direction of the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an employee hired after December 31, 1979, without good cause, fails to apply for or undergo vocational rehabilitation when so directed under § 1-623.04, his or her right to compensation under this subchapter shall be suspended until the noncompliance ceases.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

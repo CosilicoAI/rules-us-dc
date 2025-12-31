@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1106"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1106/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1106">
+        <akn:num>19-1106</akn:num>
+        <akn:heading>Multiple beneficiaries; separate custodial trusts; survivorship.</akn:heading>
+<akn:subsection eId="subsec_19-1106_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Beneficial interests in a custodial trust created for multiple beneficiaries are deemed to be separate custodial trusts of equal undivided interests for each beneficiary. Except in a transfer or declaration for use and benefit of spouses or domestic partners, for whom survivorship is presumed, a right of survivorship does not exist unless the instrument creating the custodial trust specifically provides for survivorship.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1106_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Custodial trust property held under this chapter by the same custodial trustee for the use and benefit of the same beneficiary may be administered as a single custodial trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1106_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A custodial trustee of custodial trust property held for more than one beneficiary shall separately account to each beneficiary pursuant to sections 19-1108 and 19-1115 for the administration of the custodial trust.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

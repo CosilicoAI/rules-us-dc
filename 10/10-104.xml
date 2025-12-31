@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_104">
+        <akn:num>10-104</akn:num>
+        <akn:heading>Control of park system; composition thereof.</akn:heading>
+<akn:subsection eId="subsec_10-104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The park system of the District of Columbia is placed under the exclusive charge and control of the Director of the National Park Service, under such regulations as may be prescribed by the President of the United States.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The said park system shall be held to comprise; (1) all public spaces laid down as reservations on the map of 1894 accompanying the annual report for 1894 of the officer in charge of public buildings and grounds; (2) all portions of the space in the streets and avenues of the said District, after the same shall have been set aside by the Council of the District of Columbia for park purposes; provided, that no areas less than 250 square feet between sidewalk lines shall be included within the said park system, and no improvements shall be made in unimproved public spaces in streets between building lines or building lines prolonged until the outlines of such portions as are to be improved as parks shall have been laid out by the Council of the District of Columbia; and provided further, that the said Director is authorized temporarily to turn over the care of any of the parking spaces included in clauses (1) and (2) of this subsection, to private owners of adjoining lands under such regulations as he may prescribe and with the condition that the said private owners shall pay special assessments for improvements contiguous to such parking, under the same regulations as are or may be prescribed for private lands; and provided further, that the Council of the District of Columbia is authorized and directed to denominate portions of streets in the District of Columbia as business streets and to authorize the use, on such portions of streets, for business purposes by abutting property owners, under such general regulations as said Council may prescribe, of so much of the sidewalk and parking as may not be needed, in the judgment of said Council, by the general public, under the following conditions, namely:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

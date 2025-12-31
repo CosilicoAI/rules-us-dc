@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-856"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-856/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_856">
+        <akn:num>31-856</akn:num>
+        <akn:heading>Requests for disclosure.</akn:heading>
+<akn:subsection eId="subsec_31-856_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commissioner, Corporation Counsel, or U.S. Attorney may request, in writing by certified mail, disclosure of an insurance compliance self-evaluative audit document within 30 days after the service of the request. The company that prepared the document or caused the document to be prepared may file with the appropriate court a petition requesting an in camera hearing to determine whether the insurance compliance self-evaluative audit document or portions of the document are privileged or subject to disclosure. Failure by the company to file a petition waives the privilege for that particular document. A company asserting the insurance compliance self-evaluative privilege in response to a request for disclosure under this subsection shall include in its request the information set forth in subsection (d) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-856_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon the filing of a petition under this section, the court shall issue an order scheduling, within 45 days after the filing of the petition, an in camera hearing to determine whether the insurance compliance self-evaluative audit document or portions of the document are privileged or subject to disclosure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-856_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The court, after an in camera review, may require disclosure of material for which the privilege is asserted in accordance with § 31-854 or § 31-855. The court shall compel only the disclosure of those portions of an insurance compliance self-evaluative audit document relevant to issues in dispute in the underlying proceeding. A compelled disclosure shall not be considered to be a public document or be deemed to be a waiver of the privilege for any other civil, criminal, or administrative proceeding. A company unsuccessfully opposing disclosure may apply to the court for an order protecting the document from further disclosure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-856_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A company asserting the privilege in response to a request for disclosure under this section shall provide to the Commissioner, Corporation Counsel, or U.S. Attorney, as the case may be, at the time of filing any objection to the disclosure that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

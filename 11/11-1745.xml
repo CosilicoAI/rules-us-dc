@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1745"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1745/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1745">
+        <akn:num>11-1745</akn:num>
+        <akn:heading>Reports and records.</akn:heading>
+<akn:subsection eId="subsec_11-1745_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Executive Officer shall prepare and publish, subject to the approval of the Joint Committee, the annual report of the District of Columbia court system of the work of the courts and their operations during the preceding year together with any recommendations relating to the courts. The principal purpose of the annual report shall be to provide meaningful and objective information concerning the performance, progress, and problems of the District of Columbia courts. The report shall include narrative comments analyzing the significance of statistical data and shall show trends with regard to the work of such courts, current data on the age and type of pending cases, and methods of disposition of cases. Nothing in this chapter shall prevent the respective chief judges from preparing and publishing any other reports as they may wish.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1745_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Executive Officer shall be responsible for maintaining and safeguarding the records of the courts. Except for those records required by law to be kept under court seal, the Executive Officer shall make the records available at all reasonable times to —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

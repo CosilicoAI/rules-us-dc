@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3404.33"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3404.33/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3404_33">
+        <akn:num>42-3404.33</akn:num>
+        <akn:heading>Limitations on the District as purchaser of a housing accommodation.</akn:heading>
+<akn:subsection eId="subsec_42-3404_33_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the District, or an assignee, purchases a housing accommodation pursuant to this subchapter, the District shall remain subject to all provisions of this chapter as owner of the housing accommodation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_33_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_33_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_33_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If any unit in the housing accommodation was not an affordable unit as defined in § 42-3404.32(c)(2), on the date the offer of sale was issued, the Mayor, or an assignee of the Mayor, shall develop an affordability plan to explore all means whereby the number of affordable units in the housing accommodation may be increased. The Mayor, or an assignee of the Mayor, shall take all practicable steps to increase the number of affordable units in the housing accommodation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

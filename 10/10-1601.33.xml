@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1601.33"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1601.33/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1601_33">
+        <akn:num>10-1601.33</akn:num>
+        <akn:heading>Payment in excess of expenditure limits.</akn:heading>
+<akn:subsection eId="subsec_10-1601_33_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, and in accordance with Council approval of contract CA 16-185, the lease agreement between the District of Columbia Sports and Entertainment Commission and Baseball Expos, L.P., and the Construction Administration Agreement as set forth in the Ballpark Hard and Soft Costs Cap and Ballpark Lease Conditional Approval Temporary Act of 2006, effective June 8, 2006 (D.C. Law 16-115; 53 DCR 2542), and subject to § 10-1601.32, the amount of the hard costs in excess of $300 million and the soft costs in excess of $175,184,218 shall be paid by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1601_33_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The funds required by the bond indenture to finance construction of the ballpark, referred to in subsection (a)(3)(C) of this section, include approximately $37 million of baseball revenue collected in 2005 (plus interest), approximately $30 million of interest earned from the borrowing, and approximately $9 million of premium received on the sale of the bonds. These fees shall not exceed the total expenditure limits set forth in this part.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1601_33_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any revenue derived from development rights on the Ballpark Site by the Anacostia Waterfront Corporation or any District government entity, independent agency, or instrumentality shall not be used for any overruns on the hard and soft costs, but may be used for any overruns on the land acquisition and remediation costs that are documented.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1601_33_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The funds from the sources listed in subsection (a) of this section may be expended to cover any amount of the hard costs in excess of $300 million and any amount of the soft costs in excess of $175,184,218.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

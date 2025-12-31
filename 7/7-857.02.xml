@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-857.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-857.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_857_02">
+        <akn:num>7-857.02</akn:num>
+        <akn:heading>Critical congenital heart disease screening.</akn:heading>
+<akn:subsection eId="subsec_7-857_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every newborn delivered in a hospital, maternity center, or home shall be screened for critical congenital heart disease using pulse oximetry until an alternative test for critical congenital heart disease is adopted by the American Academy of Pediatrics.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-857_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-857_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The screening required by subsection (a) of this section shall be performed in a manner consistent with the standards of the American Academy of Pediatrics for critical congenital heart disease.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

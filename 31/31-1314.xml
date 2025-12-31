@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1314"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1314/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1314">
+        <akn:num>31-1314</akn:num>
+        <akn:heading>Termination of rehabilitation.</akn:heading>
+<akn:subsection eId="subsec_31-1314_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever the Commissioner believes further attempts to rehabilitate an insurer would substantially increase the risk of loss to creditors, policyholders, or the public, or would be futile, the Commissioner may petition the Superior Court of the District of Columbia for an order of liquidation. A petition under this subsection shall have the same effect as a petition under § 31-1315. The Superior Court of the District of Columbia shall permit the directors of the insurer to take any action reasonably necessary to defend against the petition and may order payment from the estate of the insurer of the costs and other expenses of defense as justice may require.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1314_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The protection of the interests of insureds, claimants, and the public requires the timely performance of all insurance policy obligations. If the payment of policy obligations is suspended in substantial part for a period of 6 months at any time after the appointment of the rehabilitator and the rehabilitator has not filed an application for approval of a plan under § 31-1312(e), the rehabilitator shall petition the court for an order of liquidation on grounds of insolvency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1314_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The rehabilitator may at any time petition the Superior Court of the District of Columbia for an order terminating rehabilitation of an insurer. The court shall also permit the directors of the insurer to petition the court for an order terminating rehabilitation of the insurer and may order payment from the estate of the insurer of the costs and other expenses of the petition as justice may require. If the Superior Court of the District of Columbia finds that rehabilitation has been accomplished and that grounds for rehabilitation under § 31-1310 no longer exist, it shall order that the insurer be restored to possession of its property and the control of the business. The Superior Court of the District of Columbia may also make that finding and issue that order at any time upon its own motion.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

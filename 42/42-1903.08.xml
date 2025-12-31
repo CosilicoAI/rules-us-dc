@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1903.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1903_08">
+        <akn:num>42-1903.08</akn:num>
+        <akn:heading>Unit owners’ associations; powers and rights; deemed attorney-in-fact to grant and accept beneficial easements.</akn:heading>
+<akn:subsection eId="subsec_42-1903_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except to the extent expressly prohibited by the condominium instruments, and subject to any restrictions and limitations specified herein, the unit owners’ association shall have the:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except to the extent prohibited by the condominium instruments, and subject to any restrictions and limitations specified therein, the executive board of the unit owners’ association, if any, and if not, then the unit owners’ association itself, shall have the irrevocable power as attorney-in-fact on behalf of all the unit owners and their successors in title to grant easements through the common elements and accept easements benefiting the condominium or any part thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The condominium instruments may not impose any limitation on the power of the unit owners’ association to deal with the declarant that is more restrictive than the limitation imposed on the power of the unit owners’ association to deal with any other person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1903_08_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In the performance of duties, an officer or member of the executive board shall exercise the care required of a fiduciary of the unit owners.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1841.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1841.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1841_03">
+        <akn:num>8-1841.03</akn:num>
+        <akn:heading>Health.</akn:heading>
+<akn:subsection eId="subsec_8-1841_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All commercial guard dogs shall undergo an annual examination by a licensed veterinarian for the purpose of determining whether or not the animal is healthy and fit to work as a commercial guard dog. Upon a determination by a licensed veterinarian that a commercial guard dog is unfit to work, the dog shall not be used to guard, protect, patrol, or defend any commercial premises until the dog is re-examined by the veterinarian. Upon a determination by a licensed veterinarian that a commercial guard dog is permanently unfit to work, the dog shall be immediately retired.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1841_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It shall be unlawful for any individual, business, or entity to cause, allow, use, or train commercial guard dogs that have undergone the surgical procedure of ventricular cordectomy.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

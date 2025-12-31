@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_102">
+        <akn:num>3-102</akn:num>
+        <akn:heading>Membership of the Commission.</akn:heading>
+<akn:subsection eId="subsec_3-102_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commission shall consist of 15 voting members and 5 nonvoting members as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-102_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The appointment of members designated by subsection (a)(1)(G), (H), (I), and (J) of this section shall be made in accordance with the following provisions:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-102_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The voting members of the Commission shall elect a Chairperson.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-102_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Members of the Commission shall serve without compensation, except that the citizen members of the Commission may be compensated at an amount not to exceed $15.00 each day or part thereof for reasonable expenses incurred in the performance of their official duties.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

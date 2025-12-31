@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4804.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4804.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4804_01">
+        <akn:num>28-4804.01</akn:num>
+        <akn:heading>Character of receipts.</akn:heading>
+<akn:subsection eId="subsec_28-4804_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “entity” means a corporation, partnership, limited liability company, regulated investment company, real estate investment trust, common trust fund, or any other organization in which a trustee has an interest other than a trust or estate to which § 28-4804.02 applies, a business or activity to which § 28-4804.03 applies, or an asset-backed security to which § 28-4804.15 applies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this section, a trustee shall allocate to income money received from an entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A trustee shall allocate the following receipts from an entity to principal:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Money is received in partial liquidation:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Money is not received in partial liquidation, nor may it be taken into account under subsection (d)(2) of this section, to the extent that it does not exceed the amount of income tax that a trustee or beneficiary must pay on taxable income of the entity that distributes the money.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_01_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A trustee may rely upon a statement made by an entity about the source or character of a distribution if the statement is made at or near the time of distribution by the entity’s board of directors or other person or group of persons authorized to exercise powers to pay money or transfer property comparable to those of a corporation’s board of directors.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

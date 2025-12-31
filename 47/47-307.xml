@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-307"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-307/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_307">
+        <akn:num>47-307</akn:num>
+        <akn:heading>Submission of control budget.</akn:heading>
+<akn:subsection eId="subsec_47-307_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 14 days of Congressional approval of the appropriated budget of the District, the Mayor shall submit to the Council an act to establish the control budget of the District, including all revenue sources, which shall be presented in responsibility center detail; provided, that nothing in this section may be construed as giving the Council the power to modify any action taken by the Congress in the appropriations act for the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-307_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Prior to the obligation during the fiscal year of any grant funds awarded subsequent to the start of the fiscal year, the Mayor shall submit to the Council an act to establish such grant award as part of the control budget of the District, and such grant award shall be submitted in responsibility center detail.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

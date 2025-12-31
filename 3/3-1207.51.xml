@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1207.51"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1207.51/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1207_51">
+        <akn:num>3-1207.51</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_3-1207_51_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Board” means the Board of Pharmacy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1207_51_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Direct supervision” means, with respect to the supervision of a pharmacy technician or pharmacy technician trainee, that a licensed pharmacist is:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1207_51_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Pharmacy technician trainee” means a person enrolled in a Board- approved training program who may perform the duties of a registered pharmacy technician under the direct supervision of a pharmacist in a licensed pharmacy in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1207_51_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Registered pharmacy technician” means a person who is registered with the Board as a pharmacy technician.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

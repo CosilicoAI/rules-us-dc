@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-231.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-231.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_231_12">
+        <akn:num>24-231.12</akn:num>
+        <akn:heading>Workers’ compensation insurance.</akn:heading>
+<akn:subsection eId="subsec_24-231_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The requirements of Chapter 15 of Title 32 shall apply to prisoners employed in any prison industries program that is approved under the PIE Program. Nothing in this section shall be construed as requiring Workers’ Compensation Act or comparable insurance benefits for prisoners employed in a prison industry that is not federally approved under that program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-231_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Director or the parties to a prison industry joint venture agreement may purchase insurance to protect against the risk of loss, theft, or damage of finished or unfinished products produced by a prison industry wherever these products, equipment, materials, and supplies are located while in the possession of the Department or a prison industry, in transit to or from the possession of the Department or a correctional industry, or in storage. The cost of the insurance shall be paid from the Fund if such payment is authorized by Congress in an appropriations act.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

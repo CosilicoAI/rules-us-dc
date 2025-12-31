@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-910"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-910/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_910">
+        <akn:num>16-910</akn:num>
+        <akn:heading>Assignment and equitable distribution of property.</akn:heading>
+<akn:subsection eId="subsec_16-910_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>assign to each party his or her sole and separate property acquired prior to the marriage or domestic partnership, and his or her sole and separate property acquired during the marriage or domestic partnership by gift, bequest, devise, or descent, and any increase thereof, or property acquired in exchange therefor; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-910_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>value and distribute all other property and debt accumulated during the marriage or domestic partnership that has not been addressed in a valid antenuptial or postnuptial agreement or a decree of legal separation, regardless of whether title is held individually or by the parties in a form of joint tenancy or tenancy by the entireties, in a manner that is equitable, just, and reasonable, after considering all relevant factors, including, but not limited to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-910_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Court is not required to value a pension or annuity if it enters an order distributing future periodic payments.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

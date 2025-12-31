@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.21"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.21/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_301_21">
+        <akn:num>1-301.21</akn:num>
+        <akn:heading>Subpoena power.</akn:heading>
+<akn:subsection eId="subsec_1-301_21_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_21_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any willful false swearing on the part of any witness before the Mayor of the District of Columbia as to any material fact shall be deemed perjury and shall be punished in the manner prescribed by law for such offense.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_21_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If any witness having been personally summoned shall neglect or refuse to obey the subpoena issued pursuant to subsection (a) of this section, then, in that event, the Mayor of the District of Columbia may report that fact to the Superior Court of the District of Columbia or one of the judges thereof and said Court, or any judge thereof, is empowered to compel obedience to said subpoena to the same extent as witnesses may be compelled to obey the subpoenas of that Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_21_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor of the District of Columbia is authorized to administer oaths to witnesses summoned in any investigation or examination as set out in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

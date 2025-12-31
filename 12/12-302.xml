@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/12-302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/12-302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_12_302">
+        <akn:num>12-302</akn:num>
+        <akn:heading>Disability of plaintiff.</akn:heading>
+<akn:subsection eId="subsec_12-302_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided by subsection (b) of this section, when a person entitled to maintain an action is, at the time the right of action accrues:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_12-302_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When a person entitled to maintain an action for the recovery of lands, tenements, or hereditaments, or upon an instrument under seal, is under any of the disabilities specified by subsection (a) of this section at the time the right of action accrues, he or his proper representative, except where otherwise specified herein, may bring the action within 5 years after the disability is removed, and not thereafter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-261.02b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-261.02b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_261_02b">
+        <akn:num>24-261.02b</akn:num>
+        <akn:heading>Health professionals transferring from District government employment to employment by a private operator.</akn:heading>
+<akn:subsection eId="subsec_24-261_02b_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The health professional is transferred from employment by the District government to employment by a private operator to perform essentially the same services as the person performed while employed by the District government and continues to perform such services for the duration of his or her employment by a private operator; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-261_02b_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The health professional is covered by § 3-1201.04.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

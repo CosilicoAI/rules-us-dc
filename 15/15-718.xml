@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/15-718"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/15-718/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_15_718">
+        <akn:num>15-718</akn:num>
+        <akn:heading>Juror fees.</akn:heading>
+<akn:subsection eId="subsec_15-718_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A juror serving in the Superior Court of the District of Columbia shall be paid an attendance fee of $30 for each day of actual attendance at the place of trial or hearing, except that jurors employed by a federal, state, or local government or by a private employer who pays regular compensation during the period of jury service shall not be paid an attendance fee. A person summoned for petit jury service in the Superior Court of the District of Columbia who does not serve on the petit jury shall not be paid an attendance fee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-718_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A travel allowance not to exceed $2 per day shall be paid to all jurors serving in the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-718_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For jury service of 5 days or less, petit or grand jurors employed full-time in the District of Columbia shall be entitled to their usual compensation less the fee received for jury service. A person shall not be considered a full-time employed juror on any day of jury service in which that person:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-718_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If an employer fails to pay an employee in violation of subsection (c) of this section, the employee may bring a civil action for recovery of wages or salary lost as a result of the violation. If an employee prevails in an action under this subsection, that employee shall be entitled to reasonable attorney fees fixed by the court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_15-718_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Board of Judges of the Superior Court may increase the attendance fee and travel allowance provided by this section and, in such event, shall publish the new fee or allowance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

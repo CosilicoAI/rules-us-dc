@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-201.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-201.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_201_04">
+        <akn:num>29-201.04</akn:num>
+        <akn:heading>Required notice or approval.</akn:heading>
+<akn:subsection eId="subsec_29-201_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A domestic or foreign entity that is required to give notice to, or obtain the approval of, a governmental agency or District Government Official to be a party to a merger shall give the notice, or obtain the approval, to be a party to an interest exchange, conversion, or domestication.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-201_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Property held for a charitable purpose under the law of the District by a domestic or foreign entity immediately before a transaction under this chapter becomes effective shall not, as a result of the transaction, be diverted from the objects for which it was donated, granted, devised, or otherwise transferred, unless, to the extent required by or pursuant to the law of the District concerning cy pres or other law dealing with nondiversion of charitable assets, the entity obtains an appropriate order of the Superior Court specifying the disposition of the property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-201_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A bequest, devise, gift, grant, or promise contained in a will or other instrument of donation, subscription, or conveyance that is made to a merging entity that is not the surviving entity and that takes effect or remains payable after the merger inures to the surviving entity. A trust obligation that would govern property if transferred to the nonsurviving entity applies to property that is transferred to the surviving entity under this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

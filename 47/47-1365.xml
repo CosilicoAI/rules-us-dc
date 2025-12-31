@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1365"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1365/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1365">
+        <akn:num>47-1365</akn:num>
+        <akn:heading>Tenant or person with less than fee simple interest paying taxes or levies to have credit out of rents.</akn:heading>
+<akn:subsection eId="subsec_47-1365_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The payor is bound either by operation of law or by contract to pay the taxes;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1365_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The real property is the subject of receivership proceedings; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1365_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The Mayor has taken possession of the real property in accordance with § 47-1363.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

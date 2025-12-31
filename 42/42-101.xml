@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_101">
+        <akn:num>42-101</akn:num>
+        <akn:heading>No acknowledgment of deed by attorney.</akn:heading>
+<akn:subsection eId="subsec_42-101_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A general or specific power of attorney executed by a person authorizing an attorney-in-fact to sell, grant, or release any interest in real property shall be executed in the same manner as a deed and shall be recorded with or prior to the deed executed pursuant to the power of attorney. If the power of attorney is recorded prior to the deed executed pursuant to the power of attorney, the deed being executed pursuant to the power of attorney shall include a recording date and instrument number reference of where the original recorded power of attorney is located in the Office of the Recorder of Deeds for the District of Columbia. All powers of attorney executed in accordance with this section shall contain on the top of the front page, in bold and capital letters, the following words:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-101_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person with a general or specific power of attorney executing a deed for another shall sign and acknowledge the deed as attorney-in-fact.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-101_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A power of attorney is deemed to be revoked when the instrument containing the revocation is recorded in the Office of the Recorder of Deeds for the District of Columbia. A person revoking a power of attorney shall sign and acknowledge the instrument containing the revocation. Notwithstanding the above, any attorney-in-fact receiving written notice of the revocation by the party who granted the power of attorney shall cease from any further action as attorney-in-fact on behalf of the party who granted the power of attorney. The instrument of revocation should reference the recording date and instrument number of the original power of attorney. A person granting a power of attorney may revoke the power to convey real property without affecting any other powers contained in the original power of attorney by reciting in the revocation that the revocation of the power to convey real property shall not affect the remaining powers granted in the original power of attorney.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

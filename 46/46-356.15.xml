@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-356.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-356.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_356_15">
+        <akn:num>46-356.15</akn:num>
+        <akn:heading>Jurisdiction to modify child-support order of foreign country.</akn:heading>
+<akn:subsection eId="subsec_46-356_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 46-357.11, if a foreign country lacks or refuses to exercise jurisdiction to modify its child-support order pursuant to its laws, a tribunal of the District may assume jurisdiction to modify the child-support order and bind all individuals subject to the personal jurisdiction of the tribunal whether the consent to modification of a child-support order otherwise required of the individual pursuant to § 46-356.11 has been given or whether the individual seeking modification is a resident of the District or of the foreign country.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-356_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An order issued by a tribunal of the District modifying a foreign child-support order pursuant to this section is the controlling order.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

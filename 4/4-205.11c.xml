@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.11c"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.11c/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_205_11c">
+        <akn:num>4-205.11c</akn:num>
+        <akn:heading>Human impact statement.</akn:heading>
+<akn:subsection eId="subsec_4-205_11c_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The number of families affected;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_11c_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The number of children affected in the following age categories;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_11c_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>A sample of at least 100 families, including a consideration of the children regarding:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_11c_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The number of service providers providing training programs based on specific performance-based measures, including:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

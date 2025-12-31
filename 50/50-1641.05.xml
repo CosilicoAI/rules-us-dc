@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1641.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1641.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1641_05">
+        <akn:num>50-1641.05</akn:num>
+        <akn:heading>Residential building bicycle parking requirements.</akn:heading>
+<akn:subsection eId="subsec_50-1641_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1641_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1641_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall identify categories that are eligible for appropriate exemption or reduced level of compliance. The categories include “elderly housing,” “assisted living facilities,” and “nursing homes” as defined in § 44-501.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1641_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any residential buildings that have been exempted from the regulation due to the nature of the use of the building shall provide a minimum number of bicycle parking spaces equal to at least 5% of the number of people employed at the building.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3609"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3609/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3609">
+        <akn:num>31-3609</akn:num>
+        <akn:heading>Incontestability period.</akn:heading>
+<akn:subsection eId="subsec_31-3609_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a policy or certificate has been in force for less than 6 months, an insurer may rescind a long-term care insurance policy or certificate or deny an otherwise valid long-term care insurance claim upon a showing of misrepresentation that is material to the acceptance for coverage.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3609_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a policy or certificate has been in force for at least 6 months, but less than 2 years, an insurer may rescind a long-term care insurance policy or certificate or deny an otherwise valid long-term care insurance claim upon a showing of misrepresentation that is both material to the acceptance for coverage and which pertains to the condition for which benefits are sought.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3609_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After a policy or certificate has been in force for 2 years, it shall not be contestable upon the grounds of misrepresentations alone. The policy or certificate may be contested only upon a showing that the insured knowingly and intentionally misrepresented relevant facts relating to the insured’s health.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3609_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3609_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If an insurer has paid benefits under a long-term care insurance policy or certificate, the benefit payments may not be recovered by the insurer in the event that the policy or certificate is rescinded.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3609_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

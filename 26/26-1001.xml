@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1001"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1001/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1001">
+        <akn:num>26-1001</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_26-1001_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Applicant” means a person filing an application for a license under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Authorized delegate” means an entity designated by the licensee under the provisions of this chapter to sell or issue payment instruments or engage in the business of transmitting money on behalf of a license.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Control” means ownership of, or the power to vote, 25% or more of the outstanding voting securities of a licensee or controlling person. For purposes of determining the percentage of a licensee controlled by any person, there shall be aggregated with the person’s interest the interest of any other person controlled by such person or by any spouse, parent, or child of such person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Controlling person” means any person in control of a licensee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Electronic Instrument” means a card or other tangible object for the transmission or payment of money (A) which contains a microprocessor chip, magnetic stripe, or other means for the storage of information; (B) that is prefunded; and (C) for which the value is decremented upon each use. It does not include a card or other tangible object that is redeemable by the issuer in the issuer’s goods or services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Executive Officer” means the licensee’s president, chairman of the executive committee, senior officer responsible for the licensee’s business, chief financial officer, or any other persons who perform similar functions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Key shareholder” means any person, or group of persons acting in concert, who owns 25% or more of any voting class of an applicant’s stock.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Licensee” means a person licensed under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Material litigation” means any litigation that, according to generally accepted accounting principles, is deemed significant to an applicant’s or licensee’s financial health and would be required to be referenced in that entity’s annual audited financial statements, report to shareholders, or similar document.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Money transmission” means the sale or issuance of payment instruments or engaging in the business of receiving money for transmission or transmitting money within the United States, or to locations abroad, by any and all means, including but not limited to payment instrument, wire, facsimile, or electronic transfer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Outstanding payment instrument” means any payment instrument issued by the licensee which:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“Payment instrument” means any written or electronic check, draft, money order, travelers check, or other electronic or written instrument or order for the transmission or payment of money which is sold or issued to one or more persons, whether or not such instrument is negotiable. The term “payment instrument” does not include any credit card voucher, any letter of credit, or any instrument which is redeemable by the issuer in goods or services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“Permissible investments” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“Remit” means either to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1001_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“Superintendent” means the Superintendent of the Office of Banking and Financial Institutions [Commissioner of the Department of Insurance, Securities, and Banking].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

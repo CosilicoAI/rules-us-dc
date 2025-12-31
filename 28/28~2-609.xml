@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-609"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-609/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_609">
+        <akn:num>28:2-609</akn:num>
+        <akn:heading>Right to adequate assurance of performance.</akn:heading>
+<akn:subsection eId="subsec_28:2-609_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>A contract for sale imposes an obligation on each party that the other’s expectation of receiving due performance will not be impaired. When reasonable grounds for insecurity arise with respect to the performance of either party the other may in writing demand adequate assurance of due performance and until he receives such assurance may if commercially reasonable suspend any performance for which he has not already received the agreed return.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-609_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Between merchants the reasonableness of grounds for insecurity and the adequacy of any assurance offered shall be determined according to commercial standards.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-609_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Acceptance of any improper delivery or payment does not prejudice the aggrieved party’s right to demand adequate assurance of future performance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-609_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>After receipt of a justified demand failure to provide within a reasonable time not exceeding thirty days such assurance of due performance as is adequate under the circumstances of the particular case is a repudiation of the contract.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

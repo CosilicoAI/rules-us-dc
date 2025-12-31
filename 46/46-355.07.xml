@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-355.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-355.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_355_07">
+        <akn:num>46-355.07</akn:num>
+        <akn:heading>Administrative enforcement of orders.</akn:heading>
+<akn:subsection eId="subsec_46-355_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A party or support enforcement agency seeking to enforce a support order or an income-withholding order, or both, issued in another state or a foreign support order may send the documents required for registering the order to a support enforcement agency of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-355_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon receipt of the documents, the support enforcement agency, without initially seeking to register the order, shall consider and, if appropriate, use any administrative procedure authorized by the law of the District to enforce a support order or an income-withholding order, or both. If the obligor does not contest administrative enforcement, the order need not be registered. If the obligor contests the validity or administrative enforcement of the order, the support enforcement agency shall register the order pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

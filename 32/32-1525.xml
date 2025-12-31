@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1525"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1525/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1525">
+        <akn:num>32-1525</akn:num>
+        <akn:heading>Hearings before Mayor.</akn:heading>
+<akn:subsection eId="subsec_32-1525_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In making an investigation or inquiry or conducting a hearing the Mayor shall not be bound by common law or statutory rules of evidence or by technical or formal rules of procedure, except as provided by this chapter, but may make such investigation or inquiry or conduct such hearing in such manner as to best ascertain the rights of the parties. Prior to the hearing before the Mayor the parties may conduct such discovery, including but not limited to the use of interrogatories and depositions as, in the opinion of the Mayor, will be helpful in determining the rights of the parties. Declarations of a deceased employee concerning the injury in respect of which the investigation or inquiry is being made or the hearing conducted shall be received in evidence and shall, if corroborated by other evidence, be sufficient to establish the injury.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1525_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Hearings before the Mayor shall be open to the public and shall be reported stenographically or by such other method capable of producing an accurate transcript. The Mayor shall by regulation provide for the preparation of a record of the hearings and other proceedings before the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

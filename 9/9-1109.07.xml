@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-1109.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-1109.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_1109_07">
+        <akn:num>9-1109.07</akn:num>
+        <akn:heading>Authorization for a District program.</akn:heading>
+<akn:subsection eId="subsec_9-1109_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the Mayor at any time determines that the agreement authorized by § 9-1109.02 is not in the best interest of the District, the Mayor may terminate the District’s participation in the agreement and its duty to perform the responsibilities set out in § 9-1109.04(5) within the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-1109_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Mayor assumes the responsibilities set out in § 9-1109.04(5) pursuant to a determination made under subsection (a) of this section, the Mayor may promulgate any necessary rules.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

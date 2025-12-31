@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1005"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1005/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1005">
+        <akn:num>26-1005</akn:num>
+        <akn:heading>Permissible investments and statutory trust.</akn:heading>
+<akn:subsection eId="subsec_26-1005_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each licensee under this chapter shall at all times possess permissible investments having an aggregate market value, calculated in accordance with generally accepted accounting principles, of not less than the aggregate face amount of all outstanding payment instruments issued or sold by the licensee in the United States. This requirement may be waived by the Superintendent [Commissioner] if the dollar volume of a licensee’s outstanding payment instruments does not exceed the bond or other security devices posted by the licensee pursuant to § 26-1007.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1005_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Permissible investments, even if commingled with other assets of the licensee, shall be deemed by operation of law to be held in trust for the benefit of the purchasers and holders of the licensee’s outstanding payment instruments in the event of the bankruptcy of the licensee.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

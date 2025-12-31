@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-705"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-705/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_705">
+        <akn:num>11-705</akn:num>
+        <akn:heading>Assignment of judges; divisions; hearings.</akn:heading>
+<akn:subsection eId="subsec_11-705_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Judges of the court shall sit on the court and its divisions in such order and at such times as the court directs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-705_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Cases and controversies shall be heard and determined by divisions of the court unless a hearing or a rehearing before the court in banc is ordered. Each division of the court shall consist of three judges.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-705_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A hearing before the court in banc may be ordered by a majority of the judges of the court in regular active service. The court in banc for a hearing shall consist of the judges of the court in regular active service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-705_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A rehearing before the court in banc may be ordered by a majority of the judges of the court in regular active service. The court in banc for a rehearing shall consist of the judges of the court in regular active service, except that a retired judge may sit as a judge of the court in banc in the rehearing of a case or controversy if the judge sat on the court or a division of the court at the original hearing thereof.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-1204"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-1204/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_1204">
+        <akn:num>48-1204</akn:num>
+        <akn:heading>Substance Abuse Prevention and Treatment Fund.</akn:heading>
+<akn:subsection eId="subsec_48-1204_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a special fund the Substance Abuse Prevention and Treatment Fund (“Fund”), which shall be administered by the Department of Behavioral Health in accordance with subsections (c) and (d) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-1204_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Fund shall consist of revenue from the payment of fines collected pursuant to § 48-1203.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-1204_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Fund shall be used for substance abuse prevention and treatment efforts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-1204_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

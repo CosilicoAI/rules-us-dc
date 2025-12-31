@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-614"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-614/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_614">
+        <akn:num>28:9-614</akn:num>
+        <akn:heading>Contents and form of notification before disposition of collateral: consumer-goods transaction.</akn:heading>
+<akn:subsection eId="subsec_28:9-614_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>A notification of disposition must provide the following information:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-614_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A particular phrasing of the notification is not required.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-614_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The following form of notification, when completed, provides sufficient information:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-614_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>A notification in the form of paragraph (3) is sufficient, even if additional information appears at the end of the form.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-614_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>A notification in the form of paragraph (3) is sufficient, even if it includes errors in information not required by paragraph (1) of this subsection, unless the error is misleading with respect to rights arising under this article.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-614_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>If a notification under this section is not in the form of paragraph (3) of this subsection, law other than this article determines the effect of including information not required by paragraph (1) of this subsection.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

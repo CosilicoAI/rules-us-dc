@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1702"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1702/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1702">
+        <akn:num>50-1702</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_50-1702_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Child restraint seat” means any motor vehicle restraint system which has been designed to protect children and has been approved pursuant to § 
+      50-1704
+      .</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1702_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Operator” means a person who drives or is in actual physical control of a vehicle.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1702_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Properly restrained,” when used in reference to the use of a safety belt, means secured with the lap portion of a safety belt which is provided in a motor vehicle; and when used in reference to the use of a child restraint seat, means secured in a child restraint seat which itself has been fastened to the motor vehicle by a safety belt and in which all securing straps are being used.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1702_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Transport” means to have a child of less than 16 years of age as a passenger in a motor vehicle while the operator is seated in the driver position and the motor vehicle is either parked or in motion.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1702_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Motor vehicle” means any device with more than 3 wheels and a seating capacity of 8 or fewer passengers, exclusive of the operator, which is propelled by an internal-combustion engine, electricity, or steam, and which is designed, used, or maintained for passenger or recreational purposes, or which is designed, used, or maintained for transporting freight, merchandise, or other commercial loads or property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-701.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-701.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_701_07">
+        <akn:num>29-701.07</akn:num>
+        <akn:heading>Effect of partnership agreement; nonwaivable provisions.</akn:heading>
+<akn:subsection eId="subsec_29-701_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (b) of this section, the partnership agreement shall govern relations among the partners and between the partners and the partnership. To the extent the partnership agreement does not otherwise provide, this chapter shall govern relations among the partners and between the partners and the partnership.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A partnership agreement shall not:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_07_A">
+      <akn:num>(A)</akn:num>
+      <akn:content><akn:p>Registered agents; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to subsection (b) of this section, but without limiting other terms that may be included in a partnership agreement, the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-701_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The court shall decide as a matter of law any claim made under subsection (b)(7) or (c)(2) of this section that a term of a partnership agreement is manifestly unreasonable. The court:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

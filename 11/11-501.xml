@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-501"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-501/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_501">
+        <akn:num>11-501</akn:num>
+        <akn:heading>Civil jurisdiction.</akn:heading>
+<akn:subsection eId="subsec_11-501_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Any civil action or other matter begun in the court before the effective date of the District of Columbia Court Reorganization Act of 1970 other than any matter over which the Superior Court of the District of Columbia takes jurisdiction under section 11-921(a)(4)(G) or 11-921(a)(5)(B).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-501_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>During the eighteen-month period beginning on such effective date, any civil action or other matter which is brought under —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-501_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>During the thirty-month period beginning on such effective date, any civil action or other matter —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-501_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Any civil action (other than a matter over which the Superior Court of the District of Columbia has jurisdiction under paragraph (3) or (4) of section 11-921(a)) begun in the court during the thirty-month period beginning on such effective date wherein the amount in controversy exceeds $50,000.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

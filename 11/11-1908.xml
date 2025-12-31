@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1908"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1908/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1908">
+        <akn:num>11-1908</akn:num>
+        <akn:heading>Exclusion from jury service.</akn:heading>
+<akn:subsection eId="subsec_11-1908_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to the provisions of this section and of sections 11-1903, 11-1906, and 11-1909, no individual or class of individuals may be disqualified, excluded, excused, or exempt from service as a juror.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1908_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An individual summoned for jury service may be: (1) excluded by the Court on the ground that that individual may be unable to render impartial jury service or that his or her service as a juror would be likely to disrupt the proceedings; (2) excluded upon peremptory challenge as provided by law; (3) excluded pursuant to the procedure specified by law upon a challenge by any party for good cause shown; or (4) excluded upon determination by the Court that his or her service as a juror would be likely to threaten the secrecy of the proceedings, or otherwise adversely affect the integrity of jury deliberations. No person shall be excluded under clause (4) of this subsection unless the judge, in open Court, determines that such exclusion is warranted and that exclusion of that individual will not be inconsistent with sections 11-1901 and 11-1903 of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1908_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An individual excluded from a jury shall be eligible to sit on another jury if the basis for the initial exclusion would not be relevant to his or her ability to serve on such other jury. The procedures for challenges to and review of exclusions from jury service shall be set forth in the jury system plan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

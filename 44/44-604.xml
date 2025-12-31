@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-604"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-604/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_604">
+        <akn:num>44-604</akn:num>
+        <akn:heading>Charitable trusts.</akn:heading>
+<akn:subsection eId="subsec_44-604_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the Attorney General for the District of Columbia determines, pursuant to § 44-603(12), that the charitable assets of a healthcare entity have not been placed in a charitable trust controlled independently of the for-profit entity, or other parties to the conversion, and used for appropriate charitable purposes consistent with the healthcare entity’s purposes or operation in the affected community, the Attorney General for the District of Columbia shall ensure that a charitable trust is established.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-604_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The governance of any charitable trust established to safeguard assets subject to the provisions of this chapter shall be subject to review by the Attorney General for the District of Columbia, who shall ensure the following: that the governance of the charitable trust is broadly based in the community historically served by the healthcare entity; that the participation on the board of the charitable trust be persons involved in negotiating the conversion shall be limited; that such limitations may take the form of restrictions on the number of representatives or their length of services; and that the charitable activities of the nonprofit person shall not be used to satisfy the charitable obligations of the for-profit entity.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

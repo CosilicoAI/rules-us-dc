@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-725"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-725/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_725">
+        <akn:num>1-725</akn:num>
+        <akn:heading>Reduction in federal payment to Police Officers and Fire Fighters’ Retirement Fund resulting from disability retirements.</akn:heading>
+<akn:subsection eId="subsec_1-725_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-725_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board shall transmit a copy of each such report by the enrolled actuary under subsection (a) of this section to the Speaker of the House of Representatives, the President pro tempore of the Senate, the chairman of the Committee on Governmental Affairs of the Senate, the chairman of the Committee on the District of Columbia of the House of Representatives, the chairman of the Committee on Appropriations of the Senate, the chairman of the Committee on Appropriations of the House of Representatives, the Mayor of the District of Columbia, and the Council of the District of Columbia, not later than March 31st of the calendar year in which the report is made, and shall submit comments on such report.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-725_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

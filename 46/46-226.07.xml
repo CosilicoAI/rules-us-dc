@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-226.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-226.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_226_07">
+        <akn:num>46-226.07</akn:num>
+        <akn:heading>Administrative enforcement in interstate cases.</akn:heading>
+<akn:subsection eId="subsec_46-226_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The IV-D agency shall respond within 5 business days to a request made by another state to enforce a support order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-226_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The IV-D agency may request the child support agency of a state or jurisdiction outside of the District of Columbia established pursuant to title IV, part D of the Social Security Act, approved January 4, 1975 (88 Stat. 2351; 42 U.S.C. § 651et seq.) to enforce a support order entered in the District of Columbia or in another state or jurisdiction through high-volume automated administrative enforcement. The request shall include sufficient information to enable the jurisdiction to which the request is transmitted to compare the information about the case to the information in that jurisdiction’s database.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-226_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A request by the IV-D agency to another jurisdiction under subsection (b) of this section or a request to the IV-D agency under subsection (a) of this section shall constitute a certification by the requesting jurisdiction of the amount of arrears accrued under the support order. The request shall also constitute a certification that the requesting jurisdiction has complied with all procedural due process requirements that apply to the case.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-226_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The IV-D agency shall maintain records of the number of requests received under this section and the number of cases for which the IV-D agency collected support in response to the requests and the amount collected.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-226_07_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a jurisdiction provides assistance to another jurisdiction pursuant to this section, neither jurisdiction shall consider the case to be transferred to the case load of the other jurisdiction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-226_07_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The IV-D agency shall use high-volume automated administrative enforcement, to the same extent as used for intra-state cases, in response to a request made by another state to enforce a support order, and shall promptly report the results of the enforcement procedures to the requesting state. The term “high-volume automated administrative enforcement”, as used in this section, means the use of automated data processing to search various data bases to determine whether information is available regarding a parent who owes a child support obligation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

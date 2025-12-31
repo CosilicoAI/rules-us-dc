@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-251.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-251.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_251_01">
+        <akn:num>24-251.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_24-251_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The term “Department” means the District of Columbia Department of Corrections.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-251_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The term “Director” means the Director of the Department of Corrections, or his designated agent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-251_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The term “furlough” means any extension of the limits of the place of confinement of a sentenced prisoner for the purposes outlined in § 24-251.03, and when said purposes are in agreement with the goals of § 24-211.02 when the person sentenced is not escorted by a United States marshal or an officer or employee of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-251_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The term “minimum custody status” means that status of an individual who:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-251_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The term “resident” means an individual confined, after conviction and sentencing, in an institution or facility of the District of Columbia operated by the Department of Corrections.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-251_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>The term “committee” means an institutional review committee established pursuant to § 24-251.06.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

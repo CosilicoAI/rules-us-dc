@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-506"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-506/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_506">
+        <akn:num>19-506</akn:num>
+        <akn:heading>Exceptions.</akn:heading>
+<akn:subsection eId="subsec_19-506_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The governing instrument contains language dealing explicitly with simultaneous deaths or deaths in a common disaster and that language is operable under the facts of the case;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-506_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The governing instrument expressly indicates that an individual is not required to survive an event, including the death of another individual, by any specified period or expressly requires the individual to survive the event for a specified period, but survival of the event or the specified period must be established by clear and convincing evidence;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-506_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The imposition of a 120-hour requirement of survival would cause a nonvested property interest or a power of appointment to fail to qualify for validity under section 19-901(a) (1), (b) (1), or (c) (1) or to become invalid under section 19-901(a) (2), (b) (2), or (c) (2), but survival must be established by clear and convincing evidence; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-506_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The application of a 120-hour requirement of survival to multiple governing instruments would result in an unintended failure or duplication of a disposition, but survival must be established by clear and convincing evidence.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

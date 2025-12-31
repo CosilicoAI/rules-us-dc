@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1202"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1202/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1202">
+        <akn:num>26-1202</akn:num>
+        <akn:heading>Authorization of regional acquisitions.</akn:heading>
+<akn:subsection eId="subsec_26-1202_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A regional association, regional savings and loan holding company, District association, or District savings and loan holding company may acquire a District association or District savings and loan holding company on the approval of the Superintendent [Commissioner], if and only if, each of the following requirements is met:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1202_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to the provisions of this section, a District association organized under the laws of the District may apply to the Superintendent [Commissioner] to consolidate or merge with, transfer all or substantially all of its assets to, or effect a statutory merger with a regional association.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1202_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

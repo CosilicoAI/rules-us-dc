@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4005"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4005/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4005">
+        <akn:num>16-4005</akn:num>
+        <akn:heading>Beginning and concluding collaborative law process.</akn:heading>
+<akn:subsection eId="subsec_16-4005_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A collaborative law process begins when the parties sign a collaborative law participation agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4005_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The tribunal may not order a party to participate in a collaborative law process over that party’s objection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4005_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A collaborative law process is concluded by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4005_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A collaborative law process terminates:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4005_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A party’s collaborative lawyer shall give prompt notice to all parties in a record of a discharge or withdrawal.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4005_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A party may terminate a collaborative law process with or without cause.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4005_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>Notwithstanding the discharge or withdrawal of a collaborative lawyer, a collaborative law process continues, if not later than 30 days after the date that the notice of the discharge or withdrawal of a collaborative lawyer required by subsection (e) of this section is sent to the parties:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4005_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>A collaborative law process does not conclude if, with the consent of the parties, a party requests the tribunal to approve a resolution of the collaborative matter or any part thereof as evidenced by a signed record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4005_i">
+      <akn:num>(i)</akn:num>
+      <akn:content><akn:p>A collaborative law participation agreement may provide additional methods of concluding a collaborative law process.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

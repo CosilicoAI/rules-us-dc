@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-855"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-855/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_855">
+        <akn:num>32-855</akn:num>
+        <akn:heading>Limitations.</akn:heading>
+<akn:subsection eId="subsec_32-855_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter requires an employer to recognize a particular labor organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-855_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter requires an employer to enter into a collective bargaining agreement establishing the substantive terms and conditions of employment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-855_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This chapter is not intended to, and shall not be interpreted to, enact or express any generally applicable policy regarding labor-management relations or to regulate those relations in any way.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-855_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This chapter is not intended to favor any particular outcome in the determination of employee preference regarding union representation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-855_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter permits or requires the District or any employer to enter into any agreement in violation of the National Labor Relations Act of 1935, approved July 5, 1935 (49 Stat. 449; 29 U.S.C. § 151 et seq.).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

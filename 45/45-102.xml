@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/45-102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/45-102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_45_102">
+        <akn:num>45-102</akn:num>
+        <akn:heading>District of Columbia Code; preparation and publication; printing.</akn:heading>
+<akn:subsection eId="subsec_45-102_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After publication by the Law Revision Counsel of the fifth annual cumulative supplement to the 1973 Edition of the District of Columbia Code, new editions of the District of Columbia Code (and annual cumulative supplements thereto) shall be prepared and published under the direction of the Council of the District of Columbia and shall set forth the general and permanent laws relating to or in force in the District of Columbia, whether enacted by the Congress or by the Council of the District of Columbia, except such laws as are of application in the District of Columbia by reason of being laws of the United States general and permanent in nature.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_45-102_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>After completion of the printing of the fifth annual cumulative supplement to the 1973 Edition of the District of Columbia Code, the Public Printer shall, as the Council of the District of Columbia may request, either:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

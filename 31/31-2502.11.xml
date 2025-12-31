@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2502.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2502.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2502_11">
+        <akn:num>31-2502.11</akn:num>
+        <akn:heading>Kinds of insurance authorized.</akn:heading>
+<akn:subsection eId="subsec_31-2502_11_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Fire and marine. — On houses, buildings, and all other kinds of property against loss, damage, or damages by fire, lightning, or storm; to insure against loss or damage by water to any goods or premises arising from the breakage or leakage of sprinklers or water pipes; and to make all kinds of insurance against loss of or damage to goods, merchandise, or other property caused by fire, risks of transportation, or navigation, the action of the elements or adverse manifestations of nature, as well as all and every risk or peril to which the subject of insurance may be exposed, against which it is not contrary to public policy to insure, including every insurable interest therein or in the use thereof, or profit or income therefrom, or legal liability therefor, but not to include injury to the person nor loss caused by breach of trust; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2502_11_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Casualty. —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

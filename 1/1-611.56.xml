@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-611.56"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-611.56/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_611_56">
+        <akn:num>1-611.56</akn:num>
+        <akn:heading>Powers.</akn:heading>
+<akn:subsection eId="subsec_1-611_56_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All offices, agencies, and instrumentalities of the District government shall fully cooperate with the Commission and provide requested information and documents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-611_56_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to the availability of appropriations, the Commission may hire or contract for necessary staff and technical assistance or may require any office, agency, or instrumentality of the District government to provide such assistance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-602.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-602.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_602_13">
+        <akn:num>19-602.13</akn:num>
+        <akn:heading>Alteration of rights.</akn:heading>
+<akn:subsection eId="subsec_19-602_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Rights at death under section 19-602.12 are determined by the type of account at the death of a party. The type of account may be altered by written notice given by a party to the financial institution to change the type of account or to stop or vary payment under the terms of the account. The notice must be signed by a party and received by the financial institution during the party’s lifetime.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-602_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A right of survivorship arising from the express terms of the account, section 19-602.12, or a POD designation, may not be altered by will.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

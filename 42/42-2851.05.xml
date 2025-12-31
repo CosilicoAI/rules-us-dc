@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2851.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2851.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2851_05">
+        <akn:num>42-2851.05</akn:num>
+        <akn:heading>Relocation services by Mayor.</akn:heading>
+<akn:subsection eId="subsec_42-2851_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the owner of a federally-assisted housing accommodation discontinues participation in the federal assistance program, the Mayor shall provide relocation services to the tenants of the housing accommodation. The relocation services shall include ascertaining the relocation needs of each household, providing current information on the availability of comparable housing of suitable size, and supplying information concerning federal and District housing programs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2851_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may provide relocation assistance payments of up to $500 per tenant, based on need and pursuant to regulations promulgated by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2851_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A relocation assistance payment provided under this section shall not be considered income of the recipient under § 47-1803.02(a)(2).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

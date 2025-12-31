@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2231.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2231.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2231_14">
+        <akn:num>31-2231.14</akn:num>
+        <akn:heading>Interlocking ownerships, management.</akn:heading>
+<akn:subsection eId="subsec_31-2231_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An insurer may retain, invest in, or acquire the whole or any part of the capital stock of any other insurer, or have a common management with another insurer, unless the retention, investment, acquisition, or common management is inconsistent with another provision of law, or, by reason thereof, the business of the insurers with the public is conducted in a manner which substantially lessens competition generally in the insurance business or tends to create a monopoly.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person otherwise qualified may be a director of 2 or more insurers which are competitors unless the effect is to lessen substantially competition between insurers generally or tends materially to create a monopoly.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

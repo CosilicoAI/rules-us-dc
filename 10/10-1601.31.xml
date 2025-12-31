@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1601.31"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1601.31/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1601_31">
+        <akn:num>10-1601.31</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_10-1601_31_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Ballpark”, “Ballpark Site”, and “MLB Team” shall have the same meanings as provided in § 10-1601.05(a)(1), (2), and (4), respectively.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1601_31_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Bonds” shall have the same meaning as in § 10-1601.03(a)(2).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1601_31_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Hard costs” means the direct construction costs and builders contingency costs, estimated as $295,075,993 and $24,924,007, respectively, in the revised budget for the ballpark transmitted by the District of Columbia Sports and Entertainment Commission to the Council on February 3, 2006, for the construction of the ballpark.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1601_31_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Soft costs” means the soft, ancillary, contingency, completion guarantee fee, and financing fee costs for the construction of the ballpark, excluding the land acquisition, environmental remediation, relocation, and demolition costs, estimated as $117,342,193, and excluding the $24 million utilized for the renovation of RFK Stadium, as reflected in the May 31, 2007 revised budget for the ballpark transmitted by the District of Columbia Sports and Entertainment Commission to the Council on June 15, 2007.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

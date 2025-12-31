@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3702"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3702/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_3702">
+        <akn:num>47-3702</akn:num>
+        <akn:heading>Tax on transfer of taxable estate of residents; amounts; credit; property of resident defined.</akn:heading>
+<akn:subsection eId="subsec_47-3702_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A tax in the amount of the federal credit is imposed on the transfer of the taxable estate having its taxable situs in the District of every resident decedent dying after March 31, 1987, but before January 1, 2016, subject, where applicable, to the credit provided for in subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3702_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>A tax is imposed on the taxable estate of every resident decedent dying after December 31, 2015, as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3702_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For a decedent dying before January 1, 2016, if any real or tangible personal property of a resident is located outside the District and subject to a death tax imposed by another state for which a credit is allowed under § 2011 of the Internal Revenue Code of 1954, the amount of tax due under this section shall be credited with the lesser of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3702_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

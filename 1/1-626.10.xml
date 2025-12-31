@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-626.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-626.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_626_10">
+        <akn:num>1-626.10</akn:num>
+        <akn:heading>Vesting.</akn:heading>
+<akn:subsection eId="subsec_1-626_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The employee’s contribution to the deferred compensation plan under § 1-626.05(2) and the earnings on those contributions shall vest immediately.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-626_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The District’s contributions to the defined contribution plan under § 1-626.05(3) and the earnings on the District’s contributions for each employee shall vest when the employee dies or becomes entitled to disability benefits under the Social Security Act, or in accordance with the following vesting schedule:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-626_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The employee’s interest in the benefits in the defined contribution plan that has not vested in accordance with subsection (b) of this section shall be forfeited after separation from employment. An employee in a defined contribution plan under § 1-626.05(3) who is removed or suspended without pay and later reinstated or restored to duty on the grounds that the removal or suspension was unwarranted or unjustified shall be entitled to resume immediately participation in the defined contribution plan, with appropriate increases made in the Section 401(a) Trust to reflect the District contributions that would have been made had the employee not been removed or suspended. An employee who is otherwise separated from employment and is later reinstated to employment with the District within 1 year of separation shall be entitled to immediately resume participation in the defined contribution plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-626_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

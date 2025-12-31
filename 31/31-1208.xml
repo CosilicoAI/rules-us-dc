@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1208"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1208/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1208">
+        <akn:num>31-1208</akn:num>
+        <akn:heading>Insurance Regulatory Trust Fund Bureau.</akn:heading>
+<akn:subsection eId="subsec_31-1208_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All insurers and health maintenance organizations subject to assessments in accordance with this chapter shall be members of an Insurance Regulatory Trust Fund Bureau, organized and maintained by such insurers and health maintenance organizations at their own expense, for the purpose of advising the Commissioner and the Executive Director of the District of Columbia Health Benefit Exchange Authority as to the need for the proposed assessments, including the assessment of health carriers in § 31-3171.03(f), the fairness of the proposed assessments, and any other matters with respect to the administration of the Insurance Regulatory Trust Fund. The Commissioner and the Executive Director of the District of Columbia Health Benefit Exchange Authority shall submit to the Insurance Regulatory Trust Fund Bureau annually, in advance of the Mayor’s budget submission to the Council, a detailed budget showing how the proposed assessments are to be expended.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1208_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The board of directors of the Insurance Regulatory Trust Fund Bureau shall consist of no fewer than 15 members and shall include at least a majority of the health carriers issuing qualified health plans and some representation from health carriers issuing qualified dental plans as defined in § 31-3171.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

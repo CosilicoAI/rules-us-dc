@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-734"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-734/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_734">
+        <akn:num>25-734</akn:num>
+        <akn:heading>Sale by retailer of beverages on credit prohibited.</akn:heading>
+<akn:subsection eId="subsec_25-734_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A licensee under a retailer’s license shall not sell on credit any alcoholic beverages except as provided in this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-734_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For purposes of this section, the extension of credit by the licensee under an off-premises retailer’s license in connection with the sale of an alcoholic beverage through a document, device, or plan intended or adapted for the purpose of establishing credit, except through the use of a credit card, shall be considered a sale on credit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-734_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section shall not prohibit a club from extending credit to its members or the guests of members or a hotel from extending credit to its registered guests.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-734_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This section shall not prohibit the licensee under an on-premises retailer’s license from accepting payment by credit card for sales of alcoholic beverages to customers.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

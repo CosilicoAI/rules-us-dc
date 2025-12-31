@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1314.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1314.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1314_03">
+        <akn:num>34-1314.03</akn:num>
+        <akn:heading>Waiver of certain permitting fees; acceptance of Bonds in lieu of cash deposits.</akn:heading>
+<akn:subsection eId="subsec_34-1314_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A public inconvenience fee and steel plate fee shall not apply to Electric Company Infrastructure Improvement Activity or to the gas company for any natural gas infrastructure relocation required under the Underground Infrastructure Improvement Projects Plan for the first 60 days of construction and installation of Electric Company Infrastructure Improvements or any natural gas infrastructure relocation in the applicable portion or segment of the public space or public right-of-way where the Electric Company Infrastructure Improvements are being constructed and installed or the natural gas infrastructure is being relocated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1314_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The electric company may submit a Bond to DDOT in lieu of a cash deposit for any Electric Company Infrastructure Improvement Activity that is subject to a public space permit.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

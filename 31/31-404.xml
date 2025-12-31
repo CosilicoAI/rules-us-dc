@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-404"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-404/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_404">
+        <akn:num>31-404</akn:num>
+        <akn:heading>Required contract provisions.</akn:heading>
+<akn:subsection eId="subsec_31-404_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The controlled insurer may terminate the contract for cause, upon written notice to the controlling producer. The controlled insurer shall suspend the authority of the controlling producer to write business during the pendency of any dispute regarding the cause for termination.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-404_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The controlling producer shall render accounts to the controlled insurer detailing all material transactions, including information necessary to support all commissions, charges, and other fees received by, or owing to, the controlling producer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-404_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The controlling producer shall remit all funds due under the terms of the contract to the controlled insurer on at least a monthly basis. The due date shall be fixed so that premiums or installments collected shall be remitted no later than 90 days after the effective date of any policy placed with the controlled insurer under this contract.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-404_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>All funds collected for the controlled insurer’s account shall be held by the controlling producer in a fiduciary capacity, in one or more appropriately identified bank accounts in banks that are members of the Federal Reserve System, in accordance with applicable provisions of insurance law of the District of Columbia. Funds of a controlling producer not required to be licensed in the District of Columbia shall be maintained in compliance with the requirements of the controlling producer’s domiciliary jurisdiction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-404_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The controlling producer shall maintain separately identifiable records of business written for the controlled insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-404_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>The contract shall not be assigned in whole or in part by the controlling producer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-404_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>The controlled insurer shall provide the controlling producer with its underwriting standards, rules and procedures, manuals setting forth the rates to be charged, and the conditions for the acceptance or rejection of risks. The controlling producer shall adhere to the standards, rules, procedures, rates, and conditions. The standards, rules, procedures, rates, and conditions shall be the same as those applicable to comparable business placed with the controlled insurer by a producer other than the controlling producer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-404_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>The rates and terms of the controlling producer’s commissions, charges, or other fees and the purposes for those charges or fees shall be included. The rates of the commissions, charges, and other fees shall be no greater than those applicable to comparable business placed with the controlled insurer by producers other than controlling producers. For purposes of this paragraph and paragraph (7) of this section, examples of “comparable business” include the same lines of insurance, same kinds of insurance, same kinds of risks, similar policy limits, and similar quality of business.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-404_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>If the contract provides that the controlling producer, on insurance business placed with the insurer, is to be compensated contingent upon the insurer’s profits on that business, then the compensation shall not be determined and paid until at least 5 years after the premiums on liability insurance are earned and at least 1 year after the premiums are earned on any other insurance. In no event shall the commissions be paid until the adequacy of the controlled insurer’s reserves on remaining claims has been independently verified pursuant to paragraphs (1) and (6) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-404_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>The contract provides a limit on the controlling producer’s writings in relation to the controlled insurer’s surplus and total writings. The insurer may establish a different limit for each line or subline of business. The controlled insurer shall notify the controlling producer when the applicable limit is approached and shall not accept business from the controlling producer if the limit is reached. The controlling producer shall not place business with the controlled insurer if it has been notified by the controlled insurer that the limit has been reached.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-404_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>The controlling producer may negotiate, but shall not bind, reinsurance on behalf of the controlled insurer on business the controlling producer places with the controlled insurer, except that the controlling producer may bind facultative reinsurance contracts pursuant to obligatory facultative agreements if the contract with the controlled insurer contains underwriting guidelines, including, for both reinsurance assumed and ceded, a list of reinsurers with which automatic agreements are in effect, the coverages and amounts or percentages that may be reinsured, and commission schedules.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

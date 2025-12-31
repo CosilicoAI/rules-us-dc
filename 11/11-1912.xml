@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1912"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1912/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1912">
+        <akn:num>11-1912</akn:num>
+        <akn:heading>Juror fees.</akn:heading>
+<akn:subsection eId="subsec_11-1912_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding section 602(a) of the District of Columbia Home Rule Act, grand and petit jurors serving in the Superior Court shall receive fees and expenses at rates established by the Board of Judges of the Superior Court, except that such fees and expenses may not exceed the respective rates paid to such jurors in the Federal system.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1912_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A petit or grand juror receiving benefits under the laws of employment security of the District of Columbia shall not lose such benefits on account of performance of juror service.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1912_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Employees of the United States or of any State or local government who serve as grand or petit jurors and who continue to receive regular compensation during the period of jury service shall not be compensated for jury service. Amounts representing reimbursement of expenses incurred in connection with jury service may be paid to such employees to the extent provided in the jury system plan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/36-303.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/36-303.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_36_303_02">
+        <akn:num>36-303.02</akn:num>
+        <akn:heading>Disclosures to prospective retail dealers.</akn:heading>
+<akn:subsection eId="subsec_36-303_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The name and last known address of the previous retail dealer or dealers for the immediately prior 3-year period or for the entire period during which the distributor has either sold or distributed motor fuels or petroleum products to or through such retail service station location or owned, leased, or otherwise controlled such location, whichever period is shorter, and the grounds or reasons for the termination of, cancellation of, or failure to renew each marketing agreement with such previous retail dealer or dealers; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_36-303_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The existence of any present commitments, negotiations, or plans for the future sale, demolition, or other disposition of such location.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-104.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-104.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_104_04">
+        <akn:num>44-104.04</akn:num>
+        <akn:heading>Emergency suspension.</akn:heading>
+<akn:subsection eId="subsec_44-104_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor may immediately suspend, as an emergency action, a license on finding that the licensee’s premises are unsafe for human habitation or pose an immediate threat to the health and safety of its residents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-104_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall deliver a written notice to the licensee informing it of the emergency suspension, giving the reasons for the suspension, providing the provisions of law with which the licensee has failed to comply that form the basis for the emergency suspension, and notifying the ALR of its right to request a hearing and to be represented by counsel.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-104_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The filing of a hearing request shall not stay the emergency suspension.  If the licensee is dissatisfied with the emergency suspension, it may appeal the suspension as provided in § 44-505.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-104_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When a license is suspended pursuant to this section, the licensee shall immediately return the license to the Mayor, notify the residents and surrogates of the suspension, and make every effort to assist them in making other assisted living arrangements.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

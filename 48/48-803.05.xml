@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-803.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-803.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_803_05">
+        <akn:num>48-803.05</akn:num>
+        <akn:heading>Dispensation of equivalent products by pharmacists — Consideration as practice of medicine or evidence of negligence; failure of physician to specify specific brand.</akn:heading>
+<akn:subsection eId="subsec_48-803_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The substitution of drugs by a licensed pharmacist under this subchapter shall not constitute the practice of medicine. Nothing in this subchapter shall be construed as authorizing a pharmacist to prescribe any drug or medication.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-803_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Substitution of drugs made in accordance with § 48-803.02 shall not constitute evidence of negligence or improper pharmacy practice if the substitution was made within reasonable and prudent pharmacy practice or if the prescribed and substituted drugs were generically equivalent drug products drugs [sic] as determined under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-803_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Failure of a licensed physician to specify that a specific brand is necessary for the particular patient shall not constitute evidence of negligence unless the physician had reasonable cause to believe that the health of the patient required the use of that brand and no other.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

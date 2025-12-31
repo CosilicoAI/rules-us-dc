@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4808"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4808/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4808">
+        <akn:num>16-4808</akn:num>
+        <akn:heading>Notice.</akn:heading>
+<akn:subsection eId="subsec_16-4808_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The petitioner shall notify any person named in the designation within 10 days of the filing of the petition of any hearing on that petition. Notice shall be attempted on all other persons who are entitled to notice under §§ 16-4501 through 16-4524 [repealed].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4808_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notice shall be by summons, including a copy of the designation, the petition, and documents required by this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4808_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notice is sufficient by mailing a copy of the executed copy of the petition, the designation, and other documents required by § 16-4805(b) to those persons entitled to notice under this section. The mailing shall be by certified mail, restricted delivery, return receipt requested to the current or last-known address of a person entitled to notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4808_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notice may also be given in any other manner calculated to give notice and not prohibited by statute or court rule.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4808_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the petition alleges that a parent, legal custodian, or guardian cannot be located, reasonable efforts, such as those required in legal custody cases as described in § 13-336, shall be made by the petitioner to locate the other parents. Such efforts must be reported to the court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

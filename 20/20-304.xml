@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-304"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-304/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_304">
+        <akn:num>20-304</akn:num>
+        <akn:heading>Petition for probate.</akn:heading>
+<akn:subsection eId="subsec_20-304_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>General. — The petition for probate shall contain all knowledge or information of the petitioner with respect to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-304_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Intestate. — If the decedent died intestate, the petition shall state that a diligent search for a will has been made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-304_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Testate. — If the decedent died testate, the petitioner shall: (1) exhibit the original of the will with the petition, or exhibit a copy of the will if the original has already been filed; and (2) state whether the petitioner knows of any later will. If the petitioner is filing or has filed the original of the will, the petition shall state the manner in which the petitioner obtained the original of the will.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-304_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Explanation for lack of information. — The petition shall state the reasons why any information required by subsection (a) cannot be furnished by the petitioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-304_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Request for abbreviated or standard probate or small estates proceeding. — The petition shall indicate whether the petitioner requests an abbreviated probate, small estates or standard probate proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-304_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Request for court action. — The petition may contain, as appropriate, and shall (without the need for the filing of any complaint) be sufficient to obtain the Court’s action on, a request for one or more of the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

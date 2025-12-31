@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_101">
+        <akn:num>31-101</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-101_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Associate Commissioner for Securities and Banking” means the Associate Commissioner of the Securities and Banking Bureau.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-101_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking, who shall be the chief executive officer of the Department of Insurance, Securities, and Banking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-101_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Department” means the Department of Insurance, Securities, and Banking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-101_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Deputy Commissioner” means the Deputy Commissioner of the Department of Insurance, Securities, and Banking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-101_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“District of Columbia Banking Code” means the statutory provisions concerning banking and financial institutions codified in Title 26, laws administered by the Commissioner, and rules and regulations promulgated under those statutory provisions and laws.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-101_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Insurance Bureau” means the office overseeing the regulation of insurance, insurers, and health maintenance organizations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-101_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Securities and Banking Bureau” means the office administering the District of Columbia Banking Code and overseeing the regulation of securities.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

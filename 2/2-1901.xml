@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1901">
+        <akn:num>2-1901</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_2-1901_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Appointing authority” means the presiding judge of any court of the District of Columbia, the chairperson of any District of Columbia board or commission, the director or commissioner of any department or agency of the District of Columbia, the Chairman of the Council of the District of Columbia or the chairperson of any committee of the Council of the District of Columbia conducting a hearing, or any other person presiding at any hearing or other proceeding in which a qualified interpreter is required pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1901_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Communication-impaired person” means a hearing-impaired person or a non-English or limited-English speaking person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1901_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Hearing-impaired person” means a person who, because of a hearing impairment, cannot readily understand oral communications or who cannot communicate effectively through speech, and, if the communication at issue is in writing, who cannot communicate effectively in the written English language.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1901_3A">
+      <akn:num>(3A)</akn:num>
+      <akn:content><akn:p>“Intermediary interpreter” means any person, including any hearing-impaired person, who is able to assist in providing an accurate interpretation between spoken English and sign language or between variants of sign language by acting as an intermediary between a hearing-impaired person and a qualified interpreter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1901_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Non-English or limited-English speaking person” means a person who is unable to readily understand oral and written communications in the English language or who cannot communicate effectively in the spoken or written English language.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1901_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Qualified interpreter” means a person who is listed by the Office of Court Interpreter Services or the United States Department of State as being, or is otherwise found by the court to be, skilled in the language or form of communication needed to communicate fluently with a communication-impaired person and to translate or interpret information accurately to and from the communication-impaired person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1901_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Qualified interviewer” means a person who is certified by the Metropolitan Police Department as being, or is otherwise found by the court to be, skilled in the language or form of communication needed to communicate fluently with a communication-impaired person.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

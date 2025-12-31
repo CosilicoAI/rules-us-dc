@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1517.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1517.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1517_02">
+        <akn:num>2-1517.02</akn:num>
+        <akn:heading>Youth behavioral health epidemiological report.</akn:heading>
+<akn:subsection eId="subsec_2-1517_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The type and prevalence of behavioral health conditions among youth broken down, if possible, by age, gender, race, ward residence, and sexual orientation;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1517_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The level of utilization of behavioral health services by youth and the location of the services accessed; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1517_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>An analysis of any barriers or obstacles preventing youth from accessing behavioral health services and recommendations for making the services more accessible.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

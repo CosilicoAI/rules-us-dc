@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1318"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1318/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_1318">
+        <akn:num>16-1318</akn:num>
+        <akn:heading>Objections or exceptions to appraisement; new jury.</akn:heading>
+<akn:subsection eId="subsec_16-1318_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Objections or exceptions to an appraisement of the jury pursuant to section 16-1317 may be filed within twenty days after the return of the appraisement to the court. The court shall hear and determine any objections or exceptions so filed, and may vacate and set aside the appraisement, in whole or in part, when satisfied that it is unjust or unreasonable. If the appraisement is vacated and set aside, the court shall order the necessary number of new persons selected from the special jury list and, from among the persons so selected, shall appoint a new jury of five capable and disinterested persons who shall proceed as in the case of the first jury. The appraisement of the new jury shall be final when confirmed by the court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1318_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When an appraisement is vacated in part, the residue thereof as to the property condemned is not affected thereby.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

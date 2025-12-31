@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-909.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-909.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_909_01">
+        <akn:num>16-909.01</akn:num>
+        <akn:heading>Establishment of paternity by voluntary acknowledgment and based on genetic test results.</akn:heading>
+<akn:subsection eId="subsec_16-909_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Paternity may be established by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-909_01_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>A signatory to a voluntary acknowledgment of paternity pursuant to subsection (a)(1) of this section may rescind the acknowledgment within the earlier of 60 days or the date of an administrative or judicial proceeding relating to the child in which the signatory is a party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-909_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When a child has no presumed parent under § 16-909(a)(1) through (4) or § 16-909(a-1)(2), an acknowledgment in accordance with subsection (a)(1) of this section, which has not been rescinded pursuant to subsection (a-1) of this section, or a genetic test and affidavit that meet the requirements of subsection (a)(2) of this section shall legally establish the parent-child relationship between the father and the child for all rights, privileges, duties, and obligations under the laws of the District of Columbia. The acknowledgment or genetic test and affidavit shall be admissible as evidence of paternity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-909_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A public or private agency or institution that operates in the District of Columbia shall accept as adequate proof of paternity a birth certificate issued by the District of Columbia after the effective date of the District of Columbia Paternity Establishment Temporary Act of 1991 [June 18, 1991] or other evidence that the requirements of subsection (a)(1) or (a)(2) of this section have occurred.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-909_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a child has a presumed parent, in the absence of an acknowledgment, or if the probability of paternity shown by a genetic test is less than 99%, paternity may be established as otherwise provided in this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

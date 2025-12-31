@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3412"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3412/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3412">
+        <akn:num>31-3412</akn:num>
+        <akn:heading>Protection against insolvency.</akn:heading>
+<akn:subsection eId="subsec_31-3412_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Net worth requirements. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3412_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Deposit requirements. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3412_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Liabilities. — Every health maintenance organization shall, when determining liabilities, include an amount estimated in the aggregate to provide for any unearned dues and for the payment of all claims for health care expenditures which have been incurred, whether reported or unreported, which are unpaid and for which such organization is or may be liable, and to provide for the expense of adjustment or settlement of such claims. Such liabilities may be computed in accordance with generally accepted accounting principles.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3412_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Hold harmless. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3412_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Continuation of benefits. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3412_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Notice of termination. — An agreement to provide covered services between a provider and a health maintenance organization must require that if the provider terminates the agreement, the provider shall give the organization at least 60 days advance notice of termination.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

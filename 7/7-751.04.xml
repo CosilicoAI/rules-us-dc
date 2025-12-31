@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-751.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-751.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_751_04">
+        <akn:num>7-751.04</akn:num>
+        <akn:heading>Eligibility requirements.</akn:heading>
+<akn:subsection eId="subsec_7-751_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Be a citizen or permanent resident of the United States;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-751_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Be a physician, dentist, or other health professional as defined in § 7-751.01;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-751_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Be licensed or eligible to practice in the District of Columbia;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-751_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Submit a completed application to participate in the Program; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-751_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Have no other obligation for health professional service to the federal, state, or District government, unless such obligation will be completely satisfied prior to the beginning of service under the Program.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

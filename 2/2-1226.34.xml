@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1226.34"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1226.34/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1226_34">
+        <akn:num>2-1226.34</akn:num>
+        <akn:heading>Integrated environmental design standards.</akn:heading>
+<akn:subsection eId="subsec_2-1226_34_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The applicant for the project shall engage in pre-development and on-going consultation with appropriate District officials to review the plans of the applicant to ensure compliance with the standards imposed by this part.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1226_34_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The applicant for the project shall retain a LEED-accredited professional or maintain an experienced LEED-accredited member on-staff.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1226_34_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The applicant for the project shall prepare and submit to the Mayor a sustainability plan as a component of the concept design package, which shall identify the project approach and elements used to satisfy the requirements of this part. The sustainability plan shall include an analysis of energy use, green building, site planning and preservation, and stormwater management.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1226_34_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The applicant for the project shall submit to the Mayor any draft or final checklists and other materials submitted to demonstrate LEED, Green Communities, and ENERGY STAR compliance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

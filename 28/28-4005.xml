@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4005"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4005/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4005">
+        <akn:num>28-4005</akn:num>
+        <akn:heading>Minimal procedures.</akn:heading>
+<akn:subsection eId="subsec_28-4005_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each hearing aid sale shall be accompanied by a receipt that includes:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4005_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each registrant shall keep records for every customer to whom he or she renders services or sells a hearing aid, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4005_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each registrant shall post conspicuously in large print at his or her place(s) of business and make available for inspection at any sale a retail price list showing all hearing aid models for sale.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

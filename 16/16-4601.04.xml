@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4601.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4601.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4601_04">
+        <akn:num>16-4601.04</akn:num>
+        <akn:heading>International application of chapter.</akn:heading>
+<akn:subsection eId="subsec_16-4601_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A court of the District shall treat a foreign country as if it were a state of the United States for the purpose of applying subchapters I and II of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4601_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (c) of this section, a child-custody determination made in a foreign country under factual circumstances in substantial conformity with the jurisdictional standards of this chapter must be recognized and enforced under subchapter III of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4601_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A court of the District need not apply this chapter if the child custody law of a foreign country violates fundamental principles of human rights.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

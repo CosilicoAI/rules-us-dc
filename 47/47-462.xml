@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-462"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-462/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_462">
+        <akn:num>47-462</akn:num>
+        <akn:heading>Tax Revision Commission — Established; submission of recommendations.</akn:heading>
+<akn:subsection eId="subsec_47-462_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established a Tax Revision Commission (“Commission”) with the purpose of preparing comprehensive recommendations to the Council and the Mayor which:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-462_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Specific functions of the Commission shall include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-462_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commission shall submit its recommendations in the form of a report or reports similar in form and scope as those transmitted by the District of Columbia Tax Revision Commission by letter dated June 2, 1998, and entitled “Taxing Simply, Taxing Fairly”. The report or reports shall be accompanied by draft legislation, regulations, amendments to existing regulations, or other specific steps for implementing the recommendations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-462_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Commission shall submit to the Council and the Mayor its final report no later than December 31, 2013.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

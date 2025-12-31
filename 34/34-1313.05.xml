@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1313.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1313.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1313_05">
+        <akn:num>34-1313.05</akn:num>
+        <akn:heading>Effect of financing order.</akn:heading>
+<akn:subsection eId="subsec_34-1313_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A financing order shall remain in effect until the Bonds have been paid in full and all financing costs relating to the Bonds have been paid in full.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1313_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A financing order shall remain in effect and unabated notwithstanding the bankruptcy, reorganization, or insolvency of the electric company or any affiliate thereof or the commencement of any judicial or non-judicial proceeding therefore.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1313_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For so long as the Bonds are outstanding and the related DDOT Underground Electric Company Infrastructure Improvement Costs and the related financing costs have not been paid in full, the DDOT Underground Electric Company Infrastructure Improvement Charge shall be non-bypassable and shall apply to all of the electric company’s customers located within the District and receiving electric distribution service, other than members of the electric company’s residential aid discount customer class or any succeeding discount customer class.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

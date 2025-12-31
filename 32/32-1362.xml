@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1362"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1362/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1362">
+        <akn:num>32-1362</akn:num>
+        <akn:heading>Discrimination based on status as unemployed unlawful.</akn:heading>
+<akn:subsection eId="subsec_32-1362_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Fail or refuse to consider for employment, or fail or refuse to hire, an individual as an employee because of the individual’s status as unemployed; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1362_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Publish, in print, on the Internet, or in any other medium, an advertisement or announcement for any vacancy in a job for employment that includes:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2402.08a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2402.08a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2402_08a">
+        <akn:num>38-2402.08a</akn:num>
+        <akn:heading>Scholarship program.</akn:heading>
+<akn:subsection eId="subsec_38-2402_08a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. — The Secretary may make grants to institutions of higher education that have teacher training programs in deaf education or special education for the purpose of providing scholarships to individuals who are deaf for careers in deaf education or special education. Such institutions shall give priority consideration in the selection of qualified recipients of the scholarships to individuals from underrepresented backgrounds, particularly minority individuals who are deaf and who are underrepresented in the teaching profession. Grants may be used by institutions to assist in covering the cost of courses of training or study for such individuals and for establishing and maintaining fellowships or traineeships with stipends and allowances as may be determined by the Secretary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2402_08a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Authorization of appropriations. — For the purpose of making grants under subsection (a), there are authorized to be appropriated $2,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1997.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

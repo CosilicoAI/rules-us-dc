@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1205.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1205.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1205_03">
+        <akn:num>3-1205.03</akn:num>
+        <akn:heading>General qualifications of applicants.</akn:heading>
+<akn:subsection eId="subsec_3-1205_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An individual applying for a license under this chapter shall establish to the satisfaction of the board regulating the health occupation that the individual:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1205_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The board may grant a license to an applicant whose education and training in the health occupation has been successfully completed in a foreign school, college, university, or training program if the applicant otherwise qualifies for licensure and if the board determines, in accordance with rules issued by the Mayor, that the education and training are substantially equivalent to the requirements of this chapter in assuring that the applicant has the proper training, experience, and qualifications to practice the health occupation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1205_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The board may deny a license to an applicant whose license to practice a health occupation was revoked or suspended in another state if the basis of the license revocation or suspension would have caused a similar result in the District, or if the applicant is the subject of pending disciplinary action regarding his or her right to practice in another state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1205_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The references in § 3-1205.04 and subchapters VI, VII, VIII and VIII-A of this chapter to named professional organizations and governmental entities for purposes of accreditation or the administration of national examinations shall be considered to refer to successor organizations or entities upon a determination by the Mayor that the successor is substantially equivalent in standards and purposes as the organization or entity named in this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

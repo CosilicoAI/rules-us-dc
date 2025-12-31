@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-704.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-704.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_704_05">
+        <akn:num>29-704.05</akn:num>
+        <akn:heading>Actions by and against partnership and partners.</akn:heading>
+<akn:subsection eId="subsec_29-704_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To the extent not inconsistent with § 29-704.04, a general partner may be joined in an action against the limited partnership or named in a separate action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-704_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A judgment against a limited partnership shall not by itself be a judgment against a general partner. A judgment against a limited partnership shall not be satisfied from a general partner’s assets unless there is also a judgment against the general partner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-704_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A judgment creditor of a general partner shall not levy execution against the assets of the general partner to satisfy a judgment based on a claim against the limited partnership, unless the partner is personally liable for the claim under § 29-704.04 and:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2885.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2885.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2885_09">
+        <akn:num>47-2885.09</akn:num>
+        <akn:heading>Operation of pharmacy.</akn:heading>
+<akn:subsection eId="subsec_47-2885_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A pharmacy shall be operated only by a licensed pharmacist. During all times when the pharmacy is open for business a pharmacist shall be on duty. The pharmacist on duty shall post his or her license in a conspicuous place during the time he or she is on duty. The hours that the pharmacy is open for business shall be conspicuously displayed on the outside of the pharmacy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2885_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The pharmacist on duty shall control all professional aspects of the practice of pharmacy; any usurpation, in reference or impairment of the exercise of professional judgment of the pharmacist on duty by a nonpharmacist proprietor or personnel shall be deemed the practice of pharmacy and constitute a violation of this part.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2885_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2885_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Burglaries and damage to the pharmacy or its contents by fire, flood, or other causes shall be reported immediately to the Mayor. Neither drugs nor other merchandise shall be dispensed, sold, held for sale, or given away in any pharmacy damaged by fire, flood, or other causes until the Mayor has determined that the merchandise is not adulterated or otherwise unfit for sale, use, or consumption. Damaged premises shall be inspected by the Mayor to determine their continued suitability for pharmacy operations.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

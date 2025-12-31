@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-325"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-325/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_325">
+        <akn:num>28:2-325</akn:num>
+        <akn:heading>“Letter of credit” term; “confirmed credit”.</akn:heading>
+<akn:subsection eId="subsec_28:2-325_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Failure of the buyer seasonably to furnish an agreed letter of credit is a breach of the contract for sale.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-325_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The delivery to seller of a proper letter of credit suspends the buyer’s obligation to pay. If the letter of credit is dishonored, the seller may on seasonable notification to the buyer require payment directly from him.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-325_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Unless otherwise agreed the term “letter of credit” or “banker’s credit” in a contract for sale means an irrevocable credit issued by a financing agency of good repute and, where the shipment is overseas, of good international repute. The term “confirmed credit” means that the credit must also carry the direct obligation of such an agency which does business in the seller’s financial market.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

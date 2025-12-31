@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-702"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-702/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_702">
+        <akn:num>26-702</akn:num>
+        <akn:heading>Regional bank holding company acquisitions.</akn:heading>
+<akn:subsection eId="subsec_26-702_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A regional bank holding company may acquire a District of Columbia bank holding company or a District of Columbia bank (other than a District of Columbia bank holding company or a District of Columbia bank which is acquired either pursuant to section 13 of the Federal Deposit Insurance Act (12 U.S.C. § 1823(f)), or in the regular course of securing or collecting a debt previously contracted in good faith, as provided in section 3(a) of the Bank Holding Company Act of 1956 (12 U.S.C. § 1842(a)), if each of the following requirements is met:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-702_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purpose of subsection (a)(1) and (3) of this section, a District of Columbia bank shall be treated as if it were a District of Columbia bank holding company.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

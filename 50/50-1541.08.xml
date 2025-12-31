@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1541_08">
+        <akn:num>50-1541.08</akn:num>
+        <akn:heading>Content of certificate of title.</akn:heading>
+<akn:subsection eId="subsec_50-1541_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A certificate of title must contain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This chapter does not preclude the Harbor Master from noting on a certificate of title the name and mailing address of a secured party that is not a secured party of record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For each title brand indicated on a certificate of title, the certificate of title must identify the jurisdiction under whose law the title brand was created or the jurisdiction that created the certificate of title on which the title brand was indicated. If the meaning of a title brand is not easily ascertainable or cannot be accommodated on the certificate of title, the certificate of title may state: “Previously branded in (insert the jurisdiction under whose law the title brand was created or whose certificate of title previously indicated the title brand).”.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_08_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the files of the Harbor Master indicate that a vessel previously was registered or titled in a foreign country, the Harbor Master shall indicate on the certificate of title that the vessel was registered or titled in that country.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_08_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A written certificate of title must contain a form that all owners indicated on the certificate of title may sign to evidence consent to a transfer of an ownership interest to another person. The form must indicate that the making of a false statement is punishable by criminal penalties. The form must include a statement that the statements made are true and correct to the best of each owner’s knowledge, information, and belief.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_08_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A written certificate of title must contain a form for the owner of record to indicate, in connection with a transfer of an ownership interest, that the vessel is hull damaged.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_08_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A written certificate of title must contain a form for a secured party to indicate release of its security interest.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

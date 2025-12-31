@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1203.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1203.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1203_06">
+        <akn:num>29-1203.06</akn:num>
+        <akn:heading>Duration.</akn:heading>
+<akn:subsection eId="subsec_29-1203_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in its certificate of trust, a statutory trust:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1203_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A series of a statutory trust may not be terminated or revoked except in accordance with this chapter or the terms of the governing instrument.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1203_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The death, incapacity, dissolution, termination, or bankruptcy of a beneficial owner , trustee, or person designated under § 29-1201.03(e)(8) or (9) does not result in the termination or dissolution of a statutory trust or any series thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1203_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A statutory trust or any series thereof shall not terminate because the same person is the sole trustee and sole beneficial owner.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

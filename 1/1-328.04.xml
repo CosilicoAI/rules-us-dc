@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-328.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-328.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_328_04">
+        <akn:num>1-328.04</akn:num>
+        <akn:heading>Deputy Mayor for Planning and Economic Development grant-making authority.</akn:heading>
+<akn:subsection eId="subsec_1-328_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Deputy Mayor for Planning and Economic Development (“Deputy Mayor”) shall have grant-making authority for the purpose of providing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-328_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Deputy Mayor may make grants for fiscal year 2013 as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-328_04_b_1">
+      <akn:num>(b-1)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-328_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to the grant-making authority provided in subsection (a)(4) of this section, the Deputy Mayor shall have the authority to issue loans for the creation of affordable housing for District residents.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1513"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1513/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1513">
+        <akn:num>32-1513</akn:num>
+        <akn:heading>Notice of injury or death.</akn:heading>
+<akn:subsection eId="subsec_32-1513_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notice of any injury or death in respect of which compensation is payable under this chapter shall be given within 30 days after the date of such injury or death, or 30 days after the employee or beneficiary is aware or in the exercise of reasonable diligence should have been aware of a relationship between the injury or death and the employment. Such notice shall be given to the Mayor and to the employer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1513_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Such notice shall be in writing, shall contain the name and address of the employee and a statement of the time, place, nature, and cause of the injury or death, and shall be signed by the employee or by some person on his behalf, or, in case of death, by any person claiming to be entitled to compensation for such death or by a person on his behalf.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1513_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notice shall be given to the Mayor by delivering it to him or sending it by mail to him, and to the employer by delivering to him or by sending it by mail addressed to him at his last known place of business. If the employer is a partnership, such notice may be given to any partner, or, if a corporation, such notice may be given to any agent or officer thereof upon whom legal process may be served or who is in charge of the business in the place where the injury occurred.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1513_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Failure to give such notice shall not bar any claim under this chapter:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

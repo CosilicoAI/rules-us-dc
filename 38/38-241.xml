@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-241"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-241/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_241">
+        <akn:num>38-241</akn:num>
+        <akn:heading>Truancy and Dropout Prevention Program.</akn:heading>
+<akn:subsection eId="subsec_38-241_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to the availability of appropriations, the District of Columbia Board of Education, or its successor, and the District of Columbia Public Schools shall offer a Truancy and Dropout Prevention Program for students who are enrolled in the District of Columbia Public Schools system. The programs should be implemented on a full-time basis, work with local schools and parents, and provide resources that will help reduce absences and unexcused absences, and reduce dropout and increase retention rates.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-241_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The program shall develop a supportive relationship with the Metropolitan Police Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-241_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The program shall be available for students who are enrolled in grades K-12 and for students who are enrolled in ungraded classes in elementary, middle or junior high, and high schools.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-241_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other law, nothing in this section shall be construed to create an entitlement to a truancy or dropout prevention program for any student.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

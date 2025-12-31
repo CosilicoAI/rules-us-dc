@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-814"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-814/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_814">
+        <akn:num>42-814</akn:num>
+        <akn:heading>Petition for new trustee; causes; procedure; written agreement of parties.</akn:heading>
+<akn:subsection eId="subsec_42-814_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In case of the refusal of any trustee named in a deed of trust to secure a debt to accept the trusts thereby created, or of his resignation of said trust after accepting the same, which is hereby allowed, or of his removal from the District of Columbia, or of his inability to act, or for any other good cause shown, it shall be lawful for any party interested in the execution of such trusts to apply to said court by petition, setting forth the appropriate facts and asking for the appointment of a new trustee in his place, and a like proceeding shall be had for the appointment of such trustee as in the case of the death of a trustee, as directed in §§ 42-811 and 42-819; provided, that any rule to show cause issued in such case shall be served upon the existing trustee, as provided in said sections.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-814_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of subsection (a) of this section, and notwithstanding any provision in a deed of trust to the contrary, whenever the grantors named in, and the persons secured by, the deed of trust (or their successors in interest) so desire, they may by written agreement executed and acknowledged in the same manner as an absolute deed substitute any trustee named in the deed of trust with a new trustee. No written instrument entered into pursuant to this subsection shall be effective as to any person not having actual notice thereof until a notice of the appointment of the new trustee signed, sealed, and acknowledged by the parties agreeing to the appointment of the new trustee shall be recorded among the land records in the Office of the Recorder of Deeds.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

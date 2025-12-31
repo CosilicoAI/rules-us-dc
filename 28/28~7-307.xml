@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-307"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-307/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:7_307">
+        <akn:num>28:7-307</akn:num>
+        <akn:heading>Lien of carrier.</akn:heading>
+<akn:subsection eId="subsec_28:7-307_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A carrier has a lien on the goods covered by a bill of lading or on the proceeds thereof in its possession for charges after the date of the carrier’s receipt of the goods for storage or transportation, including demurrage and terminal charges, and for expenses necessary for preservation of the goods incident to their transportation or reasonably incurred in their sale pursuant to law. However, against a purchaser for value of a negotiable bill of lading, a carrier’s lien is limited to charges stated in the bill or the applicable tariffs or, if no charges are stated, a reasonable charge.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-307_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A lien for charges and expenses under subsection (a) of this section on goods that the carrier was required by law to receive for transportation is effective against the consignor or any person entitled to the goods unless the carrier had notice that the consignor lacked authority to subject the goods to those charges and expenses. Any other lien under subsection (a) of this section is effective against the consignor and any person that permitted the bailor to have control or possession of the goods unless the carrier had notice that the bailor lacked authority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-307_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A carrier loses its lien on any goods that it voluntarily delivers or unjustifiably refuses to deliver.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

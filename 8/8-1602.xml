@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1602"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1602/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1602">
+        <akn:num>8-1602</akn:num>
+        <akn:heading>Consent of Congress to amended compact; authority of Mayor of the District of Columbia; rights reserved by Congress.</akn:heading>
+<akn:subsection eId="subsec_8-1602_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The consent of Congress is hereby given to the States of Maryland and West Virginia and the Commonwealths of Virginia and Pennsylvania and the District of Columbia to adopt and enter into the amended compact set forth in this section to create a Potomac Valley Conservancy District and to establish an Interstate Commission on the Potomac River Basin and every part and article thereof; provided, that nothing contained in such amended compact shall be construed as impairing or in any manner affecting any right or jurisdiction of the United States in and over the region which forms the subject of this compact; and provided further, that the consent herein given does not extend to § (F) (2) of Article II of the amended compact.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1602_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor of the District of Columbia is authorized to enter into, on behalf of the District of Columbia, the amended compact hereinbefore recited.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1602_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The right to alter, amend, or repeal this section is hereby expressly reserved.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

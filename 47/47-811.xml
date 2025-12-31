@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-811"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-811/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_811">
+        <akn:num>47-811</akn:num>
+        <akn:heading>Levy and disposition of tax; payment; penalty for nonpayment.</akn:heading>
+<akn:subsection eId="subsec_47-811_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of § 47-501, there is hereby levied for each fiscal year a tax on the real property in the District of Columbia at a rate or rates determined according to the provisions of this chapter. Unless otherwise provided by law, all revenues received from such tax shall be deposited, from time to time, in the Treasury of the United States, to the credit of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-811_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Real property taxes shall be due and payable semiannually in 2 equal installments, the first installment to be paid on or before March 31st, and the second installment to be paid on or before September 15th; provided, that an owner shall have at least 30 days from the date of the issuance of a bill to pay an installment; provided further, that for the tax year beginning July 1, 1989, and ending June 30, 1990, the amount of the first and second installments shall reflect and be consistent with the tax rates applicable to that tax year, as provided in § 47-812(b) and (c).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-811_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If at any time after [July 1, 1987], any real property tax, or any installment of real property tax, is not paid within the time prescribed, there shall be added to the real property tax or installment a penalty of 10% of the unpaid amount plus simple interest on the unpaid amount at the rate of 1-1/2% per month or portion of a month until the real property tax or installment is paid. The amount of the unpaid real property tax, or installment of the real property tax, plus the penalty or interest due, shall constitute a delinquent tax to be collected in the manner prescribed by law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-811_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsection (b) of this section, a payment shall be due on or before September 15, 1993, equal to one-half of the tax year 1993 tax rate for the real property upon which real property tax is levied multiplied by the assessed value for tax year 1994 of the real property upon which real property tax is levied.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

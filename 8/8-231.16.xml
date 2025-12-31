@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-231.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-231.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_231_16">
+        <akn:num>8-231.16</akn:num>
+        <akn:heading>Criminal penalties.</akn:heading>
+<akn:subsection eId="subsec_8-231_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this subchapter, any person who knowingly or willingly violates the provisions of this subchapter, or its implementing rules, shall be subject, upon conviction, to a fine of not more than $ 25,000 for each day of each violation, imprisonment for not more than one year, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-231_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Falsification of information required by this subchapter shall be a violation of this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-231_16_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In determining the severity of a criminal penalty, the Superior Court of the District of Columbia shall take into account the nature, circumstances, extent, gravity, actual or potential harm to the environment, and actual or potential harm to human health of the violation or violations and, with respect to the violator, ability to pay, effect on ability to continue to do business, any history of prior such violations, the degree of culpability, and such other matters as justice may require.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-231_16_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>All prosecutions under this section shall be in the Superior Court of the District of Columbia in the name of the District of Columbia and shall be instituted by the Attorney General for the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

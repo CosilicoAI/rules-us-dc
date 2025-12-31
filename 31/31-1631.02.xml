@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1631.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1631.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1631_02">
+        <akn:num>31-1631.02</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-1631_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Commissioner” means the Commissioner of Insurance and Securities Regulation [Commissioner of the Department of Insurance, Securities, and Banking].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1631_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1631_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“License” means a license issued by the Commissioner to act as a public insurance adjuster.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1631_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Licensee” means any person licensed in the District to do business as a public insurance adjuster.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1631_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Public insurance adjuster” shall include any person who, for compensation or any other thing of value:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

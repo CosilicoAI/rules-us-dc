@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-610.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-610.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_610_03">
+        <akn:num>29-610.03</akn:num>
+        <akn:heading>Liability for improper distributions by limited liability partnership.</akn:heading>
+<akn:subsection eId="subsec_29-610_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a partner of a limited liability partnership consents to a distribution made in violation of § 29-610.02 and in consenting to the distribution fails to comply with § 29-604.07, the partner is personally liable to the partnership for the amount of the distribution which exceeds the amount that could have been distributed pursuant to § 29-610.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-610_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person that receives a distribution knowing that the distribution violated of § 29-604.07 is personally liable to the limited liability partnership but only to the extent that the distribution received by the person exceeded the amount that could have been properly paid in accordance with § 29-604.07.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-610_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person against which an action is commenced because the person is liable under subsection (a) of this section may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-610_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An action under this section is barred if not commenced not later than 2 years after the distribution.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

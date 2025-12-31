@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-1204"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-1204/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_1204">
+        <akn:num>21-1204</akn:num>
+        <akn:heading>Requirements of medication orders.</akn:heading>
+<akn:subsection eId="subsec_21-1204_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The written instructions of the licensed practitioner shall state the name of the program participant who is to receive medication, the name of the medication, name and telephone number of the licensed practitioner, the time of administration, dosage, method of administration, and duration of medication.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-1204_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The medication shall be labeled so as to state the name of the program participant, the name of the medication, name of the licensed practitioner, the name and telephone number of the pharmacy, the date dispensed, the amount and expiration date, the time of administration, duration of medication, dosage, and method of administration.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-1204_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The medication shall be accompanied by a medical order form which shall state the name of the program participant, the name of the medication, name and telephone number of the licensed practitioner, the date dispensed, the time of administration, duration of medication, dosage, method of administration, and any potential major side effects.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

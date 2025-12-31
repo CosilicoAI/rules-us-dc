@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-607"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-607/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_607">
+        <akn:num>4-607</akn:num>
+        <akn:heading>Lien.</akn:heading>
+<akn:subsection eId="subsec_4-607_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as limited by subsections (b) and (c) of this section, the District shall have a lien, perfected in accordance with subsection (d) of this section, upon any judgment or settlement awarded or executed in favor of a beneficiary against a third party for that amount of the judgment or settlement that represents the care and treatment it has undertaken to provide or pay for as health-care assistance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-607_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the beneficiary prosecutes a claim on behalf of the District in a proceeding or settlement negotiations and incurs a personal liability for litigation costs and attorney’s fees, the Mayor shall determine in good faith what, if any, contribution to those costs and fees would be appropriate, and that contribution shall be subtracted from the amount of the lien.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-607_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The beneficiary shall have the right to retain the amount of judgment or settlement that remains after the deduction of litigation costs, reasonable attorney’s fees, or any amount necessary to reimburse the District for medical assistance payments the District has made on behalf of the beneficiary or the United States to the extent of the United States’ financial participation in the medical assistance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-607_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>To perfect a lien under this section, the Mayor, before payment of any part of a judgment or settlement is made to the beneficiary, shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-607_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If after receiving a notice of lien under paragraph (2) of subsection (d) of this section, a beneficiary, third party, or an insurer of a third-party tortfeasor disposes of funds covered by a lien perfected under this section without paying the District the amount of its lien that could have been satisfied from those funds after paying off any prior liens, that beneficiary, third party, or insurer shall, for a period of 1 year from the date the funds were improperly disposed of, be liable to the District for any amount that, because of the disposition, it is unable to recover.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

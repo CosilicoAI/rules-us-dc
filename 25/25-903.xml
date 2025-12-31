@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-903"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-903/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_903">
+        <akn:num>25-903</akn:num>
+        <akn:heading>Collection of tax.</akn:heading>
+<akn:subsection eId="subsec_25-903_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Taxes on alcoholic beverages shall be collected by, and paid to, the Deputy Chief Financial Officer for Tax and Revenue of the Office of Tax and Revenue, or any successor (“OTR Director”) and shall be deposited in the Treasury of the United States to the credit of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-903_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each licensee identified in §§ 25-901 and 25-902 shall, before the 16th day of each month, furnish to the OTR Director, on a form to be prescribed by the OTR Director, a statement under oath showing the quantity of alcoholic beverage subject to taxation sold by the licensee during the preceding calendar month and shall, before the 16th day of each month, pay to the OTR Director the tax imposed thereon.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

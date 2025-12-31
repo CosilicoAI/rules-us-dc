@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-502"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-502/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_502">
+        <akn:num>28:2-502</akn:num>
+        <akn:heading>Buyer’s right to goods on seller’s repudiation, failure to deliver, or insolvency.</akn:heading>
+<akn:subsection eId="subsec_28:2-502_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Subject to subsections (2) and (3) and even though the goods have not been shipped, a buyer who has paid a part or all of the price of goods in which he has a special property under the provisions of § 28:2-501 may, on making and keeping good a tender of any unpaid portion of their price, recover them from the seller if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-502_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The buyer’s right to recover the goods under subsection (1)(a) vests upon acquisition of a special property, even if the seller had not then repudiated or failed to deliver.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-502_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>If the identification creating his special property has been made by the buyer he acquires the right to recover the goods only if they conform to the contract for sale.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

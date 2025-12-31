@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-942"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-942/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_942">
+        <akn:num>11-942</akn:num>
+        <akn:heading>Subpenas</akn:heading>
+<akn:subsection eId="subsec_11-942_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Superior Court may compel the attendance of witnesses by attachment. At the request of any party, subpenas [subpoenas] for attendance at a hearing or trial in the Superior Court shall be issued by the clerk of court. A subpena [subpoena] may be served at any place within the District of Columbia, or at any place without the District of Columbia that is within twenty-five miles of the place of the hearing or trial specified in the subpena [subpoena]. The form, issuance, and manner of service of the subpena [subpoena] shall be as prescribed by the rule of the court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-942_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A subpena [subpoena] in a criminal case in which a felony is charged may be served at any place within the United States upon order of a judge of the court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

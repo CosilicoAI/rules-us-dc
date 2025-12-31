@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-303"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-303/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_303">
+        <akn:num>38-303</akn:num>
+        <akn:heading>Regulations determining tuition requirement; penalties; prosecutions.</akn:heading>
+<akn:subsection eId="subsec_38-303_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The State Education Office shall take such action as may be necessary to determine which of the persons, attending or desiring to attend the public schools of the District of Columbia, for whom tuition shall be paid as required by § 38-302, and said State Education Office is authorized to make regulations to carry out the intent and purposes of this chapter; provided, that such rules and all changes proposed to such rules are issued by the State Education Office in accordance with the provisions of § 2-505(a). Following the final adoption of such rules, the State Education Office shall transmit a copy to the Mayor and a copy to the Council of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-303_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person who makes a statement required or authorized by this chapter to be filed with the State Education Office knowing that the information set forth in such statement is false shall be fined not more than $300 or imprisoned for not more than 90 days, or both. Any person violating any regulation made pursuant to the authority in this chapter shall be fined not more than $100 or imprisoned for not more than 30 days.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-303_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All prosecutions for violations of this chapter, or regulations made pursuant thereto, shall be conducted in the name of the District of Columbia by the Corporation Counsel or any of his assistants. As used in this chapter the term “Corporation Counsel” means the attorney for the District of Columbia, by whatever title such attorney may be known, designated by the Mayor of the District of Columbia to perform the functions prescribed for the Corporation Counsel in this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

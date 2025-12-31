@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-612"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-612/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_612">
+        <akn:num>28:2-612</akn:num>
+        <akn:heading>“Installment contract”; breach.</akn:heading>
+<akn:subsection eId="subsec_28:2-612_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>An “installment contract” is one which requires or authorizes the delivery of goods in separate lots to be separately accepted, even though the contract contains a clause “each delivery is a separate contract” or its equivalent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-612_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The buyer may reject any installment which is non-conforming if the non-conformity substantially impairs the value of that installment and cannot be cured or if the non-conformity is a defect in the required documents; but if the non-conformity does not fall within subsection (3) and the seller gives adequate assurance of its cure the buyer must accept that installment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-612_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Whenever non-conformity or default with respect to one or more installments substantially impairs the value of the whole contract there is a breach of the whole. But the aggrieved party reinstates the contract if he accepts a non-conforming installment without seasonably notifying of cancellation or if he brings an action with respect only to past installments or demands performance as to future installments.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

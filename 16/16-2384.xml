@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2384"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2384/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2384">
+        <akn:num>16-2384</akn:num>
+        <akn:heading>Motions.</akn:heading>
+<akn:subsection eId="subsec_16-2384_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A motion for permanent guardianship may be filed by the proposed permanent guardian, the District of Columbia government, or by the child through his or her legal representative.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2384_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A motion for a permanent guardianship may be filed any time after a neglect petition is filed pursuant to section 16-2305.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2384_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A motion for permanent guardianship shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2384_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When any facts required pursuant to subsection (c) of this section are not known to the moving party, if he or she shall so state in the motion, or on a motion by any party, the court, for good cause shown, may direct the filing of a bill of particulars to inform the moving party of the precise nature of the allegations of neglect.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

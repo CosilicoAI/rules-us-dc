@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-111"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-111/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_111">
+        <akn:num>41-111</akn:num>
+        <akn:heading>Property held by fiduciaries.</akn:heading>
+<akn:subsection eId="subsec_41-111_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All intangible personal property and any income or increment thereon, held in a fiduciary capacity for the benefit of another person, is presumed abandoned unless the owner, within 3 years after it becomes payable or distributable, has increased or decreased the principal, accepted payment of principal or income, corresponded in writing concerning the property, or otherwise indicated an interest as evidenced by a memorandum on file with the fiduciary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-111_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purpose of this section, if a person holds property as an agent for a business association, the agent is deemed to hold the property in a fiduciary capacity for that business association unless the agreement between the agent and the business association provides otherwise.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-111_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this chapter, if a person is deemed to hold property in a fiduciary capacity for a business association alone, that person is the holder of the property only insofar as the interest of the business association in the property is concerned and the business association is the holder of the property insofar as the interest of any other person in the property is concerned.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

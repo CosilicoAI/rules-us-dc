@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1902.24"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1902.24/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1902_24">
+        <akn:num>42-1902.24</akn:num>
+        <akn:heading>Improvements or alterations within unit; exterior appearance not to be changed; merger of adjoining units.</akn:heading>
+<akn:subsection eId="subsec_42-1902_24_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except to the extent prohibited by the condominium instruments, and subject to any restrictions and limitations specified therein, any unit owner may make any improvements or alterations within his unit that do not impair the structural integrity of any structure or otherwise lessen the support of any portion of the condominium. But no unit owner shall do anything which would change the exterior appearance of his unit or of any other portion of the condominium except to such extent and subject to such conditions as the condominium instruments may specify.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1902_24_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except to the extent prohibited by the condominium instruments, and subject to any restrictions and limitations specified therein, if a unit owner acquires an adjoining unit, or an adjoining part of an adjoining unit, then such unit owner shall have the right to remove all or part of any intervening partition or to create doorways or other apertures therein, notwithstanding the fact that such partition may in whole or in part be a common element, so long as no portion of any bearing wall or bearing column is weakened or removed and no portion of any common element other than that partition is damaged, destroyed, or endangered. Such creation of doorways or other apertures shall not be deemed an alteration of boundaries within the meaning of § 42-1902.25.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

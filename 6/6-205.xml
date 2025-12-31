@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-205"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-205/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_205">
+        <akn:num>6-205</akn:num>
+        <akn:heading>Limitation on actions against Authority.</akn:heading>
+<akn:subsection eId="subsec_6-205_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An action may not be maintained against the Authority for damages to property or personal injuries unless, within 6 months after the date on which the damage or injury was sustained, the claimant, or the claimant’s agent or attorney, gives notice in writing to the Executive Director of the approximate time, place, cause, and circumstances of the damage or injury. Any claim of which the Authority is not given notice in accordance with this provision shall be forever waived and barred.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-205_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding any provision of law to the contrary, the Authority shall be entitled to the same number of days to which the District is entitled, as the same may change from time to time, for answering any complaint or other process served upon it.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-205_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Execution or other judicial process shall not issue against real property owned in whole or in part by the Authority, nor shall any judgment against the Authority be a charge or lien upon real property owned in whole or in part by the Authority. This subsection shall not apply to or limit the right to foreclose or otherwise enforce any mortgage on property of the Authority or the right to pursue any remedies for the enforcement of any security interest or lien given by the Authority on its rents, fees, and revenues.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-205_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The District government, its officers, departments, agencies, or other units of government shall not be liable for damages for any action, or failure to take action, by the Authority or its officers, employees, or agents. Notwithstanding any other provision of this chapter, the District government shall not be liable for any note or other obligation (including any mortgage or other agreement securing the indebtedness) entered into by the Authority in the acquisition, financing, or refinancing of the indebtedness of, real or personal, property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

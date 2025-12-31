@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-420"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-420/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_420">
+        <akn:num>44-420</akn:num>
+        <akn:heading>Fees.</akn:heading>
+<akn:subsection eId="subsec_44-420_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The SHPDA shall collect application fees from persons that request a certificate of need. The fee required for an application shall be the greater of 3% of the proposed capital expenditure or $5,000, with a maximum of $300,000. The SHPDA is authorized to establish a fee schedule for certain data, analyses and reports published by the SHPDA from the HPDS. The annual user fee for private hospitals shall be $4 per inpatient admission, based on the previous calendar year’s admission data, to be paid to the SHPDA on a quarterly basis, in lieu of a certificate of need application fee. The certificate of need application fee for any project receiving funds through the Medical Homes DC initiative, as operated by the District of Columbia Primary Care Association, shall be $5,000. User fees may also be established for other classes of facilities by regulation. SHPDA may adjust a user fee periodically to reflect the change in the Consumer Price Index issued by the Bureau of Labor Statistics, United States Department of Labor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-420_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of subsection (a) of this section, the maximum application fee that may be collected from Specialty Hospitals of America, LLC, or certain of its subsidiary entities, for facilities located in Lots 3 and 4, Square 5919, related to the acquisition of Greater Southeast Community Hospital shall be $300,000.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

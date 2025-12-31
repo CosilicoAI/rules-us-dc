@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2003"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2003/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2003">
+        <akn:num>47-2003</akn:num>
+        <akn:heading>Reimbursement of vendor for tax.</akn:heading>
+<akn:subsection eId="subsec_47-2003_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Reimbursement for the tax imposed upon the vendor shall be collected by the vendor from the purchaser on all sales the gross receipts from which are subject to the tax imposed by this chapter so far as it can be done. It shall be the duty of each purchaser in the District to reimburse the vendor, as provided in § 47-2004, for the tax imposed by this chapter. Such reimbursement of tax shall be a debt from the purchaser to the vendor and shall be recoverable at law in the same manner as other debts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2003_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the event that the vendor shall collect a tax in excess of the reimbursement schedule rates provided for in this chapter, such excess shall be refunded to the purchaser, or in lieu thereof, shall become a debt to the District in the same manner as taxes due and payable under this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

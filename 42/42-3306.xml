@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3306"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3306/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3306">
+        <akn:num>42-3306</akn:num>
+        <akn:heading>Findings required prior to termination of service.</akn:heading>
+<akn:subsection eId="subsec_42-3306_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It shall be unlawful for any electric company, electricity supplier, gas company, or natural gas supplier to terminate service at the request of the owner, agent, lessor, or manager of an apartment house subject to this chapter, unless the Public Service Commission first makes a finding that all units within the apartment house are not lawfully occupied, or the Public Service Commission finds that services provided by such company shall be provided by other means.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3306_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed to relieve any owner, agent, lessor, or manager of an apartment house from liability under a contract for the provision of services with an electric company, electricity supplier, gas company, or natural gas supplier until such time as the Public Service Commission makes its findings as required by subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

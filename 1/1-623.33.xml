@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.33"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.33/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_623_33">
+        <akn:num>1-623.33</akn:num>
+        <akn:heading>Compensation in case of death.</akn:heading>
+<akn:subsection eId="subsec_1-623_33_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If death results from an injury sustained in the performance of duty, the District of Columbia government shall pay a monthly compensation equal to a percentage of the monthly pay of the deceased employee in accordance with the following schedule:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_33_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_33_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>On the cessation of compensation under this section to or on the account of an individual, the compensation of the remaining individuals, entitled to compensation or the unexpired part of the period during which their compensation is payable is that which they would have received if they had been the only individuals entitled to compensation at the time of the death of the employee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_33_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When there are 2 or more classes of individuals entitled to compensation under this section and the apportionment of compensation under this section would result in injustice, the Mayor may modify the apportionment to meet the requirements of the case.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_33_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>In computing compensation under this section, the monthly pay is deemed not less than the minimum rate of basic pay for GS-2 as provided in § 5332 of Title 5 of the United States Code or its equivalent as provided in subchapter XI of this chapter. The total monthly compensation may not exceed:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_33_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Notwithstanding any funeral and burial expenses paid under § 1-623.34, there shall be paid a sum of $200 to the personal representative of a deceased employee within the meaning of subparagraph (A) of paragraph (1) of § 1-623.01 for reimbursement of the costs of termination of the decedent’s status as an employee of the District of Columbia government.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

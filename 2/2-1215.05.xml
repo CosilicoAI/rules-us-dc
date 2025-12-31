@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1215.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1215.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1215_05">
+        <akn:num>2-1215.05</akn:num>
+        <akn:heading>Review of application.</akn:heading>
+<akn:subsection eId="subsec_2-1215_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall have 15 days (excluding Saturdays, Sundays, and holidays) from the date of the filing of a BID application to conduct a preliminary review of the application to determine if the filing criteria set forth in § 2-1215.04 have been met and if the application is otherwise in conformity with this subchapter. If the Mayor fails to make a determination that the BID application is either not in conformity with this subchapter or that the BID application requirements have been met within 15 days (excluding Saturdays, Sundays, and holidays), such inaction shall constitute an affirmative preliminary determination that the BID application requirements have been met and the Mayor shall schedule, notify, and hold the required public hearing pursuant to § 2-1215.06. The Mayor may designate the Department of Small and Local Business Development, or a successor thereto, to perform the review functions described by this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1215_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

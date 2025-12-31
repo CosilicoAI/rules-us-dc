@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.141"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.141/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_301_141">
+        <akn:num>1-301.141</akn:num>
+        <akn:heading>Chief Financial Officer for the Department of Housing and Community Development.</akn:heading>
+<akn:subsection eId="subsec_1-301_141_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer shall appoint a chief financial officer for the Department of Housing and Community Development (“Department”), with the approval of the Director of the Department, to provide services solely to the Department. The chief financial officer for the Department shall not be the chief financial officer for any other executive branch office or agency. The chief financial officer for the Department shall have significant knowledge of, and experience with, programs the Department administers in conjunction with the United States Department of Housing and Urban Development.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_141_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer shall make the appointment under subsection (a) of this section at the earlier of the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-609"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-609/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_609">
+        <akn:num>3-609</akn:num>
+        <akn:heading>Liability of Commission members.</akn:heading>
+<akn:subsection eId="subsec_3-609_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A member of the Commission shall not knowingly participate in any action of the Commission if such member, or the member’s spouse or domestic partner, parent, grandparent, child, grandchild, brother, sister, uncle, aunt, cousin, nephew or niece, has a financial or business interest in the action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-609_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A member shall not be liable in damages or court costs for any action of the Commission performed in good faith.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

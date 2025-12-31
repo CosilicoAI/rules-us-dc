@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-204.61"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-204.61/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_204_61">
+        <akn:num>4-204.61</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_4-204_61_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Case mix reimbursement methodology” means a prospective Medicaid payment rate system for nursing facilities that includes:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_61_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Medicaid” means the medical assistance programs authorized by title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), and by § 1-307.02, and administered by the Department of Health.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-204_61_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Nursing facility” means a health care facility as defined in § 44-501(a)(3), but does not include a health care facility operated by the federal government.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

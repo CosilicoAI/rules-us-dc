@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-407.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-407.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_407_01">
+        <akn:num>29-407.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_29-407_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Domesticated corporation” means the domesticating corporation as it continues in existence after a domestication.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-407_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Domesticating corporation” means the domestic nonprofit corporation that adopts a plan of domestication pursuant to § 29-407.03 or the foreign nonprofit corporation that approves a domestication pursuant to its organic law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-407_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Domestication” means a transaction authorized by this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-407_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Surviving corporation” means the corporation as it continues in existence immediately after consummation of a domestication pursuant to this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

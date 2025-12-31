@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1631.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1631.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1631_05">
+        <akn:num>31-1631.05</akn:num>
+        <akn:heading>Bond requirement.</akn:heading>
+<akn:subsection eId="subsec_31-1631_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>At the time of the application for license as a public insurance adjuster, the applicant shall file with the Commissioner a bond executed and issued by a surety insurer authorized to transact business in the District in the amount of $20,000, which bond shall serve the faithful performance of his or her duties as a public insurance adjuster. A public insurance adjuster license shall automatically terminate when the bond is not in force.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1631_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The bond shall have the following characteristics:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

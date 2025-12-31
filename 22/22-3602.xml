@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3602"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3602/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3602">
+        <akn:num>22-3602</akn:num>
+        <akn:heading>Enhanced penalty for committing certain dangerous and violent crimes against a citizen patrol member.</akn:heading>
+<akn:subsection eId="subsec_22-3602_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For purposes of this section, the term “citizen patrol” means a group of residents of the District of Columbia organized for the purpose of providing additional security surveillance for certain District of Columbia neighborhoods with the goal of crime prevention. The term shall include, but is not limited to, Orange Hat Patrols, Red Hat Patrols, Blue Hat Patrols, or Neighborhood Watch Associations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3602_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person who commits any offense listed in subsection (c) of this section against a member of a citizen patrol (“member”) while that member is participating in a citizen patrol, or because of the member’s participation in a citizen patrol, may be punished with a fine up to 1 1/2 times the maximum fine otherwise authorized for the offense or may be imprisoned for a term of up to 1 1/2 times the maximum term of imprisonment otherwise authorized for this offense, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3602_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The provisions of subsection (b) of this section shall apply to the following offenses: taking or attempting to take property from another by force or threat of force, forcible rape, or assault with intent to commit forcible rape, murder, mayhem, kidnapping, robbery, burglary, voluntary manslaughter, extortion or blackmail accompanied by threats of violence, assault with a deadly weapon, simple assault, aggravated assault, or a conspiracy to commit any of the foregoing offenses as defined by an Act of Congress or law of the District of Columbia if the offense is punishable by imprisonment for more than 1 year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

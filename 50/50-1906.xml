@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1906"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1906/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1906">
+        <akn:num>50-1906</akn:num>
+        <akn:heading>License revocation or denial order; hearing.</akn:heading>
+<akn:subsection eId="subsec_50-1906_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever any license, or privilege to drive in the District of Columbia, has been revoked or denied under the provisions of this chapter, the reasons therefor shall be set forth in the order of revocation or denial, as the case may be. Such order shall take effect in 10 days (15 days, if the person is a nonresident) after service of notice on the person whose license or privilege to drive in the District of Columbia is to be revoked or who was denied a license. A hearing on the revocation shall be held if the respondent files a request for a hearing within 10 days (15 days if the person is a nonresident) of service of the notice. Such hearing by the Mayor shall cover the issues of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1906_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If, following the hearing provided in subsection (a) of this section, the Mayor shall sustain the order of revocation, the same shall become effective immediately.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

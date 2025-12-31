@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-620.23"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-620.23/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_620_23">
+        <akn:num>1-620.23</akn:num>
+        <akn:heading>Testing methodology.</akn:heading>
+<akn:subsection eId="subsec_1-620_23_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Testing shall be performed by an outside contractor.  The contractor shall be certified by the United States Department of Health and Human Services (“HHS”) to perform job related drug and alcohol forensic testing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_23_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_23_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The contractor shall perform enzyme-multiplied-immunoassay technique (“EMIT”) testing on one sample and store the other sample.  Any positive EMIT test shall be confirmed by the contractor using gas chromatography/mass spectrometry (“GCMS”) methodology.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_23_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any Department of Mental Health or Department of Human Services employee found to have a confirmed positive urinalysis shall be notified of the result.  The employee may then authorize the stored sample to be sent to another HHS certified laboratory of his or her choice, at his or her expense, for secondary GCMS confirmation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_23_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Probable cause and post-accident testing shall follow the same procedures set forth in subsections (a) through (d) of this section.  In such cases, the employee shall be escorted by a supervisor to the contractor’s test site for specimen collection or breathalyzer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_23_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A breathalyzer shall be deemed positive by the Department of Mental Health’s or Department of Human Services’ testing contractor if the contractor determines that 1 milliliter of the employee’s breath (consisting of substantially alveolar air) contains .38 micrograms or more of alcohol.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

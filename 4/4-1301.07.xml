@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1301.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1301.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1301_07">
+        <akn:num>4-1301.07</akn:num>
+        <akn:heading>Removal of children.</akn:heading>
+<akn:subsection eId="subsec_4-1301_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In cases in which a child is alleged to be a neglected, but not an abused, child the Agency shall determine whether the child should be removed from the home or can be protected by the provision of services or resources. If in the opinion of the Agency the available services or resources are insufficient to protect the child and there is insufficient time to petition for removal, the Agency shall request the police to remove the child pursuant to § 16-2309(a)(3) or (a)(4).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1301_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In all cases for which the police are responsible for the initial investigation but which do not involve an immediate danger to a child, the police shall seek from the Agency and the Agency shall provide assistance in the determination of whether the child can be protected by the provision of services or resources or whether removal is necessary. Whenever possible the Agency shall dispatch a worker to the scene to provide assistance in this determination.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1301_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In all cases for which the police are responsible for the initial investigation and which do involve an immediate danger to a child and require removal pursuant to § 16-2309(a)(3), the police shall immediately notify the Agency of the removal and the latter shall investigate alternative placements for the child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1301_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When, prior to a shelter care hearing, the Agency locates a suitable alternative placement pursuant to subsection (c) of this section, the police may release the child pursuant to § 16-2311(a)(1).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1301_07_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Director of the Agency or his or her designee shall take custody of a child and remove the child from a hospital pending further custody proceedings if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

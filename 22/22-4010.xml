@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4010"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4010/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_4010">
+        <akn:num>22-4010</akn:num>
+        <akn:heading>Maintenance and release of sex offender registration information by the Court Services and Offender Supervision Agency.</akn:heading>
+<akn:subsection eId="subsec_22-4010_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Agency shall have the authority to maintain and operate the sex offender registry for the District of Columbia, including the authority to maintain the information obtained on sex offenders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4010_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Agency shall have the authority to enter the information obtained on sex offenders into appropriate record systems and databases and:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4010_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This chapter does not authorize the Agency to make sex offender registration information publicly available, except as authorized by the rules promulgated under § 22-4011(g), or through the provision of such information to the Metropolitan Police Department or other agencies or authorities as authorized by this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

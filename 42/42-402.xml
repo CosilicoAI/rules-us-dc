@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-402"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-402/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_402">
+        <akn:num>42-402</akn:num>
+        <akn:heading>Defective grants recorded before April 27, 1994.</akn:heading>
+<akn:subsection eId="subsec_42-402_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any instrument recorded in the Office of the Recorder of Deeds before April 27, 1994, shall be effective notwithstanding the existence of 1 or more of the failures in the formal requisites listed in § 42-404, unless the failure was challenged in a judicial proceeding commenced within 6 months from April 27, 1994.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-402_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall affect the validity of instruments recorded before April 27, 1994, which have been validated by prior law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

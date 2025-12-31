@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.62"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.62/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_62">
+        <akn:num>1-204.62</akn:num>
+        <akn:heading>Contents of borrowing legislation and elections on issuing general obligation bonds.</akn:heading>
+<akn:subsection eId="subsec_1-204_62_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Council may by act authorize the issuance of general obligation bonds for the purposes specified in § 1-204.61. Such an Act shall contain, at least, provisions:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_62_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any election held on the question of issuing general obligation bonds must be held before the act authorizing the issuance of such bonds is transmitted to the Speaker of the House of Representatives and the President of the Senate pursuant to § 1-206.02(c).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_62_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding § 1-206.02(c)(1), the provisions required by paragraph (6) of subsection (a) of this section to be included in any act authorizing the issuance of general obligation bonds shall take effect on the date of the enactment of such act.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

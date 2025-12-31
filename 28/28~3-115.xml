@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-115"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-115/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_115">
+        <akn:num>28:3-115</akn:num>
+        <akn:heading>Incomplete instrument.</akn:heading>
+<akn:subsection eId="subsec_28:3-115_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>“Incomplete instrument” means a signed writing, whether or not issued by the signer, the contents of which show at the time of signing that it is incomplete, but that the signer intended it to be completed by the addition of words or numbers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-115_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to subsection (c) of this section, if an incomplete instrument is an instrument under section 28:3-104, it may be enforced according to its terms if it is not completed, or according to its terms as augmented by completion. If an incomplete instrument is not an instrument under section 28:3-104, but, after completion, the requirements of section 28:3-104 are met, the instrument may be enforced according to its terms as augmented by completion.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-115_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If words or numbers are added to an incomplete instrument without authority of the signer, there is an alteration of the incomplete instrument under section 28:3-407.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-115_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The burden of establishing that words or numbers were added to an incomplete instrument without authority of the signer is on the person asserting the lack of authority.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

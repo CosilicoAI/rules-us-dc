@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1331.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1331.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1331_04">
+        <akn:num>32-1331.04</akn:num>
+        <akn:heading>Workplace fraud prohibited.</akn:heading>
+<akn:subsection eId="subsec_32-1331_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An employer shall not improperly classify an individual who performs services for remuneration paid by an employer as an independent contractor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1331_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An employer has improperly classified an individual when an employer-employee relationship exists, as determined by subsection (c) of this section, but the employer has not classified the individual as an employee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1331_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An employer-employee relationship shall be presumed to exist when work is performed by an individual for remuneration paid by an employer, unless to the satisfaction of the Mayor, the employer demonstrates that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

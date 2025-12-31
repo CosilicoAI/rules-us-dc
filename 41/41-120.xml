@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-120"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-120/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_120">
+        <akn:num>41-120</akn:num>
+        <akn:heading>Custody by the District government; holder relieved from liability; payment of safe deposit box or repository charges; reimbursement of holder paying claim; reclaiming by owner.</akn:heading>
+<akn:subsection eId="subsec_41-120_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon the payment or delivery of property to the Mayor, the District government assumes custody and responsibility for the safekeeping of the property. Any person who pays or delivers property to the Mayor in good faith under this chapter is relieved of all liability to the extent of the value of the property so paid or delivered for any claim then existing or which may arise thereafter or be made in respect to the property. Property removed from a safe deposit box or other safekeeping repository may be received by the Mayor subject to any valid lien or contract providing for the holder to be reimbursed for unpaid rent or storage charges and the actual cost of the opening thereof, which rent and charges must be paid out of the proceeds remaining after the Mayor has deducted therefrom his or her selling costs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-120_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any holder who has paid money to the Mayor pursuant to this chapter may make payment to any person appearing to the holder to be entitled thereto, and, upon filing proof of payment and proof that the payee was entitled thereto, the Mayor shall reimburse the holder for the payment without deduction of any fee or other charges. If reimbursement is sought for a payment made on a negotiable instrument including, but not limited to, a traveler’s check or money order, the holder must be reimbursed under this subsection upon filing proof that the instrument was duly presented to the holder and that payment was made to a person who appeared to the holder to be entitled to payment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-120_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any holder who has delivered property to the Mayor pursuant to this chapter may reclaim the property without payment of any fee or other charges upon filing proof that the owner has claimed the property from the holder. The Mayor, in the Mayor’s discretion, may accept an affidavit of the holder stating the facts that entitle the holder to reimbursement under this subsection as sufficient proof.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

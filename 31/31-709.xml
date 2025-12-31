@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-709"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-709/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_709">
+        <akn:num>31-709</akn:num>
+        <akn:heading>Injunctions, prohibitions against voting securities, sequestration of voting securities.</akn:heading>
+<akn:subsection eId="subsec_31-709_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever it appears to the Mayor that any insurer or any director, officer, employee, or agent has committed, or is about to commit, a violation of this subchapter or of any rule, regulation, or order issued by the Mayor, the Mayor may apply to the Superior Court of the District of Columbia for an order enjoining the insurer or the director, officer, employee, or agent from violating or continuing to violate this subchapter or any rule, regulation, or order, and for any other equitable relief as the nature of the case and the interest of the insurer’s policyholders, creditors, and shareholders or the public may require.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-709_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-709_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In any case where a person has acquired, or is proposing to acquire, any voting securities in violation of this subchapter or any rule, regulation, or order issued by the Mayor pursuant to this subchapter, the Superior Court of the District of Columbia may, on that notice the court deems appropriate and upon the application of the insurer or the Mayor, seize or sequester any voting securities of the insurer owned directly or indirectly by the person, and issue an order appropriate to effectuate the provisions of this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-709_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provisions of law, for the purposes of this subchapter the sites of the ownership of the securities of domestic insurers shall be deemed to be in the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

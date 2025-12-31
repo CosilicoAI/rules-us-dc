@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-751.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-751.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_751_02">
+        <akn:num>38-751.02</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_38-751_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“DC-BAS” means the DC Benchmark System.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-751_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“DC-CAS” means the District of Columbia Comprehensive Assessment System examination.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-751_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Feeder school group” means one or more schools serving students in grades 4 through 9. Feeder school groups shall be selected by the Mayor and may consist of any of the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-751_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Low-performing school” means a public school or public charter school in which fewer than 40% of students performed proficient or higher on the 2011 DC-CAS.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-751_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Mid-high-performing school” means a public school or public charter school in which 40% or more of students performed proficient or higher on the 2011 DC-CAS.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

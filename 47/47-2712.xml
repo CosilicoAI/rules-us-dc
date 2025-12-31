@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2712"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2712/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2712">
+        <akn:num>47-2712</akn:num>
+        <akn:heading>Electrical fees.</akn:heading>
+<akn:subsection eId="subsec_47-2712_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor of the District of Columbia shall amend from time to time the schedule of fees to be charged by the District of Columbia for the inspection of electrical equipment and for the issuance of permits to perform electrical services. The Mayor shall amend the schedule by rule to provide for fees in amounts as in his judgment will defray the approximate costs of performing inspections and issuing permits.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2712_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Until the schedule of fees is amended by the Mayor in accordance with subsection (a) of this section, the schedule of fees to be charged by the District of Columbia for the inspection of electrical equipment and for the issuance of permits to perform electrical services is as follows:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

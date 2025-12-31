@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1342"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1342/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1342">
+        <akn:num>32-1342</akn:num>
+        <akn:heading>Inquiries into certain arrests, accusations, and convictions.</akn:heading>
+<akn:subsection eId="subsec_32-1342_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An employer may not make an inquiry about or require an applicant to disclose or reveal:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1342_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An employer may not make an inquiry about or require an applicant to disclose or reveal a criminal conviction until after making a conditional offer of employment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1342_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The prohibitions of this subchapter shall not apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1342_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Following the extension of a conditional offer of employment, an employer may only withdraw the conditional offer to an applicant or take an adverse action against an applicant for a legitimate business reason. The employer’s determination of a legitimate business reason must be reasonable in light of the following factors:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1342_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If an applicant believes that a conditional offer was terminated or an adverse action was taken against the applicant on the basis of a criminal conviction, the applicant may request, within 30 days after the termination or adverse action, that the employer provide the applicant within 30 days after the receipt of the request:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

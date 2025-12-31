@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-203.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-203.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_203_05">
+        <akn:num>29-203.05</akn:num>
+        <akn:heading>Statement of interest exchange; effective date.</akn:heading>
+<akn:subsection eId="subsec_29-203_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A statement of interest exchange shall be signed on behalf of a domestic acquired entity and delivered to the Mayor for filing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-203_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A statement of interest exchange shall contain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-203_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to the requirements of subsection (b) of this section, a statement of interest exchange may contain any other provision not prohibited by law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-203_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A plan of interest exchange that is signed on behalf of a domestic acquired entity and meets all of the requirements of subsection (b) of this section may be delivered to the Mayor for filing instead of a statement of interest exchange and upon filing by the Mayor has the same effect. If a plan of interest exchange is filed as provided in this subsection, references in this chapter to a statement of interest exchange shall refer to the plan of interest exchange filed under this subsection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-203_05_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A statement of interest exchange shall be effective upon the date and time of filing or the later date and time specified in the statement of interest exchange.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

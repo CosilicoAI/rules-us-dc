@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4404"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4404/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4404">
+        <akn:num>16-4404</akn:num>
+        <akn:heading>Effect of agreement to arbitrate; nonwaivable provisions.</akn:heading>
+<akn:subsection eId="subsec_16-4404_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsections (b) and (c) of his section, a party to an agreement to arbitrate or to an arbitration proceeding may waive or, the parties may vary the effect of, the requirements of this chapter to the extent permitted by law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4404_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before a controversy arises that is subject to an agreement to arbitrate, a party to the agreement may not:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4404_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A party to an agreement to arbitrate or arbitration proceeding may not waive, or the parties may not vary the effect of, the requirements of this section or §§ 16-4403(a) or (c), 16-4407, 16-4414, 16-4418, 16-4419, 16-4420(d) or (e), 16-4422, 16-4423, 16-4424, 16-4425, and 16-4429, except that, if there is an agreement to arbitrate disputes over insurance obligations by and between 2 or more insurers, reinsurers, self-insurers, or reinsurance intermediaries, or any combination of them, the parties to the agreement may waive the right to vacatur under § 16-4423.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

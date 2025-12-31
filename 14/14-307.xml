@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/14-307"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/14-307/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_14_307">
+        <akn:num>14-307</akn:num>
+        <akn:heading>Physicians and mental health professionals.</akn:heading>
+<akn:subsection eId="subsec_14-307_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In the Federal courts in the District of Columbia and District of Columbia courts a physician or surgeon or mental health professional as defined by § 7-1201.01(11) or a domestic violence counselor as defined in § 14-310(a)(2), a human trafficking counselor as defined in §  14-311(a)(2), or a sexual assault victim advocate as defined in §  14-312(a)(7) may not be permitted, without the consent of the client, or of his legal representative, to disclose any information, confidential in its nature, that he has acquired in attending a client in a professional capacity and that was necessary to enable him to act in that capacity, whether the information was obtained from the client or from his family or from the person or persons in charge of him.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_14-307_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This section does not apply to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_14-307_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

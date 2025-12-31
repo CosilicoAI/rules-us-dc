@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-865"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-865/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_865">
+        <akn:num>47-865</akn:num>
+        <akn:heading>Tax abatement for preservation of section 8 housing in qualified areas.</akn:heading>
+<akn:subsection eId="subsec_47-865_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section and § 47-866, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-865_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to subsection (c) of this section, if the owner of a housing accommodation that receives assistance pursuant to a HAP contract that is scheduled to expire after December 31, 2001, renews or extends the contract, or transfers the property to an owner who enters into a new contract with substantially the same use restrictions, the real property tax imposed on the property under § 47-811, or the payment in lieu of taxes imposed by § 47-1002(20), shall be reduced as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-865_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The tax abatement provided in subsection (a) of this section shall be allowed only if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-865_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-865_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>This section shall apply for tax years beginning on or after October 1, 2002.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

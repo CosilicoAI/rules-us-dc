@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-109.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-109.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_109_03">
+        <akn:num>9-109.03</akn:num>
+        <akn:heading>Additional requirements.</akn:heading>
+<akn:subsection eId="subsec_9-109_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Expeditious processing and execution of contracts. — The District of Columbia shall expeditiously process and execute contracts to implement the Federal-aid highway program in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-109_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Revolving fund account. — The District of Columbia shall establish an independent revolving fund account for Federal-aid highway projects. The account shall be separate from the capital account of the Department of Public Works of the District of Columbia and shall be reserved for the prompt payment of contractors completing highway projects in the District of Columbia under Title 23, United States Code.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-109_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Highway project expertise and resources. — The District of Columbia shall ensure that necessary expertise and resources are available for planning, design, and construction of Federal-aid highway projects in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-109_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Programmatic reforms. — The Secretary of Transportation, in consultation with the District of Columbia Financial Responsibility and Management Assistance Authority established pursuant to § 47-391.01(a), may require administrative and programmatic reforms by the District of Columbia to ensure efficient management of the Federal-aid highway program in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-109_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>GAO audit. — The Comptroller General of the United States shall review implementation of the requirements of this section (including requirements imposed under subsection (d) of this section) and report to Congress on the results of such review not later than July 1, 1996.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

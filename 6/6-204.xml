@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-204"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-204/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_204">
+        <akn:num>6-204</akn:num>
+        <akn:heading>Tax exemption.</akn:heading>
+<akn:subsection eId="subsec_6-204_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All assets and income of the Authority and all Housing Properties (whether or not owned or operated by the Authority) shall be exempt from District taxation, subject to the conditions contained in subsection (b) of this section and the approval required by subsection (c) of this section. Absent an agreement with the Authority approved by the Council, for-profit activities shall not be exempt from District taxation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-204_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Authority is empowered to negotiate tax exemption agreements concerning for-profit activities. These tax exemption agreements shall be limited to full or partial relief from the following District taxes: property, income, and sales. The maximum duration of any tax exemption agreement under this section shall be 5 years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-204_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Before a tax exemption agreement involving for-profit activities can become effective, legislation for this purpose shall be submitted to the Council for approval by act.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

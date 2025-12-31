@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1335"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1335/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1335">
+        <akn:num>31-1335</akn:num>
+        <akn:heading>Special claims.</akn:heading>
+<akn:subsection eId="subsec_31-1335_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The claim of a third party which is contingent only on his first obtaining a judgment against the insured shall be considered and allowed as if there were no contingency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1335_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A claim may be allowed even if contingent, if it is filed in accordance with § 31-1333. It may be allowed and may participate in all distributions declared after it is filed to the extent that it does not prejudice the orderly administration of the liquidation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1335_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Claims that are due except for the passage of time shall be treated as absolute claims are treated, except that the claims may be discounted at the legal rate of interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1335_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Claims made under employment contracts by directors, principal officers, or persons in fact performing similar functions or having similar powers are limited to payment for services rendered prior to the issuance of any order of rehabilitation or liquidation under § 31-1311 or § 31-1316.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-108"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-108/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4_108">
+        <akn:num>28:4-108</akn:num>
+        <akn:heading>Time of receipt of items.</akn:heading>
+<akn:subsection eId="subsec_28:4-108_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purpose of allowing time to process items, prove balances, and make the necessary entries on its books to determine its position for the day, a bank may fix an afternoon hour of 2 p.m. or later as a cutoff hour for the handling of money and items and the making of entries on its books.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-108_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An item or deposit of money received on any day after a cutoff hour so fixed or after the close of the banking day may be treated as being received at the opening of the next banking day.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

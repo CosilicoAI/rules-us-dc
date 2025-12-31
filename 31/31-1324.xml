@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1324"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1324/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1324">
+        <akn:num>31-1324</akn:num>
+        <akn:heading>Fraudulent transfer prior to petition.</akn:heading>
+<akn:subsection eId="subsec_31-1324_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every transfer made or suffered and every obligation incurred by an insurer within 1 year prior to the filing of a successful petition for rehabilitation or liquidation under this chapter is fraudulent as to then existing and future creditors if made or incurred without fair consideration, or with actual intent to hinder, delay, or defraud either existing or future creditors. A transfer made or an obligation incurred by an insurer ordered to be rehabilitated or liquidated under this chapter, which is fraudulent under this section, may be avoided by the receiver, except as to a person who in good faith is a purchaser, lienor, or obligee for a present fair equivalent value, and except that any purchaser, lienor, or obligee, who in good faith has given a consideration less than fair for the transfer, lien, or obligation, may retain the property, lien, or obligation as security for repayment. The court may, on due notice, order such a transfer or obligation to be preserved for the benefit of the estate, and in that event, the receiver shall succeed to and may enforce the rights of the purchaser, lienor, or obligee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1324_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1324_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any transaction of the insurer with a reinsurer shall be deemed fraudulent and may be avoided by the receiver under subsection (a) of this section if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1324_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Every person receiving any property from the insurer, or any benefit thereof, which is a fraudulent transfer under subsection (a) of this section shall be personally liable therefor and shall be bound to account to the liquidator.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

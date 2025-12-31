@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-5208"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-5208/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_5208">
+        <akn:num>28-5208</akn:num>
+        <akn:heading>Uniformity.</akn:heading>
+<akn:subsection eId="subsec_28-5208_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If different brands or package sizes of the same consumer commodity are expressed in more than one unit of measure, the retail establishment shall unit price the items consistently.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5208_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When metric units appear on the consumer commodity in addition to other units of measure, the retail establishment may include both units of measure on any stamps, tags, labels, signs, or lists.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

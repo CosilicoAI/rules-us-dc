@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/6-901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/6-901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_6_901">
+        <akn:num>6-901</akn:num>
+        <akn:heading>Inspection of buildings authorized.</akn:heading>
+<akn:subsection eId="subsec_6-901_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor may examine the habitability and sanitary condition of all buildings in the District of Columbia, to condemn those buildings which are in such insanitary condition as to endanger the health or lives of the occupants thereof or persons living in the vicinity, and to cause all buildings to be habitable and sanitary or to be demolished and removed. The Mayor may authorize and direct the performance of the duties imposed on him by this chapter by such officers, agents, employees, contractors, employees of contractors, and other persons as may be designated, detailed, employed, or appointed by the said Mayor to carry out the purposes of this chapter. The Mayor or his designated agent or agents are authorized to investigate, through personal inquiry and inspection, into the habitability and sanitary condition of a building or part of a building in said District, except such as are under the exclusive jurisdiction of the United States. The Mayor, and all persons acting under his authority and the authority contained in this chapter, may, between the hours of 8:00 a.m. and 5:00 p.m., peaceably enter into and upon any and all lands and buildings in said District for the purpose of inspecting the same. If the unsafe building or structure is an historic landmark or is located in an historic district, as defined in § 6-1102(5), the Mayor shall not order or cause the building or structure, or portion thereof, to be removed or taken down, unless the Mayor determines, in consultation with the State Historic Preservation Officer, as defined in § 6-1102(12), that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_6-901_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>As used in this section, the terms “uninhabitable” or “uninhabitability” mean the condition of being in an unlivable condition due to deterioration and infestation, improper maintenance, decaying structures, insufficient light or ventilation, inadequate plumbing, defective electrical system, or general filthy conditions that may cause health and safety concerns for the public, or that is a fire hazard or nuisance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

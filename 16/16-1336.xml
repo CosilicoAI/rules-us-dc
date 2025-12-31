@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1336"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-1336/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_1336">
+        <akn:num>16-1336</akn:num>
+        <akn:heading>Condemnation of excess real property by Mayor; payment of awards, damages, and costs; no assessments for benefits.</akn:heading>
+<akn:subsection eId="subsec_16-1336_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When, pursuant to this subchapter, excess real property is condemned by the Mayor, the condemnation proceedings for the acquisition of the property shall be in accordance with subchapter II of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1336_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Appropriations available for the payment of awards, damages, and condemnation proceedings pursuant to subchapter II of this chapter may be used in the payment of awards, damages, and costs in condemnation proceedings for the acquisition of excess real property, as provided by this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1336_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Appropriations available for the payment of awards, damages, and costs in condemnation proceedings pursuant to subchapter II of this chapter may be used in the payment of awards, damages, and costs in condemnation proceedings thereunder for the acquisition of excess real property as provided by this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-1336_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In all cases where excess real property is condemned, assessments for benefits may not be levied by the jury in respect to the acquisition of the property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

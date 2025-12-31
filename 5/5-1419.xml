@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1419"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1419/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_1419">
+        <akn:num>5-1419</akn:num>
+        <akn:heading>Impaired driving program; chemical testing.</akn:heading>
+<akn:subsection eId="subsec_5-1419_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The CME shall be responsible for ensuring the accuracy of blood and urine testing for the District’s impaired driving program. The CME may test or authorize the testing of specimens, as defined by § 50-1901(18), for the purposes of determining if specimens contain alcohol or a drug.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1419_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Until October 1, 2012, and after October 1, 2012 if authorized under § 5-1501.07(d), the CME shall be responsible for testing and certifying the accuracy of any District instrument utilized by District law enforcement personnel to test the alcohol content of breath. A District breath-test instrument shall only be used by District law enforcement personnel if it has been certified by the CME to be accurate. Certification of the accuracy of each breath test instrument must occur at least once every 180 days.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1419_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to the requirements under subsection (a) of this section, the CME shall:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-107.52"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-107.52/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_107_52">
+        <akn:num>9-107.52</akn:num>
+        <akn:heading>Bond authorization.</akn:heading>
+<akn:subsection eId="subsec_9-107_52_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Pursuant to § 1-204.90, the Council approves and authorizes the issuance of one or more series of GARVEE Bonds to fund the Qualified Transportation Project Costs of the Qualified Transportation Project; provided that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-107_52_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor is authorized to pay from the proceeds of the GARVEE Bonds the costs and expenses of issuing and delivering the GARVEE Bonds, including, but not limited to, underwriting discount or fees, rating agency fees, legal fees, accounting fees, financial advisory fees, trustee and paying agent fees, collection agent fees, bond insurance, letters of credit and other credit enhancements, liquidity enhancements, and printing costs and expenses.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

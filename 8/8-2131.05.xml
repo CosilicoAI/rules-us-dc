@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2131.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2131.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_2131_05">
+        <akn:num>8-2131.05</akn:num>
+        <akn:heading>Abatement of a public health nuisance.</akn:heading>
+<akn:subsection eId="subsec_8-2131_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When the Mayor determines that a public health nuisance exists on a property, the Mayor shall issue a notice of violation to the person alleged to have created the public health nuisance or the owner or occupant of the property. The Mayor may serve the notice of violation on the owner, occupant, or any other responsible person at the premises, deliver the notice of violation by prepaid mail, return receipt requested to the owner or occupant of the property, or post the notice in a conspicuous place on the property in violation. The notice of violation shall include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2131_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon receipt of a notice of violation, the person responsible for the property shall abate the public health nuisance within the time specified in the notice of violation. The Mayor may grant additional time to abate the public health nuisance upon a request from the responsible person and a good faith showing that the person has made an effort to abate the public health nuisance and that a longer time for abatement is necessary.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

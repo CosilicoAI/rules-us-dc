@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-908"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-908/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_908">
+        <akn:num>20-908</akn:num>
+        <akn:heading>Action on claims; remedy for failure to act.</akn:heading>
+<akn:subsection eId="subsec_20-908_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For claims presented as provided in section 20-905 within the time limit prescribed by section 20-903, the personal representative shall mail a notice to each claimant stating (1) that the claim has been allowed in a stated amount; (2) that the claim has been disallowed in whole or in part and advising the claimant of the procedures and time limitations for contesting such disallowance; or (3) that the personal representative will petition the Court to determine whether the claim should be allowed. In allowing a claim, the personal representative may deduct any counterclaim that the estate has against the claimant. If the personal representative notifies a claimant of allowance of a claim, the personal representative may rescind the allowance only within 6 months after the date of the first publication of notice of the appointment of a personal representative, but, in such case the personal representative shall notify the claimant of the extent of the recision. If the claim is disallowed in whole or in part, the claim is forever barred to the extent of the disallowance unless the claimant files a verified complaint in the Court, not later than 60 days after the mailing of the notice disallowing the claim.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-908_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If no action is taken by the personal representative under subsection (a) of this section, the claimant may file a verified complaint in the Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-908_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Failure of a personal representative to respond to a presented claim shall in no way suspend the operation of any statute of limitation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

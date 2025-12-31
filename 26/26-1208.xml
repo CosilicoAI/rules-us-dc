@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1208"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1208/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1208">
+        <akn:num>26-1208</akn:num>
+        <akn:heading>District status.</akn:heading>
+<akn:subsection eId="subsec_26-1208_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A District association that is controlled by a savings and loan holding company other than a District savings and loan holding company shall be subject and entitled to the benefit of all laws of the District and the rules promulgated pursuant to laws relating to the acquisition, ownership, affiliations, branching, and operations of District associations controlled by District savings and loan holding companies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1208_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any restrictions, limitations, prohibitions, or requirements pursuant to this section pertaining to the conduct of business in the District by an association or savings and loan holding company shall not apply to corporate, business, investment, or other activities of the association or savings and loan holding company outside the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1208_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An association or a savings and loan holding company that controls an association or branches located in the District shall file with the Superintendent [Commissioner]:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1208_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner] shall promptly notify the Council of any regional or nonregional associations and savings and loan holding companies that control District associations or have District association subsidiaries that fail or refuse to submit information as required in subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

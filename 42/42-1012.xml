@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1012"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1012/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1012">
+        <akn:num>42-1012</akn:num>
+        <akn:heading>Special powers in trust.</akn:heading>
+<akn:subsection eId="subsec_42-1012_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>When the disposition which it authorizes is limited to be made to any person or class of persons other than the grantee of such power;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1012_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>When any person or class of persons other than the grantee is designated as entitled to any benefit from the disposition or change authorized by the power.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

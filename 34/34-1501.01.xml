@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1501.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1501.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1501_01">
+        <akn:num>34-1501.01</akn:num>
+        <akn:heading>Policy findings.</akn:heading>
+<akn:subsection eId="subsec_34-1501_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Local communities benefit from the deployment of tier one renewable energy in the District, and the Council hereby encourages the Department to establish programs that support development of such projects;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1501_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>It is in the public interest that the Department encourages broad participation in District-based tier one renewable electric generation by District residents, not-for-profit entities, and for-profit entities through outreach efforts and programs in all 8 wards;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1501_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>It is in the public interest that the Department enables the development and deployment of community renewable energy facilities for the following purposes:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1501_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>It is in the public interest for developers to encourage participation by renters and low- to moderate-income retail electric customers.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

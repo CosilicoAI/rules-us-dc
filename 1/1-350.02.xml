@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-350.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-350.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_350_02">
+        <akn:num>1-350.02</akn:num>
+        <akn:heading>Responsibility of District agencies to transfer and refer delinquent debt to the Central Collection Unit for collection.</akn:heading>
+<akn:subsection eId="subsec_1-350_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsections (a-1) and (a-2) of this section, notwithstanding any other provision of law, regulation, or Mayor’s order, each District agency shall transfer and refer delinquent debts to the Central Collection Unit within 60 days after a financial obligation owed by a person to the District becomes a delinquent debt.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-350_02_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>The University of the District of Columbia shall transfer and refer unpaid student tuition, student fees, and student loans to the Central Collection Unit within one year after the end of the semester in which the student tuition, student fees, and student loans were incurred.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-350_02_a_2">
+      <akn:num>(a-2)</akn:num>
+      <akn:content><akn:p>Beginning in fiscal year 2014 and for each fiscal year thereafter, funds collected and recovered by the Central Collection Unit arising out of delinquent debts transferred and referred to the Central Collection Unit by the Not-For-Profit Hospital Corporation for collection, net of costs and fees, shall be deposited into the Not-For-Profit Hospital Corporation Fund by the Central Collection Unit within 60 days following the then current fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-350_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A transfer and referral of a delinquent debt to the Central Collection Unit shall include all documentation and information relating to the delinquent debt, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-350_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The procedure for transfer and referral of delinquent debt by each District agency to the Central Collection Unit, including the format and means of delivery of the information, shall be established by the Central Collection Unit within 120 days of September 20, 2012.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-405.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-405.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_405_04">
+        <akn:num>29-405.04</akn:num>
+        <akn:heading>Action without meeting.</akn:heading>
+<akn:subsection eId="subsec_29-405_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in the articles of incorporation or bylaws, action required or permitted by this chapter to be taken at a meeting of the members may be taken without a meeting if the action is taken by all the members entitled to vote on the action. The action shall be evidenced by one or more consents in the form of a record bearing the date of signature and describing the action taken, signed by all the members entitled to vote on the action, and delivered to the membership corporation for inclusion in the minutes or filing with the corporate records.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If not otherwise fixed under § 29-405.03 or § 29-405.07, the record date for determining members entitled to take action without a meeting shall be the date the first member signs the consent under subsection (a) of this section. A consent shall not be effective to take the corporate action referred to therein unless, within 60 days after the earliest date appearing on a consent delivered to the membership corporation in the manner required by this section, consents signed by members entitled to cast the required number of votes on the action are received by the corporation. A consent may be revoked by a signed notice in the form of a record to that effect received by the corporation prior to receipt by the corporation of unrevoked consents sufficient in number to take corporate action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A consent signed under this section has the effect of a meeting vote and may be described as such.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If this chapter, the articles of incorporation, or the bylaws require that notice of proposed action be given to members not entitled to vote on the action and the action is to be taken by consent of the members entitled to vote, the membership corporation shall deliver to the members not entitled to vote notice of the proposed action at least 10 days before the action is taken. The notice shall contain or be accompanied by the same material that would have been required to be delivered to members not entitled to vote in a notice of meeting at which the proposed action would have been submitted to the members for action.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

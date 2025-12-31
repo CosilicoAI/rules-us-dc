@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-309.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-309.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_309_06">
+        <akn:num>29-309.06</akn:num>
+        <akn:heading>Articles of merger or share exchange.</akn:heading>
+<akn:subsection eId="subsec_29-309_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After a plan of merger or a plan of share exchange involving a domestic acquired corporation has been adopted and approved as required by this chapter, articles of merger or share exchange shall be signed on behalf of each party to the merger or the acquired corporation in the share exchange by any officer or other duly authorized representative. The articles shall set forth:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-309_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Articles of merger or share exchange shall be delivered to the Mayor for filing by the survivor of the merger or the acquiring corporation in a share exchange and shall be effective at the effective time provided in § 29-102.03.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

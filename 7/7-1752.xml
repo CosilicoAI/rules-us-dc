@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1752"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1752/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1752">
+        <akn:num>7-1752</akn:num>
+        <akn:heading>Prohibition on sale of cigarettes that are not fire-standard-compliant.</akn:heading>
+<akn:subsection eId="subsec_7-1752_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>It has been tested in accordance with the test method specified in § 7-1753(a)(2);</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1752_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>It meets the performance standard required by § 7-1753(a)(4);</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1752_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The manufacturer has filed a written certification with the Mayor, or the Mayor’s delegate, in accordance with § 7-1754; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1752_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>It has been marked in accordance with § 7-1754(b).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

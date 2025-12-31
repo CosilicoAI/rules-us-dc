@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-755.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-755.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_755_01">
+        <akn:num>7-755.01</akn:num>
+        <akn:heading>Establishment of the Commission on Health Disparities.</akn:heading>
+<akn:subsection eId="subsec_7-755_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established a Commission on Health Disparities (“Commission”) to prepare comprehensive recommendations to the Department of Health, the Council, and the Mayor that examine health disparities in each election ward of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-755_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commission shall have 9 voting members, who shall be appointed as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-755_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-755_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>All vacancies on the Commission shall be filled in the same manner in which the initial appointment is made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-755_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>All members of the Commission shall be appointed within one year after March 10, 2015.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

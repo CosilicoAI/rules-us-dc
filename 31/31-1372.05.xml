@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1372.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1372.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1372_05">
+        <akn:num>31-1372.05</akn:num>
+        <akn:heading>Equity interests.</akn:heading>
+<akn:subsection eId="subsec_31-1372_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to the limitations of § 31-1372.02, an insurer may acquire equity interests in business entities organized under the laws of any domestic jurisdiction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1372_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An insurer shall not acquire an investment under this section if, as a result of and after giving effect to the investment, the aggregate amount of investments held by the insurer under this section would exceed 20% of its admitted assets or the amount of equity interests held by the insurer that are not listed on a qualified exchange would exceed 5% of its admitted assets. An accident and health insurer shall not be subject to this section, but shall be subject to the same aggregate limitation on equity interests as a fire, casualty, and marine insurer under § 31-1373.06 and to the provisions of § 31-1373.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1372_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An insurer shall not acquire under this section any investments that the insurer may acquire under § 31-1372.07.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1372_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An insurer shall not short sell equity investments unless the insurer covers the short sale by owning the equity investment or an unrestricted right to the equity instrument exercisable within 6 months of the short sale.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

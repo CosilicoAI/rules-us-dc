@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-822"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-822/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_822">
+        <akn:num>25-822</akn:num>
+        <akn:heading>Mandatory revocation.</akn:heading>
+<akn:subsection eId="subsec_25-822_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The licensee has been convicted of multiple violations of the terms of  this title or the regulations issued under this title and the penalties set  forth in Chapter 8 or established by the Board require revocation;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-822_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The licensee has knowingly permitted, in the licensed establishment (A)  the illegal sale, or negotiations for sale, or the use, of any controlled  substance identified in the CSA, or (B) the possession or sale, or  negotiations for sale, of drug paraphernalia in violation of the CSA or  Chapter 11 of Title 48. Successive sales, or negotiations for sale, over a  continuous period of time shall be deemed evidence of knowing permission; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-822_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The licensee has been convicted of a felony.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

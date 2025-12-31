@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1141.03a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1141.03a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1141_03a">
+        <akn:num>10-1141.03a</akn:num>
+        <akn:heading>Waiver or reduction of permit fees for the occupation of public space, public rights of way, and public structures.</akn:heading>
+<akn:subsection eId="subsec_10-1141_03a_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Is conducted by a Business Improvement District or Community Improvement District established pursuant to subchapter VIII of Chapter 12 of Title 2 [§ 2-1215.01 et seq.];</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1141_03a_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>In the Mayor’s determination, serves a public benefit;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1141_03a_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Does not impose costs on the District government; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1141_03a_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Does not involve commercial sponsorship.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

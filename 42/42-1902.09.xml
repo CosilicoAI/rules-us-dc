@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1902.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1902.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1902_09">
+        <akn:num>42-1902.09</akn:num>
+        <akn:heading>Compliance with condominium chapter and instruments.</akn:heading>
+<akn:subsection eId="subsec_42-1902_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any lack of compliance with this chapter or with any lawful provision of the condominium instruments shall be grounds for an action or suit to recover damages or injunctive relief, or for any other available remedy maintainable by the unit owners’ association, the unit owners’ association’s executive board, any managing agent on behalf of the unit owners’ association, an aggrieved person on his or her own behalf, or, in an otherwise proper case, as a class action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1902_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The decisions and actions of the unit owners’ association and its executive board shall be reviewable by a court using the “business judgment” standard. A unit owners’ association shall have standing to sue in its own name for a claim or action related to the common elements. Unless otherwise provided in the condominium instruments, the substantially prevailing party in an action brought by a unit owners’ association against a unit owner or by a unit owner against the unit owners’ association shall be entitled to recover reasonable attorneys’ fees and costs expended in the matter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

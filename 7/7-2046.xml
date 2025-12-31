@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2046"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2046/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2046">
+        <akn:num>7-2046</akn:num>
+        <akn:heading>Criminal and civil penalties.</akn:heading>
+<akn:subsection eId="subsec_7-2046_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person who violates any provision of this subchapter shall, upon conviction, be subject to imprisonment not to exceed 6 months or a fine not to exceed $300, or both. Each unlawful act shall constitute a separate violation of this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2046_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person who has been previously convicted pursuant to this subchapter shall, upon conviction, be subject to imprisonment not to exceed one year or a fine not to exceed $5,000, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2046_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Civil fines and penalties may be imposed as alternative sanctions for any violations of the provisions of this subchapter or rules issued under the authority of this subchapter pursuant to Chapter 18 of Title 2 (“Civil Infractions Act”). The adjudication of any infraction issued pursuant to the Civil Infractions Act shall be pursuant to of the Civil Infractions Act.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

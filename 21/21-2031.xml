@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2031"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2031/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2031">
+        <akn:num>21-2031</akn:num>
+        <akn:heading>Notice; method, contents, and time of giving.</akn:heading>
+<akn:subsection eId="subsec_21-2031_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If notice of a hearing on any petition is required, other than a notice meeting specific notice requirements otherwise provided, the petitioner shall cause notice of the time and place of hearing of any petition to be given to the person to be notified or to the attorney, if the person has appeared by attorney or requested that notice be sent to an attorney.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2031_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notice must be given:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2031_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The court, for good cause shown, may provide for a different method or time of giving notice for any hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2031_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Proof of the giving of notice must be made by affidavit not later than the date of the hearing specified in the proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2031_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The contents of the notice required in any proceeding under this chapter shall be as prescribed by court rule. Each notice shall explain the purposes, procedure, and significance of the pleading or hearing that the notice concerns, as well as the rights to which the parties are entitled.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

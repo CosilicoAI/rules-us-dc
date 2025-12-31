@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1004.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1004.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1004_07">
+        <akn:num>29-1004.07</akn:num>
+        <akn:heading>Amendment or restatement of articles of organization; filing.</akn:heading>
+<akn:subsection eId="subsec_29-1004_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To amend its articles of organization, a limited cooperative association shall deliver to the Mayor for filing an amendment of the articles, restated articles of organization, or articles of merger pursuant to subchapter XV of this chapter, which contain one or more amendments of the articles of organization, stating:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1004_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before the beginning of the initial meeting of the board of directors, an organizer who knows that information in the filed articles of organization was inaccurate when the articles were filed or has become inaccurate due to changed circumstances shall promptly:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1004_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If restated articles of organization are adopted, the restated articles may be delivered to the Mayor for filing in the same manner as an amendment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1004_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon filing, an amendment of the articles of organization or other record containing an amendment of the articles which has been properly adopted by the members is effective as provided in § 29-102.03.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

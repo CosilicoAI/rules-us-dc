@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-132"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-132/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_132">
+        <akn:num>41-132</akn:num>
+        <akn:heading>Retention of records.</akn:heading>
+<akn:subsection eId="subsec_41-132_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (b) of this section and unless the Mayor provides otherwise by rule, every holder required to file a report under § 41-117 shall, as to any property for which it has obtained the address of the owner, maintain a record of the name and address of the owner for 10 years after the date the property may have become reportable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-132_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any business association that sells in the District traveler’s checks, money orders, or other similar written instruments, other than 3rd party bank checks on which the business association is directly liable or that provides those traveler’s checks, money orders, or similar written instruments to others for sale in the District, shall maintain a record of such instruments while they remain outstanding indicating the state and date of issue for 3 years after the date the property may have become reportable. The record may be destroyed after the record has been retained for such reasonable time as the Mayor by rule shall designate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4602.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4602.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4602_07">
+        <akn:num>16-4602.07</akn:num>
+        <akn:heading>Inconvenient forum.</akn:heading>
+<akn:subsection eId="subsec_16-4602_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A court of the District which has jurisdiction under this chapter to make a child-custody determination may decline to exercise its jurisdiction at any time if it determines that it is an inconvenient forum under the circumstances and that a court of another state is a more appropriate forum. The issue of inconvenient forum may be raised upon motion of a party, the court’s own motion, or request of another court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4602_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before determining whether it is an inconvenient forum, a court of the District shall consider whether it is appropriate for a court of another state to exercise jurisdiction. For this purpose, the court shall allow the parties to submit information and shall consider all relevant factors, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4602_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a court of the District determines that it is an inconvenient forum and that a court of another state is a more appropriate forum, it shall stay the proceedings upon condition that a child-custody proceeding be promptly commenced in another designated state and may impose any other condition the court considers just and proper.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4602_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A court of the District may decline to exercise its jurisdiction under this chapter if a child-custody determination is incidental to an action for divorce or another proceeding while still retaining jurisdiction over the divorce or other proceeding.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

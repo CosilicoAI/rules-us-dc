@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-261.02a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-261.02a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_261_02a">
+        <akn:num>24-261.02a</akn:num>
+        <akn:heading>Registration of firearms for private operator.</akn:heading>
+<akn:subsection eId="subsec_24-261_02a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In order to register firearms, the private operator shall follow the following procedures:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-261_02a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A private operator who is issued firearms registration approval pursuant to this section shall be subject to the duties and revocation provisions set forth in §§ 7-2502.08 and 7-2502.09, and other applicable rules and laws of the District of Columbia. A private operator shall notify the Chief of Police whenever any private correctional officer authorized to carry and use firearms leaves the private operator’s employment at a facility in the District or otherwise ceases to be authorized to carry and use firearms.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-261_02a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing in § 24-261.02 or this section shall be construed to allow any private correctional officer or any other person to remove any weapon registered to the private operator from the premises and grounds of the private operator’s facility except in the performance of assigned duties and in accordance with laws and rules of the District and federal governments.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

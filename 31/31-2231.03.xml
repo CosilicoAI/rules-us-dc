@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2231.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2231.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2231_03">
+        <akn:num>31-2231.03</akn:num>
+        <akn:heading>Misrepresentations and false advertising of insurance policies.</akn:heading>
+<akn:subsection eId="subsec_31-2231_03_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Misrepresents the benefits, advantages, conditions, or terms of a policy;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_03_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Misrepresents the dividends or share of the surplus to be received on a policy;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_03_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Makes a false or misleading statement as to the dividends or share of surplus previously paid on a policy;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_03_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Is misleading or is a misrepresentation as to the financial condition of an insurer or as to the legal reserve system upon which a life insurer operates;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_03_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Uses a name or title of a policy or class of policies misrepresenting the true nature thereof;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_03_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Is a misrepresentation, including an intentional erroneous quotation of a premium rate for the purpose of inducing, or tending to induce, the purchase, lapse, forfeiture, exchange, conversion, or surrender of a policy;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_03_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Is a misrepresentation for the purpose of effecting a pledge or assignment of, or effecting a loan against, a policy;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_03_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>Misrepresents a policy as being shares of stock; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_03_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>Uses a name which deceptively infers or suggests that it is an insurer if it is not an insurer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

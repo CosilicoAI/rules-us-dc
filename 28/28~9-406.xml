@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-406"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-406/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_406">
+        <akn:num>28:9-406</akn:num>
+        <akn:heading>Discharge of account debtor; notification of assignment; identification and proof of assignment; restrictions on assignment of accounts, chattel paper, payment intangibles, and promissory notes ineffective.</akn:heading>
+<akn:subsection eId="subsec_28:9-406_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to subsections (b) through (i) of this section, an account debtor on an account, chattel paper, or a payment intangible may discharge its obligation by paying the assignor until, but not after, the account debtor receives a notification, authenticated by the assignor or the assignee, that the amount due or to become due has been assigned and that payment is to be made to the assignee. After receipt of the notification, the account debtor may discharge its obligation by paying the assignee and may not discharge the obligation by paying the assignor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-406_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Subject to subsection (h), notification is ineffective under subsection (a):</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-406_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Subject to subsection (h), if requested by the account debtor, an assignee shall seasonably furnish reasonable proof that the assignment has been made. Unless the assignee complies, the account debtor may discharge its obligation by paying the assignor, even if the account debtor has received a notification under subsection (a).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-406_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (e) and §§ 28:2A-303 and 28:9-407, and subject to subsection (h), a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-406_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Subsection (d) does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under § 28:9-610 or an acceptance of collateral under § 28:9-620.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-406_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in §§ 28:2A-303 and 28:9-407 and subject to subsections (h) and (i), a rule of law, statute, or regulation that prohibits, restricts, or requires the consent of a government, governmental body or official, or account debtor to the assignment or transfer of, or creation of a security interest in, an account or chattel paper is ineffective to the extent that the rule of law, statute, or regulation:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-406_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>Subject to subsection (h), an account debtor may not waive or vary its option under subsection (b)(3).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-406_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>This section is subject to law other than this article which establishes a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-406_i">
+      <akn:num>(i)</akn:num>
+      <akn:content><akn:p>This section does not apply to an assignment of a health-care-insurance receivable.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

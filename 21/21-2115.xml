@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2115"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2115/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2115">
+        <akn:num>21-2115</akn:num>
+        <akn:heading>Construction of power relating to retirement plan transactions.</akn:heading>
+<akn:subsection eId="subsec_21-2115_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Select payment options under any retirement plan in which the principal participates, including plans for self-employed individuals;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2115_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Designate beneficiaries under those plans and change existing designations;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2115_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Make voluntary contributions to those plans;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2115_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Exercise the investment powers available under any self-directed retirement plan;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2115_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Make “rollovers” of plan benefits into other retirement plans;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2115_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>If authorized by the plan, borrow from, sell assets to, and purchase assets from the plan; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2115_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>Waive the right of the principal to be a beneficiary of a joint or survivor annuity if the principal is a spouse who is not employed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

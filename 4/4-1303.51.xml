@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1303.51"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1303.51/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1303_51">
+        <akn:num>4-1303.51</akn:num>
+        <akn:heading>Establishment of the Citizen Review Panel; purposes; duties.</akn:heading>
+<akn:subsection eId="subsec_4-1303_51_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is hereby established the Citizen Review Panel, whose purpose is to serve as an external, independent oversight body for the District’s child welfare system, evaluating the strengths and weaknesses of District government agencies involved in child protection as well as neighborhood-based services provided by vendors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_51_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Panel shall examine the policies, practices, and procedures of the Agency and any other District government agency that provides services to children at risk of abuse and neglect, or to children under the care of the Agency, including, as appropriate, the review of specific child cases. Based on this examination, the Panel shall evaluate the extent to which agencies serving children at risk of abuse or neglect, or children under the care of the Agency, are effectively discharging their child protection responsibilities in accordance with:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_51_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Panel shall solicit public outreach and comment in order to assess the impact of current policies, practices, and procedures of the child welfare system on children and families in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_51_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

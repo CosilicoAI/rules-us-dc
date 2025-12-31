@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-205"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-205/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4_205">
+        <akn:num>28:4-205</akn:num>
+        <akn:heading>Depositary bank holder of unindorsed item.</akn:heading>
+<akn:subsection eId="subsec_28:4-205_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The depositary bank becomes a holder of the item at the time it receives the item for collection if the customer at the time of delivery was a holder of the item, whether or not the customer indorses the item, and, if the bank satisfies the other requirements of section 28:3-302, it is a holder in due course; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-205_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The depositary bank warrants to collecting banks, the payor bank or other payor, and the drawer that the amount of the item was paid to the customer or deposited to the customer’s account.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-707.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-707.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_707_03">
+        <akn:num>29-707.03</akn:num>
+        <akn:heading>Charging order.</akn:heading>
+<akn:subsection eId="subsec_29-707_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>On application by a judgment creditor of a partner or transferee, the Superior Court may enter a charging order against the transferable interest of the judgment debtor for the unsatisfied amount of the judgment. A charging order constitutes a lien on a judgment debtor’s transferable interest and requires the limited partnership to pay over to the person to which the charging order was issued any distribution that otherwise would be paid to the judgment debtor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-707_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>To the extent necessary to effectuate the collection of distributions pursuant to a charging order in effect under subsection (a) of this section, the Superior Court may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-707_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Upon a showing that distributions under a charging order will not pay the judgment debt within a reasonable time, the Superior Court may foreclose the lien and order the sale of the transferable interest. The purchaser at the foreclosure sale obtains only the transferable interest, does not thereby become a partner, and is subject to § 29-707.02.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-707_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>At any time before foreclosure under subsection (c) of this section, the partner or transferee whose transferable interest is subject to a charging order under subsection (a) of this section may extinguish the charging order by satisfying the judgment and filing a certified copy of the satisfaction with the Superior Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-707_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>At any time before foreclosure under subsection (c) of this section, a limited partnership or one or more partners whose transferable interests are not subject to the charging order may pay to the judgment creditor the full amount due under the judgment and thereby succeed to the rights of the judgment creditor, including the charging order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-707_03_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>This chapter does not deprive any partner or transferee of the benefit of any exemption law applicable to the transferable interest of the partner or transferee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-707_03_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>This section provides the exclusive remedy by which a person seeking to enforce a judgment against a partner or transferee may, in the capacity of a judgment creditor, satisfy the judgment from the judgment debtor’s transferable interest.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

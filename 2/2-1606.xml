@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1606"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1606/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1606">
+        <akn:num>2-1606</akn:num>
+        <akn:heading>Annual report and audit.</akn:heading>
+<akn:subsection eId="subsec_2-1606_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board of Trustees of the Service shall submit a fiscal year report of the Service’s operations to the Congress of the United States, to the chief judges of the federal courts in the District of Columbia and of the District of Columbia courts, and to the Office of Management and Budget. The report shall include a statement of the financial condition of the Service and a summary of services performed during the year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1606_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board of Trustees shall annually arrange for an independent audit to be prepared by a certified public accountant or by a designee of the Office of Management and Budget.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

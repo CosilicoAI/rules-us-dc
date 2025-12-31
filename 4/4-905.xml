@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-905"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-905/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_905">
+        <akn:num>4-905</akn:num>
+        <akn:heading>Periodic reassessment of need for facility; closing facility and relocation of children.</akn:heading>
+<akn:subsection eId="subsec_4-905_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a child care facility has been continuously operating for 4 years, the executive director of the Bureau shall assess the child care needs of District employees using the facility and the office space needs of the building within which the facility is located.  If the assessment demonstrates a greater need for office space than for child care, the Director of the Department of Administrative Services may close the child care facility after 90 days written notice of the closure is given to the director or head teacher of the facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-905_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All children registered in a child care facility closed pursuant to subsection (a) of this section may be given relocation assistance into other child care facilities.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

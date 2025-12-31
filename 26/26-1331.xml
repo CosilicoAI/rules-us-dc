@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1331"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1331/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1331">
+        <akn:num>26-1331</akn:num>
+        <akn:heading>Increase or decrease of capital stock.</akn:heading>
+<akn:subsection eId="subsec_26-1331_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any corporation which may be formed under this chapter may increase its capital stock by complying with the provisions of this chapter to any amount which may be deemed sufficient and proper for the purposes of the corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1331_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any company transacting the business of a trust company heretofore or hereafter organized or operating under the provisions of this chapter may by the vote of shareholders owning two-thirds of its capital stock reduce its capital to any sum not below the amount required by this chapter; but no such reduction shall be made until the amount of the proposed reduction has been reported to the Superintendent of Banking and Financial Institutions [Commissioner of the Department of Insurance, Securities, and Banking] and such reduction has been approved by said Superintendent of Banking and Financial Institutions [Commissioner of the Department of Insurance, Securities, and Banking], and no shareholder shall be entitled to any distribution of cash or other assets by reason of any reduction of the common capital of any such corporation unless such distribution shall have been approved by the Superintendent of Banking and Financial Institutions [Commissioner of the Department of Insurance, Securities, and Banking] and by the affirmative vote of at least two-thirds of the shares of stock outstanding.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

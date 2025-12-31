@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-610.53"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-610.53/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_610_53">
+        <akn:num>1-610.53</akn:num>
+        <akn:heading>Executive Service pay plan.</akn:heading>
+<akn:subsection eId="subsec_1-610_53_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person appointed to a position in the Executive Service shall be appointed at the level on the DX Schedule or DX Public Safety Schedule designated for the subordinate agency to which he or she is appointed, and shall receive a salary set at any amount within the salary range for that level that the Mayor determines to be appropriate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-610_53_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The salary of any person holding an appointment to a position in the Executive Service may, at any time, be increased or decreased by the Mayor, at his or her sole discretion, to any other salary within the salary range for the level occupied.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-610_53_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The salary of an employee in the Executive Service who is temporarily assigned to a position at a higher or lower level on the DX Schedule or DX Public Safety Schedule shall be set, at the discretion of the Mayor, at any rate within the salary range of the level to which the employee is temporarily assigned or the salary range of the level of the position from which officially appointed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-610_53_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A person paid from the DX Schedule shall not be entitled to premium pay.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1258.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1258.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1258_02">
+        <akn:num>34-1258.02</akn:num>
+        <akn:heading>Funding for PEG channels.</akn:heading>
+<akn:subsection eId="subsec_34-1258_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A cable operator shall contribute at least 1% of its gross revenues to the operations of the Public Access Corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1258_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A cable operator shall provide at least 1% of its gross revenues as continuing capital support for the public, educational, and government access channels. The Public Access Corporation shall receive at least 25% of the capital support payments provided pursuant to this subsection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1258_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A cable operator may be required to provide equipment and facilities in support of PEG channels. The requirements for equipment and facilities in support of PEG channels shall be specified in a franchise agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1258_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A cable operator shall make equipment and production assistance available that will permit PEG channel users and the cable operator to produce programming at locations other than the studio, and the requirements for such availability and use shall be set forth in the franchise agreement. A cable operator may be required to make equipment and production assistance available to PEG channel users at its studio; provided, that the requirement for such availability and use shall be set forth in the franchise agreement. The cable operator shall provide use of the equipment, production facilities, and production assistance for PEG channel users at an amount set forth or provided for in the franchise agreement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

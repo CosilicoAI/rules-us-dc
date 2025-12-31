@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.61"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.61/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_205_61">
+        <akn:num>4-205.61</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_4-205_61_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Board” means the District of Columbia Board of Education.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_61_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Ceased to attend school” means a pregnant or parenting teen has 20 or more consecutive full days of unexcused absences from school.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_61_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Child care” means care, supervision, and guidance for children for less than 24 hours per day per child in any licensed child development facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_61_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Department” means the Department of Human Services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_61_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Dropout” means a pregnant or parenting teen who has:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_61_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“High school equivalency diploma” means a certificate of educational achievement issued under the regulations and requirements of the District of Columbia Public Schools.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_61_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Pregnant or parenting teen” means a person who has a child or children, or is pregnant in the third trimester of the first pregnancy, and is under 18 years of age.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

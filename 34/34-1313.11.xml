@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1313.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1313.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1313_11">
+        <akn:num>34-1313.11</akn:num>
+        <akn:heading>Use of DDOT Underground Electric Company Infrastructure Improvements.</akn:heading>
+<akn:subsection eId="subsec_34-1313_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon completion of construction by DDOT and acceptance by the electric company, the District shall transfer legal title to the DDOT Underground Electric Company Infrastructure Improvements to the electric company for the sum of one dollar.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1313_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>DDOT Underground Electric Company Infrastructure Improvements shall be for exclusive use by the electric company. The electric company shall not earn a return on or of investment with respect to the DDOT Underground Electric Company Infrastructure Improvements transferred to the electric company as provided in this section. Taxes and fees, if any, on the transfer shall be recoverable by the electric company in rates as approved by the Commission.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

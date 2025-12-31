@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-704"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-704/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_704">
+        <akn:num>28:9-704</akn:num>
+        <akn:heading>Security interest unperfected before July 1, 2001.</akn:heading>
+<akn:subsection eId="subsec_28:9-704_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Remains an enforceable security interest for one year after July 1, 2001;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-704_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Remains enforceable thereafter if the security interest becomes enforceable under § 28:9-203 on July 1, 2001 or within one year thereafter; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-704_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Becomes perfected:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

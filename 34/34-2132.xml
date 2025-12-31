@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2132"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2132/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2132">
+        <akn:num>34-2132</akn:num>
+        <akn:heading>Potomac interceptor — Plans, construction, operation, and maintenance; charges for use.</akn:heading>
+<akn:subsection eId="subsec_34-2132_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon completion of the plan authorized by § 34-2131, the Mayor is authorized to provide for acquisition of rights-of-way, development of the detailed plans and specifications, and construction of the Potomac interceptor. When such interceptor is completed, it shall be operated and maintained by the Mayor as a part of a regional sanitary sewer system in cooperation with the proper authorities of the state and local jurisdictions concerned, under such regulations as may be prescribed by the Council of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2132_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor is authorized to establish, by agreements with the appropriate agencies of the United States and with the proper authorities of the States and local jurisdictions concerned, charges for the use of the Potomac interceptor, which shall be based upon the costs of operation, maintenance, and amortization of the cost of all planning and construction (including acquisition of rights-of-way) of such interceptor, but which shall exclude such amount as may be appropriated pursuant to § 34-2133.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2132_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall also charge all users of the Potomac interceptor, including any agency of the United States for carrying, treating, and disposing of sewage in the sewerage system of and within the District of Columbia consistently with the provisions of §§ 2-207.01 and 2-207.02.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

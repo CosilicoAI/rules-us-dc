@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-219.51"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-219.51/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_219_51">
+        <akn:num>2-219.51</akn:num>
+        <akn:heading>Reporting requirements for entities receiving grants under the federal recovery act.</akn:heading>
+<akn:subsection eId="subsec_2-219_51_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>As a condition of the grant or funding, list all jobs that shall be created as a result of the grant or funding on the Department of Employment Services website;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-219_51_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Provide the list required by paragraph (1) of this section to the Department of Employment Services; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-219_51_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Inform the Department of Employment Services of the number of District residents hired for ARRA-funded positions once the positions created as a result of a grant or funding under the ARRA are filled.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2348"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2348/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2348">
+        <akn:num>16-2348</akn:num>
+        <akn:heading>Parentage records; confidentiality; inspection and disclosure.</akn:heading>
+<akn:subsection eId="subsec_16-2348_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except on order of the Family Division, no records in a case over which the Division has jurisdiction under section 11-1101(11) shall be open to inspection by anyone other than the plaintiff, respondent, their attorneys of record, the IV-D agency, or authorized professional staff of the Superior Court. Any inspection shall be subject to the safeguards provided by section 16-925. The Family Division, upon proper showing, may authorize the furnishing of certified copies of the records or portions thereof to the respondent, the other parent, or custodian of the child, a party in interest, or their duly authorized attorneys. Certified copies of the records or portions thereof may be furnished, upon request, to the IV-D agency and the Corporation Counsel for use as evidence in nonsupport proceedings and to the Registrar as provided by section 16-2346(a).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2348_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person shall disclose, receive, or use records in violation of this section. Whoever willfully discloses, receives, makes use of, or knowingly permits the use of information in violation of this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than the amount set forth in [§ 22-3571.01] or imprisoned not more than ninety days, or both. Violations of this section shall be prosecuted by the Corporation Counsel in the name of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

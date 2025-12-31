@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2502.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2502.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2502_13">
+        <akn:num>7-2502.13</akn:num>
+        <akn:heading>Possession of self-defense sprays.</akn:heading>
+<akn:subsection eId="subsec_7-2502_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding the provisions of § 7-2501.01(7)(C), a person 18 years of age or older may possess and use a self-defense spray in the exercise of reasonable force in defense of the person or the person’s property only if it is propelled from an aerosol container, labeled with or accompanied by clearly written instructions as to its use, and dated to indicate its anticipated useful life.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2502_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person shall possess a self-defense spray which is of a type other than that specified in §§ 7-2502.12 to 7-2502.14.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-512"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-512/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_512">
+        <akn:num>28:9-512</akn:num>
+        <akn:heading>Amendment of financing statement.</akn:heading>
+<akn:subsection eId="subsec_28:9-512_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to § 28:9-509, a person may add or delete collateral covered by, continue or terminate the effectiveness of, or, subject to subsection (e), otherwise amend the information provided in, a financing statement by filing an amendment that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-512_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 28:9-515, the filing of an amendment does not extend the period of effectiveness of the financing statement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-512_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A financing statement that is amended by an amendment that adds collateral is effective as to the added collateral only from the date of the filing of the amendment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-512_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A financing statement that is amended by an amendment that adds a debtor is effective as to the added debtor only from the date of the filing of the amendment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-512_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An amendment is ineffective to the extent it:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

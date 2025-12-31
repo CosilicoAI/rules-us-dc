@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3505.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3505.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3505_08">
+        <akn:num>42-3505.08</akn:num>
+        <akn:heading>Victims of an intrafamily offense protection — Change locks and notice.</akn:heading>
+<akn:subsection eId="subsec_42-3505_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon the written request of a tenant who is the victim of an intrafamily offense, as defined in § 16-1001(8), a housing provider shall change the locks to all entrance doors to that tenant’s unit within 5 business days; provided, that if the perpetrator of the intrafamily offense is a tenant in the same dwelling unit as the tenant who makes the request, the tenant who makes the request shall provide the landlord with a copy of a protective order issued pursuant to § 16-1005 ordering the perpetrator to stay away from, or avoid, the tenant who makes the request, any other household member, or the dwelling unit. If the perpetrator of the intrafamily offense is not, or is no longer, a tenant in the same dwelling unit as the tenant who makes the request, no documentation of the intrafamily offense shall be required.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3505_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The housing provider shall pay the cost of changing the locks. No later than 45 days after the housing provider provides the tenant who makes the request with documentation of the cost of changing the locks, the tenant shall reimburse the housing provider for such cost and any associated fee; provided, that the fee shall not exceed the fee imposed on any other tenant for changing the locks under any other circumstances.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3505_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Upon receipt of a copy of the court order pursuant to subsection (a) of this section, unless the court orders that the perpetrator be allowed to return to the unit for some purpose, the housing provider shall not provide the perpetrator with keys to the unit or otherwise permit the perpetrator access to the unit or to property within the unit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3505_08_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The housing provider shall not be liable to the perpetrator for any civil damages as a result of actions the housing provider takes to comply with this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3505_08_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>This section shall not be construed to relieve the perpetrator of any obligation under a lease agreement or any other liability to the housing provider.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

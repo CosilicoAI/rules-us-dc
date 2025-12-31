@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2206.52"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2206.52/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2206_52">
+        <akn:num>50-2206.52</akn:num>
+        <akn:heading>Admissibility of chemical test results.</akn:heading>
+<akn:subsection eId="subsec_50-2206_52_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Evidence from breath tests shall not be admitted in a criminal proceeding unless compliance with the following criteria has been shown:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2206_52_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2206_52_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The inability of any person to obtain either the manufacturer’s schematics or software for a quantitative breath testing device shall not affect the admissibility of the results of a breath test pursuant to this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

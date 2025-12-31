@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3708"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3708/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_3708">
+        <akn:num>47-3708</akn:num>
+        <akn:heading>Amended returns.</akn:heading>
+<akn:subsection eId="subsec_47-3708_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the personal representative files an amended federal estate tax return, he or she shall, within 30 days after filing the amended federal estate tax return, file with the Mayor an amended return covering the tax imposed by this chapter, accompanying the amended return with a copy of the amended federal estate tax return. If the personal representative is required to pay an additional tax under this chapter pursuant to the amended return, he or she shall pay the tax, together with interest in accordance with § 47-4201.01 at the time of filing the amended return.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3708_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If, upon final determination of the federal estate tax due, a deficiency is assessed, the personal representative shall within 30 days after this determination give written notice of the deficiency to the Mayor. If any additional tax is due under this chapter by reason of this determination, the personal representative shall pay the additional tax, together with interest in accordance with § 47-4201.01 at the time of filing the notice.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

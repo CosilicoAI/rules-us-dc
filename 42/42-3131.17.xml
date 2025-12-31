@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3131.17"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3131.17/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3131_17">
+        <akn:num>42-3131.17</akn:num>
+        <akn:heading>Transmission of list of blighted vacant buildings by Mayor.</akn:heading>
+<akn:subsection eId="subsec_42-3131_17_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Semiannually, the Mayor shall transmit to the Office of Tax and Revenue a list of buildings designated by the Mayor as blighted vacant buildings for which a notice of final determination has been issued under this and administrative appeals have been exhausted or expired.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3131_17_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The list shall be in the form and medium prescribed by the Office of Tax and Revenue.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

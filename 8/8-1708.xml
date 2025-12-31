@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1708"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1708/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1708">
+        <akn:num>8-1708</akn:num>
+        <akn:heading>Long-range resource conservation program; annual work plan.</akn:heading>
+<akn:subsection eId="subsec_8-1708_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Water and Soil Conservation District shall prepare, and revise annually in cooperation with other District of Columbia government agencies, a long-range program for the conservation of renewable natural resources. The program shall be directed toward conservation of resources for their best use and in a manner that will meet the needs of the District of Columbia. The program shall include an inventory of all renewable natural resources in the Soil and Water Conservation District, a compilation of current resource needs, projections of future resource requirements, priorities for various resource activities, projected time tables, descriptions of available alternatives, and provisions for coordination with other programs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1708_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Soil and Water Conservation District shall prepare an annual work plan which shall describe the programs, services, facilities, materials, working arrangements, and estimated funds needed to carry out the parts of the long-range program that are of the highest priority in the coming year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1708_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The long-range program and work plan shall be made available to the Mayor, to the Council of the District of Columbia, to District of Columbia government agencies, to United States government agencies, and to the general public.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-741.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-741.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_741_04">
+        <akn:num>7-741.04</akn:num>
+        <akn:heading>Penalties.</akn:heading>
+<akn:subsection eId="subsec_7-741_04_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Smoking in a prohibited area shall be subject to a fine of not less than $100 or more than $1,000; subsequent offenses shall be subject to a fine of not less than $200 or more than $1,000;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-741_04_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Obscuring, removing, defacing, mutilating or destroying any sign posted in accordance with the provisions of this chapter shall be subject to a fine of $500; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-741_04_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Failing to post or maintain warning signs describing the prohibited activity and failing to notify a person observed to be smoking to stop the activity, as required by this subsection, shall be subject to a fine of $500; each day that a violation continues shall constitute a separate offense.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

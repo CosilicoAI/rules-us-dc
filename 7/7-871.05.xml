@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-871.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-871.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_871_05">
+        <akn:num>7-871.05</akn:num>
+        <akn:heading>Penalties.</akn:heading>
+<akn:subsection eId="subsec_7-871_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person who fails to comply with any of the provisions of this chapter shall be subject to a fine not to exceed $5,000 for each violation. Each and every day of the violation shall constitute a separate violation and the penalties prescribed shall be applicable to each separate violation unless otherwise indicated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-871_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this chapter or the rules issued under authority of this chapter pursuant to Chapter 18 of Title 2.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-871_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any person who knowingly or willfully violates this chapter shall, in addition to or in lieu of any civil penalty which may be imposed for the violation, be subject, upon conviction, to a fine of not more than $5,000 for each day of violation, or to imprisonment of not more than one year, or both.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

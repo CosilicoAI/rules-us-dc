@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-514"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-514/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_514">
+        <akn:num>28:9-514</akn:num>
+        <akn:heading>Assignment of powers of secured party of record.</akn:heading>
+<akn:subsection eId="subsec_28:9-514_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (c), an initial financing statement may reflect an assignment of all of the secured party’s power to authorize an amendment to the financing statement by providing the name and mailing address of the assignee as the name and address of the secured party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-514_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (c), a secured party of record may assign of record all or part of its power to authorize an amendment to a financing statement by filing in the filing office an amendment of the financing statement which:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-514_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An assignment of record of a security interest in a fixture covered by a record of a mortgage which is effective as a financing statement filed as a fixture filing under § 28:9-502(c) may be made only by an assignment of record of the mortgage in the manner provided by law of the District other than Subtitle I of Title 28.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

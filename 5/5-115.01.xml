@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-115.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-115.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_115_01">
+        <akn:num>5-115.01</akn:num>
+        <akn:heading>Limitation on period of questioning; advisement of rights; release uncharged; admissibility of confessions.</akn:heading>
+<akn:subsection eId="subsec_5-115_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person arrested in the District of Columbia may be questioned with respect to any matter for a period not to exceed 3 hours immediately following his arrest. Such person shall be advised of and accorded his rights under applicable law respecting any such interrogation. In the case of any such arrested person who is released without being charged with a crime, his detention shall not be recorded as an arrest in any official record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-115_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any statement, admission, or confession made by an arrested person within 3 hours immediately following his arrest shall not be excluded from evidence in the courts of the District of Columbia solely because of delay in presentment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

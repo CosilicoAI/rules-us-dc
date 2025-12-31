@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-213"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-213/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_213">
+        <akn:num>32-213</akn:num>
+        <akn:heading>Penalties.</akn:heading>
+<akn:subsection eId="subsec_32-213_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person commits an offense under this subchapter if that person:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-213_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person convicted of a 1st offense under this section shall be fined not less than $1,000 nor more than $3,000, or imprisoned not less than 10 days nor more than 30 days, or both. A person convicted of a 2nd or subsequent offense under this section shall be fined not less than $3,000 nor more than $5,000, or imprisoned not less than 30 days nor more than 90 days, or both. Each day during which a violation of this subchapter occurs shall constitute a separate offense.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-213_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The fines set forth in this section shall not be limited by § 22-3571.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

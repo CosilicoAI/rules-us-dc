@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-206"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-206/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_206">
+        <akn:num>7-206</akn:num>
+        <akn:heading>Infants of unknown parentage.</akn:heading>
+<akn:subsection eId="subsec_7-206_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person who assumes legal custody of a live born infant of unknown parentage shall report the following information to the Registrar, within 5 days after taking custody:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-206_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The place where the child was found shall be entered as the place of birth.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-206_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A report registered under this section shall constitute the certificate of birth for the child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-206_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the child is identified and a certificate of birth is obtained, the report registered under this section shall be sealed and placed in a special file and shall not be subject to inspection except upon order of the Court (or as provided by regulation).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

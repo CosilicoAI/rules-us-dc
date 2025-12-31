@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1204.11b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1204.11b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1204_11b">
+        <akn:num>2-1204.11b</akn:num>
+        <akn:heading>Infrastructure incentives.</akn:heading>
+<akn:subsection eId="subsec_2-1204_11b_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To be eligible for a payment under § 2-1204.11(c), an approved applicant shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1204_11b_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An approved applicant seeking a payment under § 2-1204.11(c) shall submit an application to the Mayor, in a form and with the documentation and information, including an estimate of total base infrastructure investment, as may be prescribed by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1204_11b_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After receiving an application under subsection (b) of this section, the Mayor shall review the application and determine whether to enter into a rebate agreement with the applicant pursuant to subsection (d) of this section. In determining whether to enter into the rebate agreement, the Mayor may consider:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1204_11b_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A rebate agreement entered into by the Mayor and the eligible production company shall include the following provisions:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1204_11b_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the Mayor determines, after the qualified film and digital media infrastructure project is complete, that an applicant has complied with the terms of the agreement under this section, the Mayor may provide to the company the payment authorized by § 2-1204.11(c).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

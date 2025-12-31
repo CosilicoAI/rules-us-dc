@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4420"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4420/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4420">
+        <akn:num>16-4420</akn:num>
+        <akn:heading>Change of award by arbitrator.</akn:heading>
+<akn:subsection eId="subsec_16-4420_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>On motion to an arbitrator by a party to an arbitration proceeding, the arbitrator may modify or correct an award:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4420_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A motion under subsection (a) of this section shall be made and notice given to all parties within 20 days after the movant receives notice of the award.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4420_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A party to the arbitration proceeding shall give notice of any objection to the motion within 10 days after receipt of the notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4420_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a motion to the court is pending under § 16-4422, 16-4423, or 16-4424, the court may submit the claim to the arbitrator to consider whether to modify or correct the award:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4420_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>An award modified or corrected pursuant to this section is subject to §§ 16-4419(a), 16-4422, 16-4423, and 16-4424.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

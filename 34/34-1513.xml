@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1513"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1513/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1513">
+        <akn:num>34-1513</akn:num>
+        <akn:heading>Provision of electricity supply by the electric company.</akn:heading>
+<akn:subsection eId="subsec_34-1513_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Other than its provision of standard offer service, the electric company shall not engage in the business of an electricity supplier in the District of Columbia except through an affiliate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1513_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An affiliate of the electric company must obtain a license under § 34-1505 to engage in the business of an electricity supplier in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1513_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commission shall develop a code of conduct between the electric company and its affiliate which establishes functional, operational, structural, and legal separation between the electric company and the affiliate, and which prevents the electric company from subsidizing the activities of the affiliate. The code of conduct required by this subsection shall include the following protections:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

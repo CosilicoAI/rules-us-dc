@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1303.03d"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1303.03d/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1303_03d">
+        <akn:num>4-1303.03d</akn:num>
+        <akn:heading>Rapid Housing Program assistance.</akn:heading>
+<akn:subsection eId="subsec_4-1303_03d_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Agency shall track and publicly report the number of emancipating youth and families who apply for or are referred for assistance under the Rapid Housing Program, the number of youth and families who are eligible for assistance, and the number of youth and families who receive assistance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1303_03d_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Agency shall maintain a waiting list of emancipating youth and families who are eligible but cannot receive assistance due to insufficient funds.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1302">
+        <akn:num>10-1302</akn:num>
+        <akn:heading>Establishment of the John A. Wilson Building Centennial Fund.</akn:heading>
+<akn:subsection eId="subsec_10-1302_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a nonlapsing fund the John A. Wilson Building Centennial Fund (“Fund”), to be administered by the Secretary to the Council, to be used for the purpose of providing resources for the commemoration of the 100th anniversary of the opening of the building, formerly known as the District Building, as the permanent location for the municipal government in Washington, D.C., and any other purpose set forth in subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1302_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Deposits into the Fund shall include appropriated funds, other District funds, private gifts, donations, and receipts from the sale of memorabilia and information commemorating the 100th anniversary of the John A. Wilson Building. All funds deposited into the Fund shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (c) of this section without regard to fiscal year limitation, subject to authorization by Congress.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1302_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Secretary to the Council may expend monies in the Fund, to commemorate the anniversary, including the following activities:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1302_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Secretary to the Council is authorized to purchase and sell books, pamphlets, memorabilia, and other materials and information.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

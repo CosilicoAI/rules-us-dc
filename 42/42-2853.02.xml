@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2853.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2853.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2853_02">
+        <akn:num>42-2853.02</akn:num>
+        <akn:heading>Low-Income Housing Tax Credit Fund.</akn:heading>
+<akn:subsection eId="subsec_42-2853_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is hereby established a lapsing fund known as the Low-Income Housing Tax Credit Fund (“Fund”). All monies received shall be used for the uses and purposes set forth in this chapter, subject to authorization by the Council and Congress. Any unexpended monies in the Fund shall revert to the unrestricted fund balance of the General Fund of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2853_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Money in the Fund shall be expended by the Department only for administrative costs and for the audit required under subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2853_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All income and expenses of the Fund shall be audited annually by the Mayor. The audit report shall be submitted to the Council. The expenses for each audit shall be paid by the Fund.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

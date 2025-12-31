@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2231.19"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2231.19/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2231_19">
+        <akn:num>31-2231.19</akn:num>
+        <akn:heading>Misrepresentation in insurance application.</akn:heading>
+<akn:subsection eId="subsec_31-2231_19_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person shall make false or fraudulent statements or representations on, or relative to, an application for an insurance policy for the purpose of obtaining a fee, commission, money, or other benefit from a provider or individual person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_19_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person shall cause to be presented a false or fraudulent claim, or proof in support of a claim, for the payment of the loss upon a contract of insurance or prepare, make, or subscribe a false or fraudulent account, certificate, affidavit, proof of loss, or other document or writing with the intent that it may be presented or used in support of a false or fraudulent claim.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

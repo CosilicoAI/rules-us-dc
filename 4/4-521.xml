@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-521"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-521/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_521">
+        <akn:num>4-521</akn:num>
+        <akn:heading>Shelter and Transitional Housing for Victims of Domestic Violence Fund.</akn:heading>
+<akn:subsection eId="subsec_4-521_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-521_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>There is established as a nonlapsing, interest-bearing fund the Shelter and Transitional Housing for Victims of Domestic Violence Fund, which shall be administered by the Deputy Mayor for Public Safety and Justice and used for the purpose of awarding grants to organizations that provide services to victims of domestic violence in emergency shelters and transitional housing to reimburse them for their operating expenses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-521_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All funds deposited into the Fund shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (b) of this section without regard to fiscal year limitation, subject to authorization by Congress.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-521_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer shall transfer $3.7 million from the Crime Victims Assistance Fund to the Fund on or before October 1, 2007. Other funds may be deposited into the Fund from sources identified by District law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

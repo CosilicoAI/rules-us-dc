@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-515"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-515/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_515">
+        <akn:num>28:2-515</akn:num>
+        <akn:heading>Preserving evidence of goods in dispute.</akn:heading>
+<akn:subsection eId="subsec_28:2-515_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>either party on reasonable notification to the other and for the purpose of ascertaining the facts and preserving evidence has the right to inspect, test and sample the goods including such of them as may be in the possession or control of the other; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-515_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>the parties may agree to a third party inspection or survey to determine the conformity or condition of the goods and may agree that the findings shall be binding upon them in any subsequent litigation or adjustment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

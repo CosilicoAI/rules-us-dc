@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3103">
+        <akn:num>28-3103</akn:num>
+        <akn:heading>Value.</akn:heading>
+<akn:subsection eId="subsec_28-3103_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Value is given for a transfer or an obligation if, in exchange for the transfer or obligation, property is transferred, or an antecedent debt is secured or satisfied. Value does not include an unperformed promise made otherwise than in the ordinary course of the promisor’s business to furnish support to the debtor or another person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3103_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of sections 28-3104(a)(2) and 28-3105, a person gives a reasonably equivalent value if the person acquires an interest of the debtor in an asset pursuant to a regularly conducted, noncollusive foreclosure sale or execution of a power of sale for the acquisition or disposition of the interest of the debtor upon default under a mortgage, deed of trust, or security agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3103_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A transfer is made for present value if the exchange between the debtor and the transferee is intended by them to be contemporaneous and is in fact substantially contemporaneous.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

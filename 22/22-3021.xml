@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3021"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3021/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3021">
+        <akn:num>22-3021</akn:num>
+        <akn:heading>Reputation or opinion evidence of victim’s past sexual behavior inadmissible.</akn:heading>
+<akn:subsection eId="subsec_22-3021_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, in a criminal case in which a person is accused of an offense under subchapter II of this chapter, reputation or opinion evidence of the past sexual behavior of an alleged victim of such offense is not admissible.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3021_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of this subchapter, “past sexual behavior” means sexual behavior other than the sexual behavior with respect to which an offense under subchapter II of this chapter is alleged.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1541.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1541_09">
+        <akn:num>50-1541.09</akn:num>
+        <akn:heading>Title brand.</akn:heading>
+<akn:subsection eId="subsec_50-1541_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless subsection (c) of this section applies, at or before the time the owner of record transfers an ownership interest in a hull-damaged vessel that is covered by a certificate of title created by the Harbor Master, if the damage occurred while that person was an owner of the vessel and the person has notice of the damage at the time of the transfer, the owner shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Not later than 20 days after delivery to the Harbor Master of the application under subsection (a)(1) of this section or the certificate of title under subsection (a)(2) of this section, the Harbor Master shall create a new certificate that indicates that the vessel is branded “Hull Damaged”.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Before an insurer transfers an ownership interest in a hull-damaged vessel that is covered by a certificate of title created by the Harbor Master, the insurer shall deliver to the Harbor Master an application for a new certificate of title that complies with § 50-1541.05 and includes the title brand designation “Hull Damaged”. Not later than 20 days after delivery of the application to the Harbor Master, the Harbor Master shall create a new certificate of title that indicates that the vessel is branded “Hull Damaged”.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1541_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An owner of record that fails to comply with subsection (a) of this section, a person that solicits or colludes in a failure by an owner of record to comply with subsection (a) of this section, or an insurer that fails to comply with subsection (c) of this section shall be subject to a civil penalty of $1,000.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

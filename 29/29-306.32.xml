@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.32"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.32/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_306_32">
+        <akn:num>29-306.32</akn:num>
+        <akn:heading>Directors’ liability for unlawful distributions.</akn:heading>
+<akn:subsection eId="subsec_29-306_32_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A director who votes for or assents to a distribution in excess of what may be authorized and made pursuant to § 29-304.60(a) or § 29-312.09(a) shall be personally liable to the corporation for the amount of the distribution that exceeds what could have been distributed without violating § 29-304.60(a) or § 29-312.09(a) if the party asserting liability establishes that when taking the action the director did not comply with § 29-306.30.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_32_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A director held liable under subsection (a) of this section for an unlawful distribution shall be entitled to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_32_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A proceeding to enforce:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

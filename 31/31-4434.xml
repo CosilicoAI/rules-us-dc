@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4434"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4434/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4434">
+        <akn:num>31-4434</akn:num>
+        <akn:heading>Power of mutual company to borrow or assume liability.</akn:heading>
+<akn:subsection eId="subsec_31-4434_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4434_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The principal indebtedness of surplus notes issued on or after October 21, 2000, shall not be a liability or claim against any of the assets of the company. The principal of, and interest on, the notes may be paid from time to time, either in full or in part, from available surplus funds of the company only if the amount of the surplus of the company is twice the amount of principal and interest being paid. The company may make such payments whenever it is able to do so if it receives the prior written approval of the Commissioner. The Commissioner shall use the standards set forth in subchapter I of Chapter 7 of this title, relating to adequacy of surplus in determining whether or not to approve the payments. Upon a dissolution of the company, the principal and accrued and unpaid interest of the surplus notes shall be payable from surplus.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

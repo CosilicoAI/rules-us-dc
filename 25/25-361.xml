@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-361"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-361/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_361">
+        <akn:num>25-361</akn:num>
+        <akn:heading>Involuntary transfer.</akn:heading>
+<akn:subsection eId="subsec_25-361_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board may transfer a license upon the request of a bona fide purchaser of the license who made the purchase at any of the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-361_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in this section, transfers made under this section may, because of their involuntary nature, be approved by the Board without an initial inquiry, as required by §§ 25-311 through 25-314, as to the appropriateness of the establishment, and without the notice provisions contained in subchapter II of Chapter 4.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-361_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Bona fide purchasers whose transfers are approved under this section shall, at the time for renewal of the license, meet all of the requirements of § 25-313 regarding the appropriateness of the establishment and shall at that time have notice of their renewal application given under subchapter II of Chapter 4.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-361_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Bona fide purchasers shall, before an approval of the transfer, submit to the Board an affidavit stating that no change which could be considered a substantial change to the business under § 25-762 will occur before the expiration of the license period during which the transfer takes place.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-361_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a change which could be considered a substantial change will occur before the expiration of the license period, the transfer application shall be considered under §§ 25-404 and 25-762.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

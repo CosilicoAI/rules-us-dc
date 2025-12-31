@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2001.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2001.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2001_07">
+        <akn:num>38-2001.07</akn:num>
+        <akn:heading>Appropriations for annuity; reserves; interest.</akn:heading>
+<akn:subsection eId="subsec_38-2001_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The second and third parts of the annuity provided for by § 38-2001.05 shall be paid by appropriations from the same fund as the current expenses of the District of Columbia were paid on June 11, 1926, or may thereafter be paid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2001_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The reserves created as the result of such annual appropriations shall be held by the Treasurer of the United States separate from the fund created by the contributions of the teachers, and the fund shall be credited with interest at 4% per annum, compounded annually. The fund thus created shall be held and invested by the Treasurer of the United States until paid out as hereinafter provided, and the income derived from such investments shall constitute a part of said fund for the purpose of carrying out the provisions of this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

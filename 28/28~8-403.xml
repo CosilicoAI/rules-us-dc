@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-403"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:8-403/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:8_403">
+        <akn:num>28:8-403</akn:num>
+        <akn:heading>Demand that issuer not register transfer.</akn:heading>
+<akn:subsection eId="subsec_28:8-403_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person who is an appropriate person to make an indorsement or originate an instruction may demand that the issuer not register transfer of a security by communicating to the issuer a notification that identifies the registered owner and the issue of which the security is a part and provides an address for communications directed to the person making the demand. The demand is effective only if it is received by the issuer at a time and in a manner affording the issuer reasonable opportunity to act on it.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-403_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a certificated security in registered form is presented to an issuer with a request to register transfer or an instruction is presented to an issuer with a request to register transfer of an uncertificated security after a demand that the issuer not register transfer has become effective, the issuer shall promptly communicate to (i) the person who initiated the demand at the address provided in the demand, and (ii) the person who presented the security for registration of transfer or initiated the instruction requesting registration of transfer a notification stating that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-403_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The period described in subsection (b)(3) of this section may not exceed 30 days after the date of communication of the notification. A shorter period may be specified by the issuer if it is not manifestly unreasonable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-403_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An issuer is not liable to a person who initiated a demand that the issuer not register transfer for any loss the person suffers as a result of registration of a transfer pursuant to an effective indorsement or instruction if the person who initiated the demand does not, within the time stated in the issuer’s communication, either:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:8-403_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>This section does not relieve an issuer from liability for registering transfer pursuant to an indorsement or instruction that was not effective.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

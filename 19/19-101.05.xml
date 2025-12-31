@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-101.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-101.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_101_05">
+        <akn:num>19-101.05</akn:num>
+        <akn:heading>Source, determination, and documentation; equitable apportionment when minor children are not in custody of the surviving spouse or surviving domestic partner.</akn:heading>
+<akn:subsection eId="subsec_19-101_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the estate is otherwise sufficient, property specifically devised may not be used to satisfy rights to homestead allowance or exempt property. Subject to this restriction, the surviving spouse, surviving domestic partner, guardians of minor children, or children who are adults may select property of the estate as homestead allowance and exempt property. The personal representative may make those selections if the surviving spouse, the surviving domestic partner, the children, or the guardians of the minor children are unable or fail to do so within a reasonable time, or there is no guardian of a minor child. The personal representative may execute an instrument or deed of distribution to establish the ownership of property taken as homestead allowance or exempt property. The personal representative may disburse the family allowance in a lump sum not exceeding $15,000 in cash or in personalty at its fair value as the surviving spouse or surviving domestic partner may elect. The personal representative or an interested person aggrieved by any selection, determination, payment, proposed payment, or failure to act under this section may petition the court for appropriate relief, which may include a family allowance other than that which the personal representative determined or could have determined.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-101_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If there are minor or other dependent children of the decedent who are not in the custody of the surviving spouse or surviving domestic partner, the personal representative shall equitably apportion the family allowance under this section between the surviving spouse or surviving domestic partner, minor and dependent children, and other children of the decedent.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

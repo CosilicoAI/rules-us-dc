@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1207.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1207.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1207_01">
+        <akn:num>3-1207.01</akn:num>
+        <akn:heading>Qualifications for licensure.</akn:heading>
+<akn:subsection eId="subsec_3-1207_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In addition to the general qualifications for licensure set forth in subchapter V of this chapter, and any requirements which the Mayor may establish by rule, a dietitian shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1207_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Licensure to practice dietetics pursuant to this chapter shall also entitle the licensee to use the title of nutritionist.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1207_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to the general qualifications for licensure set forth in subchapter V of this chapter, and any requirements which the Mayor may establish by rule, a nutritionist shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1207_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor, by rule, shall establish requirements for the completion of a planned, continuous, preprofessional program of supervised experience as a condition for licensure as a dietitian or nutritionist.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1207_01_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Mayor shall, within 12 months of March 25, 1986, develop, and update as necessary, an examination to assess an applicant’s knowledge and understanding of the principles of nutrition and ability to apply the principles effectively and for the benefit of patients or clients in the practice of nutrition.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

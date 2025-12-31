@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-108"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-108/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2A_108">
+        <akn:num>28:2A-108</akn:num>
+        <akn:heading>Unconscionability.</akn:heading>
+<akn:subsection eId="subsec_28:2A-108_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the court as a matter of law finds a lease contract or any clause of a lease contract to have been unconscionable at the time it was made the court may refuse to enforce the lease contract, or it may enforce the remainder of the lease contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-108_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>With respect to a consumer lease, if the court as a matter of law finds that a lease contract or any clause of a lease contract has been induced by unconscionable conduct or that unconscionable conduct has occurred in the collection of a claim arising from a lease contract, the court may grant appropriate relief.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-108_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Before making a finding of unconscionability under subsection (a) or (b) of this section, the court, on its own motion or that of a party, shall afford the parties a reasonable opportunity to present evidence as to the setting, purpose, and effect of the lease contract or clause thereof, or of the conduct.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-108_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In an action in which the lessee claims unconscionability with respect to a consumer lease:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

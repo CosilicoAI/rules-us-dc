@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-701"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-701/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_701">
+        <akn:num>31-701</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-701_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Affiliate” means a person that directly, or indirectly through 1 or more intermediaries, controls, or is controlled by, or is under common control with, the person specified.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_1A">
+      <akn:num>(1A)</akn:num>
+      <akn:content><akn:p>“Commissioner” means the Commissioner of Insurance and Securities [Commissioner of the Department of Insurance, Securities, and Banking].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Control”, including the terms “controlling”, “controlled by”, and “under common control with”, means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting securities, by contract other than a commercial contract for goods or nonmanagement services, or otherwise, unless the power is the result of an official position with or corporate office held by the person. Control shall be presumed to exist if any person, directly or indirectly, owns, controls, holds with the power to vote, or holds proxies representing 10% or more of the voting securities of any other person. This presumption may be rebutted by a showing made in the manner provided by § 31-705(k) that control does not exist in fact. The Mayor may determine, after furnishing all persons in interest notice and opportunity to be heard and making specific findings of fact to support such a determination, that control exists in fact, notwithstanding the absence of a presumption to that effect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_3A">
+      <akn:num>(3A)</akn:num>
+      <akn:content><akn:p>“Enterprise risk” means any activity, circumstance, event, or series of events involving one or more affiliates of an insurer that if not remedied promptly is likely to have a material adverse effect upon the financial condition or liquidity of the insurer or its insurance holding company system as a whole, including anything that would cause the insurer’s risk-based capital to fall into company action level as set forth in Chapter 20 of this title [§ 31-2001 et seq.], and Chapter 34A of title [§ 31-.01 et seq.], or would cause the insurer to be in hazardous financial condition as provided in § 31-2101.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_3B">
+      <akn:num>(3B)</akn:num>
+      <akn:content><akn:p>“Hospital service plan” means a plan for providing hospital and related services by hospitals and others which entitles a subscriber to certain hospital and related services, or to benefits and indemnification for such services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Insurance holding company system” means an arrangement which consists of 2 or more affiliated persons, one or more of whom is an insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Insurer” includes any company defined by §§ 31-2501.03 and 31-4202, authorized to do the business of insurance in the District, except that it shall not include agencies, authorities, or instrumentalities of the United States, its possessions and territories, the Commonwealth of Puerto Rico, the District, or a state or political subdivision of a state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_5A">
+      <akn:num>(5A)</akn:num>
+      <akn:content><akn:p>“Medical service plan” means a plan for providing medical services and related services by physicians and others which entitles a subscriber to certain medical and related services, or to benefits and indemnification for such services.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_5B">
+      <akn:num>(5B)</akn:num>
+      <akn:content><akn:p>“Party” means the Mayor and any person or District government agency named or admitted as a party, or properly seeking and entitled as of right to be admitted as a party, in any proceeding before the Mayor or an agency, but nothing herein shall be construed to prevent the Mayor or an agency from admitting the Mayor or any person or agency as a party for limited purposes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Person” means an individual, a corporation, a partnership, an association, a joint stock company, a trust, an unincorporated organization, any similar entity, or any combination of the foregoing acting in concert, but shall not include any joint venture partnership exclusively engaged in owning, managing, leasing, or developing real or tangible personal property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Securityholder” means an individual who owns any security of a specified person, including common stock, preferred stock debt obligations, and any other security convertible into or evidencing the right to acquire any of the foregoing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Subsidiary” means an affiliate controlled by a specified person directly or indirectly through 1 or more intermediaries.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-701_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Voting security” means any security convertible into or evidencing a right to acquire a voting security.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

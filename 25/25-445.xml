@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-445"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-445/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_445">
+        <akn:num>25-445</akn:num>
+        <akn:heading>Settlement conference.</akn:heading>
+<akn:subsection eId="subsec_25-445_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A settlement conference among the parties shall be held to discuss and resolve, if possible, the objections raised by the protestants.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-445_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the date of the settlement conference is not arranged on or before the date of the administrative review, the applicant shall contact the protestants to arrange the conference.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-445_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the applicant fails to make a good faith effort to contact the protestants timely, the Board shall deny the license application unless, in the judgment of the Board, the applicant shows good cause for his or her failure to act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-445_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No protestant shall unreasonably refuse to make himself or herself available to attend a settlement conference.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-445_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the protestant unreasonably refuses to make himself or herself available to attend a settlement conference, the Board shall consider the protest withdrawn unless, in the judgment of the Board, the protestant shows good cause for refusing to be available.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-445_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>At the request of any party, the Board may designate a member of its staff to attend the settlement conference.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-445_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>If the parties fail to reach an agreement on one or more of the protest issues they shall so state at the scheduled protest hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-445_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>A party may be represented at a settlement conference by an attorney or a designated representative who has been authorized to act on the party’s behalf.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-576"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-576/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_576">
+        <akn:num>2-576</akn:num>
+        <akn:heading>Notice of meetings.</akn:heading>
+<akn:subsection eId="subsec_2-576_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Notice shall be provided when meetings are scheduled and when the schedule is changed. A public body shall establish an annual schedule of its meetings, if feasible, and shall update the schedule throughout the year. Except for emergency meetings, a public body shall provide notice as early as possible, but not less than 48 hours or 2 business days, whichever is greater, before a meeting.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-576_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Notice shall be provided by posting:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-576_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Notwithstanding the notice requirement of paragraph (2) of this subsection, notice of meetings shall be published in the District of Columbia Register as timely as practicable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-576_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>When a public body finds it necessary to call an emergency meeting to address an urgent matter, notice shall be provided at the same time notice is provided to members and may be provided pursuant to any method in paragraph (2) of this subsection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-576_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Each meeting notice shall include the date, time, location, and planned agenda to be covered at the meeting. If the meeting or any portion of the meeting is to be closed, the notice shall include, if feasible, a statement of intent to close the meeting or any portion of the meeting, including citations to the reason for closure under § 2-575(b), and a description of the matters to be discussed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

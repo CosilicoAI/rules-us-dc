@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-401"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2A-401/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2A_401">
+        <akn:num>28:2A-401</akn:num>
+        <akn:heading>Insecurity: adequate assurance of performance.</akn:heading>
+<akn:subsection eId="subsec_28:2A-401_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A lease contract imposes an obligation on each party that the other’s expectation of receiving due performance will not be impaired.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-401_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If reasonable grounds for insecurity arise with respect to the performance of either party, the insecure party may demand in writing adequate assurance of due performance. Until the insecure party receives that assurance, if commercially reasonable the insecure party may suspend any performance for which he or she has not already received the agreed return.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-401_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A repudiation of the lease contract occurs if assurance of due performance adequate under the circumstances of the particular case is not provided to the insecure party within a reasonable time, not to exceed 30 days after receipt of a demand by the other party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-401_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Between merchants, the reasonableness of grounds for insecurity and the adequacy of any assurance offered must be determined according to commercial standards.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2A-401_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Acceptance of any nonconforming delivery or payment does not prejudice the aggrieved party’s right to demand adequate assurance of future performance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

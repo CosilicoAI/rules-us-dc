@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/39-115"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/39-115/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_39_115">
+        <akn:num>39-115</akn:num>
+        <akn:heading>Books from Birth program.</akn:heading>
+<akn:subsection eId="subsec_39-115_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established the Books from Birth program as a program of the District of Columbia Public Library (“DCPL”), to be administered by the Executive Director of DCPL.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-115_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Books from Birth program shall provide books to all children registered with the program, delivered to the residence of the child at the rate of one per month, from the month following the child’s birth or enrollment in the program to the child’s 5th birthday.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-115_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-115_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-115_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Book titles for each age group shall be selected to reflect age-appropriate concepts and diversity of characters, culture, and authors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_39-115_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The Executive Director may enter into contractual and promotional agreements necessary to effectively implement the Books from Birth program.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

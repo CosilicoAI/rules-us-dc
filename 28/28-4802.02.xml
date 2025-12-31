@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4802.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4802.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4802_02">
+        <akn:num>28-4802.02</akn:num>
+        <akn:heading>Distribution to residuary and remainder beneficiaries.</akn:heading>
+<akn:subsection eId="subsec_28-4802_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each beneficiary described in § 28-4802.01(4) is entitled to receive a portion of the net income equal to the beneficiary’s fractional interest in undistributed principal assets, using values as of the distribution date. If a fiduciary makes more than one distribution of assets to beneficiaries to whom this section applies, each beneficiary, including one who does not receive part of the distribution, is entitled, as of each distribution date, to the net income the fiduciary has received after the date of death or terminating event or earlier distribution date but has not distributed as of the current distribution date.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4802_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In determining a beneficiary’s share of net income, the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4802_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a fiduciary does not distribute all of the collected but undistributed net income to each person as of a distribution date, the fiduciary shall maintain appropriate records showing the interest of each beneficiary in that net income.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4802_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A fiduciary may apply the rules in this section, to the extent that the fiduciary considers it appropriate, to net gain or loss realized after the date of death or terminating event or earlier distribution date from the disposition of a principal asset if this section applies to the income from the asset.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

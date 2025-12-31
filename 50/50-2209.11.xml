@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2209.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2209.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2209_11">
+        <akn:num>50-2209.11</akn:num>
+        <akn:heading>Automated enforcement expansion plan.</akn:heading>
+<akn:subsection eId="subsec_50-2209_11_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>An explanation of the plan, its goals, and the strategies to achieve the goals, such as red light, speed, fixed, and mobile;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2209_11_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A recommended number of automated enforcement cameras, by category, that should be deployed in the District to achieve appropriate levels of enforcement and associated traffic safety results;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2209_11_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>A timeline for deploying the recommended number of cameras, including the number of additional cameras needed, by category and by fiscal year; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2209_11_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The amount of funding necessary, in addition to what has been authorized as of the date of the plan’s publication, by fiscal year, to attain the target number of cameras.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

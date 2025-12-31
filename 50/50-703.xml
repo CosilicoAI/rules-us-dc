@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-703"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-703/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_703">
+        <akn:num>50-703</akn:num>
+        <akn:heading>Reports; technology assessment, development, and implementation.</akn:heading>
+<akn:subsection eId="subsec_50-703_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-703_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-703_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any owner or operator of a commercial fleet may petition the Mayor, pursuant to rules issued by the Mayor, for provisional relief from compliance with this section after demonstrating or showing cause of hardship. The Mayor may, after careful and balanced review and after taking into account various factors including cost, available technology, service and repair facilities, safety, lead time, environmental impact pursuant to the public health, safety, or welfare, and any other relevant factors, grant whatever provisional relief deemed appropriate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-703_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Failure to comply with the requirements of this section shall result in a fine not to exceed $5,000 for each day of noncompliance and may result in the forfeiture of any right, license, permit, or privilege to operate a commercial vehicle in the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

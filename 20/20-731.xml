@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-731"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-731/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_731">
+        <akn:num>20-731</akn:num>
+        <akn:heading>Waiver of filing; supervised administration.</akn:heading>
+<akn:subsection eId="subsec_20-731_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A supervised personal representative shall be excused from filing with the Court the inventories required by sections 20-711 and 20-713, and the accounts required by sections 20-721, 20-722, and 20-723 if each heir or legatee signs a written waiver filed with the Register. A waiver under this section shall state that the heirs or legatees are aware of their right to require the filing of inventories and accounts and of their right to revoke the waiver under subsection (b) of this section. Unless the will specifically provides otherwise, a trustee as legatee may authorize and sign a waiver under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-731_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any heir or legatee, including a trustee as legatee, who has signed a waiver under subsection (a) of this section may require the filing of inventories and accounts as provided in subchapters II and III of this chapter by filing a written demand with the Register within 7 days of sending the final account to interested persons.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-731_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the will waives the filing of inventories and accounts, the supervised personal representative shall similarly be excused from filing with the Court such inventories and accounts. In that event, the Court may order the filing of inventories or accounts only after a hearing and for good cause shown.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/51-174"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/51-174/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_51_174">
+        <akn:num>51-174</akn:num>
+        <akn:heading>Approval of shared work plan.</akn:heading>
+<akn:subsection eId="subsec_51-174_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Director may approve a shared work plan if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-174_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-174_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A shared work plan shall not be implemented to subsidize seasonal employers during the off-season or to subsidize employers who have traditionally used part-time employees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_51-174_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Director shall approve or deny a shared work plan, in writing, no later than the 30th day after the day the shared work plan is received by the Director. If the Director denies a shared work plan, the Director shall notify the employer of the reasons for the denial.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

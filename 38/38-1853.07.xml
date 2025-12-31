@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1853.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1853.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1853_07">
+        <akn:num>38-1853.07</akn:num>
+        <akn:heading>Use of funds.</akn:heading>
+<akn:subsection eId="subsec_38-1853_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Opportunity Scholarships. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1853_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Administrative expenses. — An eligible entity receiving a grant under § 38-1853.04(a) may use not more than 3 percent of the amount provided under the grant each year for the administrative expenses of carrying out its program under this chapter during the year, including—</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1853_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Parental assistance. — An eligible entity receiving a grant under § 38-1853.04(a) may use not more than 2 percent of the amount provided under the grant each year for the expenses of educating parents about the entity’s program under this chapter, and assisting parents through the application process, under this chapter, including—</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1853_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Student academic assistance. — An eligible entity receiving a grant under § 38-1853.04(a) may use not more than 1 percent of the amount provided under the grant each year for expenses to provide tutoring services to participating eligible students that need additional academic assistance. If there are insufficient funds to provide tutoring services to all such students in a year, the eligible entity shall give priority in such year to students who previously attended an elementary school or secondary school that was implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) [20 U.S.C. § 6311(d)] of the Elementary and Secondary Education Act of 1965.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

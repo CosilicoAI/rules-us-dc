@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-620.25"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-620.25/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_620_25">
+        <akn:num>1-620.25</akn:num>
+        <akn:heading>Procedure and employee impact.</akn:heading>
+<akn:subsection eId="subsec_1-620_25_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The drug and alcohol testing policy shall be issued in writing in advance of program implementation to inform employees and allow them the opportunity to seek treatment.  An employee shall be allowed only one opportunity to seek treatment following his or her first positive test result.  Thereafter, any confirmed positive drug test, or positive breathalyzer test, or a refusal to submit to a drug or breathalyzer test shall be grounds for termination of employment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_25_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The program shall cover all Department of Mental Health and Department of Human Services employees, including management, and shall be implemented as a single program of each Department.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-620_25_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The results of any random test conducted pursuant to this subchapter may not be turned over to any law enforcement agency without the employee’s written consent.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

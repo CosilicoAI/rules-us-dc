@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-627"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-627/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_627">
+        <akn:num>7-627</akn:num>
+        <akn:heading>Extent of medical liability; transfer of patient; criminal offenses.</akn:heading>
+<akn:subsection eId="subsec_7-627_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No physician, licensed health care professional, health facility, or employee thereof who in good faith and pursuant to reasonable medical standards causes or participates in the withholding or withdrawing of life-sustaining procedures from a qualified patient pursuant to a declaration made in accordance with this subchapter shall, as a result thereof, be subject to criminal or civil liability, or be found to have committed an act of unprofessional conduct.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-627_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An attending physician who cannot comply with the declaration of a qualified patient pursuant to this subchapter shall, in conjunction with the next of kin of the patient or other responsible individual, effect the transfer of the qualified patient to another physician who will honor the declaration of the qualified patient. Transfer under these circumstances shall not constitute abandonment. Failure of an attending physician to effect the transfer of the qualified patient according to this section, in the event he or she cannot comply with the directive, shall constitute unprofessional conduct as defined in § 3-2926 [repealed].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-627_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any person who willfully conceals, cancels, defaces, obliterates, or damages the declaration of another without the declarant’s consent or who falsifies or forges a revocation of the declaration of another shall commit an offense, and upon conviction shall be fined an amount not to exceed $5,000 or be imprisoned for a period not to exceed 3 years, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-627_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any person who falsifies or forges the declaration of another, or willfully conceals or withholds personal knowledge of the revocation of a declaration, with the intent to cause a withholding or withdrawal of life-sustaining procedures, contrary to the wishes of the declarant, and thereby, because of such act, directly causes life-sustaining procedures to be withheld or withdrawn and death to be hastened, shall be subject to prosecution for unlawful homicide pursuant to § 22-2101.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-637.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-637.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_637_04">
+        <akn:num>8-637.04</akn:num>
+        <akn:heading>Contaminated property cleanup assistance.</akn:heading>
+<akn:subsection eId="subsec_8-637_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to availability of funds in the Clean Land Fund established by § 8-633.08, the Mayor may award grants and provide financial assistance for the cleanup and redevelopment of contaminated property. The financial assistance, in the form of grants or loans, to be made at a rate not to exceed 2%, shall be in an amount up to 75% of the costs incurred for completing an environmental assessment and cleaning and redeveloping a contaminated property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-637_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The following criteria shall be used to determine eligibility for financial assistance:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-637_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to the criteria in subsection (b) of this section, loans may be made based on the ability to repay the loan from future revenue to be derived from the redeveloped site and may be secured by a mortgage or other collateral.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-637_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Moneys received as repayment of loans shall be deposited in the Clean Land Fund.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-637_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Mayor shall provide an annual report to the Council by October 1 of each year on grants, loans, and expenditures made from the Clean Land Fund, the revenue received by the fund, and on the effectiveness of the fund in redeveloping contaminated property sites.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

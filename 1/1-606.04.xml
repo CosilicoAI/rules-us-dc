@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-606.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-606.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_606_04">
+        <akn:num>1-606.04</akn:num>
+        <akn:heading>Agency hearing procedures.</akn:heading>
+<akn:subsection eId="subsec_1-606_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The personnel authority shall establish internal rules and regulations, not inconsistent with the procedures of this subchapter, for conducting hearings affecting individual employees whose removal is proposed or effected for cause pursuant to subchapter XVI-A of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-606_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The personnel authority shall provide for 15 days advance notice in writing stating the specific reasons for the proposed action prior to an adverse action against an employee for cause that results in removal, a reduction in grade, or a suspension of 10 days or more.  This provision may be waived by the agency head if the employee’s conduct threatens the integrity of government operations, constitutes an immediate hazard to the agency, to other employees of the government, or to the employee, or to the public health, safety, or welfare.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-606_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The personnel authority shall provide that any employee whose removal from service, reduction in grade, or suspension of 10 days or more is proposed, or whose removal is effected pursuant to § 1-616.51(5) have the following rights:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-606_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The personnel authority shall provide an administrative review by a hearing officer appointed by the agency head of a proposed removal action or a removal action pursuant to § 1-616.51(5) including the employee’s response, if any, and may provide for an adversary hearing and the confrontation of witnesses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-606_04_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The personnel authority shall provide the employee with a written decision following the review provided in subsection (d) of this section, and shall advise each employee of his or her right to appeal to the Office as provided in this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

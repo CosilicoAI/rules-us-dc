@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-614.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-614.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_614_12">
+        <akn:num>1-614.12</akn:num>
+        <akn:heading>Performance plan.</akn:heading>
+<akn:subsection eId="subsec_1-614_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Not later than January 1, 1996, and coincident with annual budget submissions to the Council in succeeding years, each agency of the District of Columbia shall develop and submit to the Council a performance plan that covers all publicly funded activities of the agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-614_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The performance plan shall state measurable, objective performance goals and objectives for all significant activities of the government of the District of Columbia, including activities supported in whole or in part by public funds, but performed in whole or in part by some other public or private entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-614_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Control center and responsibility center budgetary information shall be organized along specific program lines with corresponding statements of goals and objectives included in the performance plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-614_12_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For each agency and major program covered by the performance plan, there shall be one or more measures of performance, that addresses both quantity and quality. The performance measures may include program outputs and activity levels, but should also include measures of program outcomes and results.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-614_12_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The performance plan shall state the name and position of the management employees most directly responsible for the achievement of each performance measure, and the immediate supervisor or superior of the management employees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-614_12_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Any change in resources or reprogramming within the agency shall require appropriate revision to the performance plan by the agency.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

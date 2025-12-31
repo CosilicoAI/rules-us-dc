@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2509"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2509/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2509">
+        <akn:num>50-2509</akn:num>
+        <akn:heading>Transfer of property interest between the District and the Authority.</akn:heading>
+<akn:subsection eId="subsec_50-2509_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After the establishment of a parking district by the Council pursuant to § 50-2511, the Authority may request that the Mayor transfer District-owned property to the Authority. The Mayor, pursuant to Chapter 8 of Title 10, may sell, lease, grant, convey, acquire, or otherwise transfer to the Authority any real property owned by the District to fulfill the purposes set forth in § 50-2503.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2509_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>After the establishment of a parking district by the Council pursuant to § 50-2511, the Authority may request that the Mayor purchase, lease, sublease, or acquire real property for the Authority to control or operate as a parking facility. The Mayor, pursuant to § 1-301.110a, may purchase, lease, sublease, or otherwise acquire for the Authority real property necessary for a public parking facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2509_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor, pursuant to § 1-301.110a, may purchase, lease, or sublease from the Authority or otherwise enter into agreements with the Authority to acquire property rights in any public parking facility acquired by the Authority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2509_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor may enter into contracts with the Authority, including long-term contracts, for the management, operation, maintenance, and repair of any public parking garage facility owned or leased by the District or for which the District is otherwise responsible.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2509_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Mayor shall have the right to reacquire any property obtained by the Authority from the District whenever the Authority determines that the property is no longer needed for fulfillment of the purposes for which it was acquired.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-573"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-573/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_573">
+        <akn:num>16-573</akn:num>
+        <akn:heading>Employer’s duty to withhold and make payments; percentage.</akn:heading>
+<akn:subsection eId="subsec_16-573_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (b) of this section, an employer upon whom an attachment is served, and who:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-573_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon written notice of any court proceeding attacking the attachment or the judgment on which it is based, the employer shall make no further payments to the judgment creditor or his legal representative until receipt of an order of court terminating the proceedings.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-573_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any payments made by an employer-garnishee in conformity with this section shall be a discharge of the liability of the employer to the judgment debtor to the extent of the payment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-573_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Under this section the employer-garnishee shall not withhold or pay over more than 10 per centum of the gross wages payable to the judgment debtor for any pay period ending in any calendar month until the total amount of gross wages paid or payable to the judgment debtor for all pay periods ending in such calendar month equals $200, nor more than 20 per centum of the gross wages in excess of $200 payable to the judgment debtor for any pay period ending in any calendar month until the total amount of gross wages paid or payable to the judgment debtor for all pay periods ending in such calendar month equals $500.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

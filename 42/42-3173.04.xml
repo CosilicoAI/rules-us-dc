@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3173.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3173.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3173_04">
+        <akn:num>42-3173.04</akn:num>
+        <akn:heading>Designation of potential historic structure.</akn:heading>
+<akn:subsection eId="subsec_42-3173_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Prior to posting, mailing, publishing, or filing a notice of initial determination under § 42-3173.05(b), the Mayor shall file with the Historic Preservation Review Board a notice which shall include the following information:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3173_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 60 days after receiving the notice from the Mayor, the Historic Preservation Review Board shall make a preliminary determination whether or not there is a substantial possibility that the structure is eligible for designation as a historic landmark or a contributing building in a historic district.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3173_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall not issue a notice of initial determination under § 42-3173.05 and shall not demolish a structure under this subchapter unless:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

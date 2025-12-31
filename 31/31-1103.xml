@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1103">
+        <akn:num>31-1103</akn:num>
+        <akn:heading>Licenses — Persons required to obtain; fees; other requirements.</akn:heading>
+<akn:subsection eId="subsec_31-1103_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person shall engage in the business of financing insurance premiums in the District without first having obtained a license as a premium finance company from the Commissioner. Any person who shall engage in the business of financing insurance premiums in the District without obtaining a license as provided hereunder shall, upon conviction in the Superior Court of the District of Columbia, be guilty of a misdemeanor and shall be subject to the penalties in § 31-2502.42.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1103_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The annual license fee shall be $150. Licenses may be renewed from year to year as of the 1st day of May of each year upon payment of the fee of $150. The fee for said license shall be paid through the Commissioner to the District of Columbia Treasurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1103_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The person to whom the license or the renewal thereof may be issued shall file sworn answers, subject to the penalties of perjury, to such interrogatories as the Commissioner may require. The Commissioner shall have authority, at any time, to require the applicant fully to disclose the identity of all stockholders, partners, officers, and employees and he may, in his discretion, refuse to issue or renew a license in the name of any firm, partnership, or corporation if he is not satisfied that any officer, employee, stockholder, or partner thereof who may materially influence the applicant’s conduct meets the standards of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1103_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any license issued pursuant to this section shall be issued as a Financial Services endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of Chapter 28 of Title 47.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3110"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3110/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3110">
+        <akn:num>31-3110</akn:num>
+        <akn:heading>Health maintenance organizations.</akn:heading>
+<akn:subsection eId="subsec_31-3110_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The requirements of this chapter shall apply to health maintenance organizations 5 years from February 28, 1987, unless the Mayor requests the Council to extend the exemption to a time certain and the Council, by resolution, approves the extension.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3110_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Upon becoming subject to the requirements of this chapter, each health maintenance organization shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3110_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each health maintenance organization may provide the treatment required by §§ 31-3103 and 31-3104 directly by its staff or by referring its members to a hospital or other treatment facility that provides those services under a contract or agreement with the health maintenance organization. Nothing in this chapter shall require the alteration of any terms and conditions of the health maintenance organization membership contract relating to prior approval by the health maintenance organization for treatment provided to its members by other treatment facilities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3110_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

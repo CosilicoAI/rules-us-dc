@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.26"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1163.26/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1163_26">
+        <akn:num>1-1163.26</akn:num>
+        <akn:heading>Contributions to transition committees.</akn:heading>
+<akn:subsection eId="subsec_1-1163_26_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person, including a business contributor, may make any contribution to or for a transition committee, and the Mayor or Mayor-elect may not receive any contribution to or for a transition committee from any person, that when aggregated with all other contributions to or for the transition committee received from the person, exceed $2,000 in an aggregate amount; provided, that the $2,000 limitation shall not apply to contributions made by the Mayor or Mayor-elect for the purpose of funding his or her own transition committee within the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1163_26_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person, including a business contributor, may make any contribution to a transition committee, and the Chairman of the Council or Chairman-elect may not receive any contribution to a transition committee from any person, that when aggregated with all other contributions to the transition committee received from the person, exceeds $1,000 in an aggregate amount; provided, that the $1,000 limitation shall not apply to contributions made by the Chairman of the Council or Chairman-elect for the purpose of funding his or her own transition committee within the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

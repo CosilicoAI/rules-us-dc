@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.50"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.50/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_306_50">
+        <akn:num>29-306.50</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_29-306_50_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Corporation” includes any domestic or foreign predecessor entity of a corporation in a merger.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_50_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Director” or “officer” means an individual who is or was a director or officer, respectively, of a corporation or who, while a director or officer of the corporation, is or was serving at the corporation’s request as a director, officer, manager, partner, trustee, employee, or agent of another entity or employee benefit plan. A director or officer shall be considered to be serving an employee benefit plan at the corporation’s request if the individual’s duties to the corporation also impose duties on, or otherwise involve services by, the individual to the plan or to participants in or beneficiaries of the plan. The term “director” or “officer” includes, unless the context requires otherwise, the estate or personal representative of a director or officer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_50_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Liability” means the obligation to pay a judgment, settlement, penalty, fine, including an excise tax assessed with respect to an employee benefit plan, or reasonable expenses incurred with respect to a proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_50_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_50_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Party” means an individual who was, is, or is threatened to be made, a defendant or respondent in a proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_50_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Proceeding” means any threatened, pending, or completed action, suit, or proceeding, whether civil, criminal, administrative, arbitrative, or investigative and whether formal or informal.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

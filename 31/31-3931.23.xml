@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3931.23"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3931.23/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3931_23">
+        <akn:num>31-3931.23</akn:num>
+        <akn:heading>Repeal and transition provisions.</akn:heading>
+<akn:subsection eId="subsec_31-3931_23_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Chapter 39 of this title is repealed, subject to the provisions of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_23_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All existing fees set forth in Chapter 39 of this title, shall remain in effect under the corresponding provisions of this chapter, and shall be applicable to protected cells, unless modified or repealed by rules promulgated by the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_23_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All effective certificates of authority and all conditions imposed on the certificates of authority shall apply to the extent they would have applied under prior law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3931_23_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>All captive insurers granted a certificate of authority as sponsored captive insurers under prior law shall comply with all of the provisions found in this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-617.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-617.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_617_09">
+        <akn:num>1-617.09</akn:num>
+        <akn:heading>Unit determination.</akn:heading>
+<akn:subsection eId="subsec_1-617_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The determination of an appropriate unit will be made on a case-to-case basis and will be made on the basis of a properly-supported request from a labor organization. No particular type of unit may be predetermined by management officials nor can there be any arbitrary limit upon the number of appropriate units within an agency. The essential ingredient in every unit is community of interest: Provided, however, that an appropriate unit must also be one that promotes effective labor relations and efficiency of agency operations. A unit should include individuals who share certain interests, such as skills, working conditions, common supervision, physical location, organization structure, distinctiveness of functions performed, and the existence of integrated work processes. No unit shall be established solely on the basis of the extent to which employees in a proposed unit have organized; however, membership in a labor organization may be considered as 1 factor in evaluating the community of interest of employees in a proposed unit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-617_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A unit shall not be established if it includes the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-617_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Two or more units for which the labor organization holds exclusive recognition within an agency may be consolidated into a single larger unit if the Board determines the larger unit to be appropriate. The Board shall certify the labor organization as the exclusive representative in the new unit when the unit is found appropriate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

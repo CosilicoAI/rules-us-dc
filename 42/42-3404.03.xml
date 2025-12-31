@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3404.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3404.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3404_03">
+        <akn:num>42-3404.03</akn:num>
+        <akn:heading>Offer of sale.</akn:heading>
+<akn:subsection eId="subsec_42-3404_03_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The asking price and material terms of the sale;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_03_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A statement that the tenant has the right to purchase the accommodation under this chapter and a summary of tenant rights and sources of technical assistance as published in the D.C. Register by the Mayor; Provided, however, that if no such statement and summary have been published, the owner will be deemed in compliance with this paragraph;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_03_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>A statement as to whether a contract with a third party exists for sale of the accommodation and that the owner shall make a copy available to the tenant within 7 days after receiving a request; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3404_03_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>A statement that the owner shall make available to the tenant a floor plan of the building and an itemized list of monthly operating expenses, utility consumption rates, and capital expenditures for each of the 2 preceding calendar years within 7 days after receiving a request. The statement shall also indicate that the owner shall, at the same time, make available the most recent rent roll, list of tenants, and list of vacant apartments. If the owner does not have a floor plan, the owner may meet the requirement to provide a floor plan by stating in writing to the tenant that the owner does not have a floor plan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4607"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4607/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4607">
+        <akn:num>28-4607</akn:num>
+        <akn:heading>Penalties.</akn:heading>
+<akn:subsection eId="subsec_28-4607_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person who violates any provision of this chapter shall be fined not more than not more than the amount set forth in [§ 22-3571.01] per violation, imprisoned for not more than 1 year, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4607_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this act [this chapter] or the rules authorized by this chapter, pursuant to subchapters I and II of Chapter 18 of Title 2.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4607_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any consumer injured by a violation of this chapter may bring an action for recovery of damages within 3 years after the signing of the contract. Judgment shall be entered for actual damages and shall in no case be less than the amount paid by the consumer to the consumer credit service organization, plus reasonable attorney’s fees and actual costs incurred to recover the damages. An award may also be entered for punitive damages.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4607_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The remedies provided pursuant to this chapter are in addition to the remedies available pursuant to any other law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

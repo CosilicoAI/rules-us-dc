@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3901"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3901/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3901">
+        <akn:num>28-3901</akn:num>
+        <akn:heading>Definitions and purposes.</akn:heading>
+<akn:subsection eId="subsec_28-3901_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>As used in this chapter, the term —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3901_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The purposes of this chapter are to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3901_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This chapter shall be construed and applied liberally to promote its purpose. This chapter establishes an enforceable right to truthful information from merchants about consumer goods and services that are or would be purchased, leased, or received in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

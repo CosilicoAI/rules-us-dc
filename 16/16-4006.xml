@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4006"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4006/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4006">
+        <akn:num>16-4006</akn:num>
+        <akn:heading>Proceedings pending before tribunal; status report.</akn:heading>
+<akn:subsection eId="subsec_16-4006_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Persons in a proceeding pending before the tribunal may sign a collaborative law participation agreement to seek to resolve a collaborative matter related to the proceeding. The parties shall file promptly with the tribunal a notice of the agreement after it is signed. Subject to subsection (c) of this section and §§ 16-4007 and 16-4008, the filing operates as an application for a stay of the proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4006_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The parties shall file promptly with the tribunal notice in a record when a collaborative law process concludes. The stay of the proceeding under subsection (a) of this section is lifted when the notice is filed. The notice may not specify any reason for termination of the process.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4006_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The tribunal in which a proceeding is stayed under subsection (a) of this section may require the parties and collaborative lawyers to provide a status report on the collaborative law process and the proceeding. A status report may include only information on whether the process is ongoing or concluded. It may not include a report, assessment, evaluation, recommendation, finding, or other communication regarding a collaborative law process or collaborative law matter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4006_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The tribunal may not consider a communication made in violation of subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4006_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The court shall provide parties notice and an opportunity to be heard before dismissing a proceeding in which a notice of collaborative process is filed based on delay or failure to prosecute.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

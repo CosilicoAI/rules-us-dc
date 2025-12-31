@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2851.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2851.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2851_04">
+        <akn:num>47-2851.04</akn:num>
+        <akn:heading>License application and fees.</akn:heading>
+<akn:subsection eId="subsec_47-2851_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person requiring a license in accordance with this subchapter shall file an application for a basic business license with the business license center, as provided in this section, and shall pay the required fee or fees. As part of his or her application, he or she shall provide a valid electronic mail address which may be used for the electronic service of process of notices related to the license.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2851_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Printed license application forms shall be made available by the business license center as well as electronic forms, which may be downloaded by computer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2851_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2851_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

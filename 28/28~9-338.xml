@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-338"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-338/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_338">
+        <akn:num>28:9-338</akn:num>
+        <akn:heading>Priority of security interest or agricultural lien perfected by filed financing statement providing certain incorrect information.</akn:heading>
+<akn:subsection eId="subsec_28:9-338_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The security interest or agricultural lien is subordinate to a conflicting perfected security interest in the collateral to the extent that the holder of the conflicting security interest gives value in reasonable reliance upon the incorrect information; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-338_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A purchaser, other than a secured party, of the collateral takes free of the security interest or agricultural lien to the extent that, in reasonable reliance upon the incorrect information, the purchaser gives value and, in the case of tangible chattel paper, tangible documents, goods, instruments, or a security certificate, receives delivery of the collateral.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

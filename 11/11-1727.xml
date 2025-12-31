@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1727"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1727/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1727">
+        <akn:num>11-1727</akn:num>
+        <akn:heading>Court reporters.</akn:heading>
+<akn:subsection eId="subsec_11-1727_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Executive Officer shall appoint reporters who shall be full-time employees of the courts. When necessary, the Executive Officer may contract for additional temporary reporting services. Nothing in this section shall be construed to preclude the Superior Court of the District of Columbia from providing by rule for the sound recording of proceedings in lieu of mechanical (audio or manual) transcription in any branch, division or courtroom of the court. Court reporters, shall, in addition to being subject to the general supervision of the Executive Officer, be subject to the supervision of the chief judges of the courts and of the other District of Columbia judges for whom they perform services, regarding the performance of their duties in the respective courts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1727_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In addition to their annual salaries, court reporters may charge and collect from parties, including the United States and the District of Columbia, who request transcripts of the original records of proceedings, only such fees as may be prescribed from time to time by the Executive Officer. The reporters shall furnish all supplies at their own expense. The Executive Officer shall prescribe such rules, practice, and procedure pertaining to fees for transcripts as the Executive Officer deems necessary, conforming as nearly as practicable to the rules, practice, and procedure established for the United States District Court for the District of Columbia. A fee may not be charged or taxed for a copy of a transcript delivered to a judge at the judge’s request or for copies of a transcript delivered to the clerk of a court for the records of the court. Except as to transcripts that are to be paid for by the United States or the District of Columbia, the reporters may require a party requesting a transcript to prepay the estimated fee therefor in advance of delivery of the transcript.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

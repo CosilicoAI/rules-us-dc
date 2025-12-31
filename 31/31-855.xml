@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-855"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-855/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_855">
+        <akn:num>31-855</akn:num>
+        <akn:heading>Criminal proceedings.</akn:heading>
+<akn:subsection eId="subsec_31-855_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The privilege is asserted for a fraudulent purpose;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-855_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The material is not subject to the privilege;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-855_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Even if subject to the privilege, the material shows evidence of noncompliance with District or federal statutes, rules, or orders and the company failed to undertake reasonable corrective action or eliminate the noncompliance within a reasonable time; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-855_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The material contains evidence relevant to the commission of a criminal offense under District law, and:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

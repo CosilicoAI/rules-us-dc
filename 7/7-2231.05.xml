@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2231.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2231.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2231_05">
+        <akn:num>7-2231.05</akn:num>
+        <akn:heading>District of Columbia government employee security training program.</akn:heading>
+<akn:subsection eId="subsec_7-2231_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Director, in consultation with other District of Columbia agencies, law enforcement, security, and terrorism experts, and representatives of public employees, shall develop and issue guidelines for a public employee security training program to meet requirements established in the District of Columbia Emergency Response Plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2231_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>At the request of the Director, District government agencies shall submit employee training programs to the Director for annual review.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

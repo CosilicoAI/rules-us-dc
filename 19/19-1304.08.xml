@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1304.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1304.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1304_08">
+        <akn:num>19-1304.08</akn:num>
+        <akn:heading>Trust for care of animal.</akn:heading>
+<akn:subsection eId="subsec_19-1304_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A trust may be created to provide for the care of an animal alive during the settlor’s lifetime. The trust terminates upon the death of the animal or, if the trust was created to provide for the care of more than one animal alive during the settlor’s lifetime, upon the death of the last surviving animal.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1304_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A trust authorized by this section may be enforced by a person appointed in the terms of the trust or, if no person is so appointed, by a person appointed by the court. A person having an interest in the welfare of the animal may request the court to appoint a person to enforce the trust or to remove a person appointed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1304_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Property of a trust authorized by this section may be applied only to its intended use, except to the extent the court determines that the value of the trust property exceeds the amount required for the intended use. Except as otherwise provided in the terms of the trust, property not required for the intended use must be distributed to the settlor, if then living, otherwise to the settlor’s successors in interest.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

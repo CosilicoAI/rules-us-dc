@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1402.24"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1402.24/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1402_24">
+        <akn:num>2-1402.24</akn:num>
+        <akn:heading>Exceptions.</akn:heading>
+<akn:subsection eId="subsec_2-1402_24_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter is to be construed to apply to the rental or leasing of housing accommodations in a building in which the owner, or members of his family occupy one of the living units and in which there are, or the owner intends that there be, accommodations for not more than:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1402_24_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing contained in the provisions of this chapter shall be deemed to permit any rental or occupancy otherwise prohibited by any statute, or by any regulation previously enacted and not repealed herein.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1402_24_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall apply to the sale or rental of a single-family home sold or rented by an owner if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

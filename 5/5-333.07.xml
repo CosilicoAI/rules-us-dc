@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-333.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-333.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_333_07">
+        <akn:num>5-333.07</akn:num>
+        <akn:heading>Techniques and procedures for investigations and preliminary inquiries.</akn:heading>
+<akn:subsection eId="subsec_5-333_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The investigative techniques used in any particular investigation or preliminary inquiry shall be dictated by the needs of the investigation or inquiry.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-333_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The MPD shall employ minimization procedures in all investigations and preliminary inquiries involving First Amendment activities. Where the conduct of an investigation or preliminary inquiry presents a choice between the uses of more or less intrusive methods or investigative techniques, the MPD shall consider whether the information could be obtained in a timely and effective way by the less intrusive means.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-333_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The following techniques may be used in an authorized investigation or authorized preliminary inquiry involving First Amendment activities, without additional authorization:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-333_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Undercover officers, informants, and mail covers may be used in an authorized preliminary inquiry after written approval and authorization is obtained from the Chief of Police or his designee. Mail openings and Wire Interception and Interception of Oral Communications, as defined in § 23-541, shall not be used in a preliminary inquiry.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-333_07_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The following techniques may be used in an authorized investigation involving First Amendment activities, after written approval and authorization is obtained from the Chief of Police or his designee:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-333_07_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>If there is an immediate threat of criminal activity, verbal authority by the designated MPD commander to use the investigative techniques described in subsection (d) and (e) of this section is sufficient until a written authorization can be obtained; provided, that other legal requirements have been met. The required written authorization shall be obtained within 5 days of the occurrence of the emergency.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

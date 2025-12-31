@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2202.16a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2202.16a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2202_16a">
+        <akn:num>34-2202.16a</akn:num>
+        <akn:heading>Low-impact design incentive program and fee discounts.</akn:heading>
+<akn:subsection eId="subsec_34-2202_16a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within one year of March 25, 2009, the Authority shall establish, together with the District Department of the Environment (“DDOE”), a low-impact design incentive program within the DDOE, to reduce the surface area that either prevents or retards the entry of water into the ground as occurring under natural conditions, or that causes water to run off the surface in greater quantities or at an increased rate of flow, relative to the flow present under natural conditions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2202_16a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Authority and the DDOE will continue to collect and document the effects of the low-impact design techniques throughout the District on reducing stormwater runoff and the possible implications of how proven, long-term reductions in stormwater runoff may be used to renegotiate the consent decree and reduce the cost and size of the Long-Term Control Plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2202_16a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Impervious surface fee discounts approved by the Authority shall be retroactive to no earlier than the date of the implementation of the impervious surface fee. A property owner may not qualify for an impervious surface fee discount until the stormwater management measures for which the property owner seeks a discount are demonstrated to be fully functional.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

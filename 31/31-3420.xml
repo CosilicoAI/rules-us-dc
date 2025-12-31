@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3420"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3420/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3420">
+        <akn:num>31-3420</akn:num>
+        <akn:heading>Rehabilitation, liquidation, or conservation of health maintenance organizations.</akn:heading>
+<akn:subsection eId="subsec_31-3420_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any rehabilitation, liquidation, or conservation of a health maintenance organization shall be deemed to be the rehabilitation, liquidation, or conservation of an insurance company and shall be conducted under the supervision of the Commissioner pursuant to the law governing the rehabilitation, liquidation, or conservation of insurance companies. The Commissioner may apply for an order directing the Commissioner to rehabilitate, liquidate, or conserve a health maintenance organization upon any one or more grounds set forth in §§ 31-1310 and 31-1315, or when in the Commissioner’s opinion the continued operation of a health maintenance organization would be hazardous either to the enrollees or to the people of the District. Enrollees shall have the same priority in the event of liquidation or rehabilitation as the law provides to policyholders of an insurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3420_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the purposes of determining the priority of distribution of general assets, claims of enrollees and enrollees’ beneficiaries shall have the same priority as established by § 31-1315, for policyholders and beneficiaries of insured of insurance companies. If an enrollee is liable to any provider for services provided pursuant to and covered by the health care plan, that liability shall have the status of an enrollee claim for distribution of general assets.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3420_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any provider who is obligated by law or agreement to hold enrollees harmless from liability for services pursuant to and covered by a health care plan shall have a priority of distribution of the general assets immediately following that of enrollees and enrollee’s beneficiaries as described herein, and immediately preceding the priority of distribution assigned to general creditors.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

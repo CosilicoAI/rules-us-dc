@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1305.06a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1305.06a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1305_06a">
+        <akn:num>7-1305.06a</akn:num>
+        <akn:heading>Informed consent.</akn:heading>
+<akn:subsection eId="subsec_7-1305_06a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except in accordance with the procedures described in subsections (b) and (c) of this section, in § 21-2212, or as otherwise provided by law, no DDS individual shall be given services pursuant to this chapter absent the individual’s informed consent. In seeking informed consent, the provider or DDS shall present the individual with available options and all material information necessary to make the decision, including information about the proposed service, potential benefits and risks of the proposed service, potential benefits and risks of no service, side effects, and information about feasible alternative services, if any.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1305_06a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the provider or DDS reasonably believes that the individual lacks the capacity to provide informed consent for the proposed service, the provider or DDS promptly shall seek a determination of the individual’s capacity in accordance with § 21-2204. If the individual is certified as incapacitated for health-care decisions in accordance with § 21-2204, DDS or the provider shall promptly seek the provision of substituted consent from the individual’s attorney-in-fact pursuant to § 21-2206 or, if no attorney-in-fact has been authorized pursuant to § 21-2205 or is reasonably available, mentally capable, and willing to act, from an individual authorized to provide substituted consent pursuant to § 21-2210.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1305_06a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the individual is certified as incapacitated and unable to consent to the proposed service in accordance with § 21-2204, and no attorney-in-fact or person listed in § 21-2210(a) is reasonably available, mentally capable, and willing to act:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

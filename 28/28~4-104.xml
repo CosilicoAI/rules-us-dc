@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4-104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4_104">
+        <akn:num>28:4-104</akn:num>
+        <akn:heading>Definitions and index of definitions.</akn:heading>
+<akn:subsection eId="subsec_28:4-104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In this article, unless the context otherwise requires, the term:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Other definitions applying to this article and the sections in which they appear are:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-104_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>“Control” as provided in § 28:7-106 and the following definitions in other articles apply to this article:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4-104_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In addition, Article 1 contains general definitions and principles of construction and interpretation applicable throughout this article.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

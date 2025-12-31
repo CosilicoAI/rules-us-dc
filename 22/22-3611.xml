@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3611"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-3611/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_3611">
+        <akn:num>22-3611</akn:num>
+        <akn:heading>Enhanced penalty for committing crime of violence against minors.</akn:heading>
+<akn:subsection eId="subsec_22-3611_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any adult, being at least 2 years older than a minor, who commits a crime of violence against that minor may be punished by a fine of up to 1 1/2 times the maximum fine otherwise authorized for the offense and may be imprisoned for a term of up to 1 1/2 times the maximum term of imprisonment otherwise authorized for the offense, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3611_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It is an affirmative defense that the accused reasonably believed that the victim was not a minor at the time of the offense. This defense shall be established by a preponderance of the evidence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-3611_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

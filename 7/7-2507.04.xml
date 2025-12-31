@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2507.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2507.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2507_04">
+        <akn:num>7-2507.04</akn:num>
+        <akn:heading>False information; forgery or alteration.</akn:heading>
+<akn:subsection eId="subsec_7-2507_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It shall be unlawful for any person purchasing any firearm or ammunition, or applying for any registration certificate or dealer’s license under this unit, or in giving any information pursuant to the requirements of this unit, to knowingly give false information or offer false evidence of identity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2507_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It shall be unlawful for anyone to forge or alter any application, registration certificate, or dealer’s license submitted, retained or issued under this unit.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

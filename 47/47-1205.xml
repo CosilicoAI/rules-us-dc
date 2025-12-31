@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1205"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1205/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1205">
+        <akn:num>47-1205</akn:num>
+        <akn:heading>Removal of nuisances; payment; interest; delinquency sale; redemption.</akn:heading>
+<akn:subsection eId="subsec_47-1205_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsections (b) and (c) of this section, all assessments authorized to be levied by the District of Columbia to reimburse it for money expended in the removal of nuisances shall bear interest at the rate of 11/2% per month or part thereof from the date such assessment was levied. If any such assessment shall remain unpaid after the expiration of 60 days from the date such assessment was levied the property against which such assessment was levied may be sold for such assessment with interest and penalties thereon at the next ensuing annual tax sale conducted under Chapter 13A of this title, in the same manner and under the same conditions as property sold for delinquent general taxes, if such assessment with interest and penalties thereon shall not have been paid in full prior to said sale.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1205_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All assessments authorized to be levied by the District of Columbia to reimburse it for money spent in the removal or abatement of nuisances or the correction of any other condition on real property that is violative of any District law or regulation pursuant to § 42-3131.01, or the correction of any unsafe condition pursuant to §§ 6-801 and 6-803, shall bear interest at the rate of 11/2% per month or part of a month from the date the assessment was levied. If any part of the assessment remains unpaid after the expiration of 60 days from the date the assessment was levied, the property against which the assessment was levied may be sold for the outstanding assessment, plus interest and penalties, at the next ensuing tax sale, but no later than 6 months from the expiration of 60 days from the date of the assessment, in the same manner and under the same conditions as property sold for delinquent general taxes, if the assessment, plus interest and penalties, is not paid in full prior to the sale.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1205_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of any property sold pursuant to subsection (b) of this section, the redemption period specified in §§ 47-847, 47-1304, 47-1306, 47-1307, and 47-1312 shall be 6 months.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

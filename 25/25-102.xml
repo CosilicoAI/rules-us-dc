@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_102">
+        <akn:num>25-102</akn:num>
+        <akn:heading>Sale of alcoholic beverages without a license prohibited.</akn:heading>
+<akn:subsection eId="subsec_25-102_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person shall sell any alcoholic beverage in the District without having first obtained an appropriate license as required by this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-102_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No wholesaler or manufacturer located within the District shall offer any alcoholic beverage for sale to, or solicit orders for the sale of any alcoholic beverage from, any person not licensed under this title, irrespective of whether the sale is to be made inside or outside the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-102_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No person located outside the District shall ship, import, or cause to be shipped or imported into the District, any alcoholic beverage without having first obtained an importation permit under this title for such shipment or importation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-102_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No person operating any premises where food, nonalcoholic beverages, or entertainment are sold or provided for compensation or where facilities are especially provided and service is rendered for the consumption of alcoholic beverages who does not possess a license under this title shall permit the consumption of alcoholic beverages on the premises.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-102_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

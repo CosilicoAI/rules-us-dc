@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-902.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-902.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_902_08">
+        <akn:num>48-902.08</akn:num>
+        <akn:heading>Schedule III enumerated.</akn:heading>
+<akn:subsection eId="subsec_48-902_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The controlled substances listed in this section are included in Schedule III, unless and until removed therefrom pursuant to § 48-902.01:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-902_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may except by rule any compound, mixture, or preparation containing any stimulant or depressant substance listed in paragraphs (1) and (2) of subsection (a) of this section from the application of all or any part of this chapter if the compound, mixture, or preparation contains 1 or more active medicinal ingredients not having a stimulant or depressant effect on the central nervous system, and if the admixtures are included therein in combinations, quantity, proportion, or concentration that vitiate the potential for abuse of the substances which have a stimulant or depressant effect on the central nervous system.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

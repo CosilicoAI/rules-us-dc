@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1807.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1807.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1807_04">
+        <akn:num>47-1807.04</akn:num>
+        <akn:heading>Tax credit to qualified businesses for wages to qualified employees; exceptions.</akn:heading>
+<akn:subsection eId="subsec_47-1807_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (b) of this section, for taxable years beginning after December 31, 1988, any incorporated business approved as qualified pursuant to § 6-1504 shall be allowed a credit against the tax imposed by this chapter in an amount equal to 50% of the wages paid by the qualified incorporated business to an employee certified by the Mayor under § 6-1504(c), during the first 24 calendar months in which the employer employed the certified employee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1807_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The credit under subsection (a) of this section shall not be allowed:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1807_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Whenever a qualified incorporated business is prevented from claiming the credit for wages paid because the certified employee was not employed for the period of time required by subsection (b)(2) and (3) of this section, the credit for wages paid may be claimed against the tax for the immediately succeeding taxable period in which the period of employment satisfies the requirement of subsection (b)(2) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1807_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the amount of the credit allowable under this section exceeds the tax otherwise due from a qualified incorporated business, the amount of the credit not used as an offset against the tax may be carried forward or back for up to 5 years, except that no portion of the credit shall be:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

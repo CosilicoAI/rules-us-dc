@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-173"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-173/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_173">
+        <akn:num>38-173</akn:num>
+        <akn:heading>Budget requirements of the District of Columbia Public Schools.</akn:heading>
+<akn:subsection eId="subsec_38-173_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall submit the budget for DCPS pursuant to § 1-204.42, along with a plan detailing the allocation of funds to each DCPS public school by program and activity level and comptroller source group.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-173_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Council may, following its review of the plan submitted pursuant to subsection (a) of this section, modify the funding and other resource levels, including full-time equivalent allocations, allocated by the plan to individual schools by a 2/3 majority vote of the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-173_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For fiscal year 2009, the Council may reallocate funds on a program level, but shall not make adjustments to activity costs within a program level; provided, that this restriction shall not apply to Special Education State, or any other local or state special education category the Mayor may designate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-173_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Beginning with fiscal year 2010, for each program level, the Mayor shall submit:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

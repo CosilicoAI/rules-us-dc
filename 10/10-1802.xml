@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1802"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1802/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1802">
+        <akn:num>10-1802</akn:num>
+        <akn:heading>Authorization of Maintenance Agreement.</akn:heading>
+<akn:subsection eId="subsec_10-1802_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, the Mayor may enter into the Maintenance Agreement, and any amendments or supplements to the Maintenance Agreement, if the Maintenance Agreement provides that the Project Developer shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1802_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Chapter 3A of Title 2 [§ 2-351.01 et seq.] shall not apply to the Maintenance Agreement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

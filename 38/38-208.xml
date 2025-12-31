@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-208"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-208/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_208">
+        <akn:num>38-208</akn:num>
+        <akn:heading>Truancy procedures; inter-agency coordination.</akn:heading>
+<akn:subsection eId="subsec_38-208_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a minor student accumulates 10 unexcused absences during a school year, the educational institution shall notify the Metropolitan Police Department within 2 business days after the 10th unexcused absence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-208_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 2 business days of the 10th unexcused absence, the educational institution shall notify the Office of the State Superintendent of Education which shall provide the parent with the truancy prevention resource guide created pursuant to § 38-2602(b)(19); provided, that the parent has not received the truancy prevention resource guide before the 10th unexcused absence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-208_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to the requirements set forth in subsections (a) and (b) of this section:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

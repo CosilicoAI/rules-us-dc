@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5103">
+        <akn:num>31-5103</akn:num>
+        <akn:heading>Forms authorized to be issued.</akn:heading>
+<akn:subsection eId="subsec_31-5103_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Individual policies of life insurance issued to debtors on the term plan;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5103_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Individual policies of accident and health insurance issued to debtors on a term plan or disability provisions in individual life policies to provide such coverage;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5103_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Group policies of life insurance issued to creditors providing insurance upon the lives of debtors on the term plan; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5103_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Group policies of accident and health insurance issued to creditors on a term plan insuring debtors or disability provisions in group life policies to provide such coverage.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1635"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1635/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1635">
+        <akn:num>44-1635</akn:num>
+        <akn:heading>Release or modification of restrictions on management, investment, or purpose.</akn:heading>
+<akn:subsection eId="subsec_44-1635_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the donor consents in a record, an institution may release or modify, in whole or in part, a restriction contained in a gift instrument on the management, investment, or purpose of an institutional fund. A release or modification may not allow a fund to be used for a purpose other than a charitable purpose of the institution.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1635_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1635_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1635_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If an institution determines that a restriction contained in a gift instrument on the management, investment, or purpose of an institutional fund is unlawful, impracticable, impossible to achieve, or wasteful, the institution, 60 days after notification to the Attorney General for the District of Columbia, may release or modify the restriction, in whole or part, if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1635_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The dollar amount specified in subsection (d)(1) of this section shall be adjusted to reflect changes in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor (“Index”), using 2007 as the base year, as follows:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

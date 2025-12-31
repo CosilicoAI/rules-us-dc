@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.88"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.88/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_88">
+        <akn:num>1-204.88</akn:num>
+        <akn:heading>Cost of reservoirs on Potomac River.</akn:heading>
+<akn:subsection eId="subsec_1-204_88_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor is authorized to contract with the United States, any state in the Potomac River basin, any agency or political subdivision thereof, and any other competent state or local authority, with respect to the payment by the District to the United States, either directly or indirectly, of the District’s equitable share of any part or parts of the non-federal portion of the costs of any reservoirs authorized by the Congress for construction on the Potomac River or any of its tributaries. Every such contract may contain such provisions as the Mayor may deem necessary or appropriate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_88_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Unless hereafter otherwise provided by legislation enacted by the Council, all payments made by the District and all moneys received by the District pursuant to any contract made under the authority of this chapter shall be paid from, or be deposited in, a fund designated by the Mayor. Charges for water delivered from the District water system for use outside the District may be adjusted to reflect the portions of any payments made by the District under contracts authorized by this chapter which are equitably attributable to such use outside the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_88_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

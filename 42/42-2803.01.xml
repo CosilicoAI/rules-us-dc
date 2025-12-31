@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2803.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2803.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2803_01">
+        <akn:num>42-2803.01</akn:num>
+        <akn:heading>Annual report by Mayor.</akn:heading>
+<akn:subsection eId="subsec_42-2803_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The amount of money expended from the Housing Production Trust Fund during the fiscal year;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2803_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The number of loans and grants made during the fiscal year;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2803_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The number of low-income, very low-income, and extremely low-income households and individuals assisted through Fund expenditures;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2803_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>A list of each project on which funds from the Fund were expended, including, for each project:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2803_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The amount and percentage of funds expended on homeownership projects;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2803_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>The amount and percentage of funds expended on rental housing projects;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2803_01_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>The amount and percentage of funds expended on rental housing or homeownership opportunities for households with incomes at or below 30% of the area median income;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2803_01_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>The amount and percentage of funds expended on rental housing or homeownership opportunities for households with incomes at or below 50% of the area median income;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2803_01_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>The amount and percentage of funds expended on rental housing or homeownership opportunities for households with incomes at or below 80% of the area median income;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2803_01_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>The number of housing units assisted, including the number of rental housing units assisted and the number of homeownership units assisted; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2803_01_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>The amount expended on administrative costs during the fiscal year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

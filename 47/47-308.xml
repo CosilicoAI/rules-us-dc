@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-308"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-308/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_308">
+        <akn:num>47-308</akn:num>
+        <akn:heading>Establishment of budget structure.</akn:heading>
+<akn:subsection eId="subsec_47-308_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 30 days of the Mayor’s first call with respect to the preparation of the budget for fiscal year 1982, and any subsequent fiscal year, the Mayor shall submit to the Council a resolution to establish the budget structure, including but not limited to designating control centers and responsibility centers, and a designation of all those entities as they are proposed for financial management purposes within the gross planning budget.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-308_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Council shall consider such resolution according to its rules. Should no written notice of disapproval of such resolution be filed by any member of the Council with the Secretary to the Council within 14 days of the receipt of such resolution from the Mayor, the resolution shall be deemed to be approved. Should notice of disapproval be filed during such initial 14 day period, the Council shall dispose of such notice of disapproval within 30 days of the initial receipt of the resolution from the Mayor, or the resolution to establish the budget structure shall be deemed to be approved.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-308_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No such resolution may be submitted to the Council during such time as the Council is on recess, according to its rules, nor shall any time period provided in this section continue to run during such time as the Council is on recess.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-308_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the Council disapproves such resolution, the Mayor may, on a clear showing of changed circumstance, new information, or additional administrative hardship, ask for a reconsideration of the previous action of the Council. The Council may in its discretion reconsider its previous action.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

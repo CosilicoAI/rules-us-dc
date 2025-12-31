@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3803"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-3803/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_3803">
+        <akn:num>28-3803</akn:num>
+        <akn:heading>Balloon payments.</akn:heading>
+<akn:subsection eId="subsec_28-3803_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>No creditor shall at any time enter into an agreement which contains or anticipates a schedule of payments under which any one payment is not equal or substantially equal to all other payments, excluding any final payment which is less than the average of previous payments or any down payment received by the creditor contemporaneously with or prior to the consummation of the transaction, or under which the intervals between any consecutive payments differ substantially.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3803_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Notwithstanding any provision of this section, where a consumer’s livelihood is dependent upon seasonal or intermittent income, the parties may agree in a separate writing that one or more payments or the intervals between one or more payments may be reduced or expanded in accordance with the needs of the consumer if such payments are expressly related to the consumer’s income. The separate writing shall contain a conspicuous notice directly above the signature line stating: “I waive my right to have all payments to be made under this agreement in substantially equal amounts”.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-3803_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>In the event that the provisions of paragraph (2) of this subsection apply, the consumer shall have the right at any time, without further cost or obligation, to revise the schedule of payments to conform both as to amounts and intervals to the average of all installments and intervals.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

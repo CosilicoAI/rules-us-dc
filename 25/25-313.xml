@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-313"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-313/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_313">
+        <akn:num>25-313</akn:num>
+        <akn:heading>Appropriateness standard.</akn:heading>
+<akn:subsection eId="subsec_25-313_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To qualify for issuance, renewal of a license, transfer of a license to a new location, or an application for the approval of a substantial change in operation as determined by the Board under § 25-404, an applicant shall demonstrate to the satisfaction of the Board that the establishment is appropriate for the locality, section, or portion of the District where it is to be located.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-313_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In determining the appropriateness of an establishment, the Board shall consider all relevant evidence of record, including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-313_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-313_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No license shall be issued for an outlet, property, establishment, or business which sells motor vehicle gasoline or which holds a Motor Vehicle Sales, Service, and Repair endorsement under § 47-2851.03(c)(9) [now § 47-2851.03(a)(9)] or an Environmental Materials endorsement under § 47-2851.03(c)(4) [now § 47-2851.03(a)(4)] to its master [basic] business license.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

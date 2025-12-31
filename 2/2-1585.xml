@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1585"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1585/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1585">
+        <akn:num>2-1585</akn:num>
+        <akn:heading>Executive Working Group.</akn:heading>
+<akn:subsection eId="subsec_2-1585_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established a Youth Development Plan Executive Working Group (“Working Group”), that shall advise its chair on the youth development plan. The chair of the Working Group shall be the Deputy Mayor for Children, Youth, Families and Elders (“chair”). The other members of the Executive working group shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1585_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The operations of the Working Group shall be subject to the discretion of the chair; provided, that Working Group shall meet at least twice a year. The chair of the Working Group shall work to ensure that the Group receives meaningful, informed feedback and input from its youth members.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

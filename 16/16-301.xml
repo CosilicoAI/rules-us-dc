@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_301">
+        <akn:num>16-301</akn:num>
+        <akn:heading>Jurisdiction; rules.</akn:heading>
+<akn:subsection eId="subsec_16-301_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to subsection (b) of this section, the Superior Court of the District of Columbia has jurisdiction to hear and determine petitions and decrees of adoption of any adult or child with authority to make such rules, not inconsistent with this chapter, as shall bring fully before the court for consideration the interests of the prospective adoptee, the natural parents, the petitioner, and any other properly interested party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-301_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Jurisdiction shall be conferred when any of the following circumstances exist:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-301_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The jurisdiction conferred upon the Superior Court of the District of Columbia by subsection (b)(4) of this section shall apply retroactively to all children born in the District of Columbia on or after July 18, 2009.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1104"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1104/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1104">
+        <akn:num>11-1104</akn:num>
+        <akn:heading>Administration.</akn:heading>
+<akn:subsection eId="subsec_11-1104_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>“One Family, One Judge” Requirement for Cases and Proceedings. — To the greatest extent practicable, feasible, and lawful, if an individual who is a party to an action or proceeding assigned to the Family Court has an immediate family or household member who is a party to another action or proceeding assigned to the Family Court, the individual’s action or proceeding shall be assigned to the same judge or magistrate judge to whom the immediate family member’s action or proceeding is assigned.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1104_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Retention of Jurisdiction Over Cases. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1104_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Training Program. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1104_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Accessibility of Materials, Services, and Proceedings; Promotion of “Family-Friendly” Environment. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1104_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Integrated Computerized Case Tracking and Management System. — The Executive Officer of the District of Columbia courts under § 11-1703 shall work with the chief judge of the Superior Court—</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2036"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2036/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2036">
+        <akn:num>7-2036</akn:num>
+        <akn:heading>Powers and duties of the Mayor.</akn:heading>
+<akn:subsection eId="subsec_7-2036_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall promulgate all rules necessary to implement the provisions of this subchapter, including the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2036_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may conduct investigations and inspections needed to ensure compliance with this subchapter. In this regard, the Mayor may administer oaths, examine witnesses, and issue subpoenas to compel attendance and testimony of witnesses and the production of books, records, and other documents needed to enforce this subchapter. In case of contumacy or refusal to obey a subpoena, the Superior Court of the District of Columbia, at the request of the Mayor, shall issue an order requiring the contumacious person to appear and testify or produce books, papers, or other evidence bearing on the hearing. Failure to obey the court’s order shall be punishable as contempt of court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2036_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall maintain and make available to the public information concerning:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

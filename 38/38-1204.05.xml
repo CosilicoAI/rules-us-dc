@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1204.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1204.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1204_05">
+        <akn:num>38-1204.05</akn:num>
+        <akn:heading>Transfer of appropriation balance; power to contract; Material Fund.</akn:heading>
+<akn:subsection eId="subsec_38-1204_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board of Education of the District of Columbia is authorized to transfer during the fiscal year any appropriation balance available for one item of appropriation to another item of appropriation or to a new program designated by action of the Board; provided, that any such action under this subsection shall be taken in accordance with the reprogramming policy and laws of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1204_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1204_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>There is established, in the General Fund, an account entitled the Material Fund which shall be limited to public school use. The Board of Education is authorized to transfer its authority from the Material Fund to an internal service fund, which transferred authority if not obligated by the end of the first quarter of fiscal year 1981, or each succeeding fiscal year thereafter, shall expire.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

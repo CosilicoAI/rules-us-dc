@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3507.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3507.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3507_03">
+        <akn:num>42-3507.03</akn:num>
+        <akn:heading>Payments.</akn:heading>
+<akn:subsection eId="subsec_42-3507_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Until the Mayor establishes the amount of relocation assistance pursuant to subsection (b) of this section, the amount of relocation assistance payable to a displaced tenant shall be calculated as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3507_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall establish the amount to be paid tenants for relocation assistance within 30 days of June 22, 2006. Thereafter, the Mayor shall, by rule, adjust the amount to be paid tenants for relocation assistance not more than once every 12 months and not less than once every 3 years. The amount of relocation assistance shall reflect the cost of moving, including transporting personal property, packing and unpacking, insurance of property while in transit, storage of personal property, the disconnection and re-connection of utilities, and any other reasonable factor, within the Washington-Baltimore Standard Metropolitan Statistical Area.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3507_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Relocation assistance shall be paid to eligible tenants not later than 24 hours before the date the rental unit is to be vacated by the tenants or subtenants, if the housing provider has received at least 10 days, excluding Saturdays, Sundays, and holidays, advance written notice of the date upon which the unit is to be vacated. Where the tenant does not provide the housing provider with at least a 10-day notice, the relocation assistance shall be paid within 30 days after the unit is vacated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3507_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Payment of relocation assistance shall not be required with respect to any rental unit which is the subject of an outstanding judgment for possession obtained by the housing provider or housing provider’s predecessor in interest against the tenants or subtenants for a cause of action whether the cause of action arises before or after the service of the notice of intention to rehabilitate, demolish, or discontinue housing use. If the judgment for possession is based upon nonpayment of rent and arises after the notice of intent to rehabilitate, demolish, or discontinue housing use has been given, then relocation assistance shall be required in an amount reduced by the amount determined to be due and owing to the housing provider by the court rendering the judgment for possession.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

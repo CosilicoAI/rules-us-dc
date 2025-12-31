@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-706"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-706/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_706">
+        <akn:num>23-706</akn:num>
+        <akn:heading>Confinement.</akn:heading>
+<akn:subsection eId="subsec_23-706_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The agent of the demanding State to whom the prisoner may have been delivered in accordance with the provisions of section 23-704, may, when necessary, confine the prisoner in a facility of the District of Columbia Department of Corrections, and the Department of Corrections must receive and safely keep the prisoner for such reasonable time as will enable the officer or person having charge of him to proceed on his route, such officer or person being chargeable with the expense of keeping.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-706_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The officer or agent of a demanding State to whom a prisoner may have been delivered following extradition proceedings in another State, or to whom a prisoner may have been delivered after waiving extradition in the other State, and who is passing through the District of Columbia with a prisoner for the purpose of immediately returning the prisoner to the demanding State, may, when necessary, confine the prisoner in a facility of the Department of Corrections. The Department of Corrections must receive and safely keep the prisoner for such reasonable time as will enable the officer or agent to proceed on his route, such officer or agent being chargeable with the expense of keeping. That officer or agent shall produce and show to the Department of Corrections satisfactory written evidence of the fact that he is actually transporting the prisoner to the demanding State after a requisition by the executive authority of the demanding State. The prisoner shall not be entitled to demand a new requisition while in the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

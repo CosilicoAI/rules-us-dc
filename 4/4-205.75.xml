@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.75"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-205.75/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_205_75">
+        <akn:num>4-205.75</akn:num>
+        <akn:heading>POWER — Redetermination of eligibility.</akn:heading>
+<akn:subsection eId="subsec_4-205_75_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A POWER recipient’s eligibility for POWER shall be redetermined at intervals determined by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_75_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A POWER recipient, who is determined ineligible for POWER solely because the recipient is no longer incapacitated, or because other factors considered with the recipient’s incapacity no longer substantially precludes the recipient’s ability to work or to participate in job search or job readiness activities, shall be certified as eligible for TANF in a fashion that ensures financial assistance is not disrupted, if the recipient meets all TANF eligibility criteria. The Mayor shall provide adequate and timely notice that the POWER recipient has been determined ineligible for POWER.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-205_75_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A POWER recipient who is determined eligible for continuation of one year due to incapacity under § 4-205.72(b)(2) shall be informed by the Mayor or the Mayor’s designee about the recipient’s potential eligibility for Social Security Disability Insurance (“SSDI”) or Supplemental Security Income (“SSI”). If appropriate, the POWER recipient shall submit an application for SSDI or SSI benefits as part of the recipient’s self-sufficiency plan. The Mayor or the Mayor’s designee shall offer application and advocacy assistance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

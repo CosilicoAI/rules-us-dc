@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-734"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-734/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_734">
+        <akn:num>26-734</akn:num>
+        <akn:heading>Interstate branching by de novo entry or acquisition into the District.</akn:heading>
+<akn:subsection eId="subsec_26-734_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An out-of-state bank (“applicant”) that does not maintain a branch within the District may establish and maintain a de novo branch or may acquire a branch within the District provided the applicant meets the following requirements:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-734_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An out-of-state state bank that establishes and maintains a branch in the District may exercise, at such branch, all rights and powers permitted to be exercised by District state banks unless the out-of-state state bank’s home state determines that the exercise of such rights or powers would threaten the safety and soundness of the out-of-state state bank.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

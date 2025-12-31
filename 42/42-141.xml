@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-141"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-141/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_141">
+        <akn:num>42-141</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_42-141_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Acknowledgment” means a declaration by a person that states:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-141_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-141_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“In a representative capacity” means to act as:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-141_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Notarial act” means taking an acknowledgment, administering an oath or affirmation, taking a verification upon oath or affirmation, witnessing or attesting a signature, noting a protest of a negotiable instrument, or any other similar act authorized by law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-141_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Notarial officer” means a notary public or other officer authorized to perform a notarial act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-141_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Verification upon oath or affirmation” means a declaration that a statement made by a person upon oath or affirmation is a true statement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

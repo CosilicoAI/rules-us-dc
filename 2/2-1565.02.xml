@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1565.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1565.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1565_02">
+        <akn:num>2-1565.02</akn:num>
+        <akn:heading>Establishment and duties.</akn:heading>
+<akn:subsection eId="subsec_2-1565_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established the Youth Council of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1565_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Youth Council members shall advise the Council of the District of Columbia (“Council”) by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1565_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Youth Council shall conduct periodic seminars for members regarding leadership, government, and the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1565_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1565_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Beginning one year after its first meeting and every year thereafter, the Youth Council shall publish a report of its activities, recommendations, and accomplishments, which shall be:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1565_02_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The Youth Council shall meet at least 4 times a year, including at least one public hearing on issues of importance to youth.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4805.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4805.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4805_04">
+        <akn:num>28-4805.04</akn:num>
+        <akn:heading>Transfers from income to reimburse principal.</akn:heading>
+<akn:subsection eId="subsec_28-4805_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a trustee makes or expects to make a principal disbursement described in this section, the trustee may transfer an appropriate amount from income to principal in one or more accounting periods to reimburse principal or to provide a reserve for future principal disbursements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4805_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Principal disbursements to which subsection (a) of this section applies include the following, but only to the extent that the trustee has not been and does not expect to be reimbursed by a third party:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4805_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the asset whose ownership gives rise to the disbursements becomes subject to a successive income interest after an income interest ends, a trustee may continue to transfer amounts from income to principal as provided in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

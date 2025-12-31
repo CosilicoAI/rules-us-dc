@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-615"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-615/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_615">
+        <akn:num>28:9-615</akn:num>
+        <akn:heading>Application of proceeds of disposition; liability for deficiency and right to surplus.</akn:heading>
+<akn:subsection eId="subsec_28:9-615_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A secured party shall apply or pay over for application the cash proceeds of disposition under § 28:9-610 in the following order to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-615_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If requested by a secured party, a holder of a subordinate security interest or other lien shall furnish reasonable proof of the interest or lien within a reasonable time. Unless the holder does so, the secured party need not comply with the holder’s demand under subsection (a)(3).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-615_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A secured party need not apply or pay over for application noncash proceeds of disposition under § 28:9-610 unless the failure to do so would be commercially unreasonable. A secured party that applies or pays over for application noncash proceeds shall do so in a commercially reasonable manner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-615_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the security interest under which a disposition is made secures payment or performance of an obligation, after making the payments and applications required by subsection (a) and permitted by subsection (c):</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-615_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the underlying transaction is a sale of accounts, chattel paper, payment intangibles, or promissory notes:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-615_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The surplus or deficiency following a disposition is calculated based on the amount of proceeds that would have been realized in a disposition complying with this part to a transferee other than the secured party, a person related to the secured party, or a secondary obligor if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-615_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A secured party that receives cash proceeds of a disposition in good faith and without knowledge that the receipt violates the rights of the holder of a security interest or other lien that is not subordinate to the security interest or agricultural lien under which the disposition is made:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

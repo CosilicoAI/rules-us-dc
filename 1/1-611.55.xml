@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-611.55"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-611.55/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_611_55">
+        <akn:num>1-611.55</akn:num>
+        <akn:heading>Meetings and hearings.</akn:heading>
+<akn:subsection eId="subsec_1-611_55_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commission shall meet as frequently as the proper and efficient discharge of its duties may require. A majority of the voting members shall constitute a quorum. The Commission may act by an affirmative vote of a majority of its voting members.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-611_55_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Other than executive sessions to consider privileged matters, the meetings of the Commission shall be open to the public. The discussion of compensation shall not be a privileged matter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-611_55_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An executive meeting may be convened by a vote of a majority of the voting members of the Commission, upon good cause shown.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-611_55_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Commission shall hold at least 2 public hearings to take public testimony on any proposed compensation changes, including from compensation experts from the public and private sectors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-611_55_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Commission shall maintain minutes of the meetings.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

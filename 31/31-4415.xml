@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4415"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4415/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4415">
+        <akn:num>31-4415</akn:num>
+        <akn:heading>Capital stock records.</akn:heading>
+<akn:subsection eId="subsec_31-4415_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It shall be the duty of the directors of every domestic stock company to cause a record to be kept by the treasurer or secretary of the company or by the stock transfer agent of the company containing the names of all persons, alphabetically arranged, who are or shall within 6 years have been stockholders of such company, and showing their place of residence, the number of shares of capital stock held by them, respectively, the time when they became owners of such shares, and the amount of capital stock actually paid in.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4415_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Such record shall, during the usual business hours of the day, on every business day, be open for inspection by policyholders, stockholders, creditors of the company, and the personal representatives of such policyholders, stockholders, and creditors at the office or principal place of business of such company in the place where its business operations shall be located in the District of Columbia, or at the office of the stock transfer agent located in the District of Columbia, and any policyholder, stockholder, creditor, or representative shall have a right to make extracts from such record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4415_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Such record shall be presumptive evidence of the facts therein stated in favor of the plaintiff in any suit or proceeding against such company or against any 1 or more stockholders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4415_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Every officer, stock transfer agent, or any other agent of any company who shall neglect to make any proper entry in such record, or shall refuse or neglect to exhibit the same, or allow the same to be inspected and extracts to be taken therefrom, as herein provided, shall be deemed guilty of a misdemeanor and the company shall pay to the party injured a penalty of $50 for any such neglect or refusal, and all damages resulting therefrom.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4415_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Every company that shall neglect to have such record kept open for inspection, as herein provided, shall forfeit to the District the sum of $50 for every day it shall so neglect, to be sued for and recovered by the Commissioner, the Corporation Counsel representing him, in the Superior Court of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

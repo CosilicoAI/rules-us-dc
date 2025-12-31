@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-303.23"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-303.23/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_303_23">
+        <akn:num>1-303.23</akn:num>
+        <akn:heading>Penalties and enforcement.</akn:heading>
+<akn:subsection eId="subsec_1-303_23_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Enforcement and adjudication of infractions of these rules shall be pursuant to Chapter 18 of Title 2 [§ 2-1801.01 et seq.] (“Civil Infractions Act”), Chapter 9A of Title 50 [§ 50-921.01 et seq.] (“DDOT Establishment Act”), and Chapter 1A of Title 12A of the Construction Codes. The Mayor shall enforce the rules applicable to signs on public space, public rights-of-way, public buildings and structures, and other property owned or controlled by the District under the Civil Infractions Act and the DDOT Establishment Act. The rules applicable to signs on private property shall be enforced under the Civil Infractions Act and Chapter 1A of Title 12A of the Construction Codes. The Mayor shall also establish, by rulemaking, a schedule of fines and penalties for infractions of these rules, which shall be subject to Council review and approval as described in § 1-303.21.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-303_23_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person or entity, whether as principal, agent, or employee, violating rules issued pursuant to § 1-303.21 or this section shall, upon conviction in the Superior Court of the District of Columbia, be fined no less than $5 nor more than $200 for each offense, and a fine shall be imposed for each day that the violation continues.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-671.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-671.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_671_03">
+        <akn:num>8-671.03</akn:num>
+        <akn:heading>Contents of environmental covenant.</akn:heading>
+<akn:subsection eId="subsec_8-671_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An environmental covenant must:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-671_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In addition to the information required by subsection (a) of this section, an environmental covenant may contain other information, restrictions, and requirements agreed to by the persons who signed it, including any:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-671_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to other conditions for its approval of an environmental covenant, the environmental agency may require those persons specified by the environmental agency who have interests in the real property to sign the covenant.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

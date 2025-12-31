@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1431.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1431.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1431_03">
+        <akn:num>2-1431.03</akn:num>
+        <akn:heading>Establishment of the Office of Disability Rights.</akn:heading>
+<akn:subsection eId="subsec_2-1431_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established an Office of Disability Rights.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1431_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The purpose of the Office is to advance the civil rights of people with disabilities by coordinating the District’s ADA Compliance Program and by ensuring and overseeing District-wide compliance with the ADA and related disability-rights laws.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1431_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1431_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In addition to a Director, the Office shall at a minimum have the following full-time staff:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1431_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Director shall endeavor to hire qualified individuals with disabilities.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1313.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1313.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1313_10">
+        <akn:num>34-1313.10</akn:num>
+        <akn:heading>Commission order.</akn:heading>
+<akn:subsection eId="subsec_34-1313_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon making the findings described in subsection (b) of this section, the Commission shall issue an order approving or denying the application and triennial Underground Infrastructure Improvement Projects Plan to authorize the proposed DDOT Underground Electric Company Infrastructure Improvement Activity, Electric Company Infrastructure Activity, and the subsequent imposition of Underground Project Charges. The Commission shall have the authority to impose in its order and to condition the electric company’s exercise of the rights granted therein on such reasonable terms and conditions as it determines necessary to further the purposes of this chapter. If the Commission denies all or part of a triennial Underground Infrastructure Improvement Project Plan or related cost recovery, the electric company shall be allowed to recover all prudent and reasonable expenses and costs associated with the development of the Underground Infrastructure Improvement Projects Plan, including preliminary engineering design work required to fulfill the requirements of the application in its Underground Project Charge.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1313_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For the electric company to recover expenses and costs pursuant to subsection (a) of this section, the Commission shall find that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1313_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to other terms and conditions considered necessary and appropriate by the Commission, the Commission’s order shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1313_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding the foregoing, the Commission shall have no authority to issue any order that would cause the total amount of Electric Company Infrastructure Improvements Costs recovered through Underground Project Charges to exceed $500 million; provided, that this limit shall not apply to the recovery of the electric company’s rate of return, as approved by the Commission, included in the calculation of the Underground Project Charges. The electric company shall have no obligation to incur Electric Company Infrastructure Improvement Costs in excess of the aggregate amount approved for current recovery through the Underground Project Charge pursuant to one or more final orders of the Commission.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

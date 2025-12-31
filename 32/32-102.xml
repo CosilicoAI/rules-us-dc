@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-102"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-102/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_102">
+        <akn:num>32-102</akn:num>
+        <akn:heading>Transition employment period.</akn:heading>
+<akn:subsection eId="subsec_32-102_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The present contractor within a period of 10 days after the awarding of a contract shall make available to prospective contractors the names of all employees of the present contractor employed at the site or sites covered by the prospective contract, the date each employee was hired, and the employee’s occupation classification.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-102_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A new contractor who is awarded a contract to provide similar covered services provided by the previous contractor shall retain, for a 90-day transition employment period, covered employees who have been employed by the previous contractor for the preceding 8 months or longer at the site or sites covered by the contract.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-102_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If at any time, the new contractor determines that fewer employees are required to perform the new contract than were required by the previous contractor, the new contractor shall retain employees by seniority within job classification.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-102_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>During the 90-day transition employment period, the new contractor shall maintain a preferential hiring list of eligible covered employees not retained by the new contractor from which the new contractor may hire additional employees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-102_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (c) of this section, the new contractor shall not discharge an employee retained pursuant to this chapter during the 90-day transition period without cause.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-102_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>At the end of the 90-day transition employment period, the new contractor shall perform a written performance evaluation for each employee retained pursuant to this chapter. If the employee’s performance during the 90-day transition employment period is satisfactory, the new contractor shall offer the employee continued employment under the terms and conditions established by the new contractor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-102_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>If a contractor’s contract at an establishment in the District of Columbia is not renewed, and within 30 days the contractor is awarded a similar contract at another establishment in the District of Columbia, the contractor shall retain at least 50% of the employees from each establishment as needed to perform the contract.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

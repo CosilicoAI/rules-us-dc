@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-106.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-106.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_106_03">
+        <akn:num>29-106.03</akn:num>
+        <akn:heading>Reinstatement.</akn:heading>
+<akn:subsection eId="subsec_29-106_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A domestic filing entity that is dissolved administratively under § 29-106.02 may apply to the Mayor for reinstatement. The application shall be signed by the entity and state:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-106_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>To be reinstated, an entity shall pay all fees and penalties that were due to the Mayor at the time of its administrative dissolution and all fees and penalties that would have been due to the Mayor while the entity was dissolved administratively.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-106_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the Mayor determines that an application under subsection (a) of this section contains the information required by subsection (a) of this section, is satisfied that the information is correct, and determines that all payments required to be made to the Mayor by subsection (b) of this section have been made, the Mayor shall cancel the statement of dissolution and prepare a statement of reinstatement that states the Mayor’s determination and the effective date of reinstatement, file the statement, and serve a copy on the entity pursuant to § 29-104.12.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-106_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When reinstatement under this section is effective, it shall relate back to, and be effective, as of the effective date of the administrative dissolution, and the domestic filing entity shall resume carrying on its activities and affairs as if the administrative dissolution had never occurred, except for the rights of a person arising out of an act or omission in reliance on the dissolution before the person knew or had reason to know of the reinstatement.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

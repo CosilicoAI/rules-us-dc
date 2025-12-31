@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1201.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1201.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1201_02">
+        <akn:num>29-1201.02</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_29-1201_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Beneficial owner” means the owner of a beneficial interest in a statutory trust or foreign statutory trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Certificate of trust” means the record required by § 29-1202.01. The term “certificate of trust” includes the certificate amended or restated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Common-law trust” means a fiduciary relationship with respect to property arising from a manifestation of intent to create that relationship and subjecting the person that holds title to the property to duties to deal with the property for the benefit of charity or for one or more persons, at least one of which is not the sole trustee, whether the purpose of the trust is donative or commercial. The term “common-law trust” shall include the type of trust known at common law as a “business trust”, “Massachusetts trust”, or “Massachusetts business trust”.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Contribution”, except in the phrase “right of contribution”, means property or a benefit described in § 29-1206.03 that a person provides to a statutory trust in order to become a beneficial owner or provides in the person’s capacity as a beneficial owner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Distribution” means a transfer of money or other property from a statutory trust as a result of a beneficial interest. The term includes transfers occurring when a statutory trust’s redeems or otherwise purchases a beneficial interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Foreign statutory trust” means a trust that is formed under the laws of a jurisdiction other than the District which would be a statutory trust if formed under the laws of the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Governing instrument” means the trust instrument and certificate of trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Person” means an individual, corporation, statutory trust, estate, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity. The term “person” shall not include a common-law trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Registered foreign statutory trust” means a foreign statutory trust that is registered to do business in the District pursuant to a registration statement delivered to the Mayor for filing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Related party”, with respect to a person that is a trustee, officer, employee, manager, or beneficial owner, means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Series trust” means a statutory trust that has one or more series created under § 29-1204.01.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“Statutory trust”‘ means an entity formed under this chapter or an entity that becomes subject to this chapter under Chapter 2 of this title.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“Trust” includes a common-law trust, statutory trust, and foreign statutory trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“Trust instrument” means a record other than the certificate of trust which provides for the governance of the activities and affairs of a statutory trust and the conduct of its business. The term “trust instrument” includes a trust agreement, a declaration of trust, and bylaws.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1201_02_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“Trustee” means a person designated, appointed, or elected as a trustee of a statutory trust or foreign statutory trust in accordance with the governing instrument or applicable law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

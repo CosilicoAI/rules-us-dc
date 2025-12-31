@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2231.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2231.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2231_15">
+        <akn:num>31-2231.15</akn:num>
+        <akn:heading>Unfair financial planning practices; an insurance agent or broker.</akn:heading>
+<akn:subsection eId="subsec_31-2231_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No person shall hold himself or herself out, directly or indirectly, to the public as a financial planner, investment adviser, consultant, financial counselor, or any other specialist engaged in the business of giving financial planning or advice relating to investments, insurance, real estate, tax matters, or trust and estate matters if the person is in fact engaged only in the sale of insurance policies or contracts.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All fees, other than commissions for financial planning by an insurance producer, shall be based upon a written agreement signed by the party to be charged in advance of the performance of the services under the agreement. A copy of the agreement shall be provided to the party to be charged at the time the agreement is signed by the party. The agreement shall specifically state:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2231_15_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The person furnishing the agreement shall retain a copy for at least 3 years after completion of services. A copy shall be available to the Commissioner upon request.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

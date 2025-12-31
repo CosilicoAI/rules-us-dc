@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1207.57"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-1207.57/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_1207_57">
+        <akn:num>3-1207.57</akn:num>
+        <akn:heading>Other pharmacy-related services.</akn:heading>
+<akn:subsection eId="subsec_3-1207_57_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless otherwise authorized by the Board, an individual who works at a pharmacy and is not licensed or registered by the Board as a pharmacist or pharmacy intern or authorized to perform the services of a pharmacy technician under this chapter, may perform only ancillary pharmacy services, such as:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-1207_57_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An individual who is not licensed or registered by the Board as a pharmacist or pharmacy intern or authorized to perform the services of a pharmacy technician under this chapter shall not perform the tasks of a:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1207.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1207.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1207_02">
+        <akn:num>7-1207.02</akn:num>
+        <akn:heading>Criminal penalties.</akn:heading>
+<akn:subsection eId="subsec_7-1207_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except for violations of subchapter V of this chapter, any person who willfully violates the provisions of this chapter shall be guilty of a misdemeanor and such violator shall be fined not more than $1,000 or imprisoned for not more than 60 days, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1207_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person who knowingly obtains mental health information from a mental health professional, mental health facility or data collector, under false pretenses or through deception, shall be guilty of a misdemeanor and shall be fined not more than $5,000 or imprisoned not more than 90 days, or both.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

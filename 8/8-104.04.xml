@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-104.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-104.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_104_04">
+        <akn:num>8-104.04</akn:num>
+        <akn:heading>Fertilizer public education program.</akn:heading>
+<akn:subsection eId="subsec_8-104_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 180 days of April 20, 2013, a retail establishment that sells fertilizer for turf shall prominently display information prepared by the Department that references:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-104_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Department shall develop a program of public education that shall include the dissemination of information regarding nutrient pollution, soil testing, proper interpretation of fertilizer label instructions, and the proper use and calibration of fertilizer application equipment, best management practices for fertilizer use in the urban landscape, the requirements of this subchapter, and the effects of fertilizers on the Chesapeake Bay and its tributaries.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

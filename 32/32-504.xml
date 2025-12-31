@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-504"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-504/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_504">
+        <akn:num>32-504</akn:num>
+        <akn:heading>Certification.</akn:heading>
+<akn:subsection eId="subsec_32-504_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An employer may require that a request for family leave under § 32-502(a)(4) or medical leave under § 32-503 be supported by a certification issued by the health care provider of the employee or family member. The employee shall provide a copy of the certification to the employer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-504_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The certification provided by the employee to the employer shall state:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-504_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of § 32-505(c), the employer may request that certification issued in any case involving medical leave under § 32-503 include an explanation of the extent to which the employee is unable to perform the functions of the employee’s position.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-504_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-504_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any health care provider approved or mutually agreed upon under subsection (d)(1) or (2) of this section may not be retained on a regular basis by the employer or employee or otherwise bear a close relationship to the employer or employee that would give the appearance that the certification is biased.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-504_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The employer may require that the employee obtain subsequent recertifications on a reasonable basis.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-504_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

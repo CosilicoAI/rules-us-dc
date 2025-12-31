@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-609.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-609.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_609_02">
+        <akn:num>1-609.02</akn:num>
+        <akn:heading>Nature of positions in the Excepted Service and conversion rights.</akn:heading>
+<akn:subsection eId="subsec_1-609_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each person holding an excepted appointment under the authority of this section and §§ 1-609.01 and 1-609.03 shall be an individual:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-609_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person holding an Excepted Service appointment pursuant to § 1-609.03 or § 1-609.08 may be appointed to a position in the Career, Management Supervisory, or Educational Service during the period that begins 6 months before the Mayoral primary election and ends 3 months after the Mayoral general election; provided, that an Excepted Service appointee may compete for a position in the Career, Management Supervisory, or Educational Service during this time period; provided further, that, upon termination, a person with Career or Educational Service status may return, at the discretion of the terminating personnel authority, within 3 months of termination to a vacant position in such service for which he or she is qualified.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-609_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All persons appointed to the Excepted Service shall be subject to a credit check and a criminal background check, pursuant to the procedures established in Chapter 15 of Title 4 [§ 4-1501.01 et seq.]. The suitability determination shall be made by the appointing personnel authority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-609_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The provisions of this section shall not apply to employees of the Council of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

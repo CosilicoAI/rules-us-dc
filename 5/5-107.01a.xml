@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-107.01a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-107.01a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_107_01a">
+        <akn:num>5-107.01a</akn:num>
+        <akn:heading>Obligated service.</akn:heading>
+<akn:subsection eId="subsec_5-107_01a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A candidate for appointment as a sworn member of the Metropolitan Police Department shall execute an agreement obligating the candidate to serve a minimum of 2 years as a sworn member upon successful completion of the initial training program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-107_01a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (c) of this section, a sworn member who voluntarily leaves the Metropolitan Police Department before fulfilling the 2-year term of obligated service required under subsection (a) of this section shall reimburse the District for expenses incurred by it, up to $5,000, in connection with that member’s initial training, other than the member’s pay. The Chief of Police may increase the $5,000 limit on reimbursement by General Order or rulemaking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-107_01a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A sworn member who voluntarily leaves the Metropolitan Police Department before fulfilling the 2-year term of obligated service shall not be liable for reimbursement to the District if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-107_01a_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Office of the Attorney General for the District of Columbia may bring a civil action in the Superior Court of the District of Columbia to recover the monies owed the District under subsection (b) of this section along with the costs of the action, including reasonable attorney’s fees.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

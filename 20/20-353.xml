@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-353"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-353/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_353">
+        <akn:num>20-353</akn:num>
+        <akn:heading>Proceedings after petition.</akn:heading>
+<akn:subsection eId="subsec_20-353_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Determinations on petition. — If the Court finds that the petition and any additional information filed under this subchapter is accurate, it shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-353_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notice. — If the Court directs that notice be given, notice shall be given once in the form required by section 20-704; except, that the period within which claims must be filed or objection must be made to contest the validity of the will or the small estates proceeding or the appointment of the personal representative shall be 30 days from the date of publication of notice.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

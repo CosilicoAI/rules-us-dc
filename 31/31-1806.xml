@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1806"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1806/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1806">
+        <akn:num>31-1806</akn:num>
+        <akn:heading>Required contract provisions; reinsurance intermediary-managers.</akn:heading>
+<akn:subsection eId="subsec_31-1806_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The reinsurer may terminate the contract for cause upon written notice to the reinsurance manager. The reinsurer may immediately suspend the authority of the reinsurance manager to assume or cede business during the pendency of any dispute regarding the cause for termination.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The reinsurance manager will render accounts to the reinsurer accurately detailing all material transactions, including information necessary to support all commissions, charges, and other fees received by, or owing to, the reinsurance manager, and remit all funds due under the contract to the reinsurer on not less than a monthly basis.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>All funds collected for the reinsurer’s account will be held by the reinsurance manager in a fiduciary capacity in a bank which is a qualified United States financial institution. The reinsurance manager may retain no more than 3 months estimated claims payments and allocated loss adjustment expenses. The reinsurance manager shall maintain a separate bank account for each reinsurer that it represents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>For at least 10 years after expiration of each contract of reinsurance transacted by the reinsurance manager, the reinsurance manager will keep a complete record for each transaction showing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The reinsurer will have access and the right to copy all accounts and records maintained by the reinsurance manager related to its business in a form usable by the reinsurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>The contract cannot be assigned in whole or in part by the reinsurance manager.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>The reinsurance manager will comply with the written underwriting and rating standards established by the insurer for the acceptance, rejection, or cession of all risks.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>The rates shall be set forth, as well as the terms and purposes of commissions, charges, and other fees which the reinsurance manager may levy against the reinsurer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>If the contract permits the reinsurance manager to settle claims on behalf of the reinsurer:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>If the contract provides for a sharing of interim profits by the reinsurance manager, the interim profits will not be paid until 1 year after the end of each underwriting period for property business, and 5 years after the end of each underwriting period for casualty business, or a later period set by the Mayor for specified lines of insurance, and not until the adequacy of reserves on remaining claims has been verified pursuant to § 31-1808(c).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>The reinsurance manager will annually provide the reinsurer with a statement of its financial condition prepared by an independent certified accountant.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>The reinsurer shall periodically, at least semi-annually, conduct an on-site review of the underwriting and claims processing operations of the reinsurance manager.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>The reinsurance manager will disclose to the reinsurer any relationship it has with any insurer prior to ceding or assuming any business with the insurer pursuant to this contract.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1806_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>Within the scope of its actual or apparent authority, the acts of the reinsurance manager shall be deemed to be the acts of the reinsurer on whose behalf it is acting.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1362"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1362/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1362">
+        <akn:num>47-1362</akn:num>
+        <akn:heading>Fixing amount necessary for redemption after action to foreclose filed.</akn:heading>
+<akn:subsection eId="subsec_47-1362_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If there is a dispute regarding redemption after an action to foreclose the right of redemption is filed, the person redeeming may apply to the Superior Court for an order fixing the amount necessary for redemption in accordance with the provisions of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1362_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (c) of this section, the Mayor may accept a payment for redemption without an order of court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1362_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

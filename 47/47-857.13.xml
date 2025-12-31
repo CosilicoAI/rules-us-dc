@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-857.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-857.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_857_13">
+        <akn:num>47-857.13</akn:num>
+        <akn:heading>Tax abatements for nonprofit organizations locating in emerging commercial neighborhoods — Application and certification of eligibility.</akn:heading>
+<akn:subsection eId="subsec_47-857_13_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>To be eligible to receive a tax abatement under § 47-857.12, a qualified nonprofit organization shall submit to the Mayor an application and the Mayor shall determine whether the organization is eligible to receive the real property tax abatement. The Mayor shall approve the applications by the eligible qualified nonprofit organizations in the order in which they are received subject to the provisions of this section and the caps established by § 47-857.15.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-857_13_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The application shall include such information and documents as may be prescribed by the Mayor, including a letter of intent or similar document.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-857_13_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After receiving an application, the Mayor may:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-857_13_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Mayor may establish such other application requirements as the Mayor considers necessary or useful.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-857_13_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A qualified nonprofit organization shall not receive a real property tax abatement under § 47-857.11 through 47-857.16 if it has not received a certification of eligibility from the Mayor under this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

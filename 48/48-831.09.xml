@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/48-831.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/48-831.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_48_831_09">
+        <akn:num>48-831.09</akn:num>
+        <akn:heading>Action with regard to nonparticipating manufacturers and labelers.</akn:heading>
+<akn:subsection eId="subsec_48-831_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The names of manufacturers and labelers who do and do not enter into rebate agreements pursuant to this subchapter are public information. The Department shall release this information to health care providers and the public on a regular basis. The Department also shall publicize participation by manufacturers and labelers that is of particular benefit to the public.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_48-831_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Department shall impose prior authorization requirements, as permitted by law, in all publicly funded pharmaceutical assistance programs to the extent the Department determines it is appropriate to do so in order to encourage manufacturer and labeler participation in AccessRx, as long as the additional prior authorization requirements remain consistent with the goals of the D.C. Medicaid program and Title 19 of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2042"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2042/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2042">
+        <akn:num>21-2042</akn:num>
+        <akn:heading>Notice; guardianship proceeding.</akn:heading>
+<akn:subsection eId="subsec_21-2042_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In a proceeding for the appointment of a guardian of an incapacitated individual, notice of a hearing shall be given to each of the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2042_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notice of a hearing on a petition for an order subsequent to appointment of a guardian shall be given to the ward, the guardian, and any other person ordered by the court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2042_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notice shall be served personally on the alleged incapacitated individual. Notice to other individuals as required by subsection (a) of this section shall be served personally if the individual to be notified can be found within the District. In all other cases, required notices shall be given as provided in section 21-2031.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2042_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The individual alleged to be incapacitated may not waive notice.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

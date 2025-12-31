@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.29"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.29/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_623_29">
+        <akn:num>1-623.29</akn:num>
+        <akn:heading>Recovery of overpayments.</akn:heading>
+<akn:subsection eId="subsec_1-623_29_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When an overpayment has been made to an individual under this subchapter because of an error of fact or law, under rules and regulations prescribed by the Mayor, either recovery of the overpayments shall be required of the individual or adjustment shall be made by decreasing later payments to which the individual is entitled.  If the individual dies before the adjustment is completed, an adjustment shall be made by decreasing later benefits payable under this subchapter with respect to the individual’s death.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_29_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>Before seeking to recover an overpayment or adjust benefits, the District government shall advise the individual in writing:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_29_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_29_b_1">
+      <akn:num>(b-1)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_29_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A certifying or disbursing official is not liable for an amount certified or paid by him when:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

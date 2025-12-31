@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1818.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1818.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1818_06">
+        <akn:num>47-1818.06</akn:num>
+        <akn:heading>Tax credits to Qualified Social E-Commerce Companies; exceptions.</akn:heading>
+<akn:subsection eId="subsec_47-1818_06_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The real property tax abatement for certain commercial properties provided in § 47-811.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1818_06_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Earning and allowance of wage tax credits against the tax imposed by § 47-1817.06, as provided in § 47-1817.03, during calendar years 2010 through 2015, unless the amount of such credits earned exceeds $15 million, in which case the credit amount in excess of $15 million may be allowed as a credit against the tax imposed by § 47-1817.06, as provided in § 47-1817.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1818_06_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The waiver of corporate income tax on a Qualified High Technology Company for 5 years from the date of commencing business as provided in § 47-1817.06(a)(2)(C).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

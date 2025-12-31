@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-903"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-903/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_903">
+        <akn:num>32-903</akn:num>
+        <akn:heading>Invasion of privacy; contracts and arbitration decisions; criminal penalties and civil liability.</akn:heading>
+<akn:subsection eId="subsec_32-903_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any administration of a lie detector test to any employee or person seeking employment, in violation of § 32-902, shall be an unwarranted invasion of privacy in the District of Columbia, and shall be compensable by damages for tortious injury.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-903_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No contract or arbitration decision shall contain any provision in violation of § 32-902.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-903_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any employer who violates the provisions of § 32-902 shall be guilty of a misdemeanor and subject to a fine of $500, or 30 days in jail, or both, upon conviction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-903_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any employer who violates the provisions of this chapter shall be civilly liable to the person whom he or she required to take a polygraph or similar examination, and the amount of damages shall be established by the court, plus reasonable attorney’s fees. Remedies available under subsection (c) of this section and this subsection shall be deemed alternative or joint relief, and not subject to waiver by the exercise of the other.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

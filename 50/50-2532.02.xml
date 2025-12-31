@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2532.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2532.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2532_02">
+        <akn:num>50-2532.02</akn:num>
+        <akn:heading>Penn Quarter/Chinatown Performance Parking Pilot Zone.</akn:heading>
+<akn:subsection eId="subsec_50-2532_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Penn Quarter/Chinatown Performance Parking Pilot Zone is designated as the area bounded by H Street, N.W., on the north, 11th Street, N.W., on the west, 3rd Street, N.W., on the east, and E Street, N.W., on the south, including both sides of these boundary streets.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2532_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In addition to maintaining a sufficient number of parking control officers and traffic control officers in the existing performance parking pilot zones, the Mayor shall assign parking control and traffic control officers for implementation of the pilot program in the Penn Quarter/Chinatown Performance Parking Pilot Zone and for enhanced enforcement during peak-parking-demand hours.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2532_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall set the initial performance parking pilot zone fee equal to the existing parking meter fee in that zone.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2532_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Pursuant to § 50-2531(d)(1), the Mayor shall adjust curbside parking fees to achieve 10% to 20% availability of curbside parking spaces.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2532_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Within the first 30 days of the implementation of the Penn Quarter/Chinatown Performance Parking Pilot Zone, the Mayor may issue warning citations for curbside parking violations related to the pilot program in the zone.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-109.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-109.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_109_03">
+        <akn:num>8-109.03</akn:num>
+        <akn:heading>Environmental Impact Statement requirements.</akn:heading>
+<akn:subsection eId="subsec_8-109_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever the Mayor or a board, commission, authority, or person proposes or approves a major action that is likely to have substantial negative impact on the environment, if implemented, the Mayor, board, commission, authority, or person shall prepare or cause to be prepared, and transmit, in accordance with subsection (b) of this section, a detailed EIS at least 60 days prior to implementation of the proposed major action, unless the Mayor determines that the proposed major action has been or is subject to the functional equivalent of an EIS. The EIS shall be written in a concise manner. The EIS shall describe and, where appropriate, analyze:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-109_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor, board, commission, or authority shall transmit a copy of any EIS prepared pursuant to subsection (a) of this section to the Council, any District agency that has responsibility for implementing the major action or special expertise with respect to any environmental impact involved, and any affected Advisory Neighborhood Commission. A copy of the EIS shall be made available for review by the public in the main office of the agency primarily responsible for implementing or permitting the proposed major action. The Mayor, board, commission, or authority shall provide a reasonable period consistent with subchapter I of Chapter 5 of Title 2, for comment on any EIS required to be prepared pursuant to subsection (a) of this section. If 25 registered voters in an affected single member district request a public hearing on an EIS or supplemental EIS or there is significant public interest, the Mayor, board, commission, or authority shall conduct a public hearing pursuant to the rules issued in accordance with § 8-109.09(a).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-109_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

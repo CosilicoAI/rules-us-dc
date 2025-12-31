@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-751.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-751.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_751_14">
+        <akn:num>7-751.14</akn:num>
+        <akn:heading>Change of practice site.</akn:heading>
+<akn:subsection eId="subsec_7-751_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any change of service obligation site by a Program participant must receive prior authorization from the Director.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-751_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the employment of a participant is terminated for reasons beyond the participant’s control, such as, for example, the closure of a service obligation site, the participant shall transfer to another approved service obligation site within 6 months of termination. The failure to transfer within 6 months shall be considered a breach of the Program contract.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

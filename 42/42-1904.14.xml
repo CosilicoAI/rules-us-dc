@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1904.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1904.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1904_14">
+        <akn:num>42-1904.14</akn:num>
+        <akn:heading>Cease and desist and affirmative action orders; temporary cease and desist orders; prior notice thereof.</akn:heading>
+<akn:subsection eId="subsec_42-1904_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the Mayor determines after notice and hearing that a person has: (1) violated any provision of this chapter; (2) directly or through an agent or employee knowingly engaged in any false, deceptive or misleading advertising, promotional, or sales method to offer or dispose of a unit; (3) made any substantial change in the plan of disposition and development of the condominium subsequent to the order of registration without notifying the agency; (4) disposed of any units which have not been registered with the agency; or (5) violated any lawful order or rule of the agency, the Mayor may issue an order requiring the person to cease and desist from the unlawful practice and to take such affirmative action as in his judgment will carry out the purposes of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1904_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Mayor makes a finding of fact in writing that the public interest will be irreparably harmed by delay in issuing an order the Mayor may issue a temporary cease and desist order. Prior to issuing the temporary cease and desist order, the Mayor shall give notice of the proposal to issue a temporary cease and desist order to the person affected. Every temporary cease and desist order shall include in its terms a provision that upon request a hearing will be held promptly to determine whether or not such order becomes permanent.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

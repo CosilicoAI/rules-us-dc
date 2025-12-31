@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1910"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1910/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1910">
+        <akn:num>11-1910</akn:num>
+        <akn:heading>Challenging compliance with selection procedures.</akn:heading>
+<akn:subsection eId="subsec_11-1910_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A party may challenge the composition of a jury by a motion for appropriate relief. A challenge shall be brought and decided before any individual juror is examined, unless the Court orders otherwise. The motion shall be in writing, supported by affidavit, and shall specify the facts constituting the grounds for the challenge. If the Court so determines, the motion may be decided on the basis of the affidavits filed with the challenge. If the Court orders trial of the challenge, witnesses may be examined on oath by the Court and may be so examined by either party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1910_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Court determines that in selecting a grand or petit jury there has been a substantial failure to comply with this chapter, the Court shall stay the proceedings pending the selection of a jury in conformity with this chapter, quash the indictment, or grant other appropriate relief.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1910_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The procedures prescribed by this section are the exclusive means by which a person accused of a crime, the District of Columbia, the United States, or a party in a civil case may challenge a jury on the ground that the jury was not selected in conformity with this chapter. Nothing in this section shall preclude any person from pursuing any other remedy, civil or criminal, which may be available for the vindication or enforcement of any law prohibiting discrimination on account of race, color, religion, sex, national origin, economic status, marital status, age, or physical handicap in the selection of individuals for service on grand or petit juries.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

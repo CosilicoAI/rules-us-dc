@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-302"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-302/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_302">
+        <akn:num>4-302</akn:num>
+        <akn:heading>Powers of Mayor regarding custody, placement and adoption of dependent children.</akn:heading>
+<akn:subsection eId="subsec_4-302_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Accept for care, custody, and guardianship dependent or neglected children whose custody or parental control has been transferred to the Mayor, and to provide for the care and support of such children during their minority or during the term of their commitment, including the initiation of adoption proceedings and the provision of subsidy in appropriate cases under § 4-301;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-302_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>With respect to all children accepted by him for care, place them in private families either without expense or with reimbursement for the cost of care, or in appropriate cases to place them in private families under an adoption subsidy agreement concluded under § 4-301 or to place them in institutions willing to receive them either without expense or with reimbursement for the cost of care; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-302_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Consent to, arrange for, or initiate court proceedings for the adoption of all children committed to the care of the Mayor whose parents have been permanently deprived of custody by court order, or whose parents have relinquished a child to the Mayor or to a licensed child-placing agency which has transferred the relinquishment to the Mayor under § 4-1406.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-342"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-342/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_342">
+        <akn:num>4-342</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_4-342_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Attorneys’ fees” means the legal costs and expenses which are directly  related to the adoption of a foster child or foster children.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-342_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Foster care” means 24 hour substitute care for children placed away from  their parents or guardians for whom the Child and Family Services Agency has  placement care and responsibility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-342_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Foster child” and “foster children” mean a child, or children, who comes  under the jurisdiction of the Superior Court of the District of Columbia  pursuant to § 16-2320 or whose parents’ rights have been relinquished pursuant  to § 4-1406.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-342_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Foster parent” means an individual with whom a foster child is legally  placed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-342_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Homestudy” means the “investigation, report and recommendation” required  by § 16-307.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-342_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Related sibling group” means a group of siblings with at least one  parent in common, residing together in the home of a foster parent.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

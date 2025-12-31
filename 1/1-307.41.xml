@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.41"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.41/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_307_41">
+        <akn:num>1-307.41</akn:num>
+        <akn:heading>Insurer obligations.</akn:heading>
+<akn:subsection eId="subsec_1-307_41_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No insurer may deny coverage or withhold payments under its plan for any enrollee, subscriber, policyholder, or certificateholder on the basis that such enrollee, subscriber, policyholder, or certificateholder is eligible for Medicaid pursuant to a Medicaid state plan adopted by the District of Columbia or any other jurisdiction pursuant to § 1902 of the Social Security Act (79 Stat. 344; 42 U.S.C. § 1396a).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_41_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No insurer may deny enrollment of a child under the health plan of the child’s parent on the grounds that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_41_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Where a child has health coverage through an insurer of a noncustodial parent, the insurer shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_41_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Where a parent is required by a court or administrative order to provide health coverage for a child, and the parent is eligible for family health coverage, the insurer shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_41_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>As a condition of doing business in the District:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_41_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “insurer” includes a self-insured plan, a group health plan, as defined in section 607(1) of the Employee Retirement Income Security Act of 1974, approved April 7, 1986 (100 Stat. 231; 29 U.S.C. § 1167(1)), a service benefit plan, a managed care organization, a pharmacy benefit manager, or other party that is, by statute, contract, or agreement, legally responsible for payment of a claim for all or part of a health-care item or service.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

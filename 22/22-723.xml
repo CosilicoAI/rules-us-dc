@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-723"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-723/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_723">
+        <akn:num>22-723</akn:num>
+        <akn:heading>Tampering with physical evidence; penalty.</akn:heading>
+<akn:subsection eId="subsec_22-723_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person commits the offense of tampering with physical evidence if, knowing or having reason to believe an official proceeding has begun or knowing that an official proceeding is likely to be instituted, that person alters, destroys, mutilates, conceals, or removes a record, document, or other object, with intent to impair its integrity or its availability for use in the official proceeding.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-723_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person convicted of tampering with physical evidence shall be fined not more than the amount set forth in § 22-3571.01, imprisoned for not more than 3 years, or both.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

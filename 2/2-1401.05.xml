@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1401.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1401.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1401_05">
+        <akn:num>2-1401.05</akn:num>
+        <akn:heading>Discrimination based on pregnancy, childbirth, related medical conditions, or breastfeeding.</akn:heading>
+<akn:subsection eId="subsec_2-1401_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purposes of interpreting this chapter, discrimination on the basis of sex shall include, but not be limited to, discrimination on the basis of pregnancy, childbirth, related medical conditions, breastfeeding, or reproductive health decisions. This section shall not be construed to require an employer to provide insurance coverage related to a reproductive health decision.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1401_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Women affected by pregnancy, childbirth, related medical conditions, or breastfeeding, and employees affected by reproductive health decisions shall be treated the same for all employment-related purposes, including receipt of benefits under fringe benefit programs, as other persons not so affected but similar in their ability or inability to work, and this requirement shall include, but not be limited to, a requirement that an employer must treat an employee temporarily unable to perform the functions of her job because of her pregnancy-related condition in the same manner as it treats other employees with temporary disabilities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1401_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>For the purposes of this section, the term “reproductive health decisions” includes a decision by an employee, an employee’s dependent, or an employee’s spouse related to the use or intended use of a particular drug, device, or medical service, including the use or intended use of contraception or fertility control or the planned or intended initiation or termination of a pregnancy.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

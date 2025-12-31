@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-102.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-102.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_102_11">
+        <akn:num>29-102.11</akn:num>
+        <akn:heading>Biennial report for Mayor.</akn:heading>
+<akn:subsection eId="subsec_29-102_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each domestic filing entity and limited liability partnership and registered foreign entity shall deliver to the Mayor for filing a biennial report that sets forth:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Information in the biennial report shall be current as of the date the report is signed on behalf of the entity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_11_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The 1st biennial report shall be delivered to the Mayor for filing by April 1 of the year following the calendar year in which the public organic record of the domestic filing entity became effective, the statement of qualification of a domestic limited liability partnership became effective, or the foreign filing entity registered to do business in the District. Subsequent biennial reports shall be delivered to the Mayor by April 1st of each 2nd calendar year thereafter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_11_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a biennial report does not contain the information required by this subchapter, the Mayor promptly shall notify the reporting domestic or registered foreign entity in a record and return the report for correction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-102_11_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a filed biennial report contains the name or address of a registered agent which differs from the information shown in the records of the Mayor immediately before the filing, the differing information in the biennial report shall be considered a statement of change under § 29-104.07, 29-104.08, or 29-104.09.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

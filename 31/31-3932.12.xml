@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3932.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3932.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3932_12">
+        <akn:num>31-3932.12</akn:num>
+        <akn:heading>Liquidation and rehabilitation.</akn:heading>
+<akn:subsection eId="subsec_31-3932_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3932_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding another provision in this subchapter, rules promulgated under this subchapter, or another applicable law or rule, upon any order of conservation, rehabilitation, or liquidation of an SPFC, the receiver shall manage the assets and liabilities of the SPFC pursuant to this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3932_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3932_12_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Notwithstanding Chapter 13 of this title, or other laws of the District:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3932_12_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>With the exception of the fulfillment of the obligations under an SPFC contract, and notwithstanding another provision of this subchapter or other laws of the District, the assets of an SPFC, including assets held in trust, shall not be consolidated with or included in the estate of a counterparty in any delinquency proceeding against the counterparty pursuant to the provisions of this subchapter for any purpose, including, distribution to creditors of the counterparty.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

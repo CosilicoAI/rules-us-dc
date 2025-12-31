@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4810"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4810/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4810">
+        <akn:num>16-4810</akn:num>
+        <akn:heading>Revocation, repudiation, or rescission of standby guardianship.</akn:heading>
+<akn:subsection eId="subsec_16-4810_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The authority of a standby guardian approved by the Court pursuant to § 16-4805 may be revoked by the designator filing a notice of revocation with the Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4810_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An executed designation not yet effective because a triggering event has not occurred or a petition has not been filed may be revoked by the designator or repudiated by the prospective standby guardian by notifying the other party in writing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4810_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A designation may also be revoked by the execution of a subsequent inconsistent designation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4810_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If at any time the Court finds that the designator no longer meets the definition of designator as that term is defined in § 16-4802(8), the Court shall rescind its approval of the standby guardian.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4810_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The standby guardian shall file with the Court, as soon as practicable but no later than 90 days following a designator’s death, a copy of the certificate of death. The standby guardian’s failure to file within the 90-day period shall be grounds for the Court to rescind the authority of the standby guardian sua sponte. All acts undertaken by the standby guardian on behalf of and in the interest of the child before the Court’s rescission shall be valid and enforceable.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

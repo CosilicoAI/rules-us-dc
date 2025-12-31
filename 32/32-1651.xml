@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1651"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1651/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1651">
+        <akn:num>32-1651</akn:num>
+        <akn:heading>Establishment of the Educational Stepladder program.</akn:heading>
+<akn:subsection eId="subsec_32-1651_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established an Educational Stepladder program. The Educational Stepladder program shall provide funding for undertrained and unemployed District residents to enroll in certain certificate courses that are, in consultation with the Department of Employment Services (“DOES”):</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1651_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An institution of higher education described in subsection(a)(1) of this section that seeks to become a participant in the Educational Stepladder program is encouraged to enter into discussions with business and industry leaders to ascertain what workforce skills and knowledge are in demand so that the institution can design its course offerings to meet actual workforce needs in the District. The Council shall approve only courses that are:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-124"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-124/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_124">
+        <akn:num>25-124</akn:num>
+        <akn:heading>Wine pub permit requirements and qualifications.</akn:heading>
+<akn:subsection eId="subsec_25-124_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A wine pub permit shall authorize the licensee to manufacture wine at one location from grapes or fruit transported from an area that produces wine to the licensed restaurant, tavern, multipurpose facility, hotel, or nightclub for on-premises consumption and for sale to licensed wholesalers for the purpose of resale to other licensees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-124_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A wine pub permit shall be issued only to the licensee under an on-premises restaurant, tavern, multipurpose facility, hotel, or nightclub license, class C or D, in conjunction with the issuance of an on-premises restaurant, tavern, multipurpose facility, hotel, or nightclub license, class C or D.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-124_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The location used to manufacture wine shall be on or immediately adjacent to the restaurant, tavern, multipurpose facility, hotel, or nightclub licensed to the wine pub owner in accordance with subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-124_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The holder of a wine pub permit may also sell wine to patrons in sealed bottles or other closed containers for off-premises consumption.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-124_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The minimum annual fee of the wine pub permit shall be $5,000.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-124_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A wine pub permit shall be cancelled or revoked if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-124_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A wine pub permit shall be automatically suspended whenever and for the same period that the licensee’s retailer’s license, class C or D, is suspended.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

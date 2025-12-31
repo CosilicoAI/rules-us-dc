@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5308"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5308/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5308">
+        <akn:num>31-5308</akn:num>
+        <akn:heading>Laws; amendments.</akn:heading>
+<akn:subsection eId="subsec_31-5308_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A domestic society may amend its laws in accordance with the provisions of its laws by action of its supreme governing body at any regular or special meeting or, if its laws so provide, by referendum.  The referendum may be held in accordance with the provisions of its laws by the vote of the voting members of the society, by the vote of delegates or representatives of voting members, or by the vote of local lodges. A society may provide for voting by mail. No amendment submitted for adoption by referendum shall be adopted unless, within 6 months from the date of submission, a majority of the members voting shall have signified their consent to such amendment by one of the methods herein specified. Any such amendment shall be filed with the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5308_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 90 days from the filing of any such amendment, a copy or synopsis thereof shall be furnished to all members of the society either by mail or by publication in full in the official publication of the society. The affidavit of any officer of the society or of anyone authorized by it to mail any amendments or synopsis thereof, stating facts which show that same have been duly addressed and mailed, shall be prima facie evidence that the amendments or synopsis, have been furnished to the addressee.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5308_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Every foreign or alien society authorized to do business in the District shall file with the Commissioner a duly certified copy of all amendments of, or additions to, its laws within 90 days after enactment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5308_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Printed copies of the laws as amended, certified by the secretary or corresponding officer of the society shall be prima facie evidence of the legal adoption thereof.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

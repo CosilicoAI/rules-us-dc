@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1641.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1641.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1641_02">
+        <akn:num>50-1641.02</akn:num>
+        <akn:heading>Bicycle parking space requirements.</akn:heading>
+<akn:subsection eId="subsec_50-1641_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A bicycle parking space shall conform to the bike parking rack standard established by the District Department of Transportation, or be of such design that will enable the frame to be supported in 2 places, and allow for both wheels of a bicycle to be secured with ease by use of a U-lock, cable lock, or other security device. Exceptions to these standards may be approved by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1641_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Bicycle parking spaces installed prior to February 2, 2008, that do not meet the requirements of this subchapter shall be permitted until one year after February 2, 2008.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

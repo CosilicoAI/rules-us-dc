@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1201.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1201.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1201_03">
+        <akn:num>2-1201.03</akn:num>
+        <akn:heading>Function.</akn:heading>
+<akn:subsection eId="subsec_2-1201_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Office shall give priority to activities, including economic research and analysis, to stimulate employment, promote tourism and business retention, and to attract new commercial and industrial enterprises. Long range priorities shall include development and implementation with the Office of the Assistant City Administrator for Planning and Development of an economic development plan for the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1201_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Pursuant to these priorities, the Office shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1201_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Basic research and statistical programs would be undertaken in the following areas:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

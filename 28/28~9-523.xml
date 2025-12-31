@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-523"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-523/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_523">
+        <akn:num>28:9-523</akn:num>
+        <akn:heading>Information from filing office; sale or license of records.</akn:heading>
+<akn:subsection eId="subsec_28:9-523_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a person that files a written record requests an acknowledgment of the filing, the filing office shall send to the person an image of the record showing the number assigned to the record pursuant to § 28:9-519(a)(1) and the date and time of the filing of the record. However, if the person furnishes a copy of the record to the filing office, the filing office may instead:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-523_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a person files a record other than a written record, the filing office shall communicate to the person an acknowledgment that provides:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-523_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The filing office shall communicate or otherwise make available in a record the following information to any person that requests it:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-523_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In complying with its duty under subsection (c), the filing office may communicate information in any medium. However, if requested, the filing office shall communicate information by issuing a record that can be admitted into evidence in the courts of the District without extrinsic evidence of its authenticity.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-523_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The filing office shall perform the acts required by subsections (a) through (d) at the time and in the manner prescribed by filing-office rule, but not later than 2 business days after the filing office receives the request.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-523_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>At least weekly, the Mayor shall offer to sell or license to the public on a nonexclusive basis, in bulk, copies of all records filed in it under this part, in every medium from time to time available to the filing office.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

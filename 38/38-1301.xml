@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1301"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1301/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1301">
+        <akn:num>38-1301</akn:num>
+        <akn:heading>Purpose.</akn:heading>
+<akn:subsection eId="subsec_38-1301_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Establishing minimum standards concerning the quality of postsecondary education, ethical and business practices, health and safety, and fiscal responsibility, to protect against substandard, transient, unethical, deceptive, or fraudulent postsecondary educational institutions and practices;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1301_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Prohibiting the granting of false or misleading postsecondary educational credentials;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1301_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Prohibiting misleading literature, advertising, solicitation, or representation by postsecondary educational institutions or their agents;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1301_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Providing for the preservation of essential academic records;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1301_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Providing for a commission to advise the Mayor and Council of the District of Columbia as to the postsecondary educational needs of the District of Columbia; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1301_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Providing for a commission to serve as the state approving agency for veterans benefits.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

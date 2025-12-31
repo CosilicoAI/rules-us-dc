@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1424"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-1424/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_1424">
+        <akn:num>8-1424</akn:num>
+        <akn:heading>Permits.</akn:heading>
+<akn:subsection eId="subsec_8-1424_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The District Department of Transportation may issue permits authorizing the transportation of materials listed in § 8-1423 upon a demonstration that there is no practical alternative route. A permit may require adoption of safety measures, including time-of-day restrictions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1424_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The District Department of Transportation may collect fees for the permits in accordance with the rules issued under § 8-1426.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-1424_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Permit fees collected pursuant to this section shall not exceed the cost of implementing and enforcing this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

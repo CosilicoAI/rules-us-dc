@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-312.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-312.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_312_02">
+        <akn:num>29-312.02</akn:num>
+        <akn:heading>Dissolution by board of directors and shareholders.</akn:heading>
+<akn:subsection eId="subsec_29-312_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A corporation’s board of directors may propose dissolution for submission to the shareholders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-312_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For a proposal to dissolve to be adopted:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-312_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The board of directors may condition its submission of the proposal for dissolution on any basis.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-312_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The corporation shall notify each shareholder, whether or not entitled to vote, of the proposed shareholders’ meeting. The notice shall also state that the purpose, or one of the purposes, of the meeting is to consider dissolving the corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-312_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Unless the articles of incorporation or the board of directors acting pursuant to subsection (c) of this section require a greater vote, a greater number of shares to be present, or a vote by voting groups, adoption of the proposal to dissolve requires the approval of the shareholders at a meeting at which a quorum consisting of at least a majority of the votes entitled to be cast exists.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

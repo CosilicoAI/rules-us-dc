@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2401.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2401.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2401_16">
+        <akn:num>34-2401.16</akn:num>
+        <akn:heading>Delivery of water — Nearby Maryland; contract.</akn:heading>
+<akn:subsection eId="subsec_34-2401_16_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>That before such connections shall be made the said Washington Suburban Sanitary Commission or its legally appointed successor shall secure authority from the legislature of the State of Maryland to enter into an agreement with the said Mayor of the District of Columbia outlining the conditions under which the service is to be rendered.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2401_16_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The agreement between the Mayor of the District of Columbia and the said Washington Suburban Sanitary Commission or its legally appointed successor shall provide, among other things:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

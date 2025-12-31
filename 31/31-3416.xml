@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3416"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3416/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3416">
+        <akn:num>31-3416</akn:num>
+        <akn:heading>Regulation of health maintenance organization producers.</akn:heading>
+<akn:subsection eId="subsec_31-3416_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commissioner shall issue rules and regulations to provide for the licensing of health maintenance organization producers. The rules shall establish:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3416_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The provisions of subsection (a) of this section shall not apply to the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3416_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commissioner may, by rule, exempt certain classes of persons from the requirements of subsection (a) of this section if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

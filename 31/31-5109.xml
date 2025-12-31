@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5109"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5109/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5109">
+        <akn:num>31-5109</akn:num>
+        <akn:heading>Claims.</akn:heading>
+<akn:subsection eId="subsec_31-5109_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All claims shall be paid either by draft drawn upon the insurance company or by check of the insurance company to the order of the claimant to whom payment of the claim is due pursuant to the policy provisions, or upon direction of such claimant to one specified, and every insurance company shall be held to strict settlement of all such claims.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5109_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It shall be unlawful for any creditor, having received any such check or draft from such insurance company, to fail to correctly credit the account, pay to or upon the direction of, or otherwise correctly account to the claimant to whom payment is due for the full amount of such check or draft, less any lawful deductions therefrom.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5109_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No plan or arrangement shall be used whereby any person, firm, or corporation other than the insurance company or its designated claim representative shall be authorized to settle or adjust claims. The creditor shall not be designated as claim representative for the insurance company in adjusting claims, nor, in the case of an individual creditor, shall the spouse of such creditor or any relative of the creditor or spouse within the 3rd degree of consanguinity be so designated, nor shall any officer or employee of a corporate creditor or any spouse or relative of such officer, employee, or spouse within the 3rd degree of consanguinity be so designated; provided, that a group policyholder may, by arrangement with the group insurance company, draw drafts or checks in payment of claims due to the group policyholder subject to audit and review by the insurance company.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

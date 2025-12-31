@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.151"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-301.151/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_301_151">
+        <akn:num>1-301.151</akn:num>
+        <akn:heading>Analysis of health care costs at Department of Corrections; plan to create Public Safety Overtime Bank.</akn:heading>
+<akn:subsection eId="subsec_1-301_151_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Analyze health care costs at the Department of Corrections and recommend alternatives based on the analysis; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-301_151_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Develop a plan to create a Public Safety Overtime Bank that would fund and oversee overtime expenditures by the Metropolitan Police Department, Fire and Emergency Medical Services Department, and the Department of Corrections.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

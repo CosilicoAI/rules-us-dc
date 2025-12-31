@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2057"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2057/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2057">
+        <akn:num>21-2057</akn:num>
+        <akn:heading>Who may be appointed conservator; priorities.</akn:heading>
+<akn:subsection eId="subsec_21-2057_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The court may appoint a person or a corporation with general power to serve as trustee or conservator of the estate of a protected individual. The following are entitled to consideration for appointment in the order listed:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2057_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An individual listed in paragraph (1), (3), (4), (5), or (6) of subsection (a) of this section may designate in writing a substitute to serve instead and transfer the priority to the substitute. With respect to persons having equal priority, the court shall select the person it deems best qualified to serve. The court, acting in the best interest of the protected individual, may pass over a person having priority and appoint a person having a lower priority or no priority.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

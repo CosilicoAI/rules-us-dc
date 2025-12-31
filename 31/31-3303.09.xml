@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3303.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3303.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3303_09">
+        <akn:num>31-3303.09</akn:num>
+        <akn:heading>Eligibility to enroll.</akn:heading>
+<akn:subsection eId="subsec_31-3303_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A group health plan, and a health insurer offering group health insurance coverage, may not establish rules for eligibility (including continued eligibility) of any individual to enroll under the terms of the plan based on any of the health status-related factors.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3303_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The provisions of this section shall not be construed to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3303_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A health insurer offering group health insurance coverage may not require an individual (as a condition of enrollment or continued enrollment under the plan) to pay a premium or contribution which is greater than such premium or contribution for a similarly situated individual enrolled in the plan on the basis of any health status related factor in relation to the individual or to an individual enrolled under the plan as a dependent of the individual.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3303_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in subsection (c) of this section shall be construed to restrict the amount that an employee may be charged for coverage under group health insurance coverage, or prevent a health insurer offering group health insurance coverage from establishing premium discounts or rebates or modifying otherwise applicable copayments or deductibles in return for adherence to programs of health promotion and disease prevention.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

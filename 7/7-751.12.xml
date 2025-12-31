@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-751.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-751.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_751_12">
+        <akn:num>7-751.12</akn:num>
+        <akn:heading>Monitoring during service.</akn:heading>
+<akn:subsection eId="subsec_7-751_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Participants are required to submit service verification forms to the Department of Health at the conclusion of each 6-month period of participation in the Program. Service verification forms shall contain the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-751_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Department of Health reserves the right to conduct regular participant surveys to ensure compliance with the terms and conditions of the Program.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-307"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-307/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_307">
+        <akn:num>28:3-307</akn:num>
+        <akn:heading>Notice of breach of fiduciary duty.</akn:heading>
+<akn:subsection eId="subsec_28:3-307_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In this section:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-307_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If (i) an instrument is taken from a fiduciary for payment or collection or for value, (ii) the taker has knowledge of the fiduciary status of the fiduciary, and (iii) the represented person makes a claim to the instrument or its proceeds on the basis that the transaction of the fiduciary is a breach of fiduciary duty, the following rules apply:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

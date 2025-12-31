@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2301.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2301.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2301_09">
+        <akn:num>50-2301.09</akn:num>
+        <akn:heading>Department review of records.</akn:heading>
+<akn:subsection eId="subsec_50-2301_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When requesting information to send notice of an outstanding notice of infraction as required under §§ 50-2302.05(f) and 50-2303.05(d)(2), the Department shall retrieve from its records the registered owner or lessee’s full name, address, vehicle make and model, and status as to whether the motor vehicle tag is active or inactive. For notices sent regarding motor vehicles registered in an out-of-state jurisdiction, the Department shall request the information from the relevant state motor vehicle agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2301_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Before sending a notice required under §§ 50-2302.05(f) and 50-2303.05(d)(2), the Department shall review the information described in subsection (a) of this section to determine whether the notice of infraction was properly issued. The Department shall dismiss an infraction if the information materially conflicts with identifying information about a vehicle or tag provided in the notice of infraction.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

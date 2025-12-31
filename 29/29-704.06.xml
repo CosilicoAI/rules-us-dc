@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-704.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-704.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_704_06">
+        <akn:num>29-704.06</akn:num>
+        <akn:heading>Management rights of general partner.</akn:heading>
+<akn:subsection eId="subsec_29-704_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each general partner shall have equal rights in the management and conduct of the limited partnership’s activities and affairs. Except as expressly provided in this chapter, any matter relating to the activities and affairs of the limited partnership may be exclusively decided by the general partner or, if there is more than one general partner, by a majority of the general partners.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-704_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The consent of each partner shall be necessary to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-704_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A limited partnership shall reimburse a general partner for payments made and indemnify a general partner for liabilities incurred by the general partner in the ordinary course of the activities of the partnership or for the preservation of its activities or property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-704_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A limited partnership shall reimburse a general partner for an advance to the limited partnership beyond the amount of capital the general partner agreed to contribute.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-704_06_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>A payment or advance made by a general partner which gives rise to an obligation of the limited partnership under subsection (c) or (d) of this section shall constitute a loan to the limited partnership which accrues interest from the date of the payment or advance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-704_06_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A general partner shall not be entitled to remuneration for services performed for the partnership.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

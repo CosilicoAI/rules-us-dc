@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-910"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-910/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_910">
+        <akn:num>31-910</akn:num>
+        <akn:heading>Rights of members whose policies are issued after adoption of the plan and before its effective date.</akn:heading>
+<akn:subsection eId="subsec_31-910_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All members whose policies are issued after the proposed plan has been adopted by the board of directors and before the effective date of the plan shall be given written notice of the plan of conversion. The notice shall specify the member’s right to terminate that policy as provided in subsection (b) of this section within 30 days after the effective date of the plan. A copy of the plan or a summary of the plan shall accompany the notice. The form of the notice shall be filed with and approved by the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-910_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any member entitled to receive the notice described in subsection (a) of this section shall be entitled to terminate his or her policy and receive a pro rata refund of any amounts paid for the policy or contract within 15 days after receipt of the notice.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

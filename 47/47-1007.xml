@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1007"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1007/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1007">
+        <akn:num>47-1007</akn:num>
+        <akn:heading>Real property tax exemption.</akn:heading>
+<akn:subsection eId="subsec_47-1007_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every institution, organization, corporation, or association owning property exempt under the provisions of paragraphs (4) to (20) of § 47-1002 shall, before April 2 of each year, furnish the Mayor a report, under oath, showing the purposes for which its exempt property has been used during the preceding calendar year; provided however, that the requirement for a report shall be satisfied by submitting an application for exemption from tax, and an income and expense statement pursuant to § 47-1002(20). Upon written application by the institution, organization, corporation, or association filed before April 2 of any year, the Mayor may extend the time for filing said report for a reasonable period. A copy of such report shall be forwarded to the Congress by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1007_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If such report is not filed within the time provided herein, or as extended by the Mayor, the property of the institution, organization, corporation, or association affected shall immediately be assessed and taxed until the required report is filed; provided, that the Mayor may abate the tax for reasonable cause.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1007_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the report is not filed within the time provided in subsection (a) of this section, or as extended by the Mayor, a penalty in the amount of $250 shall be assessed. The penalty shall constitute a delinquent tax on the real property when not paid within 30 days after the date of levy. The Mayor may abate the penalty for reasonable cause.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

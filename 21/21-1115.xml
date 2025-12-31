@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-1115"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-1115/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_1115">
+        <akn:num>21-1115</akn:num>
+        <akn:heading>Inquiry under this chapter if person convicted of offense.</akn:heading>
+<akn:subsection eId="subsec_21-1115_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>On the conviction by a court of record of competent jurisdiction of a person of an offense, or of a violation of an ordinance which is in whole or in part a violation of a statute of the District of Columbia, the court when satisfied on the testimony of a physician or a psychologist or other psychologist or other evidence that the person has at least a moderate intellectual disability as defined in the Citizens with Intellectual Disabilities Constitutional Rights and Dignity Act (D.C. Official Code § 7-1301.01 et seq.), may suspend sentence, or suspend the entering of an order sending the person to a jail, prison, or reformatory, or to a training or industrial school, and direct that a parent or guardian appointed by the court file a petition under that act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-1115_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When the court directs a petition to be filed pursuant to subsection (a) of this section, it may order that, pending the preparation, filing and hearing of the petition, the person be detained in a place of safety, or be placed under the guardianship of a suitable person, if that person enters into a recognizance for his appearance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-1115_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Where, upon the hearing of a petition filed pursuant to this section or pursuant to a subsequent hearing under this chapter, the person is found not to have at least a moderate intellectual disability, the court shall impose sentence.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

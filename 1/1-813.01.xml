@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-813.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-813.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_813_01">
+        <akn:num>1-813.01</akn:num>
+        <akn:heading>Annual valuations and reports by enrolled actuary.</akn:heading>
+<akn:subsection eId="subsec_1-813_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Determination of actuarial valuations. — The Trustee shall engage an enrolled actuary (as defined in § 7701(a)(35) of the Internal Revenue Code of 1986 [26 U.S.C. § 7701(a)(35)]) who is a member of the American Academy of Actuaries to perform an annual actuarial valuation (in a manner and form determined by the Secretary) of the Trust Fund and the Federal Supplemental Fund for obligations assumed by the Federal Government under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-813_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Annual report on status of Funds. — The enrolled actuary shall prepare and submit to the Secretary and the Trustee an annual report on the actuarial status of the Trust Fund and the Federal Supplemental Fund, and shall include in the report:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

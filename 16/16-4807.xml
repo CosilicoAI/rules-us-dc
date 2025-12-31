@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4807"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4807/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4807">
+        <akn:num>16-4807</akn:num>
+        <akn:heading>Effect of filing standby guardianship petition.</akn:heading>
+<akn:subsection eId="subsec_16-4807_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the petition filed by the designator pursuant to § 16-4805 is approved by the Court before the occurrence of the triggering event, the standby guardian’s authority will commence automatically upon the occurrence of the triggering event. No further petition or confirmation is necessary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4807_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the petition for approval of the designation has not been filed before the occurrence of a triggering event, the standby guardian shall have temporary legal authority to act as legal custodian or guardian of the child without authorization of the Court for a period of 90 days from the date of the triggering event.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4807_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a petition for approval of a standby guardian is filed, but the court does not act upon it within the 90-day period following the occurrence of a triggering event, the standby guardian’s temporary legal authority to act as legal custodian or guardian shall continue until the court orders otherwise.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4807_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The commencement of a standby guardian’s authority under this chapter may not divest a parent or legal guardian of any legal custodial, parental guardianship rights or custody.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

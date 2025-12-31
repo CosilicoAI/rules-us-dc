@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1111"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1111/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1111">
+        <akn:num>31-1111</akn:num>
+        <akn:heading>Cancellation of insurance contracts.</akn:heading>
+<akn:subsection eId="subsec_31-1111_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a premium finance agreement contains a power of attorney enabling the premium finance company to cancel any insurance contract or contracts listed in the agreement, the insurance contract or contracts shall not be canceled by the premium finance company unless such cancellation is effectuated in accordance with this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1111_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Not less than 10 days written notice shall be mailed to the insured of the intent of the premium finance company to cancel the insurance contract unless the default is cured within such 10-day period.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1111_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>After expiration of such 10-day period, the premium finance company may thereafter request, in the name of the insured, cancellation of such insurance contract or contracts by mailing to the insurer a notice of cancellation, and the insurance contract shall be canceled as if such notice of cancellation had been submitted by the insured himself, but without requiring the return of the insurance contract or contracts. The premium finance company shall also mail a notice of cancellation to the insured at his last known address.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1111_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>All statutory, regulatory, and contractual restrictions providing that the insurance contract may not be canceled unless notice is given to a governmental agency, mortgagee, or other third party shall apply where cancellation is effected under the provisions of this section. The insurer shall give the prescribed notice in behalf of itself or the insured to any governmental agency, mortgagee, or other third party on or before the 2nd business day after the day it receives the notice of cancellation from the premium finance company and shall determine the effective date of cancellation taking into consideration the number of days notice required to complete the cancellation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1111_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Whenever an insurance contract is cancelled in accordance with this section, the insurer shall return whatever gross unearned premiums are due under the insurance contract to the premium finance company affecting the cancellation for the account of the insured or insureds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1111_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>In the event that the crediting of return premiums to the account of the insured results in a surplus over the amount due from the insured, the premium finance company shall refund such excess to the insured provided that no such refund shall be required if it amounts to less than $1.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1111_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>When a default results in the cancellation of an insurance contract listed in the premium finance agreement, the premium finance agreement may provide for the payment by the insured of a cancellation charge equal to the difference between any delinquent charge imposed in respect of the installment or installments in default and $10; provided, however, that should the cancellation notice be withdrawn prior to its effective date and the insurance coverage reinstated, the agreement may provide for payment by the insured of a reinstatement charge equal to the cancellation charge herein provided.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

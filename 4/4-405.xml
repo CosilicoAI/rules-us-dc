@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-405"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-405/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_405">
+        <akn:num>4-405</akn:num>
+        <akn:heading>Schedule of payments by parents.</akn:heading>
+<akn:subsection eId="subsec_4-405_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Parents who receive day care services pursuant to § 4-404 [repealed] shall pay a portion of services according to the sliding scale set forth in subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-405_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Increment
+          Adjusted Income
+          Parent Fee (Percent of Child Care Paid by Parent)
+        1
+          Under $8,020
+          Flat Fee of $2 per week
+        2
+          $8,020–$9,012
+          5%
+        3
+          $9,013–$10,005
+          10%
+        4
+          $10,006–$10,998
+          15%
+        5
+          $10,999–$11,991
+          20%
+        6
+          $11,992–$12,984
+          25%
+        7
+          $12,985–$13,977
+          30%
+        8
+          $13,978–$14,970
+          35%
+        9
+          $14,971–$15,963
+          40%
+        10
+          $15,964–$16,956
+          45%
+        11
+          $16,957–$17,949
+          50%
+        12
+          $17,950–$18,942
+          55%
+        13
+          $18,943–$19,935
+          60%
+        14
+          $19,936–$20,928
+          65%
+        15
+          $20,929–$21,921
+          70%
+        16 Over
+          $21,921
+          100%</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-405_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The fee schedule shall be effective April 1, 1990. The Mayor may revise the fee schedule by rule.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

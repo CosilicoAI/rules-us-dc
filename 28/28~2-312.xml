@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-312"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-312/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_312">
+        <akn:num>28:2-312</akn:num>
+        <akn:heading>Warranty of title and against infringement; buyer’s obligation against infringement.</akn:heading>
+<akn:subsection eId="subsec_28:2-312_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Subject to subsection (2) there is in a contract for sale a warranty by the seller that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-312_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A warranty under subsection (1) will be excluded or modified only by specific language or by circumstances which give the buyer reason to know that the person selling does not claim title in himself or that he is purporting to sell only such right or title as he or a third person may have.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-312_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Unless otherwise agreed a seller who is a merchant regularly dealing in goods of the kind warrants that the goods shall be delivered free of the rightful claim of any third person by way of infringement or the like but a buyer who furnishes specifications to the seller must hold the seller harmless against any such claim which arises out of compliance with the specifications.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

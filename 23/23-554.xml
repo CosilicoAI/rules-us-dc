@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/23-554"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/23-554/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_23_554">
+        <akn:num>23-554</akn:num>
+        <akn:heading>Authorization for recovery of civil damages.</akn:heading>
+<akn:subsection eId="subsec_23-554_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Any person whose wire or oral communication is intercepted, disclosed, or used in violation of this subchapter shall —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-554_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Good faith reliance on a court order or legislative authorization shall constitute a complete defense to an action brought under this section or any other law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_23-554_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>As used in this section, the term “person” includes the District of Columbia. The District of Columbia shall not assert any governmental immunity to avoid liability under this section. Judgment against the District of Columbia shall not constitute a bar to action against any other person.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

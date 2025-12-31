@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2906"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2906/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2906">
+        <akn:num>38-2906</akn:num>
+        <akn:heading>Pupil count.</akn:heading>
+<akn:subsection eId="subsec_38-2906_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Annual appropriations for DCPS pursuant to the Formula shall equal the total estimated costs for the number of resident students projected to be enrolled in DCPS during the fiscal year for which the appropriation is made; provided, that for fiscal year 2008, the projected change in enrollment shall equal the average annual change in enrollment for the preceding 3 years. Beginning in fiscal year 2012, the base for the projections shall be the audited enrollment for the school year preceding the fiscal year for which the appropriation is made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2906_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Annual appropriations for public charter schools pursuant to the Formula shall equal the total estimated costs for the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2906_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2906_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2906_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Preliminary projections of public charter school enrollment shall be made by each eligible chartering authority for the public charter schools under its supervision, and submitted to the Mayor by the date on which the Chancellor is required to submit his or her budget request to the Mayor. The eligible chartering authorities may submit revisions of the projections to the Mayor and the Council at any time before the Council committee with oversight responsibilities for the public education budget reports its recommendations on that budget to the Council.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-220.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-220.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_220_11">
+        <akn:num>2-220.11</akn:num>
+        <akn:heading>Applicability.</akn:heading>
+<akn:subsection eId="subsec_2-220_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The requirements of this subchapter shall apply to contracts and agreements for government assistance (“agreement”) entered into after June 8, 2006, and shall not apply to any existing agreement entered into prior to that date. Where an agreement is renewed or extended after that date, that renewal or extension shall be deemed a new agreement and shall trigger coverage under this subchapter if the terms of the renewed or extended agreement otherwise meet the requirements for coverage under this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-220_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the requirements of § 2-220.05(9), a home care agency, community residence facility, or group home for persons with intellectual disabilities shall not be required to pay a living wage until implementing rules are published in the District of Columbia Register and any necessary state plan amendments are approved.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

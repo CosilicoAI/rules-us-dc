@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4601.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4601.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4601_07">
+        <akn:num>16-4601.07</akn:num>
+        <akn:heading>Notice to persons outside the District.</akn:heading>
+<akn:subsection eId="subsec_16-4601_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notice required for the exercise of jurisdiction when a person is outside the District may be given in a manner prescribed by the law of the District for service of process or by the law of the state in which the service is made. Notice must be given in a manner reasonably calculated to give actual notice, but may be by publication if other means are not effective.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4601_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Proof of service may be made in the manner prescribed by the law of the District or by the law of the state in which the service is made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4601_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notice is not required for the exercise of jurisdiction with respect to a person who submits to the jurisdiction of the court.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

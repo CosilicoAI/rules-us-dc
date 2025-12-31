@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3503.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3503.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3503_07">
+        <akn:num>42-3503.07</akn:num>
+        <akn:heading>Termination of eligibility.</akn:heading>
+<akn:subsection eId="subsec_42-3503_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If, at any time, a tenant receiving tenant assistance fails to satisfy the requirements of this subchapter relating to conditions of eligibility, the tenant shall immediately notify the Department, in writing, of the ineligibility. Tenant assistance shall terminate on the next day thereafter upon which the rent is due.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3503_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If, at any time, the Department determines that a tenant receiving tenant assistance is not, or has ceased to be, eligible for tenant assistance, the Department shall notify the tenant and housing provider in writing, setting forth the reasons for the determination. Tenant assistance payments shall terminate on the next day the rent is due occurring at least 30 days after the date the notice is given, unless, within 15 days after the receipt of the notice, the tenant submits to the Department a written statement, under oath or affirmation, including any available supporting documents, asserting the tenant’s reasons for alleging continued eligibility. Within 30 days following the receipt of the statement and documents, the Department shall make the final determination of the tenant’s eligibility for continued receipt of tenant assistance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3503_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

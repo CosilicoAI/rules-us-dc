@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5322"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-5322/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_5322">
+        <akn:num>31-5322</akn:num>
+        <akn:heading>Valuation standards for certificates.</akn:heading>
+<akn:subsection eId="subsec_31-5322_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Standards of valuation for certificates issued prior to one year after April 29, 1998 shall be those provided by the laws applicable immediately prior to April 29, 1998.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5322_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5322_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Commissioner may, in his or her discretion, accept other standards for valuation if the Commissioner finds that the reserves produced thereby will not be less in the aggregate than reserves computed in accordance with the minimum valuation standard herein prescribed. The Commissioner may, in his or her discretion, vary the standards of mortality applicable to all benefit contracts on substandard lives or other extra hazardous lives by any society authorized to do business in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-5322_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any society, with the consent of the Commissioner of the state of domicile of the society and under such conditions, if any, which the Commissioner may impose, may establish and maintain reserves on its certificates in excess of the reserves required thereunder, but the contractual rights of any benefit member shall not be affected thereby.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

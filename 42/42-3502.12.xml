@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3502.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3502_12">
+        <akn:num>42-3502.12</akn:num>
+        <akn:heading>Hardship petition.</akn:heading>
+<akn:subsection eId="subsec_42-3502_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Where an election has been made under § 42-3502.06(c) to seek a rent adjustment through a hardship petition, the Rent Administrator shall, after review of the figures and computations set forth in the housing provider’s petition, allow additional increases in rent which would generate no more than a 12% rate of return computed according to subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In determining the rate of return for each housing accommodation, the following formula, computed over a base period of the 12 consecutive months within 15 months preceding the filing of a petition under this chapter, shall be used to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3502_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Rent Administrator shall accord an expedited review process for a petition filed under this section and shall issue and publish a final decision within 90 days after the petition has been filed. If the Rent Administrator does not render a final decision within 90 days from the date the petition is filed, the rent charged adjustment requested in the petition may be conditionally implemented by the housing provider. The conditional rent charged adjustment shall be subject to subsequent modification by the final decision of the Rent Administrator on the petition. If a hearing has been held on the petition, and the Rent Administrator, by order served upon the parties at least 10 days prior to the expiration of 90 days, makes a provisional finding as to the rent charged adjustment justified by the petition, the housing provider may implement only the amount of the rent charged adjustment authorized by the order. Except to the extent modified by this subsection, the provisions of § 42-3502.16 shall apply to any adjustment under this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

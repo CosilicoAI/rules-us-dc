@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1131.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1131.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1131_10">
+        <akn:num>7-1131.10</akn:num>
+        <akn:heading>Partnership Council.</akn:heading>
+<akn:subsection eId="subsec_7-1131_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Director shall appoint and convene a Partnership Council, consisting of between 15 and 25 people, to advise the Director, upon his or her request, with respect to departmental matters.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1131_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The membership of the Partnership Council shall represent the range of interests and perspectives held by adults and children, youth, and their families, as well as the various geographic areas of the District, and shall include at least one person from each ward of the District and 2 representatives from labor unions for departmental workers. At least 51% of the members of the Partnership Council shall be consumers of mental health services or their family members. No members of the Partnership Council shall receive remuneration for their service.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

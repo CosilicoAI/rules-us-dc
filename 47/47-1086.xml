@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1086"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1086/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1086">
+        <akn:num>47-1086</akn:num>
+        <akn:heading>United House of Prayer for All People — kitchen or feeding facilities.</akn:heading>
+<akn:subsection eId="subsec_47-1086_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The portion of the following real property used for kitchen or feeding facilities shall be exempt from real property taxation so long as the real property is owned by the United House of Prayer for All People, a tax-exempt organization, and the remainder of the real property is used for its tax-exempt purposes:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1086_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The real property tax exemption under subsection (a) of this section shall be subject to the provisions of §§ 47-1005, 47-1007, and 47-1009.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1086_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>This section shall apply as of March 1, 2011.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

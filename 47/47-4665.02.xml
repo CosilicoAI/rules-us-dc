@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4665.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-4665.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_4665_02">
+        <akn:num>47-4665.02</akn:num>
+        <akn:heading>The Advisory Board Company — tax abatement.</akn:heading>
+<akn:subsection eId="subsec_47-4665_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Subject to subsections (c) and (d) of this section and §§ 47-4665.03 and 47-4665.04, the real property taxes imposed by Chapter 8 of this title with respect to the Property shall be abated in an amount not to exceed $6 million per tax year during the abatement period. The abatement shall be apportioned equally between each tax year’s installment billing. The abatement shall be non-refundable and shall not be credited to other tax years.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4665_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The amount of the abatement authorized in subsection (a) of this section shall be determined as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4665_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Property shall be eligible for the abatement authorized in subsection (a) of this section each year of the abatement period as long as the Company:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4665_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The terms of the Company’s lease for the Property shall meet the following requirements:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-4665_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>During the abatement period, the Property shall not be eligible for the abatement authorized under § 47-811.03.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

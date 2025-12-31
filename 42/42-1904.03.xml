@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1904.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1904.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1904_03">
+        <akn:num>42-1904.03</akn:num>
+        <akn:heading>Application for registration; contents; later registration of additional units; availability for public inspection; fee to be determined by Mayor.</akn:heading>
+<akn:subsection eId="subsec_42-1904_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The application for registration of the condominium shall be filed as prescribed by the Mayor’s rules and shall contain the following documents and information:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1904_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the declarant registers additional units to be offered for disposition in the same condominium he may consolidate the subsequent registration with any earlier registration offering units in the condominium for disposition under the same promotional plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1904_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The declarant shall maintain a copy of the application for registration at the declarant’s principal office at the condominium. The application for registration shall be made available for public inspection upon request at reasonable times; provided, however, that the Mayor may grant confidential status to any information required pursuant to § 42-1904.04(a)(11). The declarant shall promptly report any material changes in the information contained in an application for registration and amend the application accordingly.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1904_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Each application shall be accompanied by a fee in an amount determined by the Mayor. The amount of such fee shall be established at a rate adequate to cover the costs related to processing such application and to provide additional funds to be available to defray the costs of administering this chapter, except that the fee shall not be less than $ 100. Monies collected pursuant to this subsection shall be deposited in the Department of Housing and Community Development Unified Fund, established pursuant to § 42-2857.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

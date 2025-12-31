@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-1162.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_1162_12">
+        <akn:num>1-1162.12</akn:num>
+        <akn:heading>Preliminary investigations.</akn:heading>
+<akn:subsection eId="subsec_1-1162_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Director of Government Ethics shall conduct a preliminary investigation of a possible violation of the Code of Conduct or of this subchapter brought to the attention of the Director of Government Ethics or the Ethics Board through the following sources:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If during or after the preliminary investigation, the Director of Government Ethics has reason to believe that a violation of the Code of Conduct or of this subchapter may have occurred, the Director of Government Ethics shall present evidence of the violation to the Ethics Board. Upon presentation of evidence, the Ethics Board may authorize a formal investigation and the issuance of subpoenas if it finds reason to believe a violation has occurred.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A preliminary investigation may be dismissed by the Director of Government Ethics or the Ethics Board if insufficient evidence exists to support a reasonable belief that a violation has occurred.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-1162_12_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The identity of an individual who is the subject of the preliminary investigation shall not be disclosed without the individual’s consent unless or until the Ethics Board has found reason to believe that the individual has committed a violation and the Ethics Board finds that disclosure would not harm the investigation.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

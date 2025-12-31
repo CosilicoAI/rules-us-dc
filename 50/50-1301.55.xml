@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1301.55"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1301.55/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1301_55">
+        <akn:num>50-1301.55</akn:num>
+        <akn:heading>Certificate filed by nonresident as proof of financial responsibility.</akn:heading>
+<akn:subsection eId="subsec_50-1301_55_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Said insurance carrier shall execute a power of attorney authorizing the Mayor to accept service on its behalf of notice or process in any action arising out of a motor vehicle accident in the District of Columbia;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1301_55_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Said insurance carrier shall agree in writing that such policies shall be deemed to conform with the laws of the District of Columbia relating to the terms of motor vehicle liability policies issued therein.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

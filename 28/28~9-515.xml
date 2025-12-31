@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-515"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-515/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_515">
+        <akn:num>28:9-515</akn:num>
+        <akn:heading>Duration and effectiveness of financing statement; effect of lapsed financing statement.</akn:heading>
+<akn:subsection eId="subsec_28:9-515_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsections (b), (e), (f), and (g), a filed financing statement is effective for a period of 5 years after the date of filing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-515_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsections (e), (f), and (g), an initial financing statement filed in connection with a public-finance transaction or manufactured-home transaction is effective for a period of 30 years after the date of filing if it indicates that it is filed in connection with a public-finance transaction or manufactured-home transaction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-515_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The effectiveness of a filed financing statement lapses on the expiration of the period of its effectiveness unless before the lapse a continuation statement is filed pursuant to subsection (d). Upon lapse, a financing statement ceases to be effective and any security interest or agricultural lien that was perfected by the financing statement becomes unperfected, unless the security interest is perfected otherwise. If the security interest or agricultural lien becomes unperfected upon lapse, it is deemed never to have been perfected as against a purchaser of the collateral for value.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-515_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A continuation statement may be filed only within 6 months before the expiration of the 5-year period specified in subsection (a) or the 30-year period specified in subsection (b), whichever is applicable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-515_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 28:9-510, upon timely filing of a continuation statement, the effectiveness of the initial financing statement continues for a period of 5 years commencing on the day on which the financing statement would have become ineffective in the absence of the filing. Upon the expiration of the 5-year period, the financing statement lapses in the same manner as provided in subsection (c), unless, before the lapse, another continuation statement is filed pursuant to subsection (d). Succeeding continuation statements may be filed in the same manner to continue the effectiveness of the initial financing statement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-515_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>If a debtor is a transmitting utility and a filed initial financing statement so indicates, the financing statement is effective until a termination statement is filed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-515_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>A record of a mortgage that is effective as a financing statement filed as a fixture filing under § 28:9-502(c) remains effective as a financing statement filed as a fixture filing until the mortgage is released or satisfied of record or its effectiveness otherwise terminates as to the real property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

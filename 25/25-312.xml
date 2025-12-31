@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-312"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-312/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_312">
+        <akn:num>25-312</akn:num>
+        <akn:heading>Defining size of area relevant to determination of appropriateness.</akn:heading>
+<akn:subsection eId="subsec_25-312_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board shall determine, on a case-by-case basis, whether the locality, section, or portion proposed by the applicant is a competent measure for determining the appropriateness of the establishment and, if not, shall identify the proper boundaries of the locality, section, or portion for evaluating the application. In making this determination, the Board shall consider the overall characteristics of the area, including population, density, and general commercial and residential activities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-312_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In establishing any geographic boundaries required by this title, the Board shall measure the specified distance in an arc from each corner of the lot or parcel on which the establishment is located, connecting the arcs by tangent lines.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-312_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the Board is required to state the distance between one or more places, (such as the actual distance of one licensed establishment from another or the actual distance of a licensed establishment from a school), the distance shall be measured linearly and shall be the shortest distance between the property lines of the places.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-312_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a boundary line measured by the Board touches upon any portion of a parcel or lot, the parcel or lot shall be within the area being identified by the Board.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-312_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>In submitting evidence of appropriateness, the applicant shall propose the boundaries of the locality, section, or portion to be considered.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-312_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Any person may submit written objections to the boundaries proposed by the applicant or a written proposal listing alternative boundaries for consideration by the Board.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-311.30"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-311.30/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_311_30">
+        <akn:num>29-311.30</akn:num>
+        <akn:heading>Judicial proceeding.</akn:heading>
+<akn:subsection eId="subsec_29-311_30_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a shareholder makes demand for payment under § 29-311.16 which remains unsettled, the corporation shall commence a proceeding within 60 days after receiving the payment demand and petition the Superior Court to determine the fair value of the shares and accrued interest. If the corporation does not commence the proceeding within the 60-day period, it shall pay in cash to each shareholder the amount the shareholder demanded pursuant to § 29-311.16 plus interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-311_30_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The corporation shall commence the proceeding in the Superior Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-311_30_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The corporation shall make all shareholders, whether or not residents of the District, whose demands remain unsettled parties to the proceeding as in an action against their shares, and all parties must be served with a copy of the petition. Nonresidents may be served by registered or certified mail or by publication as provided by law.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-311_30_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The jurisdiction of the Superior Court in which the proceeding is commenced under subsection (b) shall be plenary and exclusive. The court may appoint one or more persons as appraisers to receive evidence and recommend a decision on the question of fair value. The appraisers have the powers described in the order appointing them, or in any amendment to it. The shareholders demanding appraisal rights shall be entitled to the same discovery rights as parties in other civil proceedings. There shall be no right to a jury trial.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-311_30_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Each shareholder made a party to the proceeding shall be entitled to judgment:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

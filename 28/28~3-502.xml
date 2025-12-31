@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-502"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-502/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_502">
+        <akn:num>28:3-502</akn:num>
+        <akn:heading>Dishonor.</akn:heading>
+<akn:subsection eId="subsec_28:3-502_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Dishonor of a note is governed by the following rules:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-502_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Dishonor of an unaccepted draft other than a documentary draft is governed by the following rules:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-502_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Dishonor of an unaccepted documentary draft occurs according to the rules stated in subsection (b)(2), (3), and (4) of this section, except that payment or acceptance may be delayed without dishonor until no later than the close of the third business day of the drawee following the day on which payment or acceptance is required by those paragraphs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-502_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Dishonor of an accepted draft is governed by the following rules:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-502_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>In any case in which presentment is otherwise required for dishonor under this section and presentment is excused under section 28:3-504, dishonor occurs without presentment if the instrument is not duly accepted or paid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-502_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>If a draft is dishonored because timely acceptance of the draft was not made and the person entitled to demand acceptance consents to a late acceptance, from the time of acceptance the draft is treated as never having been dishonored.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

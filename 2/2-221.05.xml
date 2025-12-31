@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-221.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-221.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_221_05">
+        <akn:num>2-221.05</akn:num>
+        <akn:heading>Required reports.</akn:heading>
+<akn:subsection eId="subsec_2-221_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each district agency shall file with the Mayor and the Chief Financial Officer a detailed report on any interest penalty payments made pursuant to this subchapter during the preceding fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-221_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The report shall include the numbers, amounts, and frequency of interest penalty payments, and the reasons the payments were not avoided by prompt payment, and shall be delivered to the Mayor and the Chief Financial Officer within 60 days after the conclusion of each fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-221_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Chief Financial Officer shall submit to the Mayor and the Council within 120 days after the conclusion of each fiscal year a report on District agency compliance with the requirements of this subchapter. The report shall include a summary of the report submitted by each District agency pursuant to this section and an analysis of the progress made in reducing interest penalty payments by that agency from previous years.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

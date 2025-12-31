@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-847"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-847/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_847">
+        <akn:num>47-847</akn:num>
+        <akn:heading>Sale of tax delinquent property — Issuance of deed to District; redemption.</akn:heading>
+<akn:subsection eId="subsec_47-847_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of law, whenever any real property in the District of Columbia has been, or shall hereafter be, offered for sale for nonpayment of taxes or assessments of any kind whatsoever, and shall have been bid off in the name of the District of Columbia, and 6 months or more have elapsed since such property was bid off as aforesaid, and the same has not been redeemed as provided by law, the Mayor of the District may enforce the lien of the District for taxes or other assessments on such real property by ordering that a deed in fee simple to such property be issued by the Mayor of the District of Columbia to the District of Columbia, and up to the time of the issuance of the deed such property may be redeemed by the owner or other person having an interest therein by the payment of all taxes or assessments due the District of Columbia upon said property, and all legal penalties, interests and costs thereon, together with such other expenses and costs, including costs of publication, as may have been incurred by the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-847_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The time period for redemption of properties brought to tax sale under § 47-1205(b), shall be 6 months.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-847_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The time period for redemption of properties brought to tax sale under § 8-807(f), shall be 6 months.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

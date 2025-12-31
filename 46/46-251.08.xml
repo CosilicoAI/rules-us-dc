@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_251_08">
+        <akn:num>46-251.08</akn:num>
+        <akn:heading>Priority of withholding for employee contributions to health insurance coverage.</akn:heading>
+<akn:subsection eId="subsec_46-251_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If there are insufficient funds available within the limits of section 303(b) of the Consumer Credit Protection Act, approved May 29, 1968 (82 Stat. 163; 15 U.S.C. § 1673(b)), to meet the employee’s contribution necessary for the coverage of each child included in a support order and to comply with a notice or order to withhold received pursuant to § 46-212, the employer shall allocate the funds available according to the following priority, unless the court directs otherwise:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an employer is required to withhold earnings or employee contributions for health insurance coverage pursuant to more than one support order, the employer shall prorate among the support orders subject to withholding the amount of the employee’s earnings that are available for withholding within the limits of section 303(b) of the Consumer Credit Protection Act, approved May 29, 1968 (82 Stat. 163; 15 U.S.C. § 1673(b)), and determine whether the available earnings are sufficient to satisfy current cash support due under all applicable support orders. The employer shall not withhold contributions for health insurance coverage required under any support order until all the employee’s current cash support obligations are satisfied. The employer shall fully satisfy each priority level stated in subsection (a) of this section for all of the employee’s support orders before applying payments to an obligation with a lesser priority.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An employer shall apply the law of the employee’s principal place of employment in determining the limitations and priorities applicable to the withholding of employee contributions for health insurance coverage.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

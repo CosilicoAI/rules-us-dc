@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-406.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_406_03">
+        <akn:num>29-406.03</akn:num>
+        <akn:heading>Number of directors.</akn:heading>
+<akn:subsection eId="subsec_29-406_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A board of directors shall consist of 3 or more directors, with the number specified in or fixed in accordance with the articles of incorporation or bylaws.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-406_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The number of directors may be increased or decreased, but to no fewer than 3, by amendment to, or in the manner provided in, the articles of incorporation or bylaws.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-358.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-358.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_358_05">
+        <akn:num>2-358.05</akn:num>
+        <akn:heading>Surplus Property Sales Fund.</akn:heading>
+<akn:subsection eId="subsec_2-358_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a special fund the Surplus Property Sales Fund (“Fund”), which shall be administered by the CPO in accordance with subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-358_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>There shall be deposited into the Fund:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-358_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Money in the Fund shall be used to pay the administrative costs of maintaining and disposing of surplus property, including the costs of online auctions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-358_05_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Amounts in excess of the money needed to pay for the cost of online auction contracts for surplus personal property shall be deposited into the unrestricted fund balance of the General Fund of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-909.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-909.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_909_02">
+        <akn:num>1-909.02</akn:num>
+        <akn:heading>Annual report.</akn:heading>
+<akn:subsection eId="subsec_1-909_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Retirement Board shall publish an annual report for each fiscal year with respect to each retirement program and separate fund comprising the Funds to which this chapter applies.  The report shall be filed with the Mayor and the Council in accordance with subsection (c) of this section and shall be made available and furnished to participants and beneficiaries in accordance with § 1-909.04(c).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-909_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The annual report shall include the following information:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-909_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The annual report shall be filed with the Mayor and the Council within 210 days after the end of the fiscal year for which it is prepared.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

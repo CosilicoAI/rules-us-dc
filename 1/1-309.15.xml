@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-309.15"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-309.15/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_309_15">
+        <akn:num>1-309.15</akn:num>
+        <akn:heading>Office of Advisory Neighborhood Commissions; appointment of Executive Director.</akn:heading>
+<akn:subsection eId="subsec_1-309_15_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is hereby established an Office of Advisory Neighborhood Commissions (“Office”) to provide technical, administrative, and financial reporting assistance to the Advisory Neighborhood Commissions. Subject to appropriations beginning in Fiscal Year 2001, the Office shall be funded by an annual budget allocation. The Office is intended to support the efforts of Advisory Neighborhood Commissions and is not empowered to direct or supervise the actions of Commissions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-309_15_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Office shall be headed by an Executive Director who shall be appointed by the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-309_15_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Funds may be transferred from the Office of Advisory Neighborhood Commissions through an intra-District transfer for the operations of the Office.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

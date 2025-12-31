@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-354.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-354.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_354_12">
+        <akn:num>2-354.12</akn:num>
+        <akn:heading>District of Columbia Supply Schedule.</akn:heading>
+<akn:subsection eId="subsec_2-354_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established a District of Columbia Supply Schedule program under which contracts may be awarded to certified business enterprises. The DCSS program may consist of multiple award schedules or other procurement programs established by the CPO.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-354_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A DCSS contract may be awarded by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-354_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An agency may refuse to award a contract or procurement set aside pursuant to subchapter IX-A of Chapter 2 of this title, [§ 2-218.01 et seq.], and may thereafter issue the contract or procurement in the open market if the agency determines in writing that the bids for the contract or procurement set aside for a small business enterprise are believed to be 12% or more above the likely price on the open market.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

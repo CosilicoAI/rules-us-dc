@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-2104.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-2104.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_2104_01">
+        <akn:num>22-2104.01</akn:num>
+        <akn:heading>Sentencing procedure for murder in the first degree.</akn:heading>
+<akn:subsection eId="subsec_22-2104_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a defendant is convicted of murder in the first degree, and if the prosecution has given the notice required under § 22-2104(a), a separate sentencing procedure shall be conducted as soon as practicable after the trial has been completed to determine whether to impose a sentence of more than 60 years up to, and including, life imprisonment without possibility of release.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-2104_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In determining the sentence, a finding shall be made whether, beyond a reasonable doubt, any of the following aggravating circumstances exist:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-2104_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The finding shall state in writing whether, beyond a reasonable doubt, 1 or more of the aggravating circumstances exist. If 1 or more aggravating circumstances exist, a sentence of more than 60 years up to, and including, life imprisonment without release may be imposed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-2104_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the trial court is reversed on appeal because of error only in the separate sentencing procedure, any new proceeding before the trial court shall pertain only to the issue of sentencing.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

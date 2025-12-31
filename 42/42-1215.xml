@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1215"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1215/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1215">
+        <akn:num>42-1215</akn:num>
+        <akn:heading>Recordation of service and discharge certificates; certified copies thereof; recordation of notice or other document relating to federal tax liens; fees.</akn:heading>
+<akn:subsection eId="subsec_42-1215_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Recorder shall also receive for record and record all certificates of service and certificates of discharge of persons released from active duty in or discharge from the armed forces of the United States, for which no fee shall be charged or collected, but the record of any certificate authorized by this section to be recorded shall not constitute constructive notice of the existence or contents of such certificate. For making certified copies of any of the foregoing certificates from the records in the Office of the Recorder the usual fees shall be charged.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1215_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Recorder of Deeds shall accept for filing any notice of federal tax lien or any other document affecting such a lien if such notice or document is in the form prescribed by the Secretary of the Treasury or his delegate and could be filed with the Clerk of the United States District Court for the District of Columbia. The fee for each such filing with the Recorder of Deeds shall be the same as the fee charged by the Recorder of Deeds for filing a similar document for a private person. The Recorder of Deeds shall bill the District Director of Internal Revenue on a monthly basis for fees for documents filed by such District Director. Any document releasing or affecting any notice of federal tax lien which has been filed with the Clerk of the United States District Court for the District of Columbia prior to the effective date of this subsection shall be filed with such Clerk.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

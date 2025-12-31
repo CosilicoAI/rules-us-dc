@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-317"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:9-317/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:9_317">
+        <akn:num>28:9-317</akn:num>
+        <akn:heading>Interests that take priority over or take free of unperfected security interest or agricultural lien.</akn:heading>
+<akn:subsection eId="subsec_28:9-317_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A security interest or agricultural lien is subordinate to the rights of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-317_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (e), a buyer, other than a secured party, of tangible chattel paper, tangible documents, goods, instruments, or a certificated security takes free of a security interest or agricultural lien if the buyer gives value and receives delivery of the collateral without knowledge of the security interest or agricultural lien and before it is perfected.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-317_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (e), a lessee of goods takes free of a security interest or agricultural lien if the lessee gives value and receives delivery of the collateral without knowledge of the security interest or agricultural lien and before it is perfected.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-317_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A licensee of a general intangible or a buyer, other than a secured party, of collateral other than tangible chattel paper, tangible documents, goods, instruments, or a certificated security takes free of a security interest if the licensee or buyer gives value without knowledge of the security interest and before it is perfected.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:9-317_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in §§ 28:9-320 and 28:9-321, if a person files a financing statement with respect to a purchase-money security interest before or within 20  days after the debtor receives delivery of the collateral, the security interest takes priority over the rights of a buyer, lessee, or lien creditor which arise between the time the security interest attaches and the time of filing.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

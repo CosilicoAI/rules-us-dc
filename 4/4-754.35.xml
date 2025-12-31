@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-754.35"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-754.35/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_754_35">
+        <akn:num>4-754.35</akn:num>
+        <akn:heading>Suspension of services.</akn:heading>
+<akn:subsection eId="subsec_4-754_35_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a client fails or refuses to comply with the provider’s Program Rules and the client responsibilities listed in § 4-754.13, or engages in any of the behaviors listed in § 4-754.36(2), the provider may suspend services to the client for an appropriate period of time in light of the severity of the act or acts leading to the suspension, but in no case for any period longer then 30 days. The suspension may be implemented only when:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-754_35_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Prior to suspension of services, the provider shall make a reasonable effort, given the severity of the situation, to transfer the client to another provider within the Continuum of Care, in accordance with § 4-754.34.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-754_35_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A provider may not suspend adult individuals or adult family members in a manner that results in minor children or dependent adults being left unattended in a shelter or supportive housing unit.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

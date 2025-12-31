@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2001"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2001/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2001">
+        <akn:num>31-2001</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_31-2001_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Adjusted RBC Report” means an RBC report that has been adjusted by the Commissioner in accordance with § 31-2002(g).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Corrective order” means an order issued by the Commissioner specifying corrective actions which the Commissioner has determined are required.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Domestic insurer” means any insurance company domiciled in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Foreign insurer” means any insurance company which is licensed to do business in the District, but is not domiciled in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Life or health insurer” means any insurance company licensed to underwrite life or health insurance, or a licensed property and casualty insurer writing only accident and health insurance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“NAIC” means the National Association of Insurance Commissioners.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Negative trend” means, with respect to a life or health insurer, negative trend over a period of time, as determined in accordance with the “Trend Test Calculation” included in the RBC Instructions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Property and casualty insurer” means any insurance company licensed to underwrite property and casualty insurance, but does not include monoline mortgage guaranty insurers, financial guaranty insurers, and title insurers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“RBC” means risk-based capital.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“RBC Instructions” means the RBC Report including risk-based capital instructions adopted by the NAIC, as such RBC Instructions may be amended by the NAIC from time to time in accordance with the procedures adopted by the NAIC.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“RBC Level” means an insurer’s Company Action Level RBC, Regulatory Action Level RBC, Authorized Control Level RBC, or Mandatory Control Level RBC where:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“RBC Plan” means a comprehensive financial plan containing the elements specified in § 31-2003(b). If the Commissioner rejects the RBC Plan, and it is revised by the insurer, with or without the Commissioner’s recommendation, the plan shall be called the “Revised RBC Plan”.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“RBC Report” means the report required in § 31-2002.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_16">
+      <akn:num>(16)</akn:num>
+      <akn:content><akn:p>“Total adjusted capital” means the sum of:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2001_17">
+      <akn:num>(17)</akn:num>
+      <akn:content><akn:p>“State” means any of the several states, the Commonwealth of Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, and the Commonwealth of Northern Mariana Islands.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

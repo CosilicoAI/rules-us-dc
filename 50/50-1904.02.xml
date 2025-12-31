@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1904.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1904.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1904_02">
+        <akn:num>50-1904.02</akn:num>
+        <akn:heading>Chemical testing after arrest.</akn:heading>
+<akn:subsection eId="subsec_50-1904_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (b) of this section, when a law enforcement officer has reasonable grounds to believe that a person was operating or in physical control of a motor vehicle within the District while intoxicated or while the person’s ability to operate a motor vehicle is impaired by the consumption of alcohol or a drug or a combination thereof, after arrest of the person, the person shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1904_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When a person is required to submit specimens for chemical testing pursuant to subsection (a) of this section, a law enforcement officer shall elect which types of specimens will be collected from the person and the law enforcement officer or a medical professional shall collect the specimen subject to the restriction in § 50-1903(a); provided, that the person may object to a particular type of specimen collection for chemical testing on valid religious or medical grounds. If a person objects to blood collection on valid religious or medical grounds, that person shall only be required to submit breath or urine specimens for collection.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1904_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to submitting specimens for chemical testing as provided in this section, a person may also submit specimens for chemical testing administered to him or her by a medical professional of his or her own choosing. The failure or inability of the person to obtain additional specimens or chemical tests shall not preclude the admission of chemical tests results that were the product of the law enforcement officer’s request under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1904_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Before collecting specimens for chemical testing, the law enforcement officer shall advise the operator of the motor vehicle about the requirements of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

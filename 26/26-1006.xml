@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1006"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-1006/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_1006">
+        <akn:num>26-1006</akn:num>
+        <akn:heading>License application.</akn:heading>
+<akn:subsection eId="subsec_26-1006_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Each application for a license shall be made in writing, under oath, and in a form prescribed by the Superintendent [Commissioner].</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1006_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For all applicants, each application shall contain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1006_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the applicant is a corporation, the applicant shall also provide:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1006_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the applicant is not a corporation, the applicant shall also provide:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-1006_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Superintendent [Commissioner] is authorized, for good cause shown, to waive any requirement of this section with respect to any license application or to permit a license applicant to submit substituted information in its license application in lieu of the information required by this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

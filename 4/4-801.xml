@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-801"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-801/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_801">
+        <akn:num>4-801</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_4-801_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Benefit” means any benefit authorized under the District of Columbia Medicaid Program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Claim,” “request for payment,” or “claim for payment” means an application or communication, whether written, oral, electronic impulse, or magnetic tape, which is submitted by a person to the Department of Health of the District of Columbia for payment and which is used to identify any item or service for which payment may be made under the District of Columbia Medicaid Program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Conditions of participation” means those items set forth in the provider agreement with the District of Columbia which a provider has agreed to meet in providing items or services under the District of Columbia Medicaid Program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Department” means the Department of Health of the District of Columbia or its agent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Director” means the Director of the Department of Health.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Item or service” means:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Medicaid legislation” means title 19 of the Social Security Act (42 U.S.C. § 1396 et seq.).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Medicaid program” means the program authorized by title 19 of the Social Security Act and by § 1-307.02, and administered by the Department of Health.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>“Payment” means any payment made by the District of Columbia to a provider for any item or service under the District of Columbia Medicaid Program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>“Person” means an individual, firm, partnership, group, corporation, professional corporation or association, institution, agency, or other entity, public or private, that has been approved or seeks to be approved by the District of Columbia to provide medical assistance to recipients.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_11">
+      <akn:num>(11)</akn:num>
+      <akn:content><akn:p>“Provider agreement” means a contract executed by the District of Columbia and a provider pursuant to title 19 of the Social Security Act and which contract sets forth the rights, duties, and obligations of the parties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_12">
+      <akn:num>(12)</akn:num>
+      <akn:content><akn:p>“Provider” means an individual or entity furnishing services under a provider agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_13">
+      <akn:num>(13)</akn:num>
+      <akn:content><akn:p>“Recipient” means any individual who has been designated as eligible to receive or who receives any item or service under the District of Columbia Medicaid Program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_14">
+      <akn:num>(14)</akn:num>
+      <akn:content><akn:p>“Record” means any medical, professional, or business record relating to the care or treatment of a recipient which is maintained or required to be maintained by a provider.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-801_15">
+      <akn:num>(15)</akn:num>
+      <akn:content><akn:p>“Sign” means to affix a signature, directly or indirectly, by means of a handwriting, typewriter, signature stamp, computer impulse, or any other means.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-2904"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-2904/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_2904">
+        <akn:num>28-2904</akn:num>
+        <akn:heading>Evidence of appointment of incumbency.</akn:heading>
+<akn:subsection eId="subsec_28-2904_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>in the case of a fiduciary appointed or qualified by a court, a certificate issued by or under the direction or supervision of the court or an officer thereof, and dated within sixty days before the transfer; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-2904_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>in any other case, a copy of a document showing the appointment or a certificate issued by or on behalf of a person reasonably believed by the corporation or transfer agent to be responsible or, in the absence of such a document or certificate, other evidence reasonably deemed by the corporation or transfer agent to be appropriate. Corporations and transfer agents may adopt reasonable standards with respect to evidence of appointment or incumbency under this subsection. Neither the corporation nor transfer agent is charged with notice of the contents of any document obtained pursuant to this subsection except to the extent that the contents relate directly to the appointment or incumbency.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

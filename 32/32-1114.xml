@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1114"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1114/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1114">
+        <akn:num>32-1114</akn:num>
+        <akn:heading>Citations.</akn:heading>
+<akn:subsection eId="subsec_32-1114_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If, upon an inspection or investigation, the Mayor believes that an employer has violated a requirement of § 32-1103 or a rule or order promulgated pursuant to § 32-1108, § 32-1109, § 32-1110, or § 32-1111, the Mayor shall, after completion of the inspection or investigation, issue a citation to the employer in accordance with subsection (e) of this section. The citation shall be served on the employer in person or by certified mail. The Mayor may prescribe procedures for the issuance of a notice instead of a citation for minor violations that have no direct or immediate relationship to safety or health.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1114_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Each citation shall be in writing and describe with particularity the nature of the violation, including a reference to the provision of the act, rule, or order alleged to have been violated. The Mayor shall, by rule, prescribe reasonable time periods for the abatement of violations and each citation shall fix a time period for abatement in accordance with the rules. Each citation shall specify that the employer has 15 working days, excluding the date of receipt, Saturdays, Sundays, and legal holidays, to notify the Mayor that the employer intends to contest the citation, abatement period, or proposed penalty, if any.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1114_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a civil penalty is proposed to be assessed under § 32-1120, the Mayor shall, concurrently with the issuance of a citation, issue a notice including a reference to the provision of this chapter or rule identifying the proposed penalty and the amount of the proposed penalty.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1114_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Each citation issued under this section shall be prominently posted, as prescribed in rules issued by the Mayor, at or near each place of the violation referred to in the notice. Each citation shall be posted immediately upon issuance and, unless otherwise required by rule, shall remain posted until the violation has been abated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1114_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>No citation may be issued more than 3 months following the discovery of a violation by the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-651.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-651.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_651_06">
+        <akn:num>8-651.06</akn:num>
+        <akn:heading>Hazardous Trees.</akn:heading>
+<akn:subsection eId="subsec_8-651_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall prohibit the Mayor or a property owner from immediately removing a Hazardous Tree.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-651_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No property owner shall permit a tree or tree part, dead or alive, to stand on his or her property, including the public parking area associated with that property if it is a hazard to the public at-large, or endangers any public improvement or other public facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-651_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the Mayor identifies a tree hazard as described in subsection (b) of this section, the Mayor shall notify the property owner of the hazardous situation, and shall give the property owner not less than 10 days written notice, excluding Saturdays, Sundays, and legal holidays, to eliminate the hazard.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-651_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Where the District has notified a property owner of a hazard and no action is taken by the property owner to eliminate the hazard, the Mayor may take corrective action to abate the hazard. The Mayor shall then send the property owner a bill for the cost of the abatement action including any administrative costs incurred by the District. If the bill remains unpaid after [60 days], it shall become a tax lien against the property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

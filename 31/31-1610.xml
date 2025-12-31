@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1610"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1610/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1610">
+        <akn:num>31-1610</akn:num>
+        <akn:heading>Prohibition against discrimination in use of AIDS tests.</akn:heading>
+<akn:subsection eId="subsec_31-1610_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No insurer shall inquire about the sexual orientation  or gender identity or expression of an applicant in an application for health, life, or disability income insurance coverage or in an investigation conducted by an insurer or insurance support organization on behalf of an insurer in connection with an application for the coverage.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1610_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Sexual orientation or gender identity or expression, shall not be used as a factor in the underwriting process or in the determination of insurability.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1610_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Insurance support organizations shall be directed by insurers not to investigate, directly or indirectly, the sexual orientation or gender identity or expression of a proposed insured.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1610_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An insurance company shall not use sexual orientation, gender identity or expression, lifestyle, living arrangements, occupation, gender, or beneficiary designation to determine whether to test an individual who applies for life, health, or disability income insurance.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-803"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-803/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_803">
+        <akn:num>47-803</akn:num>
+        <akn:heading>Additional definitions.</akn:heading>
+<akn:subsection eId="subsec_47-803_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The term “condominium” means the ownership of a single dwelling unit in a horizontal property regime.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-803_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The term “cooperative housing association” means an association, whether incorporated or unincorporated, organized for the purpose of owning and operating residential real property in the District of Columbia, the shareholders or members of which, by reason of their ownership of a stock or membership certificate, a proprietary lease or other evidence of membership, are entitled to occupy a dwelling unit pursuant to the terms of a proprietary lease or occupancy agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-803_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The term “dwelling unit” means any room or group of rooms forming a single unit which is used or intended to be used for living, sleeping and the preparation and eating of meals, and which is located within a building which is wholly or partially used or intended to be used for living and sleeping by human occupants.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-803_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The term “horizontal property regime” shall have the meaning given that term by § 42-2003.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-803_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The term “nontransient” means occupancy of a dwelling unit or units by any person(s) for a period of more than 5 consecutive days during any 1 stay in such unit(s).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-803_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>The term “single family residential property” means real property improved by a dwelling unit which is used exclusively for nontransient residential purposes and which contains not more than 1 dwelling unit whether as a row, detached or semidetached structure, or as a single condominium unit within a horizontal property regime.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2029"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2029/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2029">
+        <akn:num>42-2029</akn:num>
+        <akn:heading>Subchapter interpreted to require compliance with all applicable laws; owners’ responsibilities for taxes; methods of collection; no effect on eminent domain.</akn:heading>
+<akn:subsection eId="subsec_42-2029_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This subchapter shall be interpreted in such a manner as to require each condominium unit and each horizontal property regime to be in compliance with all District of Columbia laws and regulations relating to property of like type, whether it be designed for residence, for office, for the operation of any industry or business, or for any other use. The owner of each condominium unit shall be responsible for the compliance of his unit with such laws and regulations, and the council of co-owners and any person designated by them to manage the regime shall be jointly and severally liable for compliance with all such laws and regulations in all matters relating to the common elements of the regime.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2029_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding any provision of this subchapter, the owner of each condominium unit shall have the same responsibility for the payment of all taxes, assessments, and other charges due to the District of Columbia as does any other person or property owner similarly situated.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2029_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Notwithstanding any provision of this subchapter, the method of enforcement available to the District of Columbia to collect any tax or assessment or any charge from any individual property owner or any building owner shall be available to collect taxes, assessments, and charges from individual condominium unit owners and from the council of co-owners.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2029_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing contained in this subchapter shall in any way be construed as affecting the right to institute and maintain eminent domain proceedings.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

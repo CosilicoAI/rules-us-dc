@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2397"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-2397/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_2397">
+        <akn:num>16-2397</akn:num>
+        <akn:heading>Interlocutory order of guardianship.</akn:heading>
+<akn:subsection eId="subsec_16-2397_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If it is in the child’s best interests, the court may enter an interlocutory guardianship order, which shall by its terms automatically become a guardianship order on a date therein named, not less than 6 months nor more than one year from the date of entry of the interlocutory order, unless in the interim the order shall have been set aside for cause shown.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2397_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The agency having responsibility for the child shall be permitted to visit the child during the period of the interlocutory order and may be ordered to provide services as specified in the interlocutory order.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-2397_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The court may revoke its interlocutory guardianship order, either on its own motion or on the motion of one of the parties, for good cause shown, at any time before it becomes a guardianship order if it is in the child’s best interests. Before the revocation, personal notice shall be given to the parties and an adjudicatory hearing shall be conducted pursuant to section 16-2388.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

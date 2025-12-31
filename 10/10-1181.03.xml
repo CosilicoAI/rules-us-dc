@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1181.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1181.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1181_03">
+        <akn:num>10-1181.03</akn:num>
+        <akn:heading>Cost of work performed by Department assessed against private structures in public space; costs of correcting life-or-health threatening condition.</akn:heading>
+<akn:subsection eId="subsec_10-1181_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a person to whom a notice was issued pursuant to this chapter fails to take the actions required under the notice or to show good cause to the Director why such actions need not be taken, the Director may correct the condition, assess the fair market value of the correction or the actual cost of the correction, whichever is higher, and all expenses incident thereto, including the cost of publication, as a tax against the property which the condition abuts. The tax shall be carried on the regular tax rolls of the District and may be collected in the same manner as general taxes in the District are collected.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1181_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any tax authorized to be levied and collected under subsection (a) of this section may be paid without interest within 60 days from the date such tax was levied. Interest of 20% per annum shall be charged on all unpaid amounts from the expiration of 60 days from the date the tax was levied. The tax may be paid in 3 equal installments, with interest. If the tax or part of the tax shall remain unpaid after the expiration of 2 years from the date the tax was levied, the property against which the tax was levied may be sold for the tax or the unpaid portion of the tax, with interest and penalties, at the next ensuing annual tax sale conducted pursuant to § 47-1301 in the same manner and under the same conditions as property sold for delinquent general real estate taxes, if the tax with interest and penalties is not paid in full prior to the sale.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

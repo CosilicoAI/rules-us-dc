@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1602"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1602/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1602">
+        <akn:num>2-1602</akn:num>
+        <akn:heading>Persons who may be represented; appointment of private attorneys; determination of financial eligibility.</akn:heading>
+<akn:subsection eId="subsec_2-1602_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1602_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Service shall establish and coordinate the operation of an effective and adequate system for appointment of private attorneys to represent persons described in subsection (a) of this section, but the courts shall have final authority to make such appointments. The Service shall report to the courts at least quarterly on matters relating to the operation of the appointment system and shall consult with the courts on the need for modifications and improvements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1602_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Upon approval of its Board of Trustees, the Service may perform such other functions as are necessary and appropriate to the duties described above.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1602_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The determination whether a person is financially unable to obtain adequate representation shall be based on information provided by the person to be represented and such other persons or agencies as the court in its discretion shall require. Whoever in providing this information knowingly falsifies, conceals, or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious, or fraudulent statement or representation, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

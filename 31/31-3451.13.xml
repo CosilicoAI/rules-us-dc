@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3451.13"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3451.13/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3451_13">
+        <akn:num>31-3451.13</akn:num>
+        <akn:heading>Transition.</akn:heading>
+<akn:subsection eId="subsec_31-3451_13_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>In the event of a Company Action Level Event with respect to a domestic health organization, the Commissioner shall take no regulatory action under this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_13_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>In the event of a Regulatory Action Level Event as defined under § 31-3451.01(19)(A) through (C), the Commissioner shall take the actions required under § 31-3451.03.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_13_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>In the event of a Regulatory Action Level Event as defined under § 31-3451.01(19)(D) through (I), or an Authorized Control Level Event, the Commissioner shall take the action required under § 31-3451.04 with respect to the health organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3451_13_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>In the event of a Mandatory Control Level Event, the Commissioner shall take the action required under § 31-3451.05.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

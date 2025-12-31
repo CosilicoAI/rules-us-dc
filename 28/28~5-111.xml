@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:5-111"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:5-111/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:5_111">
+        <akn:num>28:5-111</akn:num>
+        <akn:heading>Remedies.</akn:heading>
+<akn:subsection eId="subsec_28:5-111_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If an issuer wrongfully dishonors or repudiates its obligation to pay money under a letter of credit before presentation, the beneficiary, successor, or nominated person presenting on its own behalf may recover from the issuer the amount that is the subject of the dishonor or repudiation. If the issuer’s obligation under the letter of credit is not for the payment of money, the claimant may obtain specific performance or, at the claimant’s election, recover an amount equal to the value of performance from the issuer. In either case, the claimant may also recover incidental but not consequential damages. The claimant is not obligated to take action to avoid damages that might be due from the issuer under this subsection. If, although not obligated to do so, the claimant avoids damages, the claimant’s recovery from the issuer must be reduced by the amount of damages avoided. The issuer has the burden of proving the amount of damages avoided. In the case of repudiation the claimant need not present any document.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:5-111_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an issuer wrongfully dishonors a draft or demand presented under a letter of credit or honors a draft or demand in breach of its obligation to the applicant, the applicant may recover damages resulting from the breach, including incidental but not consequential damages, less any amount saved as a result of the breach.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:5-111_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an adviser or nominated person other than a confirmer breaches an obligation under this article or an issuer breaches an obligation not covered in subsection (a) or (b) of this section, a person to whom the obligation is owed may recover damages resulting from the breach, including incidental but not consequential damages, less any amount saved as a result of the breach. To the extent of the confirmation, a confirmer has the liability of an issuer specified in this subsection and subsections (a) and (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:5-111_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An issuer, nominated person, or adviser who is found liable under subsection (a), (b), or (c) of this section shall pay interest on the amount owed thereunder from the date of wrongful dishonor or other appropriate date.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:5-111_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Reasonable attorney’s fees and other expenses of litigation must be awarded to the prevailing party in an action in which a remedy is sought under this article.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:5-111_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Damages that would otherwise be payable by a party for breach of an obligation under this article may be liquidated by agreement or undertaking, but only in an amount or by a formula that is reasonable in light of the harm anticipated.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

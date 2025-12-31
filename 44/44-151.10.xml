@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-151.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-151.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_151_10">
+        <akn:num>44-151.10</akn:num>
+        <akn:heading>Right to organization.</akn:heading>
+<akn:subsection eId="subsec_44-151_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A resident living in a facility registered under this chapter has the right of self-organization, the right to be represented by an individual of the resident’s own choosing, and the right to engage in concerted activities to keep informed on the operation of the facility in which he or she is a resident or for other mutual aid or protection. Responsible family members and legal guardians of residents in the assisted living and nursing components have the same rights of organization.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The facility shall provide space and other appropriate accommodations, including heat, light, and furnishings, for residents’ organizations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The board of directors or other governing body of a continuing care facility or its designated representative shall hold annual meetings with the residents of the continuing care facility for free discussions of subjects including income, expenditures, and financial trends and problems as they apply to the facility and discussions of proposed changes in policies, programs, and services. Residents and guardians, legal representatives, or designees of residents shall be entitled to at least 7 days advance notice of each meeting. Residents in the assisted living and nursing components shall receive these notices, which also shall be sent to the legal guardians or responsible family members. An agenda and any materials that shall be distributed by the governing body at the meetings shall remain available upon request to residents and to guardians, legal representatives, or designees of residents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-151_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A provider that has a governing body shall include at least one resident as a full and regular member of the governing body who shall be selected by vote of the residents of the facility.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

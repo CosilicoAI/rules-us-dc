@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1373.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1373.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1373_09">
+        <akn:num>31-1373.09</akn:num>
+        <akn:heading>Securities lending, repurchase, reverse repurchase and dollar roll transactions.</akn:heading>
+<akn:subsection eId="subsec_31-1373_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An insurer may enter into securities lending, repurchase, reverse repurchase, and dollar roll transactions with business entities, subject to the requirements of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1373_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The insurer’s board of directors shall adopt a written plan that is consistent with the requirements of the written plan in § 31-1371.04(a) that specifies guidelines and objectives to be followed, such as:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1373_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The insurer shall enter into a written agreement for all transactions authorized in this section other than dollar roll transactions. The written agreement shall require that each transaction terminate no more than one year from its inception or upon the earlier demand of the insurer. The agreement shall be with the business entity counterparty; provided, that for securities lending transactions, the agreement may be with an agent acting on behalf of the insurer if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1373_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Cash received in a transaction under this section shall be invested in accordance with this chapter and in a manner that recognizes the liquidity needs of the transaction or used by the insurer for its general corporate purposes. As long as the transaction remains outstanding, the insurer, its agent, or custodian shall maintain, as to acceptable collateral received in a transaction under this section, either physically or through the book entry systems of the Federal Reserve, Depository Trust Company, Participants Trust Company, or other securities depositories approved by the Commissioner:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1373_09_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The limitations of §§ 31-1373.03 and 31-1373.10 shall not apply to the business entity counterparty exposure created by transactions under this section. For purposes of calculations made to determine compliance with this subsection, no effect shall be given to the insurer’s future obligation to resell securities in the case of a repurchase transaction or to repurchase securities in the case of a reverse repurchase transaction. An insurer shall not enter into a transaction under this section if, as a result of and after giving effect to the transaction:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1373_09_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>In a securities lending transaction, the insurer shall receive acceptable collateral having a market value as of the transaction date at least equal to 102% of the market value of the securities loaned by the insurer in the transaction as of that date. If at any time the market value of the acceptable collateral is less than the market value of the loaned securities, the business entity counterparty shall be obligated to deliver additional acceptable collateral, the market value of which, together with the market value of all acceptable collateral held in connection with the transaction, at least equals 102% of the market value of the loaned securities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1373_09_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>In a reverse repurchase transaction, other than a dollar roll transaction, the insurer shall receive acceptable collateral having a market value as of the transaction date at least equal to 95% of the market value of the securities transferred by the insurer in the transaction as of that date. If at any time the market value of the acceptable collateral is less than 95% of the market value of the securities transferred, the business entity counterparty shall be obligated to deliver additional acceptable collateral, the market value of which, together with the market value of all acceptable collateral held in connection with the transaction, equals at least 95% of the market value of the transferred securities.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1373_09_h">
+      <akn:num>(h)</akn:num>
+      <akn:content><akn:p>In a dollar roll transaction, the insurer shall receive cash in an amount at least equal to the market value of the securities transferred by the insurer in the transaction as of the transaction date.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1373_09_i">
+      <akn:num>(i)</akn:num>
+      <akn:content><akn:p>In a repurchase transaction, the insurer shall receive as acceptable collateral transferred securities having a market value at least equal to 102% of the purchase price paid by the insurer for the securities. If at any time the market value of the acceptable collateral is less than 100% of the purchase price paid by the insurer, the business entity counterparty shall be obligated to provide additional acceptable collateral, the market value of which, together with the market value of all acceptable collateral held in connection with the transaction, equals at least 102% of the purchase price. Securities acquired by an insurer in a repurchase transaction shall not be sold in a reverse repurchase transaction, loaned in a securities lending transaction, or otherwise pledged.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

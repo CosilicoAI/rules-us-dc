@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1210"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1210/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1210">
+        <akn:num>42-1210</akn:num>
+        <akn:heading>Fees of Recorder of Deeds.</akn:heading>
+<akn:subsection eId="subsec_42-1210_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The legal fees for the services of the Recorder shall be as follows:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1210_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In addition to the fees herein required, all corporations hereafter incorporated in the District of Columbia shall pay to the Recorder of Deeds at the time of the filing of the certificate of incorporation $.50 on each $1,000 of the amount of capital stock of the corporation as set forth in its said certificate; provided, however, that the fee so paid shall not be less than $50; provided further, that the Recorder of Deeds shall not file or record any certificate of organization of any incorporation until it has been proved to his satisfaction that all the capital stock of said company has been subscribed for in good faith, and not less than 10% of the par value of the stock has been actually paid in cash, and the money derived therefrom is then in the possession of the persons named as the first board of trustees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1210_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to fees otherwise provided for, the Recorder of Deeds shall charge and collect the following fees:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-538"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-538/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_538">
+        <akn:num>2-538</akn:num>
+        <akn:heading>Oversight of disclosure activities.</akn:heading>
+<akn:subsection eId="subsec_2-538_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>On or before February 1 of each year, the Mayor shall request from each public body and submit to the Council, a report covering the public-record-disclosure activities of each public body during the preceding fiscal year. The report shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-538_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall make these reports available to the public on the Internet or by other electronic means.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-538_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Corporation Counsel shall submit an annual report on or before February 1 of each calendar year, which shall include for the prior fiscal year, a listing of the number of cases arising under this section, the exemption involved in each case, the disposition of the case, and the costs assessed pursuant to § 2-537(c).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-538_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Each public body subject to the provisions of this subchapter shall designate a Freedom of Information Officer. As of November 1, 2001, the Mayor shall provide to these officers on their appointment a minimum of 8 hours of training regarding implementation and compliance with this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

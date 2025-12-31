@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.56a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.56a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_56a">
+        <akn:num>1-204.56a</akn:num>
+        <akn:heading>Performance and accountability plan.</akn:heading>
+<akn:subsection eId="subsec_1-204_56a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Submission of annual plan. — Concurrent with the submission of the District of Columbia budget to Congress each year (beginning with 2001), the Mayor shall develop and submit to the Committee on Government Reform and Oversight of the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committees on Appropriations of the House of Representatives and the Senate, and the Comptroller General a performance accountability plan for all departments, agencies, and programs of the government of the District of Columbia for the subsequent fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_56a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Contents of plan. — The performance accountability plan for a fiscal year shall contain the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_56a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Description of activities subject to court order. — In addition to the material included in the performance accountability plan for a fiscal year under subsection (b) of this section, the plan shall include a description of the activities of the government of the District of Columbia that are subject to a court order during the fiscal year and the requirements placed on such activities by the court order.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

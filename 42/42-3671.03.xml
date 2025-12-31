@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3671.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3671.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3671_03">
+        <akn:num>42-3671.03</akn:num>
+        <akn:heading>General requirements of disclosures.</akn:heading>
+<akn:subsection eId="subsec_42-3671_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The lessor shall disclose to the consumer the information required by § 42-3671.04. In a transaction involving more than one lessor, only one lessor need make the disclosures, but all lessors shall be bound by the disclosures.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3671_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The disclosures shall be made at or before consummation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3671_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The disclosures shall be made clearly and conspicuously in writing and a copy of the lease-purchase agreement shall be provided to the consumer. The disclosures required under § 42-3671.04 shall be made on the face of the contract above the line for the consumer’s signature.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3671_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If a disclosure becomes inaccurate as the result of an action, occurrence, or agreement by the consumer after delivery of the required disclosures, the resulting inaccuracy shall not be a violation of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3671_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The lease-purchase agreement shall include a statement indicating all fees that are charged under the lease-purchase agreement separately, including any other charges such as taxes, late payment fees, default fees, processing fees, pickup fees, fees for optional services or products, or reinstatement fees.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

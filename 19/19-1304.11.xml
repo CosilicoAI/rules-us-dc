@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1304.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-1304.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_1304_11">
+        <akn:num>19-1304.11</akn:num>
+        <akn:heading>Modification or termination of noncharitable irrevocable trust by consent.</akn:heading>
+<akn:subsection eId="subsec_19-1304_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A noncharitable irrevocable trust may be modified or terminated upon consent of the settlor and all beneficiaries, even if the modification or termination is inconsistent with a material purpose of the trust. A settlor’s power to consent to a trust’s modification or termination may be exercised by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1304_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A noncharitable irrevocable trust may be terminated upon consent of all of the beneficiaries if the court concludes that continuance of the trust is not necessary to achieve any material purpose of the trust. A noncharitable irrevocable trust may be modified upon consent of all of the beneficiaries if the court concludes that modification is not inconsistent with a material purpose of the trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1304_11_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A spendthrift provision in the terms of the trust is not presumed to constitute a material purpose of the trust.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1304_11_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon termination of a trust under subsection (a) or (b) of this section, the trustee shall distribute the trust property as agreed by the beneficiaries:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-1304_11_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If not all of the beneficiaries consent to a proposed modification or termination of the trust under subsection (a) or (b) of this section, the modification or termination may be approved by the court if the court is satisfied that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

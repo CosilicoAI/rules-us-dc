@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-331.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-331.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_331_04">
+        <akn:num>5-331.04</akn:num>
+        <akn:heading>Reasonable time, place, and manner restrictions on First Amendment assemblies.</akn:heading>
+<akn:subsection eId="subsec_5-331_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The MPD shall recognize and implement the District policy on First Amendment assemblies established in § 5-331.03 when enforcing any restrictions on First Amendment assemblies held on District streets, sidewalks, or other public ways, or in District parks.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-331_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The MPD may enforce reasonable time, place, and manner restrictions on First Amendment assemblies by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-331_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No time, place, or manner restriction regarding a First Amendment assembly shall be based on the content of the beliefs expressed or anticipated to be expressed during the assembly, or on factors such as the attire or appearance of persons participating or expected to participate in an assembly, nor may such restrictions favor non-First Amendment activities over First Amendment activities.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

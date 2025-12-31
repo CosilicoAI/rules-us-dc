@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3430"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3430/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3430">
+        <akn:num>31-3430</akn:num>
+        <akn:heading>Insolvency protection; assessment.</akn:heading>
+<akn:subsection eId="subsec_31-3430_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>When a health maintenance organization in the District is declared insolvent by a court of competent jurisdiction, the Commissioner may levy an assessment on health maintenance organizations doing business in the District to pay claims for uncovered expenditures for enrollees who are residents of the District and to provide continuation of coverage for enrollees not covered under § 31-3414. The Commissioner may not assess in any one calendar year more than 2% of the aggregate premium written by each health maintenance organization in the District the prior calendar year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3430_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commissioner may use funds obtained under subsection (a) of this section to pay claims for uncovered expenditures for enrollees of an insolvent health maintenance organization who are residents of the District, provide for continuation of coverage for enrollees who are residents of the District and are not covered under § 31-3414, and administrative costs. The Commissioner may by regulation prescribe the time, manner, and form for filing claims under this section, or may require claims to be allowed by an ancillary receiver or the domestic liquidator or receiver.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3430_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A receiver or liquidator of an insolvent health maintenance organization shall allow a claim in the proceeding in an amount equal to administrative and uncovered expenditures paid under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3430_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When assessed funds are unused following the completion of the liquidation of a health maintenance organization, the Commissioner will distribute on a pro rata basis any amounts received under subsection (a) of this section which are not de minimus to the health maintenance organizations which have been assessed under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3430_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The aggregate coverage of uncovered expenditures under this section shall not exceed $300,000 with respect to any one individual. Continuation of coverage shall not continue for more than the lesser of 1 year after the health maintenance organization coverage is terminated by insolvency or the remaining term of the contract. The Commissioner may provide continuation of coverage on any reasonable basis, including, but not limited to, continuation of the health maintenance organization contract or substitution of indemnity coverage in a form determined by the Commissioner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3430_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The Commissioner may waive an assessment of any health maintenance organization if it would be or is impaired or placed in financially hazardous condition. A health maintenance organization which fails to pay an assessment within 30 days after notice is subject to a civil forfeiture of not more than $1,000 per day or suspension or revocation of its certificate of authority, or both. Any action taken by the Commissioner in enforcing the provisions of this section may be appealed by the health maintenance organization in accordance with the DCAPA.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

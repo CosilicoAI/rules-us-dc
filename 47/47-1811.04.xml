@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1811.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1811.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1811_04">
+        <akn:num>47-1811.04</akn:num>
+        <akn:heading>Bases — Determination of depreciation deduction.</akn:heading>
+<akn:subsection eId="subsec_47-1811_04_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The amount of the special depreciation allowance under section 168(k) of the Internal Revenue Code of 1986 [26 U.S.C. § 168(k)]; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1811_04_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The amount of the cost of property elected to be treated as chargeable to capital account under section 179 of the Internal Revenue Code of 1986 [26 U.S.C. § 179] in excess of the lesser of $25,000 ($40,000 in the case of a Qualified High Technology Company) or the actual cost of such property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-224.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-224.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_224_01">
+        <akn:num>46-224.01</akn:num>
+        <akn:heading>Interception of lottery prizes for delinquent child support payments.</akn:heading>
+<akn:subsection eId="subsec_46-224_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In the case of orders being enforced by the IV-D agency, the Mayor may intercept a lottery prize winning, including a lump sum or periodic payment that is derived from a previously claimed prize, of an individual who owes delinquent support, as defined in section 466(e) of the Social Security Act, approved August 16, 1984 (98 Stat. 1310; 42 U.S.C. § 666(e)).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-224_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Prior to interception of an individual’s lottery prize winnings, the Mayor shall provide notice to the lottery prize winner of the pending interception of the lottery prize winnings and of the opportunity to contest the interception of the lottery prize winnings.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

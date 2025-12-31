@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1409"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1409/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_1409">
+        <akn:num>5-1409</akn:num>
+        <akn:heading>Examination; further investigation and autopsy.</akn:heading>
+<akn:subsection eId="subsec_5-1409_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If, in the opinion of the CME, the cause and manner of death are established with a reasonable medical certainty, the CME shall complete a report of the medical examination of the decedent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1409_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If, in the opinion of the CME, or the United States Attorney, further investigation as to the cause or manner of death is required or the public interest so requires, a medical examiner shall either perform, or the CME shall arrange for a qualified pathologist to perform, an autopsy on the body of the decedent and to retain tissues and biological specimens deemed necessary to an investigation. No consent of the next of kin shall be required for an autopsy to be performed under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1409_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The medical examiner performing the autopsy shall make a complete record of the findings and conclusions of any autopsy and shall prepare a report thereon.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4602.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4602.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4602_02">
+        <akn:num>16-4602.02</akn:num>
+        <akn:heading>Exclusive, continuing jurisdiction.</akn:heading>
+<akn:subsection eId="subsec_16-4602_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 16-4602.04, a court of the District which has made a child-custody determination consistent with §§ 16-4602.01 or 16-4602.03 has exclusive, continuing jurisdiction over the determination until:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4602_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A court of the District which has made a child-custody determination and does not have exclusive, continuing jurisdiction under this section may modify that determination only if it has jurisdiction to make an initial determination under § 16-4602.01.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

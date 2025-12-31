@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-614.14"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-614.14/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_614_14">
+        <akn:num>1-614.14</akn:num>
+        <akn:heading>Development of plans and reports.</akn:heading>
+<akn:subsection eId="subsec_1-614_14_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Agencies of the District of Columbia shall develop the performance plans and performance reports that are submitted by January 1, 1996, January 1, 1997, and succeeding years in consultation with the Office of the District of Columbia Auditor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-614_14_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall order that the District of Columbia Office of Personnel amend its management and personnel laws and regulations to be in conformance with the provisions of this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-614_14_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Office of the District of Columbia Auditor shall conduct an audit of selected performance measures presented in performance reports of certain agencies each fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-614_14_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The District may invite outside review of the process and the indicators upon the submission of the first performance plan and performance report to obtain recommendations concerning the process and the indicators, and after the initial review, on a biannual basis.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

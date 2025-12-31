@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-608.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-608.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_608_01">
+        <akn:num>29-608.01</akn:num>
+        <akn:heading>Events causing dissolution and winding up of partnership business.</akn:heading>
+<akn:subsection eId="subsec_29-608_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>In a partnership at will, the partnership’s having notice from a partner, other than a partner that is dissociated under § 29-606.01(2) through (10), of that partner’s express will to withdraw as a partner, or on a later date specified by the partner;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-608_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>In a partnership for a definite term or particular undertaking:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-608_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>An event agreed to in the partnership agreement resulting in the winding up of the partnership activities and affairs;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-608_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>An event that makes it unlawful for all or substantially all of the business of the partnership to be continued, but a cure of illegality within 90 days after notice to the partnership of the event shall be effective retroactively to the date of the event for purposes of this section;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-608_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>On application by a partner, a judicial determination that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-608_01_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>On application by a transferee of a partner’s transferable interest, a judicial determination that it is equitable to wind up the partnership activities and affairs:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-608_01_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>The passage of 90 consecutive days during which the partnership does not have at least 2 partners.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

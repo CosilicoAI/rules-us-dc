@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3011"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3011/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3011">
+        <akn:num>31-3011</akn:num>
+        <akn:heading>Conditions for discontinuance of class of health insurance policies.</akn:heading>
+<akn:subsection eId="subsec_31-3011_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If an insurer decides to discontinue a particular class of group, or blanket policy of, hospital, surgical, or medical expense insurance offered in the small or large group market, the policy of the class may be discontinued by the insurer only if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3011_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If an insurer discontinues a particular class of group, or blanket policy of, hospital, surgical, or medical expense insurance offered in the small or large group market, other than where the Commissioner authorizes the discontinuance, the insurer shall be liable to the former holder or beneficiary of such policy, or to his or her estate, for compensatory damages arising from the discontinuance, plus costs and reasonable attorneys’ fees, in an action which shall be commenced no later than 3 years after the date of the discontinuance. In any such action, the court may grant such injunctive relief as the court may consider proper.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3011_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If major medical insurance or insurance providing major medical type benefits is discontinued, the Commissioner shall order that an extended benefit shall be provided during total disability, with respect to the sickness, injury, or pregnancy which caused the disability, of at least 18 months subsequent to the discontinuance of the insurance unless similar coverage is afforded for the total disability under another group plan.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

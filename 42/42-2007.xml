@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2007"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2007/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2007">
+        <akn:num>42-2007</akn:num>
+        <akn:heading>Indivisibility of common elements; limitation upon partition; exception thereto.</akn:heading>
+<akn:subsection eId="subsec_42-2007_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The common elements, both general and limited, shall remain undivided. No unit owner, or any other person, shall bring any action for partition or division of the co-ownership permitted under § 93, and related provisions, of the Act of March 3, 1901 (31 Stat. 1203), as amended by the Act of June 30, 1902 (32 Stat. 523, ch. 1329), against any other owner or owners of any interest or interests in the same horizontal property regime so as to terminate the regime.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2007_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing contained in this section shall be construed as a limitation on partition by the owners of 1 or more units in a regime as to the individual ownership of such unit or units without terminating the regime or as to the ownership of property outside the regime; provided, that upon partition of any such individual unit the same shall be sold as an entity and shall not be partitioned in kind.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

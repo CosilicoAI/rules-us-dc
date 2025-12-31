@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-754.38"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-754.38/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_754_38">
+        <akn:num>4-754.38</akn:num>
+        <akn:heading>Emergency transfers of clients; emergency suspensions and terminations of services.</akn:heading>
+<akn:subsection eId="subsec_4-754_38_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Whenever a client presents an imminent threat to the health or safety of the client or any other person on a provider’s premises, the provider, in light of the severity of the act or acts leading to the imminent threat, may immediately transfer, suspend, or terminate the client, without providing prior written notice of the transfer, suspension, or termination as required by § 4-754.33(c).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-754_38_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The provider shall endeavor to provide written notice, consistent with the requirements of § 4-754.33(d), to any client transferred, suspended, or terminated pursuant to subsection (a) of this section at the time that the action is taken. If it is not possible or safe to provide written notice at the time of the action, a subsequent written notice shall be provided to the client within 15 days, or, if the client’s whereabouts are unknown, upon request within 90 days of the transfer, suspension, or termination. The time period during which the client may request fair hearing proceedings to appeal the transfer, suspension, or termination pursuant to § 4-754.41 shall not begin until the client has received the subsequent written notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-754_38_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>No client transferred, suspended, or terminated pursuant to subsection (a) of this section shall have the right to request mediation of the action from the provider pursuant to § 4-754.39 or to continue to receive shelter or supportive housing services without change pending appeal pursuant to § 4-754.11(a)(18).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-754_38_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Whenever a provider transfers, suspends, or terminates a client pursuant to subsection (a) of this section, the provider shall immediately notify the Department of the action. The notification shall include the following information:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-754_38_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Whenever the Department receives a notification pursuant to subsection (d) of this section, the Department shall issue a written finding of whether the emergency transfer, suspension, or termination order complies with the requirements of this section. The notification shall be issued within 24 hours of receipt of the notification by the Department. If the Department finds that the order was improperly issued, the Department shall reinstate the client’s access to the services received prior to the issuance of the order, pending the outcome of a hearing pursuant to §§ 4-754.41 and 4-754.42.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

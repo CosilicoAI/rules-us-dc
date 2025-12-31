@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1121"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-1121/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_1121">
+        <akn:num>42-1121</akn:num>
+        <akn:heading>Illegal acts relating to stamps and other devices; penalties.</akn:heading>
+<akn:subsection eId="subsec_42-1121_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>With intent to defraud, alters, forges, makes, or counterfeits any stamp, or other device prescribed under authority of this chapter for the collection or payment of any tax imposed by this chapter, or sells, lends, or has in his possession any such altered, forged, or counterfeited stamp, or other device, or makes, uses, sells, or has in his possession any material in imitation of the material used in the manufacture of such stamp, or other device; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1121_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Fraudulently cuts, tears, or removes from any deed, parchment, paper, instrument, writing, or article, upon which any tax is imposed by this chapter, any adhesive stamp or the impression of any stamp, die, plate, or other article provided, made, or used in pursuance of this chapter; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1121_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Fraudulently uses, joins, fixes, or places to, with, or upon any deed, parchment, paper, instrument, writing, or article, upon which a tax is imposed by this chapter:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-1121_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

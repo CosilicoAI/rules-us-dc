@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1131.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1131.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1131_09">
+        <akn:num>7-1131.09</akn:num>
+        <akn:heading>Appointment and duties of Consumer and Family Affairs Officer.</akn:heading>
+<akn:subsection eId="subsec_7-1131_09_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Ensuring the involvement of consumers of mental health services and their family members in the design, implementation, and evaluation of mental health services and mental health supports;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1131_09_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Serving as a liaison to consumers of mental health services and their family members and personal representatives; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1131_09_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Promoting the protection of the rights of consumers of mental health services.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

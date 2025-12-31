@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-909"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-909/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_909">
+        <akn:num>25-909</akn:num>
+        <akn:heading>Refund of tax erroneously or illegally collected.</akn:heading>
+<akn:subsection eId="subsec_25-909_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If any tax has been erroneously or illegally collected by the District, the tax shall be refunded if application under oath is filed with the OTR Director for such refund within 3 years from the payment of the tax.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-909_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The application shall be made by the person upon whom the tax was imposed and who has actually paid the tax.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-909_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Application for a refund under this section shall be deemed an application for a revision of tax, penalty, or interest and the OTR Director may receive evidence on the application. After making a determination of whether the refund shall be made, the OTR Director shall notify the applicant of the determination.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

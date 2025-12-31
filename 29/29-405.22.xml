@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-405.22"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-405.22/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_405_22">
+        <akn:num>29-405.22</akn:num>
+        <akn:heading>Proxies.</akn:heading>
+<akn:subsection eId="subsec_29-405_22_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in the articles of incorporation or bylaws, a member may vote in person or by proxy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_22_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A member or the member’s agent or attorney-in-fact may appoint a proxy to vote or otherwise act for the member by signing an appointment form in the form of a record. An appointment form shall contain or be accompanied by information from which it can be determined that the member or the member’s agent or attorney-in-fact authorized the appointment of the proxy.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_22_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An appointment of a proxy shall be effective when a signed appointment in the form of a record is received by the inspectors of election, the officer or agent of the membership corporation authorized to tabulate votes, or the secretary. An appointment shall be valid for 11 months unless a longer period, which may not exceed 3 years, is expressly provided in the appointment form.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_22_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The death or incapacity of the member appointing a proxy shall not affect the right of the membership corporation to accept the proxy’s authority unless notice of the death or incapacity is received by the inspectors of election, the officer or agent authorized to tabulate votes, or the secretary before the proxy exercises his authority under the appointment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-405_22_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Subject to § 29-405.23 and to any express limitation on the proxy’s authority stated in the appointment form, a membership corporation may accept the proxy’s vote or other action as that of the member making the appointment.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

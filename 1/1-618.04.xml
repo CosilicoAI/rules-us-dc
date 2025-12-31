@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-618.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-618.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_618_04">
+        <akn:num>1-618.04</akn:num>
+        <akn:heading>Prohibition on nepotism.</akn:heading>
+<akn:subsection eId="subsec_1-618_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A public official may not appoint, employ, promote, advance, or advocate for appointment, employment, promotion, or advancement, in or to a position in the agency in which he or she is serving or over which he or she exercises jurisdiction or control, any individual who is a relative of the public official. An individual may not be appointed, employed, promoted, or advanced in or to a position in an agency if such appointment, employment, promotion, or advancement has been advocated by a public official who is serving in or exercising jurisdiction or control over the agency and is a relative of the individual.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-618_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-618_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may issue rules and regulations authorizing the temporary employment, in the event of emergencies resulting from natural disasters or similar unforeseen events or circumstances, of individuals whose employment would otherwise be prohibited by this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-618_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>For the purpose of this section, the term:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

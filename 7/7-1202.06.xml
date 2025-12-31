@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1202.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1202.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1202_06">
+        <akn:num>7-1202.06</akn:num>
+        <akn:heading>Authority of mental health professional to limit authorized disclosures.</akn:heading>
+<akn:subsection eId="subsec_7-1202_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The mental health professional primarily responsible for the diagnosis or treatment of a client may refuse to disclose or limit disclosure of the client’s mental health information even though such mental health information is disclosable by virtue of a valid authorization; provided, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1202_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the event the disclosure is limited by the mental health professional pursuant to subsection (a) of this section, the person or persons who authorized the disclosure may designate an independent mental health professional who shall be in substantially the same or greater professional class as the mental health professional who initially limited disclosure and who shall be permitted to review the client’s record of mental health information. The independent mental health professional may authorize disclosure in whole or in part if, after a complete review of the client’s record of mental health information, the independent mental health professional determines that the disclosure does not pose to the client a substantial risk of imminent psychological impairment or pose a substantial risk of imminent and serious physical injury to the client or another individual.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1202_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person who has taken action to achieve disclosure in accordance with subsection (b) of this section may institute an action in the Superior Court of the District of Columbia to compel the disclosure of all or any part of the record of the client’s mental health information which was not disclosed by the mental health professionals. An action instituted under this subsection shall be brought within 6 months of the denial, in whole or in part, of the disclosure by the independent mental health professional or the denial, in whole or in part, of disclosure to the independent mental health professional by the mental health professional. In the event that a person is indigent and is unable to obtain the services of an independent mental health professional, he may institute an action in the Superior Court of the District of Columbia, without regard to the provisions of subsection (b) of this section; provided, that the action is brought within 6 months of the denial, in whole or in part, of the disclosure by the mental health professional. If the person who instituted the action establishes that he executed a valid authorization which was transmitted to the mental health professional prior to the denial of disclosure by such mental health professional, the burden of proof shall then be placed upon the mental health professional to establish, by a preponderance of the evidence, that the denial of disclosure was in conformity with paragraphs (1) and (2) of subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1202_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Any refusal or limitation on disclosure shall be noted in the client’s record of mental health information including, but not limited to, the names of the mental health professionals involved, the date of the refusal or limitation, the requested disclosure and the actual disclosure, if any.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1202_06_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>This section shall not apply to disclosures under § 21-562 (concerning the disclosure of records of a client hospitalized in a public hospital for a mental illness) or court-related disclosures under subchapter IV of this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

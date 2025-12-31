@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-408"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-408/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_408">
+        <akn:num>8-408</akn:num>
+        <akn:heading>Application of this subchapter to governmental entities and public applicators.</akn:heading>
+<akn:subsection eId="subsec_8-408_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided, all District and other governmental agencies shall be subject to the provisions of this subchapter and to all rules and regulations promulgated pursuant thereto concerning the application of pesticides.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-408_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Public applicators for District and other governmental agencies shall be subject to examination (as provided for in § 8-403) and to the licensing provisions of § 8-404. The Mayor shall issue a limited license to each qualified public applicator. No fee shall be charged for the issuance of such a license to an employee of the District. The public applicator license shall be valid only when the licensee is engaged as an applicator in using or supervising the use of pesticides by District and other governmental agencies on lands owned or rented by such agencies or is acting within the scope of his employment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-408_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>District and other governmental agencies employing pesticide applicators shall not be subject to the financial responsibility requirements of § 8-407.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

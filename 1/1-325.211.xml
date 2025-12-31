@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.211"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.211/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_211">
+        <akn:num>1-325.211</akn:num>
+        <akn:heading>Neighborhood Parade and Festival Fund established.</akn:heading>
+<akn:subsection eId="subsec_1-325_211_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a nonlapsing fund the Neighborhood Parade and Festival Fund (“Fund”), which shall be administered by the Commission on Arts and Humanities, to be used for the purposes set forth in subsection (c) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_211_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_211_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Fund shall be used for parades, festivals, and any other celebrations sponsored by a neighborhood or civic association.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_211_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Commission on Arts and Humanities is authorized to make grants for the purposes described in this section. Grants made under this section shall be administered pursuant to the requirements set forth in part B of subchapter XII-A of this chapter [§ 1-328.11 et seq.].</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

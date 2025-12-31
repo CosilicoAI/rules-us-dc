@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3410"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-3410/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_3410">
+        <akn:num>47-3410</akn:num>
+        <akn:heading>Effect of District of Columbia Tax Enforcement Act of 1982.</akn:heading>
+<akn:subsection eId="subsec_47-3410_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If any provision of the District of Columbia Tax Enforcement Act of 1982, including any amendment made by the District of Columbia Tax Enforcement Act of 1982, or the application thereof to any person or circumstance, is held invalid, the remainder of the District of Columbia Tax Enforcement Act of 1982, including the remaining amendments, and the application of such provisions to other persons or circumstances shall not be affected thereby.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3410_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The repeal or amendment by the District of Columbia Tax Enforcement Act of 1982 of any provision of law shall not affect any act done or any right accrued or accruing under such provision of law before July 24, 1982, or any suit or proceeding had or commenced before July 24, 1982, but all such rights and liabilities under such acts shall continue and may be enforced in the same manner and to the same extent, as if such repeal or amendment had not been made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-3410_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All offenses committed, and all penalties incurred, prior to July 24, 1982, under any provisions of law repealed or amended, may be prosecuted and punished in the same manner and with the same effect as if the District of Columbia Tax Enforcement Act of 1982 had not been enacted.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

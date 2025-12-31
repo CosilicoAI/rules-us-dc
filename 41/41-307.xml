@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-307"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-307/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_307">
+        <akn:num>41-307</akn:num>
+        <akn:heading>Libel of information.</akn:heading>
+<akn:subsection eId="subsec_41-307_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the owner of a seized property makes a claim contesting the seizure pursuant to §  41-305, the District shall return the property to the owner or file a libel of information seeking forfeiture of the property in Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-307_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-307_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The District shall include in the libel of information a declaration, and any supporting documentation, to establish that the libel of information has been filed in accordance with the requirements of subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-307_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A libel of information seeking forfeiture is barred if it is not filed in accordance with the timing requirements set forth in subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-307_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the property the District seeks to forfeit is real property, the District shall file a notice of the proceeding with the Recorder of Deeds within 10 business days after the libel of information is filed. The notice shall include the legal description of the property and indicate that civil forfeiture is being sought. The Recorder of Deeds shall record the notice against the title of any real property for which civil forfeiture is being sought. Upon resolution of the forfeiture proceeding, the District shall file with the Recorder of Deeds the disposition of the civil forfeiture action within 10 business days after the disposition.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

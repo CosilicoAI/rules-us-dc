@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3509.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3509.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3509_08">
+        <akn:num>42-3509.08</akn:num>
+        <akn:heading>Inspection of rental housing.</akn:heading>
+<akn:subsection eId="subsec_42-3509_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other law or rule to the contrary, for the purpose of determining whether any housing accommodation is in compliance with applicable housing rules or construction code rules, the Mayor may enter upon and into any housing accommodation in the District, during all reasonable hours, to inspect the same; provided, that if a tenant of a housing accommodation does not give permission to inspect that portion of the premises under the tenant’s exclusive control, the Mayor shall not enter that portion of the premises unless the Mayor has:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3509_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person who shall hinder, interfere with, or prevent any inspection authorized by this chapter shall, upon conviction thereof, be punished by a fine not exceeding $100, by imprisonment for a period not exceeding 3 months, or both.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3509_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor may apply to a judge of the District of Columbia for an administrative search warrant to enter any premises to conduct any inspection authorized by subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3509_08_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>A judge may issue the warrant if the judge finds that:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

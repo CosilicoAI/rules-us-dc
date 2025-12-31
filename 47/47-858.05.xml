@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-858.05"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-858.05/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_858_05">
+        <akn:num>47-858.05</akn:num>
+        <akn:heading>Tax abatements for homeowners in enterprise zones — Applicability date; Mayoral certification; computation of abatement.</akn:heading>
+<akn:subsection eId="subsec_47-858_05_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Sections 47-858.01 through 47-858.04 shall apply for tax years beginning on or after October 1, 2002.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-858_05_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>On or after the first day of the tax year for which the qualification for an abatement is certified, the Mayor shall certify to the Office of Tax and Revenue a list of the qualified properties which specifies the exact parcel subject to abatement, an estimate of the abatement, and a statement that the property owner qualifies.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-858_05_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The abatement shall be computed by the Office of Tax and Revenue by comparing the current assessment of the qualified property for the first year that the property is qualified or the assessment in any succeeding year and comparing it to the assessment in the base year. The abatement percentage shall be applied to the difference between base year assessment and the current year’s assessment for each tax year. The Mayor shall certify to the Office of Tax and Revenue that each property owner and each property qualifies for the program annually regarding income levels.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

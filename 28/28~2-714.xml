@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-714"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:2-714/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:2_714">
+        <akn:num>28:2-714</akn:num>
+        <akn:heading>Buyer’s damages for breach in regard to accepted goods.</akn:heading>
+<akn:subsection eId="subsec_28:2-714_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Where the buyer has accepted goods and given notification (subsection (3) of section 28:2-607) he may recover as damages for any non-conformity of tender the loss resulting in the ordinary course of events from the seller’s breach as determined in any manner which is reasonable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-714_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The measure of damages for breach of warranty is the difference at the time and place of acceptance between the value of the goods accepted and the value they would have had if they had been as warranted, unless special circumstances show proximate damages of a different amount.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:2-714_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>In a proper case any incidental and consequential damages under the next section may also be recovered.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

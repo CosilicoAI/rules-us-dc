@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1217.133"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1217.133/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1217_133">
+        <akn:num>2-1217.133</akn:num>
+        <akn:heading>Creation of the Southwest Waterfront Fund.</akn:heading>
+<akn:subsection eId="subsec_2-1217_133_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a nonlapsing fund the Southwest Waterfront Fund. The Available Sales Tax Revenues, the Southwest Waterfront Special Assessment (if any), and the Southwest Waterfront PILOT Increment shall be deposited into the Southwest Waterfront Fund. The Chief Financial Officer shall pay from the Southwest Waterfront Fund the Southwest Waterfront PILOT Base Amount into the General Fund of the District of Columbia. The Mayor may pledge and create a security interest in the funds in the Southwest Waterfront Fund to finance, refinance, or reimburse Development Costs of the project, to pay the Debt Service, or to secure bonds without further action by the Council as permitted by § 1-204.90(f). The Chief Financial Officer shall pay from the Southwest Waterfront Fund the annual costs of administering the Southwest Waterfront Improvement Benefit District established by § 47-895.02. If bonds are issued, the payment shall be made in accordance with the provisions of the Financing Documents entered into by the District in connection with the issuance of the bonds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1217_133_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If, at the end of any fiscal year of the District following the issuance of the bonds, the value of cash and investments in the Southwest Waterfront Fund exceeds the amount of all payments authorized by this subchapter and the Financing Documents during the upcoming fiscal year, the excess shall be transferred to the General Fund of the District of Columbia unless the District elects to use the excess to redeem the bonds prior to maturity.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1231.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1231.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1231_07">
+        <akn:num>32-1231.07</akn:num>
+        <akn:heading>Administrative enforcement by DOES.</akn:heading>
+<akn:subsection eId="subsec_32-1231_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An employee who claims that an employer has violated the employee&#x27;s right under this chapter and seeks redress shall file a complaint with DOES.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1231_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The DOES, which shall administer this chapter, shall establish administrative procedures for an aggrieved person to file a complaint against the employer alleged to have violated this chapter, which shall include:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1231_07_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If DOES determines, after its hearing, that the employer has violated any provision of this chapter, DOES shall order the employer to provide affirmative remedies including:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1231_07_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1231_07_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

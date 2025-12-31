@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-909"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-909/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_909">
+        <akn:num>9-909</akn:num>
+        <akn:heading>Acquisition of property; eminent domain.</akn:heading>
+<akn:subsection eId="subsec_9-909_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Authority may acquire by purchase, lease, or grant additional lands, structures, property, rights, rights-of-way, franchises, easements and other interests in lands as it may consider necessary or convenient for construction and operation of the airports, upon terms and at prices as may be considered by it to reasonable and can be agreed upon between it and the owner.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-909_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The District may provide services, donate real or personal property, and make appropriations to the Authority for the acquisition, construction, maintenance, and operation of the Authority facilities. The Authority may agree to assume or reimburse the District for any indebtedness incurred by the District with respect to facilities conveyed by the District to the Authority. With the consent of the Council of the District of Columbia, the agreement may be made subordinate to the Authority’s indebtedness to others.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-909_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Authority is granted full power to exercise the right of eminent domain within the Commonwealth of Virginia in the acquisition of any lands, easements, privileges or other property interests that are necessary for airport and landing field purposes, including the right to acquire, by eminent domain, aviation easements over lands and water outside the boundaries of its airports or landing fields where necessary in the interests of safety for aircraft to provide unobstructed air space for the landing and taking off of aircraft utilizing its airports and landing fields even though the aviation easement may be inconsistent with the continued use of the land, or inconsistent with the maintenance, preservation and renewal of any structure or any tree or other vegetation standing or growing on the land at the time of the acquisition. Proceedings for the acquisition of lands, easements and privileges by condemnation may be instituted and conducted in the name of the Authority in accordance with title 25 of the Code of Virginia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

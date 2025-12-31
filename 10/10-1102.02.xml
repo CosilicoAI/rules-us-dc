@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1102.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/10-1102.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_10_1102_02">
+        <akn:num>10-1102.02</akn:num>
+        <akn:heading>Payments; refunds.</akn:heading>
+<akn:subsection eId="subsec_10-1102_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Council of the District of Columbia shall by regulation provide for the payment of rent for the use of public space as authorized by this part. The annual rent for such space shall be a fair and equitable amount fixed by the Council from time to time in accordance with regulations adopted by it, generally establishing categories of use and providing that the rent for each category of use shall bear a reasonable relationship to the assessed value of the privately owned land abutting such space, depending on the nature of the category of use and the extent to which the public space may be utilized for such purpose, but in no event shall the annual rent for the public space so utilized be at a rate of less than 4 per centum per annum of the current assessed value of an equivalent area of the privately owned space immediately abutting the public space so utilized; provided, that the annual rent for public space used as an unenclosed sidewalk cafe shall be $5 per square foot and the annual rent for public space used as an enclosed sidewalk cafe shall be $10 per square foot. Unenclosed flower and fruit stands shall be charged the same rate as unenclosed sidewalk cafes, and enclosed flower and fruit stands shall be charged the same rate as enclosed sidewalk cafes. Such rent shall be payable in advance for such periods as may be fixed by the Council. In the event the Mayor requires any person using public space under the authority of this part to vacate all or part of any space for which rent has been paid, the Mayor is authorized to refund so much of such prepaid rent as may be represented by the amount of space so vacated and by the length of time remaining in the period for which rent was paid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_10-1102_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the requirements of subsection (a) of this section, the District shall not charge a fee to an organization for occupying public space to operate a farmers market; provided, that it participates in the Supplemental Nutritional Assistance Program and the Women, Infants and Children Farmers Market Nutrition Program.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

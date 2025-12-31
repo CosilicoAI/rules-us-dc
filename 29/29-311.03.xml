@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-311.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-311.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_311_03">
+        <akn:num>29-311.03</akn:num>
+        <akn:heading>Assertion of rights by nominees and beneficial owners.</akn:heading>
+<akn:subsection eId="subsec_29-311_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A record shareholder may assert appraisal rights as to fewer than all the shares registered in the record shareholder’s name but owned by a beneficial shareholder only if the record shareholder objects with respect to all shares of the class or series owned by the beneficial shareholder and notifies the corporation in writing of the name and address of each beneficial shareholder on whose behalf appraisal rights are being asserted. The rights of a record shareholder that asserts appraisal rights for only part of the shares held of record in the record shareholder’s name under this subsection shall be determined as if the shares as to which the record shareholder objects and the record shareholder’s other shares were registered in the names of different record shareholders.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-311_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A beneficial shareholder may assert appraisal rights as to shares of any class or series held on behalf of the shareholder only if the shareholder:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

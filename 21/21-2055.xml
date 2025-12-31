@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2055"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/21-2055/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_21_2055">
+        <akn:num>21-2055</akn:num>
+        <akn:heading>Permissible court orders.</akn:heading>
+<akn:subsection eId="subsec_21-2055_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The court shall exercise the authority conferred in this subchapter to encourage the development of maximum self-reliance and independence of a protected individual and make protective orders only to the extent necessitated by the protected individual’s mental and adaptive limitations and other conditions warranting the procedure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2055_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The court has the following powers that may be exercised directly or through a conservator with respect to the estate and business affairs of a protected individual:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_21-2055_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The court may exercise or direct the exercise of the following powers only if satisfied, after notice and hearing, that it is in the best interest of the protected individual and that the individual either is incapable of consenting or has consented to the proposed exercise of power:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

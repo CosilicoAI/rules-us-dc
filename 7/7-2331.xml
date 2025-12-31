@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2331"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2331/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2331">
+        <akn:num>7-2331</akn:num>
+        <akn:heading>Findings.</akn:heading>
+<akn:subsection eId="subsec_7-2331_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The terrorist attacks on September 11, 2001 in New York, Virginia, and Pennsylvania, resulting in grievous loss of life and the concomitant disruption of our national regional services, highlight the need for, and value of, intergovernmental planning and programming at the state level, including the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2331_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Mutual assistance between the states entering into this compact and the District of Columbia is also needed for the management of any emergency or disaster that is duly declared by the governor of a state, or the Mayor of the District of Columbia, whether arising from natural disaster, technological hazard, man-made disaster, civil emergency aspects of resources shortages, community disorders, insurgency, or enemy attack.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2331_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>There is also a need for mutual assistance between the states and the District of Columbia fostering cooperation in emergency-related exercises, testing, or other training activities using equipment and personnel simulating performance of any aspect of the giving and receiving of aid by party states or subdivisions thereof during emergencies, such actions occurring outside actual declared emergency periods.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2331_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The United States Congress issued the Emergency Management Assistance Compact (EMAC) Joint Resolution (Pub. L. No. 104-321) on October 19, 1996, authorizing states, including the District of Columbia, to join in the EMAC.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2851.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2851.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2851_02">
+        <akn:num>47-2851.02</akn:num>
+        <akn:heading>License required.</akn:heading>
+<akn:subsection eId="subsec_47-2851_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person which is required under law to obtain a license issued in the form of an endorsement to engage in a business in the District of Columbia shall not engage in such business in the District of Columbia without having first obtained a basic business license and any necessary endorsements in accordance with this subchapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2851_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A license shall be required for each business location.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2851_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person issued a license under this subchapter shall not willfully allow any other person required to obtain a separate license to operate under his or her license.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2851_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Licenses granted under this subchapter may be assigned or transferred upon approval by the Department and payment of the applicable fee.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

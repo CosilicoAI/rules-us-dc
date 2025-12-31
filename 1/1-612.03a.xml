@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.03a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-612.03a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_612_03a">
+        <akn:num>1-612.03a</akn:num>
+        <akn:heading>Universal leave program.</akn:heading>
+<akn:subsection eId="subsec_1-612_03a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall develop a universal leave system for Career and Excepted Service employees who were first employed by the District of Columbia government on or after October 1, 1987, excluding police officers, firefighters, and employees excluded from earning leave pursuant to § 1-612.03(a)(1) through (a)(5).  The universal leave system shall include disability income protection for non work-related illness and injury.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_03a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 90 days of the effective date of this section, the Mayor shall submit the universal leave system to the Council for a 60-day period of review, excluding Saturdays, Sundays, legal holidays and days of Council recess.  If the Council does not approve or disapprove the proposed universal leave system by resolution within the 60-day review period, the proposed universal leave system shall be deemed approved.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-612_03a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The submission to the Council shall at a minimum include the following:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

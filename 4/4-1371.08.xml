@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1371.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1371.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1371_08">
+        <akn:num>4-1371.08</akn:num>
+        <akn:heading>Confidentiality of proceedings.</akn:heading>
+<akn:subsection eId="subsec_4-1371_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Proceedings of the Committee shall be closed to the public and shall not be subject to § 1-207.42, when the Committee is discussing cases of individual child deaths or where the identity of any person, other than a person who has consented to be identified, can be ascertained. Persons other than Committee members who attend any Committee meeting which, pursuant to this section, is not open to the public, shall not disclose what occurred at the meeting to anyone who was not in attendance, except insofar as disclosure is necessary for that person to comply with a request for information from the Committee. Committee members who attend meetings not open to the public shall not disclose what occurred with anyone who was not in attendance (except other Committee members), except insofar as disclosure is necessary to carry out the duties of the Committee. Any party who discloses information pursuant to this subsection shall take all reasonable steps to ensure that the information disclosed, and the person to whom the information is disclosed, are as limited as possible.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1371_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Members of the Committee, persons attending a Committee meeting, and persons who present information to the Committee may not be required to disclose, in any administrative, civil, or criminal proceeding, information presented at or opinions formed as a result of a Committee meeting, except that nothing in this subsection may be construed as preventing a person from providing information to another review committee specifically authorized to obtain such information in its investigation of a child death, the disclosure of information obtained independently of the Committee, or the disclosure of information which is public information.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1371_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Information identifying a deceased child, a member of the child’s immediate family, the guardian or caretaker of the child, or an alleged or suspected perpetrator of abuse or neglect upon the child, may not be disclosed publicly.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1371_08_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Information identifying District of Columbia government employees or private health-care providers, social service agencies, and educational, housing, and child-care providers may not be disclosed publicly.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1371_08_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Information and records which are the subject of this section may be disclosed upon a determination made in accordance with rules and procedures established by the Mayor.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1206.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1206.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1206_16">
+        <akn:num>29-1206.16</akn:num>
+        <akn:heading>Liability for improper distributions.</akn:heading>
+<akn:subsection eId="subsec_29-1206_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a trustee of a statutory trust consents to a distribution made in violation of § 29-1206.15 and in consenting to the distribution fails to comply with § 29-1205.05, the trustee is personally liable to the trust or the series thereof for the amount of the distribution which exceeds the amount that could have been distributed in accordance with § 29-1206.15.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1206_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A person that receives a distribution knowing that the distribution was made in violation of § 29-1206.15 is personally liable to the statutory trust or series thereof, but only to the extent that the distribution received by the person exceeded the amount that could have been properly paid under § 29-1206.15.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1206_16_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A person against which an action is commenced because the person is liable under subsection (a) or (b) of this section may implead:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1206_16_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An action under this section is barred if not commenced not later than 2 years after the distribution.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

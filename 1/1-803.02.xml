@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-803.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-803.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_803_02">
+        <akn:num>1-803.02</akn:num>
+        <akn:heading>Federal benefit payments described.</akn:heading>
+<akn:subsection eId="subsec_1-803_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. — Subject to the succeeding provisions of this chapter, a “Federal benefit payment” is any benefit payment to which an individual is entitled under a District Retirement Program, in such amount and under such terms and conditions as may apply under such Program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-803_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Treatment of service occurring after freeze date. — Service after the freeze date shall not be credited for purposes of determining the amount of any Federal benefit payment. Nothing in this subsection shall be construed to affect the crediting of such service for any other purpose under the District Retirement Program.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-803_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Special rule regarding disability benefits. — To the extent that any portion of a benefit payment to which an individual is entitled under a District Retirement Program is based on a determination of disability made by the District Government or the Trustee after the freeze date, the Federal benefit payment determined with respect to the individual shall be an amount equal to the deferred retirement benefit or normal retirement benefit the individual would receive if the individual left service on the day before the commencement of disability retirement benefits.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-803_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Special rule regarding certain death benefits. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-803_02_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Treatment of increases in certain police service longevity payments. — For purposes of subsection (a) of this section, in determining the amount of a Federal benefit payment made to an officer or member of the Metropolitan Police Department, the benefit payment to which the officer or member is entitled under the District Retirement Program shall include any amounts which would have been included in the benefit payment under such Program if the amendments made by the Police Recruiting and Retention Enhancement Amendment Act of 1999 (D.C. Law 13-101) had taken effect prior to the freeze date. The Secretary of the Treasury is authorized to estimate the additional compensation for service longevity for purposes of determining the amount of a federal benefit payment for annuitants who retire on or after August 29, 1972, and on or before December 31, 2001, and to make federal benefit payments based upon such estimates.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-803_02_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>Treatment of military service credit purchased by certain police and fire retirees. — For purposes of subsection (a) of this section, in determining the amount of a Federal benefit payment made to an officer or member, the benefit payment to which the officer or member is entitled under the District Retirement Program shall include any amounts which would have been included in the benefit payment under such Program if the amendments made by the District of Columbia Military Retirement Equity Act of 2003 had taken effect prior to the freeze date.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

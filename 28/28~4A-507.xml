@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-507"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:4A-507/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:4A_507">
+        <akn:num>28:4A-507</akn:num>
+        <akn:heading>Choice of law.</akn:heading>
+<akn:subsection eId="subsec_28:4A-507_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The following rules apply unless the affected parties otherwise agree or subsection (c) of this section applies:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-507_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the parties described in each paragraph of subsection (a) of this section have made an agreement selecting the law of a particular jurisdiction to govern rights and obligations between each other, the law of that jurisdiction governs those rights and obligations, whether or not the payment order or the funds transfer bears a reasonable relation to that jurisdiction.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-507_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A funds-transfer system rule may select the law of a particular jurisdiction to govern (i) rights and obligations between participating banks with respect to payment orders transmitted or processed through the system, or (ii) the rights and obligations of some or all parties to a funds transfer any part of which is carried out by means of the system. A choice of law made pursuant to clause (i) is binding on participating banks. A choice of law made pursuant to clause (ii) is binding on the originator, other sender, or a receiving bank having notice that the funds-transfer system might be used in the funds transfer and of the choice of law by the system when the originator, other sender, or receiving bank issued or accepted a payment order. The beneficiary of a funds transfer is bound by the choice of law if, when the funds transfer is initiated, the beneficiary has notice that the funds-transfer system might be used in the funds transfer and of the choice of law by the system. The law of a jurisdiction selected pursuant to this subsection may govern, whether or not that law bears a reasonable relation to the matter in issue.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-507_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In the event of inconsistency between an agreement under subsection (b) of this section and a choice-of-law rule under subsection (c) of this section, the agreement under subsection (b) of this section prevails.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:4A-507_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a funds transfer is made by use of more than one funds-transfer system and there is inconsistency between choice-of-law rules of the systems, the matter in issue is governed by the law of the selected jurisdiction that has the most significant relationship to the matter in issue.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

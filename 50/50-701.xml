@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-701"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-701/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_701">
+        <akn:num>50-701</akn:num>
+        <akn:heading>Policy.</akn:heading>
+<akn:subsection eId="subsec_50-701_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>It is the policy of the District of Columbia (“District”) government to promote, protect, and preserve a safe and healthy living environment for its inhabitants.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-701_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>It is in the best interest of District residents that the District government pursue, as other municipalities have, both domestic and international, a comprehensive plan for the development and implementation of specific goals and timetables for the improvement of local air quality through the exploration, demonstration, procurement, and utilization of passenger and nonpassenger motor vehicles powered by clean alternative fuels.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-701_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The integration of alternative fuels technology in the transportation element of the nation’s capital should include, at the very least, aggressive participation by the District government fleet, commercial transportation fleets, and the Washington Metropolitan Area Transit Authority (“WMATA”).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-701_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Section 246 of the Clean Air Act requires that the District develop a state implementation plan revision that manages harmful emissions from motor vehicles by establishing a clean fuel fleet program that is consistent with federal law and regulations. As part of a multi-jurisdiction ozone nonattainment area encompassing portions of the District and the states of Maryland and Virginia, the District must implement a clean fuel fleet program.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

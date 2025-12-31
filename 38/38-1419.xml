@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1419"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1419/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1419">
+        <akn:num>38-1419</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_38-1419_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The term “full-time students” means students pursuing a full-time course of study in an accredited school of medicine or school of dentistry leading to a degree of Doctor of Medicine, Doctor of Dentistry, or an equivalent degree.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1419_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The terms “school of medicine” and “school of dentistry” mean a school in the District of Columbia which provides training leading, respectively, to a degree of Doctor of Medicine and Doctor of Dentistry, or an equivalent degree, and which is accredited by a recognized body or bodies approved for such purpose by the Secretary of Education of the United States.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1419_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The term “nonprofit” as applied to a school of medicine or a school of dentistry means one which is owned and operated by 1 or more corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

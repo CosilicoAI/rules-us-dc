@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.64"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-307.64/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_307_64">
+        <akn:num>1-307.64</akn:num>
+        <akn:heading>Responsibilities of administering organization.</akn:heading>
+<akn:subsection eId="subsec_1-307_64_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Administer opportunity accounts in accordance with this part and all rules promulgated under this part and in conformity with the organization’s application as approved by the Mayor;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_64_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Establish an opportunity account reserve fund account at a financial institution and deposit into that account sufficient funds to administer the organization’s opportunity account program and to provide potential matching funds for opportunity accounts in the organization’s opportunity account program; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-307_64_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Review and approve expenditures of opportunity account funds to ensure that the expenditures are used for a purpose permitted under this part.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

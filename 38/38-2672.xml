@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2672"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2672/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2672">
+        <akn:num>38-2672</akn:num>
+        <akn:heading>State Athletic Activities, Programs, and Office Fund established.</akn:heading>
+<akn:subsection eId="subsec_38-2672_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a special fund the State Athletic Activities, Programs, and Office Fund (“Fund”), which shall be used solely as provided in subsection (b) of this section, and which shall be administered by the State Superintendent of Education. The State Superintendent of Education may designate or assign the authority to administer the Fund to an entity within the Office of the State Superintendent of Education, including the SAO.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2672_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2672_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Fund shall consist of the revenue from the following sources:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2672_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

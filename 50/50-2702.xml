@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2702"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-2702/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_2702">
+        <akn:num>50-2702</akn:num>
+        <akn:heading>Removal of abandoned, accident, or recovered stolen vehicles by private tow companies; notice of removal.</akn:heading>
+<akn:subsection eId="subsec_50-2702_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An abandoned, accident, or recovered stolen vehicle may be removed from public space or private property and stored by a private towing company at a storage facility consistent with chapter 4 of Title 16 of the District of Columbia Municipal Regulations. Within 5 days after the vehicle has been towed to the storage facility, the Department of Public Works shall send a towing and storage notice by first-class mail to the last known address of the owner of record of the vehicle and the lienholders of record, based on information in the records of the Department of Motor Vehicles or in the records of the appropriate agency of the jurisdiction where the vehicle is registered. The Department of Public Works shall also provide electronic or other notice to the National Insurance Crime Bureau or other national organization identified by the Director that collects data on stolen vehicles to permit the organization to determine whether the vehicle is stolen. If the vehicle was removed from private property, notice shall also be sent by first-class mail to the owner of that property, based on information in the records of the District of Columbia Office of Tax and Revenue. The notice shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-2702_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the address of the owner or lienholders cannot be determined, the Department of Public Works shall publish a towing and storage notice in a newspaper of general circulation in the District within 10 days after a vehicle is delivered by a private towing company to a storage facility. If any mailed notice is returned as undeliverable within 14 days after the date of mailing, a towing and storage notice shall also be published. The published notice may contain a listing of more than one vehicle and, for each vehicle, shall:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

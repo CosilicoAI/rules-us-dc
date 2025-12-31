@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1003.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-1003.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_1003_03">
+        <akn:num>44-1003.03</akn:num>
+        <akn:heading>Hearing.</akn:heading>
+<akn:subsection eId="subsec_44-1003_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall hold a hearing at the resident’s facility within 5 calendar days, and shall render a decision within 7 calendar days, after a timely hearing request is received. The facility shall have the burden of proof unless the ground for the proposed discharge, transfer, or relocation is a prescribed change in the resident’s level of care, in which case the person(s) responsible for prescribing that change shall have the burden of proof and the resident shall have the right to challenge the level of care determination at the hearing. A hearing held under this section may not be used by the resident to litigate or relitigate Medicaid eligibility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-1003_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the Mayor finds that the existence of a ground listed in § 44-1003.01(a) has been proven by clear and convincing evidence, the resident shall not be:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

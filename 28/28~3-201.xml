@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-201"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:3-201/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:3_201">
+        <akn:num>28:3-201</akn:num>
+        <akn:heading>Negotiation.</akn:heading>
+<akn:subsection eId="subsec_28:3-201_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>“Negotiation” means a transfer of possession, whether voluntary or involuntary, of an instrument by a person other than the issuer to a person who thereby becomes its holder.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:3-201_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Except for negotiation by a remitter, if an instrument is payable to an identified person, negotiation requires transfer of possession of the instrument and its indorsement by the holder. If an instrument is payable to bearer, it may be negotiated by transfer of possession alone.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

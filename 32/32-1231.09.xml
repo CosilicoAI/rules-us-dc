@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1231.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-1231.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_1231_09">
+        <akn:num>32-1231.09</akn:num>
+        <akn:heading>Enforcement by civil action.</akn:heading>
+<akn:subsection eId="subsec_32-1231_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A civil action may be maintained against any employer in a court of competent jurisdiction by one or more employees.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-1231_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An employer who violates the provisions of this chapter shall be liable to the affected employee or employees for the remedies set forth in § 32-1231.07(c).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

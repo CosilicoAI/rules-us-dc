@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-633.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-633.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_633_03">
+        <akn:num>8-633.03</akn:num>
+        <akn:heading>Cleanup action plan.</akn:heading>
+<akn:subsection eId="subsec_8-633_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The participant shall submit a cleanup action plan to DDOE, after the approval of an application to participate in the Program. The cleanup action plan shall be in accordance with DDOE cleanup standards and shall be approved or disapproved within 90 business days after its submission. Within that period DDOE shall consider any public comments received pursuant to this chapter and shall notify the participant of its determination.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-633_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the cleanup action is disapproved, DDOE shall include in the notice, the modifications in the cleanup action plan which are necessary to receive an approval. The participant may submit a revised or amended plan within 30 business days after the receipt of the letter of rejection, otherwise the plan shall be considered withdrawn pursuant to § 8-633.07. DDOE shall notify the participant whether the cleanup action plan has been approved, within 30 business days after the receipt of the resubmitted plan.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-633_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The approval of a cleanup action plan shall mean that the program participant has granted DDOE an express right to access the eligible property for the purposes of inspecting and verifying the implementation of the cleanup action plan, once that plan has been approved.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-633_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The approval of a cleanup action plan shall not:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-633_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a participant fails to meet the schedule for implementation and completion of the cleanup action plan, DDOE may:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

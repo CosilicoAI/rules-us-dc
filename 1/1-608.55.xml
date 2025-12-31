@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-608.55"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-608.55/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_608_55">
+        <akn:num>1-608.55</akn:num>
+        <akn:heading>Supervision of attorneys.</akn:heading>
+<akn:subsection eId="subsec_1-608_55_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Attorneys employed by the Office of the Attorney General, wherever located in the District government, including Senior Executive attorneys, shall act under the direction, supervision, and control of the Attorney General.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-608_55_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>Attorneys employed by subordinate agencies shall act under the direction, supervision, and control of the head of the subordinate agency.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-608_55_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Attorneys employed by the Mayor’s Office of Legal Counsel shall be under the direction, supervision, and control of the Director of the Mayor’s Office of Legal Counsel.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-608_55_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Attorneys employed by independent agencies shall act under the direction, supervision, and control of the respective agency heads.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-608_55_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Director of the Mayor’s Office of Legal Counsel may, with the consent of a subordinate agency director, assign an attorney employed by the Mayor’s Office of Legal Counsel to perform work primarily as or for the General Counsel of the affected subordinate agency, whether located at the agency or not, in the Director of the Mayor’s Office of Legal Counsel’s discretion.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

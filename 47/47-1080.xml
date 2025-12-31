@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1080"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1080/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1080">
+        <akn:num>47-1080</akn:num>
+        <akn:heading>Bolling Air Force Base housing.</akn:heading>
+<akn:subsection eId="subsec_47-1080_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The real property, located in Square 6072, or otherwise at the Bolling Air Force Base, together with the improvements thereon, and any future improvements constructed thereon, shall be exempt from all taxation, including ordinary and special taxes and use or possessory interest taxes, on real property or the use thereof, so long as the property is used for the purposes of housing military personnel or their families, as contemplated by 10 U.S.C. §§ 2871 through 2885, subject to the provisions of §§ 47-1005, 47-1007, and 47-1009.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1080_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The following shall be exempt from all transfer and recordation taxes of, or imposed by, the District:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-631"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-631/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_631">
+        <akn:num>2-631</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_2-631_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Disability” means, with respect to an individual:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-631_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Internet publication” means any information posted to an official web site of a public body, except for archival documents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-631_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Policies” means official instructions and guiding principles issued by a public body for the implementation of its programs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-631_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Public body” shall have the same meaning as set forth in § 2-502(18A).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-631_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Publications” means any written material issued by a public body, either for internal or external use, and does not include internet publications, policies, rules, regulations, and signage.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-631_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Regulation” shall have the same meaning as set forth in § 2-502(17).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-631_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Rule” shall have the same meaning as set forth in § 2-502(6).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-631_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Signage” means any poster on paper larger than 8 1/2 inches by 11 inches issued by a public body and any signs regardless of size made of any material other than paper and posted or issued by a public body.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

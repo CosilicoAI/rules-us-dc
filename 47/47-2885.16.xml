@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2885.16"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2885.16/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2885_16">
+        <akn:num>47-2885.16</akn:num>
+        <akn:heading>Inspections.</akn:heading>
+<akn:subsection eId="subsec_47-2885_16_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Persons designated by the Mayor shall be permitted, after presenting proper identification, to enter at reasonable times any pharmacy or drug outlet for the purpose of making inspections to determine compliance with this part or with other laws or regulations applicable to the practice of pharmacy. Persons designated by the Mayor shall be pharmacists for the purpose of making inspections to determine compliance with those sections of this part and other applicable laws and regulations regarding the practice of pharmacy as defined within this part.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2885_16_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This inspection may include, but shall not be limited to, the examination of the pharmacy’s records, including prescriptions, and the obtaining of information and samples pertaining to drugs on hand or dispensed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-354"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-354/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_354">
+        <akn:num>25-354</akn:num>
+        <akn:heading>Board review of moratorium request.</akn:heading>
+<akn:subsection eId="subsec_25-354_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board shall hold a public hearing to review a proposed moratorium. The public hearing shall be in the nature of a rulemaking hearing under § 2-505 and not in the nature of a contested case under § 2-509.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-354_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>At the public hearing, any interested person may appear to give oral or written testimony in support of, or in opposition to, the moratorium request.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-354_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>In addition to receiving testimony from the public, the Board shall request formal comments from the following persons or agencies:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-354_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>In deciding on a moratorium request, the Board shall consider the extent to which the testimony and comments show that the requested moratorium is appropriate under at least 2 of the appropriateness standards set forth in subchapter II of this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-354_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The Board may grant the moratorium request in one or more of the following ways:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-354_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The Board may deny the moratorium request in its entirety.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-354_g">
+      <akn:num>(g)</akn:num>
+      <akn:content><akn:p>The decision of the Board shall be final and shall be issued in writing, including each member’s vote.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

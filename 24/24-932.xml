@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-932"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-932/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_932">
+        <akn:num>24-932</akn:num>
+        <akn:heading>Report.</akn:heading>
+<akn:subsection eId="subsec_24-932_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>A summary of the original structure of the pilot program, and a summary of all changes to that original structure, along with the reasons for any changes;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-932_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>A summary of the effectiveness of the pilot program, according to the Director;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-932_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>An analysis of the total cost of the pilot program, including cost per participant;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-932_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>A summary of the standards used to determine removal from the BOOT CAMP;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-932_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>A listing of the offense(s) committed by each participant which led to his or her commitment to the BOOT CAMP;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-932_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>A listing of the number of participants who completed the BOOT CAMP, and the number of those who did not complete the program, along with a designation as to the reason for removal from the program;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-932_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>A summary of the effect of the pilot program on the population at other juvenile facilities;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-932_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>An analysis of the recidivism rate of eligible juvenile offenders who completed the BOOT CAMP and the recidivism rate of non-completers and a comparison sample of juvenile offenders who participated in a sanction other than the BOOT CAMP; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-932_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>Any recommendations as to changes to or expansion of the BOOT CAMP.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

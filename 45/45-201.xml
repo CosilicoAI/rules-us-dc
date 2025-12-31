@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/45-201"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/45-201/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_45_201">
+        <akn:num>45-201</akn:num>
+        <akn:heading>Established; exceptions.</akn:heading>
+<akn:subsection eId="subsec_45-201_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (b) of this section, if any provision of any act of the Council of the District of Columbia or the application thereof to any person or circumstance is held to be unconstitutional or beyond the statutory authority of the Council of the District of Columbia, or otherwise invalid, the declaration of invalidity shall not affect other provisions or applications of the act which can be given effect without the invalid provision or application, and to this end the provisions of each act of the Council of the District of Columbia are deemed severable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_45-201_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Council of the District of Columbia may provide, within the provisions of a specific act, that the provisions of a specific act are non severable or that certain specified provisions are deemed inoperative if certain other provisions of the act are declared invalid. If the Council of the District of Columbia provides for a special nonseverability clause as provided in this subsection, the long title of the act shall reflect the inclusion of a special nonseverability clause.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

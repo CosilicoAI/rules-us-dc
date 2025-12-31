@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/19-905"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/19-905/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_19_905">
+        <akn:num>19-905</akn:num>
+        <akn:heading>Prospective application.</akn:heading>
+<akn:subsection eId="subsec_19-905_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as extended by subsection (b) of this section, this chapter applies to a nonvested property interest or a power of appointment that is created on or after the effective date of this chapter [April 27, 2001]. For purposes of this section, a nonvested property interest or a power of appointment created by the exercise of a power of appointment is created when the power is irrevocably exercised or when a revocable exercise becomes irrevocable.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_19-905_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a nonvested property interest or a power of appointment was created before the effective date of this chapter [April 27, 2001] and is determined in a judicial proceeding, commenced on or after the effective date of this chapter [April 27, 2001], to violate the District of Columbia’s rule against perpetuities as that rule existed before the effective date of this chapter [April 27, 2001], a court, upon the petition of an interested person, may reform the disposition in the manner that most closely approximates the transferor’s manifested plan of distribution and is within the limits of the rule against perpetuities applicable when the nonvested property interest or power of appointment was created.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

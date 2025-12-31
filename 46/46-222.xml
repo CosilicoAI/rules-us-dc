@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-222"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-222/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_222">
+        <akn:num>46-222</akn:num>
+        <akn:heading>Interstate withholding.</akn:heading>
+<akn:subsection eId="subsec_46-222_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon receipt of notice from another state that withholding is required to enforce a support order, including all documents and information necessary to carry out the withholding, the IV-D agency shall implement the withholding in accordance with § 46-207.01.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-222_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the IV-D agency determines that the obligor is no longer employed in the District of Columbia, the IV-D agency shall provide the initiating jurisdiction with the name and address of the obligor and the obligor’s new employer, if known.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-222_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The IV-D agency, upon receiving a certified copy of a modification of a support order entered or registered in the District of Columbia, shall initiate necessary procedures to amend or modify a withholding that is based on the support order that has been modified.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

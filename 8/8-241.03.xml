@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-241.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-241.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_241_03">
+        <akn:num>8-241.03</akn:num>
+        <akn:heading>Certification of mold assessment and remediation professionals.</akn:heading>
+<akn:subsection eId="subsec_8-241_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-241_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No person shall engage in the business of residential indoor mold assessment or remediation unless the person is certified and licensed in accordance with requirements promulgated by the Director.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-241_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Director shall maintain a publicly available list of all certified indoor mold assessment and remediation professionals in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-241_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Director shall establish reasonable and necessary fees to administer this section, including fees for certifications and licenses. The fees shall be set, at a minimum, in an amount sufficient to recover the costs of administering this section. All fees collected under this subsection shall be deposited into the Indoor Mold Assessment and Remediation Fund established under § 8-241.07.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

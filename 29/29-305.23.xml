@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-305.23"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-305.23/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_305_23">
+        <akn:num>29-305.23</akn:num>
+        <akn:heading>Shares held by nominees.</akn:heading>
+<akn:subsection eId="subsec_29-305_23_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A corporation may establish a procedure by which the beneficial owner of shares that are registered in the name of a nominee is recognized by the corporation as the shareholder. The extent of this recognition may be determined in the procedure.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_23_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The procedure may set forth:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

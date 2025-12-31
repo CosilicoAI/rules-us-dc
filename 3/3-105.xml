@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/3-105"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/3-105/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_3_105">
+        <akn:num>3-105</akn:num>
+        <akn:heading>Voluntary sentencing guidelines.</akn:heading>
+<akn:subsection eId="subsec_3-105_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The voluntary sentencing guidelines promulgated by the Commission shall not be binding on judges.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-105_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding the guidelines, the judge in an individual case may impose any sentence that does not exceed the maximum term prescribed by law and is not otherwise prohibited by the Constitution or laws of the United States or the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-105_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The sentencing guidelines shall not create any legally enforceable rights in any party nor shall they diminish any rights that currently exist.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_3-105_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Commission shall not implement any changes in the basic structure of the voluntary sentencing guidelines without first informing the Council.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

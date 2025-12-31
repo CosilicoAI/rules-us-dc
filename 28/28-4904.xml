@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4904"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4904/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4904">
+        <akn:num>28-4904</akn:num>
+        <akn:heading>Use of electronic records and electronic signatures; variation by agreement.</akn:heading>
+<akn:subsection eId="subsec_28-4904_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>This chapter does not require a record or signature to be created, generated, sent, communicated, received, stored, or otherwise processed or used by electronic means or in electronic form.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4904_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties’ conduct.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4904_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A party that agrees to conduct a transaction by electronic means may refuse to conduct other transactions by electronic means. The right granted by this subsection may not be waived by agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4904_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in this chapter, the effect of any of its provisions may be varied by agreement. The presence in certain provisions of this chapter of the words “unless otherwise agreed”, or words of similar import, does not imply that the effect of other provisions may not be varied by agreement.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4904_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Whether an electronic record or electronic signature has legal consequences is determined by this chapter and other applicable law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

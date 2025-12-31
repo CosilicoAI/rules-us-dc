@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4804.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4804.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4804_04">
+        <akn:num>28-4804.04</akn:num>
+        <akn:heading>Principal receipts.</akn:heading>
+<akn:subsection eId="subsec_28-4804_04_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>To the extent not allocated to income under this chapter, assets received from a transferor during the transferor’s lifetime, a decedent’s estate, a trust with a terminating income interest, or a payer under a contract naming the trust or its trustee as beneficiary;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_04_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Money or other property received from the sale, exchange, liquidation, or change in form of a principal asset, including realized profit, subject to this subchapter;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_04_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Amounts recovered from third parties to reimburse the trust because of disbursements described in § 28-4805.02(a)(7) or for other reasons to the extent not based on the loss of income;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_04_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Proceeds of property taken by eminent domain, but a separate award made for the loss of income with respect to an accounting period during which a current income beneficiary had a mandatory income interest is income;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_04_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Net income received in an accounting period during which there is no beneficiary to whom a trustee may or must distribute income; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4804_04_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Other receipts as provided in part C of this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

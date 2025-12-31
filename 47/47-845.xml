@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-845"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-845/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_845">
+        <akn:num>47-845</akn:num>
+        <akn:heading>Tax deferral — Amount.</akn:heading>
+<akn:subsection eId="subsec_47-845_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An eligible taxpayer may defer each year any real property tax owed in excess of 110% of his or her immediately preceding year’s real property tax liability for Class 1 Property as defined in § 47-813(c)(1). To be eligible for such deferral the taxpayer must:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-845_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a taxpayer submits a timely application for deferral of real property taxes, the amount of real property tax owed in excess of 110% of the prior year’s tax bill shall not constitute delinquent taxes nor shall the taxpayer be assessed any interest for the period said application is pending. A taxpayer shall be eligible to start deferring portions of the increased property tax liability immediately after his or her application has been approved by the Mayor. If the application for deferral is disapproved, the taxpayer shall be notified, in writing, of said disapproval and the reasons therefor and granted an additional 30 days to pay said taxes without interest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-845_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Taxes deferred under this section shall bear simple interest at the rate of ½% per month or portion of a month until paid.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-845_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>No further deferrals of real property tax shall be granted to a taxpayer when the aggregate amount of the deferred real property tax plus interest from previous tax years, under this section, § 47-845.02, and § 47-845.03, is equal to or greater than 25% of the assessed value of the real property for the tax year for which the deferral is requested.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-845_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Taxes deferred under this section, together with all accumulated interest, shall constitute a preferential lien upon the real property which shall be immediately payable by the seller, transferor, or conveyor whenever the real property is sold, refinanced, transferred, or conveyed in any manner, or whenever additional co-owners (other than spouse or domestic partner) are added to the real property; except, that whenever such real property is sold, transferred, or conveyed to the mother, father, spouse, domestic partner, children by blood or legally adopted children of the seller, transferor, or conveyor, the deferred taxes lien, if not satisfied, shall remain in full force and effect.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

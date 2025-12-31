@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1351"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-1351/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_1351">
+        <akn:num>31-1351</akn:num>
+        <akn:heading>Ancillary formal proceedings.</akn:heading>
+<akn:subsection eId="subsec_31-1351_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If a domiciliary liquidator has been appointed for an insurer not domiciled in the District, the Commissioner may file a petition with the Superior Court of the District of Columbia requesting appointment as ancillary receiver in the District:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1351_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The court may issue an order appointing an ancillary receiver in whatever terms it deems appropriate. The filing or recording of the order with the recorder of deeds in the District imparts the same notice as a deed, bill of sale, or other evidence of title duly filed or recorded with that recorder of deeds.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1351_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>When a domiciliary liquidator has been appointed in a reciprocal state, then the ancillary receiver appointed in the District may, whenever necessary, aid and assist the domiciliary liquidator in recovering assets of the insurer located in the District. The ancillary receiver shall, as soon as practicable, liquidate from their respective securities those special deposit claims and secured claims which are proved and allowed in the ancillary proceedings in the District, and shall pay the necessary expenses of the proceedings. He or she shall promptly transfer all remaining assets, books, accounts, and records to the domiciliary liquidator. Subject to this section, the ancillary receiver and his or her deputies shall have the same powers and be subject to the same duties with respect to the administration of assets as a liquidator of an insurer domiciled in the District.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-1351_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>When a domiciliary liquidator has been appointed in the District, ancillary receivers appointed in reciprocal states shall have, as to assets and books, accounts, and other records in their respective states, corresponding rights, duties, and powers to those provided in subsection (c) of this section for ancillary receivers appointed in the District.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

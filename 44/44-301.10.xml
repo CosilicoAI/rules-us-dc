@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-301.10"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-301.10/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_301_10">
+        <akn:num>44-301.10</akn:num>
+        <akn:heading>Reporting requirements.</akn:heading>
+<akn:subsection eId="subsec_44-301_10_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every insurer shall submit to the Director, an annual grievance report, that chronicles all grievance activity during the preceding year.  The Director shall develop a system for classifying and categorizing grievances and appeals that all insurers and independent review organizations will use when collecting, recording, and reporting grievance and appeals information. The Director shall also develop a reporting form for inclusion in the annual grievance report that shall include the following information:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-301_10_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Director shall provide current and aggregate information about each health benefits plan’s grievance and appeals activity to the public.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-301_10_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Director shall develop appropriate annual reporting requirements for independent review organizations.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-301_10_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Director shall submit an annual report to the Council and the public concerning the status of the grievance and appeal procedures of all health benefits plans in the District, including external appeals. The report shall summarize grievances by category and by health benefits plan and shall include the number of decisions upholding and reversing each grievance and the length of time for complete resolution of the grievance. The Director shall, based upon individual cases and the patterns of grievance and appeals activity, include in the annual report recommendations concerning additional health consumer protections.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

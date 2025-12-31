@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1523"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/11-1523/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_11_1523">
+        <akn:num>11-1523</akn:num>
+        <akn:heading>Terms of office; vacancy; continuation of service by a member.</akn:heading>
+<akn:subsection eId="subsec_11-1523_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1523_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A member or alternate member appointed to fill a vacancy occurring before the expiration of the term of that member’s predecessor shall serve only for the remainder of that term. Any vacancy on the Commission shall be filled in the same manner as the original appointment was made.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_11-1523_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If approved by the Commission, a member may serve after the expiration of that member’s term for purposes of participating until conclusion in a matter, relating to the suspension, retirement, or removal of a judge, begun before the expiration of that member’s term. A member’s successor may be appointed without regard to the member’s continuation in service, but that member’s successor may not participate in the matter for which the member’s continuation in service was approved.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

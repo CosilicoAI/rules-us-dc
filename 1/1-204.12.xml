@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.12"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.12/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_12">
+        <akn:num>1-204.12</akn:num>
+        <akn:heading>Acts, resolutions, and requirements for quorum.</akn:heading>
+<akn:subsection eId="subsec_1-204_12_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Council, to discharge the powers and duties imposed herein, shall pass acts and adopt resolutions, upon a vote of a majority of the members of the Council present and voting, unless otherwise provided in this chapter or by the Council. Except as provided in the last sentence of this subsection, the Council shall use acts for all legislative purposes. Each proposed act shall be read twice in substantially the same form, with at least 13 days intervening between each reading. Upon final adoption by the Council each act shall be made immediately available to the public in a manner which the Council shall determine. If the Council determines, by a vote of two-thirds of the members, that emergency circumstances make it necessary that an act be passed after a single reading, or that it take effect immediately upon enactment, such act shall be effective for a period of not to exceed 90 days. Resolutions shall be used (1) to express simple determinations, decisions, or directions of the Council of a special or temporary character; and (2) to approve or disapprove proposed actions of a kind historically or traditionally transmitted by the Mayor, the Board of Elections, Public Service Commission, Armory Board, Board of Education, the Board of Trustees of the University of the District of Columbia, or the Convention Center Board of Directors to the Council pursuant to an act. Such resolutions must be specifically authorized by that act and must be designed to implement that act.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_12_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A special election may be called by resolution of the Council to present for an advisory referendum vote of the people any proposition upon which the Council desires to take action.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_12_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A majority of the Council shall constitute a quorum for the lawful convening of any meeting and for the transaction of business of the Council, except a lesser number may hold hearings.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

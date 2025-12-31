@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-101"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-101/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_101">
+        <akn:num>50-101</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_50-101_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Consumer” means the purchaser of any food or any person who eats the purchased food.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-101_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Driver safety course” means an employer-sponsored course designed to teach defensive driving and road safety skills.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-101_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Food delivery service” means a service offered by a restaurant or retail business for the delivery of food or food products directly to a consumer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-101_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Motor vehicle” means any vehicle propelled by an internal combustion engine, electricity, or steam. The term “motor vehicle” shall not include a road roller, farm tractor, vehicle propelled only upon a stationary rail or track, or a battery-operated wheelchair operated by a person with a disability at a speed not exceeding 10 miles per hour.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-101_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Restaurant” means a place in the District of Columbia (“District”) that sells or prepares food, drinks, or refreshments to be consumed by persons on or off the premises where prepared or sold.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

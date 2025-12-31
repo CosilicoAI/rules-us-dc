@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-895.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-895.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_895_02">
+        <akn:num>47-895.02</akn:num>
+        <akn:heading>Establishment of special assessment district.</akn:heading>
+<akn:subsection eId="subsec_47-895_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established as a special assessment district the Southwest Waterfront Improvement Benefit District, which shall be comprised of the following geographic area:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-895_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The owners of lots within the Southwest Waterfront Improvement Benefit District shall derive a special benefit from the improvements financed by the bonds and the amount of this benefit is equal to or greater than the Maximum Special Assessment levied on the lots subject to the Special Assessment.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-895_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Beginning with the 1st year Special Assessments, Special Assessments on all lots on which Special Assessments have been levied shall be collected pursuant to § 47-895.02 or may be collected only from the lots within a specific phase of the project to be improved or that has been improved, as determined by the Chief Financial Officer at the time of the issuance of any bonds.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

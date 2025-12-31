@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/41-125"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/41-125/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_41_125">
+        <akn:num>41-125</akn:num>
+        <akn:heading>Determination of claims by Mayor.</akn:heading>
+<akn:subsection eId="subsec_41-125_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall within 30 days of the receipt of any claim either pay the claim or give written notice to the claimant of a denial in whole or in part. Upon a denial or a failure by the Mayor to respond within 30 days, the claimant may request a hearing on the claim. Upon such request the Mayor shall hold a hearing and receive evidence in accordance with § 2-509.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_41-125_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the claim is determined in favor of the claimant, the Mayor shall make payment of only that amount which the Mayor actually received plus any dividends or interest allowed under § 41-121. The claim shall be paid without deduction for costs of notices or sale or for service charges.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

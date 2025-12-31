@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1403.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1403.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1403_03">
+        <akn:num>50-1403.03</akn:num>
+        <akn:heading>Suspension of minor’s motor vehicle operator’s permit for alcohol violation.</akn:heading>
+<akn:subsection eId="subsec_50-1403_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall suspend the motor vehicle operator’s permit of a person under 21 years of age convicted of violating, or adjudicated in violation of § 25-130. The suspension shall be for the duration required by § 25-130. A copy of the conviction or adjudication shall be forwarded to the Mayor by the court or the administrative body authorized to adjudicate violations under Chapter 1 of Title 25.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1403_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any person found guilty of operating a motor vehicle in the District during the period for which the person’s license or privilege is suspended, shall, for each offense, be fined not more than the amount set forth in § 22-3571.01, imprisoned for not more than 180 days, or both.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

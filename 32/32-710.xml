@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-710"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-710/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_710">
+        <akn:num>32-710</akn:num>
+        <akn:heading>Effect on existing rights and benefits.</akn:heading>
+<akn:subsection eId="subsec_32-710_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall supersede any provision of law that provides more generous rights or benefits than the domestic partnership or family membership rights and benefits provided pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-710_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall be construed to discourage an employer from providing more generous rights or benefits than the domestic partnership or family membership rights or benefits provided pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-710_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Nothing in this chapter shall diminish an employer’s obligation to comply with a collective bargaining agreement or an employment benefits program or plan that provides more generous rights or benefits than the domestic partnership or family membership rights or benefits provided pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-710_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The domestic partnership or family membership rights or benefits provided pursuant to this chapter shall not be diminished by a collective bargaining agreement or an employment benefit program or plan, except that this chapter shall not supersede any clause on domestic partnership or family membership rights or benefits in a collective bargaining agreement in force on June 11, 1992, excluding any extension or renewal after such date, that the collective bargaining agreement is in effect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-710_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>No provision of this chapter shall exempt or relieve, or be construed to exempt or relieve, any person from any duty, liability, penalty, or obligation to provide relief under Chapter 14 of Title 2.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-710_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>This chapter provides registration and other mechanisms to reduce discrimination prohibited under Chapter 14 of Title 2.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1905"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/50-1905/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_50_1905">
+        <akn:num>50-1905</akn:num>
+        <akn:heading>Test refusal; penalty; evidence of refusal.</akn:heading>
+<akn:subsection eId="subsec_50-1905_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1905_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a person under arrest refuses to submit specimens for chemical testing as provided in § 50-1904.02(a), and the person has had a conviction for a prior offense under § 50-2206.11, § 50-2206.12, or § 50-2206.14, there shall be a rebuttable presumption that the person is under the influence of alcohol or a drug or any combination thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1905_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a person under arrest refuses to submit specimens for chemical testing as provided in § 50-1904.02(a), evidence of such refusal shall be admissible in any civil or criminal proceeding arising as a result of the acts alleged to have been committed by the person before the arrest.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_50-1905_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

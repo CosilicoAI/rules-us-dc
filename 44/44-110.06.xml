@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/44-110.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/44-110.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_44_110_06">
+        <akn:num>44-110.06</akn:num>
+        <akn:heading>Bathrooms.</akn:heading>
+<akn:subsection eId="subsec_44-110_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An ALR shall ensure that there is one full bathroom, for every 6 residents, including live-in family or staff. Additional full or half baths shall be available to non-live-in staff. No resident shall be required to traverse more than one flight of stairs to access a bathroom and appropriate accommodations shall be made for residents who are unable to climb stairs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-110_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>When applicable, bathrooms shall contain adequate space and strategically located grab bars to allow residents who use wheelchairs to utilize toilets, tubs, showers, and wash basins without traversing a stair way.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_44-110_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An ALR shall insure that the temperature of the hot water at all taps to which residents have access is controlled by the use of thermostatically controlled mixing valves or by other means, including control at the source, so that the water temperature does not exceed 110 degrees Fahrenheit.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

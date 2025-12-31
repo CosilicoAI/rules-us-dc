@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4604.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4604.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4604_02">
+        <akn:num>16-4604.02</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_16-4604_02_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Abduction” means the wrongful removal or wrongful retention of a child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4604_02_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Child” means an unemancipated individual who is less than 18 years of age.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4604_02_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Child-custody proceeding” means a proceeding in which legal custody, physical custody, or visitation with respect to a child is at issue. The term includes a proceeding for divorce, dissolution of marriage, separation, neglect, abuse, dependency, guardianship, paternity, termination of parental rights, or protection from domestic violence.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4604_02_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Petition” includes a motion or its equivalent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4604_02_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4604_02_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Travel document” means records relating to a travel itinerary, including travel tickets, passes, reservations for transportation, or accommodations. The term “travel document” does not include a passport or visa.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4604_02_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Wrongful removal” means the taking of a child that breaches rights of custody or visitation given or recognized under the law of this state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4604_02_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Wrongful retention” means the keeping or concealing of a child that breaches rights of custody or visitation given or recognized under the law of this state.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

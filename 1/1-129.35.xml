@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-129.35"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-129.35/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_129_35">
+        <akn:num>1-129.35</akn:num>
+        <akn:heading>Use of funds by Statehood Delegation members.</akn:heading>
+<akn:subsection eId="subsec_1-129_35_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as provided in subsection (b) of this section, members of the Statehood Delegation shall use New Columbia Statehood Fund monies for any expense closely and directly related to the operation of their offices.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-129_35_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-129_35_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Upon request, but at least annually, each Statehood Delegation member shall provide the Chief Financial Officer with an accounting of the expenditures made with the money received from the Fund. The date by which the accounting is due shall be set by the Chief Financial Officer. Information submitted by members of the Statehood Delegation shall be included in the report required by § 1-129.33.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

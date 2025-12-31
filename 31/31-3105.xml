@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3105"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-3105/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_3105">
+        <akn:num>31-3105</akn:num>
+        <akn:heading>Exemptions.</akn:heading>
+<akn:subsection eId="subsec_31-3105_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Methods of determining levels of payment or reimbursement for services, or for the type of facility charge eligible for payment or reimbursement under this chapter, and shall be consistent with those for physical illnesses in general and shall take into consideration usual, customary, and reasonable charges for those services. Except as otherwise provided in § 31-3104, deductible or copayment plans, and limits on total amounts payable to an individual in a calendar year or lifetime payment limits, may be applied; provided, that the inpatient and outpatient benefits set forth in § 31-3104 shall be provided for health plans issued in the individual market and small group market with a lifetime payment limit of not less than $80,000 or 1/3 of the lifetime maximum for physical illness, whichever is greater; provided further, that for health plans issued in the large group market, the inpatient and outpatient benefits set forth in § 31-3104 shall be applied with the same lifetime and annual limits for medical, surgical, and mental benefits.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3105_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the cost of complying with the mental health benefits provisions of subsection (a) of this section for large group markets result in at least a 1% increase in the cost of the plan, the group health plan (or health benefit plan or certificate offered in connection with a group health plan) shall be exempt from complying with those mental health benefits parity provisions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3105_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a group health plan is exempt from complying with the mental health benefits parity provisions under subsection (b) of this section, it shall comply with the individual and small group market requirements.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3105_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Nothing in this section shall be construed as requiring health maintenance organizations to provide a greater level of covered benefits than the level required of health insurers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-3105_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Repealed.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

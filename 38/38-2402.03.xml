@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2402.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2402.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2402_03">
+        <akn:num>38-2402.03</akn:num>
+        <akn:heading>Audit.</akn:heading>
+<akn:subsection eId="subsec_38-2402_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>General Accounting Office authority. — All financial transactions and accounts of the corporation or institution of higher education, as the case may be, in connection with the expenditure of any moneys appropriated by any law of the United States:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2402_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Independent audit. — Gallaudet University shall have an annual independent financial audit made of the programs and activities of the University. The institution of higher education with which the Secretary has an agreement under § 38-2401.12 shall have an annual independent financial audit made of the programs and activities of such institution of higher education, including NTID, and containing specific schedules and analyses for all NTID funds, as determined by the Secretary.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2402_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Limitations regarding expenditure of funds. —</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

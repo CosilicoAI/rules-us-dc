@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-461"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-461/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_461">
+        <akn:num>47-461</akn:num>
+        <akn:heading>Council findings.</akn:heading>
+<akn:subsection eId="subsec_47-461_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Many District residents and businesses are already overburdened by current taxation levels.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-461_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The health of the District’s tax base and its potential for economic growth require the maintenance of a competitive tax burden between the District and neighboring jurisdictions.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-461_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Present tax policies and laws are in need of evaluation with respect to their equitability, productivity, efficiency, and effect on economic growth;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-461_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>New or broadened revenue sources must be explored as possible substitutes for current uncompetitive rates to meet the District’s revenue needs, but they must be evaluated carefully in terms of their equity and their effect on economic growth.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-461_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The last comprehensive study of District taxes occurred in 1998, and more recent tax changes have been somewhat piecemeal and sometimes made without regard to the system as a whole or knowledge of long-term effects.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

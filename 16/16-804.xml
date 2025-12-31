@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-804"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-804/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_804">
+        <akn:num>16-804</akn:num>
+        <akn:heading>Motion to seal.</akn:heading>
+<akn:subsection eId="subsec_16-804_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A motion to seal filed with the Court pursuant to this chapter shall state grounds upon which eligibility for sealing is based and facts in support of the person’s claim. It shall be accompanied by a statement of points and authorities in support of the motion, and any appropriate exhibits, affidavits, and supporting documents.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-804_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-804_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A copy of the motion and any amended motion shall be served upon the prosecutor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-804_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The prosecutor shall not be required to respond to the motion unless ordered to do so by the Court pursuant to § 16-805(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-804_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If the movant files a motion to seal an arrest that is not in the Court database or an arrest and related court proceedings that are not in a publicly available database, the motion to seal and responsive pleadings shall not be available publicly. If the Court grants such a motion, it shall order that the motion and responsive pleadings be sealed to the same extent and in the same manner as the records pertaining to the arrest and related court proceedings. If the Court denies such a motion, the Court, the United States Attorney’s Office, the Office of the Attorney General for the District of Columbia, and the law enforcement agency that arrested the movant shall be entitled to retain any and all records relating to the motion in a non-public file.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

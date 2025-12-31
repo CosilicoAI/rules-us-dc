@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2611"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-2611/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_2611">
+        <akn:num>38-2611</akn:num>
+        <akn:heading>CTE grant program.</akn:heading>
+<akn:subsection eId="subsec_38-2611_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established the career and technical education grant program, which shall be administered by OSSE, that, beginning in the 2015-2016 school year, shall provide supplemental funds to DCPS and to public charter schools to support and enhance career and technical education programs.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2611_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Grants awarded pursuant to the CTE grant program shall be supplemental to Formula, federal, or other funds received by a school for career and technical education.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-2611_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>By October 1, 2014, OSSE shall issue regulations for the implementation of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

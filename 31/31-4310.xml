@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4310"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-4310/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_4310">
+        <akn:num>31-4310</akn:num>
+        <akn:heading>Representation of financial standing — Alien companies; violations.</akn:heading>
+<akn:subsection eId="subsec_31-4310_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every advertisement or public announcement and every sign, circular, or card issued by an alien company doing business in the District, representing its financial standing, shall exhibit as capital stock and assets only the capital stock and assets held by its United States branch, the liabilities, including therein the premium and loss reserves required by law, and the amount of surplus, and shall correspond to the next preceding verified statement made by such company to the Commissioner; provided, however, that this section shall not be deemed to prevent an alien company from furnishing to its policyholders in the District of Columbia its annual report to policyholders of its domicile. This subsection shall not apply to an alien company which maintains in the United States, as required by law, assets held in trust for the benefit of the United States policyholders in an amount not less than the sum of its required capital deposit and the amount of its outstanding liabilities arising out of its insurance transactions in the United States.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-4310_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any violation of this section or § 31-4309 [repealed] shall be a misdemeanor, and any person convicted of such violation shall, for the 1st offense, be liable to a fine of not more than $500, and for each subsequent offense shall be liable to a fine of not more than $1,000.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

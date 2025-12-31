@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-753.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-753.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_753_04">
+        <akn:num>4-753.04</akn:num>
+        <akn:heading>Fiscal years 2012 and 2013 rapid re-housing.</akn:heading>
+<akn:subsection eId="subsec_4-753_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-753_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Beginning in fiscal year 2013, and for each fiscal year thereafter, an additional $4 million shall be included in the DCHA Subsidy to provide tenant-based rental assistance to between 200 and 300 eligible families in accordance with the Rent Supplement Program, established by § 6-226. DCHA shall provide tenant- based rental assistance through the Rent Supplement Program to all families placed in housing pursuant to subsection (a) of this section who meet the eligibility criteria established for sponsor-based housing assistance under the Rent Supplement Program, set forth in section 9508 of Title 14 of the District of Columbia Municipal Regulations (14 DCMR § 9508).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

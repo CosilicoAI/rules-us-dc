@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1003.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-1003.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_1003_03">
+        <akn:num>29-1003.03</akn:num>
+        <akn:heading>Organization of limited cooperative association.</akn:heading>
+<akn:subsection eId="subsec_29-1003_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>After a limited cooperative association is formed:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1003_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Unless the articles of organization otherwise provide, the initial directors may cause the limited cooperative association to accept members, including those necessary for the association to begin business.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1003_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Initial directors need not be members.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-1003_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An initial director shall serve until a successor is elected and qualified at a members meeting or the director is removed, resigns, is adjudged incompetent, or dies.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

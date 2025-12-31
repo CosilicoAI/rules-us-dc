@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4424"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4424/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4424">
+        <akn:num>16-4424</akn:num>
+        <akn:heading>Modification or correction of award.</akn:heading>
+<akn:subsection eId="subsec_16-4424_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon motion made within 90 days after the movant receives notice of the award pursuant to § 16-4419 or within 90 days after the movant receives notice of a modified or corrected award pursuant to § 16-4420, the court shall modify or correct the award if:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4424_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a motion made under subsection (a) of this section is granted, the court shall modify or correct and confirm the award as modified or corrected. Otherwise, unless a motion to vacate is pending, the court shall confirm the award.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4424_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A motion to modify or correct an award pursuant to this section may be joined with a motion to vacate the award.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4424_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Irrespective of the time periods established in subsection (a) of this section and § 16-4423(c), a consumer may also seek to modify or vacate an award issued pursuant to a consumer arbitration agreement within 30 days of receiving notice of a motion to confirm the award.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

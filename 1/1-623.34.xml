@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.34"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-623.34/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_623_34">
+        <akn:num>1-623.34</akn:num>
+        <akn:heading>Funeral expenses; transportation of body.</akn:heading>
+<akn:subsection eId="subsec_1-623_34_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If death results from an injury sustained in the performance of duty, the District of Columbia government shall pay, to the personal representative of the deceased or otherwise, funeral and burial expenses not to exceed $5,000, at the discretion of the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-623_34_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The body of an employee whose home was in the United States, at the discretion of the Mayor, may be embalmed and transported in a hermetically sealed casket to his or her home or last place of residence at the expense of the Employees’ Compensation Fund if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

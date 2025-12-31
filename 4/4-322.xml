@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-322"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-322/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_322">
+        <akn:num>4-322</akn:num>
+        <akn:heading>Findings.</akn:heading>
+<akn:subsection eId="subsec_4-322_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Finding adoptive families for children, for whom state assistance is desirable pursuant § 4-301, and assuring the protection of the interests of  children affected during the entire assistance period, require special  measures when the adoptive parents move to other states or are residents of another state.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-322_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Provision of medical and other necessary services for children, with  state assistance, encounters special difficulties when the provision of  services takes place in other states.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-511"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-511/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_511">
+        <akn:num>29-511</akn:num>
+        <akn:heading>Transfer of shares.</akn:heading>
+<akn:subsection eId="subsec_29-511_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Shares in a professional corporation may be transferred only to an individual who is eligible under this chapter to be a shareholder of the corporation, or to the professional corporation, or may devolve by operation of law upon the personal representative or estate of a deceased or legally incompetent shareholder. The articles of incorporation, bylaws, or an agreement among its shareholders may provide that any such transfer is subject to the express approval of all, or of any lesser proportion of the remaining shareholders of the corporation, and may provide for the manner in which such consent is given. Any transfer made in violation of this section shall be void.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-511_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A professional corporation may reacquire its own shares through purchase or redemption, and may cancel those shares if at least one share remains issued and outstanding, except when it is insolvent or the purchase or redemption would render it insolvent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-511_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Securities Act of 2000, effective October 26, 2000 (D.C. Law 13-203; D.C. Official Code § 31-5601.01 et seq.), and the Securities Act of 1933, approved May 27, 1933 (48 Stat. 74; 15 U.S.C. § 77a et seq.), shall not apply to the issuance or transfer of securities of a professional corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-511_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Every certificate for shares of a professional corporation shall contain on its face the following legend: “The ownership and transfer of these shares and the rights and obligations of shareholders are subject to the limitations of the Professional Corporation Act of 2010, D.C. Official Code Title 29, Chapter 5.”</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-511_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If shares of a professional corporation are attached for the individual debts of a shareholder, or are executed upon under any pledge or hypothecation thereof, the sole right of the creditor with respect to such shares shall be to obtain their redemption by the professional corporation within 60 days after serving written demand for redemption upon the corporation. The redemption price for such shares shall be:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

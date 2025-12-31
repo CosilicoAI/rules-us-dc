@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-308.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-308.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_308_09">
+        <akn:num>1-308.09</akn:num>
+        <akn:heading>Liability.</akn:heading>
+<akn:subsection eId="subsec_1-308_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The members of the Council, the Mayor, or any person executing Bonds shall not be liable personally on the Bonds by reason of the issuance thereof.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-308_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding any other provision of this part, the Bonds shall not be general obligations of the District and shall not be in any way a debt or liability of the District within the meaning of any debt or other limit prescribed by law. The full faith and credit or the general taxing power of the District (other than the PILOT or other security authorized under this part) shall not be pledged to secure the payment of any Bonds.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

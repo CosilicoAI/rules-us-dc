@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-858.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-858.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_858_01">
+        <akn:num>47-858.01</akn:num>
+        <akn:heading>Tax abatements for homeowners in enterprise zones — Definitions.</akn:heading>
+<akn:subsection eId="subsec_47-858_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-858_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Eligible owner” means the owner of a residential property who resides in a household consisting of one or more individuals with a household income of 120% or less of the area median income.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-858_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Enterprise zone” means the area of the District designated as the District of Columbia Enterprise Zone under section 1400 of the Internal Revenue Code of 1986, approved August 5, 1997 (111 Stat. 863; 26 U.S.C. § 1400).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-858_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Single family residential property” shall have the same meaning as in § 47-803(6).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-858_01_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Substantially rehabilitates” means rehabilitation of a single family residential property for which the rehabilitation expenditures, during the 24-month period selected by the taxpayer, exceed $20,000. In the case of a rehabilitation that may reasonably be expected to be completed in phases set forth in architectural plans and specifications drawn by an architect licensed by the District of Columbia before the rehabilitation begins, a 60-month period may be substituted for the 24-month period.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2884.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-2884.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_2884_01">
+        <akn:num>47-2884.01</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_47-2884_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The term “person” means an individual, firm, voluntary association, joint-stock company, incorporated society, or corporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2884_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The term “District” means the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2884_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>The term “Mayor” means the Mayor of the District or the agent or agents designated by him to perform any function vested in the Mayor by this part; provided, that for the purposes of subsection (e) of § 47-2884.07 no such agent shall, by way of appeal, review his own action, decision, or ruling.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-2884_01_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The term “pawnbroker” means any person who shall in any manner lend or advance money or other things for profit on pledge and possession of personal property or other valuable thing, other than securities or written or printed evidences of indebtedness or who deals in the purchasing of personal property or other valuable thing on condition of selling the same back again at a  stipulated price, and shall include all pawnbrokers referred to in §§ 5-117.01, 5-117.02, and 5-117.03.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-204.17"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-204.17/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_204_17">
+        <akn:num>9-204.17</akn:num>
+        <akn:heading>Issuance of permits.</akn:heading>
+<akn:subsection eId="subsec_9-204_17_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>The sponsor, site, subject matter, and design of the proposed commemorative work have been approved by the Mayor and Council pursuant to § 9-204.01;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_17_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>The proposed commemorative work complies with requirements set forth in subchapter I of Chapter 11 of Title 6 and subchapter V of Chapter 1 of Subtitle A of Title 8;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_17_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Knowledgeable persons qualified in the field of preservation and maintenance have been consulted to determine structural soundness and durability of the proposed commemorative work;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_17_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>The sponsor authorized to construct the commemorative work has submitted contract documents for the construction of the commemorative work to the Mayor; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-204_17_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>The sponsor authorized to construct and maintain the commemorative work has sufficient funds to complete construction of the project and to provide for the ongoing maintenance of the commemorative work.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

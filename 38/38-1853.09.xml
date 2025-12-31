@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1853.09"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-1853.09/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_1853_09">
+        <akn:num>38-1853.09</akn:num>
+        <akn:heading>Evaluations.</akn:heading>
+<akn:subsection eId="subsec_38-1853_09_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In general. —</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1853_09_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Reports. — The Secretary shall submit to the Committees on Appropriations, Education and the Workforce, and Oversight and Government Reform of the House of Representatives and the Committees on Appropriations, Health, Education, Labor, and Pensions, and Homeland Security and Governmental Affairs of the Senate—</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1853_09_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Public availability. — All reports and underlying data gathered pursuant to this section shall be made available to the public upon request, in a timely manner following submission of the applicable report under subsection (b), except that personally identifiable information shall not be disclosed or made available to the public.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-1853_09_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Limit on amount expended. — The amount expended by the Secretary to carry out this section for any fiscal year may not exceed 5 percent of the total amount appropriated under § 38-1853.14(a)(1) for the fiscal year.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

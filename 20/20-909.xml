@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-909"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-909/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_909">
+        <akn:num>20-909</akn:num>
+        <akn:heading>Payment of claim.</akn:heading>
+<akn:subsection eId="subsec_20-909_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No later than 8 months from the date of the first publication of notice of the appointment of a personal representative, the personal representative shall, unless the Court extends the time for good cause shown, proceed to pay the claims allowed against the estate in the order of priority prescribed in section 20-906. Any person with a valid unbarred claim or with a valid unbarred judgment who has not been paid within the 8 month period may petition the Court for an order directing the personal representative to pay the claim to the extent that funds of the estate are available for such payment. If the Court extends the time for the personal representative to pay a claim under this subsection, the statutory limit for filing a suit on the claim shall be suspended during the extension of time plus 60 days.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-909_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The personal representative may, at any time, pay any just claim which has not been barred, with or without formal presentation, but the personal representative is personally liable to any other claimant whose claim is allowed and who is injured by such payment if:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

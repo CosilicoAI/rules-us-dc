@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-303.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-303.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_303_01">
+        <akn:num>29-303.01</akn:num>
+        <akn:heading>Purposes.</akn:heading>
+<akn:subsection eId="subsec_29-303_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every corporation incorporated under this chapter shall have the purpose of engaging in any lawful business unless a more limited purpose is set forth in the articles of incorporation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-303_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A corporation engaging in a business that is subject to regulation under another law of the District may incorporate under this chapter only if permitted by, and subject to all limitations of, the other law.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

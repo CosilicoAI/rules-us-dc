@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-633"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-633/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_633">
+        <akn:num>26-633</akn:num>
+        <akn:heading>Application of the District of Columbia Banking Code.</akn:heading>
+<akn:subsection eId="subsec_26-633_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An international banking corporation having an office in the District of Columbia shall be subject to all the provisions of the District of Columbia Banking Code as though the international banking corporation is a bank organized under the laws of the District of Columbia, except where it may appear, from the context or otherwise, that such provisions are clearly applicable only to banks or trust companies organized under the laws of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-633_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>An international banking corporation may conduct its banking business in the District of Columbia with the same, but no greater, rights and privileges as a District of Columbia bank, and except as otherwise provided in this chapter, subject to the same duties, restrictions, penalties, and liabilities now or hereafter imposed under the District of Columbia Banking Code upon a District of Columbia bank.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

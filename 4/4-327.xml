@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-327"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-327/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_327">
+        <akn:num>4-327</akn:num>
+        <akn:heading>Optional contents of compacts.</akn:heading>
+<akn:subsection eId="subsec_4-327_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Provisions establishing procedures for and entitlement to medical and  other necessary social services for the child in accordance with applicable  laws, even though the child and the adoptive parents are in a state other than  the one responsible for or providing the services or the funds to defray part  or all of the costs thereof; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-327_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Any other provisions as may be appropriate or incidental to the proper administration of the compact.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-305.25"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-305.25/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_305_25">
+        <akn:num>29-305.25</akn:num>
+        <akn:heading>Quorum and voting requirements for voting groups.</akn:heading>
+<akn:subsection eId="subsec_29-305_25_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Shares entitled to vote as a separate voting group may take action on a matter at a meeting only if a quorum of those shares exists with respect to that matter. Unless the articles of incorporation provides otherwise, a majority of the votes entitled to be cast on the matter by the voting group constitutes a quorum of that voting group for action on that matter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_25_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Once a share is represented for any purpose at a meeting, it shall be deemed present for quorum purposes for the remainder of the meeting and for any adjournment of that meeting unless a new record date is or must be set for that adjourned meeting.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_25_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a quorum exists, action on a matter, other than the election of directors, by a voting group shall be approved if the votes cast within the voting group favoring the action exceed the votes cast opposing the action, unless the articles of incorporation require a greater number of affirmative votes.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_25_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>An amendment of articles of incorporation adding, changing, or deleting a quorum or voting requirement for a voting group greater than specified in subsection (a) or (c) of this section shall be governed by § 29-305.27.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-305_25_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The election of directors shall be governed by § 29-305.28.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

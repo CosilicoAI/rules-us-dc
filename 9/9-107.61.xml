@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/9-107.61"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/9-107.61/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_9_107_61">
+        <akn:num>9-107.61</akn:num>
+        <akn:heading>Information reporting.</akn:heading>
+<akn:subsection eId="subsec_9-107_61_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 3 days after the Mayor’s receipt of the transcript of proceedings relating to the issuance of the GARVEE Bonds, the Mayor shall transmit a copy of the transcript to the Secretary to the Council.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_9-107_61_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Within 12 months after September 23, 2009, and every 12 months thereafter, the Chief Financial Officer shall report to the Council on the amount of obligation per GARVEE Bond issued under this part, how the funds are committed within the 11th Street Bridge project, how each GARVEE bond is structured, and a statement of whether each GARVEE Bonds is structured in such a way as to count toward the District’s 12% debt service cap.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-327.51"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-327.51/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_327_51">
+        <akn:num>1-327.51</akn:num>
+        <akn:heading>Definitions.</akn:heading>
+<akn:subsection eId="subsec_1-327_51_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>“Agencies” means the Metropolitan Police Department, the Fire and Emergency Medical Services Department, and the Customer Service Operations Unit.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-327_51_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>“Call center” means the telephone-based call center and associated operation involving any department or agency throughout the District government that operates the District’s 911, 311, and 727-1000 systems or other facilities for emergency and non-emergency calls. The term “call center” shall include the Citywide Call Center that is responsible for the receipt and processing of 727-1000 calls, but shall not include any other component of the Customer Service Operations Unit established by § 1-327.32.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-327_51_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>“Call center technology” means computer-aided dispatch systems and related public safety answering point technologies and telecommunications devices, and related equipment and appurtenances, including automatic call distribution equipment and any related equipment that manages, stores, channels or otherwise processes telephone calls, mobile communications devices, cellular communications, automatic vehicle location devices, global positioning technologies, and supporting metropolitan area network-based communications and supporting local area networks, that may be used in a call center.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-327_51_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>“Customer service” means activities involved in the receipt and processing of emergency, non-emergency, and citizen service requests by the agencies’ call centers.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-327_51_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>“Director” means the Director, Office of Unified Communications.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-327_51_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>“Office” means the Office of Unified Communications established by this part.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-327_51_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>“Radio technology” means public safety voice radio communications systems and other public safety wireless communications systems and resources.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-327_51_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>“Unified Communications Center” means the control center for radio and call center technology, and customer service, within the Office.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

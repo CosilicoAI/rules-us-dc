@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.71"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-204.71/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_204_71">
+        <akn:num>1-204.71</akn:num>
+        <akn:heading>Borrowing to meet appropriations.</akn:heading>
+<akn:subsection eId="subsec_1-204_71_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In the absence of unappropriated revenues available to meet appropriations made pursuant to § 1-204.46, the Council may by act authorize the issuance of general obligation notes. The total amount of all such general obligation notes originally issued during a fiscal year shall not exceed 2% of the total appropriations for the District for such fiscal year.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_71_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any general obligation note issued under subsection (a) of this section, as authorized by an act of the Council, may be renewed. Any such note, including any renewal of such note, shall be due and payable not later than the last day of the fiscal year occurring immediately after the fiscal year during which the act authorizing the original issuance of such note takes effect.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-204_71_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Section 1-204.46(c) shall not apply to any amount obligated or expended by the District for the payment of the principal of, interest on, or redemption premium for any general obligation note issued under subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

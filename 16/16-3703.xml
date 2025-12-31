@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3703"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-3703/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_3703">
+        <akn:num>16-3703</akn:num>
+        <akn:heading>Affidavit; contents.</akn:heading>
+<akn:subsection eId="subsec_16-3703_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>according to affiant’s information and belief, the plaintiff is entitled to recover possession of chattels proposed to be replevied, being the same described in the complaint;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-3703_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>the defendant has seized and detained or detains the chattels; and</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-3703_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>the chattels were not subject to the seizure or detention and were not taken upon a writ of replevin between the parties.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3171.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3171.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3171_02">
+        <akn:num>42-3171.02</akn:num>
+        <akn:heading>Acquisition and redevelopment of abandoned or deteriorated property.</akn:heading>
+<akn:subsection eId="subsec_42-3171_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor may acquire abandoned property or deteriorated property for the public purpose of eliminating slum and blight:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3171_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor may develop or redevelop abandoned or deteriorated property acquired under this section, may demolish structures on the property, and may take any other lawful action to eliminate blight or unsafe conditions on the property.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3171_02_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Mayor shall not acquire deteriorated property which is occupied and from which tenants shall, or will likely, be displaced unless the Mayor has first made available for public review and comment, for a period of at least 30 days, a plan for the relocation of the displaced tenants.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3171_02_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Before the acquisition of a property under this subchapter, the Mayor shall issue a memorandum describing the Mayor’s plan for the development or disposition of the property, describing any potential displacement of tenants and plans for the relocation of displaced tenants, and setting forth a timetable for the development or disposition of the property.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.72"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/29-306.72/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_29_306_72">
+        <akn:num>29-306.72</akn:num>
+        <akn:heading>Directors’ action.</akn:heading>
+<akn:subsection eId="subsec_29-306_72_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in subsection (b) of this section, directors’ action respecting a director’s conflicting interest transaction shall be effective for the purposes of § 29-306.71(b)(1) if the transaction has been authorized by the affirmative vote of a majority, but no fewer than 2, of the qualified directors who voted on the transaction, after required disclosure by the conflicted director of information not already known by such qualified directors, or after modified disclosure in compliance with subsection (b) of this section; provided, that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_72_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Notwithstanding subsection (a) of this section, when a transaction is a director’s conflicting interest transaction only because a related person described in § 29-306.70(5)(E) or (F) is a party to or has a material financial interest in the transaction, the conflicted director shall not be obligated to make required disclosure to the extent that the director reasonably believes that doing so would violate a duty imposed under law, a legally enforceable obligation of confidentiality, or a professional ethics rule; provided, that the conflicted director discloses to the qualified directors voting on the transaction:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_72_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A majority, but no fewer than 2, of all the qualified directors on the board of directors, or on the committee, constitutes a quorum for the purposes of action that complies with this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_29-306_72_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If directors’ action under this section does not satisfy a quorum or voting requirement applicable to the authorization of the transaction by reason of the articles of incorporation, the bylaws, or a provision of law, independent action to satisfy those authorization requirements shall be taken by the board of directors or a committee, in which action directors who are not qualified directors may participate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

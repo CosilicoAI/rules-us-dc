@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2707"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-2707/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_2707">
+        <akn:num>34-2707</akn:num>
+        <akn:heading>Liability for damages; civil penalty.</akn:heading>
+<akn:subsection eId="subsec_34-2707_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If any underground facility is damaged through the fault of any person, that person shall be liable to the owner of the underground facility for the total cost of the repair or, if necessary, the replacement of the damaged underground facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2707_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If any underground facility is damaged by any person carrying out excavation or demolition without having complied with the notice provisions of this chapter, that person shall be liable to the owner of the underground facility for treble the cost of the repair or replacement of the damaged underground facility.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-2707_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any person who violates any provision of this chapter shall be subject to a civil penalty of $2,500 for the first violation, $3,500 for the second violation, and $5,000 for the third or subsequent violation. Action to recover the civil penalties provided for in this section shall be brought by the Corporation Counsel of the District of Columbia in the Superior Court of the District of Columbia. All penalties recovered from such action, including reasonable attorney’s fees, shall be paid into the General Fund of the District of Columbia.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

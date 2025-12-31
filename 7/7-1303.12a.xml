@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1303.12a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1303.12a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1303_12a">
+        <akn:num>7-1303.12a</akn:num>
+        <akn:heading>Placement pending petition and commitment proceedings.</akn:heading>
+<akn:subsection eId="subsec_7-1303_12a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>In the case of an individual found incompetent in a criminal case, the District shall have no more than 30 days from the date on which the finding is made that the individual is incompetent and not likely to gain competence in the foreseeable future in which to file a petition pursuant to § 7-1303.04(b-1). For extraordinary cause shown, the Court may extend the period of time within which the petition must be filed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1303_12a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In the case of an individual found incompetent in a criminal case prior to October 17, 2002, the District shall have 60 days following October 17, 2002, in which to file a petition pursuant to § 7-1303.04(b-1) for commitment of an individual who is committed pursuant to § 7-1303.04(a), or of an individual whom the Court, within 365 days prior to October 17, 2002, found incompetent and not likely to gain competency in the foreseeable future.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1303_12a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>While awaiting the District’s decision pursuant to subsection (a) of this section and during the pendency of any resultant commitment proceedings, the Court may order the individual placed with DDS for placement in a setting that DDS preliminarily determines can provide habilitation services consistent with the individual’s needs and supervision or security sufficient to prevent the individual from causing injury to others as a result of his or her intellectual disability.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1303_12a_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the Court or DDS places the person in a setting that does not meet the definition of a facility contained in § 7-1301.03(13), the hearing pursuant to § 7-1304.06a shall commence no later than 90 days from the date on which the finding is made that the individual is incompetent and not likely to gain competence in the foreseeable future. If the hearing does not commence before the expiration of the 90-day time period, the Court shall place the individual with the DDS for placement in a facility that does satisfy § 7-1301.03(13) and that DDS preliminarily determines can provide habilitation services consistent with the individual’s needs and supervision or security sufficient to prevent the individual from causing injury to others as a result of the individual’s intellectual disability.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

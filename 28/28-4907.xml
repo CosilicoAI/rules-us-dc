@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4907"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4907/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4907">
+        <akn:num>28-4907</akn:num>
+        <akn:heading>Provision of information in writing; presentation of records.</akn:heading>
+<akn:subsection eId="subsec_28-4907_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If parties have agreed to conduct a transaction by electronic means and a law requires a person to provide, send, or deliver information in writing to another person, the requirement is satisfied if the information is provided, sent, or delivered, as the case may be, in an electronic record capable of retention by the recipient at the time of receipt. An electronic record is not capable of retention by the recipient if the sender or its information processing system inhibits the ability of the recipient to print or store the electronic record.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4907_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If a law other than this chapter requires a record (1) to be posted or displayed in a certain manner, (2) to be sent, communicated, or transmitted by a specified method, or (3) to contain information that is formatted in a certain manner, the following rules apply:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4907_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a sender inhibits the ability of a recipient to store or print an electronic record, the electronic record is not enforceable against the recipient.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4907_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The requirements of this section may not be varied by agreement, but:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

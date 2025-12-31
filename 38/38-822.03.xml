@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/38-822.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/38-822.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_38_822_03">
+        <akn:num>38-822.03</akn:num>
+        <akn:heading>Additional requirements for public school meals.</akn:heading>
+<akn:subsection eId="subsec_38-822_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-822_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Public schools, public charter schools, and participating private schools shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_38-822_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Public schools, public charter schools, and participating private schools shall make cold, filtered water available free to students, through water fountains or other means, when meals are served to students in public schools, public charter schools, and participating private schools.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

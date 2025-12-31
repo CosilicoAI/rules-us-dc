@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1259.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/34-1259.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_34_1259_08">
+        <akn:num>34-1259.08</akn:num>
+        <akn:heading>Subscriber fees.</akn:heading>
+<akn:subsection eId="subsec_34-1259_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The cable operator shall publish and make available to each potential subscriber a schedule of all applicable fees and charges for providing cable service and shall notify subscribers that basic cable service is available.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1259_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A cable operator shall not, with regard to fees, discriminate or grant any preference or advantage to any person. Nothing in this section shall be construed to prohibit a cable operator from instituting preferential or advantageous fees for the elderly, people with disabilities, or recipients of District or federal public assistance.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1259_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>To the extent permitted under applicable law or regulation, a cable operator may, for promotional purposes, waive, reduce, or suspend connection or monthly service fees for specific or indeterminate periods not to exceed 6 months or for a period set forth in a franchise agreement, whichever is shorter.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_34-1259_08_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The cable operator shall provide a notice of any planned waiver, reduction, or suspension of connection or monthly service fees to the Office at least 30 days before the waiver, reduction, or suspension.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

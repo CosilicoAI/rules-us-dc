@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2703.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-2703.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_2703_02">
+        <akn:num>42-2703.02</akn:num>
+        <akn:heading>Financing of housing projects.</akn:heading>
+<akn:subsection eId="subsec_42-2703_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Agency may make, issue commitments for, participate in making loans or mortgage loans to sponsors for the financing of housing projects for eligible persons. Such housing projects shall comply with all applicable requirements regarding tenant income mixtures, tenant income, the number of units reserved for very-low, low and moderate income persons, and other requirements established by the Internal Revenue Service, the Department of Housing and Urban Development or other laws, rules and guidelines applicable under the Agency’s plan of financing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-2703_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Agency when purchasing property shall issue only bonds that are government entity bonds of the Agency or 501(c)(3) bonds created by the Agency for the specific purpose of undertaking a development project.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

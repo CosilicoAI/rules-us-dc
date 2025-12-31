@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-529.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-529.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_529_04">
+        <akn:num>1-529.04</akn:num>
+        <akn:heading>Enrollment in health benefits plan.</akn:heading>
+<akn:subsection eId="subsec_1-529_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For purposes of this section, “former spouse” means a living person:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-529_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Any former spouse of an employee or of a retiree may enroll in a health benefits plan approved under the Federal Employee Health Benefits Program or in a plan approved under §§ 1-621.05 through 1-621.13.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-529_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any former spouse who enrolls in a health benefits plan pursuant to subsection (b) of this section may elect to enroll either as an individual or for self and family, subject to an agreement by the former spouse to pay the full subscription charge of the enrollment, including any amount set aside for the administration of the health benefits plan and any necessary reserves as determined by the Mayor.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-529_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Only former spouses whose marriages were dissolved after March 16, 1989 through divorce, annulment, or legal separation shall be eligible to enroll in the health benefits plans.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

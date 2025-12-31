@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4605"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-4605/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_4605">
+        <akn:num>28-4605</akn:num>
+        <akn:heading>Disclosure; written agreement required.</akn:heading>
+<akn:subsection eId="subsec_28-4605_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Prior to the execution of a contract or agreement between a consumer and a consumer credit service organization or prior to the receipt by the consumer credit service organization of any money or other valuable consideration, whichever occurs first, the consumer credit service organization shall provide the consumer with a statement that contains the information required pursuant to subsection (b) of this section. The consumer credit service organization shall maintain for 3 years a copy of the statement signed by the consumer acknowledging receipt of the statement required by subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4605_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The information statement shall include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4605_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any contract between a consumer and the consumer credit service organization for the purchase of the services of the consumer credit service organization shall be in writing, dated, signed by the consumer, and include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4605_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The contract shall be accompanied by a notice of cancellation that shall include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-4605_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The consumer credit service organization shall provide a consumer with a copy of the information statement, contract, disclosure statement, notice of cancellation, and any other document required by this chapter or the rules issued pursuant to this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/25-205"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/25-205/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_25_205">
+        <akn:num>25-205</akn:num>
+        <akn:heading>Board record-keeping responsibilities.</akn:heading>
+<akn:subsection eId="subsec_25-205_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Board shall maintain complete and accurate records of all action taken on:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-205_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Board shall maintain the records in a manner readily accessible for inspection by the public during normal business hours.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-205_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Board shall provide to the Director and the Council annual reports detailing the activities of the Board for the previous year regarding the following items:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_25-205_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The Board shall provide to the office of each ANC, on a quarterly basis, a list of all licenses due to expire during the ensuing 6 months.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

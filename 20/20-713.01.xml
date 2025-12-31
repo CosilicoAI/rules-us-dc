@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-713.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-713.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_713_01">
+        <akn:num>20-713.01</akn:num>
+        <akn:heading>Unsupervised administration; inventory and appraisal duties of unsupervised personal representative.</akn:heading>
+<akn:subsection eId="subsec_20-713_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If the administration is unsupervised, the personal representative, if not a special administrator or a successor to another representative who has previously discharged this duty, shall, within 3 months after appointment, prepare and deliver or mail to each interested person an inventory of property owned by the decedent at the time of death, listing each item of such property with reasonable detail, and indicating as to each listed item, its fair market value as of the date of the decedent’s death, and the type and amount of any encumbrance that may exist with reference to any item.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-713_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The personal representative may also file the verified original of the inventory for record with the Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-713_01_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The personal representative may use the standing appraisers or may employ any other qualified and disinterested appraiser to assist in ascertaining the fair market value as of the date of the decedent’s death of any asset the value of which may be subject to reasonable doubt. Different persons may be employed to appraise different kinds of assets included in the estate. The names and addresses of any appraiser shall be indicated on the inventory with the item or items appraised.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-713_01_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If any property not included in the original inventory comes to the knowledge of a personal representative or if the personal representative learns that the value or description indicated in the original inventory for any item is erroneous or misleading, the personal representative shall make a supplementary inventory or appraisement showing the market value as of the date of the decedent’s death of the new item or the revised market value or descriptions, and the appraisers or other data relied upon, if any, and file it with the Court if the original inventory was filed, and mail or deliver copies thereof to the interested persons.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

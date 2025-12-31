@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-211.23"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-211.23/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_211_23">
+        <akn:num>24-211.23</akn:num>
+        <akn:heading>Testing methodology.</akn:heading>
+<akn:subsection eId="subsec_24-211_23_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Testing shall be performed by an outside contractor. The contractor shall be a laboratory certified by the United States Department of Health and Human Services (“HHS”) to perform job related drug and alcohol forensic testing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_23_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>For random testing, the contractor shall come on-site to the Department’s institutions and shall collect urine specimens and split the samples. The contractor shall perform enzyme-multiplied-immunoassay technique (“EMIT”) testing on one sample and store the split sample. Any positive EMIT test shall then be confirmed by the contractor using gas chromatography/mass spectrometry (“GCMS”) methodology.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_23_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Any Department employee found to have a confirmed positive urinalysis shall be notified of the result. The employee may then authorize that the stored sample be sent to another HHS certified laboratory of his or her choice, at his or her expense, for secondary GCMS confirmation.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_23_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Reasonable suspicion and post-accident employee testing shall follow the same procedures set forth in subsections (a) through (c) of this section. In such cases, the employee shall be escorted by a supervisor to the contractor’s test site for specimen collection or a breathalyzer.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_23_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Any Department employee who operates a motor vehicle in the District of Columbia shall be deemed to have given his or her consent, subject to conditions in this subchapter, to the testing of the person’s urine or breath for the purpose of determining drug or alcohol content whenever a supervisor has reasonable suspicion or a police officer arrests such person for a violation of the law and has reasonable grounds to believe such person was operating or in physical control of a motor vehicle within the District while that person was intoxicated as defined by § 50-2206.01(9), while under the influence of an intoxicating liquor or any drug or any combination thereof, or while the ability to operate a motor vehicle was impaired by the consumption of an intoxicating beverage.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-211_23_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>A breathalyzer shall be deemed positive by the Department’s testing contractor if the contractor determines that the alcohol concentration of the employee’s breath meets the definition of intoxicated as defined by § 50-2206.01(9). A positive breathalyzer test shall be grounds for termination of employment in accordance with subchapter I of Chapter 6 of Title 1.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

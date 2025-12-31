@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.53"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/1-325.53/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_1_325_53">
+        <akn:num>1-325.53</akn:num>
+        <akn:heading>HIV/AIDS Administration Capacity Building Fund report.</akn:heading>
+<akn:subsection eId="subsec_1-325_53_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>By December 1, 2005, the Mayor, through the HIV/AIDS Administration within the Department of Health, shall provide to the Council a report that includes a comprehensive plan for distributing the funds from the Capacity Building Fund to those wards that lack the infrastructure to provide preventative and maintenance services within the ward to persons living with HIV/AIDS.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_1-325_53_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Mayor shall submit to the Council no later than 180 days after the end of each fiscal year a report on the financial condition of the Capacity Building Fund, including the results of the operation of the fund for the preceding fiscal year and an analysis of the number of persons living with HIV/AIDS, by ward.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

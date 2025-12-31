@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-218.51"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-218.51/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_218_51">
+        <akn:num>2-218.51</akn:num>
+        <akn:heading>Waiver of subcontracting requirements.</akn:heading>
+<akn:subsection eId="subsec_2-218_51_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The subcontracting requirements of § 2-218.46 may be waived only if there is insufficient market capacity for the goods or services that comprise the project and such lack of capacity leaves the contractor commercially incapable of achieving the subcontracting requirements at a project level. The subcontracting requirements of § 2-218.46 may only be waived in writing by the Director. An agency seeking waiver of the subcontracting requirements of § 2-218.46 shall submit to the Director a request for waiver, which shall include the following:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-218_51_a_1">
+      <akn:num>(a-1)</akn:num>
+      <akn:content><akn:p>Before the Director approves an agency’s waiver request, the Director shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-218_51_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Director approves an agency&#x27;s request for waiver of the subcontracting requirements of § 2-218.46 and grants such a waiver, the Director&#x27;s determination shall set forth the information outlined in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

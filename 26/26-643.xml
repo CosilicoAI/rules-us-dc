@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/26-643"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/26-643/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_26_643">
+        <akn:num>26-643</akn:num>
+        <akn:heading>Commissioner’s powers; regulations.</akn:heading>
+<akn:subsection eId="subsec_26-643_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Commissioner shall have all of the powers granted to the Commissioner under the District of Columbia Banking Code to the extent appropriate to enable the Commissioner to supervise an international banking corporation office of an international banking corporation holding a license to maintain the office.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_26-643_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The Commissioner may promulgate, in addition to, and not inconsistent with, this chapter, general rules, regulations, and definitions and specific rulings, demands, and findings as the Commissioner may consider necessary for the proper conduct of the business authorized and licensed under, and for the enforcement of, this chapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

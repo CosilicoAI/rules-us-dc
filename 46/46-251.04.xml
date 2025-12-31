@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.04"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/46-251.04/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_46_251_04">
+        <akn:num>46-251.04</akn:num>
+        <akn:heading>Duties of the employer.</akn:heading>
+<akn:subsection eId="subsec_46-251_04_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon receipt of a medical support notice, an employer shall, within 20 business days after the date of the medical support notice:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_04_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the employer determines that the child cannot be enrolled in health insurance coverage because the employee contributions exceed the amount that may be withheld from the parent’s earnings due to federal or District of Columbia withholding limitations or prioritizations, the employer shall promptly complete and send to the IV-D agency the applicable portion of the medical support notice.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_04_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If the employer receives notice from a health insurer that the parent is subject to a waiting period that expires more than 90 days from the health insurer’s receipt of the medical support notice, or that has a duration determined by a measure other than the passage of time, the employer shall inform the health insurer, when the parent is eligible to enroll in health insurance coverage, that the parent is eligible and that the medical support notice requires the enrollment of the child.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_46-251_04_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Within 10 days after an employer receives notice that a parent subject to a medical support notice will terminate employment, or within 10 days after the termination, whichever occurs earlier, the employer shall notify the IV-D agency of the termination and provide the IV-D agency with the last known address and the name and address of the parent’s new employer, if known.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

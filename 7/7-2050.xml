@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2050"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-2050/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_2050">
+        <akn:num>7-2050</akn:num>
+        <akn:heading>Pending actions and proceedings; existing orders.</akn:heading>
+<akn:subsection eId="subsec_7-2050_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>No judicial or administrative proceeding commenced by or against any child development facility, or officer or employee of a child development facility in his or her official capacity, shall abate by reason of the taking effect of this subchapter; but the action or proceeding shall be continued with substitution as to parties and officers or agencies as are appropriate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-2050_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>All decisions issued pursuant to the Child Development Facilities Regulation shall continue in effect until modified, rescinded, or superseded by rules or regulation issued pursuant to this subchapter.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

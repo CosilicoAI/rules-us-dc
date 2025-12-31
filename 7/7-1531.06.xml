@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1531.06"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1531.06/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1531_06">
+        <akn:num>7-1531.06</akn:num>
+        <akn:heading>Refusal to make anatomical gift; effect of refusal.</akn:heading>
+<akn:subsection eId="subsec_7-1531_06_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An individual may refuse to make an anatomical gift of the individual’s body or part by:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1531_06_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A record signed pursuant to subsection (a)(1)(B) of this section shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1531_06_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An individual who has made a refusal may amend or revoke the refusal:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1531_06_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Except as otherwise provided in § 7-1531.07(h), in the absence of an express, contrary indication by the individual set forth in the refusal, an individual’s unrevoked refusal to make an anatomical gift of the individual’s body or part bars all other persons from making an anatomical gift of the individual’s body or part.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

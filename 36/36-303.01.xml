@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/36-303.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/36-303.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_36_303_01">
+        <akn:num>36-303.01</akn:num>
+        <akn:heading>Nonwaiverable conditions; conditions affecting marketing agreements.</akn:heading>
+<akn:subsection eId="subsec_36-303_01_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>All marketing agreements shall be in writing and shall be subject to the nonwaiverable conditions set forth in this section, whether or not such conditions are expressly set forth in such marketing agreements. For the purposes of this section, the term “marketing agreement” shall also include any oral or written collateral or ancillary agreement. No marketing agreement shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_36-303_01_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Nothing contained within this section shall be construed as prohibiting a distributor from suggesting or advising the retail dealer of appropriate or reasonable hours of operation, days of operation, or prices, provided that the distributor shall in no way or manner attempt to threaten or coerce the retail dealer into following his suggestions or advice. Nothing contained within this section shall be construed as prohibiting a retail dealer from agreeing to purchase or accept delivery of other products or equipment from the distributor or from participating financially or otherwise in any promotional or advertising campaign sponsored by the distributor, provided that the distributor shall in no way or manner attempt to threaten or coerce such actions on the part of the retail dealer.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

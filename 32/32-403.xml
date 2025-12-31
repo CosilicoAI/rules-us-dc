@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/32-403"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/32-403/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_32_403">
+        <akn:num>32-403</akn:num>
+        <akn:heading>Bonding requirements.</akn:heading>
+<akn:subsection eId="subsec_32-403_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Every applicant for a license to operate an employment agency, employment counseling service, or job listing service, prior to receiving a license, shall file with the Mayor a bond signed by the applicant as principal and by a surety company authorized to do business in the District as a surety.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-403_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-403_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Each bond shall be in favor of the District for the benefit of any job-seeker injured by the employment agency or employment counseling service or any purchaser of job lists from the job listing service when the job-seeker or purchaser is unable to recover directly from the licensee for the injury. The liability of the surety under any bond may not exceed the amount of the bond, regardless of the number or amount of claims filed. If the claims filed should exceed the amount of the bond, the surety shall pay the amount of the bond to the Mayor for distribution to claimants entitled to restitution and shall be relieved of all liability under the bond.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-403_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Upon commencement of any action or actions against the surety based upon the bond for an aggregate amount exceeding the amount of the bond, the Mayor may require the licensee to obtain an additional bond in an amount to be determined by the Mayor. The licensee’s failure to file the new and additional bond within 30 days from the date of the Mayor’s requirement shall constitute cause for revocation of the license.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-403_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>Each applicant for renewal of a license to operate an employment agency, employment counseling service, or job listing service, prior to receiving the license renewal, shall file with the Mayor evidence that the bond required by this section remains in force.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_32-403_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>The Mayor may accept an irrevocable letter of credit from a financial institution authorized to do business in the District, or evidence of cash deposited in an escrow account in a financial institution in the District in the name of the licensee and the District in lieu of the bond required by this section. The letter of credit or escrow account shall be in the amounts required by subsection (b) of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

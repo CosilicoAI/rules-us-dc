@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1404"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/5-1404/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_5_1404">
+        <akn:num>5-1404</akn:num>
+        <akn:heading>Former duties of coroner; oaths; teaching; other duties.</akn:heading>
+<akn:subsection eId="subsec_5-1404_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The CME shall be responsible for all the medical functions formerly performed by the coroner in the District of Columbia consistent with the provisions of this chapter. The CME and such other medical examiners as may be appointed may administer oaths and affirmations and take affidavits in connection with the performance of their duties.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1404_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The CME, other medical examiners, medicolegal investigators and toxicologists as he or she may appoint, may be authorized by the CME to teach medical and law school classes, to conduct special classes for law enforcement personnel and to engage in other activities related to their work.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1404_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The CME shall inform the Registrar of Vital Records of all deaths of children 18 years of age or younger as soon as practicable, but in any event within 5 business days.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_5-1404_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The CME, or his or her designee, shall attend all reviews of child deaths by the Child Fatality Review Committee. The CME shall coordinate with the Child Fatality Review Committee in its investigations of child deaths.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

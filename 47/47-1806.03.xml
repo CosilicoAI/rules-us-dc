@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1806.03"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-1806.03/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_1806_03">
+        <akn:num>47-1806.03</akn:num>
+        <akn:heading>Tax on residents and nonresidents — Imposition and rates.</akn:heading>
+<akn:subsection eId="subsec_47-1806_03_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1806_03_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>In lieu of the method of computation provided for in subsection (a) of this section, individuals may elect to compute the tax in accordance with a tax table prescribed by the Mayor for such taxable year, subject to such rules and regulations as the Mayor may prescribe. The amount of tax to be paid under the tax table prescribed by the Mayor shall be consistent with the tax rates provided for in subsection (a) of this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1806_03_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>An individual not living with a spouse or domestic partner on the last day of the taxable year, for the purposes of this chapter, shall be considered as a single person.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1806_03_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>This section shall not apply to any return filed by a fiduciary for an estate or trust or to any married (or domestic partner) resident living with his or her spouse (or domestic partner) at any time during the taxable year where such spouse (or domestic partner) files a return and computes the tax thereon without regard to this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-1806_03_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>If a spouse or domestic partner living together file separate returns, each shall be treated as a single person for the purposes of this section.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

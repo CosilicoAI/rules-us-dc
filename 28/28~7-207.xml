@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-207"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28:7-207/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28:7_207">
+        <akn:num>28:7-207</akn:num>
+        <akn:heading>Goods must be kept separate; fungible goods.</akn:heading>
+<akn:subsection eId="subsec_28:7-207_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Unless the warehouse receipt provides otherwise, a warehouse shall keep separate the goods covered by each receipt so as to permit at all times identification and delivery of those goods. However, different lots of fungible goods may be commingled.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28:7-207_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If different lots of fungible goods are commingled, the goods are owned in common by the persons entitled thereto and the warehouse is severally liable to each owner for that owner’s share. If, because of overissue, a mass of fungible goods is insufficient to meet all the receipts the warehouse has issued against it, the persons entitled to the fungible goods include all holders to which overissued receipts have been duly negotiated.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

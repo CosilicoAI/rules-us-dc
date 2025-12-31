@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-671.11"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-671.11/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_671_11">
+        <akn:num>8-671.11</akn:num>
+        <akn:heading>Registry; substitute notice.</akn:heading>
+<akn:subsection eId="subsec_8-671_11_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Environmental Health Administration shall establish and maintain a registry that contains all environmental covenants and any amendment or termination of those covenants. The registry may also contain any other information concerning environmental covenants and the real property subject to them which the Environmental Health Administration considers appropriate. The registry is a public record for purposes of § 1-207.42.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-671_11_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>After an environmental covenant or an amendment or termination of a covenant is filed in the registry established pursuant to subsection (a) of this section, a notice of the covenant, amendment, or termination that complies with this section may be recorded in the land records in lieu of recording the entire covenant. Any such notice must contain:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-671_11_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>A statement in substantially the following form, executed with the same formalities as a deed in this state, satisfies the requirements of subsection (b) of this section:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

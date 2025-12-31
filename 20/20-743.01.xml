@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/20-743.01"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/20-743.01/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_20_743_01">
+        <akn:num>20-743.01</akn:num>
+        <akn:heading>Sale, encumbrance, or transaction involving conflict of interest; voidable; exceptions.</akn:heading>
+<akn:subsection eId="subsec_20-743_01_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>the will authorized such dealings with the personal representative, either generally or with regard to a specific transaction or type of transaction;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-743_01_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>a contract entered into by the decedent authorized such a transaction; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_20-743_01_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>the transaction is approved by the Court after notice to the interested persons.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

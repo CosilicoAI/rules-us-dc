@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2502.28b"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/31-2502.28b/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_31_2502_28b">
+        <akn:num>31-2502.28b</akn:num>
+        <akn:heading>Sewer-line backup insurance notice requirements for the provision of homeowner’s and renter’s insurance.</akn:heading>
+<akn:subsection eId="subsec_31-2502_28b_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Within 90 days of September 19, 2013, a company authorized to sell or negotiate homeowner’s or renter’s insurance in the District of Columbia shall provide a written notice that states that a standard homeowner’s or renter’s insurance policy does not cover losses from sewer-line back up to:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2502_28b_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The statement shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2502_28b_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If an application is made by telephone, the insurer is deemed to be in compliance with this section if, within 7 calendar days after the date of application, the insurer sends by mail the notice to the insured.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2502_28b_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If an application is made using the Internet, the insurer is deemed to be in compliance with this section if the insurer provides the notice to the applicant in a stand-alone format, similar to the notice requirements in subsection (b)(1), (2), and (3) of this section, before the submission of the application.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_31-2502_28b_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The insurer’s failure to provide notice as required under this section does not create a private right of action.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

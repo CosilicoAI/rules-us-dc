@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4015"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/16-4015/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_16_4015">
+        <akn:num>16-4015</akn:num>
+        <akn:heading>Coercive or violent relationship.</akn:heading>
+<akn:subsection eId="subsec_16-4015_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Before a prospective party signs a collaborative law participation agreement, a prospective collaborative lawyer shall make reasonable inquiry whether the prospective party has a history of a coercive or violent relationship with another prospective party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4015_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Throughout a collaborative law process, a collaborative lawyer reasonably and continuously shall assess whether the party the collaborative lawyer represents has a history of a coercive or violent relationship with another party.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_16-4015_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>If a collaborative lawyer reasonably believes that the party the lawyer represents or the prospective party who consults the lawyer has a history of a coercive or violent relationship with another party or prospective party, the lawyer may not begin or continue a collaborative law process unless:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1431.08"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/2-1431.08/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_2_1431_08">
+        <akn:num>2-1431.08</akn:num>
+        <akn:heading>Rulemaking and interagency agreements.</akn:heading>
+<akn:subsection eId="subsec_2-1431_08_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>The Mayor shall promulgate rules as necessary to implement the provisions of this unit. The proposed rules shall be submitted to the Council for a 30-day period of review, excluding Saturdays, Sundays, and days of Council recess. If the Council does not approve or disapprove the proposed rules by resolution within this 30-day period, the proposed rules shall be deemed approved.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1431_08_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>No later than 3 months after March 8, 2007, the Mayor shall issue rules which shall assign specified functions to agencies under Titles I, II, III, and IV of the ADA and shall establish a process for regular interagency meetings of the agencies with assigned specified functions. The rules shall, at a minimum, address the functions specified in section IV-B of Mayor’s Order 2006-58, issued on May 23, 2006.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_2-1431_08_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All agencies assigned specific functions under the rules described in subsection (b) of this section shall enter into a Memorandum of Agreement (“MOA”) or a Memorandum of Understanding (“MOU”) with the Office of Disability Rights. Each MOA or MOU shall describe operational and communication procedures for interaction with the Office.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

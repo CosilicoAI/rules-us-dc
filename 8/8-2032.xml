@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2032"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/8-2032/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_8_2032">
+        <akn:num>8-2032</akn:num>
+        <akn:heading>Pet ownership policy established.</akn:heading>
+<akn:subsection eId="subsec_8-2032_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>As a condition of tenancy or otherwise, prohibit or prevent an elderly tenant or tenant with a disability from owning common household pets or keeping common household pets in the rental unit of the tenant; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_8-2032_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Discriminate against any person in connection with admission to, or continued occupancy of, that rental unit by reason of the ownership of common household pets by that person or the presence of common household pets in the rental unit of that person.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

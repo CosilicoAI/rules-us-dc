@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/24-707"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/24-707/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_24_707">
+        <akn:num>24-707</akn:num>
+        <akn:heading>Hearing.</akn:heading>
+<akn:subsection eId="subsec_24-707_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>Upon the evidence introduced at a hearing held for that purpose the court shall determine whether the patient is a drug user. The hearing shall be conducted without a jury unless, before such hearing and within 5 days after the date on which the petition is filed pursuant to § 24-705, a jury is demanded by the patient or by the United States Attorney for the District of Columbia. Each patient concerning whom a report is filed shall be detained at such place as the Mayor may designate until the completion of such hearing or until released as provided in § 24-705(b).</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_24-707_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The rules of evidence applicable in civil judicial proceedings shall be applicable to hearings pursuant to this section, including the right of the patient to present evidence in his own behalf and to subpoena and cross-examine witnesses. However, no patient examined pursuant to the provisions of §§ 24-701 to 24-711, shall be permitted at any hearing order pursuant to this section to object to the submission of testimony concerning such examination on the ground of privilege.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

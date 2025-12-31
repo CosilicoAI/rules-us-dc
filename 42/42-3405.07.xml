@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3405.07"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3405.07/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3405_07">
+        <akn:num>42-3405.07</akn:num>
+        <akn:heading>Revocation.</akn:heading>
+<akn:subsection eId="subsec_42-3405_07_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A certificate issued pursuant to § 42-3402.02(a), an exemption issued pursuant to § 42-3402.02(b) or § 42-3402.10, or registration required pursuant to § 42-3404.11 may be revoked after notice and hearing upon a written finding of fact that the holder of the certificate, the holder of the exemption, or the registrant has:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3405_07_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>If the Mayor finds after notice and hearing that the holder of a certificate, the holder of an exemption, or the registrant has been guilty of a violation for which revocation could be ordered, the Mayor may issue a cease and desist order; or, upon adjudication for any infraction thereof, impose civil fines, penalties, and fees as alternative sanctions, pursuant to Chapter 18 of Title 2. Adjudication of any infraction shall be pursuant to Chapter 18 of Title 2.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

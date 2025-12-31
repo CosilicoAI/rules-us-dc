@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1304.06a"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/7-1304.06a/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_7_1304_06a">
+        <akn:num>7-1304.06a</akn:num>
+        <akn:heading>Hearing and determination by Court or jury.</akn:heading>
+<akn:subsection eId="subsec_7-1304_06a_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For a commitment hearing on a petition filed pursuant to § 7-1303.04(b-1), an individual found incompetent in a criminal case may demand a jury trial, and shall be so informed of this right. The demand shall be made at the status hearing held pursuant to § 7-1304.05(b). If a timely demand for jury trial is not made, the Court shall serve as the factfinder at the hearing. A hearing by the Court or jury shall be accorded with all reasonable speed.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1304_06a_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The comprehensive evaluation report and individual habilitation plan required by § 7-1304.03 shall be completed prior to the hearing.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1304_06a_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The individual found incompetent in a criminal case shall have the right to be present during the trial or hearings and to testify, but shall not be compelled to testify, and shall be so advised by the Court. The individual shall have the right to be represented by counsel, retained or appointed by the Court, in any hearing or trial, and shall be so informed by the Court of this right. The individual shall have the right to call witnesses and present evidence, and to cross-examine opposing witnesses.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_7-1304_06a_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>If the Court or jury finds that the individual does not have an intellectual disability or that the individual is not likely to cause injury to others as a result of the individual’s intellectual disability if allowed to remain at liberty, the Court shall dismiss the petition. If the Court or jury finds that the individual has an intellectual disability and is likely to cause injury to others as a result of the individual’s intellectual disability if allowed to remain at liberty, the Court shall order commitment to DDS for placement in a facility that would be the least restrictive means of providing the habilitation indicated by the individual habilitation plan required under § 7-1304.03 and of preventing the individual from causing injury to others as a result of the individual’s intellectual disability.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

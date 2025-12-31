@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1404"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-1404/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_1404">
+        <akn:num>4-1404</akn:num>
+        <akn:heading>Application for issuance of licenses.</akn:heading>
+<akn:subsection eId="subsec_4-1404_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>An application for a license as a child-placing agency shall be made to the Mayor on forms provided by him and in the manner prescribed. Before such license is issued the Department of Health shall arrange to have an investigation made of the activities and standards of care of the agency and shall consult with persons having official connection with the agency. If the Department of Health is satisfied as to the good character and intent of the applicant, and that the agency is adequately financed, and that its staff, procedures, and services conform to the established standards of care, the Department of Health shall recommend to the Mayor that a license be issued.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1404_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>A provisional license may be issued to any agency which is temporarily unable to conform to all the provisions of the established standards of care upon terms and conditions prescribed by the Mayor upon recommendation of the Department of Health.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-1404_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All licenses shall be issued for one year from the date thereof and may be renewed annually on the application of the agency, except that provisional licenses may be issued for not more than 3 successive years.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

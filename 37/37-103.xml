@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/37-103"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/37-103/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_37_103">
+        <akn:num>37-103</akn:num>
+        <akn:heading>Enterprise Fund.</akn:heading>
+<akn:subsection eId="subsec_37-103_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>There is established the Eastern Market Enterprise Fund (“Fund”), an interest-bearing account, pursuant to § 47-373(2)(C). The Fund shall be operated by the CPMO in accordance with general accepted accounting principles.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-103_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The CPMO shall deposit into the Fund all revenues, proceeds, and moneys from whatever source derived which are collected or received by the CPMO on behalf of Eastern Market. These revenues, proceeds, and moneys shall be credited to the Fund and shall not, at anytime, be transferred to, lapse into, or be commingled with the General Fund of the District of Columbia, the Cash Management Pool, or any other funds or accounts of the District of Columbia, except for funds transferred to the District of Columbia Treasurer to pay all expenses related to the management and maintenance of the Eastern Market Square.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_37-103_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>All Eastern Market accounts shall be independently audited biennially by the District of Columbia Auditor, and the audit shall be submitted to the Mayor and the Council.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

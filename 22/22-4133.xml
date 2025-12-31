@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4133"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/22-4133/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_22_4133">
+        <akn:num>22-4133</akn:num>
+        <akn:heading>Post-conviction DNA testing.</akn:heading>
+<akn:subsection eId="subsec_22-4133_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A person in custody pursuant to the judgment of the Superior Court of the District of Columbia for a crime of violence may, at any time after conviction or adjudication as a delinquent, apply to the court for DNA testing of biological material that:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4133_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>The application shall:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4133_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>Unless the application and files and records of the case conclusively show that the applicant is entitled to no relief, the court shall notify the prosecution of an application made pursuant to subsection (a) of this section and shall afford the prosecution an opportunity to respond. Upon receiving notice of an application made pursuant to subsection (a) of this section, the prosecution shall take the necessary steps to ensure that any remaining biological material that was obtained in connection with the case or investigation is preserved pending the completion of proceedings under this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4133_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>The court shall order DNA testing pursuant to an application made under subsection (a) of this section upon a determination that the application meets the criteria set forth in subsections (a) and (b) of this section and there is a reasonable probability that testing will produce non-cumulative evidence that would help establish that the applicant was actually innocent of the crime for which the applicant was convicted or adjudicated as delinquent.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4133_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_22-4133_f">
+      <akn:num>(f)</akn:num>
+      <akn:content><akn:p>An order granting or denying relief under this section is a final order for purposes of appeal.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

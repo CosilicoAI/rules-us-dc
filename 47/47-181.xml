@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/47-181"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/47-181/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_47_181">
+        <akn:num>47-181</akn:num>
+        <akn:heading>Tax reform procedure and priority.</akn:heading>
+<akn:subsection eId="subsec_47-181_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>If local Fiscal Year 2016 recurring annual revenues included in the quarterly revenue estimate issued in September 2015 exceed the annual revenue estimate incorporated in the approved budget and financial plan for Fiscal Year 2016, the additional revenue shall be used to implement the provisions set forth in the Tax Revision Commission Implementation Amendment Act of 2014, effective February 26, 2015 (D.C. Law 20-155; 61 DCR 9990) (“TRC Act”), according to the priority set forth in subsection (c) of this section, for taxable years beginning or deaths occurring, as applicable, after December 31, 2015; provided, that the Chief Financial Officer shall recalculate the cost of the provisions of the TRC Act with the September 2015 estimate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-181_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>After the Fiscal Year 2016 budget and financial plan has been approved by the District, any recurring revenues in a February revenue estimate preceding any subsequent fiscal year, net of the dedication required by § 47-392.02(f), that exceed the local revenue incorporated in the approved budget and financial plan for that year shall be used to continue implementation of the TRC Act according to the priority set forth in subsection (c) of this section for taxable years beginning or deaths occurring, as applicable, after December 31 of the year of the applicable February estimate.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-181_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The tax reform provisions of this section shall be implemented in the following priority:</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-181_d">
+      <akn:num>(d)</akn:num>
+      <akn:content><akn:p>Unfunded provisions of the TRC Act shall not apply until their fiscal effect is provided for pursuant to this section.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_47-181_e">
+      <akn:num>(e)</akn:num>
+      <akn:content><akn:p>The cost of the tax policy reforms authorized by subsections (a) and (b) of this section shall be recalculated on an annual basis and reported in each February revenue estimate.</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

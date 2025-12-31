@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/4-505"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/4-505/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_4_505">
+        <akn:num>4-505</akn:num>
+        <akn:heading>Crime Victims Compensation Appeals Board; establishment; membership; duties.</akn:heading>
+<akn:subsection eId="subsec_4-505_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>A Crime Victims Compensation Appeals Board (“Board”) is established in the Court. The Chief Judge shall appoint 5 members to the Board from among the membership of the Commission. Board members shall serve at the Chief Judge’s pleasure, reflect a variety of disciplines, and include at least 1 attorney. The Chief Judge shall designate 1 member to serve as the Board’s Chairperson, and may appoint qualified members of the Commission to serve as alternates on the Board when Board members are not available.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-505_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p>Board members shall serve without compensation but may receive reimbursement for expenses in a manner and amount to be determined by the Court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_4-505_c">
+      <akn:num>(c)</akn:num>
+      <akn:content><akn:p>The Board shall meet at least quarterly to hear appeals in contested cases as provided in § 4-517(d).</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

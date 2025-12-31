@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/28-5205"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/28-5205/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_28_5205">
+        <akn:num>28-5205</akn:num>
+        <akn:heading>Exemptions.</akn:heading>
+<akn:subsection eId="subsec_28-5205_1">
+      <akn:num>(1)</akn:num>
+      <akn:content><akn:p>Prepackaged food that contains separately identifiable items that are separated by physical division within the package;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5205_2">
+      <akn:num>(2)</akn:num>
+      <akn:content><akn:p>Any item sold only by prescription;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5205_3">
+      <akn:num>(3)</akn:num>
+      <akn:content><akn:p>Any item subject to the packaging or labeling requirements of the federal Bureau of Alcohol, Tobacco and Firearms or to any pricing requirements under federal law;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5205_4">
+      <akn:num>(4)</akn:num>
+      <akn:content><akn:p>Any item actually being sold through a vending machine;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5205_5">
+      <akn:num>(5)</akn:num>
+      <akn:content><akn:p>Any item delivered directly to a retail sales agency without passing through warehousing or other inventory facility used by the agency;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5205_6">
+      <akn:num>(6)</akn:num>
+      <akn:content><akn:p>Commodities packaged in quantities of less than 28 grams (one ounce) or 29 milliliters (one fluid ounce) or when the total retail price is 50 cents or less;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5205_7">
+      <akn:num>(7)</akn:num>
+      <akn:content><akn:p>When only one brand of a particular commodity in only one size is offered for sale in a particular retail establishment;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5205_8">
+      <akn:num>(8)</akn:num>
+      <akn:content><akn:p>Variety packages;</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5205_9">
+      <akn:num>(9)</akn:num>
+      <akn:content><akn:p>Combination packages; or</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_28-5205_10">
+      <akn:num>(10)</akn:num>
+      <akn:content><akn:p>A person with less than $30 million in gross volume of sales of consumer commodities and to whom at least one of the following applies:</akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

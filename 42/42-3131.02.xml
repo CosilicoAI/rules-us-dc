@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="dc-code">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3131.02"/>
+          <akn:FRBRdate date="2025-12-31" name="retrieval"/>
+          <akn:FRBRauthor href="#dc-council"/>
+          <akn:FRBRcountry value="us-dc"/>
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRuri value="/akn/us-dc/code/42-3131.02/eng@2025"/>
+          <akn:FRBRdate date="2025-12-31"/>
+          <akn:FRBRauthor href="#cosilico"/>
+          <akn:FRBRlanguage language="en"/>
+        </akn:FRBRExpression>
+      </akn:identification>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_42_3131_02">
+        <akn:num>42-3131.02</akn:num>
+        <akn:heading>Inspection of buildings for violative conditions; interference with inspection.</akn:heading>
+<akn:subsection eId="subsec_42-3131_02_a">
+      <akn:num>(a)</akn:num>
+      <akn:content><akn:p>For the purpose of carrying into effect § 42-3131.01, the Mayor of the District of Columbia and all other persons, including contractors and employees of contractors acting under his authority or by his direction, are authorized to enter upon and into any lands and tenements in said District, during all reasonable hours, to inspect the same and to do whatever may be necessary to correct, in a good and workmanlike manner, any condition that exists on or has arisen from such lands or tenements in violation of law or of any regulation made by authority of law, with the correction of which condition the owner of said lands or tenements is by law or such regulation chargeable. Any person who shall hinder, interfere with, or prevent any inspection or work authorized by this subchapter shall, upon conviction thereof, be punished by a fine not exceeding $100 or by imprisonment for a period not exceeding 3 months, or by both such fine and imprisonment, in the discretion of the court.</akn:p></akn:content>
+    </akn:subsection><akn:subsection eId="subsec_42-3131_02_b">
+      <akn:num>(b)</akn:num>
+      <akn:content><akn:p></akn:p></akn:content>
+    </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>
